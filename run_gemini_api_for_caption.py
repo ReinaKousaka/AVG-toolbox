@@ -7,6 +7,9 @@ The script uses backoff to handle it
 Setup:
 pip install -U -q "google-genai"
 pip install backoff
+
+Example Usage:
+time python run_gemini_api_for_caption --snippet_length 128 --frame_gap 16 --video_dir some_dir --output_dir result_dir
 """
 
 import argparse
