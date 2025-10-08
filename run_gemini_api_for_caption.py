@@ -25,10 +25,8 @@ import json, re
 from google import genai
 from google.genai import types
 
-# from google.api_core.exceptions import GoogleAPIError
 
-
-# FILL THIS
+# FILL THIS CONFIDENTIAL KEY! Better to use env variable by:
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
 
 parser = argparse.ArgumentParser()
@@ -58,10 +56,6 @@ logging.basicConfig(
     datefmt="%H:%M:%S",
 )
 logger = logging.getLogger(__name__)
-
-# CONFIDENTIAL KEY! Better to use env variable by:
-# export GEMINI_API_KEY="XYZ"
-# client = genai.Client(api_key=api_key)
 
 
 def _format(number: int) -> str:
