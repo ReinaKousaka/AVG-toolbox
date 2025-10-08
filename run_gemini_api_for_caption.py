@@ -239,18 +239,3 @@ if __name__ == "__main__":
             else:  # folder of frames
                 process_image_folder(str(filepath), output_file)
 
-    # for filepath in tqdm(filepaths):
-    #     relative_path = filepath.relative_to(input_path)
-    #     output_filename = f"{filepath.stem}.txt"
-    #     output_path = Path(OUTPUT_DIR) / relative_path.parent / output_filename
-    #     output_path.parent.mkdir(parents=True, exist_ok=True)
-    #     if output_path.exists():
-    #         logger.warning(f"{output_path.name} exists, skip")
-    #         continue
-
-    #     with open(output_path, 'a+') as output_file:
-    #         process_video_pyav(
-    #             input_dir=str(filepath.parent),
-    #             filename=filepath.name,
-    #             output_file=output_file
-    #         )
