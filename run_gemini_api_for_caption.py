@@ -21,20 +21,28 @@ import logging
 import backoff
 import cv2
 import av  # for .hevc
-
+import json, re
 from google import genai
 from google.genai import types
+
 # from google.api_core.exceptions import GoogleAPIError
 
 
 # FILL THIS
-api_key = "YOUR_GEMINI_API_KEY_HERE"
+GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
 
 parser = argparse.ArgumentParser()
-parser.add_argument("--snippet_length", type=int, default=96, help="snippet length of subvideo to caption")
+parser.add_argument(
+    "--snippet_length",
+    type=int,
+    default=96,
+    help="snippet length of subvideo to caption",
+)
 parser.add_argument("--frame_gap", type=int, default=16, help="frame gap to feed")
-parser.add_argument("--video_dir", type=str, default="", help="input path of video")
-parser.add_argument("--output_dir", type=str, default="caption-gemini-out", help="output path")
+parser.add_argument("--video_dir", type=str, default="vids", help="input path of video")
+parser.add_argument(
+    "--output_dir", type=str, default="caption-gemini-out", help="output path"
+)
 
 args = parser.parse_args()
 SNIPPET_LENGTH = args.snippet_length
@@ -44,11 +52,10 @@ OUTPUT_DIR = args.output_dir
 assert SNIPPET_LENGTH % FRMAE_GAP == 0
 
 
-
 logging.basicConfig(
     level=logging.INFO,  # mute Google's DEBUG level messages
-    format='[%(asctime)s] - %(levelname)s: %(message)s',
-    datefmt='%H:%M:%S'
+    format="[%(asctime)s] - %(levelname)s: %(message)s",
+    datefmt="%H:%M:%S",
 )
 logger = logging.getLogger(__name__)
 
@@ -63,41 +70,45 @@ def _format(number: int) -> str:
 
 def backoff_logger(details):
     """logger for backoff"""
-    tries = details['tries']
+    tries = details["tries"]
     if tries < 5:
-        logger.info(f'Retry {tries} times')
+        logger.info(f"Retry {tries} times")
     else:
-        logger.warning(f'Retry {tries} times')
+        logger.warning(f"Retry {tries} times")
+
 
 # wrapper to retry on failures
 @backoff.on_exception(
     backoff.constant,
     Exception,
-    interval=60*20,  # retry every 20mins
-    on_backoff=backoff_logger
+    interval=60 * 20,  # retry every 20mins
+    on_backoff=backoff_logger,
 )
 def send_gemini_request(images):
     contents = [
         """
-        First, describe the first frame with all visible objects and their spatial positions relative to the viewer. After this, insert the marker 'end of description'. Next, describe dynamic changes and newly revealed objects or scenes in the following frames, always specifying their spatial positions relative to the first-frame viewpoint (e.g., behind the viewer, to the left, inside a container). Ensure the descriptions are chronologically ordered, in less than 6 sentences.
+        You are a precise and concise first-person video scene narrator.
+        [first]: describe the first frame with all visible objects and their spatial positions relative to the viewer.
+        [remaining]: describe dynamic changes and newly revealed objects or scenes in the following frames, always specifying their spatial positions relative to the first-frame viewpoint (e.g., behind the viewer, to the left, inside a container).
+        Ensure descriptions are chronologically ordered, accurate, information-rich, and less than 6 sentences.
+        Return the descriptions in the format below: {"first": "...", "remaining": "..." }. Respond **only** with a valid JSON object that can be parsed by Python's `json.loads`. Do not format into Markdown code blocks. Your response must start with `{` and end with `}`.
         """
     ]
     for image in images:
-        contents.append(types.Part.from_bytes(data=image, mime_type='image/jpeg')) # type: ignore
+        contents.append(types.Part.from_bytes(data=image, mime_type="image/jpeg"))  # type: ignore
     try:
-        with genai.Client(api_key=api_key) as client:
-            response = client.models.generate_content(
-                model='gemini-2.5-flash',
-                contents=contents # type: ignore
-            )
+        client = genai.Client(api_key=GEMINI_API_KEY)
+        response = client.models.generate_content(
+            model="gemini-2.5-flash", contents=contents  # type: ignore
+        )
     except Exception as ex:
-        logger.error(f'catch exception: {ex}')
+        logger.error(f"catch exception: {ex}")
         raise ex
     return response.text
 
 
 def compress_frame(img, target_width=None, target_height=None, jpeg_quality=80):
-    """ resize and compress an image to reduce size.
+    """resize and compress an image to reduce size.
     Args:
         img (np.ndarray): Input BGR image (from OpenCV).
         target_width (int or None): Desired width. If None, auto-scale from height.
@@ -129,7 +140,7 @@ def compress_frame(img, target_width=None, target_height=None, jpeg_quality=80):
 def process_video_pyav(input_dir, filename, output_file):
     container = av.open(
         os.path.join(input_dir, filename),
-        format='hevc' if filename.lower().endswith(".hevc") else None
+        format="hevc" if filename.lower().endswith(".hevc") else None,
     )
     stream = container.streams.video[0]
     start_frame_idx = 0
@@ -137,38 +148,70 @@ def process_video_pyav(input_dir, filename, output_file):
     base64_frames = []
     local_frame_idx = 0
     frame_cnter = 0
+    jsons = {}
     for frame_idx, frame in enumerate(container.decode(stream)):
         frame_cnter += 1
         # read one frame each time
         assert frame_idx >= start_frame_idx and frame_idx <= end_frame_idx
         if local_frame_idx % FRMAE_GAP == 0:
-            img = frame.to_ndarray(format='bgr24')
+            img = frame.to_ndarray(format="bgr24")
             _, buffer = cv2.imencode(".jpg", img)
             # base64_frames.append(base64.b64encode(buffer).decode("utf-8"))
-            base64_frames.append(compress_frame(img, target_width=512, target_height=288))
+            base64_frames.append(
+                compress_frame(img, target_width=512, target_height=288)
+            )
         local_frame_idx += 1
-        
+
         # hit the end
         if frame_idx == end_frame_idx:
             # (N + 1) images in total
             assert len(base64_frames) == SNIPPET_LENGTH / FRMAE_GAP + 1
             # request & response, write
-            logger.info(f"start generating captions for {filename}, frame: {start_frame_idx} ~ {end_frame_idx}")
+            logger.info(
+                f"start generating captions for {filename}, frame: {start_frame_idx} ~ {end_frame_idx}"
+            )
             caption = send_gemini_request(base64_frames)
-            logger.info(f"finished generating captions for {filename}, frame: {start_frame_idx} ~ {end_frame_idx}")
-            output_file.write(f"{_format(start_frame_idx)}-{_format(end_frame_idx)}:\n{caption}\n")
+            logger.info(
+                f"finished generating captions for {filename}, frame: {start_frame_idx} ~ {end_frame_idx}"
+            )
+            output_file.write(
+                f"{_format(start_frame_idx)}-{_format(end_frame_idx)}:\n{caption}\n"
+            )
+            try:
 
+                caption = json.loads(caption)
+            except json.JSONDecodeError:
+                # try to fix common issues using regex
+                caption = re.sub(r",\s*}", "}", caption)  # remove trailing commas
+                caption = re.sub(r",\s*]", "]", caption)  # remove trailing commas
+                caption = re.sub(r"(\w+):", r'"\1":', caption)  # quote keys
+                caption = re.sub(r"'", '"', caption)  # convert single to double quotes
+                try:
+                    caption = json.loads(caption)
+                except json.JSONDecodeError:
+                    logger.error(
+                        f"Failed to parse JSON after fixes for frames {start_frame_idx}-{end_frame_idx} in {filename}. Raw response: {caption}"
+                    )
+                    caption = caption
+
+            jsons[f"{_format(start_frame_idx)}-{_format(end_frame_idx)}"] = caption
             # move pointers
             start_frame_idx = end_frame_idx
             end_frame_idx += SNIPPET_LENGTH
             base64_frames = [base64_frames[-1]]  # carry over last frame
             local_frame_idx = 1  # already has 1 frame
+    with open(os.path.join(OUTPUT_DIR, f"{filename.split('.')[0]}.json"), "w") as f:
+        json.dump(jsons, f, indent=4)
     container.close()
-    logger.info(f"finished extracting frames from {filename}, which has {frame_cnter} frames")
+    logger.info(
+        f"finished extracting frames from {filename}, which has {frame_cnter} frames"
+    )
 
 
 def process_image_folder(folder_path, output_file):
-    frames = sorted([p for p in Path(folder_path).glob("*") if p.suffix.lower() in image_exts])
+    frames = sorted(
+        [p for p in Path(folder_path).glob("*") if p.suffix.lower() in image_exts]
+    )
     start_frame_idx = 0
     end_frame_idx = SNIPPET_LENGTH
     base64_frames = []
@@ -186,24 +229,34 @@ def process_image_folder(folder_path, output_file):
 
         if frame_idx == end_frame_idx:
             assert len(base64_frames) == SNIPPET_LENGTH / FRMAE_GAP + 1
-            logger.info(f"start generating captions for {folder_path}, frame: {start_frame_idx} ~ {end_frame_idx}")
+            logger.info(
+                f"start generating captions for {folder_path}, frame: {start_frame_idx} ~ {end_frame_idx}"
+            )
             caption = send_gemini_request(base64_frames)
-            logger.info(f"finished generating captions for {folder_path}, frame: {start_frame_idx} ~ {end_frame_idx}")
-            output_file.write(f"{_format(start_frame_idx)}-{_format(end_frame_idx)}:\n{caption}\n")
+            logger.info(
+                f"finished generating captions for {folder_path}, frame: {start_frame_idx} ~ {end_frame_idx}"
+            )
+            output_file.write(
+                f"{_format(start_frame_idx)}-{_format(end_frame_idx)}:\n{caption}\n"
+            )
 
             # move window
             start_frame_idx = end_frame_idx
             end_frame_idx += SNIPPET_LENGTH
             base64_frames = [base64_frames[-1]]
             local_frame_idx = 1
-    
-    logger.info(f"finished extracting frames from {folder_path}, which has {frame_cnter} frames")
+
+    logger.info(
+        f"finished extracting frames from {folder_path}, which has {frame_cnter} frames"
+    )
 
 
 if __name__ == "__main__":
     if not os.path.exists(OUTPUT_DIR):
         os.mkdir(OUTPUT_DIR)
-    logger.info(f"Program starts, with snippet length = {SNIPPET_LENGTH}, frame gap = {FRMAE_GAP}")
+    logger.info(
+        f"Program starts, with snippet length = {SNIPPET_LENGTH}, frame gap = {FRMAE_GAP}"
+    )
 
     input_path = Path(INPUT_DIR)
     video_exts = {".mp4", ".hevc"}
@@ -218,8 +271,7 @@ if __name__ == "__main__":
             if any(q.suffix.lower() in image_exts for q in p.iterdir()):
                 filepaths.append(p)
 
-
-    print(f'len(filepaths) = {len(filepaths)}')
+    print(f"len(filepaths) = {len(filepaths)}")
     for filepath in tqdm(filepaths):
         relative_path = filepath.relative_to(input_path)
         output_filename = f"{filepath.stem}.txt"
@@ -229,13 +281,12 @@ if __name__ == "__main__":
             logger.warning(f"{output_path.name} exists, skip")
             continue
 
-        with open(output_path, 'a+') as output_file:
+        with open(output_path, "a+") as output_file:
             if filepath.is_file():  # video
                 process_video_pyav(
                     input_dir=str(filepath.parent),
                     filename=filepath.name,
-                    output_file=output_file
+                    output_file=output_file,
                 )
             else:  # folder of frames
                 process_image_folder(str(filepath), output_file)
-
