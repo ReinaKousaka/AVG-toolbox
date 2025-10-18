@@ -1,0 +1,10 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a dark grey SUV driving away from the viewer in the left lane of a paved road, which has double yellow lines to the left and a white shoulder line to the right. To the viewer's immediate right, a grassy verge leads to rocky hills, while a forested mountain slopes upwards to the left, all under a clear blue sky.
+end of description
+As the viewer moves forward along the right shoulder, the SUV departs from view to the left. The camera advances past a thin dark stake that becomes fully visible on the right verge, and further down the road, a yellow cautionary sign emerges on the right of the continuously approaching viewpoint. The surrounding mountainous landscape steadily recedes, revealing more of the winding road ahead.
+frame_0000000128-frame_0000000256:
+The first frame displays a paved road with double yellow lines and a white shoulder line extending into the distance, framed by a densely forested hillside on the left and a rocky, tan cliff face on the right, all beneath a clear blue sky. end of description. As the viewpoint moves forward along the road, the landscape recedes past the viewer, and a yellow cautionary sign with a curved arrow gradually approaches from the distance and then passes on the right side of the road.
+frame_0000000256-frame_0000000384:
+The first frame presents a straight paved road with a solid white line marking the right shoulder and double yellow lines on the left, leading into the distance under a clear blue sky. A forested mountain rises to the left, while a rugged, rocky tan cliff face with sparse vegetation lines the right, where a yellow road sign featuring a black left-curving arrow is visible further ahead.
+end of description
+As the camera moves forward, the yellow road sign on the right side of the road approaches the viewer, revealing additional text "40 MPH" beneath the curving arrow. It then passes out of frame to the right, behind the first-frame viewpoint. The road and surrounding landscape, including the mountains and cliffs, continuously recede into the distance as the journey progresses.

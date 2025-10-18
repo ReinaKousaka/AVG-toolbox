@@ -1,0 +1,28 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a paved road with a green-striped left lane and a right shoulder, stretching into the distance from the viewer's perspective. Grassy hillsides, dotted with trees on the left and sparse foliage on the right, flank the road, with a small white roadside marker barely visible on the far right. Above, a blue sky with scattered white clouds dominates, while a hazy landscape with distant structures lies at the horizon.
+end of description
+As the frames progress, the viewpoint moves forward along the road, causing the roadside marker on the right to become more prominent and approach the viewer, eventually exiting the frame to the right. Concurrently, a section of exposed rocks at the base of the right hillside gradually becomes visible and moves closer. The distant landscape remains centrally positioned ahead, appearing to draw slightly nearer as the scene advances.
+frame_0000000128-frame_0000000256:
+The first frame shows a two-lane road extending forward under a blue sky with white clouds, bordered by green grassy hills featuring scattered trees and white-and-black road markers on both sides. The road itself has a prominent green median strip and white edge lines, with a distant landscape visible ahead where the road slightly curves.
+end of description
+As the viewpoint advances, the immediate road surface and grassy shoulders continuously move towards and beneath the viewer. Concurrently, trees and road markers on the hillsides progressively emerge closer from the original distant perspective, passing from the mid-ground into the foreground and out of view as the scene unfolds.
+frame_0000000256-frame_0000000384:
+The first frame shows an asphalt road extending directly in front of the viewer, flanked by grassy embankments on the left and right. The road features a green painted line separating lanes on the left and a white line marking the right edge, with white marker posts visible along the right shoulder. Above, a blue sky with white clouds dominates, while distant land is visible straight ahead beyond the converging road.
+end of description
+As the viewpoint progresses forward, the road, its markings, and the grassy embankments with trees on either side move towards and then pass behind the viewer, revealing more of the road ahead and bringing the distant landscape progressively closer.
+frame_0000000384-frame_0000000512:
+The initial frame displays a paved road extending into the distance under a blue sky adorned with white clouds, flanked by a grassy embankment with trees on the left and a rocky, grassy slope on the right. A prominent green lane marking is visible on the road to the left of the viewer's path, and a white-and-black roadside marker is near the bottom right.
+end of description
+As the frames progress, the viewpoint moves forward along the road; the roadside markers on both sides become taller and closer to the viewer, appearing to pass by to the left and right. The green lane and white shoulder line continuously emerge from the bottom of the frame, revealing more of the road ahead, while the distant landscape gradually shifts perspective.
+frame_0000000512-frame_0000000640:
+The first frame depicts a paved road extending into the distance under a blue, cloudy sky, with a green lane strip to the viewer's left bordering an embankment with a line of trees, and a grassy hillside with exposed rock and a prominent tree to the right. A distant town is visible on the horizon in the background.
+end of description
+As the frames progress, the viewpoint moves forward along the road, causing the prominent tree on the right to approach, enlarge, and then pass out of frame to the right. Simultaneously, the left row of trees draws closer, and white marker posts on the right roadside also appear and recede.
+frame_0000000640-frame_0000000768:
+The first frame displays a two-lane road with a green bike lane on the left, curving ahead towards a distant town under a blue sky with scattered white clouds, bordered by grassy hills and trees on both sides, and two reflector posts on the shoulders (one left, one right).
+end of description
+As the viewpoint progresses forward along the road, immediate objects like the initial reflector posts and the tree on the far right recede and move out of view behind the viewer. Concurrently, new sections of the grassy incline on the right, including more rocks, continuously emerge ahead of the viewer before passing by. The road's markings advance beneath the viewer, while the distant town and sky remain generally centered ahead.
+frame_0000000768-frame_0000000896:
+The first frame displays a two-lane asphalt road extending forward under a blue, cloudy sky, featuring a green stripe on the left lane and white lines along the right shoulder, both bordered by grassy verges with white roadside markers. In the mid-distance, green fields and scattered trees lead to a village on the left horizon and a large forested hill on the right, with a faint white vehicle visible far down the left lane.
+end of description
+As the viewpoint progresses, the roadside markers on both sides recede further into the distance relative to the first-frame viewpoint and eventually exit the frame. The distant white vehicle on the left lane also moves further away. A small building appears in the mid-background to the right of the road, approaching closer. Concurrently, the distant village on the left and the large forested hill on the right, initially ahead on the horizon, slowly approach the viewer, appearing larger.

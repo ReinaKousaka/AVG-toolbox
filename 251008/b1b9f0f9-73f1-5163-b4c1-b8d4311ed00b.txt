@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame presents the back of a person in the foreground, with a woman in a red dress walking to the viewer's right and a man in a blue shirt traversing a crosswalk towards the viewer's left, against a backdrop of a green park, a kiosk, a white bus, and a traffic light.
+end of description
+The woman in red moves further to the viewer's right and exits the frame. The man in blue continues walking across the crosswalk from the viewer's right towards the viewer's left. A woman in a purple jumpsuit emerges walking beside him, also moving from the viewer's right across the crosswalk to the viewer's left, eventually exiting the frame along with him beyond the viewer's left.
+frame_0000000128-frame_0000000256:
+The first frame presents a street with a crosswalk directly in front of the viewer, bordered on the right by two partially visible pedestrians and on the left by a traffic light pole displaying green and yellow signals. Beyond the street, a verdant park with abundant trees, including tall palms, extends into the background, featuring a paved pedestrian path and a small green-roofed kiosk to the right of it, where several people are visible.
+end of description
+Subsequently, the two foreground pedestrians move out of frame to the left, while a new woman wearing a red and white striped top enters from the far left and walks right across the crosswalk. Simultaneously, the traffic light transitions from green to yellow, then to red, as other people continue their movement near the kiosk located to the right of the park path.
+frame_0000000256-frame_0000000384:
+The first frame displays a wide paved park pathway leading into a dense treed background. To the far left, the partial back of a person with a red and white striped top and backpack is visible, while on the right, a prominent palm tree partially obscures a green-roofed kiosk with several people near it. A street lamp and a black directional signpost are positioned in the mid-ground, slightly left of the path's center.
+end of description
+The person on the far left of the first frame moves across the path and exits to the right. Subsequently, a blonde woman emerges from behind the viewer's left, walking forward and right across the path past the signpost, as activity around the kiosk continues on the right.

@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a man with his back to the viewer, holding a phone as if taking a photo, standing on a patterned sidewalk. To his left is a gray scooter, and to his right, a row of white square bollards extends forward, bordering a street with distant vehicle lights. Across the street, brightly lit buildings dominate the background under a dark blue sky.
+end of description
+As frames progress, the man slowly walks forward, moving away from the viewer along the sidewalk. The scooter, initially to the viewer's mid-left, gradually disappears from view behind the moving man. The patterned sidewalk and the bollards on the right expand into the foreground, revealing more of the street ahead while the background buildings remain stationary relative to the original viewpoint.

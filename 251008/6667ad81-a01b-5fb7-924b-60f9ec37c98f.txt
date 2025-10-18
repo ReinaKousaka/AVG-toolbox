@@ -1,0 +1,28 @@
+frame_0000000000-frame_0000000128:
+A vibrant city street is viewed from a sidewalk, stretching into the distance under a blue sky. On the left, storefronts with planters and pedestrians line the sidewalk, while a light green bike lane and traffic lanes occupy the center. A white SUV is partially visible on the far right, with numerous parked and moving cars further down the street alongside tall buildings.
+end of description
+A pedestrian in a blue hoodie, initially close on the left sidewalk, walks further away. Simultaneously, the white SUV on the right moves forward, away from the viewer, as a yellow taxi then a black car appear from the mid-ground right and proceed across the frame.
+frame_0000000128-frame_0000000256:
+The first frame captures a sunlit city street looking forward, featuring a sidewalk on the left with pedestrians, storefronts, and a fire escape, while a green bike lane and a street with parked and moving cars occupy the center. Tall modern buildings line the right side of the street, extending into the background where more buildings meet a clear blue sky.
+end of description
+Subsequently, the person in the blue hoodie on the far left walks further away from the viewer, and other pedestrians continue moving down the sidewalk. A cyclist, wearing a backpack, then appears from the lower right and proceeds forward along the bike lane, passing the viewer. Concurrently, vehicles on the street to the right and in the distance subtly shift their positions, with a red car notably moving further into view from the right.
+frame_0000000256-frame_0000000384:
+On a sunny city street, a pedestrian walks towards the viewer on the left sidewalk past buildings with storefronts like "Q NAILS & SPA" and "OLYMPIA DELI." To the right, a cyclist rides away in a green bike lane beside a road featuring a dark SUV and other vehicles, all overlooked by towering skyscrapers.
+end of description
+The pedestrian steadily moves closer to the viewer, eventually exiting the frame to the left, while the cyclist continues further down the street. Simultaneously, a white van appears on the rightmost lane of the road, progressing towards and then swiftly past the viewer's perspective.
+frame_0000000384-frame_0000000512:
+The first frame depicts a sunny city street scene; a black fire hydrant stands in the lower foreground on the sidewalk. To the viewer's left, pedestrians walk past storefronts, while to the right, a green bicycle lane borders parked cars, including a dark grey SUV closest to the viewer, all framed by tall city buildings in the distance.
+end of description
+In subsequent frames, the group of pedestrians on the left sidewalk gradually moves closer to the viewer. Concurrently, other individuals further down the sidewalk also show movement, some approaching and some receding, relative to the first-frame viewpoint. The parked cars on the right side of the street, including the dark grey SUV, remain stationary throughout the sequence. Subtle shifts in the shadows on the sidewalk and street are also visible.
+frame_0000000512-frame_0000000640:
+The first frame captures a bright city street scene with a wide sidewalk on the left and a road with parked cars and a green bike lane on the right, all beneath tall buildings. Pedestrians walk on the sidewalk, including two individuals prominently in the foreground left, while a dark SUV is partially visible on the far right of the street.
+end of description
+As the sequence progresses, the two foreground pedestrians walk past the viewer and exit the frame to the left, while other individuals emerge from the background and continue moving along the sidewalk. Concurrently, the dark SUV on the far right moves forward and exits the frame to the right, revealing more of the busy street and stationary vehicles further down the road.
+frame_0000000640-frame_0000000768:
+The first frame captures a city street with two pedestrians walking towards the viewer on the left sidewalk, a man with a suitcase and a woman with a mask and backpack. To their left are storefronts like 'SUMAC' and tall buildings, while to the right, a green bicycle lane runs parallel to a street with parked and moving cars, all beneath towering skyscrapers.
+end of description
+The initial pedestrians exit to the viewer's left, revealing more of the street pole and sidewalk. Concurrently, a person on a bicycle enters from the bottom right, moving away from the viewer along the green bicycle lane, progressing past the stationary parked cars.
+frame_0000000768-frame_0000000896:
+The first frame captures a sunlit city street from a sidewalk perspective. To the left, a storefront with a wooden planter is in the immediate foreground, followed by a concrete sidewalk with pedestrians and other businesses lining the street. A black parking meter with a blue 'P' sign stands in the center-left foreground. On the right, a green-painted bike lane runs parallel to the sidewalk, with a light-colored car parked closest to the viewer, followed by a dark SUV, and a person riding a bicycle further down the lane. Tall buildings dominate the midground and background on both sides of the street under a clear blue sky.
+end of description
+As the frames progress, the viewpoint subtly shifts forward along the sidewalk. The person on the bicycle moves further away down the green bike lane, gradually receding into the midground. The light-colored car on the right also recedes slightly, while pedestrians on the left sidewalk continue their forward movement, revealing more of the streetscape ahead.

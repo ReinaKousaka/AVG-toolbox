@@ -1,0 +1,6 @@
+frame_0000000000-frame_0000000128:
+In the first frame, a person wearing a grey hoodie and dark pants walks away from the viewer in the lower-left foreground on a paved path. To the left of the path, a black metal fence separates it from a dense area of green bushes and trees, including weeping willows. To the right, a wide grassy area features several large trees, with a small wooden hut visible further ahead in the mid-ground right. The sun shines brightly from the upper-center right, casting light and lens flare over the scene, which also includes on-screen data overlays for distance, speed, and time.
+
+end of description
+
+As the frames progress, the viewer moves forward along the path; the person initially in the foreground walks further away relative to the first-frame viewpoint and eventually exits the frame to the left. The wooden hut, previously in the mid-ground right of the first frame, appears increasingly closer and shifts towards the center-right of the evolving view. The path continues ahead, and the trees and grassy areas that were in the distance of the initial frame become nearer.

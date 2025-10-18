@@ -1,0 +1,19 @@
+frame_0000000000-frame_0000000128:
+The initial frame presents a grand church interior with a checkered black and white floor leading into the depth of the space. To the far left stands a statue of Jesus in blue and red robes on an ornate pedestal, beneath a large, framed painting on the wall. In the midground, a gilded lectern rests on a red base, while to the right, a red-carpeted raised area with carved wooden panels extends along the wall, bordered by a colorful marble railing in the foreground.
+
+end of description
+Throughout the subsequent frames, the camera smoothly dollies forward, causing all visible objects to progressively enlarge and draw nearer to the viewer. This forward motion subtly shifts the composition, making the gilded lectern appear more central and revealing increased detail on the ornate walls and distant altar.
+frame_0000000128-frame_0000000256:
+The first frame captures a richly decorated church interior, with a golden ornate lectern in the immediate foreground, a statue of Jesus on an altar to the viewer's left, and a marble balustrade with ornate wooden paneling on the right, all resting on a checkered floor leading to large paintings in the background.
+end of description
+Subsequently, the viewer moves forward into the church, causing all visible elements to recede, shrink, and shift perspective, simultaneously revealing a new wooden stand with lit candles in the mid-ground, positioned slightly to the right of the central painting and behind the lectern's initial location.
+frame_0000000256-frame_0000000384:
+A grand church interior is visible, featuring a black and white checkered floor extending into the mid-ground. To the far left, a statue of Jesus in red and blue robes stands on a pedestal next to an ornate altar with several golden candlesticks and a crucifix, behind which a large, gold-framed painting depicting a multitude of figures adorns the wall. In the mid-ground right, a small wooden stand with lit candles sits before another elaborate marble altar, topped by a religious painting. A golden, cherub-decorated lectern is partially visible on the far right, near a richly decorated marble column.
+end of description
+The camera slowly pans right, causing the golden lectern to move further out of frame on the right. Simultaneously, more of the ornate marble column on the far right becomes visible, along with a newly revealed dark wall sconce. The altar with the lit candles shifts more towards the center of the frame, while the statue of Jesus and the large painting on the left gradually move towards the left edge of the view.
+frame_0000000384-frame_0000000512:
+In the first frame, the viewer faces a richly decorated interior, likely a church. A black and white checkered marble floor extends from the foreground towards the back. To the right, a wooden stand with numerous lit candles rests on the floor. To the left, a marble balustrade with intricate carvings is visible. In the midground, two large, ornate columns with colorful marble patterns frame a dark green door positioned slightly left of center. Behind the candles, an altar area is seen with a painting of Mary and Jesus above it. Large religious paintings adorn the walls to the far left and center-back, and a wall sconce is visible on the far right.
+
+end of description
+
+No dynamic changes or newly revealed objects occur in the subsequent frames; all elements remain static relative to the first-frame viewpoint.

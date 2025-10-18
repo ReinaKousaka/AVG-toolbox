@@ -1,0 +1,28 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a sandy path receding from the viewer, bordered by tall, dry grass. A reddish pole stands in the mid-ground along the path, with distant green hills and a cloudy blue sky beyond it. Digital overlays on the bottom left show a distance '0.9 mi' with a bar graph, while the bottom right displays '+4°', '4 mph', and '10:58'.
+end of description
+The viewer moves forward along the path; the foreground grass and path sections pass by and recede. The reddish pole in the mid-ground appears slightly closer as the camera advances. Concurrently, the speed display changes from '4 mph' to '3 mph', and the timestamp updates from '10:58' to '11:00'.
+frame_0000000128-frame_0000000256:
+The first frame displays a narrow sandy path receding away from the viewer into the midground, framed on both sides by dense, tall, dry grass creating dune-like embankments. A reddish-brown wooden post is visible above the tall grass on the left side of the path in the midground, with a partially cloudy blue sky and distant hills along the horizon. Digital overlay information showing '0.9 mi' is on the far left, while '+4°', '3 mph', and '11:00' are displayed on the bottom right relative to the viewer's field of view.
+end of description
+As the viewpoint subtly progresses forward along the path, the foreground and midground tall grass gently shifts, indicating slight movement. The digital time indicator in the bottom right corner consistently advances from '11:00' to '11:02'. No new objects or scenes are revealed, but the path ahead gradually appears closer to the viewer.
+frame_0000000256-frame_0000000384:
+The first frame displays a narrow dirt path winding between tall, dry grasses on sand dunes, extending towards distant hills under a partly cloudy sky. An orange pole is partially visible in the upper left, while on-screen data shows "0.9 mi" on the bottom left and "3 mph" with "11:02" on the bottom right.
+end of description
+As the viewer moves forward along the path, the foreground grass shifts, and the orange pole to the left is passed, with its top moving out of frame relative to the initial viewpoint. The displayed speed increases to "4 mph," and the time advances to "11:04."
+frame_0000000384-frame_0000000512:
+The first frame displays a sandy path winding forward through dense, dry grasses on both sides, with vegetated hills rising in the background under a partly cloudy sky; a HUD shows "0.9 mi" on the bottom left and "4 mph" with "11:04" on the bottom right.
+end of description
+As the camera moves forward along the path, the foreground grasses on either side shift past the viewer. A bare sand dune to the left of the path, deeper in the midground from the initial viewpoint, becomes increasingly visible. The time displayed on the bottom right of the HUD advances from 11:04 to 11:06.
+frame_0000000512-frame_0000000640:
+The first frame displays a narrow sandy path stretching forward, flanked by dry, tall grasses that fill the foreground and mid-ground. To the left, a sandy dune slopes upward, while distant vegetated hills rise to the right under a partly cloudy sky. On-screen data in the bottom left shows "0.9 mi" with a vertical scale, and the bottom right displays "+4°", "4 mph", and "11:06".
+end of description
+As the viewpoint moves forward along the sandy path, the foreground grasses and path subtly shift, creating a sense of progression through the existing landscape. The time display in the bottom right chronologically updates from 11:06 to 11:08, while other data like distance and speed remain constant. No new objects or scenes are revealed; the motion is simply a steady advance deeper into the same dune environment.
+frame_0000000640-frame_0000000768:
+The first frame shows a sandy path extending from the bottom center into the middle distance, flanked by tall, dry dune grasses dominating the immediate foreground and sides. Beyond the path, more undulating sand dunes and vegetated hills rise, with a larger green-brown hill in the far background to the right under a partly cloudy blue sky. Overlays display "0.9 mi" on the bottom left, and "+4°", "4 mph", and "11:08" on the bottom right.
+end of description
+As the frames progress, the viewpoint moves forward along the sandy path, causing the foreground grasses and the path itself to shift closer to the viewer. The distant sandy dunes and hills also appear to advance towards the viewer's perspective. The time overlay incrementally changes from 11:08 to 11:10, and the angle shifts from +4° to +5° by the fourth frame, while the speed and distance indicators remain constant.
+frame_0000000768-frame_0000000896:
+The first frame shows the viewer standing on a sandy path, with tall, dry grass lining both sides, extending into the foreground and mid-ground. Ahead, the path leads towards a prominent light-colored sand dune, flanked by darker, vegetated hills and dunes receding into the distance. A partly cloudy sky is visible above, along with digital overlays indicating "0.9 mi" to the bottom left, and "4 mph" and "11:10" to the bottom right.
+end of description
+Subsequent frames reveal a subtle forward progression along the path, causing the foreground grass and sandy path to incrementally shift away from the first-frame viewpoint. The distant dunes and hills remain largely in their positions relative to the viewer, while the digital timestamp consistently advances from 11:10 to 11:13 across the sequence.

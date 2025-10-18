@@ -1,0 +1,29 @@
+frame_0000000000-frame_0000000128:
+The first frame shows an asphalt road curving right into the distance on the right, with a white line and a red reflector on its shoulder. To the left, a body of water is bordered by a grassy bank and a stone wall, behind which rolling green hills dotted with trees rise under a cloudy blue sky.
+end of description
+As the frames progress, the viewpoint moves forward along the road. The red reflector in the foreground moves out of view to the left, while the utility pole on the right approaches and passes, followed by another pole appearing further ahead. The water, bank, and hills on the left recede as the scene continuously scrolls past the viewer.
+frame_0000000128-frame_0000000256:
+The first frame displays a paved road curving gently to the right in the foreground, with a solid white line on its right edge. To the road's left is a gravel path alongside a calm body of water that reflects the sky. Across the water, distant green rolling hills are visible on the left, and a small white building with a dock extends from the water's edge into the mid-left. On the right, a steep, tree-covered hillside with exposed reddish-brown earth rises next to the road, featuring a white utility pole in the upper-right.
+
+end of description
+As the frames advance, the viewpoint moves forward along the curving road, shifting closer to the landscape. The white utility pole, initially in the upper-right, moves progressively closer, then descends and passes to the right and behind the original viewpoint. Simultaneously, the small white building and dock on the water's edge, first seen in the mid-left, approaches and drifts leftward, eventually receding behind the initial viewpoint's left side. The road and hillside ahead (to the right and forward of the initial viewpoint) are continuously revealed.
+frame_0000000256-frame_0000000384:
+The first frame depicts a wide paved road in the foreground, featuring a solid white line on its left edge and gently curving towards the right. To the left of the road and a paved shoulder lies a grassy bank descending to a calm body of water, which reflects the sky; further left, a white building on stilts sits on the water, backed by rolling green hills in the distance. To the right of the road, a steep hillside covered in grass, scattered trees, and patches of reddish soil rises, with a fence visible along its base. Above, a blue sky with sparse white clouds completes the scene.
+end of description
+The subsequent frames reveal no dynamic changes or newly revealed objects or scenes; the entire landscape, including the road, water, hills, and all structures, remains static in its original spatial positions relative to the first-frame viewpoint across the sequence.
+frame_0000000384-frame_0000000512:
+The first frame depicts a paved road curving right, with a gravel shoulder to its left bordering a tranquil body of water. Across the water, distant green hills and a small white building on stilts are visible, while on the right, a steep, tree-dotted grassy hillside rises with a utility pole and fence posts.
+end of description
+The viewpoint steadily moves forward along the road, causing the small building and utility pole to recede into the distance relative to the viewer's original position. A red reflective marker appears ahead on the white line dividing the road and shoulder in the mid-ground (frame 8), then passes to the left and moves behind the viewer's original position (frame 9).
+frame_0000000512-frame_0000000640:
+In the first frame, a paved road curves to the right directly in front of the viewer, flanked on its left by a grassy shoulder bordering a body of water with distant hills and small white buildings. To the right, a steep, grassy hillside rises, featuring a utility pole and scattered trees.
+end of description
+As the viewpoint progresses, the utility pole on the right gradually moves towards the viewer's front-right, then past the viewer's right, eventually exiting the frame. Concurrently, the small white buildings on the water to the left become more prominent before receding towards the viewer's left as the road ahead unfolds.
+frame_0000000640-frame_0000000768:
+First, a paved road stretches ahead, curving right, with a grassy shoulder on its left leading to a calm body of water. Across the water, distant green hills and a small white boat shed are visible, while to the right, a steep grassy hillside with scattered trees and a power pole borders the road.
+end of description
+As the frames progress, the viewpoint moves forward along the road, causing the initial power pole on the right and a red road marker on the left shoulder to advance towards and then pass the viewer's original position. Simultaneously, new sections of the curving road ahead, the water's edge, and the hillside's contours further down the path are continuously revealed, expanding the observable scenery relative to the first frame.
+frame_0000000768-frame_0000000896:
+The first frame presents a paved road extending forward from the viewer, bordered on the left by a grassy shoulder next to a calm body of water, and on the right by a steep, tree-covered hillside. In the midground to the left, a small white building sits by the water's edge, while distant green hills rise under a partly cloudy sky in the background.
+end of description
+As the frames progress, the viewpoint steadily moves forward along the road. The roadside grass and the water on the left, along with the white building, gradually recede into the background. Simultaneously, the steep hillside and trees on the right also shift backward, revealing more of the curving road ahead. The white road markers in the asphalt move from the midground towards the foreground and then out of view, indicating continuous forward motion through the unchanging natural landscape.

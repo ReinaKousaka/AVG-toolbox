@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a bustling pedestrian street flanked by multi-story buildings housing shops on both sides, all under a clear blue sky. In the near-left foreground, two women stand chatting, while further right, two other women walk past a black lamppost and a unique, multi-domed building. The paved street extends into the distance, populated by numerous people.
+end of description
+Subsequently, the two women on the left subtly shift their positions slightly leftward, while the pair walking on the right continues moving forward and drifts slightly towards the right. Simultaneously, a person on a mobility scooter emerges from behind the lamppost on the right, proceeding further down the street away from the viewer.
+frame_0000000128-frame_0000000256:
+The first frame depicts a wide cobblestone street extending into the distance, flanked by multi-story buildings housing shops and cafes on both sides, with several pedestrians visible in the mid-ground and a smiling woman partially in the bottom-left foreground.
+end of description
+The woman in the foreground moves out of frame to the left. A man then appears seated on a chair at the far left of the street, while a person on a white scooter moves further away along the right side of the street from its initial mid-right position. The two women in the mid-right continue walking away from the viewer, and a manhole cover is subsequently revealed in the mid-foreground of the cobblestone street.
+frame_0000000256-frame_0000000384:
+The first frame displays a bustling pedestrian street flanked by buildings under a clear blue sky. To the left, shops like 'SHOES' line a light-colored building, with an outdoor cafe and a prominent black lamppost in the foreground. To the right, buildings with domed roofs host more shops, and a scooter is parked near the edge, while numerous people walk down the cobblestone street into the distance.
+end of description
+A couple, initially walking in the mid-ground on the central path, moves closer to the viewer across subsequent frames, with the man holding something to his mouth as they advance. They continue to walk past the viewer, eventually exiting the frame to the immediate left. Other pedestrians further down the street and those seated at the outdoor cafe on the left remain, continuing their activities in their original spatial positions.

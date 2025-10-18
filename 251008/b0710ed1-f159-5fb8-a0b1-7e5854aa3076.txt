@@ -1,0 +1,16 @@
+frame_0000000000-frame_0000000128:
+A paved walkway extends forward from the viewer, bordered by a modern building with large glass windows and pillars to the left, where benches are also visible. To the right, a metal railing separates the walkway from a body of water, beyond which lies a treed shoreline with distant mountains under a clear sky; people are visible walking along the path towards a glass pedestrian bridge in the mid-distance.
+end of description
+The camera slowly moves forward along the walkway, causing the building and benches on the left to gradually appear closer to the foreground. This forward progression reveals more of the path ahead while the people on the walkway slowly recede further into the distance from the initial viewpoint. The perspective on the water, shoreline, and mountains to the right subtly shifts as the viewpoint advances.
+frame_0000000128-frame_0000000256:
+In the first frame, a paved pedestrian walkway extends directly ahead of the viewer, flanked on the left by a modern building with large glass windows and concrete pillars. To the right, a metal railing overlooks a body of water with docks and boats, while a treeline with autumn foliage and mountains define the distant background under a clear sky.
+
+end of description
+
+As the frames progress, the viewpoint steadily moves forward along the walkway. Objects on the path, such as the initial concrete bench to the viewer's left and a small group of people further ahead, advance towards and then past the viewer's position, revealing more of the path beyond. The railing on the right side also continuously shifts backward as the viewer progresses, creating a sense of forward motion through the scene.
+frame_0000000256-frame_0000000384:
+The first frame displays the viewer on a paved outdoor walkway, with a modern glass-facade building to the left and a body of water with boats and distant mountains to the right, separated by a railing. Several people walk ahead on the path, passing two concrete benches to the left and a distant glass pedestrian bridge over the water.
+
+end of description
+
+As the frames progress, the camera moves steadily forward along the walkway. The concrete benches, initially to the left, pass out of view behind the viewer's advancing position. Simultaneously, people on the path ahead continue their movement forward, and new sections of the walkway and water ahead are revealed.

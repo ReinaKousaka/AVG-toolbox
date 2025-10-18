@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame captures an evening street scene, with outdoor dining tables under light-strung awnings visible to the left, extending into the background. On the right, illuminated shop facades, including a prominent "CANNABIS STORE AMSTERDAM," line the street. A woman in a beige coat with a black bag walks away from the viewer in the foreground-right, followed by a man in a dark jacket and other pedestrians further down the narrow, bustling street.
+end of description
+As the viewpoint subtly progresses forward, the woman in the beige coat moves further away to the right. Subsequently, several more pedestrians, many wearing face masks, emerge from behind the initial woman and populate the mid-ground, walking forward along the street. The vibrant outdoor dining area and storefronts continuously appear to the left and right, respectively, as the perspective shifts slightly into the lively street.
+frame_0000000128-frame_0000000256:
+The first frame shows a bustling nighttime street scene, viewed from behind a person in a light brown coat, holding a black bag, walking forward. To the viewer's left, an outdoor restaurant terrace with seated patrons and beige umbrellas is visible, while to the right, other pedestrians, some masked, walk past the viewer towards the background.
+end of description
+As the viewpoint progresses, the individuals initially walking past the viewer's right move further into the background, revealing more of the illuminated street ahead. A woman in a pink top and black jacket emerges from the right mid-ground and walks diagonally across the viewer's right, towards the distant background. The outdoor dining areas on both sides of the street become more extensive as new tables and patrons are gradually revealed further down the path, relative to the initial view.
+frame_0000000256-frame_0000000384:
+The first frame captures a bustling narrow street at night, featuring outdoor dining with white-clothed tables, cream umbrellas, and overhead lights. A woman in a beige coat and black purse faces away in the foreground, surrounded by other diners and pedestrians walking amidst illuminated buildings and festive decorations.
+end of description
+As the frames progress, the viewpoint subtly advances through the street. Pedestrians continuously move past, revealing new masked individuals appearing from the center and traversing to the right, while background diners subtly shift left relative to the advancing camera.

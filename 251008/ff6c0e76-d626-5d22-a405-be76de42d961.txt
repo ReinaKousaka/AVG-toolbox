@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a graveyard with a weathered tombstone in the foreground right and a metal bench beside a curving path on the left. A large tree shades the path, behind which a building is visible. Numerous tombstones fill the grassy midground, extending towards a distant fence, trees, and a tall pole against a hazy sky on the right.
+end of description
+The viewpoint subtly moves forward and pans slightly to the right, causing the foreground bench and tombstone to recede and shift out of the frame. This movement reveals more of the expansive graveyard with additional tombstones further to the right and in the middle distance, while the large tree on the left occupies less of the scene.
+frame_0000000128-frame_0000000256:
+The first frame shows a graveyard with numerous weathered gravestones scattered across a green lawn, occupying the middle and right of the scene. A dark paved path curves from the left foreground into the mid-ground, bordered by a grassy slope. A large tree canopy overhangs the upper left, while a stone building and trees are visible in the distant background on the left, and a thin utility pole stands on the far right, all beneath an overcast sky.
+end of description
+There are no dynamic changes or newly revealed objects in the subsequent frames; the scene remains static relative to the first-frame viewpoint.
+frame_0000000256-frame_0000000384:
+In the foreground, a dark path curves along the bottom-left, partially obscured by a large tree branch with dense green foliage extending from the left, overhead across the top third of the frame. The midground features a vast green grassy field dotted with numerous weathered grey tombstones of varying shapes, including upright slabs and one prominent cross, stretching into the distance. In the background, a low stone wall separates the graveyard from distant houses and more trees, with a utility pole visible slightly right of center against an overcast white sky.
+end of description
+Over the subsequent frames, the camera executes a very subtle forward dolly or zoom, accompanied by a slight drift to the right. Consequently, the tombstones and grassy field in the midground gradually appear slightly larger and shift minimally towards the left within the frame. The path in the foreground also becomes slightly more prominent, but no new objects or scenes are revealed from the first-frame viewpoint.

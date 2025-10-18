@@ -1,0 +1,26 @@
+frame_0000000000-frame_0000000128:
+A snow-covered path, partially clear of snow, extends directly away from the viewer into the center of the frame. Snow-laden ground and bare bushes line both sides of the path. To the viewer's right, a corrugated metal fence and a wire mesh structure are visible, bordering the path. To the left, a snow-covered incline rises, dotted with bare trees and dense evergreen trees further back. A dense forest of snow-covered evergreen trees occupies the distant background under an overcast sky.
+end of description
+The camera gradually moves forward along the snowy path, making the immediate surroundings, including the snow-covered banks, the corrugated metal fence, and the wire mesh structure to the right, appear to slowly approach the viewer. The overall snowy landscape, with the evergreen forest in the background, remains consistent, though the perspective subtly shifts as if progressing deeper into the scene.
+frame_0000000128-frame_0000000256:
+A snow-covered, icy path extends from the viewer towards the middle distance, flanked by snow banks. To the left, a snow-laden hillside features bare trees. On the right, a rusty corrugated metal fence runs alongside the path, beyond which a snowy field and netted structures are visible. In the background, a dense forest of snow-covered coniferous trees rises under an overcast sky. A small, blurry dark object is partially visible in the top-left corner.
+end of description
+The subsequent frames reveal no dynamic changes, newly revealed objects, or shifts in spatial positions; the scene remains static throughout.
+frame_0000000256-frame_0000000384:
+The first frame depicts a snowy, winding path receding from the viewer's foreground into the mid-distance. To the left of the path, a snow-covered embankment rises, topped by bare trees heavily laden with snow and darker evergreen trees further back. On the right, a rusty corrugated metal fence topped with wire mesh runs parallel to the path into the distance, behind which lies a flat, snow-covered area. In the background, a dense evergreen forest, also covered in snow, dominates the hillside, with a misty, overcast sky above.
+end of description
+Throughout the subsequent frames, the primary landscape elements including the path, snow-covered hillsides, and the fence remain static. However, a dark, umbrella-like object gradually emerges into the top-left corner of the frame starting from the sixth image, remaining partially visible and slightly shifting in position for the remaining frames, indicating a minor camera adjustment or something held by the viewer. No significant new scenes or objects are revealed in the broader landscape; the changes are limited to this subtle presence in the immediate foreground top-left.
+frame_0000000384-frame_0000000512:
+The first frame displays a snow-covered, icy road extending forward and curving slightly right, with a steep, snow-laden embankment topped by dense evergreen trees to the left. To the right of the road, a low metal fence and netting separate the path from a flat, snow-covered field, all under a uniformly grey, overcast sky. end of description. Subsequent frames reveal no significant dynamic changes or newly revealed objects; the static, snow-blanketed landscape remains fixed in position relative to the initial viewpoint throughout the sequence.
+frame_0000000512-frame_0000000640:
+The first frame displays a snow-covered winter landscape featuring a winding, icy road leading into the distance. To the left, a snow-covered embankment rises towards a dense forest of snow-laden evergreen trees, while a snow-covered field bordered by a mesh fence lies to the right, with distant misty mountains under an overcast sky.
+end of description
+Subsequent frames present an almost identical scene, showing no dynamic changes, movement, or newly revealed objects; the snowy landscape and its elements remain entirely static.
+frame_0000000640-frame_0000000768:
+First, a snow-covered path curves from the foreground towards the middle-distance, flanked by a snowy embankment on the left and a chain-link fence bordering a snow-covered field on the right. Beyond the embankment, a dense, snow-laden evergreen forest lines a hillside, with a few stark white, snow-covered deciduous trees interspersed. The background features distant hills obscured by a hazy, overcast sky.
+end of description
+The static snowy landscape persists across several frames. Subsequently, the top portion of a black umbrella dynamically enters and remains visible in the upper-left quadrant, positioned just above and to the left of the first-frame viewpoint, partially obscuring the forest edge.
+frame_0000000768-frame_0000000896:
+The first frame presents a snow-covered path curving into the midground, flanked by a snowy embankment with dark evergreen trees on the left and a wire fence bordering a snow-covered field on the right. A black umbrella is partially visible in the top-left foreground, while misty, snow-covered hills rise in the distant background.
+end of description
+As the frames progress, the black umbrella slowly recedes upwards and out of view, revealing more of the snowy trees and embankment in the top left, with no other dynamic changes to the scene.

@@ -1,0 +1,13 @@
+frame_0000000000-frame_0000000128:
+A concrete wall and dense green bushes with pink flowers dominate the left foreground, with a brown two-story house featuring a white SUV in its driveway at the midground center. To the right, a paved road recedes past other buildings and a distant person on a bike, all set against a backdrop of green mountains under a clear blue sky.
+end of description
+As the frames progress, the viewpoint subtly shifts forward and to the right relative to the initial position. The dense bushes and concrete wall on the left foreground gradually move out of frame, revealing more of the house's driveway and foundation. This movement also unveils a dark brown garage door and the front of an adjacent house, which were previously obscured to the left of the large green tree. The white SUV remains stationary in the driveway as the scene slightly widens.
+frame_0000000128-frame_0000000256:
+In the first frame, a brown two-story building with a garage and white trim stands left of center, with a white SUV parked in front. A paved road stretches from the right foreground into the distance, bordered by a concrete curb and a grassy area. Lush green mountains dominate the background, and a street light is positioned to the right of the building.
+end of description
+Subsequently, the white SUV reverses and moves to the right of its initial position, driving further down the street and away from the building, revealing more of the street previously obstructed by its rear.
+frame_0000000256-frame_0000000384:
+In the first frame, a white SUV is parked on the lower left, adjacent to a light brown and grey building with windows and a concrete retaining wall. A paved road stretches from the center-right foreground into the distance, flanked by green grass and other buildings. A tall streetlight stands in the midground center, with a large, green mountain dominating the background under a clear blue sky.
+
+end of description
+As the frames progress, the viewpoint moves forward and slightly right along the road. The white SUV gradually exits the scene to the left, revealing more of the building's lower facade and grassy embankment that were previously obscured. A small white sign becomes visible on the streetlight pole, and the distant street and houses on the right are further revealed relative to the initial viewpoint.

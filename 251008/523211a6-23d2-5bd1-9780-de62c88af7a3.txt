@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a wet outdoor parking lot under a downpour, with visible rain streaks across the scene. To the viewer's left, a black car is closest, followed by a grey SUV; to the right, the front of a white car and part of a silver car are visible. In the background, a playground with blue and pink equipment is nestled among trees, with apartment buildings towering above.
+end of description
+Throughout the subsequent frames, the scene remains static with no newly revealed objects or scenes. The only dynamic element is the continuous, consistent fall of rain across the entire visible area, maintaining the same spatial context as the first frame.
+frame_0000000128-frame_0000000256:
+The first frame shows a wet parking lot with a grey SUV parked on the far left and the front sections of two silver cars visible on the right. Directly ahead, a children's playground with a blue and pink slide and swings is visible, framed by trees, with tall apartment buildings in the distant background. A yellow information board stands to the left of the playground entrance, and light rain is visibly falling across the scene.
+end of description
+Throughout the following frames, the overall scene remains spatially static, but the rainfall visibly intensifies across the entire visible area, creating more distinct streaks of falling water and noticeable splashes on the wet ground.
+frame_0000000256-frame_0000000384:
+The first frame displays a wet street and parking area in the foreground, with a dark car partially visible on the left and a white car on the right. In the midground, a paved path leads into a muddy playground featuring a blue and pink slide structure and a swing set, flanked by green bushes, trees, and a yellow-and-white sign on the left. Tall apartment buildings are visible in the background under a rainy, overcast sky.
+end of description
+Rain consistently falls throughout the sequence, intensifying slightly at times. In the third frame, a yellow umbrella briefly appears above the viewer's perspective, partially obscuring the upper portion of the buildings and trees. This umbrella then disappears from view in all subsequent frames.

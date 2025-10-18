@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+A narrow, gray road begins in the viewer's immediate foreground, gently curving uphill and left into the distance. To the viewer's left, a steep, rugged rock face rises sharply, receding towards the upper left. To the viewer's right and center, a vast, grassy mountain slope, speckled with autumn-colored vegetation, stretches into the background. A clear blue sky, with a faint white contrail, dominates the upper half, with more distant mountains visible in the far background to the center-right.
+end of description
+The viewpoint progresses forward along the road. The immediate road surface continuously shifts beneath the viewer, revealing new sections previously further ahead. The rocky wall on the viewer's left steadily passes by, exposing more of the winding mountain path ahead. A distinct pothole on the road, initially in the mid-distance to the left of center, moves closer and then passes beneath the viewer's position.

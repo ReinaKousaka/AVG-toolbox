@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The initial frame depicts a rain-soaked, reflective city street at night, with illuminated storefronts lining both sides and a white Audi car partially visible on the foreground right. A person holding a black umbrella is walking towards the viewer in the midground center-left, with another white car parked further down the street and distant pedestrians visible further ahead.
+end of description
+Throughout the following frames, the person with the umbrella moves steadily closer to the viewer, shifting slightly leftward from their initial midground position. Concurrently, other distant figures are seen walking further into the background or towards the right, away from the viewer's fixed perspective.
+frame_0000000128-frame_0000000256:
+The first frame displays a wet, reflective city street at night, flanked by illuminated storefronts. On the left, a red and white building features stacked silver kegs and red chairs, while the right side shows businesses with glowing signs. In the mid-distance, a white car is parked, and a person holding an umbrella walks away from the viewer down the street's right side.
+end of description
+Across the following frames, the person with the umbrella steadily walks further away from the viewer, proceeding down the wet street on the right side until they are largely out of view on the far right.
+frame_0000000256-frame_0000000384:
+The first frame depicts a wet, illuminated city street at night, extending from directly in front of the viewer into the distance with reflective surfaces. To the viewer's immediate left, storefronts are visible with stacked metal kegs and orange markers on the sidewalk, with a white scooter parked further back along the left. To the viewer's right, a person with an umbrella stands near shops, a large menu board, and more orange markers, while several cars are visible on the street in the mid-distance.
+end of description
+As the frames progress, the white scooter parked on the left sidewalk slowly backs up and moves slightly to the viewer's left, receding further into the scene. No other significant objects change their positions or are newly revealed.

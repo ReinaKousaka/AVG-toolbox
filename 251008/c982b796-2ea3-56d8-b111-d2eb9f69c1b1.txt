@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a large, multi-story building with numerous wooden balconies and vibrant purple flower boxes dominating the center and left foreground, its ground floor featuring an awning and outdoor seating with a street lamp positioned slightly to the right of center. To the right, another building with similar floral balconies and distant people are visible, with mountains on the far left under a bright sky.
+end of description
+Subsequent frames exhibit a subtle, gradual zoom-out, causing the primary building to slightly recede and revealing marginally more of the adjacent street and buildings to the right from the original viewpoint.
+frame_0000000128-frame_0000000256:
+The first frame presents a multi-story, chalet-style building with numerous wooden balconies brimming with vibrant purple flowers, extending upwards and to the right from the viewer's lower left. Below the balconies, at ground level, a white facade houses a visible "Restaurant & Bar" sign, windows, and an outdoor dining area with red chairs and woven partitions positioned centrally and to the viewer's right.
+end of description
+The camera then subtly pulls back, gradually revealing more of the adjacent street scene to the viewer's left and a wider expanse of the sky above, subtly increasing the perceived distance from the initial viewpoint.

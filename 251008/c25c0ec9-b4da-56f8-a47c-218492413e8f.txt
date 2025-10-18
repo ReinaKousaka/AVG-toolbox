@@ -1,0 +1,18 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a train track extending forward, curving slightly left through a mountainous, forested landscape under a clear blue sky. A snow-dusted rocky embankment rises steeply to the viewer's left, while dense pine trees line a less steep bank to the right, with a distant mountain visible ahead.
+end of description
+As the scene progresses, the viewpoint moves forward along the tracks, causing the left embankment to recede and lose its snow, revealing more bare terrain. A wooden utility pole then emerges from the right mid-ground, moving closer to the viewer before passing out of sight to the right, as the dense pine forest and distant mountain remain visible ahead.
+frame_0000000128-frame_0000000256:
+The first frame presents a front-facing view down a set of train tracks receding into the distance under a clear blue sky. To the immediate left, a steep hillside covered in dense, dark green trees and some lighter, bare vegetation runs alongside the tracks. To the right, a gentler slope covered with lighter green coniferous trees parallels the tracks. In the far distance, a prominent, snow-dusted mountain rises behind the valley, framed by more distant, lower mountains on the right.
+
+end of description
+
+As the train moves forward along the tracks, the immediate landscape on both sides progressively moves towards and then past the viewer's original position. The steep, dark hillside to the left and the coniferous slope to the right recede, revealing more of the environment ahead. A tall utility pole, initially in the mid-distance on the right, approaches and then passes to the right of the viewer's current position. Further ahead, patches of snow and a metal retaining wall or fence along the left side of the tracks, previously obscured, become visible as the train advances towards them. The distant mountains remain centered but appear closer with the forward motion.
+frame_0000000256-frame_0000000384:
+The first frame presents a view looking down railway tracks curving into the distance, bordered on the left by a dense, dark evergreen forest and on the right by a line of trees leading to a distant mountain, with protective fences and patches of snow visible alongside the tracks.
+end of description
+As the perspective advances along the tracks relative to the initial viewpoint, the initial fences, prominent evergreen tree on the right, and snow patches recede into the background. Subsequently, a tall wooden utility pole with overhead lines progressively enters the scene from the distant right and moves past the viewer, while the forested, mountainous scenery continues to unfold.
+frame_0000000384-frame_0000000512:
+The first frame shows a view looking forward down train tracks, which curve slightly to the left in the distance. To the viewer's left, a dense, dark forest borders the tracks, with patches of snow on the ground; to the right, a less dense forest with mixed evergreens and bare trees slopes downwards, featuring a wooden utility pole near the tracks, while a snow-capped mountain range is visible in the far background under a clear blue sky.
+end of description
+As the scene progresses, the viewpoint moves forward along the tracks, causing the foreground elements like snow patches and trees on both sides to recede from view. The utility pole initially on the right passes by, and a prominent overhead wire structure, supported by a new pole on the right, becomes increasingly visible and approaches. The distant landscape, including the mountain and open land, remains consistently in view, slowly shifting as the environment scrolls past the viewer.

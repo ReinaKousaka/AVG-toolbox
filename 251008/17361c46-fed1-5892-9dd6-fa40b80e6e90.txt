@@ -1,0 +1,13 @@
+frame_0000000000-frame_0000000128:
+A red van is parked on the left side of a narrow paved road, facing away from the viewer, next to a stone wall that leads to a stone building in the background. To the right, the road is lined with a green hedge and foliage, a large leafy tree stands in the mid-ground, and a utility pole is visible on the far right under a clear blue sky.
+end of description
+As the frames progress, the viewer's perspective moves forward, causing the stationary red van to recede into the left background relative to the initial viewpoint. More of the stone wall and the building behind it become visible on the left as the viewpoint advances past the van. Finally, a dark grey or black car is revealed parked further down the road, behind the red van and still to the left of the original path.
+frame_0000000128-frame_0000000256:
+In the foreground, a red van is parked on a paved area left of the narrow road, next to a stone wall that leads to a stone building on the far left. The road stretches into the distance, bordered on the right by a lush green hedge and wild plants, with a large, vibrant tree centrally positioned above the hedge. A smaller dark vehicle is parked further down the road, and a power line crosses the clear blue sky.
+end of description
+The red van begins to drive forward, away from the viewer and slightly to the left of its initial position. As it moves, its rear bumper recedes from view and its side becomes more prominent, gradually revealing more of the narrow road ahead and the dark vehicle that was previously partially obscured.
+frame_0000000256-frame_0000000384:
+In the first frame, a red van occupies the left foreground, partially obscuring a dark grey minivan parked next to a stone building on the viewer's left. A narrow paved road extends away from the viewer into the distance, bordered on the right by a dense green hedge and a large, leafy tree overhead, all set under a bright blue sky.
+
+end of description.
+As the sequence progresses, the red van moves progressively to the left, completely exiting the frame and fully revealing the dark grey minivan and the stone building that were previously partially obscured on the viewer's left.

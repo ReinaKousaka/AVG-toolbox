@@ -1,0 +1,10 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a narrow asphalt road curving uphill towards the upper left, bordered on the left by a grassy bank with dense trees and on the right by a two-story house with a red-tiled roof, a chimney, and green shrubs. Distant hazy mountains and a body of water are visible in the background.
+
+end of description
+
+As the viewpoint advances forward along the road, the house on the right expands and recedes, revealing more of its front facade, a second chimney, and a paved patio area that replaces the initial foreground shrubs. Simultaneously, the grassy bank on the left transitions to a prominent stone retaining wall covered in greenery, while a small bridge further along the road on the right becomes more clearly defined.
+frame_0000000128-frame_0000000256:
+In the first frame, a paved road extends from the immediate foreground, curving slightly left into the midground. To the viewer's right, a beige house with a dark door and window shutters, fronted by a black metal railing and a reddish-brown tiled patio, occupies the mid-foreground. On the viewer's left, a tall stone retaining wall covered in greenery, topped by a metal railing, runs alongside the road from the mid-foreground into the midground, with a grassy slope above it. In the distance, straight ahead, mountains rise above a body of water, under a bright, partly cloudy sky.
+end of description
+As the viewpoint moves forward, the house and its immediate railing on the right recede and move out of view to the right, replaced by a low white and brown barrier. This barrier on the right side of the road extends further into the foreground and along the roadside. Gradually, new vegetation, including prominent palm trees, becomes visible and moves into the mid-foreground on the right beyond this barrier. Simultaneously, the retaining wall and grassy bank on the left side of the road continue to move past the viewer's left.

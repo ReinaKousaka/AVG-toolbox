@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a bustling, illuminated city square at night, with a cobbled ground extending into the distance. In the foreground, a man in a green and white beanie walks towards the viewer slightly left of center, while another man checks his phone to the right. The midground features a prominent white obelisk monument, surrounded by numerous pedestrians, with background buildings including the lit-up Grand Hotel Krasnapolsky on the left and a distinctive brown building on the center-right.
+end of description
+As the viewpoint slightly shifts right and forward, foreground pedestrians rapidly move past and out of the frame, revealing more of the central square. This dynamic progression also introduces a dark grey bin into the mid-right foreground relative to the initial viewpoint, while the continuous flow of people constantly changes the specific individuals visible in the midground and background.
+frame_0000000128-frame_0000000256:
+The first frame captures a vibrant city square at night, featuring a cobblestone ground and numerous pedestrians moving throughout. In the immediate foreground, two individuals walk away to the left, passing a dark sign with a white trash can icon. Centrally located in the midground is a tall, white obelisk-like monument, behind which the illuminated "GRAND HOTEL KRASNAPOLSKY" with festive trees stands to the left, and another large building dominates the right background.
+end of description
+Subsequently, the two foreground individuals and the dark sign continue moving left and exit the view. Throughout the frames, the multitude of pedestrians across the entire square shifts and disperses, but no new objects or distinct areas beyond the initial scene are introduced.

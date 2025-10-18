@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+In the first frame, a dirt path with exposed tree roots and five visible wooden steps ascends directly away from the viewer into a dense forest. A large moss-covered boulder rests to the left of the steps, further up the incline, with numerous tree trunks and green foliage populating the midground and background, extending up to a light sky.
+end of description
+Across the following frames, the viewpoint subtly shifts forward and slightly upward, causing the lowest step to recede and eventually move out of view as the scene appears closer. Finally, in the last frame, a white and brown dog is revealed standing at the top of the path, just above the uppermost steps, looking down towards the viewer from a position previously out of sight.
+frame_0000000128-frame_0000000256:
+The first frame shows a dirt path with three visible wooden steps ascending towards the right, leading up to a small hill within a dense forest. A large, moss-covered rock occupies the left foreground, while a small black and white dog stands at the top of the path in the midground, facing the viewer. Numerous tall trees and lush green foliage fill the background and surround the path.
+end of description
+In the subsequent frames, the dog dynamically descends the path, moving from its initial position at the top towards the viewer. It gradually moves closer and slightly to the right of the center of the path as it approaches, eventually reaching a position halfway down the visible steps from the first-frame viewpoint.
+frame_0000000256-frame_0000000384:
+The first frame shows a dirt path with two wooden steps ascending an incline through a dense forest, featuring a large moss-covered rock in the lower left foreground and a person faintly visible near the top of the incline among the trees.
+end of description
+The camera then moves forward, ascending the path as the foreground rock and wooden steps exit the frame from the bottom. The person at the top of the incline progressively appears closer and clearer as the viewpoint advances towards them.

@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a wet, brick-patterned pathway extending forward through a verdant park setting. To the viewer's left, two dark benches are positioned beside a stone wall overgrown with bushes, with tall trees rising behind. The right side features a similar green area with scattered trees, as the path narrows and recedes into a tree-lined distance.
+end of description
+As the viewpoint gradually moves forward along the path relative to its initial position, raindrops continuously hit the wet surfaces, causing visible ripples and splashes ahead. The drainage grate initially in the immediate foreground progresses forward and eventually exits the frame.
+frame_0000000128-frame_0000000256:
+The first frame captures a wet, paved pathway extending into the distance, flanked by abundant greenery. To the viewer's left, a dark park bench rests by a low bush, with a brick wall partially covered in vines stretching further into the background. On the right, a dense line of bushes and trees runs parallel to the path, with more trees arching overhead.
+end of description
+Subsequent frames show no newly revealed objects or significant camera movement. The only dynamic change is the subtle shifting and shimmering of reflections on the wet pathway, indicating ongoing rain or active water runoff on the surface.
+frame_0000000256-frame_0000000384:
+The first frame shows a wet, tree-lined park pathway after or during rainfall, receding into the distance from the viewer's perspective. The path consists of a wider, darker brick section on the left and a narrower, lighter paved section on the right, both covered in reflective puddles. Dense green bushes and trees line both sides of the path; on the left, a brick wall rises behind the foliage, and on the right, slender trees stand in a central divider. A faint human figure is visible far down the path, centered in the distance.
+end of description
+Throughout the subsequent frames, gentle rainfall becomes visible, with numerous individual raindrops creating ripples and splashes on the wet surfaces of the path and puddles in the foreground. The reflections in the water dynamically shimmer with each impact, visually emphasizing the ongoing precipitation without revealing any new objects or scenes relative to the initial viewpoint. The overall lighting and environment remain consistent, with the distant figure static.

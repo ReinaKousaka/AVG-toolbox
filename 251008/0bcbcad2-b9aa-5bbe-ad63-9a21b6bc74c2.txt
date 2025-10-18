@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame captures a rainy street scene with a prominent tree trunk situated slightly to the right of the viewer's center. To the left, a wet sidewalk and a tree-lined path extend into the distance, while a multi-lane road with blue and yellow markings stretches away on the right, populated by several cars and two buses in the midground, all under falling rain. Tall buildings are visible in the misty background further down the road.
+end of description
+In subsequent frames, the rain continues to fall consistently as traffic slowly progresses away from the viewer on the wet road. A black car, initially in the midground to the right, moves forward, crossing the blue lane and creating a noticeable splash as it drives further into the distance.
+frame_0000000128-frame_0000000256:
+The first frame displays a rainy urban street scene, with a prominent tree trunk and sidewalk running along the left foreground. A wet, multi-lane road occupies the midground, featuring various cars and two buses (one red, one green/white) in motion or stopped, while tall buildings are partially visible in the background to the right through the heavy rain.
+end of description
+Throughout the subsequent frames, the heavy rain persists, and the vehicles on the road, including the red and green/white buses and a white car in the far right lane, slowly move forward through the consistent rainfall.
+frame_0000000256-frame_0000000384:
+In the first frame, a large tree trunk occupies the left foreground. To its left, a wet sidewalk borders a dense row of green trees and bushes, extending into the distance. To the right of the tree, a wide, rain-soaked road stretches forward, populated by numerous vehicles, including a prominent red bus and green bus stopped in the mid-distance on the right, with several cars queued behind them. In the background, tall apartment buildings are visible through the heavy rain, which also obscures the far distance.
+end of description
+The camera slowly pulls back, slightly widening the field of view and revealing more of the foreground tree trunk and the wet sidewalk to its left. While the buses and cars on the right remain largely stationary, a dark SUV appears in the mid-distance on the road and gradually drives towards the viewer. The heavy rain continues to fall, causing splashes on the wet pavement.

@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame captures a road scene from inside a car, showing the road with a white dashed line extending forward. A dark car is directly ahead, followed by a lighter vehicle further in the distance. Guardrails line both sides of the road, with dense pine forests to the left and green hills dotted with houses on the right, all beneath an overcast sky.
+end of description
+As the viewer's vehicle moves forward, the dark car ahead gradually recedes into the distance, revealing more of the winding road. The guardrails on both sides pass out of view, and the surrounding forested hills and valley houses become more prominent as they shift spatially to the sides of the initial viewpoint. A white and red road marker eventually appears to the right of the road, and more of the distant landscape to the right becomes visible.
+frame_0000000128-frame_0000000256:
+From a car's dashboard viewpoint, a dark car is visible ahead on a two-lane road with white markings, winding slightly into the distance. To the left, grassy hills rise with dense evergreen and autumn-colored deciduous trees. To the right, more grassy hills feature scattered houses and are backed by a large, heavily forested mountain under a bright sky.
+end of description
+As the viewer's vehicle moves forward, the road and the leading car remain centered, while the surrounding landscape approaches and passes by. The reflector posts on both sides move closer and then disappear from the foreground, revealing more of the winding road and adjacent grassy slopes. Further down the road, additional sections of the densely forested hills and small rural buildings to the right come into view, maintaining their positions relative to the moving viewpoint.
+frame_0000000256-frame_0000000384:
+The first frame displays a road extending forward from the viewer's vehicle, bordered on the left by tall pine and autumn-colored deciduous trees, and on the right by a green grassy hillside with a white and red marker pole. A dark car is visible ahead on the road, beyond which alpine-style houses are nestled in the midground, with forested mountains rising in the background under a light blue, cloudy sky.
+end of description
+As the viewer's vehicle moves forward, the trees and roadside elements on the left and right progressively move past and behind the initial viewpoint. The dark car ahead on the road recedes further, while a new black and white road sign emerges and becomes prominent on the left side of the road relative to the first-frame's left foreground.

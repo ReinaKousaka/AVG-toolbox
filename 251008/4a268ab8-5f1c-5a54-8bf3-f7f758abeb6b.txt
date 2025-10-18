@@ -1,0 +1,28 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a paved road extending into a valley between steep, tree-covered mountains, with a beige car directly ahead and a white and green bus further beyond it. Green guardrails line the road, and a bright blue sky with scattered clouds appears above the distant mountains, where a waterfall is visible.
+end of description
+Subsequently, the viewer's vehicle progresses forward, causing the car and bus to move further into the distance as the roadside trees and guardrails pass by to the left and right. An overhead green gantry spanning the road gradually emerges ahead, moving closer into the view from its initial distant position.
+frame_0000000128-frame_0000000256:
+The first frame displays a two-lane road stretching into a verdant mountain valley under a clear blue sky. Directly ahead, a brown sedan travels in the right lane, followed by a green and white van further down the road. Dense green trees and foliage line both sides of the road, with a metal gantry structure spanning above the left lane, positioned over the brown car.
+end of description
+As the viewer's vehicle progresses forward, the brown car and the van ahead maintain their relative positions or slightly recede into the distance. The overhead gantry structure approaches and then moves past the viewer, illustrating the forward movement. The surrounding lush green trees and mountainous landscape continuously unfold from the front, moving towards the sides as the journey through the valley continues.
+frame_0000000256-frame_0000000384:
+The first frame displays a two-lane road with a brown car directly ahead of the viewer, followed by a white bus further in the distance; a white gantry with cameras spans overhead, positioned ahead of the brown car. Lush green, tree-covered mountains flank both sides of the road, meeting in the distance under a clear blue sky.
+end of description
+As the frames progress, the viewer moves forward, causing the brown car and white bus to recede further ahead, maintaining their positions relative to each other. The overhead gantry passes above and then behind the viewer, while a white utility box becomes visible on the left side of the road. The dense green foliage and mountain scenery continuously scroll past the viewer's left and right sides, indicating steady forward motion through the mountain valley.
+frame_0000000384-frame_0000000512:
+The viewer is on a paved road, bordered by dense green trees and steep mountains on both the left and right, leading towards a clear blue sky. A bronze car is visible on the road ahead in the middle distance, with a white bus further beyond it.
+end of description
+As the frames progress, the bronze car and white bus continue moving forward, further away from the viewer. A person wearing bright orange clothing emerges from behind a green fence post on the right side of the road, behind the green barrier, gradually becoming more visible as they work near the roadside, moving closer to the viewer's position before being passed.
+frame_0000000512-frame_0000000640:
+The first frame shows a road stretching forward into a lush green mountain valley under a bright blue sky. A light brown sedan is centered on the road ahead, followed by a white van and other vehicles further in the distance. To the immediate right, a person in an orange suit kneels next to a green barrier along the roadside.
+end of description
+As the frames progress, the person in the orange suit moves further away to the right of the viewer and eventually exits the frame. The viewer's viewpoint advances steadily along the road, causing the brown sedan and vehicles ahead to remain in front while the dense green mountainsides and a newly revealed utility pole on the right side of the road approach and pass.
+frame_0000000640-frame_0000000768:
+The first frame depicts a paved road extending forward through a valley flanked by lush green mountains under a clear blue sky. Directly in front of the viewer is a brown sedan, followed by a light-colored van and another vehicle further ahead in the same lane. Green safety barriers line the right side of the road.
+end of description
+As the frames progress, the brown sedan, the van, and the vehicle ahead all move further into the distance relative to the viewer. Concurrently, a black SUV appears from the opposite lane to the viewer's left, rapidly approaching and moving past the viewpoint.
+frame_0000000768-frame_0000000896:
+In the first frame, the viewer is on a mountain road, looking forward. To the immediate left is a dark-colored SUV, partially obscuring the left side of the road. Ahead, slightly to the right of center, is a golden-brown sedan, and further down the road, a light green van is visible in the distance. The road itself has a yellow dividing line and white shoulder lines. On both sides, steep, lush green, tree-covered mountains flank the road, with a rocky section visible on the left side closer to the viewer and a green barrier along the right shoulder. A clear blue sky is overhead, and distant mountains are visible at the horizon.
+end of description
+The dark SUV on the viewer's immediate left quickly moves out of the frame, fully revealing the rocky mountain face and more of the road to the left of the original viewpoint. The golden-brown sedan in front gradually recedes further into the distance along the road, becoming smaller in the frame. The distant light green van also continues to move further away, maintaining its position behind the sedan. The lush green mountain slopes on both sides appear to approach and then pass the viewer as the scene progresses along the road.

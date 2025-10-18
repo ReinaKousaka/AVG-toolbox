@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame captures a bright winter day with a clear blue sky, featuring a strong sun in the upper left corner. A wide paved road occupies the lower center, leading away from the viewer, bordered by large snowbanks. To the left, a grand, multi-story building (Maloja Palace) with flags stands prominent, its facade partially obscured by snow in the foreground. On the right, sections of modern buildings, one reddish and one beige, are visible behind snow drifts and a street sign.
+end of description
+As the viewpoint moves forward along the road, the full facade of the Maloja Palace on the left becomes visible, revealing a large "MALOJA PALACE SUITES & RESIDENCES CO2 NEUTRAL" banner. The modern buildings on the right recede, bringing a tall street light into prominence and unveiling a striking snow-covered mountain that expands into view in the background to the far right. A white car parked on the right also becomes clearer as the scene progresses past the initial roadside structures.
+frame_0000000128-frame_0000000256:
+The first frame shows a snow-covered road leading into the distance, flanked by a large hotel building on the immediate left and snow-laden trees and a mountain on the right, under a bright sun flare in the top-left corner of a clear blue sky.
+end of description
+As the viewpoint moves forward, the bright sun flare gradually shifts towards the center-left, and more of the hotel building's facade on the left is revealed as it is passed. The road ahead extends, and snow banks along both sides of the road move past the viewer, while a circular road sign appears on the right side of the road, further into the distance relative to the initial frame.

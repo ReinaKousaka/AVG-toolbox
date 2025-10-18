@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a paved road extending into a mountain valley, curving slightly left. Steep, green-covered mountains rise on both sides, with a multi-layered bridge visible on the upper left mountain slope, and the bright sun shining from the upper left against a blue sky.
+end of description
+In subsequent frames, a motorcycle becomes visible in the distance, traveling along the left side of the road towards the first-frame viewpoint, progressively drawing nearer.

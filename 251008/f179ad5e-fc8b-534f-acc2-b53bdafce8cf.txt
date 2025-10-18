@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a wet, uphill street lined with traditional Korean buildings featuring white patterned walls, dark tiled roofs, and stone bases; a large wooden door and steps are prominent to the immediate right, while a grand traditional structure is visible far up the street under an overcast sky.
+end of description
+As the frames progress, a red motorcycle with a rider appears in the far distance, slowly descending the street towards the viewer.
+frame_0000000128-frame_0000000256:
+A wet, asphalt street recedes into the distance, bordered on both sides by traditional Korean-style walls featuring stone bases, patterned white and red upper sections, and dark tiled roofs. In the mid-distance, a small red delivery scooter is visible on the wet road, moving away from the viewer towards more traditional buildings that crest a gentle slope under an overcast sky.
+end of description
+In the subsequent frames, the red delivery scooter continues to move further away from the first-frame viewpoint, steadily ascending the street. No other objects or scenes change dynamically or are newly revealed.
+frame_0000000256-frame_0000000384:
+The first frame shows a narrow, wet street receding uphill, flanked by traditional Korean buildings with stone walls and dark tiled roofs on both the left and right. In the middle-ground, a red scooter with a rider is visible, facing away from the viewer, positioned on the wet street. The background reveals more traditional architecture under an overcast sky at the top of the incline.
+end of description
+The red scooter, carrying a rider in a light-colored rain jacket and a dark helmet, gradually moves closer to the viewer. It continues its descent towards the viewer, becoming larger in the frame. The scooter then proceeds to move past the viewer, exiting the frame and revealing the previously obscured wet street surface in the immediate foreground.

@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+A dirt path extends from the viewer into the midground, flanked by reddish-brown vegetation. To the left, a dense line of evergreen trees stands with the sun shining brightly through them, while more scattered trees and a gentle slope occupy the right side. Above, a clear blue sky with sparse white clouds completes the scene.
+end of description
+As the frames progress, the viewpoint moves forward along the path. All objects previously ahead, including the dirt path, the evergreen trees on the left, and the scattered trees and hillside on the right, gradually appear to draw closer to the viewer.

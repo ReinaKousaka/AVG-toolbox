@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a narrow, rocky dirt path ascending uphill and curving gently left, flanked closely by low-lying green and reddish-orange vegetation interspersed with rocks. A more distant mountain range is partially obscured by haze on the upper left, while a prominent sun flare emanates from the upper right of the frame, illuminating the rugged slope.
+end of description
+The viewpoint slowly advances forward along the path. As the camera progresses, the immediate foreground vegetation and rocks recede, revealing new sections of the trail and the rocky, shrub-covered mountain slope further ahead, maintaining their relative positions to the original first-frame viewpoint.
+frame_0000000128-frame_0000000256:
+The first frame depicts a rugged mountain path ascending a slope, originating from the bottom center and winding into the upper left distance. The path, composed of dirt and rocks, is flanked by dense green and reddish-orange low-lying vegetation interspersed with numerous grey boulders and smaller rocks. In the far left background, a hazy mountain peak is visible, while a bright, sunlit haze illuminates the upper right slope and sky.
+end of description
+As the sequence progresses, the viewpoint moves steadily forward along the path, causing the immediate foreground rocks and vegetation to recede behind the viewer. The winding trail ahead is continuously revealed, with new sections of the path and its surrounding rocky, vegetated slopes on both the left and right sides gradually becoming visible as the camera advances. The distant hazy mountain on the far left remains in view as the path ascends.
+frame_0000000256-frame_0000000384:
+A winding dirt path ascends diagonally from the foreground to the upper right, bordered by a rocky, vegetated hillside displaying green and red foliage. In the far distance, to the upper left, a large mountain is visible, while two tiny figures are discernible on the path further up, illuminated by a bright light source in the upper right.
+end of description
+The viewpoint slowly advances along the path, causing the immediate surroundings like rocks and foliage on both sides to gradually move closer and expand within the frame. Simultaneously, the distant figures become slightly larger and shift progressively downwards and towards the left, indicating continuous forward movement along the trail.

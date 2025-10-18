@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a forward view from a train on snow-dusted tracks curving right, with a dark lake paralleling the tracks to the left, and a dense pine forest on a snow-covered slope to the right. In the distance, snowy mountains rise under an overcast sky, with overhead power lines faintly visible.
+end of description
+As the train progresses, the foreground tracks, the lake's shoreline to the left, and the snow-dusted forested slope to the right continuously move past the viewer. Brief dark blurs sometimes enter the bottom left and right of the frame, momentarily obscuring parts of the passing scenery.
+frame_0000000128-frame_0000000256:
+The first frame shows a snowy railway track extending directly forward from the viewer, curving slightly to the left in the distance. To the immediate left of the tracks is a dark body of water, likely a lake or fjord, bordered by bare winter trees and a prominent snow-capped mountain in the far left background. To the right of the tracks, a snow-covered, forested hillside rises, featuring scattered pine trees and several wooden utility poles receding into the middle ground.
+end of description
+As the viewpoint moves forward along the tracks, the snowy landscape on both sides appears to rush past. Objects previously in the mid-ground, such as the utility poles on the right, move closer and then out of view, while new sections of the snow-dusted hillside and the lake emerge from the distance. The bare trees lining the lake's edge and fallen tree trunks on the right hillside become more detailed and then recede as the journey continues along the winding track.

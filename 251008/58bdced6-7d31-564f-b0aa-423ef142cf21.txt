@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a sun-dappled dirt path winding into a dense green forest, with a fallen log and abundant ferns visible in the left foreground. Tall, mossy trees with lush foliage line both sides of the path, extending into the background under a bright, filtered sky.
+end of description
+As the frames progress, the viewpoint moves forward along the path, revealing new sections of the forest and path directly ahead. The previously visible fallen log and ferns recede towards the bottom left, while new undergrowth and tree trunks emerge into the immediate foreground along the path, continuously changing the scenery straight ahead.
+frame_0000000128-frame_0000000256:
+The first frame shows a sun-dappled dirt path winding forward into a dense forest, bordered by lush green ferns and trees, with a fallen log positioned horizontally along the path's left side from foreground to midground.
+end of description
+As the frames progress, the viewpoint moves slowly forward along the path, revealing new sections of the trail ahead. The fallen log and foreground ferns on both sides of the path gradually recede behind the viewer, while the dense forest continues to unfold to the left, right, and directly ahead.

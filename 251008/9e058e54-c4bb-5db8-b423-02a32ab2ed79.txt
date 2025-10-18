@@ -1,0 +1,28 @@
+frame_0000000000-frame_0000000128:
+A wet, reddish-brown road, partially covered in snow on its shoulders, recedes into the distance, flanked by towering red rock cliffs on both the left and right sides with snow-dusted vegetation clinging to them, under an overcast sky.
+end of description
+The viewpoint steadily moves forward along the road. A light-colored vehicle, initially a distant speck in the valley ahead, slowly emerges from around the curve and approaches the viewer.
+frame_0000000128-frame_0000000256:
+The viewer's perspective is from a wet, two-lane road, flanked by red-orange rock cliffs on the immediate left and right, which are adorned with snow and evergreen vegetation; a red pickup truck with illuminated headlights approaches in the mid-distance on the right side of the road, all beneath an overcast sky and backed by distant snow-dusted red rock formations.
+end of description
+Subsequently, the red pickup truck steadily drives closer to the viewer, growing larger and moving from the distant right towards the immediate left side of the road. It then passes by and exits the frame to the viewer's left, revealing more of the curving road ahead and making a tunnel entrance in the far distance slightly more prominent.
+frame_0000000256-frame_0000000384:
+The first frame presents a view down a wet asphalt road with double yellow lines, curving gently left towards a dark tunnel entrance in the distance. Snow-dusted evergreen trees and bushes line both sides of the road, backed by prominent red rock formations; a large, snow-covered pine tree stands directly to the viewer's right. The background features a vast, horizontally striated red rock cliff face under an overcast sky.
+end of description
+As the viewpoint progresses forward along the road, the large evergreen tree on the right moves out of the frame to the right. The red rock formations on either side and in the background appear to steadily draw closer. The road's curve becomes more apparent, and the distant tunnel entrance grows larger and more centered as the perspective approaches it.
+frame_0000000384-frame_0000000512:
+The first frame shows a wet asphalt road with double yellow lines extending from the bottom center, curving slightly left into the distance. Snow-dusted evergreen trees and shrubs line both sides of the road, backed by a towering reddish-orange rock cliff face to the right, which also features a dark tunnel entrance visible far ahead and slightly to the left of the road's center. A large, snow-covered reddish-orange rock formation is also visible on the far left, under a grey, overcast sky.
+end of description
+A vehicle's bright headlights become visible within the tunnel entrance in the second frame. Over the subsequent frames, this vehicle steadily emerges from the tunnel and proceeds along the road towards the viewer, becoming progressively larger and clearer as it approaches from the distance, maintaining its position in the oncoming lane.
+frame_0000000512-frame_0000000640:
+A wet, dark reddish-brown asphalt road with double yellow lines in the center extends from the viewer towards the midground. Snow-dusted evergreen trees and bushes line both sides of the road. In the midground, a dark vehicle with illuminated headlights approaches on the left lane, while further ahead, a tunnel entrance with a visible yellowish light inside is carved into a large red rock cliff face that dominates the background. An overcast grey sky occupies the top portion, and a distinct pointed peak is visible on the far left background.
+end of description
+The dark vehicle with its headlights on moves continuously closer to the viewer along the wet road. The snow-covered landscape, the red rock cliffs, and the tunnel entrance in the distance remain visible as the vehicle progresses.
+frame_0000000640-frame_0000000768:
+In the first frame, a wet, dark reddish-brown road with double yellow lines extends from the foreground, curving slightly right towards a dark tunnel entrance in the mid-ground. A dark grey pickup truck approaches the viewer on the left side of the road, while snow-dusted evergreen trees and bushes line both shoulders. To the right, a massive reddish-orange rock formation with sparse snow covers the mid-ground, leading to the tunnel entrance, and a light-colored, pointed mountain peak is visible in the far upper left against an overcast sky.
+end of description
+The dark grey pickup truck drives past the viewer and exits the frame to the viewer's left. Simultaneously, the viewer progresses forward along the winding road, causing the dark tunnel entrance and a yellow warning sign on the right shoulder to appear progressively closer. The snow-dusted landscape and prominent red rock formations on either side also become more encompassing as the viewer's perspective advances towards the tunnel.
+frame_0000000768-frame_0000000896:
+The first frame shows a reddish-brown asphalt road, with double yellow lines down its center, curving gently to the right and receding into the distance. Snow covers the road shoulders and the surrounding evergreen trees and shrubs on both sides. To the right, a massive reddish-orange rock formation rises, featuring a dark tunnel entrance with a faint light inside; a yellow warning sign is partially visible on the far right. A prominent, lighter-colored, snow-capped peak stands in the far left background beneath an overcast sky.
+end of description
+As the sequence progresses, the viewpoint moves forward along the road towards the tunnel. The yellow warning sign on the right side of the road recedes and gradually moves out of the frame to the right. The tunnel entrance, initially in the midground, grows larger, indicating an imminent approach to it.

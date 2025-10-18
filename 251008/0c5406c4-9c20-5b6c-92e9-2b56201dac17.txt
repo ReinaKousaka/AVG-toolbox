@@ -1,0 +1,7 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a wide shot of a dark sand beach stretching into the mid-distance, with the ocean and breaking waves on the right and a row of yellow buildings on the left, all under a clear blue sky with distant mountains. A person in red walks along the beach in the mid-right, while digital overlays show distance (0.0 km), speed, pace, and elapsed time in the bottom corners.
+end of description
+As the viewpoint moves forward along the beach, the foreground sand shifts, and the person in red continues walking away on the right. Another figure, possibly two, in lighter clothing, becomes visible further ahead on the beach, also moving rightward relative to the frame. The displayed distance traversed updates from 0.0 km to 0.6 km.
+frame_0000000128-frame_0000000256:
+The first frame presents a sunny view of a dark sandy beach with footprints, extending rightward towards a rocky shore with crashing waves. Along the left are yellow buildings backed by distant mountains, all under a clear blue sky, while a person in light clothing walks on the mid-ground beach, and a green progress bar (0.0 to 3.4 km) is at the far left. end of description
+As the viewer moves forward along the beach, the person in light clothing continues walking further ahead and to the right relative to the initial viewpoint. Concurrently, the on-screen metrics in the bottom right, displaying pace, speed, and time, continuously update to reflect the viewer's ongoing progression.

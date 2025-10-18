@@ -1,0 +1,10 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a wide-angle night view of a city street featuring towering, illuminated skyscrapers under a dark sky, including a prominent glowing vertical sign on a building to the far left. A sidewalk with tactile paving runs along the left, backed by leafless trees where several bicycles are parked. To the right, a multi-lane road is visible with moving cars and bright streetlights, partially obscured by a street pole close to the viewer.
+end of description
+In subsequent frames, the primary dynamic change is the continuous flow of vehicles moving along the multi-lane road, passing from right to left across the first-frame viewpoint. Minor camera movement or vibration causes subtle shifts in the relative positions of foreground elements like the street pole.
+frame_0000000128-frame_0000000256:
+The first frame presents a wide-angle, nighttime street scene surrounded by towering, illuminated skyscrapers. To the viewer's left, a sidewalk with tactile paving borders a landscaped area and a building featuring a prominent, glowing blue sign. A leafless tree, supported by white wraps, stands slightly right of center in the mid-ground, with several parked bicycles at its base. To the viewer's right, a multi-lane road with yellow markings extends into the distance, occupied by a few motion-blurred vehicles. Streetlights illuminate the scene under a dark, hazy sky.
+
+end of description
+
+Vehicles move continuously from left to right across the multi-lane road in front of the viewer. Initially, a light-colored car passes from the mid-road towards the far right. Subsequently, a yellow-green taxi appears from the left and follows suit, also moving right across the road. Later frames reveal a dark motorcycle and an overloaded red motorized tricycle entering from the left and traversing the road, continuing towards the right. The surrounding cityscape and static elements like buildings and trees remain largely unchanged relative to the first-frame viewpoint.

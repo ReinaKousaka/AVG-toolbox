@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a dirt path extending forward, flanked by vibrant green grass. Tall, dense evergreen trees rise steeply on both the left and right sides, forming a canopy overhead through which a clear blue sky is visible. On the lower left, some fallen logs or branches lie on the forested slope.
+end of description
+The viewer moves continuously forward along the dirt path, causing the immediate sections of the path and the trees on either side to recede and move past the viewer. As the viewpoint advances, new sections of the path ahead and deeper parts of the forest on both the left and right are continuously revealed. The dappled shadows on the path shift slightly with the forward motion.
+frame_0000000128-frame_0000000256:
+The first frame depicts a narrow dirt road extending forward into a dense conifer forest, bordered by tall green trees on both sides that reach upwards towards a strip of blue sky visible at the top center.
+end of description
+The following frames show a continuous slow forward movement along the road, with the surrounding forest gradually approaching the viewer. A "ProArtInc" watermark appears in the bottom-left corner of the view starting from the fourth frame.

@@ -1,0 +1,30 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a narrow paved road extending towards the mid-ground, flanked by vibrant green slopes. To the left of the road, a small wooden barn or shed with a brown roof is nestled in the mid-ground, separated by a low wooden fence. To the right, a larger chalet-style house with wooden siding and a visible Swiss flag stands closer to the viewer, featuring a planted garden and a wooden barrier. In the background, rolling green hills ascend, culminating in dark, majestic mountains beneath a heavily clouded sky.
+
+end of description
+
+As the viewpoint progresses forward along the road, the chalet-style house on the right slowly recedes, revealing more of its detailed garden and a partially obscured red object positioned behind its fence. The barn on the left and the distant mountains remain generally visible as the scene shifts.
+frame_0000000128-frame_0000000256:
+The first frame displays a narrow paved road leading forward, flanked on the left by a rustic wooden building with a tiled roof, and on the right by a log and stone structure with a red umbrella visible behind it; green grassy hills rise on both sides, leading to dark mountains under a cloudy sky in the distance.
+end of description
+As the viewpoint moves forward along the road, the red umbrella on the right recedes out of view, and a metal chimney-like structure becomes visible above the right building. Subsequently, the side of the left wooden building is further revealed, showing a stacked woodpile, while the log and stone structure on the right recedes further from the viewer.
+frame_0000000256-frame_0000000384:
+A rustic wooden building with a dark tiled roof is positioned on the viewer's immediate left, featuring stacked wood near its base. A paved road stretches forward into the distance, flanked on its right by a green grassy slope and a simple fence, all leading towards towering dark mountains under a heavily clouded sky.
+end of description
+The viewer moves forward along the paved road, causing the wooden building on the left to gradually recede and move out of the frame towards the left edge. As the viewpoint advances, the green grassy slope and distant mountains on the right remain visible, appearing to shift slightly to the right relative to the continuing road. The scene progressively reveals more of the winding road ahead within the valley, without introducing entirely new major objects.
+frame_0000000384-frame_0000000512:
+The first frame shows a narrow asphalt road stretching into the distance, bordered by bright green grassy slopes and a fence on the right, under a cloudy sky. To the far left, a dark wooden structure with stacked firewood is partially visible, while majestic mountains rise in the background, some partially covered by dense trees.
+end of description
+As the frames progress, the viewpoint moves forward along the road, causing the wooden structure on the left to recede and eventually move out of frame. The road continually extends forward, revealing more of the receding mountain landscape and the expanding green fields with their fences on both sides relative to the initial perspective.
+frame_0000000512-frame_0000000640:
+A narrow asphalt road extends directly forward from the viewer, bordered by lush green grassy slopes that rise upwards on either side, secured by white wire fences. Dark green trees cluster on the left slope, while rugged mountains dominate the distant background under an overcast sky with sunlight breaking through.
+end of description
+As the frames progress, the viewpoint moves forward along the road relative to the initial first-frame position, causing the immediate grassy slopes and fences to recede, while the distant mountainous landscape gradually approaches.
+frame_0000000640-frame_0000000768:
+A narrow asphalt road extends centrally from the viewer into a mountain valley. Lush green grassy slopes flank the road on both sides, bordered by fences with white wires and wooden posts running parallel to the road. To the mid-left, dense green trees cover a lower hillside, while towering dark mountains loom in the background, especially dominating the right side of the frame. The sky above is largely covered with dramatic grey and white clouds, with a bright sun breaking through near the upper center.
+end of description
+No dynamic changes, newly revealed objects, or alterations in spatial positions occur across the subsequent frames; all visible elements remain identical to the first frame.
+frame_0000000768-frame_0000000896:
+The first frame presents a narrow, paved road stretching into the distance, flanked by vibrant green grassy fields contained by white multi-strand fences and wooden posts. Majestic green and rocky mountains dominate the background, rising under a dramatic sky with both bright and dark clouds.
+end of description
+No discernible dynamic changes occur, nor are any new objects or scenes revealed in the subsequent frames, as the imagery remains static relative to the first-frame viewpoint.

@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a rainy urban intersection featuring a white car on the far right next to a crosswalk, a traffic pole with active green vehicle and pedestrian lights on the left, and a wet street receding into the distance on the left with a white SUV, all against a backdrop of a building and trees on the right.
+end of description
+The white car on the right drives forward across the crosswalk and exits the frame to the left, revealing more of the street pavement. Simultaneously, the white SUV and other vehicles on the left continue moving further away from the viewer down the wet road. The pedestrian traffic light on the right also dynamically cycles through green to red and back to green indications as rain persists throughout the scene.
+frame_0000000128-frame_0000000256:
+The first frame presents a rainy city street with a striped crosswalk and a manhole cover in the foreground. A wet, multi-lane road extends into the distance on the left, flanked by a utility pole and small trees in the mid-ground, and a modern glass building on the far left. To the right, a yellow tactile path runs beside a bush-filled planter and another building.
+end of description
+As the camera pans left, the scene shifts relative to the initial viewpoint; more of the multi-lane street and the left building are revealed, while the right sidewalk and building recede further right and eventually move out of frame. Distant cars with illuminated red brake lights slowly advance down the wet road, and the green pedestrian traffic light visible on the far right in the first frame disappears. Rain consistently falls throughout the scene.
+frame_0000000256-frame_0000000384:
+The first frame displays a wet city street on an overcast day, featuring a reflective asphalt road with yellow lines on the left, a red-brick sidewalk with a utility pole and tactile paving to the right, a large glass building and trees along the left, and distant red traffic lights with a white car visible ahead on the road.
+end of description
+Throughout the following frames, consistent heavy rainfall creates visible splashes and ripples across all wet surfaces. The distant white car, positioned ahead of the viewer in the mid-right, slowly advances with its headlights illuminated, while the red traffic lights further down the road remain unchanged.

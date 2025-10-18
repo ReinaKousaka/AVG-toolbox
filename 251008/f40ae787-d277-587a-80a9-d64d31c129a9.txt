@@ -1,0 +1,19 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a multi-lane city road with white markings and Japanese characters, curving left towards a large, illuminated building in the distant background. To the immediate left, a sidewalk features a white railing and a blue road sign, while a modern building marked "Shappo" stands to the right.
+
+end of description
+
+As the car moves forward and turns left relative to the initial viewpoint, the blue sign on the left recedes and exits the frame. Simultaneously, more of the street and buildings previously to the far left are revealed, along with additional vehicles appearing further down the road ahead.
+frame_0000000128-frame_0000000256:
+The initial frame captures a night city street from a car's perspective, showing the vehicle's hood in the foreground. Ahead, a multi-lane road with white markings features a light-colored compact car moving away to the right, while brightly lit commercial buildings line the curved road to the viewer's left, with larger buildings further back on both sides.
+end of description
+The light-colored compact car on the right moves further forward and to the right of the first-frame viewpoint. Simultaneously, a white van on the left, initially behind a lead car, progresses forward along the curved road. People and additional vehicles become visible further along the road to the viewer's left. Orange cones emerge on the right side of the main road, next to the median, from the first-frame viewpoint. The viewer's perspective slightly shifts forward, revealing more of a pedestrian bridge on the far left.
+frame_0000000256-frame_0000000384:
+The first frame displays a vibrant nighttime cityscape from a vehicle, looking down a street flanked by numerous multi-story buildings adorned with illuminated signs and windows on the left, center, and right. A pedestrian overpass curves into the left foreground, while a white railing is directly visible to the left, and a dashboard reflection occupies the bottom. Traffic, including an SUV on the right and other cars with visible taillights, is present on the road ahead, with pedestrians on the right sidewalk.
+end of description
+As the viewer's vehicle moves forward, the street scene progresses: the pedestrian overpass on the left gradually shifts past the viewpoint, and the SUV on the right steadily advances, eventually moving out of frame to the right. Concurrently, the cars ahead also move forward, and new segments of the buildings and sidewalks become visible as the urban environment unfolds.
+frame_0000000384-frame_0000000512:
+The first frame captures a nighttime city street scene from a vehicle's perspective, with part of the vehicle's hood or dashboard visible at the bottom. Ahead, a multi-lane road extends into the distance, lined with several vehicles whose taillights glow red. To the immediate left, a large, curved, silver-blue architectural structure with reflective glass runs parallel to the road, featuring metal railings below it. On the right, multi-story commercial buildings illuminate the scene with numerous vibrant signs, including a prominent 'GAME!' sign, and pedestrians can be seen on the sidewalk. Overhead, streetlights provide additional illumination against the dark night sky.
+
+end of description
+As frames progress, the viewpoint slowly moves forward, causing the large, curved structure on the immediate left to appear to move backward relative to the first-frame viewpoint, revealing more of its further sections. Simultaneously, a motorcycle with a rider slowly emerges into view on the road ahead and slightly to the right of the viewer's initial position, maintaining its forward motion. The vehicles previously seen further ahead on the road remain mostly in their relative positions but subtly approach the first-frame viewpoint.

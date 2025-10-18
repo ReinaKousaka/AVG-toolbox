@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+In the first frame, a narrow dirt path leads into a dense, tall-treed forest, with a steep, fern-covered rock face on the viewer's right and a verdant, descending slope of ferns and trees to the left. Tall tree trunks line both sides, receding into the background under an overcast sky.
+end of description
+As the frames progress, the viewpoint moves steadily forward along the path. The previously distant sections of the dirt path and the surrounding forest gradually move closer and then recede behind the viewer, revealing new portions of the winding trail ahead and the dense forest scenery beyond. The rock face on the right shifts from being directly beside the viewer to falling slightly behind, while the foliage on the left continuously unfolds.
+frame_0000000128-frame_0000000256:
+A dirt path stretches from the viewer's foreground into the midground, flanked by dense green ferns on the left and a prominent grey rock face on the right, which is topped with ferns and moss. Tall, slender conifer trees with dark trunks and lush green foliage stand vertically to the left of the path, extending into the background, where more trees and a bright, overcast sky are visible through the canopy.
+end of description
+The scene exhibits a gradual forward movement along the path; the rock face on the right slowly recedes to reveal more of its textured surface, while the path itself progresses further into the dense forest, with new sections of ferns and trees continually entering the viewer's perspective on both sides. The overall effect is a subtle, continuous progression deeper into the wooded trail.

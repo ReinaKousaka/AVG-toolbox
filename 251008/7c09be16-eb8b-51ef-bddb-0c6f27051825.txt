@@ -1,0 +1,14 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a paved road leading uphill, flanked to the immediate left by a large wooden house with green shutters, a balcony, and a red car parked in its driveway behind a fence. To the right of the road, a steep green grassy slope rises, featuring a smaller, rustic wooden house further up. A majestic, cloud-capped mountain dominates the background directly ahead, with dense forest covering its lower slopes.
+end of description
+As the viewpoint slowly moves forward along the road, the large house on the left appears closer, revealing the red car's rear license plate behind the fence. Simultaneously, the green grassy slope and the small wooden house on the right also approach the viewer, while the central mountain in the background remains steadily visible.
+frame_0000000128-frame_0000000256:
+The first frame shows a paved road curving into a mountainous landscape. To the immediate left, a traditional wooden house with green shutters features an open garage containing a dark blue car, with a red car's rear visible closest to the viewer. On the right, a vibrant green, flower-dotted hillside slopes upwards towards a distant wooden barn, all set against towering grey mountains partially veiled by clouds in the background.
+
+end of description
+
+As the scene progresses, the viewpoint moves forward along the road. The red car on the far left quickly disappears from view, while the dark blue car in the receding garage becomes more visible. A stone retaining wall adorned with vibrant purple flowers is increasingly revealed along the left side of the road, as the barn and the cloudy mountains remain prominent in the midground and background, respectively.
+frame_0000000256-frame_0000000384:
+The first frame shows a winding road leading uphill towards cloud-shrouded mountains. To the left, a stone retaining wall adorned with purple and yellow flowers supports a green hedge, behind which are a flagpole, pine trees, and a wooden building; to the right, a grassy slope with yellow blooms features a traditional wooden house with a red roof, a bare-branched tree, and a stack of logs.
+end of description
+As the camera moves forward, the left hedge grows taller, revealing more purple and yellow flowers along the wall, while the bare tree on the right recedes from view. The traditional wooden house on the right becomes closer, showing an expanded log stack, and two people, one in light attire and one in purple, become visible walking ahead on the left side of the road.

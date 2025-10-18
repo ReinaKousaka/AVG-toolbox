@@ -1,0 +1,10 @@
+frame_0000000000-frame_0000000128:
+From a slightly elevated viewpoint, a village with many houses is seen nestled on a sloping hillside, framed by a partial roof structure on the bottom left and a light yellow building emerging from the bottom right. A paved road descends through the center into the village, with a powerful waterfall cascading down a massive grey cliff far to the left in the background.
+end of description
+The view gradually pans right, revealing more of the yellow building and the green pasture to its right, where a white sheep appears. Simultaneously, the waterfall on the far left of the initial frame slowly moves further out of view to the left, while the village remains centered in the midground.
+frame_0000000128-frame_0000000256:
+In the first frame, a paved road descends towards the viewer's center, flanked by a dark house and fence on the left and a grassy slope with a light yellow house and fence on the right. Further down, a village with many houses nestles in a valley, backed by a massive grey cliff with a waterfall on its right side, both in the background.
+
+end of description
+
+As the camera slowly moves forward into the scene, it also subtly pans to the left. This movement causes objects initially positioned to the viewer's right, like the light yellow house, to gradually shift leftward towards the center of the first-frame viewpoint. Simultaneously, the entire distant village, cliff, and waterfall also drift left and appear marginally closer as the perspective advances deeper into the valley.

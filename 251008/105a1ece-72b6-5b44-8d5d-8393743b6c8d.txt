@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame captures a city street scene with a sidewalk on the left featuring a red pole and a storefront. A white service van is parked by the curb in the midground left, while a white crosswalk spans the street towards the right. Further down the street on the right, a white police van is visible next to orange construction barriers. Tall city buildings line both sides, with a traffic light and "East 43rd St" sign prominent in the mid-left background.
+end of description.
+The street sign above the sidewalk on the left dynamically changes from 'East 43rd St' to 'East 41st St' and then back to 'East 43rd St'. Concurrently, the white police van, located to the mid-right on the street, slowly drives forward before coming to a complete stop. Pedestrians continue to move along the sidewalk on the left and cross the street in the distance.
+frame_0000000128-frame_0000000256:
+The first frame displays a city street with a red pole and a storefront on the left sidewalk, where pedestrians walk away from the viewer. In the midground, a white van is parked next to a street sign for "East 43rd St" and a traffic light, while a white and blue police van drives away on the right side of the road.
+end of description
+The police van continues to recede further away from the first-frame viewpoint on the right side of the street. Subsequently, a black SUV enters the frame from the right foreground, moving towards the background relative to the first-frame viewpoint. Throughout the sequence, the pedestrians on the left sidewalk continue their progression away from the viewer, and the white van remains stationary.

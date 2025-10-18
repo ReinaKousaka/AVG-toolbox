@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a covered urban walkway with a person in dark clothing walking away from the viewer on the left, alongside parked bicycles and under an orange awning. Storefronts line the right, featuring diverse signs, including a large white cylindrical lantern and an A-frame menu board in the midground, with a street and vehicles visible in the far background left.
+end of description.
+As the viewpoint advances, the initial person and the large lantern recede and exit the frame to the left and right, respectively, while the A-frame sign also moves out of view to the right. This progressive movement reveals further storefront details on the right and brings the street scene on the far left closer to the viewer.
+frame_0000000128-frame_0000000256:
+The first frame depicts a narrow urban sidewalk flanked by numerous Japanese shopfronts on the right, displaying various signs, menu boards, and an illuminated orange lantern. A woman in a black shirt and dark pants is seen walking away from the viewer in the foreground, with bicycles parked against a barrier to her left, separating the sidewalk from a street with traffic. An orange awning extends overhead along the left side of the frame.
+end of description
+In subsequent frames, the woman walking away from the viewer moves progressively further into the distance and slightly to the right. Simultaneously, the large orange lantern visible among the shops on the right side sways gently from side to side. Subtle movements are also perceivable from vehicles on the street to the far left, indicating ongoing traffic.
+frame_0000000256-frame_0000000384:
+The first frame depicts a covered pedestrian walkway in a Japanese city, with a restaurant featuring a prominent yellow sign, blue banners, and wooden stools on the right, and an orange arched awning on the left. A woman walks away from the viewer in the foreground, while other shops and people are visible further down the path, with a street and buildings in the distant background.
+end of description
+The following frames show a continuous forward movement down the walkway, revealing more of the shops on the right, including a bookstore, and extending the view of the street and vehicles in the distance on the left. The woman in the foreground steadily progresses further away from the viewer's initial perspective.

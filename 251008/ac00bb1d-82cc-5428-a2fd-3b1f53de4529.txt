@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+In the first frame, a vibrant green grassy hill dotted with yellow wildflowers occupies the foreground, extending from the bottom to the mid-left and center. A rustic wooden cabin with a red corrugated metal roof is positioned on this hill to the viewer's left. A narrow dirt path winds up the hill from the bottom-center, passing by the cabin's right. In the midground, dark green evergreen forests cover the lower slopes of mountains, with a prominent waterfall cascading down a rocky face towards the center-right. Majestic, snow-capped mountains loom in the background across the entire width of the frame, under a partly cloudy blue sky. A small 'www.swissvideos.com' watermark is in the bottom-left, and a Swiss flag icon is in the top-right corner.
+end of description
+The subsequent frames display no dynamic changes in the landscape, water, or sky, nor are any new objects or scenes revealed relative to the first-frame viewpoint; the entire sequence is static.
+frame_0000000128-frame_0000000256:
+The first frame displays a scenic mountain valley. A rustic wooden cabin with a red roof sits on a vibrant green, dandelion-dotted meadow to the viewer's left, with a dirt path winding from the foreground past its front. Behind, towering mountains rise, covered in dark green pine forests, with snow-capped peaks and multiple waterfalls cascading down their faces under a partly cloudy blue sky.
+end of description
+No dynamic changes or newly revealed objects are observed in the subsequent frames; all visible elements remain entirely static throughout the sequence.
+frame_0000000256-frame_0000000384:
+A rustic wooden cabin with a red roof stands on a vibrant green, dandelion-dotted hillside in the mid-left foreground, bordered by a simple fence. A dirt path winds uphill to the right of the cabin, leading towards a valley framed by dense evergreen forests. Towering, rocky mountains with snow-capped peaks and visible waterfalls cascade down slopes in the background, all beneath a partly cloudy blue sky.
+end of description
+The camera slowly pans right, subtly revealing more of the distant snow-capped mountains and their cascading waterfalls to the right of the first-frame viewpoint. Simultaneously, the cabin in the left foreground shifts slightly towards the frame's center, indicating a minimal forward or rightward movement of the viewpoint.

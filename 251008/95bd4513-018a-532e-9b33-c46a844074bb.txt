@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame displays an aerial view of a winding, dark brown river bordered by dense green jungle on both banks, with a small, light-colored boat positioned slightly towards the bottom-left of center on the water, leaving a prominent white wake extending behind it.
+end of description
+In the following frames, the boat steadily progresses along the river channel, moving generally from the bottom-left towards the top-right relative to the static jungle banks. Its bright white wake dynamically extends and shimmers behind it, maintaining its trail as the boat continues its journey without revealing any new objects or significant environmental changes.

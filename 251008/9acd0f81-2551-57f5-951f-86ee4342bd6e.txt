@@ -1,0 +1,28 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a low-angle view up a winding stone staircase on a sunny day. To the viewer's left, a vibrant green bush with dense foliage occupies the foreground and midground. To the right, tall, dry golden-green grass lines the path, alongside a simple rope railing held by wooden posts. In the midground, several individuals are seen ascending the stairs, moving away from the viewer, with more grassy hillsides extending upwards. A clear blue sky with sparse white clouds in the upper right fills the background.
+end of description
+In the subsequent frames, the group of people on the staircase steadily progresses further up the path, moving away from the first-frame viewpoint. Concurrently, the scattered white clouds in the bright blue sky slowly drift from the right to the left of the scene. No other significant dynamic changes or newly revealed objects occur relative to the initial viewpoint.
+frame_0000000128-frame_0000000256:
+Frame one shows a stone-stepped path ascending uphill, bordered by green bushes on the left and a rope railing alongside tall golden-green grass on the right. In the distance along the path, two individuals are visible. Above the rising grassy hill, a clear blue sky with scattered white clouds fills the upper half. Text overlays "SEOUL WALKS" bottom-left and "Jeju" bottom-right.
+end of description
+No dynamic changes or newly revealed objects occur in the subsequent frames; the scene remains static.
+frame_0000000256-frame_0000000384:
+The first frame displays a wide stone staircase ascending a grassy hillside under a clear blue sky dotted with white clouds. Green foliage and a tree branch are visible to the left, while a rope railing borders the right side of the stairs, flanked by tall grass covering the slope. Two people are seen ascending the stairs towards the top of the hill in the distance.
+end of description
+No dynamic changes or newly revealed objects or scenes occur in the subsequent frames, as they are identical to the first-frame viewpoint.
+frame_0000000384-frame_0000000512:
+The first frame presents a sunny outdoor scene featuring an uphill stone staircase, flanked by tall green grass and bushes on both sides, leading into the mid-ground where several people ascend. A rope railing runs along the right side of the path from the foreground, while a tree branch is visible in the upper-left. Above the rising grassy hill, a bright blue sky with a few white clouds on the right dominates the upper half.
+end of description
+No dynamic changes or newly revealed objects occur in the subsequent frames; the static scene persists precisely as viewed from the initial first-frame viewpoint.
+frame_0000000512-frame_0000000640:
+The first frame presents a stone-stepped path ascending uphill from the foreground towards the distance, flanked by lush green grass and bushes. A rope railing with wooden posts runs along the right side of the path, extending upwards, while several small figures are visible walking up the path in the middle distance. The upper portion of the frame shows a clear blue sky with scattered white clouds, and "Jeju" text appears in the bottom right.
+end of description.
+In subsequent frames, the people on the path gradually move further uphill, becoming slightly more distant relative to the first-frame viewpoint. Concurrently, the tall green grass lining both sides of the path, especially prominent on the right, subtly sways, indicating a gentle breeze.
+frame_0000000640-frame_0000000768:
+In the foreground, a brown, stepped path ascends towards the background. To the left of the path, green bushes and tall grass with white feathery plumes are visible. To the right, tall green grass and a rope railing supported by dark wooden posts parallel the path. In the mid-ground, several people are seen walking up the path, receding into the distance, with one person in a white top and blue pants prominent. The background is dominated by a bright blue sky with scattered white clouds, visible above the grassy hill, and the word 'Jeju' is in the bottom right corner.
+end of description
+From the first frame onwards, the person in the white top and blue pants, along with other hikers, continuously moves further up the ascending path, away from the viewer. As they proceed, they gradually ascend higher on the hillside relative to the viewer's original eye level. Subtle movements are also observed in the white clouds in the distant sky and in the tall grass and foliage on both sides of the path, suggesting a gentle breeze.
+frame_0000000768-frame_0000000896:
+The first frame shows a view looking up a stone staircase ascending a grassy hill under a bright blue sky with scattered white clouds. To the left foreground, a leafy green bush is visible, while a rope fence with wooden posts borders the right side of the path, surrounded by tall pale green and golden grass. Several people are seen walking up the stairs in the mid-ground, heading towards the summit.
+end of description
+In the following frames, the scene remains largely static, with the most notable change being the subtle continued ascent of the people further up the distant stairs. No new objects or scenes are revealed, and the overall landscape of the path, grassy hills, and sky maintains its position relative to the first-frame viewpoint.

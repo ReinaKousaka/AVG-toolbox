@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame captures a rainy city street at night from a low perspective, revealing a wet sidewalk with tactile paving on the left, and a multi-lane wet road on the right reflecting streetlights and green traffic signals in the distance. A white car and a blue bus are visible on the right side of the road, moving away from the viewer, while streetlights and buildings line the background.
+end of description
+The white car and blue bus in the midground right continue moving away from the viewer, eventually exiting the frame to the right. Subsequently, a dark SUV travels from the midground right past the viewer's immediate position, followed by a dark sedan and a motorcycle, all receding into the distance on the wet road.
+frame_0000000128-frame_0000000256:
+The first frame shows a rain-soaked city street at night, viewed from a sidewalk on the left, looking down a busy thoroughfare. Reflecting bright headlights, the wet road occupies the center, with a motorcycle and rider in the right midground moving away, and several cars visible approaching in the distance.
+end of description
+Subsequently, the motorcycle exits to the right as a white sedan emerges from the far left, moving across the road towards the right and splashing significant amounts of water. This is followed by a dark SUV, also traveling from the left towards the right, generating a visible spray of water behind its tires.
+frame_0000000256-frame_0000000384:
+In the first frame, a wet, dark city street at night is visible from a low angle. To the immediate left, a sidewalk runs towards the background, marked by a prominent dark, ornate lamppost with a blue bicycle sign. On the right, a multi-lane wet road extends into the distance, with a grey SUV moving left across the mid-right, its headlights reflecting brightly. In the background, numerous streetlights, traffic lights (some green), and illuminated buildings with signs (one yellow with Korean text) line the street.
+end of description
+The grey SUV moves left and exits the frame, while a white car emerges from the right background, also moving left and kicking up splashes. This white vehicle, revealed as a convertible, continues its path left as a darker SUV appears behind it. A pedestrian with an umbrella becomes visible on the far right sidewalk. The darker SUV then passes the viewpoint, followed by a final white sedan entering from the right background and moving leftward.

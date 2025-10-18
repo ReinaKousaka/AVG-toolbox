@@ -1,0 +1,10 @@
+frame_0000000000-frame_0000000128:
+The first frame features a person walking on a paved road in the lower-left, with a metal railing along the bottom. To the right, a grassy slope leads up to train tracks curving into the midground, flanked by utility poles and several traditional wooden chalets on the hillside, while a mountain and forest define the distant background.
+end of description
+As the camera advances, the person walks further right across the foreground, and a streetlight pole initially to the mid-left moves closer and right. This movement reveals a red directional sign affixed to the pole and a yellow bin positioned to its right, further into the midground. The entire landscape shifts as if the viewer is moving forward through the scene.
+frame_0000000128-frame_0000000256:
+In the first frame, a man walks left on a road in the foreground, while a signpost with a red bicycle icon and a metal railing are positioned to the viewer's right. Behind these, a green hillside with sheep and several traditional wooden chalets ascends towards forested mountains in the background.
+
+end of description
+
+The man quickly exits the frame to the left as the viewpoint smoothly shifts right. The signpost and railing move progressively out of view to the far right, while a yellow trash receptacle and a paved path become more prominent in the lower right of the scene, past the original position of the railing. The houses and landscape, initially in the midground, become more central in the receding frame.

@@ -1,0 +1,22 @@
+frame_0000000000-frame_0000000128:
+In the first frame, the back of a person wearing a grey t-shirt and brown shorts is visible in the central-left foreground, walking on a light-colored sidewalk. To the immediate right, green vines climb a dark, partially visible structure, while to the left of the pedestrian, a black fire hydrant and metal bollard mark the edge of a street. The street, lined with parked cars and various buildings, including a prominent tree, extends into the midground with several pedestrians further down, all under a clear, bright sky.
+end of description
+As the frames progress, the person walks steadily forward, moving further away from the viewer, while the camera follows, maintaining their general position within the frame. The fire hydrant and bollard on the left gradually recede out of view towards the bottom left. This movement reveals more of the street and buildings further down the block, showing continuous activity with other pedestrians and vehicles shifting slightly in the distance.
+frame_0000000128-frame_0000000256:
+A man in a grey t-shirt and brown shorts walks away from the viewer on a city sidewalk. To his immediate left is a black fire hydrant, beyond which a parked black car and a street with distant buildings and people are visible, marked by a "N 4th St" sign. To the man's right, a low brick wall runs alongside the sidewalk, followed by residential buildings and a dark utility box in the foreground. Overhead, green trees and a clear blue sky are visible.
+end of description
+The man in the grey shirt continues walking forward on the sidewalk. Subsequently, a woman in a green top and yellow shorts, carrying a paper bag, emerges from the left midground of the original viewpoint, walking towards the viewer on the sidewalk. She is soon joined by another man in light-colored attire, also walking towards the viewer, and both pass the man in grey.
+frame_0000000256-frame_0000000384:
+The first frame presents a city sidewalk scene: a man in a grey shirt and shorts walks away from the viewer, while a woman in a green top and yellow shorts and a man in a cream shirt walk towards the viewer on the left, next to a parked black car on a street. A brick wall borders the sidewalk on the right, and distant buildings, trees, and street signs (like 'North 5 St') line the background.
+end of description.
+Subsequently, the woman and the man in cream continue walking towards the viewer, passing by and exiting the frame to the left of the first-frame viewpoint, as the man in grey recedes further away down the sidewalk.
+frame_0000000384-frame_0000000512:
+In the first frame, a person wearing a grey t-shirt, brown shorts, and a black cap walks away from the viewer along a sunlit sidewalk. To the immediate left is a tree trunk, with parked cars (a black one then a silver one) and buildings beyond them, including white tents and colorful murals further down the street. To the right, a low brick wall topped with a metal fence runs parallel to the viewer, bordering multi-story residential buildings. An intersection with a street sign (North 9 St) and traffic lights is visible in the distant center-left.
+
+end of description
+
+As the frames progress, the viewpoint steadily moves forward along the sidewalk. The person in the foreground, the parked cars on the left, and the brick wall on the right all recede relative to the viewer, while the street and buildings ahead continuously become closer and new sections of the sidewalk are revealed beneath the viewer.
+frame_0000000512-frame_0000000640:
+The first frame depicts a person in a grey t-shirt and brown shorts walking away on a city sidewalk. Parked cars, including a black and silver sedan, line the street to the left, where a 'North 9 St' sign and a colorful mural are visible at an intersection. A brick fence and buildings are on the right, under a clear sky.
+end of description
+The person continues to walk further away from the initial viewpoint along the sidewalk. Simultaneously, the camera advances forward, causing the street, buildings ahead, and more distant pedestrians to become increasingly visible, while the brick fence on the right gradually moves out of frame.

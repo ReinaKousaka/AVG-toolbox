@@ -1,0 +1,6 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a rainy city street at night, featuring a wet asphalt road reflecting vibrant neon and building lights. Tall buildings, including a prominent spire structure, line the left side of the street, while a sidewalk with trees and a partially visible red/orange sign occupies the right foreground closest to the viewer. A white car moves away from the viewer in the left lane, creating a water spray, and a dark blue pickup truck is parked in the right lane further down the street.
+
+end of description
+
+In subsequent frames, the white car continues moving away from the viewer on the left, progressively exiting the scene by the fourth frame, its water spray diminishing. Concurrently, the traffic light in the mid-distance on the left cycles from green to red, then back to green, while the blue pickup truck remains stationary on the right side of the road relative to the initial viewpoint.

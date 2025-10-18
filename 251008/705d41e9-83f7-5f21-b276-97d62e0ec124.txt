@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a narrow canal with a stone bank in the bottom right, bordered on the left by a two-story white building partially hidden by dense green bushes and trees that also line the midground bank. A small bridge and distant buildings are visible in the background to the right under an overcast sky.
+end of description
+The viewpoint then subtly shifts leftward, progressively revealing more of the white building's upper story and balcony on the left. Simultaneously, the midground foliage recedes, uncovering additional parts of the building, while the bridge and background elements on the right gradually exit the frame.
+frame_0000000128-frame_0000000256:
+A two-story white house with a dark roof occupies the mid-ground, largely framed and partially obscured by dense green bushes and trees in the foreground and extending to the right. A concrete retaining wall supports the lower left side of the house, which features a prominent dark window on its first floor. Taller trees stand in front of and to the right of the house, with an overcast sky visible above.
+end of description
+The camera subtly pulls back and shifts slightly to the right, revealing more of the concrete retaining wall beneath the house on the left. This movement also expands the view of the dense foreground foliage and makes a larger portion of the lighter building in the far background, to the right of the main house, visible.
+frame_0000000256-frame_0000000384:
+The first frame shows a two-story white house with a dark roof positioned in the midground, slightly to the right of the viewer's center, partially obscured by lush green trees with light leaves. To the left, another building sits behind a concrete wall, also in the midground. The foreground is dominated by dense green foliage and bushes directly in front of the viewer, obscuring the base of the houses.
+end of description
+Throughout the subsequent frames, the camera subtly pans to the left and slightly zooms out. This reveals more of the white house's facade in the mid-right and a greater portion of the house on the far left. The dense foreground foliage simultaneously appears to recede slightly, offering a broader view of the environment below the houses relative to the initial viewpoint.

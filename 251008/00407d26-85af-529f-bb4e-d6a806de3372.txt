@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a wet, leaf-strewn asphalt road flanked by a concrete sidewalk on the right, where a person holding a white umbrella walks away from the viewer. Buildings and autumn-colored trees line both sides of the street under an overcast sky.
+end of description
+As the viewpoint moves forward, the person with the umbrella proceeds further away to the right and exits the frame, revealing a large brown signboard with Korean text and logos like GS25 on the right sidewalk. The scene continually unveils more of the urban street and autumn foliage as the perspective advances.
+frame_0000000128-frame_0000000256:
+A wet, leaf-strewn asphalt road stretches forward, bordered by a sidewalk on the right with a prominent dark pole and a distant commercial signpost. To the left, a long white building is visible behind a continuous line of trees, with more distant trees filling the background under an overcast sky.
+end of description
+The camera moves forward along the wet road; the dark pole and commercial signpost on the right recede and eventually pass behind the viewer's initial position. As the viewer progresses, more of the path ahead, covered in fallen autumn leaves, is continuously revealed, and distant figures on the right sidewalk draw closer.
+frame_0000000256-frame_0000000384:
+The first frame depicts a wet asphalt road, scattered with autumn leaves, extending into the distance. To the left, a light-colored building with dark windows is partially visible behind a line of green and reddish-leafed trees. On the right, a concrete sidewalk, also covered in leaves, parallels the road with dense yellow and orange-leafed trees and green bushes beyond it; a dark grey pole occupies the extreme right foreground. In the mid-distance, several blurred figures walk along the road under an overcast sky.
+end of description
+Across the following frames, the viewpoint subtly shifts forward, giving the impression of very slow advancement. The dark grey pole on the right moves slightly further right and partially out of view, while more of the wet road ahead becomes minimally visible. The distant figures and surrounding foliage largely maintain their positions relative to the first-frame viewpoint, with no significant new objects or scenes revealed.

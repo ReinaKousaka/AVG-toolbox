@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a paved road curving slightly left, extending from the bottom center into a valley bordered by vibrant green meadows dotted with yellow wildflowers. To the left, a large yellow house with green shutters stands prominently, while other houses are scattered across the mid-ground on hillsides with distant forested hills rising under a cloudy sky; a dark car is parked on a road to the right in the mid-ground.
+end of description
+The only dynamic change is the dark car, initially visible on the right side of a road in the mid-ground, which slowly progresses to the left, moving further into the scene relative to its starting point in the first frame. This subtle movement continues chronologically through the subsequent frames, indicating it is driving away from the viewer.
+frame_0000000128-frame_0000000256:
+From the viewer's perspective, an asphalt road starts at the bottom center and recedes into the distance, flanked by vibrant green fields dotted with yellow flowers. To the left, a multi-story yellow building with green shutters stands prominently on a grassy slope. In the midground, numerous scattered houses are visible on rolling green hills to both the left and right of the road, with trees interspersed. The background features more distant green hills covered with dense forest under an overcast sky.
+end of description
+A light-colored SUV first appears in the midground, emerging on the right side of the winding road in the distance. The vehicle then drives closer towards the viewer, remaining on the right side of the road. Subsequently, it turns off the main path and moves onto the grassy area to the left of the road. The SUV continues its movement, ultimately parking next to the large yellow building on the left, closer to the viewer than its initial appearance.
+frame_0000000256-frame_0000000384:
+The first frame shows a paved road extending from the viewer into a valley, flanked by lush green fields teeming with yellow flowers. To the left stands a large, light-colored house with green shutters, while a small village of houses is visible in the midground to the right, nestled among forested green hills under a cloudy sky.
+end of description
+There are no dynamic changes or newly revealed objects in the subsequent frames; all frames are identical to the first, showing a static scene.

@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame captures a wide, wet stone courtyard in the foreground, leading to a traditional Korean-style building with a dark tiled roof, red columns, and a raised stone foundation in the midground. Through a central opening in the building, a person in orange is visible further back. A dark, flat object lies horizontally on the wet ground to the mid-right, with mountains faintly visible under a cloudy sky in the background. end of description. A small, dark animal emerges on the building's foundation to the right of the central opening, then scurries left across the foundation. It ultimately disappears from view, presumably entering the building or moving behind one of the columns.
+frame_0000000128-frame_0000000256:
+The first frame displays a wet, stone-paved courtyard reflecting the overcast sky, leading to a long, traditional Asian building with a dark tiled roof, red pillars, and ornate eaves in the midground. A raised stone platform fronts the building, and a dark wooden ramp lies on the courtyard floor to the right. Through the central openings of the building, distant green mountains and another structure are visible, while a small, dark animal rests on the paved ground near the left side of the building's platform.
+
+end of description
+
+The small, dark animal, initially on the paved ground near the left of the building's platform, begins to move. It then hops onto the raised stone platform and proceeds to walk leftward along it. The animal continues its movement to the left along the platform until it exits the frame, disappearing behind the left section of the building from the first-frame viewpoint.
+frame_0000000256-frame_0000000384:
+The first frame displays a wet, stone-paved ground occupying the foreground and midground, leading to a long, open-sided traditional Asian building in the midground and background. This structure features numerous reddish-brown pillars supporting a colorful, intricately decorated eaves and a dark tiled roof. Through the central opening of the building, green trees and distant mountains are visible, with an orange-clad figure standing in the far background, slightly to the right.
+end of description
+The orange-clad figure in the far background progressively walks forward, entering the building through its central opening. This individual then continues to move inside the building, from the right side of the central opening towards the left, eventually becoming partially obscured behind a pillar closer to the viewer's original position.

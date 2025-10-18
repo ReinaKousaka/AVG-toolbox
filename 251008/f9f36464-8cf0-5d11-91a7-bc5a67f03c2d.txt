@@ -1,0 +1,7 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a sun-dappled dirt path stretching from the viewer's foreground into the background, flanked by dense forest. Prominent, large green fern fronds are visible in the immediate foreground to the viewer's left, while numerous tree trunks and more ferns line both sides of the path, receding into a brightly lit, distant forest canopy.
+end of description
+As the frames progress, the viewpoint moves forward along the dirt path. The prominent fern fronds on the viewer's immediate left in the first frame gradually shift downwards and out of view, revealing new sections of the path ahead. Trees and foliage on both sides of the trail continuously appear to move past the viewer's original position.
+frame_0000000128-frame_0000000256:
+The first frame displays a dirt path winding into the distance, centrally positioned, flanked on the left by prominent green fern fronds and moss-covered tree trunks leading up a bank, and on the right by further ferns and trees. Sunlight filters through the dense, bright green canopy overhead, casting dappled light onto the path and surrounding vegetation. end of description
+As the frames advance, the viewpoint subtly moves forward along the path, revealing more of the forest ahead and causing the midground trees and ferns to appear closer to the viewer's updated position.

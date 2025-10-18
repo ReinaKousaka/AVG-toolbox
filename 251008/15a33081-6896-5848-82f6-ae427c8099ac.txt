@@ -1,0 +1,24 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a railway station from a train's forward perspective, showing multiple tracks converging, with a blue wall featuring the 'MOB' logo on the mid-left and a long grey concrete structure with archways on the mid-right, beneath a clear blue sky.
+end of description
+As the viewpoint advances, the blue 'MOB' wall and its surroundings on the left move closer and then progressively towards and out of the frame's left edge. Concurrently, the grey concrete structure on the right also draws nearer and passes by the viewer's right. The distant train in the background gradually approaches the viewer's position, while the immediate foreground tracks continuously move beneath the viewer.
+frame_0000000128-frame_0000000256:
+The first frame displays a railway junction with multiple tracks extending forward into the midground, where a white and gray train is stationary on the far left, adjacent to a blue "MOB" billboard. To the mid-right, a concrete structure forms an underpass or covered platform, with distant buildings visible in the background beyond the converging tracks, all beneath a clear blue sky crisscrossed with overhead wires.
+end of description
+As the viewpoint moves forward along the tracks, the stationary train recedes further to the left while the concrete structure on the right approaches, revealing a darker train deeper inside its underpass. The overall perspective shifts, bringing all forward elements closer to the viewer.
+frame_0000000256-frame_0000000384:
+The first frame displays a train station from a track-level viewpoint, looking ahead at converging tracks. To the left-midground, a stationary white and dark blue train rests beside a platform and station buildings, while to the right, a concrete wall with greenery covers another section of tracks and a visible train within. Overhead, a metal gantry with power lines spans the tracks under a clear blue sky.
+end of description
+The viewpoint steadily moves forward along the tracks. The stationary train on the left becomes progressively larger and closer, shifting further to the left of the original central view. Simultaneously, the overhead gantry and power lines recede upwards and eventually out of the top of the frame. The surrounding station structures, including the concrete wall on the right and platforms on the left, appear closer and expand their presence within the frame as the viewer advances.
+frame_0000000384-frame_0000000512:
+The first frame presents a train station scene from a track-level viewpoint, with multiple tracks converging in the foreground leading towards distant buildings. To the left, a white and blue train is positioned at a platform, while an elevated concrete structure to the right shelters another platform where a colorful train is partially visible. A clear blue sky dominates the upper frame, crisscrossed by overhead electrical lines and support structures.
+end of description
+In the subsequent frames, the white and blue train on the left begins to move forward, receding from the viewer and gradually revealing more of its side, including the 'MVR' logo. Simultaneously, the colorful train to the right becomes slightly more exposed from beneath the elevated concrete structure, appearing to move forward or become clearer as the left train departs.
+frame_0000000512-frame_0000000640:
+From the perspective of train tracks, the scene shows a station with multiple tracks and platforms extending forward, a stationary white and black train on the left, and a multi-colored train on the right, both under covered sections with buildings behind them, beneath a clear blue sky with overhead wires.
+end of description
+Subsequently, the white and black train positioned to the viewer's left moves forward and away from the first-frame viewpoint. No other significant dynamic changes or newly revealed objects occur; the multi-colored train on the right and the station elements remain stationary.
+frame_0000000640-frame_0000000768:
+The first frame presents a train station from the perspective of tracks, showing multiple converging railway lines in the foreground and center, and a tall central overhead line pole. A dark-colored train is stationary at a covered platform to the viewer's left, while to the right, Platform 7 hosts a lighter, advertising-wrapped train and several people, with buildings and flags in the background under a clear blue sky.
+end of description
+In following frames, the dark-colored train on the left slowly departs forward, gradually moving away from the viewer and further to the left of its original position. This movement progressively reveals the now-empty track and more of the platform it had been occupying.

@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a wet, irregularly paved stone courtyard in the foreground, leading towards a long traditional East Asian building with a dark tiled roof and red pillars, situated on an elevated stone platform in the mid-ground. A dark, rectangular object rests on the wet pavement to the right of center. Between the central pillars of the building, a person in an orange robe is visible, with a cloudy sky, distant trees, and a mountain peak in the background.
+end of description
+The person in the orange robe steadily walks from left to right along the building's corridor, passing across the mid-ground from the left side of the central pillars to further along the right side of the structure in subsequent frames.
+frame_0000000128-frame_0000000256:
+The first frame shows a wet, stone-paved courtyard extending from the viewer into the mid-ground, leading to a long, traditional building with red pillars and a dark tiled roof spanning from the viewer's left to right. Through the building's openings, distant mountains and another structure are visible in the background, while a wooden ramp rests on the courtyard near the building's right side, and a small dark animal sits slightly right of the viewer's center on the wet ground.
+end of description
+This small dark animal, initially positioned on the courtyard floor to the right of center, quickly scurries towards the right side of the frame, disappearing entirely from view by the sixth frame. No other dynamic changes occur, with the wet courtyard and building remaining static throughout the sequence.
+frame_0000000256-frame_0000000384:
+The first frame displays a wet, stone-paved ground in the foreground, leading to a raised stone platform with steps and a wooden ramp on the right. In the midground, a traditional building features numerous red columns supporting an ornate roof, revealing interior pink walls and a background vista of distant trees and mountains through its central openings.
+end of description
+Subsequently, an individual dressed in orange emerges from behind the left central column, walking rightward across the building's main opening, momentarily visible between columns before disappearing behind the rightmost central column towards the far right of the frame.

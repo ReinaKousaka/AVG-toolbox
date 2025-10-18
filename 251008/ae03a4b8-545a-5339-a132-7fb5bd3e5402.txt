@@ -1,0 +1,30 @@
+frame_0000000000-frame_0000000128:
+A road stretches into the distance, bordered on the left by a blue lake with a green grassy bank and some boats, under a bright blue, cloudy sky. To the right, a light yellow house with a dark roof stands beside a bright yellow Post delivery van parked on a paved driveway, with more village houses visible further down the road.
+
+end of description
+
+The yellow van, initially to the right of the viewer, progressively moves forward and out of frame. This reveals a street light pole that appears from behind the van's original position, and subsequently, a balcony and a new building structure on the light yellow house to the right of the road become visible as the viewpoint advances.
+frame_0000000128-frame_0000000256:
+The first frame displays a paved road stretching towards a distant village under a clear blue sky, flanked by a wide green field and a body of water on the left, and a large house with a balcony on the immediate right.
+end of description
+As the viewpoint progresses forward along the road, the initial large house on the immediate right moves out of frame to the far right, revealing more of the village's houses, green hedges, and a streetlamp previously hidden to the right of the first-frame viewpoint. Concurrently, the wooden barn on the left approaches and enlarges, and new road markings become visible on the asphalt directly ahead and to the right of the first-frame viewpoint.
+frame_0000000256-frame_0000000384:
+The first frame shows a paved road extending forward, with a green grassy strip on the left and part of a house with a green hedge on the far right. A street light pole stands on the mid-right, while a long wooden barn is prominent on the mid-left, with various houses and parked cars visible further down the road under a blue sky.
+end of description
+As the viewpoint moves forward, the foreground house on the far right and the street light pole progressively move out of frame to the right, relative to their initial positions. Concurrently, the wooden barn on the left approaches and expands its visible area to the left, revealing a blue car and a red circular sign on its side. The houses and parked vehicles further down the road on the right also appear closer and more prominent from the first-frame viewpoint.
+frame_0000000384-frame_0000000512:
+A sunny day reveals a residential street extending forward under a blue sky. To the left, a long, two-story wooden building with a brown roof lines the road, with a blue car parked further ahead. To the right, a large brown and white house with a red roof stands beside a paved area where a gray SUV and a silver station wagon are parked, with additional houses visible further down the street.
+end of description
+The viewpoint steadily moves forward along the street. The gray SUV and silver station wagon on the right progressively recede and exit the frame to the right, while the large brown house also recedes out of view. Concurrently, the blue car on the left moves closer to and then past the viewpoint, revealing a new light-colored box on the wooden building to its left. As the scene progresses, more distant houses and street sections continuously become visible ahead.
+frame_0000000512-frame_0000000640:
+A paved road stretches ahead under a clear blue sky, flanked by a blue SUV parked left of the viewer next to a wooden building and a green field, while on the right, a tall hedge and a multi-story white building with balconies are visible.
+end of description
+As the viewer moves forward, the blue SUV drives away to the left and the wooden building recedes, revealing more of the green field and a white fence line along its edge, originally behind the SUV. Simultaneously, the multi-story building on the right becomes more prominent, showcasing previously obscured bicycles and a red sign underneath a covered area, as the distant houses slowly approach.
+frame_0000000640-frame_0000000768:
+The first frame shows the viewer situated on a paved road that stretches straight ahead into the distance under a bright blue sky with scattered white clouds, particularly low on the left horizon. To the immediate left, a wide green grassy field extends, with several houses and distant hills visible further back. On the immediate right, a light-colored building featuring a dark covered entrance and a red signboard stands, with bicycles parked underneath. Further down the road on the right, a row of residential buildings, some with balconies, and a white van are visible, along with an evergreen tree.
+end of description
+As the frames progress, the viewpoint moves forward along the paved road. The initial building on the immediate right, with its signboard and bicycles, moves out of view to the right, revealing more of the adjacent street and houses. The white van and subsequent houses on the right also progressively approach and then begin to exit the frame's right edge. Concurrently, the green field and distant houses on the left draw nearer. This continuous motion effectively advances the viewer deeper into the street scene, with the sky and distant landscape remaining consistent.
+frame_0000000768-frame_0000000896:
+The first frame shows a paved road leading into the distance under a clear blue sky. To the left, a green grass field runs alongside the road, backed by a prominent red-brown house with white shutters, followed by other buildings and distant mountains on the horizon. On the right, a grassy strip and paved area border the road, with a large white house featuring brown balconies and a tall evergreen tree standing further ahead.
+end of description
+As the viewpoint moves forward along the road, the houses on both sides, including the red-brown house on the left and the white house with balconies on the right, progressively appear closer and larger. The evergreen tree on the right also approaches, and a street lamp emerges from behind it to the right. More distant buildings further down the road become slightly clearer with the forward progression.

@@ -1,0 +1,19 @@
+frame_0000000000-frame_0000000128:
+A person wearing a backpack is walking on a paved sidewalk in the lower-left foreground, moving towards the left. To the right of the sidewalk, a manicured green hedge runs parallel to a row of trees with dense green foliage. Behind the trees, a modern building with large reflective glass windows extends across the right side of the frame. In the distance on the left, other urban buildings and a street with faint vehicle traffic are visible.
+end of description
+The person on the sidewalk continues walking leftward, eventually moving out of the frame entirely. Simultaneously, the camera's viewpoint slowly pans slightly to the left, revealing more of the street and buildings further down the street to the viewer's left. This panning motion causes the rightmost tree and a portion of the glass building on the far right to gradually exit the frame.
+frame_0000000128-frame_0000000256:
+In the first frame, a sidewalk occupies the left foreground, leading into the distance where a road with vehicles and pedestrians is visible, flanked by tall buildings. To the viewer's right, large green-leaved trees with dense foliage stand in front of a low hedge, which runs alongside a glass-fronted building reflecting the surroundings. Several thin poles also line the sidewalk to the left.
+end of description.
+The subsequent frames show no dynamic changes or newly revealed objects; the scene remains static from the first-frame viewpoint.
+frame_0000000256-frame_0000000384:
+The viewer observes a cityscape scene looking down a sidewalk and street lined with abundant green trees. In the foreground, dense green foliage from tree branches dominates the top and right portions of the frame, partially obscuring the view. Adjacent to the paved sidewalk on the right, a manicured green hedge runs parallel, containing subtle, light-colored structures. On the left, a street extends into the distance, where a red vehicle is visible ahead, and a few pedestrians are present on the distant sidewalk. Tall buildings with reflective windows line both sides of the street in the midground and background.
+end of description
+There are no significant dynamic changes or newly revealed objects in the following frames. The foliage in the immediate foreground shows only extremely minor, almost imperceptible shifts, suggesting a very gentle breeze or subtle camera micro-movements. The distant red vehicle and pedestrians remain virtually static relative to the first-frame viewpoint, indicating no appreciable movement.
+frame_0000000384-frame_0000000512:
+The first frame captures a city street view from a sidewalk perspective, looking forward. Overhead, lush green tree leaves partially obscure the sky, while a paved sidewalk extends ahead. To the left, a street recedes into the distance with a red vehicle, utility poles, and tall buildings, contrasted by a manicured hedge and more trees along the right side of the sidewalk, with a railing partially visible in the lower right.
+
+end of description
+Throughout the subsequent frames, the overhead tree leaves exhibit slight movement, and the red vehicle on the street slowly moves further away, shifting slightly to the right of its initial position. Distant pedestrians on the sidewalk also subtly change their positions relative to the first-frame viewpoint.
+frame_0000000512-frame_0000000640:
+The first frame depicts a city sidewalk on the right, bordered by a green hedge and partially obscured overhead by lush tree foliage, with several utility poles along its left edge. A street runs parallel to the left, revealing tall buildings on both sides, and a red van is visible driving away from the viewer on the left side of the street. end of description. In subsequent frames, the red van continues to recede into the left background on the street, and distant pedestrians on the sidewalk also move further away from the viewer into the background.

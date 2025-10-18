@@ -1,0 +1,24 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a winding, reddish-brown dirt path curving gently to the right and receding into a dense forest. To the viewer's immediate left, a body of water is visible, bordered by tree trunks and green undergrowth, while on the right, a large moss-covered boulder occupies the foreground, with more trees and forest beyond.
+end of description
+As the viewpoint moves forward, the initial moss-covered boulder and the water recede respectively to the right and left, revealing more of the path ahead. The forest's mid-ground from the first frame now occupies the closer foreground, presenting new rocks and undergrowth details along the evolving path.
+frame_0000000128-frame_0000000256:
+The first frame displays a winding dirt path covered in pine needles extending from the bottom center towards a dense forest with tall green trees and mossy rocks on the right. To the left, a body of water is visible beyond several dark tree trunks and their moss-covered roots along the bank, while the forest continues into the background.
+
+end of description
+
+The camera smoothly moves forward along the path, continuously revealing new sections of the winding trail and the surrounding forest ahead of the original viewpoint. As the scene progresses, the initial trees and water from the first frame shift towards the viewer's rear and sides, and a "NORDIC DUCK" watermark appears in the bottom-left corner of the frames.
+frame_0000000256-frame_0000000384:
+In the first frame, a dirt path, reddish-brown and curving slightly, extends from the viewer's immediate foreground towards the upper center-right. To the viewer's left, a calm body of water, appearing light gray, occupies about a third of the frame, bordered by several thin tree trunks and sparse green foliage. To the right of the path, a dense forest wall rises, filled with numerous green trees, moss-covered rocks, and rich undergrowth; a fallen log is visible deeper within this right-side forest.
+
+end of description
+
+The viewpoint steadily moves forward along the path. As the viewer advances, objects previously in the foreground, such as the mossy ground and initial sections of the path, move past and behind the viewer. Simultaneously, new portions of the dirt path, the lake to the left, and the dense forest to the right are continuously revealed further ahead of the original first-frame viewpoint. The trees lining the path on both sides grow larger and closer before also moving past the viewer. This forward motion reveals more of the winding trail and the serene natural landscape ahead.
+frame_0000000384-frame_0000000512:
+A narrow dirt path extends from the foreground into the background, curving gently to the left. To the left of the path, a body of water is visible, bordered by trees and sparse foliage, while to the right, a dense forest with lush undergrowth and mossy rocks slopes upwards, featuring a fallen tree trunk in the mid-right.
+end of description
+The viewpoint steadily advances along the path, revealing new segments of the path and the surrounding forest and shoreline further ahead, as objects initially in the mid-ground of the first frame appear to approach and then recede into the background.
+frame_0000000512-frame_0000000640:
+A reddish-brown dirt path extends from the bottom center into the middle distance. To the left of the path, a calm body of water is visible, bordered by a mossy bank with several trees and lush green foliage extending over the water. On the right, a dense forest with numerous tree trunks and thick undergrowth lines the path, receding into the background.
+end of description
+As the frames progress, the viewer moves forward along the dirt path, causing the initial foreground objects to recede and new sections of the forest and lake to be continuously revealed further ahead. The trees and undergrowth on both sides pass by, maintaining the same spatial relationship as the scene unfolds deeper into the forest along the lakeside.

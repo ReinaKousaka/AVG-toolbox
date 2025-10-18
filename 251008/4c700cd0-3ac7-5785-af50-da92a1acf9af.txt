@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+Lush green leaves of an overhead tree branch occupy the top third of the first frame, partially obscuring the view. Below, a vibrant green lawn stretches across the lower and middle sections, dotted with numerous gravestones of varying sizes and materials, many adorned with colorful flowers and leafy green plants. A gravel path curves from the mid-right foreground towards the deeper background, delineating sections of graves. In the mid-distance, a dense line of green bushes forms a perimeter, with more trees and an overcast sky visible further back.
+end of description
+Throughout the subsequent frames, the only discernible dynamic change is the subtle swaying of the overhead tree leaves, indicating a gentle breeze, while all other visible objects remain fixed relative to the initial viewpoint.
+frame_0000000128-frame_0000000256:
+The first frame presents a quiet cemetery under an overcast sky, with green leaves prominently hanging overhead in the foreground. Below, numerous gravestones of varied shapes and colors, some adorned with hosta plants and vibrant red flowers, are scattered across a green lawn. A winding gravel path extends from the mid-ground on the right, receding into the background where more gravestones and dense trees are visible.
+end of description
+Subsequent frames reveal dynamic movement, as the lush green leaves in the overhead foreground sway gently, indicating a breeze. Concurrently, the distant trees in the background also exhibit subtle swaying motions, reinforcing the impression of a windy day across the entire scene.

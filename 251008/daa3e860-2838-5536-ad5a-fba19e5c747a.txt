@@ -1,0 +1,29 @@
+frame_0000000000-frame_0000000128:
+In the first frame, a paved road stretches towards the horizon, flanked by tall, rocky mountains on the left and dense green trees on the right. A large red truck, covered with a dark tarp, occupies the left foreground, its front angled slightly towards the viewer. Ahead, a white SUV with a blue license plate drives away in the center, followed by another red truck visible slightly to its left and behind.
+end of description
+As the frames progress, the large red truck in the left foreground moves forward, with its front passing out of the frame to the left. This motion reveals more of its lengthy, open-sided red cargo bed, which features vertical bars. The viewer appears to be moving alongside this truck, observing its passage along the winding mountain road.
+frame_0000000128-frame_0000000256:
+To the viewer's immediate left, a red semi-truck with a caged trailer travels alongside, while a white SUV is visible directly ahead on a road flanked by a green, tree-covered hillside on the right and rocky mountains in the distant background to the left.
+end of description
+As the red truck moves forward and away, a black SUV emerges from behind the white SUV, further down the road and to the left of the white SUV. This black SUV then overtakes the white SUV, appearing slightly ahead and to the left of its initial revealed position. The mountainous and forested landscape continuously shifts past the viewer, indicating forward movement.
+frame_0000000256-frame_0000000384:
+From the perspective of a moving vehicle, the left side of a large brown truck is prominently visible in the immediate foreground. Ahead, on a paved road that curves gently into the mountainous distance, a black SUV occupies the left lane, and a white SUV is in the right lane further ahead. To the right of the road, a concrete barrier borders a dirt embankment covered with green trees and rocky terrain, leading up to a towering mountain. In the far distance, beyond the vehicles, more steep, rocky mountains rise on the left, and a section of road with orange cones suggests a distant turn or structure.
+end of description
+As the viewer's vehicle progresses, the black SUV moves forward and slightly to the left, revealing more of the road and the distant mountain landscape. The white SUV also advances, and a cyclist in bright orange attire emerges from behind it, proceeding along the right shoulder of the road. The distant orange cones become more distinct, marking a specific area ahead on the winding mountain road.
+frame_0000000384-frame_0000000512:
+The first frame depicts a road winding through a mountain valley, with a white SUV and a cyclist ahead of the viewer. To the left, a grey, rocky mountain rises sharply, bordered by a guardrail, while a densely forested mountain slope dominates the right.
+end of description
+As the scene progresses, the viewer, the SUV, and the cyclist all move forward along the road, causing dust to kick up behind the SUV. A concrete tunnel or rockfall shelter structure on the left side of the road becomes increasingly prominent in the mid-distance, further ahead in the valley.
+frame_0000000512-frame_0000000640:
+The viewer is on a paved road looking forward into a mountain valley. To the immediate left, a silver guardrail runs alongside the road, while to the right, a cyclist in an orange top and yellow panniers rides ahead. Further central on the road is a white SUV, with two other cyclists (one in red, one in yellow) riding in front of it on the right lane. Green trees and vegetation line both sides of the road, backed by steep, rugged grey mountains forming a gorge, with a concrete wall visible on the right side of the road behind the SUV and cyclists.
+end of description
+All visible vehicles and cyclists gradually recede further into the distance from the viewer. The orange-clad cyclist on the right moves further away and slightly towards the right edge of the frame, while the white SUV and the two cyclists in front of it also continue moving down the road, away from the viewer.
+frame_0000000640-frame_0000000768:
+The first frame presents a mountain road with a white SUV in the center and two cyclists wearing bright tops with panniers to its right. A metal guardrail extends along the left road edge, while a stone wall and a green mesh slope are on the right, all set against a backdrop of imposing rocky mountains.
+end of description
+Subsequently, the cyclists move forward and gradually exit the frame to the right of the initial viewpoint. The white SUV remains ahead as the viewpoint progresses slowly down the road, revealing more of the winding mountain pass in front.
+frame_0000000768-frame_0000000896:
+The first frame displays a paved road stretching into the distance, with a white SUV directly ahead of the viewer, followed by a smaller figure further ahead. To the left, a metal guardrail borders a white-water river and lush green trees, while a stone retaining wall and wire mesh safety net line the right side, ascending a steep mountain. Majestic, rocky mountains dominate the far background.
+
+end of description
+As the frames progress, the viewpoint steadily moves forward along the winding mountain road. The white SUV and the figure ahead appear to recede into the distance as the observer's position advances through the landscape. The river, guardrail, retaining wall, and protective netting on either side continuously extend, revealing more of the unfolding mountainous scenery.

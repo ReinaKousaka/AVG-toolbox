@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a two-lane road curving slightly to the right, with a green crash barrier on the left and a concrete barrier adorned with chevron signs on the right. Distant snow-capped mountains rise directly ahead and to the left, beneath power lines traversing the sky, while an electricity pylon stands prominently on the far left.
+end of description
+As the viewpoint moves forward, the green barrier, chevron signs, and the street lamp on the right move from the midground towards the foreground and then pass behind the viewer. Simultaneously, the electricity pylon on the far left approaches and gradually moves out of view, while new sections of the curving road and forested slopes are continuously revealed directly ahead.
+frame_0000000128-frame_0000000256:
+The first frame depicts a multi-lane highway curving slightly right through a mountain valley, with a green barrier on the left and a concrete barrier holding a black-and-white chevron sign on the right, all leading towards distant snow-capped mountains and an overhead gantry further down the road.
+end of description
+As the scene progresses, the viewpoint moves forward along the highway; the chevron sign on the right recedes as a streetlamp and then a red-and-white yield sign appear closer and subsequently recede. The overhead gantry spanning the road gradually moves closer until it is directly above the viewer, while a tourist car ahead also becomes slightly more prominent.

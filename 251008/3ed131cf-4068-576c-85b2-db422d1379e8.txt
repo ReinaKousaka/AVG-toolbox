@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a gravel road stretching forward from the viewer, slightly curving left into a dense forest. Tall trees with green foliage line both sides of the road and recede into the distance, with lush undergrowth covering the forest floor immediately to the left and right of the path. In the bottom-left corner of the main scene, an inset image displays an aerial view of a landscape with patches of trees and open land under a clear sky.
+end of description
+No dynamic changes or newly revealed objects occur in the subsequent frames; the entire scene remains static relative to the initial viewpoint.
+frame_0000000128-frame_0000000256:
+The viewer is positioned on a gravel path that extends forward into a dense forest, curving gently to the right in the distance. Tall trees, predominantly conifers, line both sides of the path, with green undergrowth to the left and dark forest floor debris to the right, creating a tunnel-like effect. In the bottom-left corner, an inset aerial map shows a wide expanse of green fields and forests under a clear sky.
+end of description
+As the frames progress, the viewpoint subtly shifts forward along the path, causing the immediate foreground to recede slightly and the distant path and trees to approach, while the overall forested scene remains consistent. No new objects or scenes are revealed beyond this gentle forward motion within the existing environment; the inset map remains static.

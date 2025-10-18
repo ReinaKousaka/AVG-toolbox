@@ -1,0 +1,14 @@
+frame_0000000000-frame_0000000128:
+The first frame captures a vibrant aerial view of an ocean scene, featuring a massive, verdant green cliff face dominating the right foreground, its base meeting bright turquoise water and crashing white waves. To the left and slightly further back, a smaller, similarly lush green rocky islet rises from the deep blue sea, also surrounded by white surf.
+
+end of description
+
+Subsequently, the viewpoint slowly zooms out and slightly pans, gradually revealing more of the vast deep blue ocean around the islet on the left, which subtly shifts leftwards relative to its initial position. Concurrently, the extensive cliff on the right becomes less dominant as the view widens, unveiling more of its structure, including an archway formation further behind and to the right of its initial appearance. Throughout, waves continuously break against both landmasses, dynamically churning the vibrant turquoise water near the shorelines.
+frame_0000000128-frame_0000000256:
+The first frame depicts a high aerial view of a vast blue ocean, featuring a verdant, rocky islet positioned in the middle-left foreground, its base being met by white waves, while a steep, equally green cliff face dominates the right side of the scene extending away from the viewer.
+end of description
+In the subsequent frames (2-8), only the dynamic white waves around the islet and against the cliff show movement, with the viewpoint remaining static. Frame 9 then presents a dramatic shift, revealing more open ocean significantly to the left of the original scene, along with a newly visible, more distant landmass positioned beyond and further to the right of the initial right cliff, while the central islet now appears from a slightly rotated perspective.
+frame_0000000256-frame_0000000384:
+The first frame presents an aerial view of a deep blue ocean featuring a small, conical island covered in green vegetation positioned slightly left of center, with a larger, heavily vegetated cliff situated behind and to its right. A distinct vertical line bisects these landforms and the water, showing a more vibrant left side and a desaturated, slightly different-toned right side, indicating a composite image. Turbulent white waves crash around these rocky formations, while a lighter turquoise area of water is visible in the distant background to the far left.
+end of description
+In the subsequent frames, the composite effect is entirely removed, revealing a uniformly vibrant scene with consistent colors and textures across all cliffs and the ocean, effectively "revealing" the true, unmanipulated scene relative to the first-frame viewpoint. The camera viewpoint subtly recedes, showing more of the turquoise water to the far left. From this second frame onward, only minor dynamic changes in the form of white-capped waves crashing around the islands are observed.

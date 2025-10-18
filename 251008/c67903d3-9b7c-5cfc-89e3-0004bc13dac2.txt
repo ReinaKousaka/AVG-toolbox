@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+A dirt path occupies the center foreground, curving gently to the left into the distance. To the left, a dense line of dark evergreen trees runs parallel to the path, with dry grass between them and the path. On the right, dry reddish-brown foliage extends, dotted with numerous bright green cylindrical tree guards protecting young saplings, including a prominent bare sapling in the mid-right. Beyond this, a green field stretches into the far distance under an overcast, grey sky.
+end of description
+The viewer moves forward along the path. The bare sapling on the right shifts closer to the foreground and slightly out of frame as the viewer passes it. Simultaneously, the green field to the right becomes more extensively visible as the path ahead slowly curves to the left.
+frame_0000000128-frame_0000000256:
+The first frame presents a dirt path curving gently to the right through the center, flanked by dry brown foliage with numerous green tree guards, receding towards a distant green field and treeline. A large dark coniferous tree anchors the left foreground, with more evergreens lining the path along the left midground against an overcast sky.
+end of description
+Across subsequent frames, the viewpoint exhibits extremely subtle forward motion and a slight pan to the right, marginally expanding the view of the path and right-side foliage, while the overcast clouds visibly drift and change formation across the sky.
+frame_0000000256-frame_0000000384:
+A dirt path curves from the immediate foreground to the distant center, bordered by fields of dry brown vegetation with numerous green sapling tubes on both sides. To the left, a dense conifer forest line extends from the mid-ground, with a branch visible in the upper-left foreground, while a green field and distant trees are present on the far right horizon beneath a cloudy sky.
+end of description
+The following frames reveal no dynamic changes or newly revealed objects; the static landscape remains unchanged from the initial viewpoint.

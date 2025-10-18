@@ -1,0 +1,14 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a wet asphalt street at an intersection, suggesting recent rain under an overcast sky. On the left, a tall, black and pink inflatable sign stands on the sidewalk, adjacent to a yellow line painted on the road. The street curves right, where a brick building wall is visible, and a white SUV is parked further down the street. In the midground, various buildings are visible behind trees and fences, flanking the wet road that recedes into the background.
+end of description
+A small white object appears on the right sidewalk, slightly to the left of the white SUV. Subsequently, a red and white traffic cone is placed on the right sidewalk, to the left of the small white object. Another red and white traffic cone then emerges on the right sidewalk, further to the left, near the building's wooden fence. Finally, a yellow traffic cone is placed on the wet road in the mid-left, past the initial yellow road line.
+frame_0000000128-frame_0000000256:
+The first frame shows a wet asphalt street receding into the distance, with a large pink and white banner partially visible on the far left and a white SUV parked on the far right. Ahead of the viewer, on the right side of the street, stands a building featuring a wooden railing and red steps leading to its entrance, with a utility pole and a small orange traffic cone positioned near the building's right side.
+
+end of description
+
+Throughout the following frames, numerous ripples and splashes appear and disappear across the wet asphalt, indicating active rainfall. A small black object gradually becomes visible near the base of the red steps, progressively shifting its position leftward towards the wooden railing. Additionally, small pieces of green leaves and debris emerge and subtly move on the wet pavement and within the accumulating puddles.
+frame_0000000256-frame_0000000384:
+The first frame displays a wet asphalt street, likely after rain, with puddles and a manhole cover in the foreground, and a yellow line on the left edge receding into the distance. To the right, a building features a wooden patio railing, red steps leading to an entrance, a red mailbox, and an orange traffic cone with white bags on the far right pavement.
+end of description
+In subsequent frames, the orange traffic cone and the white bags/debris are entirely removed from the far right pavement. Subtle dynamic changes include ongoing small ripples in puddles indicating continued light rain, and minor shifts in scattered leaves on the wet street surface, but no new significant objects or scenes are revealed.

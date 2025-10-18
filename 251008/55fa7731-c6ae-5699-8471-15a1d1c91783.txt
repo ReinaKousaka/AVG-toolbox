@@ -1,0 +1,11 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a wet asphalt road with yellow markings, bordered by a sidewalk and hedges on the left, leading to a lowered car barrier system in the mid-ground. Behind the barrier, a colorful building, surrounded by trees, is visible, with distant apartment complexes in the background.
+end of description.
+A dark car then emerges from the left, driving rightward across the mid-ground behind the barrier. Subsequently, both barrier arms fully ascend, revealing the clear path as the car completes its exit to the right.
+frame_0000000128-frame_0000000256:
+The first frame shows a wet road, marked with yellow lines and a zebra crossing, leading to a gate with two lowered yellow barriers flanked by parking pillars and orange cones in the midground. To the left, a paved sidewalk runs beside green hedges, while a colorful building backed by trees and distant taller buildings stands to the right under an overcast sky.
+end of description
+In subsequent frames, the right barrier slowly lifts upwards and away from the viewer, while a dark car simultaneously appears from the far left background in frame 7. This car then moves towards and past the viewer, disappearing further left by the final frame.
+frame_0000000256-frame_0000000384:
+The first frame displays a wet paved sidewalk on the left, running alongside an asphalt road with yellow and white striped markings that lead towards a multi-story pink and green building. A red and white barrier arm, flanked by two planters with flowers and various signs, is horizontally positioned, blocking the road on the right side. end of description
+In subsequent frames, the red and white barrier arm progressively pivots upwards from its initial horizontal position on the right side of the road. By the final frame, the barrier is fully raised, allowing access towards the building, with visible rain streaks indicating ongoing precipitation.

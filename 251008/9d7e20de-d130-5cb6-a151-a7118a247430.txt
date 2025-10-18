@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a wide-angle view of a sunlit dirt path ascending gently through a desert landscape, flanked by numerous green and yellow flowering shrubs. A towering, dark mountain range dominates the background to the right, while a bright sun shines high in a clear blue sky.
+end of description
+As the frames progress, the viewpoint steadily moves forward along the path. The foreground shrubs on both sides appear to shift closer and then recede past the viewer. A new object, a small wooden beam, becomes visible lying horizontally across the path directly ahead of the viewer.
+frame_0000000128-frame_0000000256:
+The first frame captures a dirt path ascending through a sun-drenched, desert-like landscape. In the foreground, a wooden plank lies horizontally across the path, stretching from the lower-left to the mid-left, surrounded by green bushes dotted with yellow flowers that also line both sides of the path. The path continues into the midground, flanked by similar vegetation, leading towards more distant, rugged hills on the left horizon. To the far right, a towering, jagged mountain peak dominates the background, beneath a bright sun high in the clear blue sky, causing a glare in the upper-right.
+end of description
+As the frames progress, the viewpoint moves steadily forward along the dirt path, relative to the first-frame's position. The wooden plank, initially across the mid-left path, moves downward and to the left, passing beneath the viewer and exiting the scene from the lower-left. The surrounding bushes on both sides of the path appear to move past the viewer, revealing more of the path's upward incline directly ahead from the initial perspective. The prominent mountain on the far right and the sun in the upper-right maintain their positions relative to the moving viewpoint, indicating direct progression into the scene.
+frame_0000000256-frame_0000000384:
+A dirt path extends directly ahead and slightly uphill, bordered by vibrant green bushes with yellow flowers. Jagged dark mountains are visible to the right and smaller peaks to the far left, all under a bright blue sky with the sun shining in the upper right.
+end of description
+As the viewpoint moves forward along the path, the surrounding bushes and the mountain on the right appear to approach, while a wooden plank embedded in the path ahead progressively moves closer to the viewer's initial position.

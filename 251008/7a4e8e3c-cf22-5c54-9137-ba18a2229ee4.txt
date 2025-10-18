@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a narrow, wet asphalt road curving slightly right under a dark, overcast sky. To the left, a tall stone wall borders a planter filled with green foliage and orange flowers, behind which a path leads to a white building with railings. Centered further down, a bright streetlamp illuminates the scene, with concrete stairs ascending to the right from the curving road, and houses visible in the dark background.
+end of description
+Rainfall intensifies throughout the frames, visibly streaking under the streetlamp's illumination. Eventually, a vehicle's headlights appear in the distant left, emerging from a street behind the white building. The vehicle then slowly advances and begins turning onto the main road, its headlights oriented towards the viewer from the distant left.
+frame_0000000128-frame_0000000256:
+The first frame shows a dark, wet street at night, with green foliage and yellow flowers immediately to the left. A street lamp stands centrally, illuminating the falling rain and the glistening road, while a dark car is parked further down on the left near a white building with railings. To the right, a large stone wall with wide, ascending steps forms the side of the street.
+end of description
+In subsequent frames, a new vehicle with bright headlights emerges from behind the parked car on the left side of the street, slowly moving towards the viewer, with its headlights brightly reflecting off the wet pavement and illuminating the heavy rainfall.
+frame_0000000256-frame_0000000384:
+The first frame displays a dark, wet residential street at night, illuminated by a streetlight on the right and the bright headlights of a distant vehicle ahead. To the immediate left, lush green foliage with vibrant yellow flowers fronts a light-colored wall, while buildings with visible stairs and a utility pole line the right side of the glistening, rain-soaked road.
+end of description
+The distant vehicle, a motorcycle, steadily moves closer to the viewer along the center-left of the road. As it progresses, a white plastic bag becomes visible on the left curb near the wall, followed by scattered orange-brown debris on the wet pavement. Heavy rain persists throughout, maintaining the street's reflective surface.

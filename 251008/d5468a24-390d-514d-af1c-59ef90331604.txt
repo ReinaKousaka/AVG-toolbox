@@ -1,0 +1,9 @@
+frame_0000000000-frame_0000000128:
+The first frame captures a paved road gently ascending and curving left, flanked by a steep, rocky, grass-covered embankment with dense foliage on the left and a multi-story white building with a wooden fence on the right. In the distance, towering snow-capped mountains dominate the backdrop beneath a partly cloudy sky, with a valley and village houses nestled below.
+
+end of description.
+The viewpoint moves forward along the ascending road; the white building on the right recedes from view, revealing more of the valley and distant houses that were initially beyond it. Further ahead along the road, a lamppost and a flag (likely Swiss) become more prominent on the left, while two circular manhole covers appear on the road surface, moving from the distance towards the viewer's original position.
+frame_0000000128-frame_0000000256:
+The first frame depicts a paved road leading uphill, flanked by a steep, tree-covered grassy embankment on the left and houses with fences and a street lamp on the right. In the distance, snow-capped mountains loom under a cloudy sky, with a green field and more buildings visible to the far right.
+end of description
+As the frames progress, the viewpoint moves forward along the road, causing the initial foreground features like the grassy embankment and houses to recede and move out of view to the sides and behind the viewer. More of the uphill road and the forested hillside to the left are continuously revealed ahead, extending from the initial left side of the frame. Concurrently, the green field and more distant buildings to the right open up further into the scene, revealing additional structures beyond the initial houses.

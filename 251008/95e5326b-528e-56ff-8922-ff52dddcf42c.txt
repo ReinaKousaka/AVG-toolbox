@@ -1,0 +1,14 @@
+frame_0000000000-frame_0000000128:
+First, a wet city street on an overcast day is seen, with a black and yellow striped crosswalk in the lower-left foreground. To the right, a dark green SUV is parked on the red brick sidewalk, adjacent to a '30' speed limit sign, while a black, dark gray, and white car proceed down the street away from the viewer. On the left, a brick building with garage doors and a high wall with trees borders the street, and more buildings line the right side further down.
+end of description
+Subsequently, a purple and white 'Open' sign gradually appears on the right sidewalk, positioned further down the street from the initial '30' sign, eventually becoming fully visible. Lastly, a dark, indistinct object briefly enters the top-right corner of the frame before quickly receding from view.
+frame_0000000128-frame_0000000256:
+The first frame displays a wet street on a cloudy day, featuring a yellow and white striped pedestrian crossing in the bottom left foreground. A black sedan is on the left side of the road, moving away from the viewer, with a brick wall and trees behind it, while a dark green SUV is parked on the sidewalk to the right, also facing away, next to a brown brick building. Further down the street, other vehicles are visible, and the road extends into the distance under a gray sky.
+
+end of description
+
+As the frames progress, the black sedan on the left moves forward, further away from the viewer. Concurrently, the dark car behind it and the white van in the distance also advance along the street. The dark green SUV parked on the right remains stationary throughout the sequence.
+frame_0000000256-frame_0000000384:
+The first frame shows a wet street under an overcast sky, with a light green SUV parked on the right and a black sedan on the left. The road, marked with a '30' speed limit, recedes into the distance, bordered by a brick wall with green shrubs on the left and buildings on the right.
+end of description
+Subsequently, the green SUV's rear brake lights, visible on its back, repeatedly illuminate and then dim across the frames. They first light up, then turn off, only to light up once more before finally extinguishing at the end of the sequence.

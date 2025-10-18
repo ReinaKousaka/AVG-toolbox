@@ -1,0 +1,14 @@
+frame_0000000000-frame_0000000128:
+From inside a vehicle, a sunny, green hillside with a weathered stone wall structure on the mid-left and a rustic building higher on the right is visible through a window. The multi-doored stone wall is nestled into the base of the hill, which ascends towards distant pine trees and a clear blue sky.
+end of description
+As the scene progresses, the viewpoint subtly shifts, and a dynamic, rainbow-colored lens flare intensifies and traverses across the frame from the top-center towards the bottom-left, briefly obscuring parts of the stone wall. The overall landscape elements on the hillside maintain their relative positions, indicating a slight forward movement without revealing new objects or scenes.
+frame_0000000128-frame_0000000256:
+The first frame shows a verdant hillside with old stone structures mid-ground left and a wooden barn-like building further up to the right, viewed from inside a vehicle through a window frame on the right. A rainbow lens flare is present in the upper left, while pine trees line the distant hill under a clear blue sky.
+end of description
+As the viewer moves forward, the lens flare dissipates, and the landscape shifts; the stone structures recede further left and behind the initial viewpoint. The wooden building transitions into the mid-frame before also moving leftward relative to the advancing viewpoint, revealing more of the steep, grassy terrain.
+frame_0000000256-frame_0000000384:
+In the first frame, the viewer looks out a curved, beige-framed window with a red bar on the right, towards a bright green, terraced hillside under a clear blue sky. In the midground, left of the window, are dense green and autumnal bushes, behind which two rustic wooden buildings are nestled into the hillside, with a line of dark evergreen trees further up and to the left.
+
+end of description
+
+The viewpoint moves forward and slightly right, causing the foreground bushes to drift right, gradually revealing more of the hillside and the first wooden building, which appears to have solar panels on its roof. The second building, previously mostly hidden behind the first, becomes more visible as the view progresses, and both structures shift to the center of the frame, appearing closer. The overall scene glides past as if on a gentle incline, maintaining the bright sunlight.

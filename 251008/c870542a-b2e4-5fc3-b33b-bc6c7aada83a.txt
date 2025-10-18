@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a serene outdoor scene with a dark stream in the immediate foreground, reflecting the sky and bare branches of trees, some of which are also in the midground. Across the stream, two traditional wooden buildings with dark roofs are situated in the midground against a backdrop of a light-colored mountain and blue sky, with dense green trees on the far right.
+end of description
+Subsequent frames show a subtle forward camera movement and slight pan to the left, causing the foreground branches to shift and revealing a person walking from the right to the left on the path in front of the left building in the midground.

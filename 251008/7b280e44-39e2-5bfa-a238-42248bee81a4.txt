@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame presents an aerial view of a vibrant cityscape bordering a large body of turquoise water. In the foreground, several sailboats are scattered across the water. To the left and center midground, a shoreline features a marina with numerous empty boat slips, a building complex, and a parking lot, all flanked by roads and trees displaying vivid autumn colors. Towering skyscrapers dominate the background, forming a dense urban skyline.
+end of description
+As the frames progress, the camera pans slowly to the left, revealing new elements previously outside the first frame's left boundary. A large green park area, along with the distinct 'Cloud Gate' sculpture, becomes visible in the midground to the left of the initial shoreline features. Simultaneously, a new sailboat enters the water from the bottom-left, while the background cityscape expands to reveal more buildings further to the left of their original positions.

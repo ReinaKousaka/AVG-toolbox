@@ -1,0 +1,10 @@
+frame_0000000000-frame_0000000128:
+In the first frame, a dark grey flat surface, likely a dock or pier, spans the foreground, displaying yellow mooring cleats on its right. Behind this, a yellow barge with dark vertical sides is positioned to the left, alongside a blue floating structure with a black crane arm on the water, fronted by a white rope fence. In the mid-background, a large grey aircraft carrier, the 'Intrepid,' with planes on its deck and an island superstructure topped by red and white flags, dominates the right side of the frame. To the far left, a portion of a black/dark grey structure rises vertically, and a blue building is partially visible far right, behind the 'Intrepid.'
+
+end of description
+
+The perspective slowly shifts right, progressively revealing the full island superstructure of another grey aircraft carrier to the far left of the initial scene. Simultaneously, the main 'Intrepid' aircraft carrier glides further right relative to the initial viewpoint, exposing more of the blue building positioned behind its bow on the far right.
+frame_0000000128-frame_0000000256:
+A large grey aircraft carrier, the USS Intrepid, dominates the right mid-ground, displaying its green flight deck and "INTREPID" on its bow, with a smaller grey ship's superstructure visible to its left behind a tall brown pylon-like structure. In the foreground, a dark dock with yellow bollards stretches across the bottom, while a blue and yellow barge carrying a large black crane sits centrally in the water in front of the carrier. A small white boat is moored to the right of the blue and yellow barge, completing the initial view under a cloudy sky.
+end of description
+Across subsequent frames, the blue and yellow barge with its crane subtly drifts a small distance to the left relative to the stationary aircraft carrier. Concurrently, the small white boat in the water to the barge's right also exhibits minor, almost imperceptible shifts in its position.

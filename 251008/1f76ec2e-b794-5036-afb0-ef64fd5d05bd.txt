@@ -1,0 +1,14 @@
+frame_0000000000-frame_0000000128:
+The first frame features a white boat with two outboard motors, carrying several people (one standing under a canopy), receding into the distance on blue-green water, leaving a prominent white wake directly behind it. Distant landmasses are visible on the horizon to the left and right, with several smaller boats further ahead of the main vessel, all under a bright blue sky with scattered clouds.
+end of description
+Through subsequent frames, the main boat continues to recede further from the first-frame viewpoint, appearing slightly smaller, while its wake consistently extends towards the viewer. All other elements remain spatially fixed relative to the initial viewpoint, with no new objects or scenes revealed.
+frame_0000000128-frame_0000000256:
+The first frame depicts a white boat, with two individuals and a canopy, traveling away from the viewer in the center of a wide blue waterway, generating a prominent wake behind it. Ahead of the boat and towards the left horizon, several smaller vessels are visible, while landmasses stretch across both the distant left and right horizons under a blue sky with scattered clouds.
+end of description
+The subsequent frames display no significant dynamic changes or newly revealed objects; the scene remains static relative to the initial viewpoint.
+frame_0000000256-frame_0000000384:
+The first frame displays a white boat with two outboard motors, carrying at least two people under a canopy, moving away from the viewer in the foreground and leaving a prominent wake on the blue-green water. Several smaller boats are visible further ahead in the midground, while distant land with structures outlines the right horizon and a landmass is on the far left horizon, all beneath a cloudy blue sky.
+
+end of description
+
+In subsequent frames, the main boat continues to recede further away from the viewer, becoming smaller. As it moves, more people are progressively revealed inside the boat, showing a total of four to five individuals previously obscured by the boat's initial orientation relative to the first-frame viewpoint. The distant boats, land, and structures maintain their positions further away from the viewer.

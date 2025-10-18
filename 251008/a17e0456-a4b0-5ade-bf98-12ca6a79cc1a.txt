@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+A dirt path with two distinct tracks stretches from the immediate foreground into the distant background, bordered by dense green vegetation and trees, including white wildflowers to the right and tall tree trunks on both sides, all beneath a partly obscured sky.
+end of description
+The viewer advances steadily along the path. Foreground plants and wildflowers from the first frame recede towards the bottom and sides, revealing previously distant sections of the path directly ahead and deeper within the surrounding forest on either side. New segments of the tree-lined path appear to emerge from the horizon in front of the viewer, progressively moving closer and eventually passing by to the left and right.
+frame_0000000128-frame_0000000256:
+In the first frame, a narrow, unpaved dirt path extends forward from the viewer towards the background, flanked by abundant green vegetation and shrubs in the foreground and midground. To the viewer's left is a steep, forested hillside with tall trees and thick undergrowth, while to the right, a dense wall of trees and foliage forms the edge of the forest. Overarching green tree branches are visible at the top, and a light sky peeks through the canopy in the distant background.
+end of description
+As the frames progress, the viewpoint moves forward along the path. The trees and undergrowth on both sides of the path continually move from the midground towards the viewer and then out of view behind the viewer, revealing new sections of the forest path and surrounding trees further ahead along the central path.
+frame_0000000256-frame_0000000384:
+The first frame presents a dirt path stretching away from the viewer into a lush green forest, flanked by a rising, tree-covered slope on the left and dense woodland on the right. Tall trees dominate the background, with a brighter sky visible through the canopy in the distance.
+end of description
+As the frames progress, the viewpoint steadily advances along the path, causing the foreground elements from the first frame, such as the initial section of the dirt path and the nearest trees on either side, to move out of the lower frame. Simultaneously, new portions of the path and more distant forest scenery continuously emerge from the upper background, gradually filling the view as the observer moves deeper into the woodland.

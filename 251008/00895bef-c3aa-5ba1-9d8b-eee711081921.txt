@@ -1,0 +1,14 @@
+frame_0000000000-frame_0000000128:
+The first frame captures a rainy urban street scene, with a wet paved sidewalk on the right bordered by a brick building and a dark garage door, and a multi-lane asphalt road on the left lined with distant storefronts. A person holding a black umbrella walks away from the viewer on the sidewalk, past a small tree and hedge.
+end of description
+This person continues moving further away from the viewer along the sidewalk. Subsequently, a grey car emerges behind them on the sidewalk, also moving further away from the viewer, eventually passing the tree and receding into the distance by the final frame. The rain continues to fall heavily throughout the sequence.
+frame_0000000128-frame_0000000256:
+The first frame depicts a wet street scene on an overcast day. In the foreground on the right, a large tree trunk with reddish bark stands, beside a sidewalk lined with green bushes. A wide asphalt road, marked with white and yellow lines including a distant crosswalk, stretches from the center towards the background. To the left of the road, a row of multi-story buildings housing various shops is visible, partially obscured by trees lining the street. On the right side of the road, further back, street signs (a green directional sign and yellow warning signs) and traffic lights are present, with other buildings and a few distant cars fading into the hazy background.
+
+end of description
+
+The tree branches in the foreground and mid-ground subtly sway with the wind in the initial frames. From around the fourth frame, a person holding an umbrella emerges from the distant right along the right-hand sidewalk, walking towards the left of the frame. Simultaneously, a silver car is newly revealed, parked on the right sidewalk behind the walking person. The person continues their walk along the right sidewalk, moving progressively closer to the viewer and passing the parked silver car. A dark car also becomes visible parked further down the street on the right as the scene unfolds.
+frame_0000000256-frame_0000000384:
+The first frame shows a wet city street under an overcast sky, with a crosswalk in the midground, buildings lining both sides, and a person holding an umbrella walking away from the viewer on the right sidewalk past parked cars.
+end of description
+Subsequently, a motorcyclist enters from the left foreground, traversing the crosswalk and continuing down the street away from the viewer. Simultaneously, the initial pedestrian on the right sidewalk moves further away, joined by a second person with a blue umbrella appearing slightly closer on the right, also proceeding down the street.

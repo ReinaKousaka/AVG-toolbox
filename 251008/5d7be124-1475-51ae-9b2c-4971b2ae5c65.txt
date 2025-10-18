@@ -1,0 +1,28 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a brown and white cow walking on a dirt road in the foreground, positioned to the viewer's right. The road extends towards the background, flanked by a grassy field with a puddle on the left and a rocky, forested hillside on the right. In the midground and background, evergreen trees cover rolling hills and mountains under a cloudy blue sky, with a utility pole visible on the left.
+end of description
+Subsequently, the cow continues walking forward along the road, taking several steps, moving further into the scene. Its legs animate through a walking gait, and its tail subtly sways from side to side relative to its body.
+frame_0000000128-frame_0000000256:
+In the first frame, a brown and white cow with an ear tag and a bell stands on a dirt road in the right foreground, facing left, with its front half visible. The dirt road extends into the midground, flanked by a grassy field with puddles and rocks to the left, and a steep, forested, rocky hillside to the right. Tall evergreen trees line both slopes, leading to a distant mountain peak in the center background under a blue sky with scattered clouds, where utility lines are visible overhead.
+end of description
+The cow slowly walks from the right foreground towards the left, gradually revealing more of its body as its head moves further left across the frame. By the final frames, the cow's head and front body are mostly off-screen to the left, with its hindquarters becoming more prominent as it continues moving away from the viewer's immediate right, towards the left of the viewpoint.
+frame_0000000256-frame_0000000384:
+In the first frame, a brown and white cow occupies the lower right, partially obstructing the view of a dirt road that stretches centrally into a mountainous valley. To the left, a grassy slope with scattered rocks and a puddle leads to a pine forest, mirroring another dense forest on a steep rocky incline to the right. Distant mountains rise in the background under a partly cloudy sky, crossed by power lines with a utility pole further down the road on the left.
+end of description
+As frames progress, the cow in the foreground moves forward and to the right, gradually revealing more of the road it previously partially obscured. It continues moving across the right side of the path, eventually exiting the frame entirely to the right of the viewer's original position.
+frame_0000000384-frame_0000000512:
+The first frame displays a dirt road leading into a mountain valley. To the viewer's immediate left, a grassy slope features a small puddle in the foreground, several evergreen trees further back, and a utility pole. On the immediate right, a steep cliff face covered in evergreen trees and large rocks rises, with the brown side of a cow visible at the extreme right edge. In the background, a large, rocky mountain stands prominently beneath a blue sky streaked with white clouds and overhead power lines.
+end of description
+Following the initial frame, the brown cow partially visible on the viewer's immediate right steadily moves out of the frame towards the right, completely disappearing from view by the fourth frame, while the rest of the mountainous scene remains static.
+frame_0000000512-frame_0000000640:
+A dirt road occupies the center foreground, extending into the distance. To the left, a grassy field with a small puddle leads up a gentle slope dotted with pine trees, a utility pole, and distant light-colored cows. To the right, the road is bordered by grass and large rocks, giving way to a dense forest climbing a steep, rocky mountain face. In the background, a large forested mountain looms, while power lines traverse the upper sky, which is bright blue with scattered white clouds.
+end of description
+The scene remains largely static across the initial subsequent frames, implying only very slight camera movement. However, starting from the ninth frame, a small, dark, flying object appears high in the sky, to the left of the power lines and above the grassy slope, subtly shifting its position by the final frame.
+frame_0000000640-frame_0000000768:
+A dirt road extends towards a distant tree-covered mountain, bordered by grassy fields with scattered rocks and steep, pine-forested hillsides to the right and left. Power lines stretch across the partly cloudy sky above, connecting to a utility pole on the left hillside.
+end of description
+A small dark object, initially visible in the sky above the distant mountain in the first frame, vanishes from the second frame onwards, leaving the rest of the static landscape unchanged throughout the sequence.
+frame_0000000768-frame_0000000896:
+A narrow dirt road extends into the distance, flanked by a grassy field to the left and a steep, tree-covered rocky cliff face to the right, with large boulders in the foreground on the right. A utility pole is visible on the left slope, and in the distance, mountains rise under a partially cloudy sky traversed by power lines.
+end of description
+As the frames progress, a small herd of brown animals (likely cows) gradually becomes visible on the left side of the road, moving slightly further back from the viewer and closer to the utility pole, where they appear to be grazing.

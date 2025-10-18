@@ -1,0 +1,33 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a view from a moving train, looking directly down two parallel train tracks that gently curve rightward into the distance. To the immediate left of the tracks, a river flows with visible rapids, bordered by a road and a steep, rocky, partially forested mountain face, where a small house is visible in the mid-ground. To the immediate right, a steep, grassy bank rises, leading to distant hills with sparse trees, all beneath an overcast sky. An overhead wire extends vertically downwards in the center-top of the frame.
+end of description
+As the scene progresses, the viewpoint moves continuously forward along the tracks, causing the river and the mountain slope to the left, and the grassy bank to the right, to progressively recede and move past the viewer's sides. An overhead power line pole, initially visible ahead on the left, approaches from the mid-distance and then passes the viewer's left side.
+frame_0000000128-frame_0000000256:
+The first frame shows a first-person view looking forward along a pair of train tracks receding into the distance, gently curving to the right. To the viewer's immediate left, a river with flowing water runs parallel to the tracks, bordered by a concrete barrier and a steep, rocky, tree-covered mountainside in the mid-ground, where a small house is visible. To the right, a grassy, barren hillside slopes upwards, parallel to the tracks. Several utility poles with wires stand upright beside the tracks, one prominent pole appears in the center-left. Distant mountains are visible beneath an overcast sky.
+end of description
+As the viewpoint moves forward, the train tracks, river, and surrounding landscape continuously scroll towards and then past the viewer. Utility poles on the left approach and then pass, revealing new sections of the riverbank. On the right, the bare hillside continues to unfurl, revealing additional details such as piled logs and a low stone retaining wall further along the track. The distant mountains maintain their general position relative to the horizon, as the immediate foreground shifts.
+frame_0000000256-frame_0000000384:
+The viewer looks forward along train tracks that curve gently to the right in the mid-ground. To the immediate left, a river flows parallel to the tracks, with a steep, tree-covered mountain rising beyond it. On the right, an earthen embankment rises steeply, showing some rocks near the bottom, while overhead wires cross the top of the frame, supported by a utility pole positioned to the left of the tracks. The distant valley is framed by mountains under a cloudy sky.
+end of description
+As the viewpoint moves forward, the train travels along the tracks, causing the initial utility pole and rocks on the right to recede and pass the viewer. New sections of the river on the left and the steep embankment on the right are continuously revealed ahead. More utility poles sequentially appear on the left side of the tracks, coming into view and then passing by as the train progresses deeper into the valley.
+frame_0000000384-frame_0000000512:
+The first frame captures a train's-eye view looking down two parallel tracks that curve gently right into a mountainous valley under an overcast sky. To the immediate left, a river flows alongside the tracks, bordered by a road and a steep, mostly bare hillside with a tall utility pole in the foreground and a distant white structure. A steep, grassy hill with coniferous trees along its crest rises to the immediate right of the tracks.
+
+end of description
+
+As the train moves forward, the immediate foreground elements like the tracks and ballast move rapidly backward, continuously bringing new sections of the river, road, and utility poles into view on the left, and revealing more of the steep, grassy hillside and distant mountains ahead.
+frame_0000000512-frame_0000000640:
+The first frame presents a view looking forward along train tracks that curve slightly to the right, extending into a valley. To the left of the tracks, a river flows, bordered by a lower, sparsely vegetated hillside, while a steeper, grass-covered hillside with evergreen trees at its crest rises immediately to the right. Distant mountains and a cloudy sky form the background, with an overhead wire and a utility pole visible further along the left.
+end of description
+As the viewpoint moves forward along the tracks, the river and the valley's hillsides continuously advance towards the viewer, revealing new sections. The utility pole on the left passes by the viewer, and another appears further along the tracks on the left. Concurrently, the grassy hillside on the right progressively transforms into a rocky cliff face adjacent to the tracks, with a wire fence becoming distinctly visible atop it.
+frame_0000000640-frame_0000000768:
+Centered from the viewer's perspective, parallel train tracks recede into a mountainous valley under an overcast sky, with an overhead wire spanning their path. To the immediate left, a fast-flowing river with rapids runs alongside the tracks, beyond which a sparsely treed valley wall rises, contrasting with the steep, rocky embankment and dense evergreen forest on the immediate right.
+
+end of description
+
+As the viewpoint progresses along the tracks, the river and the adjacent embankment on the right continuously pass by, revealing new segments of their rugged terrain and passing trees. The overhead wire extends ahead, while the distant mountains framing the valley gradually shift in perspective.
+frame_0000000768-frame_0000000896:
+The first frame displays two train tracks receding into the distance, viewed from a forward-moving perspective. To the left, a wide river flows alongside a rocky bank, with wooded hills and mountains extending into the background. To the right, a steep, brown grassy hillside covered with scattered rocks and evergreen trees rises, protected by a safety fence along its upper edge, and an overhead power line structure is visible. The sky is overcast.
+
+end of description
+As the viewpoint moves forward, the immediate riverbank on the left and the lower hillside on the right, visible in the first frame, continuously shift backward and past the original camera position. Simultaneously, objects initially further ahead in the first frame, such as distant river bends and new sections of the wooded hills and brown slope, progressively come closer and dominate the foreground. The overhead power line structure also moves past the original viewpoint, revealing more of the trackside environment continuously ahead.

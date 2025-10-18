@@ -1,0 +1,26 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a wet urban street with snow on the ground and trees, looking down a sidewalk on the left and a street with moving cars on the right. To the immediate left stands a tall black sign reading "980 HOWE" next to a modern building housing a glass-fronted cafe called 'PALLET', while a pedestrian signal pole showing a "Don't Walk" hand is visible on the far right. end of description. Over subsequent frames, the camera subtly pans to the left and slightly zooms out, gradually revealing more of the building's facade and the snowy sidewalk further to the left of the initial viewpoint. This movement causes the pedestrian signal pole to shift further right and appear relatively smaller within the frame, as light snowfall persists across the entire scene.
+frame_0000000128-frame_0000000256:
+The first frame depicts a wet, snowy city street scene featuring a prominent black vertical sign for "980 HOWE" and businesses, fronted by snow-dusted grey jagged blocks in the center-left. To the left is a reflective glass building, while to the right, a glass-fronted 'BALLET' establishment with indoor patrons and a street with cars and bare trees extends into the snowy distance.
+end of description
+The camera slowly pans left, revealing more of the glass building's entrance to the left of the main sign, previously partially obscured. Simultaneously, the 'BALLET' establishment and the distant street scene to the right shift further right relative to the first-frame viewpoint, gradually moving out of view as snow continues to fall consistently.
+frame_0000000256-frame_0000000384:
+The first frame captures a modern glass-fronted building on a wet, possibly snow-dusted sidewalk. To the viewer's right stands a tall dark sign displaying "980 HOWE" and various logos, situated above a tiered concrete planter, while the building's main entrance with revolving doors and a long glass canopy extends leftward, revealing bare trees and street reflections beyond.
+end of description
+Throughout the subsequent frames, the viewpoint subtly shifts leftward and slightly backward, continuously showing snowflakes falling. This movement gradually reveals more of the street and sidewalk to the left of the initial frame, where a large bus or truck and several pedestrians become distinctly visible as they move along.
+frame_0000000384-frame_0000000512:
+The first frame depicts a wet city street and sidewalk with a modern glass building featuring a prominent glass canopy on the right. A black delivery truck, headlights on, is positioned on the mid-left street, moving away from the viewer, while bare trees line the sidewalk extending into the distance on the left.
+end of description
+Across the following frames, the black delivery truck on the street steadily moves further into the distance and to the left, revealing more of the road behind it. No other significant dynamic changes or newly revealed objects are observed relative to the first-frame viewpoint.
+frame_0000000512-frame_0000000640:
+The viewer stands on a wet city sidewalk, facing down a street lined with bare trees and a multi-story building on the far left. A black delivery truck with headlights illuminated is visible in the mid-ground to the left, positioned on the wet, snow-dusted street alongside parked cars. To the right, a modern glass-fronted building with a prominent overhead glass canopy reflects ambient lights and street elements, displaying a "PALLETT" sign near its entrance.
+end of description
+The black delivery truck subtly advances forward, slowly moving further away and to the left from the viewer's original position along the street. Simultaneously, the reflections within the glass building facade subtly shift in sync with the truck's movement.
+frame_0000000640-frame_0000000768:
+The first frame displays a winter city street with a dark-colored bus, its headlights on, partially visible on the wet, snow-dusted street to the viewer's immediate left. A reflective sidewalk stretches centrally into the distance, bordered on the right by a modern building with a long glass facade and overhead canopy, and on the left by bare trees and other cars further down the street.
+end of description
+In the subsequent frames, the bus on the viewer's left slowly moves forward, progressively revealing more of its side, including a "UPS" logo. As the bus proceeds down the street, the previously obscured parked cars and buildings on the viewer's far left become increasingly visible, while the glass building and sidewalk on the right remain stationary.
+frame_0000000768-frame_0000000896:
+The first frame shows a wet city street under an overcast sky. To the left, a black bus is partially visible on the road next to a snowy patch and bare trees, paralleling a multi-story building, while to the right, a modern building with a glass facade and overhead canopy reflects vehicles and interior lights across a wet sidewalk.
+end of description
+Through subsequent frames, the black bus on the left advances, revealing more of its side as it moves forward. Simultaneously, cars on the street, including a white vehicle, drive forward, becoming more prominent. The reflections of these vehicles and other cars inside the glass building on the right also shift and progress, indicating ongoing traffic movement.

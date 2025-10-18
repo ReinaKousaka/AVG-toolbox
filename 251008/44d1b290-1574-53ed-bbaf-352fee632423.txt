@@ -1,0 +1,10 @@
+frame_0000000000-frame_0000000128:
+In the first frame, the foreground displays ground partially covered in light snow and brown leaves, with a paved path extending from the mid-left towards the mid-right. In the midground, three geodesic dome-like structures are visible behind a low glass barrier, with a person in a yellow vest inside the leftmost dome; a building with reflective windows stands further left. The background features numerous bare trees and a distant light-colored building under a clear blue sky.
+
+end of description
+
+As the frames progress, the viewpoint slowly pans to the right. The building on the far left and the leftmost geodesic dome gradually move out of view to the left, while the path extends further to the right. A park bench and additional bare trees become visible towards the far right of the scene. The person in the yellow vest recedes deeper into the leftmost dome.
+frame_0000000128-frame_0000000256:
+The first frame depicts a frosty park scene with a light-colored path extending from the bottom left towards the center, flanked on the right by ground covered in fallen leaves and frost. In the midground, three translucent, geodesic-dome-like structures are visible on a platform to the left of the path, with bare trees and distant buildings forming the background.
+end of description
+The subsequent frames reveal a very subtle forward camera movement, causing all visible objects to appear incrementally closer and slightly larger relative to the original first-frame viewpoint, without introducing any new elements or significant dynamic changes.

@@ -1,0 +1,28 @@
+frame_0000000000-frame_0000000128:
+A wooden boardwalk extends from the viewer's immediate foreground, receding towards the horizon and curving slightly right, flanked by dense, low-lying reddish-brown and green vegetation. To the distant left, a cluster of tall, slender trees with sparse canopies stands on a slight elevation, while distant hills or mountains are faintly visible across the horizon. The upper half of the frame is dominated by a partly cloudy sky with white, wispy clouds.
+end of description
+All subsequent frames are identical to the first; therefore, there are no dynamic changes or newly revealed objects or scenes.
+frame_0000000128-frame_0000000256:
+A wooden boardwalk extends from the bottom center of the frame, receding towards the distant horizon. Dense, low-lying vegetation, predominantly reddish-brown and green, flanks both sides of the boardwalk, stretching into the midground and background. A cluster of taller, dark-trunked trees with green foliage is visible on a slightly elevated area to the far left. In the background, low, dark hills appear beneath a partly cloudy blue sky, which occupies the upper half of the frame.
+end of description
+The viewpoint slowly tracks forward along the wooden boardwalk. Consequently, the vegetation initially in the midground of the first frame gradually shifts to passing alongside and eventually behind the original viewpoint, while the distant horizon and hills ahead appear to draw subtly closer. The forward motion consistently reveals new sections of the boardwalk and the expansive, scrub-covered landscape directly in front of the moving camera.
+frame_0000000256-frame_0000000384:
+The first frame presents a vast outdoor landscape featuring a light-colored wooden boardwalk extending from the bottom-center towards the horizon, curving slightly to the left in the mid-ground. Low-lying, dense vegetation with reddish-brown foliage covers the terrain on both sides of the boardwalk, stretching across the foreground and receding into the mid-distance. A cluster of taller trees is visible on the far left of the scene, while a distant line of trees marks the horizon on the right. In the far distance, subtle hills or mountains are discernible beneath a partially cloudy blue sky, with scattered white clouds appearing in the upper portion of the frame. The initials 'VRA' are present in the bottom right corner.
+end of description
+No dynamic changes or newly revealed objects or scenes occur in the subsequent frames; the entire landscape remains perfectly static relative to the first-frame viewpoint.
+frame_0000000384-frame_0000000512:
+The first frame presents a wide view of a wooden boardwalk stretching from the foreground into the distance, gently curving towards the left, surrounded by vast low-lying reddish-brown and green vegetation. In the far distance, green-covered hills are visible under a partly cloudy blue sky, with a sparse line of taller trees appearing on the far left.
+end of description
+As the frames progress, the viewpoint steadily moves forward along the boardwalk, creating a sensation of traversing the landscape. The immediate foreground continuously changes, with the boardwalk extending further into the scene and the surrounding vegetation appearing to recede. The distant hills and sky remain consistent in their relative spatial positions as the viewer advances through the environment.
+frame_0000000512-frame_0000000640:
+The first frame displays a wide, outdoor landscape featuring a wooden boardwalk extending from the bottom center, curving slightly left as it recedes into the distant background. This boardwalk is flanked by vast expanses of reddish-brown and green low-lying vegetation on both sides, stretching towards a distant tree line on the left and a forested mountain range across the far background. Above the landscape, a blue sky with scattered white, wispy clouds occupies the upper half of the frame, and a "VRA" logo is visible in the bottom right corner.
+end of description
+There are no dynamic changes or newly revealed objects in the subsequent frames; the scene remains static, with all visible elements and their spatial positions unchanged relative to the initial viewpoint.
+frame_0000000640-frame_0000000768:
+In the first frame, a wooden boardwalk extends directly away from the viewer, receding into the distance through the center of the image. On either side of the boardwalk, dense, low-lying scrubland with reddish-brown and yellowish-green vegetation fills the midground and foreground. To the far left, a cluster of taller, sparsely foliated trees is visible, while a long hill or mountain range covered in dark green vegetation stretches across the horizon from the center to the right. Above, a blue sky with scattered white, wispy clouds dominates the upper portion of the frame.
+end of description
+There are no dynamic changes or newly revealed objects in the subsequent frames; the scene remains static with all elements holding their initial spatial positions relative to the viewer.
+frame_0000000768-frame_0000000896:
+The first frame displays a wide, slightly elevated view of a vast marshy landscape. A wooden boardwalk extends from the bottom center, directly forward into the distant horizon. On either side, brown, reddish, and yellowish low-lying vegetation covers the ground, with a small stream or muddy water patch visible immediately to the left of the boardwalk. In the background, forested hills and mountains rise against a blue sky with scattered white clouds.
+end of description
+No dynamic changes or newly revealed objects occur in the subsequent frames; the scene remains static with no camera movement or shifts in viewpoint.

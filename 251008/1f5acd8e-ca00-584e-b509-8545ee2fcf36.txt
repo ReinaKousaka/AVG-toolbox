@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+A dirt road extends from the viewer into the midground, flanked by dense green foliage and tall evergreen trees on both sides. In the midground, the road curves right towards a clearing where a white pickup truck and a dark car are parked. A hazy mountain range rises in the far background above the treeline under a bright sky.
+end of description
+The viewpoint steadily advances along the dirt road, moving closer to the parked vehicles. Foreground vegetation on both sides of the road gradually shifts out of view as the camera proceeds forward. The white pickup truck and dark car, previously in the midground, become progressively larger and more central within the frame, indicating the viewer is approaching the clearing. The distant mountain range remains visible in the background throughout this forward motion.
+frame_0000000128-frame_0000000256:
+A dirt road extends from the foreground center towards the middle distance, flanked by lush green vegetation and dense evergreen trees on both sides. In the midground, the road gently curves left, leading to a small clearing where a white pickup truck and a dark sedan are parked, positioned centrally in the frame. Beyond the treeline, a hazy mountain range rises in the background under a bright sky, framed by more tall evergreen trees.
+end of description
+The camera slowly advances forward along the dirt road. This movement causes all visible objects, including the parked white pickup truck, dark sedan, surrounding forest, and distant mountain range, to appear progressively closer to the viewer's perspective. No new objects or scenes are revealed from the sides or behind the initial viewpoint.

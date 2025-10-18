@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a scenic view down an asphalt road with a double yellow line on the left and a white line on the right, curving towards the distant horizon; a reddish-brown rocky slope rises immediately to the left, while a muddy river bordered by green vegetation and a towering red rock cliff fills the right side of the frame under a clear blue sky.
+end of description
+The viewpoint steadily moves forward along the road, causing the immediate surroundings to recede from the foreground while new segments of the road, the left slope, and the right river/cliff continuously emerge from the distant curve. A white roadside marker pole appears on the mid-right side of the road, progressing towards the viewer. Later, a dark vehicle becomes visible on the distant road ahead.
+frame_0000000128-frame_0000000256:
+The first frame depicts a paved road curving ahead between a rocky, vegetated hillside on the left and a muddy river with a towering red cliff on the right, with a faint dark vehicle visible in the distance on the road.
+end of description
+The distant vehicle gradually approaches and clarifies into a red SUV, moving closer along the road before passing the viewer to the left. Subsequently, the viewpoint advances forward, moving past the immediate roadside vegetation and a small pole that were previously to the viewer's right.
+frame_0000000256-frame_0000000384:
+The first frame displays a paved road with double yellow lines on the left and a white line on the right, curving into the distant arid landscape, flanked by towering red rock cliffs on both sides, with a river and sparse green vegetation visible to the right under a clear blue sky.
+end of description
+A motorcycle with a rider gradually appears in the distance ahead of the viewer, approaching along the road through frames 2-4. By frame 5, the motorcycle has passed the first-frame viewpoint and is no longer visible in front, while the viewer's position advances along the road. The subsequent frames continue to show the viewer moving forward, revealing more of the curving road and the surrounding desert canyon landscape ahead.

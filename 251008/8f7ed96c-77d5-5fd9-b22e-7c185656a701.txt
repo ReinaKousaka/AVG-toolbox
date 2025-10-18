@@ -1,0 +1,28 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a city street from a sidewalk perspective; a tree trunk and a 'no parking' sign are in the immediate left foreground. Further left, a street contains parked cars (silver, blue, dark blue SUV) and a Penske truck, backed by buildings featuring "Prada" and "Tory Burch" storefronts. A person stands on the sidewalk in front of the viewer, slightly left of center, with a large tree behind them, while the right side is dominated by a reflective building facade.
+end of description
+In subsequent frames, the silver car on the far left of the street slowly moves forward and out of frame to the left, revealing a previously obscured dark sedan behind it, now positioned to the left of the blue SUV. No other significant movements or newly revealed objects occur; the Penske truck and the person on the sidewalk remain stationary in their original first-frame positions.
+frame_0000000128-frame_0000000256:
+The first frame captures a city street scene. On the left, a paved street holds a stationary blue SUV closest to the viewer, followed by a dark blue SUV and a white Penske truck. Along the street's left edge, luxury storefronts like "TORY BURCH" and "PRADA" are visible in glass buildings. A pedestrian in a plaid jacket stands on a patterned sidewalk in the mid-right, facing the street. To the right, a large building with a curved facade extends into the background, beneath a canopy of green trees.
+
+end of description
+
+In following frames, the building facade on the far right gradually reveals orange and teal "GUCCI" branding. Subsequently, the pedestrian turns right and walks away along the sidewalk, moving further into the distance. Simultaneously, the blue SUV, the Penske truck, and the dark blue SUV on the street all slowly advance forward, away from the viewer, while a yellow curb line becomes visible on the far right of the sidewalk.
+frame_0000000256-frame_0000000384:
+A city street scene is visible, featuring a concrete sidewalk extending from the bottom right towards the middle distance, bordered by a low concrete wall. On the left, a blue SUV and a white Penske truck are parked on the street, followed by buildings displaying "PRADA" and "MCLARENS" signs. A person in a striped cardigan walks away from the viewer on the sidewalk, with a "GUCCI" adorned building to their right.
+end of description
+Throughout the subsequent frames, the person on the sidewalk consistently walks further away from the viewer, moving into the distance while all other vehicles and buildings remain stationary.
+frame_0000000384-frame_0000000512:
+The first frame presents a city street with a blue Audi SUV parked to the left of a Penske truck. A woman with a backpack walks away from the viewer on the central sidewalk, flanked by trees and buildings, including a "PRADA" sign on the far left and an architectural building on the right.
+end of description
+The blue Audi SUV on the left moves forward, out of view, while the woman and other pedestrians on the sidewalk continue walking away from the first-frame viewpoint. The Penske truck and surrounding buildings remain stationary throughout the sequence.
+frame_0000000512-frame_0000000640:
+The first frame captures a city sidewalk scene with the viewer positioned behind a woman, dressed in a patterned cardigan and black pants, walking away towards the right of center. To the viewer's left, a white Penske moving truck is stopped alongside the curb, with a partial view of a blue car in front of it and buildings with bright storefronts beyond. The right side features a concrete planter filled with greenery, lining a grey building, while trees and distant street elements recede into the background. end of description. As the frames progress, the woman continues to walk further away from the viewer. She then turns her head slightly to her right, and her right hand rises, appearing to hold a cup or phone.
+frame_0000000640-frame_0000000768:
+A woman holding a cup stands on a sidewalk, facing left towards a large white Penske truck parked on the street beside her, while trees, buildings, and a planter with ferns line the street and sidewalk extending into the background.
+end of description
+The woman then walks forward and to the viewer's left, gradually moving out of frame as the sidewalk and street ahead are further revealed, showing more of the distant cityscape.
+frame_0000000768-frame_0000000896:
+The first frame captures a city street view with a large white Penske truck parked on the left, partially obscured by a tree, revealing its "Truck Rental" logo. A paved sidewalk extends towards the background, flanked on the right by a concrete planter box brimming with green ferns and a grey building wall. Further ahead on the sidewalk, pedestrians walk, while traffic lights, other vehicles, and tall city buildings are visible in the mid-ground and background.
+end of description
+The viewpoint steadily moves forward along the sidewalk, causing the Penske truck on the left to slowly recede and eventually move out of frame as the camera passes it. As the viewer progresses, more of the street ahead, including additional parked cars and pedestrians, is revealed. The green ferns and trees along the right continue to line the path as the scene unfolds.

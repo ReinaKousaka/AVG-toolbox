@@ -1,0 +1,10 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a wet, paved park path curving from the left foreground towards the center-right, with a large puddle covering the left lane. To the right, a bicycle rack holds a green bicycle, with a yellow bicycle positioned further right, all surrounded by numerous green trees, bushes, and distant benches in the background.
+end of description
+Throughout the subsequent frames, the most notable dynamic change is the visible rainfall creating consistent ripples and splashes within the puddles on the left side of the path, with the intensity of these effects fluctuating slightly.
+frame_0000000128-frame_0000000256:
+First, a wet park path curves left into the distance, bordered by a large puddle and grass on the left, and a bicycle leaning against a rack on the right. Lush green trees and bushes form a dense background, with a yellow-striped crosswalk visible on the road in the mid-ground. end of description. A white arrow, initially distant and partially submerged in a puddle on the path's left side relative to the viewer, appears in subsequent frames. This arrow steadily moves closer to the viewer along the left edge of the path, becoming fully visible and more prominent as it approaches the bottom center of the frame. Ripples in puddles and minor debris shifts also occur, while other environmental elements remain static.
+frame_0000000256-frame_0000000384:
+The first frame shows a wet asphalt path, strewn with fallen leaves and puddles, extending into the distance. On the left, a white arrow is painted on the path, while a yellow and white striped pedestrian crossing occupies the right foreground, beside which a green bicycle wheel is partially visible. Dense green foliage and trees line both sides of the path, forming a lush background with a street light post visible mid-right.
+end of description
+In subsequent frames, the green bicycle wheel on the far right progressively moves out of the frame to the right, disappearing completely as if moving away from the viewer, while the rest of the wet, leafy landscape remains still.

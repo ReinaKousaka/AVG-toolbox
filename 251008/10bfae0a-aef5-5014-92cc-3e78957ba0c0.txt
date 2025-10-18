@@ -1,0 +1,20 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a twilight city street with a dark brown tram stopped centrally, its illuminated interior revealing passengers, while a pedestrian walks away on the cobbled street to its left. To the tram's right, a partial view of another tram is seen, and buildings, including a prominent pink one with a "HOTEL KAISERHOF" sign, line both sides of the street.
+end of description
+Subsequently, the central tram begins moving forward and to the right, gradually revealing a red overhead pedestrian bridge emerging from the upper right, behind the tram. As the tram exits the frame to the right, the pedestrian on the left moves further away, and more of the street and background buildings are uncovered.
+frame_0000000128-frame_0000000256:
+The first frame presents a street scene at dusk with a dark tram stopped on tracks to the viewer's right. A pedestrian stands on the left sidewalk next to a streetlamp with a small tree, while buildings, including a prominent pink one with "HOTEL KAUFHOF" on the right, line the thoroughfare under an overhead display board for "Bertoldsbrunnen."
+end of description
+In the subsequent frames, the tram gradually moves forward and further to the right, away from the viewer's initial perspective. This motion progressively reveals more of the street and the front facade of the buildings to the right, while the person on the left sidewalk remains stationary.
+frame_0000000256-frame_0000000384:
+The initial frame presents a dusk scene on a pedestrian street with a stationary brown tram, doors open and passengers visible, occupying the middle ground; to its left, a lit street lamp, small tree, and planter box are in the foreground, while illuminated shops line the street to the far left and a pink "GALERIA KAUFHOF" building is visible in the background to the right, with an electronic display sign overhead.
+end of description
+In the following frames, the tram slowly begins to move to the right, gradually closing its doors, while a male figure emerges from the background on the left sidewalk, walking towards the viewer. As the tram continues departing rightward, a female figure appears behind the first pedestrian on the left sidewalk, and the tram eventually disappears from the right side of the frame.
+frame_0000000384-frame_0000000512:
+The first frame depicts a twilight city street with buildings lining both sides and a cobbled path in the foreground. A lamppost with a tree and a planter are slightly right of center, while a dark tram with open doors is stopped to their right, extending into the midground.
+end of description
+A male pedestrian walks from the right, passing in front of the stationary tram and the lamppost, moving towards the left. Simultaneously, a female is revealed sitting on the far side of the planter, to the left of the lamppost. Another female then emerges from the tram's open doors, stepping onto the street on the right side of the walking man.
+frame_0000000512-frame_0000000640:
+The first frame displays a twilight urban street scene featuring a wide pedestrian walkway on the left, lined by brightly lit shopfronts and orange banners, with people strolling in the distance. To the right, a dark tram is stopped on tracks, flanked by streetlights and small trees in planters; a person sits on a foreground planter, while another walks away to the right. The background shows more distant buildings under a dark blue sky.
+end of description
+The person walking in the foreground moves off-screen to the right. The dark tram then slowly begins to move rightward along the tracks, revealing more of the buildings and street behind it relative to the original viewpoint. It subsequently comes to a stop further to the right, and its doors open, indicating a potential boarding or alighting of passengers.

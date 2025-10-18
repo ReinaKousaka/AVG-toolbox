@@ -1,0 +1,28 @@
+frame_0000000000-frame_0000000128:
+A paved road extends forward through a valley under a clear blue sky, flanked by tall evergreen trees on the left and leafy vegetation with a utility pole on the right, with mountains visible in the distance ahead.
+end of description
+As the camera moves forward, the initial trees on both sides and the utility pole on the right pass out of view, revealing more of the valley. A streetlamp on a separate pole then appears on the right and also passes, while a large metal lattice tower emerges into view on the far left. Further ahead, a river becomes visible running alongside the right side of the road, with the distant mountains seeming to draw nearer.
+frame_0000000128-frame_0000000256:
+The first frame presents a narrow, paved road curving gently left, flanked by dense green vegetation, with towering mountains on both sides under a clear blue sky; a power line tower occupies the far left, while a utility pole with power lines stretches across the upper right above a visible river section.
+end of description
+As the viewpoint moves forward along the road, the power line tower on the left recedes and eventually exits the frame. The initial utility pole on the right also recedes and is replaced by a newly revealed, more distant street lamp further down the road to the right. The river on the right becomes more continuously visible, and the dense vegetation and mountainous terrain consistently shift into view, showcasing new details as the scene progresses.
+frame_0000000256-frame_0000000384:
+A two-lane road extends forward from the viewer, bordered by dense green foliage on both sides. A street light pole with overhead power lines is positioned to the left of the road, while large mountains, verdant with trees, rise in the midground and background on both the left and right under a bright blue sky.
+end of description
+As the viewpoint moves forward along the road, the street light pole recedes to the viewer's left and eventually passes out of view. The foreground vegetation continuously shifts, revealing new sections of the road and the distant mountainous landscape. Progressively, more of the mountain face on the left, along with some white buildings at its base, becomes visible to the left of the initial viewpoint's path.
+frame_0000000384-frame_0000000512:
+The first frame depicts a paved road with a lighter green section on its right side, extending away into the distance, flanked by lush green vegetation. To the left, a steep, tree-covered mountain rises sharply, with several white buildings and utility poles visible near its base, while dense trees and bushes line the right side of the road under a clear blue sky.
+end of description
+As the viewpoint moves forward, the road and surrounding vegetation appear to advance towards and past the viewer. On the right side, a street lamp post progressively emerges from behind the trees, moving from the right of the frame towards and past the viewer. The mountain on the left and the buildings recede into the distance as the scene unfolds.
+frame_0000000512-frame_0000000640:
+A paved road, with distinct light brown and green sections, stretches forward from the viewer, bordered by dense green vegetation. To the left, a large, tree-covered mountain rises steeply, revealing multi-story buildings and utility poles near its base, while a tall evergreen tree stands prominently on the right. The blue sky with white clouds frames the distant mountains visible ahead.
+end of description
+As the viewer progresses, the large tree on the right moves out of frame, and the roadside vegetation, buildings, and utility poles on the left pass by and recede into the distance. The overall scene expands slightly as the foreground elements shift, emphasizing the continuing road and mountains ahead.
+frame_0000000640-frame_0000000768:
+The first frame presents a paved road extending forward, featuring a light green lane on its right. Lush green vegetation borders both sides, with a tall, forested mountain on the left alongside distant buildings and a yellow-striped street lamp pole closest to the viewer. Multiple power lines stretch across the clear blue sky, with more mountains visible in the distance.
+end of description
+As the viewpoint advances along the road, the street lamp pole moves out of sight to the left, while the buildings and a large power pylon on the left become more prominent. Simultaneously, trees lining the right side of the path grow larger and clearer, revealing more of the mountainous landscape ahead.
+frame_0000000768-frame_0000000896:
+The first frame presents a paved road extending forward, bordered by dense green foliage; a large, tree-covered mountain with power line towers and distant buildings dominates the left, while several tall evergreen trees line the right under a bright blue sky.
+end of description
+As the viewpoint progresses, the prominent evergreen tree on the right recedes, and a black street light pole with a large grey fixture gradually emerges from behind the trees on the right side of the path. This street light continues moving towards and then past the viewer's immediate right, as the road ahead and the distant mountains on both sides slightly shift, indicating forward movement.

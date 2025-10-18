@@ -1,0 +1,31 @@
+frame_0000000000-frame_0000000128:
+A two-lane road extends into the distance, featuring a yellow and black bollard on a raised island in the middle-left. To the left, a white house with a large green tree is visible, with several red farm machinery items further down the road. On the right, a beige building stands behind a wooden fence, pink flowering bushes, and a green hedge, all against a backdrop of distant green hills and mountains under a cloudy sky.
+end of description
+The viewpoint moves forward along the road. The yellow and black bollard recedes from the middle-left towards the bottom-left, while the white house, large tree, and red machinery on the left move further away from the viewer. Concurrently, the beige building, fence, and bushes on the right also recede, revealing a blue street sign appearing on the right side of the road in later frames.
+frame_0000000128-frame_0000000256:
+The first frame displays a paved road stretching into the distance towards distant green hills under a cloudy sky, with a small island featuring two black and yellow bollards in the mid-ground. To the left, a large tree, a streetlight, several red agricultural machines, and a portable toilet are present; to the right, a building, a hedge, and another streetlight line the road.
+end of description
+As the frames progress, the viewpoint moves forward along the road. The initial foreground objects, like the streetlights and the red machines on the left, shift laterally and eventually move out of the viewer's immediate perception as new sections of the roadside appear. The building on the right becomes more fully revealed, exposing its yellow shutters, and the distant landscape approaches.
+frame_0000000256-frame_0000000384:
+A two-lane road leads into the distance under a cloudy sky, flanked by mountains and trees in the background; to the left, red farm equipment is parked on a paved area, while to the right, a brown house with yellow shutters stands adjacent to the road, with a smaller light-colored house further behind it.
+end of description
+As the viewpoint moves forward, the brown house and the lighter house with a black car parked in front of it on the right progressively move out of view to the right. Concurrently, the red equipment on the left also recedes and moves out of frame, while a street light initially positioned near them shifts more centrally into the left half of the frame, revealing more of the road ahead.
+frame_0000000384-frame_0000000512:
+The first frame presents a rural road extending into the distance under a cloudy sky, with distant mountains in the background. To the left, a streetlamp and two red heavy machinery vehicles are visible beside a green field, while on the right, a beige two-story house with a brown roof and parked cars sits along the road.
+end of description
+As the viewpoint moves forward, the red machinery and initial streetlamp on the far left, along with the parked cars on the right, disappear from view to their respective sides. This motion fully reveals the beige house on the right, while a brown house previously partially hidden behind it becomes clearly visible further down the road. The landscape beyond the initial viewpoint progressively unfolds, showing new sections along the continuing road.
+frame_0000000512-frame_0000000640:
+In the first frame, a paved two-lane road with white dashed and solid yellow lines extends directly in front of the viewer, curving slightly to the right in the mid-distance. To the immediate left is a wide strip of green grass, bordered by trees, while a traditional house with a brown upper story, white lower story, and red shutters stands prominently to the right, behind a low stone wall and a paved shoulder. A tall street light is positioned on the left side of the road, and in the background, a range of mountains is visible beneath an overcast sky.
+
+end of description
+
+As the scene progresses, the viewer's perspective moves forward along the road. The house on the right gradually recedes and eventually moves out of view to the right, revealing more of the road and trees previously beyond the initial frame. The street light on the left moves closer to the viewer and eventually passes out of view to the left. A small red bollard or similar object emerges on the right side of the road, further into the scene than initially visible.
+frame_0000000640-frame_0000000768:
+In the first frame, a paved road with white and yellow markings stretches forward, curving gently to the right in the mid-ground. To the immediate right, there's green grass, shrubs, a red fire hydrant, and a white building with a brown roof. On the left, beyond a grassy area, stands a large tree with a street light pole, and further back, a small red building. Distant mountains are visible in the background beneath an overcast sky.
+
+end of description
+The viewer moves forward along the road. The red fire hydrant on the right slowly moves out of view to the right. The white building on the right and the red building on the left recede into the distance as the viewpoint advances. The yellow and black striped bollard on the road island approaches the viewer, moving from the mid-ground to the foreground before passing to the left.
+frame_0000000768-frame_0000000896:
+The first frame shows a two-lane road curving slightly to the right, extending into the distance from the foreground. A black and yellow striped bollard rests on a small raised median slightly to the left of the road's center. A large leafy tree stands prominently on the left, with a streetlight in front, while another large tree is partially visible on the far right. In the distance, a light-colored car approaches on the curving road, with evergreen trees, a small white building, and hazy mountains visible under a cloudy sky.
+end of description
+As the frames progress, the viewer moves forward along the road. The black and yellow bollard and its median shift towards the lower left of the first-frame viewpoint, eventually moving out of frame. Concurrently, the distant light-colored car rapidly approaches, appearing larger as it moves closer along the road from the first-frame's distant position, eventually passing by. The small white building on the right and other elements of the scenery also become clearer and larger as the viewer draws nearer to them.

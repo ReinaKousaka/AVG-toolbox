@@ -1,0 +1,18 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a sunny street scene with buildings lining both sides under a clear blue sky. In the foreground, a crosswalk and a manhole cover are visible. To the left, a storefront with a blue awning and merchandise display, along with a street sign pole and several parked bicycles, occupies the sidewalk. On the right, a building with a textured white facade and a 'Cafe' sign has a bicycle parked against it. Three pedestrians are walking away from the viewer in the middle of the street, which recedes into the distance, framed by additional buildings and overhead utility wires.
+
+end of description
+
+Through the subsequent frames, the three pedestrians consistently move further away from the viewer, progressing down the street towards the background. Their spatial position shifts from the middle ground to a more distant perspective within the original scene, appearing smaller as they recede. All other elements, including the buildings, parked bicycles on both sides, and overhead wires, remain static relative to the first-frame viewpoint, with no new objects or scenes becoming visible.
+frame_0000000128-frame_0000000256:
+The first frame shows a narrow urban street extending into the distance under a clear sky, flanked by buildings on both sides. In the foreground on the right, a dark bicycle with a basket leans against a white building, which features a "Hair Salon Fam" sign. On the left foreground, several bicycles are parked in a row behind a blue awning and some green plants. In the midground, three men walk towards the viewer down the center-right of the street, with power lines crisscrossing overhead. Buildings with various signs and awnings line both sides of the street, receding into the background.
+
+end of description
+
+The three men in the midground continue walking closer to the viewer, progressively enlarging and moving slightly rightward relative to their initial positions. Later frames reveal a scooter with a large white delivery box emerging from the distant background on the left side of the street. The scooter moves swiftly towards the viewer, passing by the row of parked bicycles on the left.
+frame_0000000256-frame_0000000384:
+The first frame depicts a narrow urban street lined with multi-story buildings under a blue sky, crisscrossed by overhead utility lines. To the immediate right, a parked bicycle with a basket is beside a building housing a 'Hair Salon Fam' and a '2F Cafe,' marked by a barber pole. In the mid-ground center, two men walk towards the viewer, the leading man in a blue jacket holding a phone. To the left, a person on a scooter with a large white delivery box moves away from the viewer, while a lone pedestrian in purple walks further down the street in the distant background.
+
+end of description
+
+The two men initially in the mid-ground continue walking forward, passing to the viewer's left. Simultaneously, the person on the scooter on the far left recedes further into the distance. A third man, wearing a face mask, emerges from behind the second man and passes to the viewer's immediate left. The pedestrian in purple in the distant background also moves further down the street, away from the viewer, as the foreground clears.

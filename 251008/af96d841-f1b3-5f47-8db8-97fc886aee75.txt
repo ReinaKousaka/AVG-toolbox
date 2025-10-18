@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+A rainy intersection scene features a crosswalk diagonally across the foreground, with a silver car partially visible in the bottom-left. In the midground, a white car travels on the road to the left, while traffic poles with red lights and a large white umbrella are centrally positioned. Behind them, dense green trees line the left background, and tall white buildings stand on the right.
+end of description
+The foreground silver car proceeds to the right, passing the viewer's position. Simultaneously, the mid-left white car continues its movement towards the right, out of frame. Subsequently, a silver SUV enters from the far left, driving towards the center-right of the intersection.

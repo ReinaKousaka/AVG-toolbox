@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+A snowy street scene is visible with a light-colored pickup truck and a dark trash receptacle occupying the foreground left. To the right, a sidewalk leads past a "Winter Rentals" sign and an outdoor clothing rack, fronting an "East Slope Outdoors" shop. Beyond, multi-story buildings line the left side of the street, with a bare tree, a pedestrian crossing sign, and distant mountains under a blue sky filling the background.
+end of description
+Between frames six and seven, the dark trash receptacle previously located in the foreground left is removed from the scene. No other objects or scenes are newly introduced or dynamically altered throughout the sequence.
+frame_0000000128-frame_0000000256:
+The first frame shows a snow-covered street bordered by a brown "East Slope OUTDOORS" shop with outdoor clothing racks on the right. On the left sidewalk, a "Winter Rentals" A-frame sign and a pedestrian crossing sign are near a partially visible white vehicle, with other buildings and bare trees lining the street toward distant mountains.
+end of description
+As the frames progress, the viewpoint shifts slightly forward and right, causing the "Winter Rentals" sign and white vehicle to recede further left and mostly out of frame relative to the initial position. Concurrently, more of the "East Slope OUTDOORS" storefront and a second clothing display rack, originally to the right of the visible one, become more prominent in the foreground.

@@ -1,0 +1,16 @@
+frame_0000000000-frame_0000000128:
+The first frame captures a narrow alleyway descending, flanked by an ancient stone wall and a building with a brown tiled roof on the left, and a weathered wall with a rusty drainpipe on the right, all close to the viewer. Through the central opening, distant buildings with red-tiled roofs, a prominent green tree, and a bell tower are visible in the midground, beyond which a blue lake and large mountains recede into the background.
+end of description
+The subsequent frames reveal no dynamic changes or newly revealed objects; the entire scene remains static from the initial viewpoint.
+frame_0000000128-frame_0000000256:
+The first frame captures a narrow alleyway looking down towards a body of water and distant mountains. To the viewer's immediate left, a stone wall with a blue '4' sign extends from a building with a dark roof. On the right, a textured, light-brown building wall with a rusty downspout and wooden beam frames the scene. In the midground, between these walls, are rooftops with reddish tiles, a prominent green tree, and a white building with a balcony. In the distance, a blue lake, a church tower with an orange steeple, and large green mountains under a bright sky are visible.
+end of description
+The video features a very subtle camera movement, gently pulling back and zooming out. This slightly widens the view of the alley, revealing a minimal additional portion of the stone wall on the left and the base of the building on the right. Consequently, the distant lake and mountains appear to recede marginally, becoming slightly smaller within the frame relative to the initial viewpoint.
+frame_0000000256-frame_0000000384:
+The first frame presents a narrow alley, framed by a dark stone wall on the left foreground and a light, rough plastered wall on the right foreground. Through the opening, midground buildings with red-tiled roofs and green foliage are visible, along with a bell tower featuring an orange conical roof centered further down the alley. In the distant background, a blue lake stretches before mountains under a pale sky.
+end of description
+The subsequent frames show a very subtle, almost imperceptible forward movement of the camera, causing the entire visible scene to appear marginally closer and slightly larger within the frame. No new objects are revealed, and the spatial positions of existing objects relative to the first-frame viewpoint remain constant, with only a slight optical magnification occurring.
+frame_0000000384-frame_0000000512:
+The first frame depicts a narrow alleyway framed by a rough stone wall on the left and a textured beige wall on the right, leading down towards a distant view. In the mid-ground, a green bush with red flowers is to the left, and a building with a balcony to the right, both flanking a visible bell tower with an orange roof, beyond which a blue body of water and mountains are seen in the background.
+end of description
+Throughout the subsequent frames, the viewpoint subtly advances forward and downward into the alley. This movement causes the flanking walls to seemingly broaden while the bell tower, water, and mountains in the background gradually appear larger and more central, deepening the perspective into the scene.

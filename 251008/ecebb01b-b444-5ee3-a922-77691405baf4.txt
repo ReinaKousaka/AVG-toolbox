@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a paved road extending forward, curving gently to the right in the distance, flanked by arid scrubland on both sides. In the mid-ground and background, distant reddish-brown rock formations are prominent on the right, with flatter, lighter terrain visible further left under a clear blue sky.
+end of description
+The viewpoint progresses forward along the road, causing the scrubland adjacent to the road to pass by, and the prominent red rock formations on the right to grow larger and closer. Subsequently, a white 'SPEED LIMIT 30' sign emerges in the mid-ground to the right of the road, becoming increasingly clear and larger as the journey continues.
+frame_0000000128-frame_0000000256:
+The first frame presents a paved road curving slightly to the right in the foreground and midground, featuring a solid white line on its right edge and double yellow lines in the center. To the immediate right of the road, a 'SPEED LIMIT 30' sign is positioned, surrounded by a desert landscape with low green and brown bushes. In the midground and background, prominent red rock formations and mountains stretch across the scene, all under a clear blue sky.
+end of description
+As the camera moves forward, the speed limit sign, initially in the foreground to the right, quickly recedes and moves out of view behind the first-frame viewpoint. The road ahead gradually straightens, bringing the red rock formations on the right side, originally in the midground, much closer to the advancing first-frame viewpoint. Simultaneously, a natural archway within these red rocks becomes distinctly visible in the midground to the right, replacing earlier, more distant parts of the formation.
+frame_0000000256-frame_0000000384:
+The first frame depicts a paved road curving right from the bottom center into the middle distance, flanked by desert terrain with low shrubs. Towering red rock formations dominate the far right, with other formations visible across the mid-ground and distant left, all under a clear blue sky.
+end of description
+As the viewpoint moves forward along the road, the foreground terrain passes by. A prominent natural rock arch, previously indistinct among the distant red formations on the right, becomes clearly defined and closer to the viewer. Subsequently, a distinct pillar-like rock formation emerges into view further along the road, to the far right beyond the arch and near the towering cliff.

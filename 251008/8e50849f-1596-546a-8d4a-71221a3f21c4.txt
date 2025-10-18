@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+A wet paved path extends directly forward from the viewer, flanked by lush green grass on both sides. To the left, a grassy slope rises, topped by a row of trees and a building in the background; a black lamppost and a wooden fence post with rope are visible nearby. To the right, another grassy area is bordered by a wooden post and rope fence, while distant hills appear under a cloudy sky.
+end of description
+The camera moves forward along the wet path. Foreground details like the grassy edges and fence posts on both sides progressively move out of frame at the bottom, revealing new sections of the path and its immediate surroundings further ahead from the first-frame viewpoint. The distant trees, building, and hills remain largely stationary in the background.
+frame_0000000128-frame_0000000256:
+A wet paved path stretches into the distance from the viewer, with a grassy slope rising to apartment buildings and a row of trees to the left. To the right of the path, a grassy area is bordered by a rope fence, and distant mountains are visible under a cloudy sky.
+end of description
+The viewpoint steadily moves forward along the wet path, causing the foreground elements like the fence posts and grass to appear closer and larger. The trees on the left also approach, revealing more of their trunks and foliage as the scene progresses without revealing any new objects.
+frame_0000000256-frame_0000000384:
+A wet paved path extends into the distance, flanked on the left by a grassy slope with trees and a building further back, and on the right by a rope fence, more grass, and distant trees and hills under an overcast sky.
+end of description
+In the final frame, a yellow object, likely an umbrella or canopy, becomes partially visible entering the top-left corner of the view, while the rest of the scene remains static.

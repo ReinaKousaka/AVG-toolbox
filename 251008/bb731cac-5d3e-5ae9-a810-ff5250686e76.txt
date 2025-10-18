@@ -1,0 +1,14 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a paved road curving gently to the right, bordered by a metal guardrail on the left and a steep, rocky mountainside on the right. Beyond the guardrail, a deep valley with densely forested mountains extends into the background, beneath a blue sky with scattered white clouds, with motion blur on the sides suggesting forward movement.
+
+end of description
+
+As the viewpoint progresses forward, the road, guardrail, and mountainsides move past the viewer. A white car, initially further down the road, and a triangular road sign, situated on the right mountainside beyond the first frame's visible extent, both become closer. Eventually, a drainage grate emerges on the right shoulder, further ahead along the road from the initial observation point.
+frame_0000000128-frame_0000000256:
+The first frame displays a two-lane road extending directly away from the viewer, featuring a gray median strip and white lane markings. To the left, a metal guardrail borders a steep, forested mountain range, while to the right, a rocky embankment rises, hosting a triangular road sign with a mountain symbol and "1500m". Further down the road, a white van is visible in the distance, centered on the lanes, all beneath a blue sky with scattered white clouds.
+end of description
+As the frames progress, the viewpoint moves forward along the road. The white van, initially in the distance, steadily approaches the viewer and eventually passes to the left. Simultaneously, the road sign on the right draws nearer before receding out of frame to the viewer's right, revealing a more prominent stone retaining wall along the right embankment.
+frame_0000000256-frame_0000000384:
+A wide-angle view presents a paved mountain road extending forward, curving slightly right, with a double white centerline and a white line on the right edge. A white minivan is partially visible on the road's left side, in the opposite lane, moving towards the viewer. To the left are a metal guardrail and steep, tree-covered mountains, while a stone retaining wall borders the right, topped by vegetation under a blue, cloudy sky.
+end of description
+The white minivan swiftly moves from the left of the viewer and passes out of frame to the viewer's immediate left. As the viewpoint advances, the guardrail and a white circular sign further down the road on the left become increasingly visible, while a square manhole cover emerges on the road's right side.

@@ -1,0 +1,10 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a light-colored wooden boardwalk extending from the viewer's immediate foreground towards the middle distance, surrounded by lush green and reddish-brown vegetation. In the midground, a small dark pond is visible slightly to the right of the boardwalk, with a dense forest of evergreen and some bare trees stretching into the background, and a distant mountain peak in the upper right.
+end of description
+Throughout the subsequent frames, the viewpoint subtly advances forward along the boardwalk. This dynamic shift causes the foreground vegetation to appear incrementally closer, slightly altering the perspective on the surrounding forest and distant mountain, but without revealing any entirely new objects or scenes.
+frame_0000000128-frame_0000000256:
+The first frame presents a wooden boardwalk extending from the bottom foreground into the middle distance, curving slightly left and flanked by green and reddish-brown ground vegetation. In the midground, a small pond is visible ahead, surrounded by numerous evergreen trees and a distant, partially snow-capped mountain range under an overcast sky.
+
+end of description
+
+The camera subtly zooms out and pans slightly to the right, causing the boardwalk and foreground elements to appear marginally smaller and less prominent. This motion expands the visible landscape, revealing more of the tree-covered, snow-dusted mountain on the far right, which shifts further right relative to its original position within the first frame.

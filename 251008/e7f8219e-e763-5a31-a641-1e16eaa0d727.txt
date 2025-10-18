@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+A dirt path recedes into a dense, verdant forest, flanked by bright green ferns. A large, moss-covered tree trunk leans diagonally from the mid-left towards the upper right, partially obscuring the bright sky above. More mossy trees and foliage fill the background on both sides.
+end of description
+The following frames show a very subtle, almost imperceptible forward camera movement along the path, causing the distant forest and path to appear slightly closer as if the viewer is slowly advancing through the scene, maintaining the same overall composition.
+frame_0000000128-frame_0000000256:
+A verdant forest path stretches from the foreground into the background, flanked by lush green ferns. A large, moss-covered tree trunk leans prominently from the mid-left, arching over the path towards the upper center. Numerous other trees, also richly covered in moss, create a dense canopy in the midground and background, through which a bright sky is faintly visible at the top.
+end of description
+There are no dynamic changes or newly revealed objects in the following frames, as all frames are identical to the first.

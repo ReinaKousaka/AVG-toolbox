@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a vibrant green grassy field spanning the foreground and mid-ground. A dirt path runs diagonally from the mid-right towards the center, bordering a dense line of trees forming a forest that extends into the background on the right. On the far left, two distinct trees stand on a small rise under a bright sky with wispy clouds.
+end of description
+The camera slowly moves forward and slightly to the right relative to the initial viewpoint. This gradual movement reveals more of the path and the forest's edge on the right, while the two trees on the left recede further towards the left edge of the frame.
+frame_0000000128-frame_0000000256:
+The first frame shows a bright green grassy field in the foreground and mid-left, extending to a gentle rise in the background. A dirt path runs diagonally from the mid-right towards the distant center-right, bordered by a dense line of dark green trees on its right that extends into the background. In the distant background, beyond the grassy rise, several scattered trees are visible, including a prominent large tree centrally positioned and a smaller one to its right. The upper portion of the frame reveals a light blue sky with sparse white clouds.
+end of description
+No dynamic changes occur across the subsequent frames; the scene remains static with all objects maintaining their spatial positions relative to the first-frame viewpoint, and no new objects or scenes are revealed.
+frame_0000000256-frame_0000000384:
+The first frame displays a wide, vibrant green grassy field spanning the left half and foreground, leading up to a gentle rise in the mid-ground where several trees stand against a partly cloudy sky. A narrow dirt path begins in the foreground on the right, tracing a gradual curve towards the mid-ground, bordered by a dense line of trees on the far right that extends towards the horizon.
+end of description
+There are no discernible dynamic changes or newly revealed objects or scenes across the subsequent frames; all frames appear identical to the first.

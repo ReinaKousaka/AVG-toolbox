@@ -1,0 +1,18 @@
+frame_0000000000-frame_0000000128:
+A wet urban street scene unfolds, with a paved sidewalk on the left separated from a road on the right by a utility pole. A dense green hedge borders the sidewalk on the far left. Two people walk away from the viewer on the sidewalk: the closer one holds a purple umbrella, and another further back holds a black umbrella. On the street, a green bus is partially visible on the far right, and several cars are further down, with buildings in the background.
+
+end of description
+
+The individual with the purple umbrella walks steadily away from the first-frame viewpoint along the wet sidewalk. The second person, previously visible behind the first, moves out of frame to the far left. As the woman with the purple umbrella progresses, more of the continuous green hedge and the receding line of trees along the left side of the sidewalk become visible relative to her movement. The stationary utility pole remains on the right, while the cars on the street continue their movement away into the distance.
+frame_0000000128-frame_0000000256:
+The first frame captures a rainy street scene: a woman holding a purple umbrella walks away from the viewer on a wet path on the left, flanked by a dense forest of trees and green bushes. To the right of the path, a row of trees separates it from a wet road where multiple cars, including a dark SUV and a white SUV, are visible further away from the viewer. In the immediate foreground on the right, a grey utility pole adorned with white floral patterns and graffiti partially obscures the road.
+
+end of description
+
+The woman with the purple umbrella slowly walks forward along the path, moving further away from the viewer. Concurrently, the cars on the road to the right continue their movement away from the first-frame viewpoint. The heavy rain persists throughout the sequence.
+frame_0000000256-frame_0000000384:
+The first frame depicts a rainy urban scene. A person holding a purple umbrella walks away from the viewer on a dark, wet path marked with a white centerline and a bicycle symbol, positioned slightly left of the frame's center. To the left of the path, a lush green hedge with scattered rocks runs alongside a dense line of trees. To the right, a wet sidewalk parallels a multi-lane road where several cars are visible, including a dark SUV in the mid-distance and a white car on the far right. Utility poles and bare-trunked trees separate the path from the road, while distant buildings and signs are visible on the far right.
+
+end of description
+
+In subsequent frames, the individual with the purple umbrella continues walking forward, receding further into the distance along the path relative to the viewer's original position. The falling rain remains constant across all surfaces. The cars on the adjacent road to the right of the path also exhibit slight movement, advancing further down the street.

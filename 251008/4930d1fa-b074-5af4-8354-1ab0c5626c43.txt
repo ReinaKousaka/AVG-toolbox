@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a gravel road curving gently left and uphill, flanked by dense green foliage on the left and shorter grass and trees on the right. In the distance, evergreen trees rise before a large green hill, all beneath a cloudy sky with hints of blue, while utility poles with power lines recede along the right side. Overlays for "BUY ME A COFFEE" and cycling data are present at the bottom-center and top-right respectively.
+end of description
+As the frames progress, the viewpoint continuously moves forward along the winding gravel road. The road surface and the immediate surrounding green vegetation on both sides become closer and more detailed, indicating movement towards them. The utility poles initially seen on the right gradually pass out of view, revealing new segments of the road and further trees ahead in the distance as the journey continues.
+frame_0000000128-frame_0000000256:
+A gravel road curves slightly left from the bottom center, flanked by dense green foliage on the left and a grassy, tree-lined slope on the right. In the background, a distant hillside is covered in forest beneath a sky with both blue patches and heavy grey clouds. Overlays include speed, grade, distance (2.5 KM), and a "BUY ME A COFFEE" prompt in the bottom left.
+end of description
+The camera moves forward along the gravel road from the first-frame viewpoint. The "BUY ME A COFFEE" overlay disappears by the second frame. As the viewer progresses, the road and surrounding vegetation on both sides continuously shift closer and pass by, with the distant hillside remaining ahead, and the displayed distance updates to 2.6 KM by the seventh frame.
+frame_0000000256-frame_0000000384:
+The first frame displays a gravel road receding into the distance, flanked by dense green foliage and trees covering rising slopes on both sides, with more forest visible on a distant hillside. Above, a partly cloudy sky is seen, and a digital overlay in the top right corner shows "Speed 6 KM/H", "Grade 8%", and "Distance 2.6 KM".
+end of description.
+As the frames progress, the viewpoint moves forward along the road, causing the immediate roadside vegetation on the left and right to recede behind the viewer while continuously revealing new sections of the path and further trees ahead. Concurrently, the overhead power lines remain visible slightly to the left of the path, and the displayed speed in the top right overlay increases from 6 KM/H to 7 KM/H from frame 5 onwards.

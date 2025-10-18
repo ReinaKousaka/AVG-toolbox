@@ -1,0 +1,28 @@
+frame_0000000000-frame_0000000128:
+The first frame captures an old building with a sliding door and blue tarp on the far left, alongside a brick building to its right featuring a dark grated door, a mailbox, and a storefront with a red postbox and bicycle. On the sidewalk to the right, a person with a purple umbrella walks away from the viewer, with a street and utility poles in the background.
+end of description
+As the frames progress, the viewpoint subtly shifts forward and right. The left-side old building moves further out of view, revealing more of the adjacent brick wall, while the person with the umbrella continues walking further down the sidewalk, away from the initial position, expanding the view of the street to the right.
+frame_0000000128-frame_0000000256:
+On the left, a brown brick-patterned building wall features a dark grated door and a silver mailbox. To its right, a beige building houses a post office with glass doors and windows displaying Japanese signs; a red cylindrical post box and a bicycle are positioned on the sidewalk in front of it. A person holding a purple umbrella walks away from the viewer on the sidewalk, which is separated from a street by a grey utility pole and metal barriers on the right. Distant buildings line the street under a clear sky.
+end of description
+The viewpoint moves forward along the sidewalk. The brick wall and mailbox on the left recede, revealing more of the post office's leftmost glass entrance and detailed posters to the left of its initial position. The person with the umbrella continues walking further away along the sidewalk, receding into the background. The red post box and bicycle are gradually passed by the moving viewpoint, shifting to appear more rightward relative to the frame's center. New sections of the street and distant buildings are continuously revealed further ahead.
+frame_0000000256-frame_0000000384:
+The first frame presents a building wall on the viewer's left, featuring posters, a prominent red mailbox, and a parked bicycle next to it. A person holding a blue umbrella walks away from the viewer on the adjacent sidewalk to the right, alongside a road with distant buildings and utility poles under a clear sky.
+end of description
+In subsequent frames, the camera advances, bringing the building wall and its 'POST OFFICE' signage on the left closer and more into view. Simultaneously, the red mailbox and bicycle appear to shift slightly to the left and recede, as the person with the umbrella continues walking further away on the right sidewalk, towards the receding street.
+frame_0000000384-frame_0000000512:
+On the left, a red Japanese postbox and a black bicycle with a basket are positioned in front of a building facade marked "POST OFFICE" with reflective windows. To the right, a person holding a blue and white umbrella walks away from the viewer on a sidewalk, alongside a street with buildings, overhead wires, and utility poles extending into the distance under a clear sky.
+end of description
+The viewpoint slowly advances forward and slightly to the right, causing the red postbox and then the bicycle to gradually exit the frame to the left. The person with the umbrella continues walking further away down the street from the initial viewpoint. Subsequently, a new person becomes visible standing inside the post office building, through the reflective windows, to the left of the umbrella-holder's path.
+frame_0000000512-frame_0000000640:
+The first frame captures a street with a bicycle's front wheel and basket in the left foreground. A building with large glass windows and an open doorway flanks the left, while a person with a blue and white umbrella walks away on the right sidewalk, alongside a street lined with distant buildings and overhead wires under a clear sky.
+end of description
+The person with the umbrella continues walking further away from the viewer on the right sidewalk. Simultaneously, the person previously visible in the open doorway on the left recedes further into the building or turns away from the viewpoint. The bicycle and the overall street scene remain stationary.
+frame_0000000640-frame_0000000768:
+The first frame captures a street view with a building on the left, featuring a large glass window and an open doorway from which a person in a light shirt is emerging. On the sidewalk to the right of this doorway, another person holding a purple umbrella walks away from the viewer, parallel to a road extending into the distance, which is lined with buildings and overhead utility wires under a clear blue sky.
+end of description
+Subsequently, the person in the light shirt fully exits the frame to the left as the doorway they emerged from begins to close. Concurrently, the person with the umbrella continues walking further away from the viewer on the sidewalk, and a cyclist newly appears on the road in the background, moving towards the viewer from the distant right.
+frame_0000000768-frame_0000000896:
+From a sidewalk perspective, an open garage entrance and a closed door are immediately to the left, with the building extending forward. To the right, a street stretches into the distance, bordered by buildings on its far side and intersected by numerous power lines overhead against a clear blue sky. On the left sidewalk, a pedestrian walks away from the viewer, holding a purple umbrella and carrying bags.
+end of description
+In the subsequent frames, the pedestrian continues walking further down the sidewalk, steadily receding away from the viewer's fixed position. All other elements, including the buildings, street, and power lines, remain static within their initial spatial positions relative to the first-frame viewpoint.

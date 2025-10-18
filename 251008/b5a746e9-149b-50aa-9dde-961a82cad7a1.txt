@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a rainy, nighttime city street scene from the perspective of a pedestrian on a wet sidewalk. To the immediate left, a portion of a white car is visible, followed by a white taxi further down the street. In the midground-center, a silver sedan is parked at the curb next to a small tree and a trash can. On the right, a brightly lit vertical sign stands on the sidewalk, with an awning above it and a person partially visible underneath. The background reveals more buildings with illuminated signs, streetlights, and the wet, reflective road receding into the distance.
+end of description
+The white taxi in the midground to the viewer's left moves forward and exits the frame to the left. Concurrently, the person on the sidewalk to the far right moves or becomes obscured. Subsequently, a new white car emerges in the distant background, on the road ahead, gradually approaching the viewer.
+frame_0000000128-frame_0000000256:
+The first frame captures a rainy city street at night from a sidewalk perspective. In the immediate foreground to the right, a tree trunk stands beside two orange-lidded trash cans. To the left, a silver sedan is parked on the wet street, with the front of another white car partially visible on the far left. The street extends into the background, flanked by buildings illuminated by various lights and streetlights.
+end of description
+In the subsequent frames, the white car on the far left drives forward, moving from the viewer's left to right across the foreground and eventually out of frame. The heavy rain continues throughout, but no other significant objects are newly revealed.

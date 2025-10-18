@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a wet, rain-slicked city street at night, reflecting numerous lights. In the foreground, red crosswalk markings and yellow lines are visible on the street. To the left, a car with bright headlights approaches, alongside a tree-lined sidewalk and buildings featuring illuminated signs. To the right, a person holding a black umbrella stands next to a white rectangular object, in front of buildings with closed storefronts.
+end of description
+In the following frames, the car on the left side of the street slowly progresses closer to the viewer, its headlights becoming more distinct. Concurrently, a second person, also holding a black umbrella, emerges from behind the initial person on the right sidewalk and walks forward, positioned to the right of the first person, also moving towards the viewer.
+frame_0000000128-frame_0000000256:
+The first frame presents a rainy night street scene, with wet asphalt reflecting bright city lights from buildings lining both sides of the road. A silver car with glowing headlights is centrally located in the mid-ground, approaching the viewer, while two individuals holding umbrellas walk on the right-hand sidewalk, moving away.
+end of description
+The silver car continues forward, moving from the mid-ground to the far left of the frame and eventually exiting. A green bus then appears from the distant center, its headlights visible, and also drives towards the viewer before passing on the left side of the frame. Simultaneously, the person on the right sidewalk steadily walks further away from the viewer.
+frame_0000000256-frame_0000000384:
+In the first frame, a wet asphalt street extends into the distance, illuminated by streetlights and shop windows, with their reflections shimmering on the dark road. A green bus with illuminated headlights is positioned on the left side of the street, moving away from the viewer. On the right sidewalk, a person holding a black umbrella and a phone is visible, facing forward and slightly away from the viewer, with buildings lining both sides of the street.
+end of description
+The green bus progressively moves further away to the left, eventually exiting the frame. The person on the right sidewalk continues to walk forward into the distance, passing a newly revealed light-colored rectangular object that appears on the sidewalk to their right. Simultaneously, another individual holding an umbrella becomes visible further down the street on the left sidewalk, also walking away from the viewer.

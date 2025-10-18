@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+A paved road stretches into the distance, curving slightly left, with a steep, forested hillside and partial rock wall to the left, and a concrete barrier alongside dense trees and a utility pole to the right, all beneath a clear sky with distant mountains ahead.
+end of description
+As the viewer moves forward along the road, the utility pole on the right passes by and exits the frame to the right, while the concrete barrier and the rock wall on the left hillside become progressively closer and more detailed. The distant mountainous landscape shifts slightly in perspective as the journey continues.
+frame_0000000128-frame_0000000256:
+From the viewer's perspective, a paved mountain road with tree shadows stretches forward, flanked by a stone retaining wall and grassy incline on the left, and a concrete barrier beside lush vegetation and trees on the right. Distant mountains are visible ahead under a clear blue sky.
+end of description
+As the viewpoint moves forward, the road and its immediate surroundings recede, with the stone wall on the left and the concrete barrier and trees on the right passing by. The distant mountain landscape gradually becomes clearer and more revealed ahead, emphasizing the journey along the winding road.

@@ -1,0 +1,10 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a dirt road extending into the distance from the foreground, flanked on its left by a white wooden fence bordering a calm body of water with distant hills, and on its right by a steep, rocky, grass-covered embankment under a clear blue sky. end of description. As the sequence progresses, the viewpoint moves forward along the road; the white fence posts on the left, initially plain, gradually reveal small red reflective strips on their side as they draw closer to the viewer. Consequently, the dirt road ahead exhibits evolving details of its uneven surface and forming puddles, while newer sections of the rocky embankment on the right come into view.
+frame_0000000128-frame_0000000256:
+A dirt road leads forward, bordered on the left by a white fence running alongside still water with distant hills, and on the right by a steep, rocky, vegetated hillside. A bare-branched tree stands further down the road near the fence, under a clear blue sky.
+end of description
+As the frames progress, the viewpoint advances along the dirt road. The white fence, the water, and the bare tree progressively recede further into the background on the viewer's left. Simultaneously, the rocky hillside on the right moves past the viewer's right side, revealing new sections of the environment as the journey continues.
+frame_0000000256-frame_0000000384:
+The first frame presents a dirt road stretching forward, curving slightly right, with a white wooden fence on the left bordering a calm body of water reflecting distant hills. A bare tree stands by the fence, while a steep, vegetated hillside rises on the right under a clear blue sky.
+end of description
+As the viewpoint advances along the road, the fence and tree move to the viewer's immediate left, passing by, while the hillside on the right also progressively recedes behind the advancing viewpoint, revealing more of the road that was previously further ahead.

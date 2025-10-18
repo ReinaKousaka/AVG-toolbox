@@ -1,0 +1,20 @@
+frame_0000000000-frame_0000000128:
+A paved road with the number "30" painted in white stretches into the distance, flanked by lush green bushes and trees on the left, and a long, neatly trimmed green hedge on the right. Behind the hedge, a brown-sided house is partially visible, while further left, a white house is nestled among the foliage. In the background, a small settlement with houses is visible, leading to towering, forested mountains under a partly cloudy blue sky.
+end of description
+The camera moves forward along the road, causing the painted "30" to approach and grow larger in the foreground. The hedges and bushes on both sides of the road progressively pass by, revealing more of the path ahead and the distant houses and mountains, which slowly increase in size as the viewpoint advances.
+frame_0000000128-frame_0000000256:
+The first frame displays a paved road ascending into the distance, bordered by dense green foliage and rocks on the left, and a neat green hedge on the right, with white "30" numbers painted on the road in the foreground. At the end of the road, several houses are visible among trees, set against a backdrop of large, dark green mountains under a sky with white clouds.
+end of description
+As the frames progress, the viewer's perspective subtly advances forward along the road, causing the painted "30" to recede and the houses and mountains in the distance to appear marginally closer and larger. The surrounding foliage also shifts, slightly expanding the visible path without revealing any entirely new objects or scenes.
+frame_0000000256-frame_0000000384:
+A narrow paved road leads into a lush, green village, bordered by dense foliage and trimmed hedges on both sides, with houses visible in the mid-ground against towering, forested mountains under a cloudy-blue sky.
+end of description
+The viewpoint advances forward, causing the immediate greenery and hedges on both sides to move past, while revealing more of a house to the right. Concurrently, a bird flies across the sky from the right to the left. The background village and mountains gradually shift perspective with the forward motion.
+frame_0000000384-frame_0000000512:
+The first frame shows a paved road leading away from the viewer, framed by tall green hedges on the left, supported by a stone wall, and a neatly trimmed hedge on the right, bordering a light-colored house. Further down the road, additional houses are visible amidst dense greenery, leading towards a majestic, tree-covered mountain range in the far background, topped by a light-colored peak. The sky above is partly cloudy, with a single dark bird flying in the upper right.
+end of description
+The bird visible in the first frame disappears from the upper right, while several small black dots emerge in the same area of the sky. The viewpoint then begins to move forward along the road, causing the hedges and house on the right to appear larger and closer. Gradually, a white wooden structure becomes visible on the far left, starting from the edge of the frame. As the forward movement continues, this structure, possibly a fence or part of a building, is increasingly revealed, while details like cracks on the road surface ahead become more distinct.
+frame_0000000512-frame_0000000640:
+A paved road leads away from the viewer into the distance, flanked by a low stone wall topped with a dense green hedge on the left, and a house with a garden featuring pink flowers on the right. In the mid-ground, more houses are visible further down the road, nestled against the base of large, forested mountains that dominate the background under a partly cloudy sky.
+end of description
+The viewpoint slowly moves forward along the road. The green hedge and stone wall on the left, and the house and garden on the right, progressively shift from the foreground to the mid-ground as the viewer advances past them. As the camera continues forward, the distant houses become slightly larger and more detailed, while the majestic forested mountains remain prominent in the background.

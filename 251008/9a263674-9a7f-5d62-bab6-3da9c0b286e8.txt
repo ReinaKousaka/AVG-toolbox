@@ -1,0 +1,16 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a narrow, winding dirt path leading into a sun-dappled, dense forest, surrounded by lush green foliage and tree trunks on both sides.
+end of description
+The camera steadily moves forward along the path, causing the immediate surrounding foliage to recede and reveal more of the path ahead, as the viewer progresses deeper into the sunlit forest.
+frame_0000000128-frame_0000000256:
+A sun-dappled dirt path stretches directly ahead into a dense green forest, bordered by thick foliage and large tree trunks on both the left and right sides of the viewer. The lush forest canopy is visible above, with bright sunlight filtering through the leaves.
+end of description
+As the camera slowly advances along the path, the foreground foliage recedes slightly to the left and right, revealing more of the immediate path ahead and nearby tree trunks. The path subtly curves further left as it delves deeper into the shadowed forest, bringing a more distant, darker segment of the path into clearer view directly in front of the viewer.
+frame_0000000256-frame_0000000384:
+The first frame depicts a sun-dappled dirt path winding into the background, bordered by dense green foliage, ferns, and tall tree trunks on both the left and right. A prominent, mossy tree trunk occupies the immediate right foreground, while the path itself recedes towards a distant, sunlit part of the forest.
+end of description
+As the viewpoint advances along the path, foreground foliage moves past, revealing more of the path ahead. A large log, initially partially obscured behind the prominent tree trunk on the right, progressively becomes fully visible on the right side of the path, positioned to the right of the viewer's forward movement. The surrounding dense forest environment remains consistently on both sides of the path as the scene progresses.
+frame_0000000384-frame_0000000512:
+The first frame displays a narrow, sun-dappled forest path receding into the distance, bordered by dense, lush green foliage, including bushes and ferns on both sides. A large, partially shaded fallen log is visible in the immediate foreground on the right, while tall trees and thick undergrowth form a dense forest extending from the midground to the background. The path gently curves and leads deeper into the wooded area, where more trees are visible.
+end of description
+The frames show a slight forward camera movement along the path, gradually revealing more of the scene ahead. After several frames, a dark-furred animal, resembling a bear, dynamically emerges from the left side of the path in the mid-distance relative to the first-frame viewpoint. It walks across the path towards the right, proceeding further into the scene, partially obscuring the path ahead before continuing its movement deeper into the forest.

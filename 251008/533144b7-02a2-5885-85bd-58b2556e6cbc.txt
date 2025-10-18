@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a village scene with a stone building partially visible on the far left and a stone wall with a finial extending into the mid-left foreground, backed by lush green trees. A paved road curves into the distance towards the left, bordered on the right by a large multi-story stone house with a blue car parked in its driveway, and two lighter-colored cars parked closer on the right side of the road. An overcast sky stretches above, completing the scene.
+end of description
+As the viewer's perspective moves forward, the stone wall on the left appears to lengthen into the foreground relative to its initial position, and a distant red car emerges more clearly on the curving road ahead. The large house and parked cars on the right generally maintain their positions but appear slightly closer, while tiny, dark avian shapes briefly become visible in the sky over the distant trees to the left in later frames.
+frame_0000000128-frame_0000000256:
+The first frame depicts a scenic village view with a dry stone wall in the foreground on the left, behind which lush green foliage and trees rise. A paved road curves gently to the left, receding into the distance, with two red cars visible further down the road on the left. To the right, a large, multi-story stone building with a gabled roof, numerous windows, and climbing plants dominates the midground. A gravel driveway branches off the road towards the building, where a blue car is parked directly in front and two other cars are partially visible further right.
+end of description
+There are no dynamic changes or newly revealed objects across the subsequent frames, as all provided images are identical to the first-frame viewpoint.
+frame_0000000256-frame_0000000384:
+In the first frame, a stone wall runs along the lower left, accompanied by green grass and dense green trees that extend into the upper left. A paved road curves slightly left into the midground, with a stone building covered in ivy on the left side of the road and a large, multi-windowed stone building with chimneys and reddish-pink flowers on its right, where a blue car is parked on a gravel driveway. In the distance, a red car is visible further down the road, set against rolling hills and a cloudy sky.
+end of description
+There are no discernible dynamic changes or newly revealed objects or scenes in the subsequent frames; the entire scene remains static from the first-frame viewpoint.

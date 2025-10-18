@@ -1,0 +1,14 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a wet urban street with a prominent zebra crossing in the right foreground, extending towards the center. Multi-story buildings line both sides, receding into the distant, overcast sky, while numerous cars are parked and moving in the midground lanes.
+end of description
+Subsequently, a woman holding a white umbrella and wearing a face mask appears from the right mid-ground, walking left across the zebra crossing. She proceeds left through the foreground, eventually exiting the frame, while other vehicles in the midground subtly advance, leaving the crosswalk clear again.
+frame_0000000128-frame_0000000256:
+The first frame presents a wide street in an urban environment, appearing wet from rain, with prominent white crosswalk stripes occupying the foreground directly in front of the viewer. Multi-story buildings line both the left and right sides of the road, receding into a hazy distance, interspersed with trees along the sidewalks. Several vehicles are parked along the curbs on both sides, while a silver van and a lighter-colored car are visible in the middle lanes, both moving away from the viewer towards the background.
+end of description
+A silver van, initially in the middle lane, progressively recedes further into the distance away from the viewer across the subsequent frames. Concurrently, a white sedan with active headlights, first seen as a distant object in the middle lane, steadily approaches the viewer throughout the sequence. As the perspective subtly shifts, a "60" speed limit marking on the road surface, initially partially obscured, becomes fully visible ahead of the viewer.
+frame_0000000256-frame_0000000384:
+The first frame displays a wet city street on an overcast day, extending into the hazy distance. Directly in front of the viewer are white crosswalk stripes on the asphalt road, which reflects the surrounding environment. To the viewer's left, a white car with headlights on is driving towards the viewer in the midground, with parked vehicles and multi-story buildings lining the street. To the viewer's right, several parked cars, including a dark SUV closest to the viewer, are visible along a sidewalk bordered by buildings and sparse trees.
+
+end of description
+
+The white car in the midground slowly moves closer to the viewer. Yellow double lines gradually appear on the road just past the crosswalk stripes, in front of the viewer. Subsequently, a black umbrella emerges from the far left of the frame, moving right across the viewer's front. A person holding the umbrella and carrying a backpack then steps onto the crosswalk, walking from the viewer's left towards the right. This person continues to cross the street, moving further right across the crosswalk directly in front of the viewer.

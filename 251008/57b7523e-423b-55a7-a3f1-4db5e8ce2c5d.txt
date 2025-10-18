@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+In the first frame, a gravel path extends directly from the viewer into the distance, flanked by dry, brown grass. To the viewer's left, a forest of smaller conifer trees with some white tree shelters runs alongside the path. To the right, a dense, dark forest of tall conifer trees lines the path, also featuring white tree shelters closer to the viewer. Above, a bright blue sky with scattered white clouds is visible.
+end of description
+As the frames progress, the viewpoint moves forward along the gravel path. Objects such as the brown grass and the white tree shelters on both sides recede past the viewer, while more of the path and the dense forests ahead are continuously revealed and approached, maintaining their relative positions to the viewer's movement.

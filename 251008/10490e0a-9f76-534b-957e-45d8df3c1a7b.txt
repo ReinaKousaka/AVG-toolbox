@@ -1,0 +1,16 @@
+frame_0000000000-frame_0000000128:
+A snow-covered path stretches from the foreground into the distance, bordered by dense, snow-laden trees and bushes on both the left and right, with a dark trench running alongside the path on the left. A lone figure is visible walking away in the far distance along the path, under an overcast sky.
+end of description
+The camera slowly advances forward along the snowy path. As the viewpoint progresses, the snow-covered trees and bushes on both sides recede, while the distant figure continues to move further away down the path relative to the first-frame viewpoint.
+frame_0000000128-frame_0000000256:
+The first frame depicts a snow-covered path extending away from the viewer into the distance, flanked on both sides by dense lines of trees and shrubs heavily laden with snow. Footprints are visible in the snow on the path directly in front, and a dark, narrow snow-filled trench runs along the path's left edge. The sky overhead is overcast and grey.
+end of description
+The viewpoint steadily advances forward along the path. As the scene progresses, the snow-covered vegetation previously in the mid-ground moves closer to the viewer, revealing new segments of the path and additional snow-draped trees and shrubs further ahead, continuously maintaining the established winter landscape composition.
+frame_0000000256-frame_0000000384:
+In the first frame, a snow-covered path with visible footprints extends directly away from the viewer into the midground. Lush, snow-laden trees and bushes line both sides of the path, forming a dense, white tunnel-like corridor. To the viewer's left, a dark tree trunk stands amidst numerous bare, snow-covered branches, while to the right, evergreens also blanketed in snow show hints of dark green and reddish foliage. A narrow, dark channel runs along the left edge of the path in the foreground, and a faint dark figure is visible far down the path, centered in the background.
+end of description
+The camera subtly and slowly moves forward, gradually increasing the perceived proximity to the snow-covered path and the surrounding trees, though no new objects or scenes are revealed. The perspective shifts minimally, presenting the same winter landscape from a slightly advanced viewpoint as the camera inches forward.
+frame_0000000384-frame_0000000512:
+The first frame displays a snow-covered path winding away from the viewer into a forest. Snow blankets the ground, revealing dark footprints along the path, which also features a dark, narrow channel running along its left edge from the foreground. Heavily snow-laden trees and bushes line both sides of the path, extending from the midground into the distant background, where a small, dark figure walks away from the viewer.
+end of description
+As the frames progress, the camera slowly pulls back, causing the snow-covered path to appear to widen and stretch further into the distance from the initial viewpoint. The snow-laden trees and bushes on both sides recede slightly, revealing more of their lower parts and a broader expanse of the snowy landscape. The distant figure walking away on the path appears to become smaller, indicating an increased distance from the original viewpoint.

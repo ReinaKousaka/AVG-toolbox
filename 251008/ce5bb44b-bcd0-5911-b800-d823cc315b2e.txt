@@ -1,0 +1,6 @@
+frame_0000000000-frame_0000000128:
+A two-lane paved road, featuring a double yellow line on the left and a solid white line on the right, extends from the bottom center of the frame, curving gently to the left and receding into the distance. Towering red rock cliffs flank the road: a large one rises immediately to the left, and a massive, layered formation dominates the right side. Sparse green and brown vegetation grows along the roadside, while another red-orange mesa is visible further down the valley in the center, all beneath a clear blue sky.
+
+end of description
+
+The scene dynamically changes as the viewer moves forward along the road. The cracked asphalt and its lane markings continuously recede from the foreground, revealing new sections of the path ahead. The majestic red rock formations on both sides of the road slowly grow larger and reveal more of their vertical texture as they are approached, indicating a continuous journey deeper into the canyon.

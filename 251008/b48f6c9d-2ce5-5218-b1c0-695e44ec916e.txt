@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+First, a rainy street scene is presented from a sidewalk viewpoint, featuring a motion-blurred blue bus traveling left to right on a wet road, with a white scooter part visible to the immediate lower left. A tree trunk partially obscures the bus, while a black railing separates the viewer from the street; in the background, buildings line the far side of the road, and a wet sidewalk on the right leads to another tree, a red scooter, and a person with an umbrella.
+end of description
+The blue bus consistently moves from left to right, gradually receding into the distance along the wet road. As it progresses, more of the street and the buildings on the left side of the road are revealed from the first-frame viewpoint. By the final frames, the bus is almost entirely out of view in the far distance to the right, leaving an expansive view of the rainy street and urban background.

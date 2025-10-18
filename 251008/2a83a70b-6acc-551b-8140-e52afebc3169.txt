@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame captures a church interior featuring a large stone pillar on the left, behind which a golden altarpiece is partially visible. Rows of dark wooden pews extend from the foreground towards the mid-ground. On the right wall, two tall arched windows are separated by a painting, with another painting to the left of the leftmost window and a small curtained door beneath it.
+end of description
+The camera slowly pans to the right and slightly upwards, progressively revealing more of the church's right side. As the view shifts, a third large painting emerges on the far right wall, and additional ornate wooden paneling beneath the windows becomes visible, while the pillar and altarpiece gradually move towards the left edge of the frame.
+frame_0000000128-frame_0000000256:
+The first frame depicts the interior of a church with dark wooden pews in the foreground, a large stone pillar on the left, and a high wall on the right featuring two tall, bright windows and several framed paintings. Below the right window is an ornate wooden structure, and a curtained doorway is visible towards the back-left, with a person's head partially obscured behind the pews.
+end of description
+Subsequent frames show a subtle pan to the right and a slight zoom, revealing marginally more of the wall to the left of the leftmost window relative to the first-frame viewpoint, and the person behind the pews slightly shifts position. No other new objects or significant scene changes occur.

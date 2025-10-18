@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a low-angle view of an uneven stone staircase ascending a grassy, moss-dotted hill directly in front of the viewer. A low, weathered stone wall crowns the hill's summit in the upper mid-ground, beneath an overcast sky, with a large grey boulder partially visible in the lower left foreground.
+end of description
+The following frames show a continuous, slow upward and forward camera movement, effectively ascending the steps. This advances the viewpoint closer to the higher steps and the distant stone wall, which gradually appear larger and nearer from their original positions ahead, as the initial foreground steps recede beneath the viewer.
+frame_0000000128-frame_0000000256:
+The first frame shows a series of rough stone steps extending directly away from the viewer and ascending uphill through a grassy slope towards a low, crumbling stone wall positioned across the upper slope, all beneath an overcast sky.
+end of description
+As the frames progress, the viewpoint subtly moves upward and forward, causing the foreground steps to recede slightly and revealing more of the upper steps and the stone wall directly ahead, maintaining their relative positions within the scene.
+frame_0000000256-frame_0000000384:
+A narrow path of worn stone steps extends from the immediate foreground, ascending directly up a steep, grass-covered hill towards the upper middle ground. A low, weathered stone wall runs horizontally across the upper middle ground, marking the hill's crest beneath an overcast sky in the background.
+end of description
+As the frames progress, the viewpoint steadily moves forward and upward, revealing new sections of steps further up the hill in front of the viewer. Simultaneously, the lower steps initially visible in the first frame move out of view, receding behind and below the advancing viewpoint. The distant stone wall and surrounding grassy terrain also appear to draw slightly closer as the ascent continues.

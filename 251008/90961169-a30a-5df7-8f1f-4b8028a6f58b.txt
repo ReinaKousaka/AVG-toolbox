@@ -1,0 +1,29 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a narrow, descending stone alleyway between old buildings, with a prominent vine-covered wall on the left and a rough stone wall with an arched green doorway and a vertical pipe on the right in the foreground. Further down the alley, a window with a blue object is visible on the left, and a distant street lamp and buildings are seen under an archway.
+
+end of description
+As the camera moves forward into the alley, the foreground ivy on the left and the pipe on the right recede from view. The window on the left and the arched doorway on the right become larger and closer to the viewer, revealing more detail on the green door and the descending stone steps. The distant archway and buildings also appear nearer.
+frame_0000000128-frame_0000000256:
+The first frame shows the viewer in a narrow, uphill alleyway. To the viewer's immediate left is a building wall, partially painted in a lighter tone, featuring a barred window from which a blue cloth hangs. To the right, a rough stone wall dominates, with an arched, dark doorway positioned in the lower foreground and an ornate black street lamp mounted higher up on the wall. Ahead, the cobbled path ascends via a series of steps, curving slightly to the left into the distance where faint buildings and a sliver of sky are visible.
+end of description
+As the frames progress, the viewpoint moves forward along the alley. The blue cloth in the window and the arched doorway on the right gradually recede from view as the viewer ascends the steps. The curving path ahead becomes clearer, revealing more details of the stone walls, including moss and small potted plants along the route, while the distant street scene beyond the bend expands to reveal more structures.
+frame_0000000256-frame_0000000384:
+The first frame depicts a narrow stone alleyway, with a smooth, two-toned wall (dark brown top, off-white bottom) on the immediate left. To the right, a textured stone wall features a dark arched recess near the bottom and a dark window with a faint lamp fixture higher up. Straight ahead, the paved ground leads uphill via shallow steps, curving slightly to the right, revealing distant light-colored buildings and small potted plants on a ledge further into the passage.
+end of description
+Subsequent frames show a subtle forward movement through the alley, revealing more of the scene ahead. The ornate lamp on the upper right wall becomes more fully visible, and the distant buildings and sky ahead appear brighter and more expansive as the viewpoint progresses deeper into the passage.
+frame_0000000384-frame_0000000512:
+The first frame displays a narrow, ascending alley bordered by tall, aged walls; a darker, textured wall stands on the left, and a lighter, rough stone wall with an arched opening and an ornate metal lantern is on the right. A damp, stone-paved path featuring visible steps leads forward from the viewer, culminating in distant buildings with a pink facade and greenery.
+end of description
+In the subsequent frames, the scene remains static with no new objects or camera movement. However, the lighting dynamically shifts, causing the right stone wall and portions of the paved path in front of the viewer to gradually brighten. Shadows on the left wall and near the arched opening on the right subtly fluctuate, indicating changes in ambient light over time.
+frame_0000000512-frame_0000000640:
+The first frame shows a narrow, ascending alleyway framed by a light-colored wall on the immediate left and a rough stone wall on the right, featuring an arched opening at the bottom right and a lamp above, with paved steps leading uphill towards distant buildings and sky.
+end of description
+As the camera slowly moves forward and slightly upward, a small metal railing becomes visible on the lower left wall further along the path, while the textures of both walls become more pronounced and more of the distant buildings straight ahead are revealed. The arched opening on the right recedes further down the alley, and the paved steps continually shift relative to the viewer's progression.
+frame_0000000640-frame_0000000768:
+The first frame shows a narrow, stepped alleyway, with a rugged stone wall on the right and a tan building partially behind a foreground stone wall with a handrail on the left. The path leads past visible potted plants on the left building towards distant structures under an overcast sky.
+end of description
+As frames progress, a dark-shuttered window on the left-side tan building slowly opens outward, revealing its dark interior and two small potted plants now visible on the windowsill directly beneath it. The viewpoint subtly shifts forward and slightly left, emphasizing the opening window and the newly exposed section of the building's wall.
+frame_0000000768-frame_0000000896:
+The first frame presents a narrow, uphill cobblestone alley bordered by a tan building on the left, featuring an open window with dark shutters and potted plants, and a moss-covered stone wall on the right. A metal railing leads down to a lower area with a pot in the bottom-left, while further along the left wall are more hanging planters.
+end of description
+As the camera moves forward, the immediate foreground from the first frame, including the railing and window, moves progressively to the left and out of the initial field of view. Objects further down the alley from the first frame, such as additional hanging plants on the left building and sections of the right stone wall, shift closer to the original viewpoint. The cobblestone path continuously reveals itself ahead, ascending towards the distant building and streetlamp that were initially visible at the end of the alley.

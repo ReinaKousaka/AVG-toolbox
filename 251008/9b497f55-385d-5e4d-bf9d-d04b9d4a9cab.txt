@@ -1,0 +1,32 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a paved road with double yellow center lines and white shoulder lines, curving gently to the right, receding into the distance. To the immediate left, a metal guardrail runs along a steep, wooded hillside featuring both bare and green-leafed trees. A similar metal guardrail lines the right side of the road, behind which are scattered trees and green foliage, leading to a backdrop of verdant, forested hills under a clear blue sky.
+
+end of description
+
+As the viewpoint progresses, the road continues to curve right, and roadside elements shift, revealing a yellow diamond-shaped curve warning sign on the left side, behind the guardrail. The right side's terrain opens up to more expansive grassy fields with a fence line appearing further down. Concurrently, a small building becomes discernible in the middle distance on the left, beyond the trees and guardrail.
+frame_0000000128-frame_0000000256:
+A two-lane paved road, marked with double yellow lines, curves gently to the right, extending into the distance under a clear blue sky. Guardrails line both sides of the road, with grassy slopes and hills covered in mixed evergreen and deciduous trees flanking the view, and a small building with a metallic roof is visible on the left hillside in the mid-ground.
+end of description
+As the viewer progresses forward along the road, the guardrails on both sides appear closer, and the metallic-roofed building on the left draws nearer, revealing an old wooden fence around it. Concurrently, a dark-colored car gradually emerges from around the bend in the road ahead, approaching the viewer's position in the right lane.
+frame_0000000256-frame_0000000384:
+A two-lane road with double yellow lines stretches from the viewer's foreground, curving gently right towards a silver SUV approaching in the midground on the left lane. To the left of the road, a metal-roofed barn stands behind a wooden fence and bare trees, all backed by verdant, tree-covered hills under a clear blue sky.
+end of description
+The silver SUV rapidly approaches the viewer on the left lane, passes by to the left of the viewer, and then recedes into the background, effectively moving from in front of the viewer to behind the initial viewpoint. The surrounding landscape, including the barn and hills, remains stationary throughout.
+frame_0000000384-frame_0000000512:
+An asphalt road with double yellow and white lines extends forward, curving right from the viewer. It's bordered by green grassy verges; a tree-covered hillside with a fence rises immediately to the left, and a grassy field with scattered trees lies to the right, all under a clear blue sky.
+
+end of description
+
+As the viewpoint progresses, the scene shifts, indicating forward movement along the road. Features previously ahead on both sides, such as sections of the grassy verges and fence lines, move closer and then recede behind the first-frame viewpoint, revealing further stretches of the road and landscape ahead.
+frame_0000000512-frame_0000000640:
+The first frame depicts a two-lane asphalt road with double yellow center lines and white shoulders, curving gently to the right in the immediate foreground, leading into the mid-distance. To the left, a grassy verge leads up to a steep hillside covered with a mix of bare deciduous trees and dark green evergreens, while to the right, a wider grassy field with green shrubs and a distant fence parallels the road, all beneath a clear blue sky.
+end of description
+As the frames progress, the viewpoint moves forward along the road, causing the initial road segment, left hillside, and right field to recede behind the viewer's original position. New sections of the road ahead and the surrounding landscape are continuously revealed and move closer to the first-frame viewpoint. A black and white roadside marker post eventually emerges on the right side of the road, further down the path from the original first-frame location.
+frame_0000000640-frame_0000000768:
+The initial frame presents a two-lane asphalt road, marked with double yellow and white lines, curving into the distance under a clear blue sky; to the left, a reddish hill with evergreen and bare trees rises, while the right side features grass and bare deciduous trees, with a white marker post visible at the far right.
+end of description
+As the viewer drives forward, foreground elements like the marker post and roadside vegetation move to behind the viewer, while a small white rectangular sign progressively appears on the left, and distant tree-covered hills with reddish rock formations ahead become increasingly prominent.
+frame_0000000768-frame_0000000896:
+The first frame displays a two-lane asphalt road with double yellow center lines, receding into the distance, bordered by green verges and tree-covered hills on both sides under a clear blue sky; a white diamond-shaped sign with a curved arrow is present on the left side of the road in the mid-distance.
+end of description
+As the scene progresses, the viewpoint moves forward along the road, causing the foreground elements to approach and pass by. The white diamond sign on the left moves closer to the viewer before passing to the left of the original viewpoint. Further ahead and to the right of the initial viewpoint, a blue rectangular sign becomes visible on the side of the road.

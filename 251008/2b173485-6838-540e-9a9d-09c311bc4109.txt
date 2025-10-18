@@ -1,0 +1,19 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a view down train tracks curving slightly right through a valley. To the left, a steep, green-clad mountainside rises, featuring a utility pole and a narrow paved road behind a fence. To the right, a river parallels bushy vegetation, with a small wooden building visible in the mid-distance; distant mountains loom under a cloudy sky.
+end of description
+As the viewpoint moves forward along the tracks, the utility pole, road, and fence to the left pass by. A yellow diamond-shaped sign then appears on the left side of the tracks, approaching the viewer and also passing by. The small wooden building on the right also draws nearer as the train advances.
+frame_0000000128-frame_0000000256:
+The first frame shows train tracks receding into the distance, curving slightly to the right, framed by green landscapes. To the left, a steep, green-clad rocky mountain face parallels a paved road, separated by a fence with several utility poles. On the right, a small brown wooden shed with a door sits beside the tracks, with a large tree and distant green mountains visible further beyond under an overcast sky.
+end of description
+The viewpoint moves forward along the tracks. The small brown wooden shed on the right approaches the viewer, then passes out of frame to the right, revealing more rocks and dense foliage. Concurrently, the fence, utility poles, and rocky mountain face on the left move closer, continuously revealing new sections of the road and surrounding valley scenery as they pass by the viewer's left side.
+frame_0000000256-frame_0000000384:
+The first frame shows train tracks extending from the foreground, curving gently to the right into a green mountainous valley under an overcast sky. To the immediate left, a steep, forested rock face rises, with a parallel dirt path and several utility poles, while the right side features a grassy bank sloping down. end of description
+As the viewpoint advances, the initial utility poles and boulders on the left, along with the grassy bank on the right, progressively move towards the rear. A prominent grey utility pole with overhead wires then appears on the left, getting closer before receding past the viewer. Further into the valley, a body of water becomes newly visible in the distance to the right, behind the trees.
+frame_0000000384-frame_0000000512:
+The first frame presents a train track leading forward, curving slightly right, flanked by a steep, green-covered mountain face on the left with utility poles and a parallel track, and a wide river on the right with distant mountains and a bridge ahead.
+end of description
+As the scene progresses, the viewpoint moves forward along the tracks, causing the green mountain slope and objects on the left to recede past the viewer's original position. Simultaneously, the river and its distant bridge on the right also approach the original viewpoint. A large rock and a yellow sign marked '427 B' are newly revealed on the left side of the track, appearing closer to the viewer than in the initial frame.
+frame_0000000512-frame_0000000640:
+The first frame displays a forward view from a train along railway tracks curving right into the distance, with a grassy dirt road and fence along a steep, tree-covered mountain on the left. A wide river flows parallel on the right, backed by distant mountains and a multi-span bridge further ahead, all under overhead lines.
+end of description
+The train advances, causing a black signal pole with three horizontal lights, initially mid-left, to steadily move towards and out of the frame on the left. The continuous forward motion reveals new sections of the tracks, river, and mountainous landscape directly ahead as the train progresses.

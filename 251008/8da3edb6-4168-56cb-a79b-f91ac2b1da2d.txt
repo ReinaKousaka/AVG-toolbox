@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a grey asphalt road curving leftward into the distance, marked by a dashed white center line and solid edge lines. On either side, lush green grassy slopes rise, with a yellow marker post visible on the left leading to distant forested mountains, and a steeper embankment of dense foliage on the right. A clear blue sky is visible above.
+end of description
+Relative to the first-frame viewpoint, the scene depicts continuous forward motion along the winding road. The road and its immediate grassy verges, along with visible yellow marker posts on both sides, progressively move past the viewer towards the rear as new sections of the mountainous landscape continuously emerge from the forward direction.
+frame_0000000128-frame_0000000256:
+A paved road with a dashed white center line and solid white edge lines stretches from the viewer into the distance, gently curving left, flanked by lush green slopes and forested mountains under a clear blue sky.
+end of description
+As the viewer moves forward along the road, the immediate surroundings blur and shift: grass on the verges rushes past, and yellow marker poles previously in the mid-distance approach and move out of view to the sides. The distant road and mountains slowly draw nearer, indicating continuous progress through the mountainous landscape.
+frame_0000000256-frame_0000000384:
+The first frame shows a paved road extending from the viewer's immediate foreground, curving slightly left into the middle distance. Green grassy verges with scattered bushes and trees line both sides of the road, with two yellow reflective posts visible on the right roadside and one on the left. In the background, densely forested green hills and mountains rise, with higher, rockier peaks visible to the far left under a clear blue sky.
+end of description
+As the frames progress, the viewer moves forward along the road. The roadside vegetation and the yellow reflective posts on the right recede towards the viewer's right and eventually out of the frame as new sections of the winding road and its flanking hills continuously appear from the distant background and move past the viewer.

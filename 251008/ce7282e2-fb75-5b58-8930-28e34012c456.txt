@@ -1,0 +1,18 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a park scene with a paved stone path winding from the bottom right corner towards the center. To the left of the path, the ground is covered in fallen autumn leaves among patches of green grass, while numerous tall trees with varying autumnal and green foliage are scattered across the foreground and midground. Sunlight shines through the upper mid-section of the trees, and distant structures or vehicles are partially obscured by trees in the far left background.
+end of description
+There are no discernible dynamic changes, movement of objects, or newly revealed scenes in the subsequent frames; the viewpoint remains static.
+frame_0000000128-frame_0000000256:
+In the first frame, a winding stone-paved path extends from the bottom right corner into the middle distance, curving to the right. To the left of the path, the ground is densely covered with fallen brown leaves and some patches of green grass, interspersed with numerous tree trunks. To the right of the path, the ground is covered in green grass with fewer scattered leaves. Sunlight brightly pierces through the canopies of trees in the upper center, creating a visible flare, while more trees with autumn foliage frame the scene from midground to background on both sides.
+
+end of description
+
+The camera moves forward along the winding stone path, revealing more of the path and the surrounding forest ahead. Trees previously in the midground on the left move closer to the viewer and pass by as the viewpoint advances. The sun's glare through the trees remains visible in the upper center, and shadows on the ground shift with the changing perspective. In the far left background, more of the distant structures become discernable through the sparse trees.
+frame_0000000256-frame_0000000384:
+The first frame depicts a park scene with a winding stone path starting from the lower right and curving into the middle distance. Tall trees with sparse autumnal leaves stand on the left and middle ground, while the right features denser green foliage; sunlight filters through the canopy, illuminating the path and ground. The ground on the left is covered in fallen leaves and grass, contrasting with the dark green ground cover to the path's right, and indistinct structures or vehicles are visible in the far left background.
+end of description
+As the sequence progresses, the viewpoint steadily moves forward along the path, revealing more of its length while the surrounding trees and ground recede further into the distance. The dappled sunlight on the path shifts, and the background elements on the far left, appearing to be parked cars and structures, become slightly more defined relative to the advancing camera.
+frame_0000000384-frame_0000000512:
+The initial frame displays a stone-patterned path winding from the bottom right into the midground, bordered by green ground cover to the right and fallen autumn leaves interspersed with grass to the left. Numerous tall trees, some with yellowing foliage and others green, rise throughout the scene, with a bright sky peering through the canopy.
+end of description
+The viewpoint slowly moves forward and slightly to the right from the first-frame position. This shift causes the foreground path to appear to advance and curve further into the frame, revealing more of the path's extent ahead and to the right of its initial position. The surrounding trees and distant background elements subtly shift their relative positions, displaying slightly more of the park further ahead and to the right of the initial view.

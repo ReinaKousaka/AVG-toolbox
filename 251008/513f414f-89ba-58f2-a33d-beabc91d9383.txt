@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a wet, paved path extending into the background, bordered by dense green foliage and trees on both sides. To the left, two dark benches are positioned in front of a stone and brick wall, while a lush green embankment lines the path on the right. A metal drainage grate spans the path in the foreground, and raindrops are visible hitting the surfaces.
+end of description
+Throughout the following frames, steady rainfall continues to be visible across the entire scene, causing numerous small splashes and ripples on the wet paved path and water surfaces, indicating ongoing precipitation without revealing any new objects or scenes.
+frame_0000000128-frame_0000000256:
+The first frame displays a wet, paved park path extending into the distance, with a low brick and stone wall and green bushes on the left, and dense green trees and bushes lining the right. A dark park bench is positioned in the lower-left foreground, while numerous puddles reflecting the overcast sky are visible on the path's surface.
+end of description
+In the following frames, the primary dynamic change is the continuous rainfall becoming distinctly visible as numerous drops and streaks falling from above and in front of the viewer. This rain impacts the wet path and its puddles, causing visible ripples across the water's surface.
+frame_0000000256-frame_0000000384:
+The first frame displays a wet, brick-paved path extending into the distance, bordered by dense green foliage and trees on both sides. To the left, a low red brick wall is partially covered by greenery, while a parallel path separated by a narrow median with a young tree runs along the right. A faint human figure can be seen walking in the far distance down the main path.
+end of description
+The following frames depict continuous rainfall, evidenced by numerous small ripples and splashes appearing randomly across the wet ground and puddles on the path, all within the existing scene. The viewpoint remains fixed, revealing no new objects or significant spatial changes, only the ongoing precipitation.

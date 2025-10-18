@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a snow-covered dirt path leading away from the viewer, bordered immediately left by a wooden fence alongside a grassy hill, and immediately right by a rising bank with a large, bare midground tree. Close-up bare branches fill the upper right foreground, while data overlays are fixed at the bottom of the screen.
+end of description
+As the frames advance, the viewer moves forward; the close-up branches recede out of view, and the path, fences, and distant landscape continuously shift and unfold. A small dark bird briefly appears flying in the mid-right background.
+frame_0000000128-frame_0000000256:
+In the first frame, a snowy dirt path recedes into the distance from the bottom center, flanked by snow-covered ground. To the left, a grassy, snow-dusted slope ascends with a fence, a metal gate, and a line of bare and evergreen trees further up. To the right, another snowy slope descends, featuring a prominent bare deciduous tree and a fence, with a misty valley and distant structures visible beyond. The sky is overcast and grey.
+end of description
+As the camera moves forward along the path, the immediate surroundings shift, while the overall scene remains consistent. The fence and gate on the left side appear closer, eventually moving to the rear-left relative to the initial viewpoint. A wooden structure is newly revealed on the left slope, behind the area where the gate was first observed. The large bare tree on the right and the distant misty valley remain continuously visible.

@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame displays multiple train tracks stretching into the distance, with the central track curving gently to the left ahead of the viewer. Snowy mountains are in the distant background, flanked by a rocky embankment to the right and sparse trees to the left, all under numerous overhead wires supported by poles.
+end of description
+As the viewpoint moves forward, the tracks beneath recede, and the entire landscape shifts dynamically. Poles and orange warning markers progressively emerge and pass by on the left, while on the right, the rocky embankment, a white structure, and eventually a red building, move past the viewer from their initial positions. The distant mountains remain broadly ahead as closer elements continuously move from foreground to background relative to the original first-frame viewpoint.
+frame_0000000128-frame_0000000256:
+The first frame presents a view from the front of a train, showing multiple sets of tracks receding into the midground, with the track the viewer is on centrally positioned. To the left are more tracks, a gravel area, utility poles, and orange barriers, while to the right is a rocky embankment, a fence, additional tracks, and more poles, all leading towards a distant, snow-capped mountain range under a pale sky.
+end of description
+As the scene progresses, the train moves forward; the tracks directly underneath the viewer recede, and closer utility poles and trackside elements from the midground on both the left and right sides move past the viewer and out of frame, revealing new sections of track and landscape ahead.
+frame_0000000256-frame_0000000384:
+The first frame captures a view over multiple dark train tracks, with the central track curving gently to the right into the distance, flanked by several parallel tracks on both sides and overhead power lines. In the background, a dark, tree-covered hill with scattered buildings and distant lights occupies the left, while a snow-dusted mountain range is visible to the right under a pale, cloudy sky.
+end of description
+As the viewpoint moves forward along the central track, the foreground tracks and overhead lines shift towards and then past the viewer. A small, light-colored utility box emerges on the right side of the tracks in the mid-distance, followed by prominent red signal lights further ahead, while a stack of track materials becomes more visible on the far left.

@@ -1,0 +1,10 @@
+frame_0000000000-frame_0000000128:
+A narrow dirt path stretches from the viewer into a sun-dappled, lush green forest, bordered by abundant ferns and undergrowth. A large, moss-covered tree trunk stands prominently to the viewer's immediate right, while tall trees line both sides of the path as it curves gently into the distant woodland.
+end of description
+As the frames progress, the viewpoint moves steadily forward along the path. Objects initially close to the viewer in the first frame, like the foreground ferns and the large tree on the right, progressively shift further to the sides and behind the original first-frame viewpoint. Simultaneously, new sections of the path and denser forest ahead, previously unseen from the initial viewpoint, are continuously revealed and occupy the central view.
+frame_0000000128-frame_0000000256:
+A winding dirt path leads from the bottom center towards the middle distance, flanked by abundant green ferns and dense undergrowth that rises up banks on both sides, especially prominent on the left. Tall, moss-covered trees with vibrant green canopies dominate the scene, towering overhead and along both sides of the path, creating a verdant tunnel where dappled light penetrates through the foliage in the upper middle distance. The viewer is positioned directly on the path, looking forward into the forest.
+
+end of description
+
+As the sequence progresses, the viewpoint steadily moves forward along the dirt path. The ferns and undergrowth initially on the near sides gradually recede to the left and right, passing the viewer as new sections of the forest and path are continually revealed further ahead of the first-frame's perspective. The tall trees, including a prominent mossy trunk on the initial far left, become closer and then move out of view to the sides as the viewer advances deeper into the lush, green woodland.

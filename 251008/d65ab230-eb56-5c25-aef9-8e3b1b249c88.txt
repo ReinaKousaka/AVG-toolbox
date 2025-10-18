@@ -1,0 +1,18 @@
+frame_0000000000-frame_0000000128:
+The first frame captures a snow-covered street in the foreground, with a white SUV driving from left to right across it. Behind the street and sidewalk, the multi-story 'Harbour Centre' building, partially covered in snow, dominates the background, featuring glass windows revealing festive decorations and a person standing on the sidewalk to the right of the SUV. A street light pole is positioned in the mid-ground, left of center.
+end of description
+The white SUV proceeds to move steadily to the right across the foreground street, with its brake lights briefly illuminating before it completely exits the frame to the right. Concurrently, the person on the sidewalk remains largely static, while the camera subtly pans right, progressively revealing a new vertical pole entering the frame from the far right.
+frame_0000000128-frame_0000000256:
+The first frame captures a snow-covered street in front of the "Harbour Centre" building, identifiable by its sign and distinctive glass facade, with festive Christmas trees and plants visible inside its ground-level windows. A dark pole occupies the far right foreground, partially obscuring the building, while a pedestrian walks from left to right in the midground.
+
+end of description
+
+The camera slowly pans to the right. This movement causes the dark foreground pole to shift further right, progressively revealing more of the "Harbour Centre" building to the left of where the pole initially was positioned. Concurrently, the pedestrian continues walking right, eventually moving out of frame, and more of the building's right side and an adjacent structure are brought into view.
+frame_0000000256-frame_0000000384:
+The first frame displays the "Harbour Centre" building directly in front of the viewer, featuring a snow-dusted glass pyramidal roof and illuminated ground-floor windows revealing Christmas trees and lobby decorations. A snow-covered street lies in the foreground, with a lamp post to the left and a person walking right along the sidewalk in front of the building on the far right.
+end of description
+This person continues walking right, eventually exiting the frame. Subsequently, a silver car enters from the right of the viewer, driving left across the snowy street in front of the building. As the car progresses, a bus stop sign to the right of the viewer becomes fully visible near the street.
+frame_0000000384-frame_0000000512:
+The first frame depicts a snow-covered street in the foreground, with a silver car positioned in the mid-right. A dark pole with a sign stands in the foreground to the right. Behind the street, the "Harbour Centre" building dominates the midground, featuring a glass facade revealing an illuminated interior with a Christmas tree and plants, and an angled roof dusted with snow; adjacent buildings are visible to its left and right.
+end of description
+As the frames progress, the silver car moves from right to left across the snowy street. Concurrently, the dark pole slowly exits the frame towards the right, revealing more of the street and the buildings behind it. A pedestrian walks rightward on the sidewalk in front of Harbour Centre, while other figures move within the entrance to the right of the building.

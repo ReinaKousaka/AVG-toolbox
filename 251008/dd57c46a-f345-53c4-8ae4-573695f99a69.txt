@@ -1,0 +1,10 @@
+frame_0000000000-frame_0000000128:
+The first frame captures a twilight street scene in a snowy mountain town, looking down a wet road. Parked cars line both sides, including a prominent white pickup truck and a silver SUV on the right foreground. Buildings with illuminated windows and large, decorated evergreen trees flank the road, with snow-capped mountains visible in the distance.
+end of description
+The subsequent frames display minimal change, primarily a subtle zoom-in and stabilization of the camera. The white pickup truck and silver SUV in the right foreground appear slightly larger, but no new objects are revealed or move significantly relative to the initial viewpoint.
+frame_0000000128-frame_0000000256:
+The first frame displays a snowy street at twilight, leading into a town nestled amidst snow-capped mountains in the background. On the right, a silver SUV (BMW X5) is parked, with a white pickup truck partially visible to its right; further along the street on the left, various cars are parked, and buildings are illuminated by streetlights and festive decorations on trees.
+end of description
+In subsequent frames, the white pickup truck on the right moves forward, progressively revealing its entirety. Concurrently, a new silver sedan emerges from the distant left side of the street, driving towards the viewer, and eventually passes by, moving to the viewer's left.
+frame_0000000256-frame_0000000384:
+The first frame depicts a snow-covered street in a mountain town at dusk, with snow-capped peaks in the background spanning the horizon. Buildings line both sides of the road, and several cars are parked on the right, including a dark SUV nearest the viewer, beside a large tree brightly lit with colorful string lights. A silver sedan is visible driving away on the left side of the street. end of description. In the following frames, the silver sedan progressively moves further away from the viewer on the left side of the street, its taillights shrinking as it recedes into the distance, while all other visible objects and their positions remain static relative to the initial viewpoint.

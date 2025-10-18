@@ -1,0 +1,31 @@
+frame_0000000000-frame_0000000128:
+The first frame shows an urban alleyway or covered walkway with a tiled path. On the left, a silver metal railing runs alongside ascending stairs, a series of white pillars, and two vending machines (one green/white, one white) receding into the mid-ground. In the center-left, two people, one in a red coat and another with a backpack, walk away from the viewer on a path with a yellow tactile strip. To the right, a brightly lit food stall with numerous colorful signs and Japanese text is prominent, with brown cardboard boxes, dark containers, and a vertical illuminated sign partially visible in the foreground.
+
+end of description
+As the frames progress, the two individuals continue walking away down the tiled path, moving further into the mid-ground relative to the initial viewpoint. Simultaneously, the camera subtly advances forward, revealing more of the lower portions of the food stall's display and the path directly in front of it. The dark containers, cardboard boxes, and the vertical light-up sign on the right side also become slightly more visible and centered in the frame.
+frame_0000000128-frame_0000000256:
+The first frame captures a narrow urban pathway stretching into the distance, featuring light-colored floor tiles and a central yellow tactile strip. On the left, a wall accompanies ascending stairs, a metal handrail, and two vending machines, while the right side is dominated by a brightly lit food shop with display windows and a red vending machine further along; two individuals are seen walking away from the viewer down this path.
+end of description
+In subsequent frames, the two individuals—one in a red coat and the other with a backpack—steadily walk further away from the initial viewpoint down the path. Beyond their continuous forward motion, no new objects or scenes emerge from previously unseen spatial positions relative to the first frame, such as from behind the viewer or to the sides.
+frame_0000000256-frame_0000000384:
+The first frame presents a covered pedestrian walkway flanked by a white wall with descending stairs and three vending machines on the left, and a building wall with awnings, a red vending machine, and an open shop entrance on the right. A woman in a red coat and a man with a backpack walk away from the viewer down the center-left of this tiled path.
+end of description
+As the frames progress, the woman in red and the man with the backpack continue walking further away from the viewer along the path. A new woman, wearing a blue jacket and holding a drink, emerges from the right side of the frame and walks towards the viewer, passing in front of the right-side red vending machine. An additional red vending machine is revealed further along the right wall, and the woman walking towards the viewer exits the frame to the viewer's left.
+frame_0000000384-frame_0000000512:
+In the first frame, a wide, tiled pedestrian walkway stretches into the background. To the viewer's left, a white photo booth and several vending machines (red and blue) line a plain wall, while to the right, another row of vending machines (starting with a large red one) and an orange traffic cone are present. Several people walk away from the viewer down the center of the walkway, with a woman in a red coat and a man with a backpack most prominent, and a partial view of a person is visible in the far right foreground.
+
+end of description
+
+As the frames progress, the people in the midground continue walking further away from the viewer, revealing more of the walkway and the vending machines beyond them. The person in the right foreground moves out of view to the left, fully exposing the large red vending machine and orange cone. More pedestrians further down the walkway become clearer as the group in the midground advances deeper into the scene.
+frame_0000000512-frame_0000000640:
+The first frame displays a tiled covered walkway flanked by vending machines: a red Coca-Cola and a blue machine on the left, and a white one on the far right. Several pedestrians are visible, with two women approaching on the right, a woman and child walking towards the viewer slightly left of center, and two people walking away further down the path on the left.
+end of description
+Over subsequent frames, the two women approaching on the right move past the viewer, followed by the woman and child, who also walk past to the right. As these individuals depart, a yellow conical sign with a red symbol becomes more prominent on the path ahead, while the two people walking away continue to recede into the distance.
+frame_0000000640-frame_0000000768:
+The first frame shows a tiled walkway with a blue vending machine and recycling bins to the left foreground, and pillars lining the left wall. To the right, a yellow cone with a 'no bicycle' sign and a person in a white top and mask are in the mid-ground, with a bicycle parking area, an orange cone, and an open doorway further back. Two people in red and a backpack walk away from the viewer in the center of the walkway.
+end of description
+As the frames progress, the person on the right walks closer to the viewer before passing out of frame to the right. Simultaneously, the two individuals in the center continue to recede further down the walkway, revealing more of the bicycle parking racks and the extended path ahead.
+frame_0000000768-frame_0000000896:
+A covered walkway extends into the distance, featuring a yellow 'no bicycle riding' sign and an orange cone in the immediate foreground-right, mirrored by two cones and a sign to the mid-left. A couple, one in red and the other with a backpack, walks away from the viewer in the mid-ground, alongside a long, multi-tiered bicycle parking area on the right containing numerous bikes, including a white one on an upper rack.
+end of description
+As the frames progress, the viewpoint moves forward through the walkway, causing the initial foreground signs and cones to recede out of frame. The couple continues walking further into the distance ahead, gradually revealing more of the tiled path and the extending bicycle racks along the right side of the passage.

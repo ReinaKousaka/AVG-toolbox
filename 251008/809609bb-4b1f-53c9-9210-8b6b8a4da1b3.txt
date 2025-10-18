@@ -1,0 +1,28 @@
+frame_0000000000-frame_0000000128:
+In the first frame, a gravel path extends forward and slightly to the left from the viewer's immediate foreground, shadowed by a row of blossoming cherry trees positioned to the viewer's left. To the viewer's right, a tranquil river parallels the path, reflecting the sky, with a grassy bank containing small posts in the foreground. In the mid-distance, a green bridge spans the river, behind which buildings and additional trees are visible on the far bank.
+end of description
+Across the following frames, there are no dynamic changes or newly revealed objects or scenes relative to the first-frame viewpoint; only very subtle movements from wind in the trees and slight ripples on the water are observable.
+frame_0000000128-frame_0000000256:
+The first frame displays a gravel path extending into the distance, flanked by a row of blooming cherry blossom trees on the left and a river on the right. Beyond the river, a green bridge crosses, with several buildings visible in the mid-ground and background under a clear sky; to the left of the path, a grassy incline features another winding paved path.
+end of description
+As the frames progress, the viewpoint slowly moves forward along the gravel path, revealing more of the path and the base of the cherry blossom trees ahead. The river, bridge, and distant buildings remain on the right, gradually appearing closer from the first-frame viewpoint as the perspective shifts. No entirely new objects are revealed beyond the initial scene, but the existing elements' relative positions evolve with the forward movement.
+frame_0000000256-frame_0000000384:
+In the first frame, a large cherry blossom tree with light pink blooms stands in the mid-ground, slightly right of center, with its roots exposed at the base. A paved path runs from the bottom right corner alongside this tree, extending into the mid-distance parallel to a calm river on the far right. To the left, a grassy embankment slopes upward, featuring another winding paved path and modern grey buildings nestled into the background further up the incline, while a green bridge spans the river in the far distance, flanked by other white buildings on the opposite bank.
+end of description.
+The camera subtly tracks backward and to the left across the frames, gradually revealing more of the grassy embankment and the paved path extending further left from the initial viewpoint. This movement also brings a larger section of the row of cherry blossom trees, situated to the left of the prominent first-frame tree, further into view relative to the initial scene.
+frame_0000000384-frame_0000000512:
+A paved path curves uphill to the left, bordering a grassy bank. To the right, a row of cherry blossom trees lines another paved path alongside a river, with a green bridge spanning the river in the mid-distance and buildings visible beyond on both sides.
+end of description
+The viewpoint slowly shifts slightly forward and to the right. A small dark bird appears on the ground to the right of the path, near the base of the second cherry tree from the viewer, then hops further right towards the river path.
+frame_0000000512-frame_0000000640:
+The first frame presents a riverbank scene with a paved path winding along a grassy embankment on the left, leading towards distant buildings. To the right, a parallel paved path borders a row of cherry blossom trees with light pink blooms, beyond which a river flows with a green bridge and more buildings visible in the far background, including a faint tall tower.
+end of description
+Over the subsequent frames, the camera executes a slow, subtle forward zoom, making all existing elements—the paths, trees, river, bridge, and distant buildings, including the tall tower—appear progressively closer and slightly larger relative to the initial viewpoint.
+frame_0000000640-frame_0000000768:
+A paved path curves away from the viewer on the left, running alongside a grassy slope topped by residential buildings in the midground. To the right, a row of cherry blossom trees with pale pink blooms stands along a second, parallel dirt path, bordering a river with green bridges and distant buildings visible beyond them. In the far background, a tall, slender tower rises centrally, partially obscured by the trees.
+end of description
+In the subsequent frames, the branches and blossoms of the cherry trees on the right exhibit a gentle, swaying motion, indicating a light breeze. This subtle movement is also reflected in the slight shifting of shadows across the grassy areas to the right of the path, while all other elements of the scene remain fixed relative to the viewer's original position.
+frame_0000000768-frame_0000000896:
+In the first frame, a paved path extends from the bottom center towards the distant center-left, bordered by a grassy slope on the left and a wide grassy area with a row of cherry blossom trees on the right. Houses sit atop the grassy slope to the left, while beyond the trees on the right, a river and a green bridge are visible. In the distant background, the Tokyo Skytree stands prominently in the center, flanked by more buildings across the water under a clear sky.
+end of description
+The camera gradually moves forward along the paved path. As the viewpoint advances, the grassy slope and houses on the left recede behind the viewer, and the cherry blossom trees and river on the right also move to the side and slightly behind, revealing more of the riverbank and additional trees further ahead. The distant Tokyo Skytree and buildings remain ahead, subtly increasing in apparent size as the viewer approaches. The overall scene also subtly brightens throughout the sequence.

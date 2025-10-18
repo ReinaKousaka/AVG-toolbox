@@ -1,0 +1,14 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a wet asphalt road with white pedestrian crossing stripes directly in front of the viewer, leading into the distance. To the left, a metal fence features several information boards against green foliage, while on the right, a paved sidewalk parallels a black metal fence adorned with a large blue sign and smaller white signs. Lush green trees canopy overhead, framing the road where bright sunlight filters through in the distance, revealing a faint figure walking away.
+end of description
+The scene remains largely static throughout the subsequent frames; however, the sunlight intensity subtly changes, causing the reflections on the wet road surface to slightly shift and shimmer. The distant human figure incrementally moves further away from the viewer.
+frame_0000000128-frame_0000000256:
+The first frame shows a paved road or bridge extending forward into the distance under a lush canopy of green trees, with sunlight dappling its surface. To the left, a large information board displaying a map stands behind a low metal fence, beside a digital sign showing red numbers. On the right, a similar metal fence lines the road, and a blue sign with white text is attached to it. A lone person is visible walking away from the viewer in the far distance, down the middle of the path.
+
+end of description
+
+The person walking in the far distance moves progressively further away from the viewer along the path. Simultaneously, the red numbers displayed on the digital sign on the left periodically change throughout the frames.
+frame_0000000256-frame_0000000384:
+In the first frame, a paved road stretches from the foreground into the middle ground, leading onto a bridge with light yellow railings, surrounded by dense green trees and foliage. To the left of the viewer, a large information board displays a map, flanked by a vertical digital display showing red numbers and a smaller sign below it. A dark metal fence runs along the left edge of the road, and on the far right, a blue sign with Japanese text is visible. Bright sunlight filters through the trees in the background, where the road curves out of sight.
+end of description
+A person gradually appears on the bridge in the middle ground, walking away from the viewer. This individual continues to move further along the bridge, towards the background, until they are no longer visible. No new objects or scenes are revealed; the primary dynamic change is the person's movement along the path initially visible in the first frame.

@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a grey asphalt road curving gently to the right, featuring a solid white line along its left edge and broken white lines indicating lanes ahead. To the left, a steep, rocky mountain rises, covered in patches of green and dry vegetation, while a metal guardrail on the right separates the road from a bright blue body of water with distant hills beyond. A clear blue sky dominates the upper portion.
+end of description
+As the viewpoint moves forward, the road markings and immediate blurred roadside on the left pass beneath the viewer. A small, indistinct brown post on the left shoulder becomes clearer and then recedes. Subsequently, a yellow road sign indicating a winding road with a '65' speed limit is revealed on the left side of the road, appearing fully before also moving past the viewer.
+frame_0000000128-frame_0000000256:
+The first frame reveals a grey road curving slightly ahead, bordered by a steep, vegetated mountain with a utility pole on the left and a metal guardrail alongside a blue lake and distant hills on the right, all under a clear blue sky.
+end of description
+As the frames progress, the viewpoint moves continuously forward along the road, causing the immediate surroundings to shift past the viewer. The mountain slope, utility pole, guardrail, and the lake on the right steadily approach and recede. The road's white lines continually advance from the distance, underscoring the ongoing forward motion through the unfolding mountainous and lakeside scenery.
+frame_0000000256-frame_0000000384:
+A paved road with white lines occupies the foreground and center, curving gently to the left into the distance. To the immediate left, a steep, brush-covered mountain slope rises, while a metal guardrail runs along the right side, separating the road from a blue lake and distant mountains in the background. The clear blue sky fills the upper half of the frame.
+end of description
+As the frames progress, the viewer moves forward along the road; the white lines appear to slide backward, and the vegetation on the left slope rushes past, becoming more defined. The guardrail on the right and the lake beyond it also move progressively closer and then slightly to the right of the frame as the viewpoint advances.

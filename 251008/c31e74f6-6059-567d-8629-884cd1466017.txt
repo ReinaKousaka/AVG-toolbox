@@ -1,0 +1,6 @@
+frame_0000000000-frame_0000000128:
+The first frame captures a vibrant city street scene, with a long road extending into the distance flanked by numerous multi-story buildings housing shops and restaurants, including a prominent 7-Eleven on the right. In the immediate foreground, two women walk towards the viewer on the right side of the street, while a sidewalk with orange bollards and a white arrow pointing away from the viewer occupies the left.
+
+end of description
+
+In subsequent frames, the two women in the foreground walk past the viewer and exit the frame to the left. Simultaneously, the camera's viewpoint gradually moves forward, progressively revealing more of the street and buildings that were previously further away from the viewer. Other pedestrians seen further down the street continue to move away from the initial viewpoint.

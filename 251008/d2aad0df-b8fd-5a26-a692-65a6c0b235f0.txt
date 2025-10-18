@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a street scene with the front of a silver car in the lower-left foreground, a brick-red house with a garden and a large tree to the mid-left, and a concrete sidewalk curving towards the background. To the right of the sidewalk is a street with parked cars, leading to distant buildings and an intersection under a clear sky.
+
+end of description. The viewpoint moves forward along the sidewalk, causing the initial silver car to exit the frame to the left and behind the viewer, while the house and garden gradually shift left. More of the garden, including a low brick wall, a green fence, an orange sign, and a black garbage bin, are progressively revealed on the left side, all located to the left of the initial viewpoint. The cars parked on the right remain stationary, slowly receding towards the background relative to the moving viewpoint.

@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The initial frame displays a street scene under an overcast sky, with a green car partially visible at the far left foreground. To the left-center, a large white building with red timber framing stands behind a paved square, while a row of pastel-colored buildings lines the right side of the road, which recedes into the distance with a '30' speed limit marked on it.
+end of description
+Subsequently, the green car drives out of the frame to the left, and a person enters from the mid-ground left, walking across the street towards the right side of the frame, passing the half-timbered building. The camera subtly shifts forward, making the '30' road marking more prominent.

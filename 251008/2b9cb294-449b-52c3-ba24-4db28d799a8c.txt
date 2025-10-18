@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a rainy night street with a tree trunk and trash bags in the foreground left, and a parked black car partially visible foreground right. A wet street stretches into the distance on the left, reflecting numerous car and street lights, while a wet sidewalk and illuminated buildings line the right, featuring a person near the building's facade.
+end of description
+Throughout the subsequent frames, cars on the wet street continuously move away from the viewer, with a light-colored vehicle appearing from the mid-left and proceeding down the road. Concurrently, the person on the right sidewalk dynamically changes posture and shifts slightly to the right along the building. The rainy conditions and vivid reflections persist across the scene.
+frame_0000000128-frame_0000000256:
+The first frame depicts a wet city street at night, seen from a sidewalk viewpoint. A prominent tree trunk stands in the lower-left foreground, while a partially visible car fender is at the bottom right. A wet asphalt road extends into the distance, filled with moving cars displaying illuminated headlights and taillights, flanked by trees with green foliage. On the right, a building with glowing signs parallels the street, where a person is visible bending down near an entrance.
+end of description
+A white car on the far left and a silver car in the middle lane move further into the distance along the wet road. The person on the right sidewalk stands up and walks away from the viewer. Distant car lights continue to shift as vehicles proceed, while the heavy rainfall persists across the scene.

@@ -1,0 +1,9 @@
+frame_0000000000-frame_0000000128:
+A narrow, reddish-brown dirt path, lightly covered in fallen leaves, extends from the foreground center into a dense, verdant forest. Lush green ferns and low-lying plants flank the path in the immediate foreground, while towering evergreen trees and various moss-covered foliage line both sides, receding into the distance where a brighter light source is visible through the canopy.
+end of description
+The viewer moves forward along the path, causing the immediate foreground ferns to recede and revealing more of the pathway and surrounding forest ahead. The dense trees on both sides gradually appear closer as the perspective shifts deeper into the woods. After several frames of continuous forward motion, a transition blends the scene into a deeper, somewhat different section of the forest, where significantly thicker, moss-laden tree trunks emerge prominently to the left, and a different array of tall, leafy trees now appears on the right.
+frame_0000000128-frame_0000000256:
+The first frame shows a narrow dirt path receding into a dense, verdant forest. Lush green ferns thickly line both sides of the path in the foreground and midground, while numerous tall, moss-draped trees populate the midground and background, with a bright sky peering through their canopy. A large, moss-covered log or stump is visible on the far left.
+
+end of description
+As the frames progress, the viewpoint steadily moves forward along the path. The ferns and path segments initially in the foreground recede backward and out of view, revealing new sections of the path and foliage that were previously further ahead. The entire forest scene, including the towering, moss-covered trees, gradually shifts backward relative to the first-frame viewpoint, deepening the visible forest expanse.

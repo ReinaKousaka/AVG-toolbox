@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a snow-covered wooden bridge railing extending from the lower left towards the center-left. Beyond the railing and below the viewer is a partially frozen river with visible water amidst snow and ice chunks, flowing from the foreground towards a dense, snow-covered evergreen forest in the background. The banks on both sides of the river, as well as the forest, are heavily laden with snow.
+end of description
+In the following frames, snow is observed dynamically falling and blowing from the branches of the snow-covered evergreen trees, primarily on the right side of the river and further into the background forest, creating a subtle, continuous downward movement.

@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a narrow, leaf-strewn stone path receding into the distance, bordered by a prominent moss-covered stone wall on the immediate left and a lower stone wall on the right. Beyond these walls, scattered upright stone slabs and smaller structures lead towards a background of bare-branched trees and a steep mountain slope under a bright sky.
+end of description
+The camera slowly moves forward along the path; the initial portions of both stone walls recede from the foreground and move out of view to the left and right, respectively. As the viewpoint progresses, new sections of the path and the wooded area ahead are continuously revealed directly in front of the viewer. The upright stone slabs and structures initially visible along the right wall pass by, making visible further similar elements deeper into the scene.

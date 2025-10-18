@@ -1,0 +1,28 @@
+frame_0000000000-frame_0000000128:
+In the first frame, a snow-covered path, forming a gentle valley between snow-laden evergreen trees, extends from the foreground into the distant background. Trees densely line both sides, with the left side ascending slightly from the path, all appearing under an overcast sky. A subtle "AUNTIE" watermark is present in the bottom-left corner.
+end of description
+As the frames progress, the camera slowly moves forward along the path and subtly pans right. The "AUNTIE" watermark fades out from the bottom-left corner, replaced by "SCENERY" fading in at the same location. This movement gradually reveals more of the snow-covered path directly ahead and slightly more detail in the snow-laden trees to the right of the path, continuously relative to the initial viewpoint.
+frame_0000000128-frame_0000000256:
+The first frame depicts a snow-covered forest path sloping gently uphill, leading directly away from the viewer. Dense, snow-laden evergreen trees flank both sides of the path, with a prominent tree trunk visible in the foreground to the viewer's left. More snow-covered trees recede into the distance, with a faint, dark vertical object visible further along the path in the background.
+end of description
+As the frames progress, the viewpoint steadily moves forward along the path, advancing into the scene that was initially in the midground and background of the first frame. The snow-covered path, initially stretching into the distance from the viewer's original position, continuously flows underneath and past the viewer. Trees that were previously in the midground on both sides grow larger, move towards the viewer, and then pass to the sides and behind the original viewpoint. New sections of the snow-covered forest and path, previously beyond the first frame's view, are continuously revealed directly ahead of the viewer. The dark vertical object, initially in the far background, progressively approaches the viewer's current position.
+frame_0000000256-frame_0000000384:
+The first frame displays a snow-covered forest path receding from the viewer's foreground into the distant background. Heavily snow-laden evergreen trees line both sides of this path; those on the left are closest in the foreground, while those on the right predominantly occupy the mid-ground. Towards the far end of the visible path, a dark, thin tree trunk stands centrally, with more snow-covered trees and a pale, overcast sky visible beyond.
+end of description
+As the frames advance, the viewpoint moves forward along the path, revealing new sections of the snow-covered ground directly ahead. The snow-covered trees initially in the mid-ground shift closer to the viewer, then appear to move past towards the sides and background. The path ahead continuously lengthens, bringing previously distant snow-covered trees and the central dark tree trunk progressively nearer to the viewer's original position.
+frame_0000000384-frame_0000000512:
+The first frame displays a snow-covered path extending from the viewer into a dense forest, flanked by numerous snow-laden evergreen trees on both the left and right sides. In the mid-distance along the path, a small dark object is visible, and taller pine trees are discernible in the background beneath an overcast sky.
+end of description
+As the frames progress, the viewpoint slowly moves forward along the path. The snow-covered trees and the path ahead appear to grow closer to the viewer. The small dark object on the path in the mid-distance becomes clearer, revealing itself to be a trash bin now closer to the viewer's original position.
+frame_0000000512-frame_0000000640:
+The first frame presents a snow-covered forest path extending away from the viewer into the midground, bordered on both sides by dense evergreen trees heavily laden with fresh snow. The entire visible ground is blanketed in white, and a small dark object is discernible centered far down the path.
+end of description
+Beginning in the second frame, the text "S C E N E" appears at the bottom left of the first-frame viewpoint. A brief green light flickers just above this text in the fourth frame. Subsequently, the "S C E N E" text gradually fades from view, disappearing completely by the ninth frame, with no other changes observed in the static snowy landscape.
+frame_0000000640-frame_0000000768:
+The first frame depicts a snowy forest path receding into the distance, flanked by numerous evergreen trees heavily laden with fresh snow. To the left foreground, gnarled roots and rocks are partially visible beneath the snow, while a prominent tall, slender tree trunk stands centrally in the background, all under an overcast sky.
+end of description
+No dynamic changes or newly revealed objects occur in the subsequent frames; the static, snow-covered forest scene persists without alteration from the first-frame viewpoint.
+frame_0000000768-frame_0000000896:
+A snow-covered path leads away from the viewer into a dense evergreen forest, where tall trees heavily laden with white snow frame the central path. A large snow-covered tree trunk with exposed roots is prominent in the immediate foreground to the left, and snow-draped branches are visible to the right, under an overcast sky.
+end of description
+The scene remains visually static in subsequent frames, with no camera movement or newly revealed objects; however, a subtle and gradual increase in the overall brightness of the snowy landscape is observable across the frames.

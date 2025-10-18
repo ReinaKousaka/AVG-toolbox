@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+First, a wet asphalt road occupies the center and foreground, bordered by a low stone wall topped with green hedges on the left, behind which parts of a wooden building are visible. To the right of the road, a paved area with a wooden fence and a small wooden shed-like structure leads towards another house and lush green trees. In the midground, several traditional wooden houses line the curving road uphill, with majestic green mountains and snow-capped peaks forming the backdrop under a light blue, cloudy sky.
+end of description
+Subsequent frames reveal no dynamic changes or newly revealed objects; the scene remains entirely static from the initial viewpoint.
+frame_0000000128-frame_0000000256:
+The first frame displays a wet asphalt road curving gently into the distance, flanked on the left by a prominent stone wall topped with a green hedge and traditional wooden houses further along. To the right, a paved area with a wooden fence and a small wooden structure sits beside the road, with more houses beyond; in the background, snow-capped mountains loom under a cloudy sky.
+end of description
+As the frames progress, the viewpoint moves forward along the road, causing the stone wall and hedge on the left to extend closer to the viewer, revealing more of the houses further up on the left side. Simultaneously, the wooden structure and houses to the right of the road appear to recede slightly relative to the viewer's advanced position, while the distant mountains remain a visible backdrop.

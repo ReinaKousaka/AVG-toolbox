@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a wet asphalt road with white dashed lines, where a white car is actively turning left in the foreground, and a dark car recedes further down the right lane. To the viewer's right are a yellow-lined curb, a barrier, a building, and poles with a blue street sign and a yellow chevron sign, while multiple apartment buildings fill the distant background under a grey, rainy sky.
+end of description
+As the frames progress, the white car completes its turn and moves away from the viewer and to the left. Concurrently, several new cars appear from the left, queuing up and slowly approaching the intersection from the viewer's left. The traffic light on the far left also transitions to red.

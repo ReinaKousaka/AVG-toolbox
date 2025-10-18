@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+A paved road with yellow double lines in the center and a white line on the right shoulder extends forward from the viewer, curving gently to the left in the distance. A steep, rocky slope covered with dense evergreen trees borders the road on the left, while similar trees line a less steep embankment on the right, all beneath a clear blue sky. In the far distance, a small dark vehicle is visible on the road around the bend, with more trees and a bright lens flare in the sky above.
+end of description
+As the sequence progresses, the viewpoint moves forward along the road, causing the roadside trees and slopes to move towards and past the viewer. The distant dark vehicle on the road ahead approaches the viewer, becoming slightly larger in each subsequent frame, remaining consistently ahead on the road.

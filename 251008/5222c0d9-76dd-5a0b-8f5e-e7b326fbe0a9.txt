@@ -1,0 +1,9 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a person, wearing a dark hat, blue jacket, and mask, from behind on the immediate right of the viewer, walking on an asphalt path. To the left, a large cherry blossom tree with white flowers stands beside a reddish-brown fence along a waterway, where more blossom trees extend into the distance. A black scooter is parked further along the path on the left, while a light brown multi-story building with balconies and several orange traffic cones lines the path on the right.
+
+end of description
+The foreground person continues walking forward, and the entire scene progresses relative to the initial viewpoint. As the camera moves along the path, the cherry blossom trees on the left and the buildings on the right continually shift closer to the *viewer's updated position* while receding from the *original first-frame viewpoint*, revealing new sections of the street ahead.
+frame_0000000128-frame_0000000256:
+The first frame shows a person in a blue jacket and hat walking away from the viewer on a paved path lined with cherry blossom trees overhead to the left, which border a canal with a railing. A black scooter and an information board are on the left, while a multi-story building and orange traffic cones are on the right.
+end of description
+As the frames progress, the viewpoint moves forward, causing the person, scooter, information board, and traffic cones to recede into the distance and eventually move behind the viewer. The path ahead, more cherry trees, and further sections of the building to the right are continuously revealed as the scene progresses.

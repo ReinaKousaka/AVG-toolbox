@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a bustling street with two individuals walking away from the viewer on the left sidewalk, while a stationary blue and yellow tram occupies the middle of the street further ahead. Commercial buildings with prominent 'OX' and 'Müller' signs line both sides of the thoroughfare, leading to distant structures with green spires under a bright blue sky.
+end of description
+Subsequently, the two pedestrians on the left continue moving forward and further away from the viewer. Simultaneously, the tram in the middle of the street begins to advance, also receding into the distance from the initial viewpoint. The cyclist initially on the far right also moves further away and out of the frame.
+frame_0000000128-frame_0000000256:
+The first frame captures a city street with two pedestrians walking away on the left sidewalk, bordered by shop buildings. To the right, a building with arched windows displays a 'Müller' sign, opposite a blue and yellow tram stationary on tracks in the midground, facing the viewer. Distant buildings with green spires are visible under a blue sky.
+end of description
+Following this, the two foreground pedestrians continue walking away, while the blue and yellow tram in the midground begins to move forward along the tracks, steadily approaching the viewer throughout the sequence.

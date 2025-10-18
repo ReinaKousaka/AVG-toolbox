@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+A narrow dirt path leads away from the viewer, curving slightly uphill towards the mid-right. To the right of the path, a large dark rock occupies the lower foreground, with a steep, earthy embankment covered in sparse green foliage rising above it. To the left, the terrain slopes sharply downward into a valley populated by numerous tall, blackened, dead trees and scattered green growth, extending towards distant hills under a clear blue sky.
+end of description
+As the frames progress, the viewpoint moves forward along the path. The large rock on the right in the first frame gradually moves out of view to the right and slightly behind the viewer's initial position, exposing more of the steep, loose dirt and small rocks on the embankment that was originally to the right of the path. Simultaneously, the dead trees and distant valley to the left of the initial path position appear to recede and shift slightly left, indicating forward progression.
+frame_0000000128-frame_0000000256:
+The first frame presents a narrow dirt path curving uphill and to the left, flanked by a steep, green-covered slope descending into a vast valley of charred, bare trees on the left, and a rising dirt and rock embankment with sparse vegetation on the right, all under a clear blue sky with distant mountains visible.
+end of description
+The viewpoint moves steadily forward along the path. A dark, furry animal emerges onto the path ahead in the mid-ground, slightly left of the path's center, and proceeds to walk further along the path before disappearing from view.

@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a rural landscape under a cloudy sky, featuring a wooden building with a chimney and a person on the left, a red car parked beside a light-colored house on the right, and a paved road curving towards grassy fields, scattered houses, and distant mountains in the background.
+end of description
+As the viewpoint moves forward along the road, the person on the left quickly disappears, and the wooden building recedes to the left. A grey metal fence then emerges from the left foreground, gradually obscuring the lower part of the receding building and extending into the mid-ground. Concurrently, the red car on the right becomes more fully visible from its rear as the viewpoint passes its front, and the road ahead becomes clearer.
+frame_0000000128-frame_0000000256:
+A paved road curves slightly right in the foreground, with a modern house and grey fence on the left, and sparse vegetation on the right. In the midground, large evergreen and deciduous trees stand beside the road, beyond which a green field extends to distant houses, including one with a red roof. Mountains loom in the background under a cloudy, overcast sky.
+end of description
+As the viewer moves forward along the road, the house and fence on the left recede, revealing more of a village area with multiple buildings and parked cars *ahead and to the left*. The vegetation and first road marker on the right also recede, making the green field and houses *further ahead* more prominent. A manhole cover appears on the road *directly in front of the viewer* and then passes, while a second road marker becomes visible *further ahead on the right*.

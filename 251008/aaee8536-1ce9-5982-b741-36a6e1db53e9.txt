@@ -1,0 +1,30 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a paved road extending forward into the distance, flanked on the left by stacks of building materials on racks, large stone blocks, and a partial dark vehicle, while on the right, a grey industrial building with an open bay and a brown house with open shutters are visible. In the background, green mountains loom to the left, and distant houses and trees line the road under a blue sky with scattered white clouds.
+end of description
+As the camera moves forward, the immediate foreground objects on both sides gradually shift out of view, to the left and right respectively, relative to the first-frame viewpoint. Two red and white striped warning bollards then emerge on the left side of the road, followed by a utility trailer, before they also recede towards the viewer's left. Concurrently, a white garage door and a bright yellow shutter on the brown house become fully visible as it moves towards and then past the viewer's right.
+frame_0000000128-frame_0000000256:
+The first frame displays a paved road stretching from the bottom center into the distance, with a large brown building featuring a white garage door positioned prominently to the viewer's right. To the viewer's left, stacked wooden structures and a wooden fence are visible on a grassy area, beyond which lies a village with several buildings and green fields. In the background, a large, green, cloud-capped mountain rises under a bright blue sky adorned with scattered white clouds.
+end of description
+As the viewpoint progresses forward along the road, the large building on the right appears to recede and shift slightly right relative to the initial frame, exposing more of its side. Simultaneously, the stacked wooden structures on the far left gradually move out of view, disappearing behind the first-frame viewpoint. Concurrently, new sections of the paved road and additional grassy areas ahead become visible, with the distant village and mountain remaining further ahead in the background.
+frame_0000000256-frame_0000000384:
+The first frame displays a paved road leading into a valley, flanked by vibrant green fields. On the immediate right, a large brown building with a lighter base and two small dark windows occupies the foreground. In the mid-ground left, several farm-style buildings and a silo are visible, backed by distant green, cloud-capped mountains under a bright blue sky with scattered clouds.
+
+end of description
+
+As the frames progress, the viewpoint slowly advances forward along the road. The brown building on the viewer's right gradually moves further to the right and out of frame, revealing a dark green metal fence running parallel to the road. The entire landscape subtly shifts forward as the camera continues its steady progression.
+frame_0000000384-frame_0000000512:
+The first frame displays a paved road stretching into the distance, bordered by vibrant green fields on both sides, with a wooden fence and a green mesh fence running along the right. Distant farm buildings, including a silo, are visible to the left of the road, while majestic mountains and dense forests form the background under a blue sky adorned with scattered white clouds.
+end of description
+The viewpoint slowly moves forward along the road, causing the immediate foreground grass and the right-side fences to recede behind the viewer's initial position. As the camera advances, the previously distant farm buildings, mountains, and forests appear to grow larger and closer, progressively revealing more of the road and landscape ahead from the first-frame's perspective.
+frame_0000000512-frame_0000000640:
+A narrow paved road stretches from the viewer into the distance, flanked by vibrant green grassy fields. To the left, a cluster of wooden farm buildings and a tall green silo are situated before a large mountain range with clouds clinging to its peaks. On the right, a wooden fence parallels the road, beyond which a dense forest rises on a hillside. The sky above is a bright blue, adorned with scattered white, wispy clouds.
+end of description
+Across the subsequent frames, the scene remains largely static, with the road, fields, buildings, mountains, and forest maintaining their fixed positions relative to the viewer. The only perceptible dynamic change is the very subtle shifting and reshaping of the white clouds in the blue sky and around the mountain peaks, indicating slight atmospheric movement.
+frame_0000000640-frame_0000000768:
+The first frame depicts a paved road extending from the foreground into the distance, bordered by vibrant green grassy fields on both sides. To the left, several traditional wooden buildings are visible, backed by a large green mountain whose peak is partially covered by white clouds. On the right, a wooden fence runs parallel to the road, with trees and another wooden building further in the mid-ground, all beneath a bright blue sky dotted with scattered white clouds.
+end of description
+There are no dynamic changes or newly revealed objects in the subsequent frames; all provided frames are identical to the first.
+frame_0000000768-frame_0000000896:
+In the first frame, a paved road extends from the viewer into the mid-distance, flanked by vibrant green grassy fields. To the left, several traditional wooden barns and a white building with a brown roof are visible amongst the grass, while a large, rocky, green mountain range partially obscured by clouds looms in the far distance. On the right, a wooden rail fence parallels the road, leading towards a rustic wooden barn and dense green trees further back.
+end of description
+As the frames progress, the viewpoint slowly moves forward along the road. The fence posts on the right gradually advance closer to the viewer, appearing to pass by. Similarly, the buildings on both the left and right sides of the road become slightly larger and closer in perspective, indicating a subtle forward motion through the scene.

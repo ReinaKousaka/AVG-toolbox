@@ -1,0 +1,30 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a sunny day on an asphalt road leading towards the horizon. A white SUV drives ahead in the middle lane, with another vehicle visible further in the distance. To the left, a dense green hillside borders the road, featuring a utility pole in the mid-ground. On the right, a rocky, sparsely vegetated hillside rises, with a red sign and part of a building beyond it, while a white car is partially visible very close on the viewer's right. The foreground includes a zebra crossing and road markings beneath a clear blue sky.
+
+end of description
+
+As the viewpoint moves forward, the partial white car on the immediate right of the first frame quickly moves out of view to the right. The white SUV ahead continues to recede into the distance, while the red sign, rocky hillside, and building on the right slowly pass by the viewer's right side. Concurrently, the green hillside and utility pole on the left approach and then move past the viewer's left. The road surface and its markings consistently scroll beneath the vehicle, indicating continuous forward motion. No new significant objects are revealed beyond the unfolding road and landscape.
+frame_0000000128-frame_0000000256:
+The first frame shows a road ahead with a white SUV in the right lane, moving away from the viewer. Lush green trees and vegetation line both sides of the road, with a street lamp visible on the left and reddish-brown rocky terrain on the right, all beneath a clear blue sky.
+end of description
+As the viewer's vehicle moves forward, the road continuously unfolds ahead. The white SUV remains ahead, maintaining its relative position while the roadside vegetation and the street lamp on the left move past the viewer towards the background. A round road sign, initially obscured by the foreground, also emerges on the left side of the road, below the lamp, as the viewer approaches its location.
+frame_0000000256-frame_0000000384:
+The first frame displays a light-colored SUV driving ahead on a paved road, extending from the viewer into the middle distance. Dense green trees and foliage line both sides of the road, with a grey signpost visible on the left and a concrete shoulder to the right, all under a clear blue sky.
+end of description
+As the frames progress, the viewer's vehicle moves forward, causing the light-colored SUV to recede further ahead. The road surface, including a new yellow striped marking, continuously moves beneath the viewer, while the surrounding trees and landscape steadily pass by, revealing more of the winding road ahead.
+frame_0000000384-frame_0000000512:
+The first frame presents a paved road extending from the viewer towards a white car ahead, flanked by dense green trees on the left and a rocky, foliage-covered slope on the right, all under a clear blue sky.
+end of description
+As the sequence progresses, the viewer moves forward, causing the white car to recede further into the distance and continually revealing more of the road and the environment ahead relative to the initial viewpoint. The trees and the rocky slope on either side move progressively closer and then past the viewer's position, with a white street pole on the left initially appearing more prominent before receding with the rest of the landscape.
+frame_0000000512-frame_0000000640:
+The first frame shows the viewer driving on an asphalt road behind a white SUV, with dense green trees lining the left side and a rocky, vegetated embankment on the right, all beneath a clear blue sky and distant buildings faintly visible on the left horizon.
+end of description
+As the camera moves forward, the white SUV continues ahead, while the trees and embankment on both sides progressively shift from being ahead to passing the original first-frame viewpoint. A street lamp and a white roadside marker become more clearly visible on the left side, initially further ahead. Simultaneously, a yellow triangular warning sign emerges from ahead, becoming prominent on the right side of the road. Further ahead on the left, more of the distant buildings become visible as the road gently curves to the left.
+frame_0000000640-frame_0000000768:
+The first frame displays a road extending forward with a white SUV directly ahead, slightly to the right of the center. Lush green vegetation borders both sides of the road, with a lamppost visible on the left, partially obscured by trees. In the distance to the left, a tall building stands behind the foliage, accompanied by other structures on a distant hillside, all beneath a clear blue sky; a triangular yellow warning sign is partially visible on the right, integrated into the vegetation.
+end of description
+As the frames progress, the viewer and the white SUV move forward along the road. The triangular yellow warning sign on the right becomes increasingly clear and closer, eventually revealing the Chinese character '慢' (slow). Simultaneously, the distant buildings on the left grow slightly larger in perspective as the viewpoint advances, reflecting continuous forward motion.
+frame_0000000768-frame_0000000896:
+A clear blue sky is visible above a paved road extending into the distance. A white SUV is directly ahead on the road, flanked by lush green trees and slopes. To the right, slightly ahead, a yellow triangular warning sign with '慢' stands above dense foliage, while tall buildings are visible in the far distance beyond the left trees.
+end of description
+As the viewpoint moves forward, the yellow warning sign recedes and disappears to the right. A white sedan in the left lane, initially behind the SUV, gradually approaches, overtakes the SUV, and becomes more prominent to the left of the viewer's path, while the surrounding landscape grows closer.

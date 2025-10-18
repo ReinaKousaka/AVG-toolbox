@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+In the first frame, a paved road extends ahead, curving slightly left into the distance, bordered by dense green trees and bushes on its left side. To the immediate right, a brown wheeled bin stands on a paved area beside a low stone wall and green hedges, with distant houses and hills visible under a bright sky further down the road.
+end of description
+As the viewpoint moves forward, the brown wheeled bin and the stone wall on the right recede and progressively exit the frame towards the lower right. The road and the surrounding greenery on both sides pass by, while the distant houses and hills ahead become slightly closer and more prominent.
+frame_0000000128-frame_0000000256:
+The first frame displays a grey paved road extending forward, curving slightly right in the mid-distance, with a drain cover visible on its surface. To the viewer's immediate left and stretching into the mid-ground is a lush line of green hedges and dense trees. On the right, a dry-stone wall borders the road with a strip of grass, backed by more green foliage. In the far distance, slightly right of center, a few light-colored buildings are visible under an overcast sky.
+end of description
+As the sequence progresses, the viewpoint moves steadily forward along the road. Objects initially in the foreground, such as sections of the stone wall to the right and the dense hedging to the left, gradually recede and move behind the viewer's original position. Simultaneously, more of the road ahead and the distant landscape, including the previously small buildings, are continually revealed and appear closer and larger as the viewer approaches them.
+frame_0000000256-frame_0000000384:
+The first frame depicts a paved road extending forward, gently curving right into the distance, flanked by a dense green hedge and trees on the left. A low stone wall lines the right side of the road, with distant buildings and a hazy landscape visible straight ahead under a cloudy sky.
+end of description
+Subsequently, the viewpoint moves continuously forward along the road, causing the stone wall on the right and the hedge on the left to recede towards the sides of the frame. Objects previously in the distance, such as the buildings ahead, gradually appear larger and closer within the evolving scene.

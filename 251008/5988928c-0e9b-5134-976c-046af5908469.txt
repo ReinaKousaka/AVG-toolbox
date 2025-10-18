@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+A dirt path stretches centrally from the foreground into a lush, moss-covered forest, flanked by dense green ferns and undergrowth. Tall trees, heavily draped in bright green moss, rise on both sides of the path, their branches reaching towards a bright, overcast sky visible through the overhead canopy.
+end of description
+As the frames progress, the viewer's perspective subtly moves forward along the path. Elements previously in the immediate foreground, such as specific ferns and sections of the dirt path, gradually recede into the middle ground. Concurrently, new segments of the path ahead and the surrounding dense, mossy woodland progressively come into view from the first-frame viewpoint.
+frame_0000000128-frame_0000000256:
+A narrow dirt path stretches away from the viewer into a lush, dense forest. Abundant green ferns and moss-covered ground vegetation line both sides of the path, extending into the midground where numerous tall, moss-laden trees rise, their branches forming a verdant canopy overhead, with lighter sky visible above and in the distance.
+end of description
+The viewpoint progressively moves forward along the path, causing the foreground ferns and mossy tree trunks (initially to the viewer's immediate left and right) to shift closer and then past the viewer, while revealing more of the path deeper into the forest. The overhead moss-draped branches also move further away, indicating continuous progression into the scene.

@@ -1,0 +1,16 @@
+frame_0000000000-frame_0000000128:
+A paved road stretches from the bottom center, curving slightly right, into a vast green landscape. On the left, a wire fence with wooden posts runs alongside rolling grassy hills dotted with trees, while a denser cluster of trees stands on the right hillside. In the background, distant green mountains rise under a bright blue sky filled with large, fluffy white clouds, with a prominent rocky peak visible towards the center.
+end of description
+The viewpoint steadily moves forward along the winding road. The immediate foreground of grass and fence posts on the left gradually moves past the viewer and out of frame. The green hillsides on both sides of the road appear to open up and recede as the viewer progresses further into the scene, maintaining the same mountainous and cloudy backdrop ahead.
+frame_0000000128-frame_0000000256:
+The first frame shows a narrow asphalt road extending from the bottom center, receding into the distance amidst rolling green hills. To the left and right of the road are lush grassy slopes, with wooden fence posts running along both sides. Further back, clusters of trees are visible on the slopes, and in the far distance, undulating dark green mountains line the horizon under a bright blue sky dotted with large, fluffy white clouds primarily in the upper center.
+
+end of description
+
+The camera slowly moves backward along the road, gradually revealing more of the paved surface and the grassy terrain immediately behind the initial viewpoint. As the perspective widens, additional fence posts appear closer to the viewer on both sides, and more of the surrounding green hills to the left and right of the original camera position are revealed. The distant mountains and clouds remain in the background, appearing slightly smaller as the field of view expands.
+frame_0000000256-frame_0000000384:
+The first frame shows a paved road extending from the viewer's immediate foreground towards a dense cluster of trees in the middle distance, flanked by undulating green hills dotted with scattered trees and lined by wooden fence posts. Distant, dark green mountains rise behind these hills, all beneath a bright blue sky filled with fluffy white clouds. end of description. The viewpoint steadily moves forward along the road, causing the foreground road and fence posts on both sides to recede from the bottom of the frame while new sections of the path emerge directly ahead. The cluster of trees the road approaches grows larger as the viewer draws nearer, and the entire landscape progressively shifts closer relative to the original viewpoint.
+frame_0000000384-frame_0000000512:
+A paved road stretches ahead from the viewer, flanked by lush green rolling hills leading to distant mountains under a blue sky with scattered white clouds. Several tall trees are visible, notably a dense cluster at the road's end and a prominent one to the left, while fence posts line both sides of the road.
+end of description
+As the viewpoint moves forward along the road, the fence posts recede, and the road ahead subtly curves to the right, approaching the cluster of trees. A smaller road is revealed branching off to the left, previously obscured by the foreground.

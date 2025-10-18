@@ -1,0 +1,26 @@
+frame_0000000000-frame_0000000128:
+In the first frame, a blurred person occupies the immediate foreground on the left, obscuring a significant portion of the sidewalk. To the left-center, a man in a patterned white jacket and orange shoes walks amidst a crowded sidewalk of pedestrians, with a food cart topped by an orange and white umbrella visible further back. On the right, a building facade features multiple window displays filled with numerous yellow bags arranged vertically, and some items rest on the ledge below the windows. In the background, city buildings with lights, a street, and an American flag hanging from a building are visible.
+
+end of description
+
+The blurred person in the immediate foreground quickly moves out of frame to the left, revealing more of the busy sidewalk. Pedestrians continue to move past the viewer; the man in the patterned jacket walks further left, and other individuals emerge from the distance and pass by. The food cart with the orange and white umbrella, previously partially obscured, becomes more clearly visible on the left side. The scene consistently features a continuous flow of people navigating the city sidewalk, without revealing entirely new static objects.
+frame_0000000128-frame_0000000256:
+The first frame captures a night-time city sidewalk stretching forward, bustling with pedestrians moving towards and away from the viewer. To the far left, a street food cart with an orange umbrella is partially visible, while a multi-story building facade with large windows and items on a lower ledge runs along the right. Distant city buildings, illuminated signs, and an American flag complete the background.
+
+end of description
+
+The man initially in the mid-ground proceeds past the viewer to the left, as a continuous stream of pedestrians moves forward from the background and eventually past the viewer on the left sidewalk. Simultaneously, items on the right-side building ledge, like cups and food, become more clearly visible, revealing white sneakers as the scene progresses.
+frame_0000000256-frame_0000000384:
+The first frame captures a city sidewalk at night, with a woman in a dark jacket walking in the left foreground towards the viewer, accompanied by a diverse group of pedestrians in the mid-ground, all framed by a reflective building on the right and illuminated ornate architecture and distant skyscrapers on the left.
+end of description
+Across subsequent frames, the foreground woman continues moving past the viewer towards the left, while the mid-ground group of pedestrians steadily advances. Individuals like a man and woman in a green coat and a man in a white 'Penn State' hoodie become increasingly prominent as they walk towards and then past the original viewpoint. The scene continuously refreshes with new people entering from the distant background and existing figures moving out of the frame, maintaining the bustling street environment relative to the initial viewpoint.
+frame_0000000384-frame_0000000512:
+The first frame displays a bustling nighttime city sidewalk with numerous pedestrians moving in various directions. To the right, a building facade with large reflective windows and scattered trash is visible, while to the left, various people walk past illuminated storefronts and distant tall buildings, with an American flag hanging in the upper background right.
+end of description
+Chronologically, the three prominent figures in the mid-ground right (a man in a "PENN STATE" hoodie, a woman in a silver puffer jacket, and a man in a red jacket) walk directly towards the viewer. The "PENN STATE" man, now carrying a black backpack, passes closest and exits to the viewer's immediate right, revealing more distant pedestrians. Subsequently, the woman in the silver jacket and the man in the red jacket also pass the viewer, moving into the foreground left and then out of frame, revealing a yellow bus and additional pedestrians further down the street to the left.
+frame_0000000512-frame_0000000640:
+In the first frame, the viewer is on a sidewalk looking down a city street at night. To the viewer's immediate right is a building facade with large glass display windows. To the viewer's left, a group of pedestrians walk past, with a cardboard box and a black framed sign on the ground nearby. Further down the street, numerous other pedestrians are visible, some walking towards and some away from the viewer, while a yellow bus with "YANKEE" written on its side is parked or moving slowly in the middle distance. Tall buildings with illuminated windows line both sides of the street, extending into the background against a dark blue sky.
+
+end of description
+
+Throughout the subsequent frames, the primary dynamic change is the movement of pedestrians across the sidewalk. The group of people initially in the foreground on the left steadily moves towards the viewer's right and out of the frame. Simultaneously, other pedestrians in the midground progress along the sidewalk, some moving closer to the viewer's position, while the yellow bus and surrounding buildings remain largely stationary relative to the first-frame viewpoint.

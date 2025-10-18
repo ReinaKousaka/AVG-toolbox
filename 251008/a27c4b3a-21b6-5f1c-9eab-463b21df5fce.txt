@@ -1,0 +1,28 @@
+frame_0000000000-frame_0000000128:
+A patterned paved path curves from the foreground right into the midground, flanked on the left by a rocky, grassy incline featuring a prominent tree with red leaves in the mid-left. Further back, a mix of green, red, and bare-branched trees under a bright sky completes the park-like scene.
+end of description
+The camera advances along the path, moving forward and slightly right, revealing more of the path ahead and the park's depth. A small building with a green roof gradually emerges into view on the far left, beyond the initial prominent tree, as the rocky incline recedes. Concurrently, a dark receptacle becomes visible further along the path on the right side, and trees on the right appear to shift further into the background.
+frame_0000000128-frame_0000000256:
+A paved path, appearing to be made of irregular grey stones, extends from the foreground, curving slightly right into the mid-ground. To the left is a rocky, green slope with various shrubs and trees, while to the right is a grassy area with sparse trees and a dark bin in the mid-ground. Overhead, red-leafed branches frame the upper corners against a bright sky.
+end of description
+The subsequent frames depict a very subtle, continuous zoom-out or backward camera movement, slightly expanding the field of view. This causes all visible objects to appear marginally smaller and more of the surrounding environment, particularly the framing red leaves, to become visible.
+frame_0000000256-frame_0000000384:
+In the first frame, a textured stone path curves gently to the right, extending from the foreground into the midground. Green grass borders the path on both sides. To the left, a rocky, landscaped area features various small trees, bushes (some with red foliage), and large boulders, stretching into the background. On the right, a grassy slope contains several bare-branched trees and a dark trash bin positioned near the path in the midground. A line of diverse trees forms the distant background under a clear sky, with sparse tree branches visible at the top-right and a few red leaves at the top-left of the frame.
+end of description
+As the frames progress, the viewpoint steadily moves forward along the stone path. The path's textured surface continuously scrolls from the foreground, receding underneath the viewer. The rocky landscape on the left and the bare trees and bin on the right slowly approach the viewer from the front and then move out of view to the sides. Consequently, previously distant sections of the park, including more of the winding path and surrounding flora, become increasingly prominent as they gradually enter closer view from the front.
+frame_0000000384-frame_0000000512:
+A stone-paved path extends from the bottom center towards the middle distance, curving slightly right, bordered by green grass. To the left of the path, a dark, round bush is visible, with several large, light-colored rocks and sparse ground cover beyond it, leading to a cluster of trees, some with green foliage and some bare. To the right of the path, a dark gray trash bin stands beside more green grass and numerous bare-branched trees that extend into the midground and background, under a bright, clear sky.
+end of description
+The scene remains static throughout the sequence with no new objects or scenes revealed. A subtle dynamic change occurs as the shadows cast by the bush to the left of the path gradually lengthen and shift slightly towards the right, suggesting a minor progression of time or a change in lighting conditions relative to the first-frame viewpoint.
+frame_0000000512-frame_0000000640:
+A cracked, light-grey paved path extends from the bottom center into the mid-ground, curving slightly rightward, within a park under a hazy sky. To the immediate left is a dark green bushy shrub and stacked light-grey rocks on a grassy slope, while two dark trash bins are partially visible on the immediate right. Trees with varied foliage and bare branches line both sides of the path, extending into the background.
+end of description
+The viewpoint steadily advances forward along the path. As it moves, the shrub to the immediate left and the trash bins to the immediate right recede out of view. Simultaneously, a small, dark bird is newly revealed flying across the upper left sky.
+frame_0000000640-frame_0000000768:
+The first frame shows a cracked-stone pathway extending from the foreground and curving slightly left into the mid-ground, flanked by grassy areas with scattered light-colored rocks and numerous trees of varied foliage, all under a bright, hazy sky.
+end of description
+As the perspective moves forward along the path, the foreground recedes, revealing more of the path and environment ahead, with the overall lighting subtly brightening. Eventually, two dark benches appear deeper in the scene on the right side of the path, previously unseen from the initial viewpoint.
+frame_0000000768-frame_0000000896:
+A light grey paved pathway, cracked with irregular patterns, stretches from the foreground into the middle distance, curving slightly right. Lush green grass and numerous light-colored boulders line the path on both sides. Trees with green and reddish-brown foliage, some with bare branches, populate the midground and background, under a clear sky.
+end of description
+No dynamic changes or newly revealed objects occur in the subsequent frames; the static park scene remains constant.

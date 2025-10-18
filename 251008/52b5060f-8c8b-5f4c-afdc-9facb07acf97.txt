@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a paved road curving gently to the left, bordered by a steep, rocky cliff face on the viewer's immediate left and a metal guardrail on the right. Beyond the guardrail, dense green trees and bushes line the road, with heavily forested mountains rising in the background under a clear blue sky; faint power lines are visible in the upper right.
+end of description
+As the frames progress, the viewpoint moves forward along the road, causing the rocky cliff on the viewer's left and the guardrail on the viewer's right to recede behind the original viewpoint. New sections of the road and the surrounding forested mountains become visible further ahead of the initial position, with the distant peaks remaining generally in front.
+frame_0000000128-frame_0000000256:
+From the viewer's perspective, a paved road with yellow markings curves to the left in the foreground, bordered by a large rock face immediately to the left and a metal guardrail on the right. Beyond the guardrail, a dense, tree-covered mountain rises steeply to the right, under a clear blue sky, with distant structures nestled within the foliage on the mountain's far right slope.
+end of description
+As the sequence progresses, the viewpoint moves forward, causing the immediate rock face on the left to recede past the viewer's left side, while the guardrail and surrounding trees on the right also recede into the distance. The road's leftward curve is increasingly navigated, revealing more of the steep, tree-lined mountain ahead and to the right of the initial view.
+frame_0000000256-frame_0000000384:
+The first frame presents a paved road curving left, with a metal guardrail along its right side. A steep, tree-covered rock face borders the road on the left, while a lush green mountain rises on the right, featuring two rectangular signs and partially visible structures in the midground behind the guardrail.
+end of description
+As the camera moves forward, the guardrail and signs on the right recede and exit the frame. Concurrently, the tree-covered rock face on the left grows more prominent, and a side path flanked by two lamp posts becomes visible on the right, further ahead of the initial signs' position, while a river to the far right recedes from view.

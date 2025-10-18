@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+A wet, narrow residential street, marked with "30" on the asphalt and yellow lines, stretches into the distance under an overcast sky. To the left, a silver railing stands before a green tarp-covered area with a white car and dense foliage, while to the right, a sidewalk features buildings, potted plants, a mounted wooden cabinet, and two light blue traffic cones.
+end of description
+As the frames progress, a strong current of water begins to flow down the sloped driveway on the right, originating from behind the viewer's right. This increasing torrent spills onto the sidewalk and rapidly spreads across the immediate right side of the street, noticeably pushing the two traffic cones further to the right edge.
+frame_0000000128-frame_0000000256:
+A wet, narrow urban street recedes from the viewer, featuring a faded "30" painted on the asphalt and yellow lines bordering its sides in the foreground. To the left, a white car is parked behind a green mat and draped foliage, with a utility pole and more parked vehicles further along the street, backed by dark buildings. On the right, a low brick wall supports a multi-story building, with additional structures beyond it. Hazy hills rise in the distant background beneath an overcast sky dense with overhead wires.
+end of description
+No dynamic changes or newly revealed objects or scenes are observed in the subsequent frames, as the streetscape remains static.
+frame_0000000256-frame_0000000384:
+A wet asphalt road, bordered by yellow lines, recedes into the distance under an overcast sky. On the left, a white car is partially visible near a utility pole with signs, followed by a dark SUV and another white car further down the street. To the right, a brick building with a bay window and green plants lines a concrete sidewalk, while misty hills are visible in the far background.
+end of description
+A person on a scooter enters from the middle-right of the first-frame viewpoint, moving left across the road, eventually passing behind the dark SUV on the left. A subtle splash or reflection of light briefly appears on the wet pavement near the right curb.

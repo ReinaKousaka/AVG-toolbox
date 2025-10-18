@@ -1,0 +1,11 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a symmetrical view down a tree-lined avenue on a rainy day. In the immediate foreground, two grey stone block structures rest on either side of a central, wet, paved pathway. This pathway extends into the distance, flanked by lower, reddish-brown paths and rows of tall, slender trees with light green foliage, while dense green undergrowth borders the scene on both sides. The path eventually converges into a bright, hazy, white area in the far background.
+end of description
+As the video progresses, the camera slowly moves forward along the central paved path. The two stone blocks initially in the foreground recede out of view behind the viewer, while the trees and adjacent paths gradually advance towards and then pass to the left and right of the viewer. The misty distant horizon ahead remains obscured, and the consistent rainfall creates visible ripples on the wet surfaces throughout the scene.
+frame_0000000128-frame_0000000256:
+A wet park path recedes into a hazy, bright distance, flanked by rows of tall trees. A dark central paved path is bordered by wider, brick-patterned paths on either side, which are further edged by narrower concrete strips, with dense green foliage visible behind the trees.
+end of description
+As the frames progress, the camera subtly moves forward, revealing more of the wet path ahead. Rain visibly intensifies, causing increased water accumulation and flow, particularly along the central path and within the concrete gutters running alongside the brick paths.
+frame_0000000256-frame_0000000384:
+The first frame presents a straight, wet path divided into a central concrete section and brick-paved sides, bordered by tall trees with green foliage on both the left and right. The path ascends into a bright, misty distance, and visible raindrops are hitting all surfaces. end of description
+Subsequent frames illustrate continuous heavy rainfall, dynamically showing water cascading and rippling across the path and pooling on the brick sections to the left and right. Visible splashes appear as raindrops hit the ground, and small streams of water flow along the edges of the brick paths, moving away from the viewer. The misty atmosphere in the distant background remains constant.

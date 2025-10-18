@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+A winding dirt path, embedded with light-colored rocks, begins in the lower center and curves upwards to the right, leading into a dense forest. To the immediate right, a large, moss-covered rock face rises steeply, adorned with ferns and green foliage. Numerous tall, slender evergreen trees with bright green canopies dominate the left and center, extending towards an overcast sky visible above, with faint mountains in the distant background to the far left.
+end of description
+The subsequent frames are identical to the first, showing no dynamic changes or newly revealed objects within the scene.
+frame_0000000128-frame_0000000256:
+A narrow dirt path winds from the lower-left foreground towards the center-right midground, flanked by several light-colored rocks and lush green foliage. To the viewer's right, a large, moss-covered rock face adorned with ferns rises steeply, while tall evergreen trees line both sides of the path, extending into the midground and background beneath a bright, overcast sky visible through their canopy.
+end of description
+The viewpoint slowly advances along the winding dirt path, causing the foreground rocks and the moss-covered rock face on the right to gradually recede from the viewer's immediate perception as the forest ahead progressively draws closer.

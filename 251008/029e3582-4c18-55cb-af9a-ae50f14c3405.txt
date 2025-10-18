@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+A winding grey asphalt path extends from the viewer into the distance. To the path's left, a strip of green grass borders it, followed by an expanse of reddish-brown and green foliage, with distant structures barely visible beyond. To the path's right, a large tree with green and yellowing leaves casts branches over the upper right foreground, beside a green grassy slope that rises to the right. The sky above is blue with scattered white clouds.
+end of description
+The viewpoint progresses forward along the path. The large tree on the right moves further right and slightly behind the initial position, revealing more of the path and the grassy area to its right. Similarly, the foliage on the left recedes to the left, and the overhead branches move further up and right as the scene advances.
+frame_0000000128-frame_0000000256:
+A paved path stretches forward under a bright blue sky with white clouds, flanked by dense green and reddish foliage on the left and a grassy slope leading to various trees on the right, with a large tree trunk partially visible on the far right foreground and some branches at the top-left.
+end of description
+As the frames progress, the viewpoint moves forward along the paved path. The large tree trunk initially on the far right of the first frame gradually moves out of view to the right, revealing more of the grassy hill and distant trees in that area. Simultaneously, the branches at the top-left of the first frame slowly exit the frame to the left. The foliage and narrower path on the left appear to pass by, while more of the path directly ahead of the first-frame viewpoint becomes visible as the perspective advances.

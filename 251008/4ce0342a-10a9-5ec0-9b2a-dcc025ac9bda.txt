@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+An aerial view reveals a dense San Francisco cityscape in the foreground, bordering a wide bay that stretches into the middle ground under a clear blue sky, with distant green hills lining the horizon. A curved breakwater and a bustling marina with boats and a tall ship are prominent on the right side of the bay, while the Golden Gate Bridge is barely visible as a red speck on the far left horizon.
+end of description
+Subsequently, the viewpoint subtly zooms out and pans slightly left and down, progressively revealing more of the city's foreground on the left and bottom. As the sequence advances, the Golden Gate Bridge on the far left horizon becomes increasingly visible and distinct, showcasing more of its red structure. A new tall, light-colored building also emerges into view on the lower left, adjacent to the existing cityscape.
+frame_0000000128-frame_0000000256:
+The first frame displays an aerial cityscape with dense urban buildings in the foreground, including a large white structure in the bottom-left, overlooking a wide blue bay. In the midground, a circular pier, a marina with numerous boats, and a large multi-masted ship are visible, while the red Golden Gate Bridge and distant green hills line the background under a clear blue sky, with text "SAN FRANCISCO California" in the top-left.
+end of description
+The camera gradually shifts left and zooms out across subsequent frames, revealing more of the urban landscape to the left and a wider expanse of the Golden Gate Bridge in the far left background, without introducing entirely new elements beyond the widening perspective.

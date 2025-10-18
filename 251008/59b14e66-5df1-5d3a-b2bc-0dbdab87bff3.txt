@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+In the first frame, a grassy path with muddy tracks extends from the foreground on the left, running alongside a calm canal on the right. Bare-branched trees line both sides of the canal, receding into the midground and framing an old stone bridge centered in the distant background. A wire fence borders the far left of the path, while the blue sky with faint clouds is visible above.
+end of description
+There are no visible dynamic changes or newly revealed objects in the subsequent frames; all provided frames appear identical to the first-frame viewpoint.
+frame_0000000128-frame_0000000256:
+The first frame presents a view down a narrow, grassy and muddy path on the left, running parallel to a brownish canal on the right. Bare trees line both sides of the path and canal, extending forward into the midground, leading towards a distant stone arch bridge spanning the canal under a bright blue sky.
+end of description
+Throughout the subsequent frames, the scene remains essentially static with no new objects or scenes revealed relative to the first-frame viewpoint. The only perceptible dynamic change is the subtle rippling on the canal's water surface (to the right of the viewpoint), causing slight shifts in the reflections of the overhead trees and sky.
+frame_0000000256-frame_0000000384:
+The first frame displays a muddy dirt path on the left, leading into the distance, with a large, gnarled tree trunk prominently on the far left foreground. To the right of the path, a dark, reflective canal stretches into the background, flanked by numerous bare-branched trees on both sides. In the far distance, a brick arch bridge crosses over the canal, all under a clear blue sky with some wispy clouds.
+end of description
+As the frames progress, the viewer's perspective moves forward along the path and canal. The large tree trunk on the far left of the initial frame gradually exits the view to the left, while new sections of the muddy path and grassy banks are continuously revealed directly in front of the viewer. The distant brick bridge steadily approaches, appearing larger as the viewpoint advances towards it.

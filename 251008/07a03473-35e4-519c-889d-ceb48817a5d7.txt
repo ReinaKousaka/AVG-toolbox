@@ -1,0 +1,16 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a city intersection with a zebra crossing prominent in the center; a white building with air conditioning units and a notice board occupies the left foreground, while a building with a green awning and a light-colored door is in the right foreground, and a dark van is partially visible mid-left, near the crossing.
+end of description
+The dark van proceeds left across the intersection and exits the frame. A yellow taxi and then a dark vehicle subsequently appear from the right, crossing the intersection from right to left, with a red traffic light becoming visible above the intersection to the right. Finally, a white car enters the intersection from the right, following the preceding vehicles as they continue moving left out of the scene.
+frame_0000000128-frame_0000000256:
+The first frame presents a street intersection with a crosswalk in the foreground, various multi-story buildings across the street in the background, and numerous overhead wires; a yellow taxi and a black van are stationary on the left, while a white car crosses the street from right to left in the midground.
+end of description
+The white car continues moving left and exits the scene, as the black van on the left also progresses forward. Subsequently, a black SUV enters the frame from the right, moving left across the intersection. This black SUV proceeds left while the initial black van exits to the left. Finally, a second black van-like vehicle appears from the right, trailing the first black SUV as both continue moving left across the intersection.
+frame_0000000256-frame_0000000384:
+In the first frame, a street intersection is seen under an overcast sky. A black SUV drives left across a crosswalk in the mid-ground, while a black minivan is parked further right. To the left, a utility pole with a traffic light and street sign stands beside multi-story buildings. On the right, shops with a pink facade are visible on the ground floor of a building complex, with overhead wires crisscrossing the entire scene.
+end of description
+The black SUV continues moving left and exits the frame. Subsequently, a white scooter enters from the right, crossing the intersection leftwards, as a pedestrian with a bicycle appears on the far left sidewalk, moving towards the viewer. Finally, a dark blue hatchback car enters from the right, following the path of the scooter across the intersection.
+frame_0000000384-frame_0000000512:
+The first frame captures a street scene featuring a masked person on the far left sidewalk, a black hatchback followed by a white hatchback driving rightward across a crosswalk, and utility poles with a green traffic light and street sign on the left. Buildings, including a multi-story brown structure with a pink storefront on the right, line the street under an overcast sky, with a distant antenna tower visible in the background.
+end of description
+Both cars continue moving right across the crosswalk, exiting the frame rightward as the traffic light on the far right building changes from green to amber, then to red. Subsequently, a small white van behind the left utility pole becomes more visible as the path ahead clears.

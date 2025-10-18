@@ -1,0 +1,11 @@
+frame_0000000000-frame_0000000128:
+First, a winding dirt road extends from the viewer into the mid-distance, flanked by rocky green hills that rise to higher peaks in the background under a blue sky. end of description
+As the viewpoint moves forward along the road, the immediate terrain blurs, and a small, light-colored animal becomes progressively clearer and larger on the road ahead, initially appearing in the mid-distance to the left of the road's center. The surrounding green mountainous landscape appears to recede as the viewer advances.
+frame_0000000128-frame_0000000256:
+The first frame displays a dirt road extending from the viewer into the middle distance, curving left then right, flanked by lush green, grassy hills with scattered rocks. In the far distance, towering green mountains rise under a clear blue sky with some clouds in the upper left, while a small, light-colored object is faintly visible on the distant road.
+end of description
+As the frames progress, the small object on the road clarifies into a light-colored dog, and a brown cow becomes visible to its right, further along the road from the viewer's initial position. The viewer then slowly approaches these animals as they stand on the road in the middle distance. Both the dog, remaining slightly ahead, and the cow become more prominent and closer to the viewer.
+frame_0000000256-frame_0000000384:
+A brown cow walks away from the viewer on a dirt road that curves left, with a smaller white animal trailing closely behind and to its left; green, rocky hills flank the road and rise in the distance under a clear blue sky.
+end of description
+Following frames show the cow and the white animal continuing their walk away from the first-frame viewpoint along the road. The white animal initially keeps pace behind the cow, then falls further behind and to the left of the cow's path as both move deeper into the scene. The viewpoint maintains a consistent relative position, observing their progression along the curving road.

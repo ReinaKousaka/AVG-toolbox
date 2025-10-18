@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+In the first frame, a winding asphalt road with white edge lines extends directly in front of the viewer, curving towards the left. To the immediate right, a low, light-colored stone barrier runs alongside the road, beyond which a large mountain, densely covered in green vegetation and exposed grey rock, rises from the midground to the background. To the left of the road, rocky terrain covered with green growth is visible, while in the far background to the left, a range of distant grey mountains is partially obscured by clouds under a light blue sky with scattered white clouds overhead.
+end of description
+The viewer progresses forward along the road, causing the initial segment of the road, the stone barrier on the right, and the rocky terrain on the left to gradually move away and pass behind the first-frame's position. Simultaneously, previously unseen sections of the road and the landscape directly ahead are continuously revealed. As the curve is navigated, the dominant mountain on the right appears to shift further to the left relative to the center of the first frame, while the distant mountains in the left background gradually become more exposed as the viewpoint rounds the bend.
+frame_0000000128-frame_0000000256:
+A paved road curves to the left in front of the viewer, bordered by a rocky slope with green foliage on the left, and a wider expanse of green, rocky terrain leading to a large mountain on the right. Distant mountains are visible ahead and to the left, partially shrouded in mist under a blue sky with white clouds.
+end of description
+No dynamic changes or newly revealed objects or scenes occur in the subsequent frames; the view remains identical to the first frame.
+frame_0000000256-frame_0000000384:
+A paved road stretches into the distance, curving slightly left from the viewer, flanked by rocky, green-covered hillsides. To the left, a steep rock face rises, while to the right, lush vegetation and rocks line the road. In the background, jagged mountain peaks are partially obscured by mist under a bright blue sky.
+end of description
+As the frames advance, the viewer moves forward along the road, causing the immediate road surface and surrounding greenery to shift and reveal new sections directly ahead. The rocky hillsides and vegetation pass by on either side, while the distant mountains and clouds subtly recede, with sunlight brightening the upper left hillside.

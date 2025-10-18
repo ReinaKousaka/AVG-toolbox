@@ -1,0 +1,16 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a rainy night street scene. In the immediate foreground to the viewer's right is a tree trunk, with a person holding a red umbrella partially visible just to its left, facing away. A wet sidewalk stretches from the left foreground into the midground, occupied by several pedestrians holding umbrellas. To the right of the sidewalk, a street reflects vehicle lights; a car with bright headlights and a bus are visible further down the road, to the right of multiple tree-lined poles. Dark trees line the left side, with distant buildings in the background.
+
+end of description
+
+The person with the red umbrella on the far right gradually moves away and to the right of the frame, disappearing. Simultaneously, pedestrians on the left sidewalk continue walking away from the viewer, while a new man holding a dark umbrella emerges from behind the tree on the right, walking towards and then past the viewer's right. Vehicles on the wet street, including the car with bright headlights, remain largely stationary in the midground as heavy rain persists.
+frame_0000000128-frame_0000000256:
+The first frame captures a rainy city street at night, with a heavily blurred individual under a black umbrella in the near foreground, mostly obscured by a vertical pole on the right. Further into the midground, several pedestrians with umbrellas walk left on the wet pavement, alongside trees and streetlights on the left, while a red car and a bus with illuminated headlights move left on the road to the right.
+
+end of description
+
+The foreground pedestrian continues moving left, gradually becoming more visible before completely exiting the frame to the left. Concurrently, a black SUV appears on the road from the right, behind the initial vehicles, also proceeding left down the rain-slicked street.
+frame_0000000256-frame_0000000384:
+The first frame captures a rainy night street scene with wet pavement reflecting bright streetlights and vehicle lights. To the left, a pedestrian walks under a white umbrella, and another person walks further down the sidewalk, while multiple cars, including a prominent dark blue van, are on the street to the right of the sidewalk.
+end of description
+Subsequently, the dark blue van in the street moves slowly forward, and the pedestrian on the left sidewalk continues walking forward. A traffic light visible on the left side of the street changes from red to green and then back to red.

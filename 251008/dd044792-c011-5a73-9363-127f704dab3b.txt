@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame captures a sunset waterfront scene, featuring a crosswalk and road in the foreground, with a promenade to the left populated by people viewing the ocean and distant mountains under an orange sky. Bare trees dominate the midground, separating the promenade from a parallel street and sidewalk on the right, where more pedestrians and parked bicycles are visible, with city buildings beyond.
+end of description
+Subsequently, a cyclist in blue and a person on a scooter in yellow move from the mid-right of the street across the frame towards the mid-left. The person partially seen in the bottom-right foreground also subtly shifts position towards the right. Other pedestrians along the right sidewalk continue their movement, maintaining the active atmosphere.
+frame_0000000128-frame_0000000256:
+The first frame captures a sunset waterfront scene with a street and a white-marked crosswalk in the foreground. To the right, a pole with a pedestrian crossing sign stands near the sidewalk, while two people are positioned on the left, facing a busy promenade with numerous individuals by the water. In the midground, bare-branched trees frame a park with more people, and distant mountains are silhouetted against the orange sky beyond the water.
+end of description
+A person on a bicycle and another on an electric scooter, both initially to the viewer's right on the road, proceed leftwards across the frame. Later, the pedestrian crossing sign on the right begins to flash an orange light, indicating a crosswalk activation.

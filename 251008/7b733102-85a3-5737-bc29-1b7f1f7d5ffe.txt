@@ -1,0 +1,30 @@
+frame_0000000000-frame_0000000128:
+In the first frame, a wooden boardwalk path recedes from the viewer's foreground into the midground, flanked by dense reddish-brown shrubs that blanket the landscape towards a distant line of trees and a low hill under a partly cloudy sky.
+end of description
+Subsequently, the viewpoint slowly advances forward along the boardwalk, revealing new sections of the path and surrounding vegetation continuously ahead of the initial position, as the previously foreground shrubs gradually recede towards the midground and background. The distant landscape, including the trees, hill, and sky, remains largely consistent, reinforcing the continuous forward motion.
+frame_0000000128-frame_0000000256:
+A wooden boardwalk extends from the viewer directly forward into the distance, flanked by dense reddish-brown shrubs on both sides. Overhead, a partly cloudy sky meets a horizon with distant low hills to the right.
+end of description
+The viewpoint progresses forward along the boardwalk. As the viewer advances, the surrounding shrubs move past, and previously distant sections of the path and landscape ahead become increasingly closer and larger, revealing new terrain along the winding path.
+frame_0000000256-frame_0000000384:
+A wooden boardwalk extends directly forward from the viewer into the distance, bordered on both sides by dense, low-lying reddish-brown and some greenish vegetation that occupies the midground. In the background, a distant line of trees stretches across the horizon, with a gentle, tree-covered hill visible to the far right, all beneath a partly cloudy sky.
+end of description
+As the frames progress, the viewer moves continuously forward along the boardwalk. The wooden planks appear to shift and emerge from the distant horizon towards the viewer. The dense vegetation flanking the path also dynamically changes, with new sections becoming visible closer to the viewer as previous parts recede into the midground. The distant trees and hills remain largely stable in their position relative to the horizon, emphasizing the forward progression.
+frame_0000000384-frame_0000000512:
+A wooden boardwalk extends from the bottom center, receding into the distance, flanked by reddish-brown low-lying shrubs predominantly on the right and golden-green tussock grasses on the left, with distant trees visible on the horizon under a partly cloudy sky.
+end of description
+The viewpoint steadily moves forward along the boardwalk. As it advances, the wooden planks and individual clumps of golden-green grasses, initially in the mid-ground, become more prominent in the foreground relative to the first-frame viewpoint, revealing new sections of the path and vegetation further ahead. The distant landscape remains consistently visible.
+frame_0000000512-frame_0000000640:
+A textured wooden boardwalk extends from the bottom center, curving slightly right and receding into the middle distance. It is bordered on both sides by dense clumps of golden-yellow tussock grasses and low reddish-brown heathland vegetation. In the background, a distant hillside with scattered trees is visible to the right, beneath an expansive sky showing both blue patches and white clouds.
+
+end of description
+
+The viewer steadily progresses forward along the boardwalk. This causes the sections of the path and surrounding vegetation initially visible in the mid-distance relative to the first-frame viewpoint to shift closer, eventually moving out of frame behind the original viewpoint. Simultaneously, new segments of the boardwalk and the natural landscape previously further ahead are continuously revealed directly in front of the viewer, advancing into the foreground and midground. The immediate vegetation to the left and right continually updates as the scene progresses past the static first-frame viewpoint.
+frame_0000000640-frame_0000000768:
+A wooden boardwalk path extends from directly in front of the viewer into the middle distance, flanked by dense tufts of golden-brown grass and reddish-brown scrub. Further into the midground, the vegetation continues as a mix of dark green and reddish-brown bushes, while a gently sloping, green-brown hill rises on the far right. The upper portion of the frame is dominated by a partly cloudy sky with patches of blue and white.
+end of description
+The camera slowly moves forward along the boardwalk. As the viewer progresses, the foreground tufts of grass and bushes shift to the sides and behind the initial viewpoint, revealing new sections of the path ahead. The dark green bush on the left moves progressively leftward relative to the center, and the path extends further into the distance, revealing more of the continuous, low-lying vegetation on both sides of the trail.
+frame_0000000768-frame_0000000896:
+The first frame displays a wooden boardwalk extending from the bottom center into the distance, bordered by green and reddish-brown scrubland, under a partly cloudy blue sky, with a gentle hill visible in the far right background.
+end of description
+The viewpoint progresses steadily along the boardwalk, revealing new sections of the path and the surrounding vibrant scrubland that were initially further ahead of the first-frame viewpoint. The large dark green shrub prominent to the left of the path in the initial frame moves further left and eventually behind the viewer's original position. The diverse, low-lying vegetation continues to flank the path as more of the expansive landscape unfolds ahead of the moving perspective.

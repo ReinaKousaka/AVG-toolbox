@@ -1,0 +1,14 @@
+frame_0000000000-frame_0000000128:
+The first frame captures a narrow, dimly lit street at dusk. To the left, a building covered in scaffolding with yellow netting and a blue tarp on the ground leads into the mid-ground where two parked scooters sit. String lights illuminate the path receding into the distance, flanked by buildings under construction on the left and a prominent, dark, graffiti-covered arched doorway on the right. Italian-flag colored banners hang above the doorway, and the sky is faintly visible above the tall structures.
+end of description
+The viewpoint subtly shifts forward and slightly to the right. The graffiti-covered doorway on the right side of the frame progressively becomes more prominent and closer, while elements on the far left, like the blue tarp and the front of the leftmost scooter, slowly move out of frame. The string lights and the distant end of the alley appear progressively larger, indicating a subtle approach further into the street from the initial position.
+frame_0000000128-frame_0000000256:
+The first frame presents a narrow cobblestone alleyway at night, with two scooters parked to the immediate left of the viewer, behind which scaffolding with yellow netting covers a building. To the viewer's right is a graffiti-covered door, while further into the alley on the right, brown trash bins sit beside a brightly lit wall adorned with Italian flag banners. Overhead, string lights illuminate an outdoor dining area with plants and tables located in the mid-ground.
+
+end of description
+
+As the frames progress, the viewpoint subtly shifts left and zooms out. A white menu board is revealed further to the far left of the white scooter, while the graffiti-covered door on the immediate right moves further out of view. A new menu stand becomes visible beyond the dark scooter, closer to the center of the alley.
+frame_0000000256-frame_0000000384:
+The first frame depicts a narrow, dimly lit alley at twilight, with extensive scaffolding on the left covering a building facade and a graffiti-marked wall partially visible on the foreground right. A black scooter is parked in the foreground left next to a music stand, while string lights illuminate the midground, revealing outdoor dining tables and two brown trash bins along the right side of the alley.
+end of description
+A second scooter appears further down the alley on the right side in subsequent frames. A person in a patterned outfit then emerges from deeper in the alley, walking towards the viewer, passing the trash bins. As the person moves closer, a silver car becomes visible parked behind the newly revealed scooter on the far right.

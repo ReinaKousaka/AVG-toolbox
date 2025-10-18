@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a wet, downhill street on a rainy day. A white minivan is parked on the left in the mid-foreground, against an ivy-covered brick wall and a utility pole. A dense green hedge lines the right side of the street, with a black and yellow striped barrier in the immediate foreground, and a white arrow painted on the street points forward and slightly right. In the distance, a white car is visible on the right.
+end of description
+The white minivan remains stationary throughout the sequence. The distant white car, positioned on the right side of the street, begins to slowly move forward downhill. Subsequently, a figure holding an umbrella appears from behind the dense green hedge on the right, walking uphill along the street towards the viewer.
+frame_0000000128-frame_0000000256:
+The first frame displays a wet, narrow street with a white minivan parked on the left side, beside an ivy-covered brick wall, while a tall ivy-covered hedge lines the right. Further down the street, a white car is visible near two orange cones, and a person holding an umbrella walks away from the viewer on the right.
+end of description
+Throughout the frames, the distant person with an umbrella continues walking further away down the street. Subsequently, another person with a black umbrella emerges from the right side of the frame, closer to the viewer, and proceeds to walk away into the distance.
+frame_0000000256-frame_0000000384:
+The first frame displays a wet, sloping road receding from the viewer, bordered by an ivy-covered retaining wall on the left and a dense green hedge on the right. In the foreground, a person holding a black umbrella walks away towards the right, while a white minivan is partially visible on the left; houses and distant trees are seen through the misty background.
+end of description
+In subsequent frames, the person with the umbrella continues walking further down the road, moving away from the viewer's right, while the white minivan on the left also slowly advances forward. The overall scene, including a distant white car and other pedestrians, maintains its position relative to the first-frame viewpoint.

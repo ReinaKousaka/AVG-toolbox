@@ -1,0 +1,28 @@
+frame_0000000000-frame_0000000128:
+From a vehicle's perspective, a dark, wet road with "SLOW" painted on its surface curves left into the distance. Stone walls flank both sides of the road, with a red triangular 14% downhill warning sign prominent ahead on the left and a smaller grey sign further along on the right, as a terraced green hillside with scattered trees rises under an overcast sky. end of description. As the viewpoint advances, both the red warning sign and the grey sign exit the frame to the left, and the 'SLOW' road marking recedes, revealing more of the winding road and the continuous hillside landscape ahead relative to the first-frame viewpoint.
+frame_0000000128-frame_0000000256:
+From a vehicle's perspective, a wet asphalt road curves slightly left into a valley under an overcast sky. A dry stone wall borders the road to the left, with green hills in the distance, while another wall on the right separates the road from a sloping grassy field with trees and two utility poles.
+end of description
+As the vehicle moves forward, the road, dry stone walls, and surrounding foliage on both sides appear to advance towards the viewer. The utility poles on the right draw nearer, with the second pole eventually moving past the frame's right edge. The general landscape of rolling hills and cloudy sky recedes slightly while remaining largely consistent.
+frame_0000000256-frame_0000000384:
+The first frame displays a wet, dark asphalt road extending forward, curving slightly right into a distant valley under an overcast sky. Dense green foliage lines the left side, while a stone wall and grassy hill with trees occupy the right, and a utility pole stands ahead near the road.
+end of description
+As the viewpoint moves forward, the dense foliage on the left and the stone wall on the right pass by the viewer. The utility pole, initially ahead, approaches and shifts rightwards relative to the first-frame center. A metal gate on the right, previously behind the pole, becomes fully visible alongside the stone wall as the road continues its slight right curve and descent.
+frame_0000000384-frame_0000000512:
+The first frame depicts a winding asphalt road viewed from a vehicle's white hood at the bottom. On the left, a stone wall topped with dense green foliage lines the road, while on the right, another stone wall, a metal gate, and a utility pole border a rising grassy hill, all under a cloudy sky in the background.
+end of description
+As the vehicle moves forward, new sections of the road and the distant valley are continuously revealed ahead. The stone walls, foliage, utility pole, and metal gate on the sides gradually recede towards the rear of the first-frame viewpoint, eventually moving out of sight as the grassy hillside and distant landscape become more prominent to the right and ahead.
+frame_0000000512-frame_0000000640:
+The first frame displays a driver's perspective of a wet, dark asphalt road curving gently to the left in the foreground, bordered by low stone walls on both sides. Beyond the left wall are green hills with scattered bushes, while the right wall is backed by a steep, grassy hillside dotted with dark green trees, with power lines visible overhead. The sky above is overcast with patches of lighter grey.
+end of description
+As the vehicle moves forward, the stone walls recede, and the bushy vegetation along the left side of the road becomes progressively larger and closer, eventually dominating the left foreground and mid-ground. On the right, the grassy hillside continues to flank the road, with the utility pole and power lines also moving closer then receding as the vehicle passes them. A small wooden picnic table, initially partly obscured by the right wall, is briefly revealed more clearly to the right before being left behind.
+frame_0000000640-frame_0000000768:
+From a car's perspective, a narrow road stretches ahead, bordered by a dense green hedge and trees on the left, and a grass-covered hillside with a stone wall, scattered trees, and utility poles on the right, all beneath a cloudy sky.
+end of description
+As the viewer moves forward along the road, the foreground foliage on the left recedes, revealing more of the curving path ahead. Simultaneously, the hillside features on the right, including the stone wall and utility poles, shift further into the background, signifying continuous forward motion.
+frame_0000000768-frame_0000000896:
+The first frame features a white vehicle's dashboard across the bottom, with a dark asphalt road curving gently ahead. Dense green foliage lines the left side, while a stone wall and grassy hillside with trees occupy the right, receding towards distant hills under a cloudy sky.
+
+end of description
+
+As the vehicle moves forward, the road and immediate roadside foliage on the left and the stone wall on the right appear to slide from mid-distance towards the viewer's foreground and then past the sides of the frame. A new wooden pole emerges from behind the hillside on the far right, progressing from the mid-right towards the center-right of the frame before receding. The background hills become slightly more defined as the view progresses, maintaining their general orientation.

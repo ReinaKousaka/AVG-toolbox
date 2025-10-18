@@ -1,0 +1,24 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a narrow street ascending into the distance, with a beige building and a dark ramp on the immediate left, followed by closed shops with red awnings, while traditional buildings line the right, and several pedestrians walk away from the viewer in the mid-ground.
+end of description
+As the viewpoint advances, the immediate left building moves further to the left and out of frame, while the closed shops on the left and the traditional buildings on the right extend further towards the foreground from their initial positions. Concurrently, the group of people walking ahead moves further into the distance along the street, and a red cone initially on the far right also moves out of frame to the right.
+frame_0000000128-frame_0000000256:
+The first frame displays a narrow street bordered by buildings under an overcast sky. To the viewer's left, multiple shops are closed with metallic roller shutters, while to the right, traditional Japanese buildings with red awnings line the street. Several pedestrians are visible walking towards the viewer in the middle distance.
+end of description
+As the frames advance, a couple, initially central-right and closest to the viewer, passes directly to the viewer's right. Concurrently, two other women, previously further down the street, continue their approach towards the first-frame viewpoint.
+frame_0000000256-frame_0000000384:
+A narrow, uphill street flanked by traditional Japanese buildings unfolds under an overcast sky. On the left, a building with beige corrugated shutters occupies the foreground, followed by wooden shops delineated by a yellow rope barrier, leading to a distant background. The right side features various shopfronts with awnings and signs, extending uphill where another person is visible far in the background. Two women carrying bags walk towards the viewer in the midground, positioned slightly to the right of the street's center.
+end of description
+As frames progress, these two women continue to walk closer to the viewer, moving from the midground towards the foreground on the right side of the street, with the woman in blue jeans looking towards the right and smiling.
+frame_0000000384-frame_0000000512:
+The first frame displays a narrow, paved street extending into the distance under an overcast sky, flanked by traditional Japanese buildings. On the left, a building with dark wooden panels and large glass windows features a wooden structure and a yellow chain barrier on short posts along its facade. On the far right, a person in a dark jacket and light pants, carrying a light and a green bag, is partially visible, moving towards the viewer. Further down the street, another person walks away from the viewer on the right side.
+end of description
+The person on the right continues to move towards the viewer, becoming more fully visible before passing and exiting the frame to the viewer's right. As this occurs, the yellow chain barrier and the storefront on the left become more entirely visible, suggesting a slight forward movement of the viewpoint. Simultaneously, the distant person in the street continues to walk further away from the viewer.
+frame_0000000512-frame_0000000640:
+The first frame presents a paved street lined with traditional Japanese buildings under an overcast sky, with a man walking towards the viewer in the distant right. On the left, a wooden chest-like structure is cordoned off by yellow chains and brown stanchions in front of a dark wooden building, while the right side displays numerous shops with closed shutters.
+end of description
+As the frames progress, the viewpoint moves forward along the street; the initial foreground elements recede behind the viewer, revealing more of the storefronts on both sides. Simultaneously, the man on the right approaches and passes the first-frame viewpoint, continuing his walk further to the right of the street.
+frame_0000000640-frame_0000000768:
+In the first frame, a paved street stretches into the distance, appearing slightly uphill. To the viewer's immediate left, a traditional wooden shopfront with a large glass display window and a low counter runs along a narrow sidewalk, cordoned off by a yellow chain barrier connected to two brown posts. Inside the window, items are covered with light-colored paper. On the right side of the street, a person wearing a blue jacket, light pants, a hat, and a face mask walks away from the viewer, with more traditional Japanese buildings featuring closed roller shutters and signs lining that side of the road.
+end of description
+The person in the blue jacket continues walking away from the viewer, progressively moving further down the street and towards the right side of the frame. They eventually exit the visible scene entirely to the right, leaving the street empty as the background buildings remain unchanged relative to the first-frame viewpoint.

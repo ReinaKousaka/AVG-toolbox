@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a dirt path winding into a forested valley, with a dense line of coniferous trees bordering the path on the right and a lush green mountain slope in the background. In the midground, several rustic wooden cabins are partially obscured by trees, positioned ahead and slightly to the right of the viewer's current location, with a lighter-colored tank or container visible to their left.
+end of description
+A long, thin piece of wood, initially on the grassy slope in the right foreground, begins to slowly roll down the incline. It continues its descent, moving across the dirt path and further towards the center of the frame on the right side.
+frame_0000000128-frame_0000000256:
+In the first frame, a dirt path lined with rows of large-leafed green plants occupies the left foreground, leading towards several rustic wooden structures, including a prominent green-roofed shed, situated in the midground center-right. Tall evergreen trees border these structures on the right, while dense forested hills dominate the background on the left and center under a cloudy sky.
+end of description
+Across subsequent frames, the camera subtly moves forward and pans slightly to the right, progressively revealing more of the wider dirt path in the midground-right and additional parts of the wooden structures further to the right of their initial position.
+frame_0000000256-frame_0000000384:
+A dirt path extends from the bottom left foreground, bordered by large-leafed green plants on a grassy slope to its right. Further right is a wider dirt area, and in the midground, a wooden cabin with a dark roof is nestled among tall pine trees, partially enclosed by a wooden fence. A dense, forested mountain slope dominates the left background under a partially cloudy sky.
+end of description
+The viewer's perspective slowly moves forward and slightly left. This causes the foreground path and plants to become more prominent and closer, while the midground cabin and trees gradually approach from their initial positions. The dirt path on the right also slightly expands in view as the camera advances further into the scene.

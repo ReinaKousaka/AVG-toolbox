@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame captures a winding asphalt road extending from the foreground into the distance, curving slightly right. A blurred silver SUV is prominently visible in the mid-left, moving past the viewer. To the immediate right, a steep, rocky mountain face covered in green grass ascends sharply, while a series of light-colored barrier posts line the road's left edge, beyond which a valley is obscured by dense fog and clouds under an overcast sky.
+end of description
+In subsequent frames, the silver SUV rapidly moves further left and out of the first-frame viewpoint. The scene progresses as if moving forward along the road, causing the winding asphalt, the barrier posts to the left, and the rocky, grassy mountain face to the right to continuously shift towards and then past the viewer's original position, while the distant fog on the left remains a consistent backdrop.
+frame_0000000128-frame_0000000256:
+The first frame captures a paved road curving slightly to the right ahead of the viewer, flanked on the left by a line of barrier posts bordering a valley obscured by dense fog. To the right, a steep, grassy hillside rises with a low stone wall at its base, and a small, dark object is visible far down the road near the curve.
+end of description
+As the frames progress, the viewpoint moves forward along the road; the yellow road marking approaches and passes beneath the viewer, while the stone wall and grassy slope on the right reveal more detail and move closer. Concurrently, the barrier posts on the left pass by as the distant dark object draws nearer.
+frame_0000000256-frame_0000000384:
+The first frame features a paved road extending into the distance, bordered by a stone retaining wall and a grassy hillside to the viewer's right. To the left, a series of short posts line the road, beyond which a misty, cloud-filled valley descends under an overcast sky. Two figures are visible on the road in the midground, directly ahead of the viewer.
+end of description
+Across the following frames, the scene remains largely static with no newly revealed objects or significant spatial changes relative to the first-frame viewpoint, displaying only minor variations attributable to subtle camera movement. The two figures ahead on the road maintain their consistent position relative to the viewer.

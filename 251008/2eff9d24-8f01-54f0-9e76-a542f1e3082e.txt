@@ -1,0 +1,28 @@
+frame_0000000000-frame_0000000128:
+A stone-paved pathway extends from the foreground towards the background, flanked on its right by a low stone wall behind which a bench is visible in the mid-ground. Lush green trees line both sides of the pathway, primarily visible above the walls and extending into the background, beneath a light gray sky; faint structures are partially obscured by trees in the far distance on the left side of the pathway.
+end of description
+As the camera advances forward along the pathway, the bench on the right recedes further into the background relative to the initial viewpoint. Concurrently, a black lamppost adorned with a square lantern and three red spherical lanterns progressively emerges into view on the left side of the pathway, moving from the mid-ground towards the left foreground relative to the first-frame's position. Additionally, the faint distant structures on the left, including a small building and a pagoda-like tower, become increasingly distinct and larger as the viewpoint approaches them.
+frame_0000000128-frame_0000000256:
+A wide, grey paved path extends from the foreground to the background, flanked by low stone walls on both sides. On the far left, a black lamppost holds three red round lanterns and one square ornate lantern, while a stone bench with a reddish-brown top rests on the wall on the far right. Further down the path, a small building and a faint, dark pagoda are visible in the distance, surrounded by dense green trees lining both sides of the path under an overcast sky.
+end of description
+There are no dynamic changes or newly revealed objects in the subsequent frames, as the scene remains entirely static relative to the first-frame viewpoint.
+frame_0000000256-frame_0000000384:
+A cobblestone path extends directly from the viewer into the distance, flanked by low stone walls on both sides and dense green trees beyond them. In the far distance, a small building sits centrally on the path, with a pagoda-like tower visible just above the treeline behind it. To the far left, a hanging lantern is partially visible, and a red and white striped pole stands further down the path on the left.
+end of description
+Subsequently, two figures emerge from near the central distant building and begin walking towards the viewer along the cobblestone path. They gradually become more distinct, steadily advancing further along the path from their initial distant position.
+frame_0000000384-frame_0000000512:
+A stone-paved path extends from the foreground towards a small, dark-roofed building in the distance, flanked by stone walls on either side. Green trees rise above these walls on both the left and right. Behind the distant building, a tall, dark tower is visible against the light gray sky, and a red cylindrical object with horizontal stripes is mounted on a pole on the left wall.
+end of description
+No dynamic changes or newly revealed objects occur in the subsequent frames; the scene remains static.
+frame_0000000512-frame_0000000640:
+A wide cobblestone path extends from the viewer into the distance, flanked by weathered stone walls on both the left and right sides, with lush green trees lining the horizon above them. In the mid-ground, a pole with three red lanterns stands to the left of the path, and a small, dark-roofed building is visible directly ahead, with a distant pagoda emerging behind it among the trees.
+end of description
+Throughout the subsequent frames, the only observable dynamic change is the very subtle swaying of the red lanterns attached to the pole on the left side of the path.
+frame_0000000640-frame_0000000768:
+The first frame presents a long, wide cobblestone path stretching into the distance, bordered by stone walls on both sides. Lush green trees line the areas beyond these walls, filling the mid-ground and background. In the far distance, a small building is visible, with a dark, pagoda-like tower subtly rising behind it and slightly to the right; a pole adorned with three red lanterns stands to the left of the path in the mid-distance.
+end of description
+No dynamic changes or newly revealed objects occur across the subsequent frames; the scene remains entirely static.
+frame_0000000768-frame_0000000896:
+The first frame presents a wide, grey stone-paved path extending straight into the distance, bordered by low stone walls on both the left and right. Lush green trees line the path above these walls, with a pole holding three red lanterns visible to the left, further down the path. In the far distance, a small dark-roofed building sits at the end of the path, with a faint, dark pagoda rising above the trees behind it against a pale sky.
+end of description
+There are no dynamic changes or newly revealed objects in the following frames; all subsequent images in the sequence appear identical to the first.

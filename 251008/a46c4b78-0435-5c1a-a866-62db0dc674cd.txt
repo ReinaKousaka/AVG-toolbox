@@ -1,0 +1,21 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a winding paved road with a yellow dashed line, stretching into a canyon. To the viewer's left, a low stone retaining wall borders the road, while a metal guardrail and a utility pole are visible to the right, adjacent to a rocky, dry riverbed. A white car approaches in the distant midground on the left lane. Steep, barren mountainsides rise on both sides, with a cloudy sky overhead.
+
+end of description
+In the following frames, the white car progressively approaches the viewer from the distant midground on the left lane of the road. It then moves into the immediate foreground, passing the viewer on the left side. Finally, the car completely passes the first-frame viewpoint, exiting the frame to the left and fully revealing the previously obscured road and the canyon beyond.
+frame_0000000128-frame_0000000256:
+The first frame displays a paved road with a yellow dashed center line, curving gently to the right, bordered by a textured stone retaining wall on the left and a metal guardrail on the right, beyond which a reddish-brown river flows. Steep, rocky mountains rise on both sides of the road, forming a valley under a cloudy sky.
+end of description
+As the viewpoint advances along the road, the retaining wall on the left and the guardrail on the right recede from view, revealing more of the rugged mountain terrain and the river to the right. A dark vehicle emerges further ahead on the road, slowly approaching the viewer from beyond the curve. Red and white striped barriers also become visible on the left side of the road as the viewpoint continues forward.
+frame_0000000256-frame_0000000384:
+In the first frame, a paved road with a yellow dashed center line curves gently to the right, extending into the mid-ground from the viewer's immediate foreground. To the left, a steep, rocky mountain wall rises, covered in sparse, dry vegetation and some green shrubs. On the right, a gravel shoulder borders the road, followed by a metal guardrail, beyond which a reddish-brown riverbed or stream is visible, leading to another steep mountain in the background. A dark-colored car is visible further down the road, driving away from the viewer, nestled within the mountain valley under an overcast sky.
+end of description
+As the frames progress, the dark car initially seen ahead on the curving road moves steadily further away from the viewer, deeper into the valley. Simultaneously, the immediate surroundings, including the rocky mountain walls to the left and the guardrail and riverbed on the right, gradually recede as the viewer advances along the road.
+frame_0000000384-frame_0000000512:
+The first frame presents a paved road with a yellow line, winding between steep, rocky mountains on both sides under an overcast sky. A dark car is visible in the mid-ground, approaching on the left lane, while a metal guardrail lines the right side of the road with a glimpse of water beyond.
+end of description
+In the following frames, the dark car progresses rapidly from the mid-ground towards the first-frame viewpoint, passes to its immediate left, and exits the scene behind and to the left of the initial viewpoint.
+frame_0000000512-frame_0000000640:
+The first frame presents a gray asphalt road with a yellow dashed center line receding into the distance, flanked by steep, rocky mountains on both sides; a metal guardrail runs along the right side of the road, and a white truck is faintly visible far ahead under an overcast sky.
+end of description
+As the viewpoint progresses forward along the road, the immediate rocky terrain and the guardrail on the right become more detailed, while a vertical rock face on the left and a sign post emerge closer on the left side of the road. The distant white truck also appears to gradually approach the viewer.

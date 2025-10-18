@@ -1,0 +1,28 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a view down curving train tracks towards the left, surrounded by vibrant green grassy slopes. In the mid-ground, two utility poles with overhead wires stand to the right, and a circular stone structure with planks is on the left slope, leading to snow-capped mountains and distant forests under a partly cloudy sky.
+end of description
+As the viewpoint moves forward along the tracks, the foreground gravel and tracks recede towards the bottom, and the utility pole on the right moves past the viewer. This pole briefly reveals a numerical marker before exiting the frame to the right. Concurrently, the circular stone structure on the left recedes from view, while new red and white striped markers become visible further along the tracks on both sides.
+frame_0000000128-frame_0000000256:
+The first frame displays a train track receding into the distance, flanked by green grassy fields and hills under a partly cloudy, blue sky. Snow-capped mountains, partially obscured by clouds, are visible in the background, with scattered buildings on the far left. Two red-and-white striped markers stand beside the tracks, one on the left and one on the right, while overhead electrical wires and their support structures extend above.
+end of description
+As the train progresses, the foreground tracks continuously extend forward relative to the viewer, while the initial red-and-white striped poles move closer and pass to the left and right, eventually receding behind the initial viewpoint. The green fields and distant mountains remain largely visible as the scenery flows past, revealing new sections of the trackside, including an overhead line support pole on the right, which then also passes behind the original viewpoint.
+frame_0000000256-frame_0000000384:
+The first frame depicts a pair of train tracks receding centrally into the distance, flanked by a green field with distant buildings to the left and a grassy, tree-lined hillside to the right. Beyond them, snow-capped mountains rise under a cloudy sky with a patch of blue, and overhead wires are visible.
+end of description
+As the viewpoint moves forward along the tracks, a "55 Km/h" indicator appears in the bottom right. The immediate foreground elements, including the grassy areas and the base of the hillside on the right, progressively pass by, revealing an expanding rocky embankment along the tracks on the right, while the distant landscape gradually recedes.
+frame_0000000384-frame_0000000512:
+The first frame displays train tracks stretching centrally into the distance, flanked by a green, snow-dusted field with distant buildings on the left and a grassy hillside with bare trees and a utility pole on the right. Snow-capped mountains beneath a cloudy sky fill the background, with overhead wires traversing the top, and "55 Km/h" displayed at the bottom right.
+end of description
+As the viewpoint moves forward, the immediate landscape recedes, with the utility pole on the right passing from in front of the viewer to behind. The tracks continuously move under the viewer, revealing more of the grassy hillside and trees that were initially to the right and in front, as the distant mountains and sky gradually shift further into the background.
+frame_0000000512-frame_0000000640:
+The first frame presents train tracks extending centrally into the distance, flanked by a green field with buildings and snow patches on the left leading to cloud-covered snowy mountains, and a grassy hill with bare trees and a utility pole on the right, with "55 Km/h" overlayed bottom-right.
+end of description
+Subsequently, objects on both sides move past the first-frame viewpoint; the utility pole on the right, bearing a "42" marker, quickly recedes and exits the frame to the right. Concurrently, the green field and distant buildings on the left shift further left and eventually out of view, continually revealing new sections of the landscape as the train proceeds.
+frame_0000000640-frame_0000000768:
+The first frame displays train tracks stretching centrally into the distance, flanked on the left by a wide green field featuring distant buildings and a line of trees. To the right, a grassy slope rises with scattered, sparse trees, while snow-capped mountains, partially veiled by clouds, dominate the background beneath a partly blue sky with an overhead wire spanning the tracks.
+end of description
+As the viewpoint moves forward along the tracks, the immediate landscape on both sides recedes. A prominent utility pole, part of the overhead wire system, gradually emerges from the far distance on the right side of the tracks, growing larger and revealing its structure as it approaches.
+frame_0000000768-frame_0000000896:
+The viewer looks straight down train tracks that recede into the distance, curving gently to the left, resting on a bed of gravel. To the left of the tracks are green fields with patches of snow, a small brown building, and a line of evergreen trees backed by cloud-shrouded, snow-capped mountains. To the right, a grassy hill ascends, featuring a tall utility pole with overhead wires extending above the tracks, and a pile of rocks at its base. The sky above is mostly cloudy with a glimpse of blue.
+end of description
+As the scene progresses, the camera moves forward along the train tracks. The utility pole on the right side moves out of frame to the viewer's right. The tracks continue to curve left, revealing a green signal post ahead and a small metal railing appearing on the left side of the tracks, both moving closer and further along the original path relative to the first-frame viewpoint.

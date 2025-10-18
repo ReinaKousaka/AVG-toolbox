@@ -1,0 +1,28 @@
+frame_0000000000-frame_0000000128:
+In the first frame, a wet, dark paved path extends from the bottom center, curving slightly towards the upper left. To the right of the path, a patch of vibrant green grass features a prominent wooden park bench with black metal supports, positioned in the midground relative to the viewer. Further along the path on the left, another park bench is visible, and a person holding a red umbrella walks away from the viewer in the upper-left midground. Numerous green trees of varying sizes line both sides of the path and the right edge of the frame, with a dark fence in the mid-right separating the park from a distant street with parked cars. In the background, a large, light-colored building with many windows rises prominently in the upper-left, all beneath an overcast sky.
+end of description
+Throughout the subsequent frames, the person holding the red umbrella, initially in the upper-left midground, steadily moves further away from the viewer along the path, progressing towards the upper-left corner of the scene.
+frame_0000000128-frame_0000000256:
+The first frame captures a wet paved path winding through a park, with a wooden bench immediately to the viewer's right on a patch of green grass. Further along the path to the left, two individuals walk away from the viewer, one holding a red umbrella, with another bench visible beyond them. A tall, light-colored building stands in the background on the far left, while the right side features more grass, trees, and a black fence separating the park from a distant street.
+end of description
+The camera slowly zooms out and pans slightly to the left and down. The foreground bench shifts slightly towards the bottom-right, revealing more of the path and a small bed of dark mulch around a young tree previously obscured in the middle-right. The people with the red umbrella continue their stroll further away on the left path, while the background building becomes slightly more visible.
+frame_0000000256-frame_0000000384:
+In the foreground, a wooden park bench is positioned to the right of a wet asphalt path that curves leftwards away from the viewer. Green grass and numerous trees fill the midground, with two people, one holding a red umbrella, walking away on the path, and a tall building visible in the distant background.
+end of description
+Across the subsequent frames, the two individuals on the path steadily move further away from the viewer, progressing deeper into the scene towards the background building. Their figures become smaller as they continue their walk along the wet path.
+frame_0000000384-frame_0000000512:
+The first frame shows a wet paved path extending into the background, bordered by vibrant green grass and numerous trees. In the mid-left, two individuals walk away from the viewer, one shielding themselves with a red umbrella. To the right of the path, two empty wooden benches sit on the grass, while a multi-story building rises prominently in the distant central background under an overcast sky.
+end of description.
+In the subsequent frames, the two individuals on the path continue to walk further away from the viewer, moving deeper into the background along the path relative to the initial viewpoint.
+frame_0000000512-frame_0000000640:
+The first frame displays a wet paved path curving through a lush green park, with a wooden bench in the right foreground and a multi-story building prominently positioned in the background. Two individuals, one holding a red umbrella, are seen walking towards the viewer on the path in the midground, flanked by numerous green trees.
+end of description
+In the subsequent frames, the two individuals with the red umbrella continue their walk towards the viewer along the same path, progressively moving closer and growing larger within the scene. The man briefly gestures with his right hand before the woman adjusts her hair or face, maintaining their trajectory and position relative to the initial first-frame viewpoint.
+frame_0000000640-frame_0000000768:
+The first frame depicts a wet park path leading into the distance on the left, with a prominent wooden park bench in the right foreground and a tall, multi-story building visible in the background center. On the path, a couple walks towards the viewer from the left, with the man holding a red umbrella over both.
+end of description
+In the subsequent frames, the couple continues walking along the path, progressively moving further left and then exiting the frame completely from the left side. All other elements, including the park bench, path, and background building, remain stationary relative to the first-frame viewpoint.
+frame_0000000768-frame_0000000896:
+In the first frame, a wet, dark paved path stretches from the foreground center into the background, bordered by lush green grass and numerous trees with verdant foliage. A wooden slatted park bench is partially visible in the immediate foreground to the right, while a second full bench sits further down the path on the right, and a black street lamp stands on the left. In the distant background, a tall, light-colored multi-story building with many windows rises prominently above the trees under an overcast sky.
+end of description
+There are no discernible dynamic changes or newly revealed objects or scenes in the subsequent frames; all visible elements remain static from the first-frame viewpoint.

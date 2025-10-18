@@ -1,0 +1,18 @@
+frame_0000000000-frame_0000000128:
+In the first frame, a paved pathway extends from the foreground into the mid-ground, slightly curving right. To the viewer's immediate left, a black lantern-style lamp post stands amidst lush green ground cover and manicured bushes, while large tree trunks rise on both sides of the path further back. Beyond the path, a white wall is partially visible through dense foliage and trees in the mid-ground, with more distant trees filling the background.
+end of description
+The viewpoint slowly progresses forward along the pathway. The lamp post and the foreground bushes to the left of the path gradually shift further left and appear to grow larger, indicating the viewer is moving past them. Simultaneously, the green foliage and rocks on the right side of the path also move towards the bottom-right, as the viewer steadily advances closer to the white wall and background trees that were previously in the mid-ground.
+frame_0000000128-frame_0000000256:
+A concrete path extends from the foreground center into the midground, slightly curving left. To the viewer's immediate left, a dark lantern-like object is visible, with dense green foliage and a large tree trunk behind it. On the right, lush green grass and low shrubs span from the foreground to the midground. In the midground, a white wall runs horizontally, separating the immediate garden from a dense treeline that dominates the background.
+end of description
+The viewpoint advances steadily along the concrete path, causing the path to appear to move closer and enlarge in the frame. The lantern in the bottom left of the first frame gradually moves out of view to the left and slightly behind the original viewpoint. Concurrently, the surrounding foliage on both sides of the path appears to recede, moving past the viewer as the scene progresses forward, revealing more of the path ahead. The distant white wall and the trees behind it subtly grow closer within the frame.
+frame_0000000256-frame_0000000384:
+The first frame presents a garden path receding into the distance, flanked by lush green grass and dense foliage. A large tree trunk stands prominently to the left of the paved path in the mid-ground, while a white wall is visible behind the greenery further back. Overhead, a canopy of green trees fills the upper portion of the frame, with glimpses of a bright sky beyond.
+
+end of description
+
+Upon reviewing the following frames, there are no dynamic changes, newly revealed objects, or shifts in spatial position; the scene remains entirely static from the initial viewpoint.
+frame_0000000384-frame_0000000512:
+The first frame displays a verdant outdoor scene with a stone pathway, appearing as steps, leading away from the viewer towards the center-left. To the immediate left, a large tree trunk stands prominently, with a smaller, rounded bush positioned behind it, while the right side of the path features a wide expanse of overgrown green grass and foliage. In the middle ground, a low, curved white wall stretches horizontally across the scene, beyond which more trees with lush green canopies fill the background.
+end of description
+The subsequent frames show a continuous forward movement along the path, progressively revealing more steps that were initially further ahead and making them appear closer to the viewer. As the viewpoint advances along the path, the large tree trunk on the left appears to be passed, subtly moving out of the immediate foreground relative to the camera's path, and the entire scene subtly expands as the viewer approaches the background wall and trees.

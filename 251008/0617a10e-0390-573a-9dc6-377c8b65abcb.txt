@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+In the first frame, a wet city street stretches into the distance on the left, flanked by a sidewalk on the right. A dark pole with a yellow sign is prominent on the left foreground, while a row of slender trees lines the sidewalk further right. On the street, a dark car with illuminated taillights and a white van behind it are visible, moving away from the viewer, with tall buildings rising on both sides in the background under an overcast sky. A person holding an umbrella walks away on the right sidewalk, alongside a manicured hedge.
+end of description
+Throughout the frames, heavy rain continues to fall. The dark car with illuminated taillights and the white van behind it gradually move further away from the viewer down the wet street. Simultaneously, the person holding an umbrella progresses along the right sidewalk, receding into the distance.
+frame_0000000128-frame_0000000256:
+The first frame depicts a rainy city street with a wet paved sidewalk on the right and a glistening road on the left, both receding into the distance, flanked by trees and modern buildings under an overcast sky. Several cars are visible on the road, including a black car and a white van, while a person holding an umbrella walks away from the viewer on the midground sidewalk.
+end of description
+Over subsequent frames, the rain visibly intensifies, causing water to splash, and the black car's brake lights flash intermittently while the initial pedestrian continues moving further away from the first-frame viewpoint. Additionally, a new person carrying an umbrella becomes visible on the right sidewalk, entering the scene from the distance and walking towards the viewer.
+frame_0000000256-frame_0000000384:
+The first frame presents a rainy urban street scene, with a wet asphalt road on the left featuring a black parked car near the curb, and a wide sidewalk on the right lined by trees. Tall buildings rise on the far left and in the distance, while a person holding a black umbrella walks away from the viewer on the right-side sidewalk.
+end of description
+Subsequently, the person with the black umbrella steadily walks forward on the sidewalk, moving from the right foreground towards the mid-ground, passing several trees. Concurrently, another person with a white umbrella, initially further down the sidewalk on the right, also continues walking further away from the viewer. The black car remains stationary on the left side of the road throughout the sequence, under persistent rain.

@@ -1,0 +1,10 @@
+frame_0000000000-frame_0000000128:
+A paved road with double yellow lines on the left and a solid white line on the right extends forward, curving slightly right, flanked by a steep red-rock canyon wall on the left and a muddy river with a distant canyon wall on the right, all under a clear blue sky.
+end of description
+As the viewpoint moves forward along the road, the immediate road shoulder with dry grass and bushes on both sides becomes closer and then recedes, revealing more of the path ahead. The towering red-rock canyon walls to the left and the river to the right maintain their relative positions but appear to stretch further into the distance as the scene progresses. The overall landscape of the winding canyon road and river remains consistent, with the viewpoint smoothly advancing through the environment.
+frame_0000000128-frame_0000000256:
+The first frame depicts a two-lane road stretching into the distance, bordered by a reddish-brown cliff face on the left and, beyond dry grassy banks and bushes, a wide, muddy river on the right. Distant mountains frame the horizon under a clear blue sky.
+end of description
+Subsequent frames show the viewpoint moving forward along the road; the foreground cliffs on the left and the riverbank on the right recede as new sections of the roadside appear. A dark, slender post becomes increasingly visible on the right, between the road and the river, moving closer to the viewer.
+frame_0000000256-frame_0000000384:
+The first frame displays a paved road stretching forward with double yellow lines on the left and a solid white line on the right, flanked by reddish-brown rock formations under a clear blue sky. To the immediate right of the road, a muddy river flows, bordered by dry, golden grass. end of description. As the viewer moves forward, the road lines and adjacent dry grass recede past the viewpoint, while the muddy river to the right subtly widens in perspective. The distant red cliffs also appear progressively closer, and a small white barrier or signpost emerges and becomes clearer on the right side of the road.

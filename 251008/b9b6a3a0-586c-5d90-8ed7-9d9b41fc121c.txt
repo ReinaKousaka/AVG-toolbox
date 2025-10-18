@@ -1,0 +1,14 @@
+frame_0000000000-frame_0000000128:
+The viewer looks forward down a two-lane asphalt road with a dashed yellow center line and white shoulder lines, flanked by metal guardrails. To the left, beyond the guardrail, are green trees and a town with multi-story buildings, backed by densely forested mountains. To the right, a steep, tree-covered hillside rises beyond the guardrail, featuring an orange building in the mid-distance and utility poles with wires. A black car is visible ahead in the right lane, moving away from the viewer towards the receding mountains under a bright blue sky with scattered white clouds.
+end of description
+As the frames progress, the viewer moves forward along the road, causing the black car ahead to gradually move further into the distance. The guardrails, roadside trees, and the mountainous terrain on the right continuously emerge from the midground towards the viewer and then recede. The buildings on the left and the orange building and utility poles on the right hillside progressively approach the viewer before passing to the sides and eventually out of view. The background mountains and blue sky maintain their spatial relationship but show a subtle perspective shift with the forward motion.
+frame_0000000128-frame_0000000256:
+The viewer is on a paved road with a yellow dashed center line, flanked by a metal guardrail and green trees on the left, and a grassy, tree-covered slope on the right where a utility pole stands. In the mid-distance, a dark car travels ahead, with a distinctive orange-brown building situated behind it, and a large green mountain range under a blue sky forming the backdrop.
+end of description
+As the viewer moves forward along the road, the guardrail, trees, and buildings on the left move from the mid-ground to the foreground and past the viewer. Simultaneously, the utility pole and the vegetated slope on the right also progress towards and past the viewer, revealing more of the road ahead and the slightly receding dark car.
+frame_0000000256-frame_0000000384:
+The first frame shows a paved road with a metal guardrail on the left and a grassy embankment on the right, leading towards an orange multi-story building further ahead on the left, flanked by trees and distant green mountains under a blue sky, with power lines overhead and a dark car parked ahead on the right.
+
+end of description
+
+As the viewpoint moves forward along the road, the grassy embankment on the right of the first-frame viewpoint gradually progresses past the observer. Further ahead on the right shoulder, a small pile of sand/dirt and then a yellow barrier cone become newly visible, moving closer towards the initial viewpoint's position. Simultaneously, a traffic signal pole near the orange building also emerges more clearly as it approaches.

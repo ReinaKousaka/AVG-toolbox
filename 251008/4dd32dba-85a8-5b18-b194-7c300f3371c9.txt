@@ -1,0 +1,14 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a wet city street on an overcast day. To the viewer's left is a grey sidewalk lined with several tree trunks, the closest one prominent in the foreground, with buildings featuring glowing signs and shopfronts behind them. In the center and to the right, a wet asphalt road with double yellow lines stretches into the distance, where a yellow and white bus is visible driving away from the viewer. A person holding a white umbrella is walking away on the left sidewalk, and a green traffic light hangs overhead above the bus.
+
+end of description
+
+As the frames progress, the yellow and white bus continues to recede further away from the viewer along the wet road. Simultaneously, the person with the white umbrella on the left sidewalk also walks further into the distance, with another pedestrian becoming faintly visible behind them further down the sidewalk. The traffic light overhead changes from green to red.
+frame_0000000128-frame_0000000256:
+The first frame depicts a wet city street with a paved sidewalk and commercial buildings lining the left side. Several trees are planted along the sidewalk, where a person holding a white umbrella walks away from the viewer. On the right, a large yellow bus is parked on the wet asphalt road, which stretches into the distance under an overcast sky.
+end of description
+A white SUV then emerges from the viewer's right, driving away on the wet road. Subsequently, a dark gray car appears from the viewer's left side of the road, also moving away, passing the person with the umbrella. Concurrently, a church steeple becomes visible behind the left-side buildings, and the distant traffic light changes from green to yellow.
+frame_0000000256-frame_0000000384:
+The first frame shows a wet street scene under an overcast sky. To the viewer's left, a sidewalk runs along buildings with Korean signage, and two tree trunks are visible in the foreground. On the wet asphalt road in the mid-right, a grey car is approaching, while a white SUV moves away in the distance. A person holding a white umbrella stands on the sidewalk in the mid-left, beyond another tree trunk. Further down the street, trees line both sides of the road, and traffic lights are visible in the mid-background.
+end of description
+Initially, the grey car in the mid-right approaches and subsequently stops in the mid-left, near the person with the umbrella on the sidewalk. A second, darker grey car then enters from the viewer's right, passing across the foreground. As this second car moves past, a "30" speed limit marking becomes fully visible on the wet road surface in the mid-right. Concurrently, the person with the umbrella steps off the sidewalk and begins crossing the road from left to right in the mid-left. Finally, a white sedan is revealed in the background, positioned behind the now stationary first grey car.

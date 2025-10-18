@@ -1,0 +1,30 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a construction site separated by a metal fence in the foreground. Behind the fence, piles of white insulation boards and construction debris are visible, along with a green dumpster and an orange excavator further back on the right. To the left of the fence is an asphalt road, beyond which lies a parking area with several vehicles; in the background, a large brick building with many windows dominates the mid-to-far distance, under a clear blue sky.
+
+end of description
+
+The viewpoint shifts leftward, causing the foreground construction fence and materials to progressively move right and exit the frame, revealing more of the road and parked vehicles that were previously to the left of the initial scene. The midground construction equipment also shifts right, eventually moving out of view from the right side. In the final frames, a white car drives from right to left along the newly revealed section of the road.
+frame_0000000128-frame_0000000256:
+In the first frame, a clear blue sky occupies the upper portion. Below, a street with white dashed lines extends into the mid-ground. To the left of the street, a parking lot filled with various cars and vans is visible, bordered by a fence. Behind the parking lot and centered in the background, a large multi-story brick building with numerous windows stands, flanked by another partially visible brick building to its left. On the immediate right in the foreground, white construction barriers, red and yellow safety poles, and part of an orange excavator are present.
+end of description
+As the frames progress, the viewpoint subtly shifts leftward, gradually revealing more of the construction site on the right while less of the immediate foreground barriers remain visible. Several vehicles, including white vans and cars, actively move along the road from the mid-right towards the mid-left of the scene. A person also appears walking from the right, proceeding behind the parked cars in the mid-left section of the frame.
+frame_0000000256-frame_0000000384:
+The first frame displays an urban street scene under a clear blue sky, with a paved road in the foreground leading towards the right. To the left of the road, behind a metal fence, a parking area contains numerous vehicles, including a white and a red van, with a person standing near the white van, all against a backdrop of two large brick buildings.
+end of description
+The person in the parking area, initially in the mid-ground left, walks steadily towards the right across the parking lot. Simultaneously, a white van on the far right of the road in the mid-ground moves further away from the viewer towards the background right. A dark scooter also appears on the road in the mid-ground right and proceeds further away from the viewer, followed by other vehicles moving into the distant background right.
+frame_0000000384-frame_0000000512:
+In the first frame, a paved path extends from the viewer into the midground. To its left, a metal fence separates it from a parking lot filled with various cars and a white van, all situated in front of two large brick buildings under a clear blue sky. A person in dark clothing and a light beanie walks on the path, moving away from the viewer towards the center-right.
+end of description
+Subsequently, the person on the path continues walking further away from the viewer and shifts slightly to the right of their initial position in the scene.
+frame_0000000512-frame_0000000640:
+The first frame captures a person in a dark jacket and cap walking away from the viewer on a paved path in the middle-left foreground. To their left, a chain-link fence separates the path from a parking area containing multiple cars and a white van. A large brick building with many windows reflecting sunlight dominates the background, with a street and more distant buildings visible to the far right under a clear blue sky.
+end of description
+As the frames progress, the walking person moves steadily to the left, eventually moving out of view to the far left of the frame. The surrounding urban environment, including the parked vehicles, buildings, and street, remains stationary relative to the initial viewpoint.
+frame_0000000640-frame_0000000768:
+The first frame presents a paved path leading forward, flanked on the left by a chain-link fence, behind which are parked cars, and on the right by a sidewalk with a black scooter and a road with a visible crosswalk. Ahead and slightly to the left stands a large multi-story brick building reflecting bright sunlight, with distant buildings and autumnal trees lining the road's right side.
+end of description
+As the viewpoint moves forward along the paved path, the black scooter on the right recedes further down the sidewalk. The chain-link fence and parked cars on the left gradually move out of the immediate foreground to the left, while a large white construction barrier becomes more distinctly visible further down the road on the right. The prominent brick building on the left remains in view, appearing closer as the viewer advances along the original forward trajectory.
+frame_0000000768-frame_0000000896:
+The first frame shows a street scene with a sidewalk occupying the left side and a paved road on the right. To the viewer's immediate left, behind a chain-link fence, are parked vehicles including a white van, a silver car, and a red van, with a large, sunlit brick building featuring many windows beyond them. On the right, an electric scooter is parked next to a curb and crosswalk, followed by yellow construction barriers and a white car further back near a green "PATALA" sign, all against a clear blue sky.
+end of description
+A dark car, initially visible in the mid-distance on the road to the right, slowly drives forward towards the viewer's initial position. Concurrently, a white car appears from the far right and moves left across the crosswalk in the midground, eventually passing behind the yellow construction barriers to the right of the viewer's starting point.

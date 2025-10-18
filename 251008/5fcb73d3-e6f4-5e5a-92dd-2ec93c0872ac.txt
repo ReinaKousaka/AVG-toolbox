@@ -1,0 +1,18 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a mountain road curving slightly to the right in the distance. To the viewer's immediate left, a concrete barrier runs alongside the road, backed by a steep, tree-covered mountain slope, while a rugged, rocky cliff face rises directly to the right. A clear blue sky with wispy clouds is visible above the mountains in the distance.
+
+end of description
+
+As the frames progress, the viewpoint moves forward along the winding road, causing the immediate sections of the tree-covered mountain on the left and the rocky cliff on the right to recede behind the viewer. The distant mountain range in the center appears to draw closer, revealing more of the road's path ahead between the two steep natural walls. The overall landscape and sky conditions remain consistent throughout the observed movement.
+frame_0000000128-frame_0000000256:
+The first frame depicts a paved road, marked with white lines, extending into a mountain valley under a blue sky with white clouds, flanked by a concrete barrier on the immediate left and a rocky, vegetated cliff face on the right.
+end of description
+As the viewpoint moves forward, the concrete barrier on the left recedes into the distance while the rocky cliff face on the right becomes less prominent. A new metal guardrail progressively emerges along the road's right edge, extending closer to the viewer. The winding road leads deeper into the valley, making the distant, tree-covered mountains appear closer ahead.
+frame_0000000256-frame_0000000384:
+The first frame depicts a paved road stretching into the distance, bordered on the left by a low concrete barrier and on the right by a metal guardrail, both nestled between steep, tree-covered mountain slopes under a bright blue sky with wispy clouds.
+end of description
+The camera moves forward along the road, causing the initial metal guardrail on the right to pass out of view. Subsequently, a brown wooden sign with white text and a left-pointing arrow, indicating "CASCADE," emerges on the right side of the road, initially further away than the vanished guardrail. This sign approaches the viewer before exiting the frame to the right as the rocky mountain wall on the right and the forested slope on the left become increasingly prominent and closer.
+frame_0000000384-frame_0000000512:
+A straight, light grey road stretches into the distance, framed by a low concrete barrier on the left and a rocky mountain face on the right. Beyond the barrier, a steep, densely forested mountain slope rises on the left, while the rugged, sparsely vegetated rock face dominates the right side. Ahead, the road vanishes into the distant mountains under a bright blue sky with scattered wispy clouds.
+end of description
+As the viewpoint moves forward along the road, the immediate surroundings recede. A small, light-colored concrete structure, possibly a culvert cover, appears on the right shoulder in the mid-ground and approaches the viewer's immediate right. Further ahead, a dark tunnel entrance gradually becomes visible in the distance, centered within the road's path between the two mountain walls.

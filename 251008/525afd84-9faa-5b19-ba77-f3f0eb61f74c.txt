@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a construction site with a large, modern building featuring a curved wooden slatted facade on the upper right, and a dark, glass-windowed lower section. A yellow CAT mini excavator is centrally located with its arm extended into a foreground excavation, while another construction vehicle and a row of residential buildings are visible further left, with city high-rises in the distant background under a clear blue sky. Yellow safety barriers and blue pipes are present in the immediate foreground.
+end of description
+Throughout the subsequent frames, the mini excavator's arm dynamically lifts, pivots slightly to the right, and then lowers into another part of the excavated area. Simultaneously, a small wheeled cart emerges from the right and moves left across the lower level of the main building, behind the foreground fence.

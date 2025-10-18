@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+First, the viewer looks down a road lined with white dashed marks. To the left, a row of white campervans sits behind a barrier, with a power line stretching overhead; to the right, a low stone wall supports green hedges and a parked black car, backed by a forested mountain under a blue sky. Ahead, a motorcycle with a rider precedes a white car, with buildings visible further along the road.
+end of description
+Subsequently, the motorcycle quickly advances towards the viewer from ahead, passing on the far left. Simultaneously, a "Camping" sign on a pole to the left becomes clearer, and the white car further ahead also approaches the first-frame viewpoint.
+frame_0000000128-frame_0000000256:
+A paved road with white dashed lines extends ahead from the viewer's position, flanked on the left by a low concrete wall behind which several white RVs are parked, next to a utility pole with a 'Camping' sign and a stone house. To the right, a low stone wall topped with green hedges leads to a large, forested mountain. Distant buildings and a white vehicle are visible further down the road under a blue, cloudy sky.
+end of description
+As the sequence progresses, the viewer moves forward along the road. The RVs and the utility pole on the front-left gradually move past the viewer to the left, revealing a bicycle behind them that also moves out of view. Simultaneously, the stone wall and hedges on the front-right move past the viewer to the right as the distant white vehicle approaches from straight ahead.
+frame_0000000256-frame_0000000384:
+The first frame displays a paved road stretching forward into a village, bordered on the left by a low stone wall, a white camper van, and a bicycle, and on the right by a grassy bank leading to a steep, tree-covered mountain. Further ahead, stone buildings with grey roofs line both sides of the road, beneath a sky with scattered white clouds, while a white car is faintly visible in the distance.
+end of description
+Over the subsequent frames, the viewpoint subtly moves forward, causing the camper van and bicycle on the far left to progressively recede from view and the central road features to slowly advance towards the viewer, enhancing the sense of approaching the village.

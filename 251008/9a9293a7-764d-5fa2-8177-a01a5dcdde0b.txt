@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a paved road curving rightward in the foreground, bordered on the left by a concrete retaining wall with a metal railing and on the right by a tall stone wall. Above the stone wall, a higher concrete wall with a fence supports an elevated multi-story building partially obscured by bare trees, while a distant hillside with sparse vegetation appears in the background under an overcast sky.
+end of description
+As the frames progress, the viewer moves forward along the curving road, revealing more of the path and surrounding environment that was initially ahead and to the right of the first-frame viewpoint. The elevated building on the right recedes, bringing its right side into greater view. Simultaneously, the stone and concrete retaining walls on the right extend further, revealing more of the road ahead.

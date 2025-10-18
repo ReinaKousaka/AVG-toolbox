@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+A large, modern, multi-level house with white and black elements dominates the midground, featuring a rooftop patio with a pool, lounge furniture, and people, alongside an illuminated interior visible through expansive glass windows. Surrounding hills with trees and other homes define the background, while a blurry, reflective surface occupies the foreground.
+end of description
+A red arrow dynamically appears in the lower-right foreground, initially pointing towards a person in red near the pool on the patio. Subsequently, the arrow rotates and extends leftward, eventually highlighting a group of people gathered inside the house through its large glass facade.

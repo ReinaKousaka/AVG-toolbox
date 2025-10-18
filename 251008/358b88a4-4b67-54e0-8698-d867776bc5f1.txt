@@ -1,0 +1,10 @@
+frame_0000000000-frame_0000000128:
+In the first frame, a male cyclist wearing a white helmet, sunglasses, and a white, red, and black jersey is prominently positioned in the lower right, looking slightly downwards. To his left, a paved road with a white shoulder line and double yellow center lines curves gently into the distance, with a metal guardrail lining its left edge. Further ahead on the road, two other cyclists, one in white and one in red, are visible. Beyond the guardrail on the left, a lush green valley leads to distant hills, while a dry, scrubby hillside rises on the right. A bright blue sky with wispy clouds spans the top.
+
+end of description
+
+As the frames progress, the viewpoint moves forward along the road, causing the foreground cyclist on the right to slightly lower his head and appear to recede marginally. The two cyclists ahead on the road maintain their positions relative to each other as the road curves rightward. A diamond-shaped road sign on a gray pole emerges from the left edge of the first-frame's view, becoming fully visible in the mid-left beside the guardrail as the camera advances. The landscape of the valley on the left and the hillside on the right also progressively shift and recede due to the forward motion.
+frame_0000000128-frame_0000000256:
+The first frame presents a first-person perspective from a cyclist on a paved road, featuring a cyclist in a white helmet and shades prominently in the near right foreground, a guardrail and green vegetation to the left, and a dry, hilly incline to the right, with a diamond-shaped road sign visible on the left above the guardrail; ahead on the curving road, two other cyclists appear in the midground beneath a partly cloudy sky and distant mountains.
+end of description
+The viewpoint continuously moves forward along the road, causing the foreground cyclist to pedal and the two cyclists ahead to appear progressively closer. From the fourth frame onward, a white car emerges in the far distance on the road ahead of the cyclists, gradually becoming more distinct as it approaches.

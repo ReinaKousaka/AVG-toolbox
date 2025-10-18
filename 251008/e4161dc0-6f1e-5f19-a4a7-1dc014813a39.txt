@@ -1,0 +1,31 @@
+frame_0000000000-frame_0000000128:
+The first frame shows an autumn park setting with a prominent tree trunk and a trash bin on the left. A wooden pathway with red railings descends towards the center, surrounded by trees with vibrant fall foliage, while two people walk away from the viewer on an asphalt path curving upwards on the right.
+end of description
+Throughout the subsequent frames, these two individuals continue to walk further along the asphalt path, moving deeper into the background relative to the viewer, while the rest of the park scene remains unchanged.
+frame_0000000128-frame_0000000256:
+In the first frame, two trash cans, one brown and one blue/grey, are visible in the foreground to the viewer's left. A wooden walkway with orange railings and white informational plaques descends into the mid-ground, slightly to the left of the center, covered with scattered autumn leaves. To the right of the walkway, an asphalt path curves away, where two figures are walking further into the scene. Dense autumn foliage, featuring trees with red, orange, and green leaves, surrounds the entire area, extending into the background.
+end of description
+The two figures on the asphalt path, initially in the mid-ground right, gradually move further away from the viewer and towards the right edge of the frame. They appear to be jogging or walking briskly, maintaining their position relative to each other. The rest of the scene, including the walkway and surrounding vegetation, remains static throughout the sequence.
+frame_0000000256-frame_0000000384:
+The first frame displays a wooden walkway with reddish-brown railings on the left, extending from the foreground into the mid-ground, bordered by green foliage and fallen leaves. To the right of the walkway, a paved path is visible, where two people are walking away from the viewer in the mid-ground. The background is dominated by trees adorned with vibrant autumn foliage.
+
+end of description
+In subsequent frames, the two individuals on the paved path are observed consistently moving further into the background, progressing away from the viewer.
+frame_0000000384-frame_0000000512:
+The first frame displays an autumnal park scene with a wooden railing, adorned with posters, on the left, leading to a descending wooden pathway. To the right of this path, an asphalt walkway is bordered by vibrant red and green foliage, where two individuals are jogging away from the viewer.
+end of description
+In subsequent frames, the two joggers on the asphalt path, initially positioned mid-right relative to the viewer, continue moving further away towards the far right, progressively exiting the scene.
+frame_0000000512-frame_0000000640:
+A concrete staircase descends forward and slightly right from the viewer, bordered on the left by a reddish-brown wooden railing featuring a colorful sign. Beyond the railing to the left, and further forward to the right, an autumnal forest unfolds with trees displaying red, orange, and yellow leaves, along with large green plants in the immediate right foreground.
+end of description
+The camera subtly shifts downwards and slightly forward, causing a fraction more of the distant path at the bottom of the stairs to become visible, which is further forward and down from the initial viewpoint. This minor movement creates a slight impression of descent without revealing any new objects or scenes from behind or outside the initial frame. The autumnal forest setting remains consistent throughout.
+frame_0000000640-frame_0000000768:
+The first frame displays an autumn forest scene with a concrete path descending and curving left, bordered by a vibrant orange-red wooden railing on the left and green foliage on the right. Densely packed trees with colorful red, orange, and yellow autumn leaves fill the midground and background, illuminated by dappled sunlight.
+end of description
+No new objects or significant camera movement occur across the following frames; instead, subtle changes in lighting are observed, with shifting shadow patterns on the path and minor fluctuations in overall scene brightness.
+frame_0000000768-frame_0000000896:
+The first frame depicts a serene autumn forest scene with a downward-sloping wooden pathway, featuring an orange-red railing on its left side, extending from the bottom center towards the midground. The path is flanked by numerous trees and bushes adorned with vibrant red, orange, yellow, and green foliage, characteristic of the season. Behind these, more dense woodland and a light-colored rocky slope are visible in the upper left background.
+
+end of description
+
+Throughout the following frames, the scene remains largely consistent from the initial viewpoint, with no new objects or scenes revealed. Subtle dynamic changes include a gentle rustling of the colorful leaves on the bushes and trees flanking the path, particularly noticeable in the red foliage to the left and the orange leaves to the right. Concurrently, the shadows cast on the pathway in the midground exhibit slight, rhythmic shifts in their patterns, reflecting the movements of the overhead foliage.

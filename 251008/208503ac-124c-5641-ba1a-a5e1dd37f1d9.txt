@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a street scene where a man in a blue hoodie, leading a small brown dog, walks on the right sidewalk towards the viewer, followed by a woman in a hat and green jacket. To the left, a street with parked cars, including a black car nearest, runs parallel to multi-story buildings, while a stone building wall casts a shadow on the right.
+end of description
+In subsequent frames, the man and his dog continue advancing towards the first-frame viewpoint, passing it and exiting to the right. The woman also moves forward, eventually occupying the center-right of the scene, continuing her path towards and beyond the original viewpoint.

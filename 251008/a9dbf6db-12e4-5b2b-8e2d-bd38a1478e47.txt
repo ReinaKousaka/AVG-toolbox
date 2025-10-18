@@ -1,0 +1,28 @@
+frame_0000000000-frame_0000000128:
+A paved road with a broken yellow center line and solid white right edge line stretches from the foreground into the distance, curving gently left towards a valley entrance. To the left, a steep, red-earthed mountain covered in sparse greenery rises, while to the right, a grassy field with a rustic wooden fence contains several small white and green buildings and a tall metal lattice tower. Beyond the field, a dense pine forest covers a mountain, all beneath a partly cloudy sky with patches of blue.
+end of description
+As the viewpoint moves forward along the road, a yellow triangular warning sign, indicating a steep downgrade, appears on the right side of the road, steadily moving closer to the viewer. The road's markings continuously scroll from the distance into the foreground. The surrounding landscape, including the mountains and structures on the right, gradually shifts left and recedes as the camera advances through the scene.
+frame_0000000128-frame_0000000256:
+The first frame presents a gray asphalt road, with a yellow center line, curving gently left into a mountain valley. Green, tree-covered mountains flank both sides, with a reddish-brown slope visible on the left; on the right, near the road, are several small green-roofed buildings and a tall metal transmission tower, all beneath a cloudy sky.
+end of description
+As the viewpoint moves forward, the buildings and transmission tower on the right recede and move out of frame. Concurrently, a small river becomes more visible on the far left of the road, and a white vehicle emerges in the distance ahead, approaching the viewer.
+frame_0000000256-frame_0000000384:
+A paved road with a yellow dashed line extends directly away from the viewer, flanked by reddish dirt shoulders, leading towards distant green and reddish-tinged mountains under a partly cloudy sky, with green bushes and a utility pole to the left, and several small, light green-roofed buildings behind a fence to the right.
+end of description
+As the viewpoint moves forward along the road, the green-roofed buildings on the right recede and eventually disappear from the frame to the viewer's right. Simultaneously, utility poles and a series of wooden fence structures on the left side of the road become more prominent and pass the viewer. The distant white vehicle on the road ahead appears slightly closer as the mountainous landscape continues to frame the path.
+frame_0000000384-frame_0000000512:
+The first frame depicts a paved road with a yellow center line stretching into the distance, framed by lush green, tree-covered mountains to the left and a reddish, forested mountain to the right. A utility pole with circular signs, a fenced area containing white animals, and a building are visible on the left shoulder, while a small green-roofed shed and scattered rocks are prominent on the right shoulder.
+end of description
+As the viewpoint progresses forward, the shed and rocks on the right recede and move out of frame, revealing a stream running alongside the road. The viewer then drives onto a concrete bridge spanning this stream. Concurrently, the utility pole and animals on the left recede, with a white motorcycle becoming clearly visible near the pole before it is also passed.
+frame_0000000512-frame_0000000640:
+The first frame depicts a paved road with a yellow center line receding into the distance, framed by verdant mountains under a partly cloudy sky. To the immediate right, a concrete barrier parallels the road. On the immediate left, a utility pole with two circular white signs stands on a grassy shoulder, behind which a motorbike is partially visible.
+end of description
+The viewpoint moves forward along the road. The utility pole, signs, and motorbike on the left foreground recede and move out of view to the left. A white SUV, initially small in the far distance on the road ahead, steadily approaches the viewer, becoming progressively larger and more distinct in subsequent frames.
+frame_0000000640-frame_0000000768:
+A two-lane paved road with a yellow dashed centerline and white shoulder lines extends from the viewer into the distance, with a white SUV approaching in the left lane. Green, forested mountains flank both sides of the road, the left mountain appearing closer and taller, while the right mountain has a distinct reddish-brown section. Utility poles with wires run along the left side, and dense green foliage and bushes line both shoulders under a partly cloudy sky.
+end of description
+The white SUV approaches the viewer, passing from the mid-distance to a closer position directly in front, then moves to the viewer's right and recedes behind the viewpoint. Subsequently, a black bovine creature becomes visible on the right side of the road, appearing behind where the SUV initially was, then moves further right and disappears from view, leaving the road ahead clear.
+frame_0000000768-frame_0000000896:
+A paved road with a yellow dashed line runs from the viewer into the distance, flanked by green shrubbery and a dirt shoulder on the right, and a white utility pole and more greenery on the left. In the midground, green hills rise, revealing a reddish-brown rock face on the right slope, leading to forested mountains in the background beneath a partly cloudy sky.
+end of description
+As the camera progresses forward along the road, a black animal, likely a yak, appears in the second frame in the grassy field to the right of the road. This animal remains relatively stationary within the landscape as the foreground shrubs, fence posts, and utility poles move towards and past the viewer. The road's curve becomes more evident ahead as the entire scene shifts.

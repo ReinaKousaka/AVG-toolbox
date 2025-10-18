@@ -1,0 +1,14 @@
+frame_0000000000-frame_0000000128:
+From a low perspective, a paved road with double white lines stretches ahead, curving slightly left in the distance, flanked by a stone retaining wall on the left and a concrete barrier on the right. A cyclist in a blue jersey is seen ahead in the midground, with a dark blue car further beyond them. To the viewer's immediate right, parts of another cyclist wearing a red helmet and blue jersey, riding a red bike, are visible, casting a shadow on the road. Lush green trees cover the hillsides on both sides, with a clear blue sky overhead.
+end of description
+As the frames progress, the viewer's perspective moves forward along the road. The cyclist ahead gradually recedes further into the distance, while the dark blue car behind them disappears from view as the road curves. The stone wall and concrete barrier flanking the road become less prominent in the foreground. The mountainous landscape on either side continuously unfolds, revealing more tree-covered slopes and rocky terrain. The cyclist partially visible in the first frame's immediate foreground also moves out of view, indicating the viewer is now fully immersed in the main road scene.
+frame_0000000128-frame_0000000256:
+A paved road with a broken white line extends forward, curving left, with a cyclist in a blue jersey riding away from the viewer on the right side. A stone wall borders a vegetated hillside to the left, featuring a white road sign, while a concrete barrier and dense trees line the right side, all beneath a tree-covered mountain and blue sky.
+end of description
+The cyclist moves progressively further ahead and to the right of the first-frame viewpoint, eventually disappearing off-screen to the right. Concurrently, the viewer travels forward, causing the road, the left-side stone wall and hillside, and the right-side concrete barrier and trees to advance towards and past the initial viewpoint.
+frame_0000000256-frame_0000000384:
+The first frame depicts a paved road curving gently to the right, leading into a distant landscape. To the viewer's left, a dry grassy hillside ascends, featuring a distant warning sign, while a concrete barrier and dense green trees line the road to the right. Majestic, tree-covered mountains rise in the background beneath a clear blue sky.
+
+end of description
+
+As the viewpoint progresses forward along the road, all visible foreground objects, including the road markings and the concrete barrier on the right, appear to move proportionally towards the bottom of the frame. The warning sign on the left becomes progressively smaller and shifts further left relative to the first-frame viewpoint, while more of the winding road ahead and the surrounding forested mountains are continuously revealed.

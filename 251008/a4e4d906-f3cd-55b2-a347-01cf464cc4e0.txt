@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a narrow dirt path winding into a dense evergreen forest. To the viewer's immediate left, a steep, moss-covered bank adorned with vibrant ferns rises, while numerous tall trees line the path and extend far into the distance, reaching towards a bright, overcast sky directly ahead.
+end of description
+The camera slowly advances forward and slightly upward along the path, causing the mossy bank and ferns on the left to gradually recede from the immediate foreground. As the viewpoint progresses deeper into the scene, the towering trees in the middle ground appear to shift relative to one another, revealing more of the winding path ahead through the lush, green forest.
+frame_0000000128-frame_0000000256:
+The first frame displays a narrow dirt path curving slightly rightward, leading into a dense forest of tall evergreen trees under a bright, overcast sky. To the immediate left of the viewer, a steep, moss-covered embankment rises, thickly adorned with large green ferns. Numerous tree trunks line both sides of the path, extending upwards and into the background, where a lighter green canopy hints at distant foliage.
+end of description
+As the frames progress, the viewpoint slowly moves forward along the path, causing the ground in the foreground to advance and reveal more textural detail. The mossy embankment and ferns initially to the left of the path gradually recede behind the first-frame's left edge, while the trees that were ahead in the background progressively shift closer, offering more distinct views of their trunks and foliage as the viewer enters deeper into the scene.

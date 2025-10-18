@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a runner's viewpoint on a paved path, with several other runners ahead. A green slope and distant hazy landscape are visible to the left, while a dense, bare-branched tree-covered hill rises steeply to the right. Running data, including distance, speed, pace, and heart rate, are overlaid on the screen.
+end of description
+Chronologically, the viewer progresses along the path, which curves right, as the elevation grade steadily increases from +1.9% to +10.2% and an orange cone appears on the left side of the path. The foreground runner and the passing landscape of the green slope and bare trees indicate continuous forward movement, with all overlaid running metrics updating dynamically.
+frame_0000000128-frame_0000000256:
+The initial frame shows a first-person view of a paved running path with part of the viewer's left arm and red vest in the immediate foreground. Several runners are visible ahead on the path, which is bordered on the right by a dense wall of bare brown bushes and on the left by a grassy slope leading to evergreen trees and a distant hazy landscape. Overlaid statistics display running data including distance, speed, time, heart rate, and an elevation profile.
+end of description
+As the viewer progresses forward, the scene moves to continuously reveal more of the path ahead and the surrounding environment, with the bare bushes on the right and evergreen trees on the left remaining in their relative positions. The data overlays dynamically update, showing a decreasing positive grade and the yellow indicator advancing along the elevation profile graph.

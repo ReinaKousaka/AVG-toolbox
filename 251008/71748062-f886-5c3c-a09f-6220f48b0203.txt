@@ -1,0 +1,22 @@
+frame_0000000000-frame_0000000128:
+A wet city sidewalk extends forward on the left, bordered by a light-colored building displaying "435" on its facade and topped with a bare-vined trellis structure. To the right, a bare tree stands next to parked vehicles, including a prominent burgundy SUV, while a distant tall building rises towards the center-right under an overcast sky.
+end of description
+As the viewpoint moves forward and slightly right relative to the first frame's position, the building numbers and the street sign in the upper right recede from view. This reveals more of the street to the right of the initial tree, showing additional parked cars and two people walking further ahead on the sidewalk.
+frame_0000000128-frame_0000000256:
+The first frame displays a city sidewalk scene featuring a prominent bare tree on the right, partially obscuring a dark red SUV parked to its immediate right. To the viewer's left, a light-colored brick building with a metal and glass trellis structure extends along the sidewalk, which recedes towards the background where tall city buildings are visible under a bright sky.
+end of description
+As the camera's viewpoint subtly shifts forward and slightly left, the red SUV begins to slowly drive away from the viewer, further to the right of the original tree position. Concurrently, a person emerges from behind the tree, walking away from the viewer further down the sidewalk, while the architectural details of the building on the left become more revealed.
+frame_0000000256-frame_0000000384:
+The first frame displays a city sidewalk scene. In the immediate foreground to the right, a large tree trunk partially obstructs a dark-colored SUV parked on the street. To the left, a light-colored building with an overarching metal awning structure and large windows lines the sidewalk, where a person is seen walking in the midground towards the viewer. Further down the street, a street lamp, additional parked cars, and several tall, multi-story buildings are visible against a light sky.
+
+end of description
+
+As the viewpoint progresses forward along the sidewalk, the large tree trunk on the right moves out of frame, fully revealing the parked dark SUV which also recedes. The person walking on the sidewalk approaches, passes the viewer on the left, and continues walking further down the street. The building on the left and the street lamp appear closer, and new parked cars, along with a "STOP" sign on the far right, become visible as the scene shifts.
+frame_0000000384-frame_0000000512:
+The first frame presents a wet city street, with a brick building and a man walking away on the left sidewalk. A central streetlamp column divides the view from a black SUV on the right street, partially obscuring distant bare trees, a 'STOP' sign, and several tall buildings under a blue sky.
+end of description
+Throughout the frames, the man on the left continues receding down the sidewalk, while the black SUV on the right slowly moves forward, gradually revealing more of the street and additional parked cars that were previously behind its initial position.
+frame_0000000512-frame_0000000640:
+The first frame depicts a wet urban sidewalk with a brick building on the left, a streetlamp and trash bin centrally located, and the rear of a dark SUV partially visible on the far right. Ahead, a street extends towards several large buildings in the background, lined by bare trees and a white pickup truck.
+end of description
+Over the following frames, the dark SUV on the right moves forward and left, gradually exiting the frame and revealing more of the street and a suspended traffic light at the intersection beyond its initial position, while the rest of the scene remains stationary.

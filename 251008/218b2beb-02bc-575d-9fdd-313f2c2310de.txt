@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a wet urban street stretching into the distance under an overcast sky, with buildings lining both sides. To the viewer's left, a large glass window reflects the scene, situated below a brick wall; further down the pavement, a red sign stand and a black easel are visible in front of a light purple building. On the right side of the wet asphalt road, a white car is parked, with its rear facing away from the viewer.
+end of description
+The white car on the right side of the street slowly moves forward, gradually disappearing from view as it proceeds into the distance. Concurrently, the red sign stand on the left progressively tilts until it falls completely flat onto the pavement. By the fifth frame, the car is entirely out of sight, and the red stand remains lying flat for the duration of the sequence.
+frame_0000000128-frame_0000000256:
+The first frame displays a wet, narrow street flanked by buildings; a purple structure with a brown railing and an AC unit stands to the left, while a brick building with stairs and a white SUV on an elevated section is to the right. An advertisement stand is positioned in the immediate left foreground, and yellow road markings guide the eye into the distance.
+end of description
+As the frames progress, water visibly accumulates and rises along the left sidewalk and the adjacent street, flowing towards the viewer and progressively submerging the pavement and the yellow road line on that side. This rising water steadily engulfs the lower portion of the purple building's facade. Simultaneously, the advertisement stand initially in the front-left gradually moves out of the frame towards the left, indicating a slight shift in the viewer's perspective.
+frame_0000000256-frame_0000000384:
+The first frame displays a wet asphalt street receding into the distance, flanked by buildings. To the viewer's left, a lavender building with a dark wooden panel and an outdoor air conditioning unit is prominent in the foreground, with another building and a 'STOP' sign further down. To the right, a brick planter with foliage and a white SUV are visible, followed by more urban structures and an orange traffic cone.
+end of description
+There are no dynamic changes, newly revealed objects, or shifts in spatial positions observed across the subsequent frames; the scene remains static.

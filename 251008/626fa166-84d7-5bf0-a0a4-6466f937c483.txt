@@ -1,0 +1,30 @@
+frame_0000000000-frame_0000000128:
+The first frame presents an urban scene with a reddish-brown paved area featuring several red metal chairs and small tables in the foreground, left. To the far left, a yellow building displays a large colorful mural, partially obscured by a bare-branched tree with some reddish leaves. Across a street in the mid-ground, a row of commercial buildings forms the background, and to the right, a traditional-style pavilion with a red tiled roof stands prominently. Bare trees are visible across the scene, and the sky is overcast.
+end of description
+A white USPS truck, initially visible on the mid-ground street, slowly moves forward towards the right side of the frame. Concurrently, a person pushing a stroller, followed by another pedestrian, walks along the sidewalk on the far right, moving further away from the initial viewpoint. Additionally, a small blue vehicle appears in the background, moving left across the street.
+frame_0000000128-frame_0000000256:
+The first frame shows a city park area with reddish-brown ground and red chairs in the lower left, next to a building featuring a vibrant green dragon mural. Across a paved street, a row of diverse multi-story buildings and parked vehicles extends into the background, with a red-roofed pagoda-style structure visible on the far right and a US flag flying from a central pole.
+end of description
+In the subsequent frames, a person in a blue jacket pushing a cart enters from the far right of the frame, slowly moving leftward past the red-roofed structure. Concurrently, the US flag on the flagpole exhibits minor fluttering, but no other significant dynamic changes or newly revealed objects occur relative to the first-frame viewpoint.
+frame_0000000256-frame_0000000384:
+The first frame captures a city street scene under an overcast sky, with bare trees and stone steps in the foreground left. In the midground right, a traditional red-roofed kiosk stands, while multi-story brick buildings with storefronts line the background street, featuring parked cars, a white USPS truck, and a person pushing a walker moving left near the kiosk.
+end of description
+As the frames progress, the viewer's perspective subtly pans to the right, revealing more of the red brick building on the far right. The person in the blue jacket, previously in the midground right, continues moving left, gradually traversing the midground. Concurrently, a silver pickup truck emerges from behind the kiosk on the right side of the street and proceeds left, eventually driving out of view to the left of the frame.
+frame_0000000384-frame_0000000512:
+The first frame presents a city street with a red and green pagoda-style information kiosk in the center-right foreground. To its left, a person in a blue jacket pushes a walker, with a white USPS truck and a large building further back; a multi-story brick building and a silver pickup truck are on the right near a utility pole.
+end of description
+Subsequently, the person with the walker moves leftward out of frame, while the silver pickup truck on the right proceeds forward and right. A white car, initially somewhat obscured behind the kiosk, emerges and moves left across the street, while the USPS truck remains stationary behind the kiosk.
+frame_0000000512-frame_0000000640:
+The first frame presents a street scene with a red-tiled roof structure on the immediate left foreground and a dark utility pole on the mid-right. A white car and silver truck are stopped at an intersection in the mid-ground, while a large brick building dominates the right background and a green-fronted building is on the far-left, under an overcast sky. A person with a white bag is on a crosswalk to the far-right.
+end of description
+Over subsequent frames, the person on the far-right crosswalk moves further right, eventually exiting the frame. A white USPS truck emerges from behind the far-left green-fronted building, moving rightward across the street. Concurrently, a blue bin is revealed on the sidewalk, appearing to the left of the moving truck, while the stopped white car and silver truck remain mostly static.
+frame_0000000640-frame_0000000768:
+In the first frame, a dark utility pole is partially visible on the far right. To its left, a white hatchback car sits on a wet asphalt street, positioned slightly left of center. Behind it, a white USPS truck and a silver pickup truck are visible to the left. On the far left, a blue recycling bin sits on a brick sidewalk, across from a tan multi-story building with "GREEN GARDEN" signage. Across the street on the right, a person walks on a crosswalk towards the left, with a prominent brick building featuring storefronts ("iMarket" visible) in the background.
+
+end of description
+
+The person on the right crosswalk moves progressively further left and into the midground, eventually passing out of view to the left of the crosswalk. Simultaneously, the silver pickup truck behind the white hatchback begins moving forward and to the left, gradually revealing more of the white USPS truck and the tan "GREEN GARDEN" building further to the left. Throughout the sequence, the white hatchback and the foreground utility pole remain stationary.
+frame_0000000768-frame_0000000896:
+The first frame shows a street intersection on an overcast day, featuring a white Ford Focus hatchback in the central foreground turning slightly right. To the left, a partial blue car, a white USPS truck, and a silver pickup truck are visible behind a prominent red STOP sign, while a multi-story beige building rises on the far left. On the right, a large red brick building with "iMarket" storefronts borders the street, where pedestrians are walking.
+end of description
+Over the subsequent frames, the white Ford Focus and the blue car on the left both proceed forward, with the Ford continuing its right turn away from the viewer. Simultaneously, a silver sedan on the right side of the intersection moves ahead and out of the frame, as the USPS truck and silver pickup truck on the viewer's left gradually advance.

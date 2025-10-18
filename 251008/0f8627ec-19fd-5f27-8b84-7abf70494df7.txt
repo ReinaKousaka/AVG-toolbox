@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The initial frame features a white balcony structure on the far left, overlooking a village with numerous houses nestled on a green hillside in the midground, backed by majestic forested mountains under a bright blue sky. A dirt path curves up the grassy slope on the lower left, leading towards a cluster of houses, while the roof of another house is visible in the lower right foreground.
+end of description
+As the frames progress, the camera subtly zooms out and pans slightly to the right. The white structure on the far left of the initial view gradually recedes, revealing more of the green hillside and trees that were previously directly behind it. Simultaneously, the scene expands, showing additional forested slopes to the right of the first-frame's initial vista. Also, more of the path and the roof of the house in the lower-right foreground, previously just below the first frame's edge, become visible.

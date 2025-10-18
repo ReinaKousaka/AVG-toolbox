@@ -1,0 +1,28 @@
+frame_0000000000-frame_0000000128:
+A long wooden staircase with light-colored treads and dark handrails ascends from the bottom-left/center foreground towards the top-center background, disappearing into dense green foliage. Lush trees and undergrowth surround the stairs, filling the left, right, and top portions of the frame, with a small wooden bench partially visible to the right of the stairs in the mid-ground.
+end of description
+The camera consistently moves forward and upward along the staircase, increasing the visual prominence of the path ahead. The bench, initially to the right of the stairs, gradually recedes from view, effectively moving further right relative to the initial viewpoint as the camera advances. The dense green canopy at the top of the stairs becomes progressively closer and more encompassing as the viewpoint progresses.
+frame_0000000128-frame_0000000256:
+The first frame displays a long wooden staircase with dark steps and lighter horizontal treads, receding directly ahead and slightly upward into a dense green forest. Wooden handrails flank both sides of the staircase, with lush green foliage and bushes immediately adjacent to them, extending left and right. Further back and above the bushes, tall trees with vibrant green leaves form a canopy and dense background, obscuring the sky. A "SEOUL WALKER" watermark is visible in the bottom-left corner.
+end of description
+The viewpoint slowly moves forward and upward, simulating an ascent of the stairs. As the viewer progresses, the bottommost steps of the staircase gradually recede from view, and higher steps, previously further ahead, become closer and more prominent. The surrounding green foliage on both sides appears to move past the viewer, revealing more of the path deeper into the forest, which remains consistently lush and verdant.
+frame_0000000256-frame_0000000384:
+The first frame displays a long, dark wooden staircase with light grey treads, ascending forward and upwards into a dense green forest, flanked by wooden railings with some attached foliage. Lush trees and undergrowth fill the left, right, and upper portions of the frame, with "SEOUL WALKER" visible in the bottom left.
+end of description
+The following frames show a continuous, slow upward camera movement along the staircase, revealing more of its lower steps and subtly altering the perspective of the surrounding green environment. No new objects or scenes are introduced, with all elements maintaining their spatial relationship relative to the initial viewpoint as the camera advances.
+frame_0000000384-frame_0000000512:
+The first frame displays a long, dark wooden staircase with light-colored step edges, extending upwards and centrally into a lush green forest. Dark wooden handrails flank the stairs on both sides, while dense foliage and trees enclose the path, creating a verdant canopy overhead.
+end of description
+As the frames progress, the viewpoint steadily moves forward and upward along the staircase, simulating an ascent. The lower steps recede, and new higher steps continuously appear from the mid-ground, indicating forward movement relative to the initial position. This gradual progression reveals more of the winding, tree-lined path further up the ascent within the dense forest.
+frame_0000000512-frame_0000000640:
+The first frame displays a wide wooden staircase ascending directly away from the viewer, bordered by dark brown wooden handrails with vertical slats extending from the foreground into the distance. The steps feature dark brown risers and light gray treads, leading up into a dense canopy of vibrant green trees and foliage that lines both sides of the path, forming a verdant tunnel in the midground and background, with glimpses of a bright sky overhead. A "SEOUL WALKER" watermark is present in the bottom left corner.
+end of description
+As the frames progress, the viewpoint steadily moves forward and slightly upward, advancing along the wooden staircase towards its top. The surrounding trees and foliage on the left and right sides of the staircase gradually appear to recede as the viewer approaches the upper section of the path. This consistent forward motion subtly reveals more of the ascending stairs and the forested environment ahead, maintaining the original spatial relationship to the viewer's initial position.
+frame_0000000640-frame_0000000768:
+A long wooden staircase with dark handrails stretches directly away from the viewer and upwards, disappearing into a dense tunnel of vibrant green trees and foliage that flank both sides and arch overhead. The 'SEOUL WALKER' watermark is present in the bottom left corner.
+end of description
+The viewpoint dynamically moves forward and upward along the staircase, simulating an ascent. As the camera progresses, more of the wooden steps ahead become visible, and the surrounding verdant trees appear closer, maintaining the immersive forest environment relative to the initial scene.
+frame_0000000768-frame_0000000896:
+A long wooden staircase ascends directly from the viewer's foreground into the upper-middle distance, disappearing into a dense tunnel of vibrant green trees and foliage. Lush vegetation, including tall trees and thick undergrowth, surrounds the staircase on both the left and right sides of the viewer.
+end of description
+The camera gradually moves forward, ascending the stairs and revealing more of the continuous wooded path ahead, maintaining the same first-frame viewpoint. Subtle swaying is noticeable in the green leaves on the right, suggesting a light breeze or slight camera motion as the perspective advances deeper into the forest.

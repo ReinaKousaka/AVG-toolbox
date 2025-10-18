@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a silver and grey train with a red stripe moving left to right across multiple tracks in the foreground. To the right, a paved path with a green fence and dense bamboo parallels the tracks, while overhead wires and distant buildings under an overcast sky complete the scene.
+end of description
+The train dynamically advances rightwards and slightly towards the viewer, revealing its illuminated front and headlights. As it moves, the scene behind it opens up, revealing new background elements to the left, including more buildings, a road with a blue sign, and a large structure.
+frame_0000000128-frame_0000000256:
+The first frame shows a wet, overcast scene featuring train tracks and a parallel path. To the right, a dark paved path runs alongside a dark green railing, backed by dense bamboo and foliage. Four parallel train tracks extend from the foreground towards the upper right, with a prominent grey utility pole standing centrally between tracks. In the mid-right, a silver and red train approaches on the second track from the right, while apartment buildings, a road, and a blue traffic sign are visible on the far left.
+end of description
+The train progressively moves from the mid-right towards the mid-left, passing the central utility pole. As it advances, a railway crossing with flashing red lights and lowering barriers becomes visible in the mid-left background. The train then fully passes beyond the left edge of the frame, and the crossing barriers are fully lowered across the tracks.

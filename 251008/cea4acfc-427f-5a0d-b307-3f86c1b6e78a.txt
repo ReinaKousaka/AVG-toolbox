@@ -1,0 +1,23 @@
+frame_0000000000-frame_0000000128:
+The first frame displays train tracks laid on gravel, curving gently left into the distance, flanked by dense green forest slopes on both sides, with a utility pole and overhead wires positioned to the right against a partly cloudy sky.
+end of description
+As the frames progress, the viewpoint moves forward along the tracks, causing the utility pole on the right to move out of view while new utility poles and sections of dense foliage on both sides are continuously revealed ahead. The curve in the tracks to the left becomes more pronounced, and an increasingly prominent earthen bank emerges along the left side of the track as the scene unfolds.
+frame_0000000128-frame_0000000256:
+In the first frame, railroad tracks extend directly forward from the viewer into the distance, curving gently to the right, flanked by gravel. On the left and right, rocky, earth-covered embankments rise, densely vegetated with green bushes and trees. A tall wooden utility pole stands prominently to the right of the tracks in the midground, with overhead wires stretching across the frame. Above, a blue sky with scattered white clouds is visible.
+
+end of description
+As the frames progress, the viewer moves forward along the tracks. The wooden utility pole on the right side shifts from the midground towards the foreground and eventually moves out of frame to the rear right. The embankments on both sides appear to close in and rise relative to the viewer, with new sections of rocky terrain and dense foliage continually revealed directly ahead and to the immediate left and right. The curve in the tracks to the front right becomes more pronounced as the viewpoint advances.
+frame_0000000256-frame_0000000384:
+The first frame displays a train track receding into the distance, curving slightly to the right, bordered by steep rocky embankments on both sides; a utility pole with overhead wires stands to the left of the tracks, and dense evergreen trees line the right embankment under a cloudy blue sky.
+end of description
+As the viewpoint moves forward, the rocky embankments on either side recede from their initial positions, gradually revealing more expansive, vegetated hillsides and open fields that were previously further along the path. The utility pole, initially to the mid-left, appears to move closer and then passes behind the viewer's original position as new sections of the track and landscape ahead of the first frame are continuously brought into view. The entire scene progresses, with the track maintaining its rightward curve through the evolving natural environment.
+frame_0000000384-frame_0000000512:
+The first frame depicts a train track extending directly ahead, curving subtly to the right, flanked by dense green forest on the left with distant hills, and a rocky, tree-covered embankment on the right. A utility pole with overhead wires stands to the immediate left of the tracks, and a partially cloudy sky spans above.
+end of description
+As the viewpoint steadily advances along the tracks, the utility pole initially visible to the left moves progressively out of frame to the left, and the rocky embankment on the right continually approaches and recedes. New sections of green vegetation emerge from the distance ahead, passing by on both sides of the tracks, revealing more of the forested hills to the left and the rocky terrain to the right. The overall scene maintains its character as a journey through a lush, natural landscape.
+frame_0000000512-frame_0000000640:
+In the first frame, train tracks extend forward on a gravel bed, curving gently to the right, flanked by dense green forest on the left and a bushy embankment with more forest on the right. A utility pole with overhead wires stands to the left of the tracks, and a small yellow circular sign is visible far ahead on the right embankment, all under a blue sky with white clouds.
+
+end of description
+
+As the viewpoint moves forward along the tracks, the utility pole initially to the left of the tracks approaches and passes the viewer. Concurrently, the small yellow circular sign on the right embankment, which was far ahead, becomes fully visible, revealing the number "95" as the scene progresses, with the surrounding dense forest and vegetation continuously moving past on both sides.

@@ -1,0 +1,27 @@
+frame_0000000000-frame_0000000128:
+The first frame features a paved sidewalk with a yellow tactile path on the left, next to a raised planter with foliage and white-barked trees, while a small tree stands on the mid-right sidewalk. To the right, an asphalt road with a yellow line runs parallel to a glass building and a parking sign; two people are walking away from the viewer on the sidewalk.
+end of description
+As frames progress, the viewpoint subtly moves forward, revealing more of the street ahead. The two individuals continue walking further away on the sidewalk, with the person in the dark top turning their head to face their companion and raising their arm slightly as they move.
+frame_0000000128-frame_0000000256:
+The first frame displays an urban scene with a paved sidewalk running from the bottom left towards the center, marked by a yellow tactile strip. To its left is a concrete retaining wall topped with green bushes, while to the right is a paved road delineated by a yellow line, with a tree trunk in the foreground and a grey utility box behind it. Two people, a woman and a masked man, are walking towards the viewer on the sidewalk in the mid-ground, against a backdrop of buildings and trees. end of description.
+As the frames progress, these two individuals steadily walk closer to the viewer along the sidewalk. In later frames, a third person, a woman in a light top, emerges further down the same sidewalk, behind the initial pair and also walking towards the viewer.
+frame_0000000256-frame_0000000384:
+In the first frame, a man wearing a white mask and glasses walks towards the viewer on a sidewalk, accompanied by a woman in a dark blue top slightly behind and to his left. To the viewer's right, a large grey utility box stands on the sidewalk. Further back, a third woman in a light top walks away from the viewer, amidst green trees and modern buildings lining both sides of the street.
+end of description
+The man and the first woman continue walking, moving from the midground to the foreground and eventually exiting the frame to the viewer's left. Simultaneously, the distant woman in the background steadily approaches closer to the viewer along the sidewalk.
+frame_0000000384-frame_0000000512:
+In the first frame, a woman walks towards the viewer on a sidewalk marked with a yellow tactile strip, bordered by a concrete wall with greenery on the left and a tall gray perforated gate on the right; a street lined with trees and buildings extends into the background.
+end of description
+As frames progress, the woman walks closer to the viewer. The gray gate on the right gradually moves out of view, revealing more of the street and buildings to the right of the initial viewpoint. The woman continues walking, eventually passing the original viewpoint and moving towards the left.
+frame_0000000512-frame_0000000640:
+The first frame shows a woman walking right across the immediate foreground, carrying a black tote bag. To her left, concrete stairs ascend next to a green space with trees and a building, while a paved sidewalk with yellow tactile strips leads centrally into the mid-distance, parallel to a street with cars on the right, flanked by commercial buildings and distant structures.
+end of description
+As the frames progress, the woman moves completely out of the frame to the right, revealing more of the paved sidewalk and the base of the stairs directly in front of the viewer. No other objects or scenes are newly introduced; the background cityscape and street remain static relative to the initial viewpoint.
+frame_0000000640-frame_0000000768:
+The first frame shows the viewer positioned on a grey sidewalk with yellow tactile paving strips running into the distance. Two circular manhole covers are visible in the immediate foreground, with a wide concrete staircase and metal handrails ascending to the left. Beyond the staircase and an adjacent grassy slope, a modern building with reflective glass rises on the left. To the right of the viewer's path, a row of small trees separates the sidewalk from a wet asphalt road, which features yellow markings and parked cars further down. Across the road, storefronts and another tall, modern building with glass facades are visible.
+end of description
+The following frames depict a very subtle forward movement of the viewpoint along the sidewalk. This progression causes all visible objects ahead, including the trees, parked cars, and the storefronts to the right, to gradually appear incrementally closer to the viewer's original first-frame position.
+frame_0000000768-frame_0000000896:
+A concrete sidewalk with a central yellow tactile strip extends forward, flanked by concrete stairs and a grassy slope with trees to the left, and a wet asphalt road to the right. Along the road, a storefront with string lights is visible, with parked cars and a blue bus further down the street. Tall modern buildings frame both sides of the street against an overcast sky.
+end of description
+Subsequent frames show no discernible dynamic changes or newly revealed objects, with the scene remaining static relative to the first-frame viewpoint.

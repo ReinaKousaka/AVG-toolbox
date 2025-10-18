@@ -1,0 +1,7 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts an asphalt road stretching directly ahead, gently curving left into the distance, with a darker, rougher patch down its center. To the viewer's immediate left, a stone retaining wall supports a grassy slope adorned with dense evergreen trees, while to the right, a metal guardrail runs alongside a murky, light brown river, beyond which a steep, tree-covered mountain face dominates the scene.
+end of description
+As the video progresses, the viewpoint moves steadily forward, causing the road and guardrail to advance from the top of the frame and recede beneath the viewer. The immediate surrounding landscape, including the stone wall, roadside trees, and the river, continuously scrolls past the viewer's sides, while the distant mountain and sky remain relatively stable ahead.
+frame_0000000128-frame_0000000256:
+The first frame depicts a paved road extending into the distance, bordered on the left by a stone retaining wall with lush trees, and on the right by a metal guardrail beside a muddy river. Beyond, the road curves slightly into a valley framed by towering, forested mountains under a bright sky. end of description
+As the viewpoint progresses forward, the foreground road textures recede behind the viewer, and new sections of the retaining wall and guardrail become visible ahead. Further along the road on the left, a concrete block structure emerges next to the stone wall, and the road's curvature ahead becomes more pronounced, gradually shifting the mountainous backdrop in the distance.

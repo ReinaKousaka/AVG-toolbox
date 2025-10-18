@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+In the first frame, a dark asphalt road curves gently right from the bottom center, bordered by a silver guardrail and green grass on the left, and a grassy verge on the right. Forested mountains loom on the left, while a steep, tree-dotted hillside ascends on the right, beneath a blue sky with scattered white clouds.
+end of description
+As the viewpoint progresses, the initial guardrail and grass recede, revealing more distant mountains to the left. On the right, a low stone wall emerges, followed by a small, light-colored concrete building with a dark door that fully appears then vanishes behind the viewer. Further along on the right, a prominent rock and a small white marker post are newly revealed by the roadside.
+frame_0000000128-frame_0000000256:
+The first frame shows a paved, dark grey road curving gently to the left, extending from the bottom center into the distance. To the immediate right, a grassy embankment slopes upwards, featuring scattered trees and a small white and yellow marker post; beyond this, forested mountains rise. To the left, a steep, tree-covered valley descends, revealing more distant, darker mountains. Above, the sky is a mix of clear blue and scattered white clouds, some partially obscuring distant peaks.
+end of description
+The viewpoint progresses forward along the road. The white and yellow marker post, initially on the right embankment, moves closer to the viewer and then exits the frame to the right as the scene advances. The roadside scenery, including the grassy embankment and distant mountain views, continuously changes as new sections of the landscape are revealed from the first-frame's perspective.
+frame_0000000256-frame_0000000384:
+The first frame shows the viewer on a dark asphalt road stretching forward and curving slightly left into a valley. Dense green trees line the road on the left, while a grassy, sloped hill ascends on the right. Distant mountains, partially obscured by trees and clouds, are visible ahead under a blue sky with white clouds.
+end of description
+As the sequence progresses, the viewpoint moves forward along the road. The immediate road surface passes beneath, and the trees on the left recede, revealing more of the valley beyond. The grassy slope on the right also recedes, displaying newly visible sections with sparse yellow flowers. Shadows from unseen overhead trees emerge on the road in front and to the left, lengthening as the movement continues.

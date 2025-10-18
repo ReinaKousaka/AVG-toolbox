@@ -1,0 +1,26 @@
+frame_0000000000-frame_0000000128:
+The initial frame captures a paved road extending into a valley, flanked by a multi-story house with an attached carport on the left, partially obscured by foreground tree branches, and a large leafy tree with a field of cut grass on the right, all under a clear blue sky. In the midground, a smaller house is visible further down the road, nestled between rolling green hills and distant trees.
+end of description
+As the viewpoint progresses forward along the paved road, the tree branches previously in the upper left move out of view. The house and carport on the left, containing a white vehicle, along with the large tree and utility pole on the right, grow larger as the viewer approaches them. The distant smaller house and the surrounding hills also become progressively closer relative to the first-frame viewpoint.
+frame_0000000128-frame_0000000256:
+A paved road leads straight ahead towards a distant small house nestled among green, tree-covered hills under a clear blue sky. To the left, a large wooden house with a covered parking bay and a white truck is visible, with a smaller tree further back on a grassy slope. On the right, a tall, leafy tree and a dark pole with a red circular sign are positioned closer to the viewer, partially obscuring a rising, light-brown field.
+end of description
+As the camera progresses along the road, the large tree and signpost on the right move completely out of view to the right, revealing more of the light-brown field. Concurrently, the large wooden house on the left moves out of frame to the left, exposing more of the grassy hill and a wooden fence, while the distant house and surrounding landscape become more prominent as the viewer approaches.
+frame_0000000256-frame_0000000384:
+The first frame displays a paved road stretching from the viewer's foreground into the middle distance, leading towards a small house with a dark roof and white facade nestled centrally between green hills. To the left of the road, green grass and a wooden fence with wire mesh are visible, with a tall tree partially on the far left. To the right of the road, a steep golden-brown slope covered in dried hay rises, while a bright blue sky with minimal clouds fills the upper frame.
+end of description
+As the frames progress, the viewpoint moves steadily forward along the paved road, advancing towards the house. The tree and fence on the viewer's left recede from view, moving past the viewer's left side. Simultaneously, the golden-brown hay-covered slope on the viewer's right also recedes. The house ahead grows progressively larger as the viewer approaches its location in the middle distance, maintaining its central position.
+frame_0000000384-frame_0000000512:
+In the first frame, a narrow paved road extends from the foreground towards a small, traditional house with a dark roof and white facade, positioned centrally in the distance. To the left of the road, a vibrant green grassy hill rises, populated by scattered trees further up, while to the right, a steep hill covered in dry, golden hay ascends. Behind the house and along the upper slopes, dense evergreen forests are visible, all under a clear, bright blue sky with a few faint clouds.
+end of description
+No dynamic changes or newly revealed objects occur across the subsequent frames; the scene remains entirely static from the initial viewpoint. The road, house, hills, and sky maintain their exact positions and appearance.
+frame_0000000512-frame_0000000640:
+From the viewer's perspective, a paved road stretches ahead, flanked by a bright green grassy hillside on the left and a golden-brown, hay-covered hillside on the right. A brown house with a white base stands directly ahead in the midground, at the end of the visible road, with evergreen trees covering the upper parts of the hillsides behind it, all under a clear blue sky.
+
+end of description
+
+As the frames progress, the viewer moves continuously forward along the road towards the house. The house and surrounding hillsides remain directly ahead, but they gradually appear larger and closer to the first-frame viewpoint. The road and adjacent grassy fields continuously emerge from the bottom of the frame, revealing new sections of the path as the viewer advances further into the scene.
+frame_0000000640-frame_0000000768:
+The first frame presents a paved road extending from the viewer towards a rustic brown and white house positioned centrally in the mid-ground. Lush green grassy fields occupy the left side of the road, sloping upwards into tree-covered hills on the far left, while a field of golden, cut hay lies to the right, also leading to tree-lined hills. A vast, clear blue sky stretches above the scene.
+end of description
+In the subsequent frames, the camera smoothly advances along the road towards the house, causing all elements to steadily increase in size. The house, initially in the mid-ground, appears closer, and the details of both the vibrant green field to the left and the dry hay field to the right become more prominent as the viewer progresses towards the scene. No new objects are revealed; it is a continuous approach to the same landscape.

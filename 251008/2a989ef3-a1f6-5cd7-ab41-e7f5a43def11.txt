@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The initial frame shows a wet street receding into the distance, bordered by colorful multi-story buildings on both sides; a brown wooden building with shops is on the viewer's right, followed by lighter buildings with red and green shutters. Further down the street on the left, a dark car is parked, with a green mountain rising in the far background. A person holding a blue umbrella walks away from the viewer on the right side of the street, positioned between the red-shuttered building and the parked car.
+end of description
+In subsequent frames, the individual with the blue umbrella steadily walks further into the distance along the street, remaining on the right side relative to the first-frame viewpoint, without new objects or scenes appearing.

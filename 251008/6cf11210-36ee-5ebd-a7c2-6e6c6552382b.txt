@@ -1,0 +1,28 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a long, steep stone staircase with black railings leading upwards in the center, flanked by a paved path. To the immediate left of the viewer, large bushes of blue and white hydrangeas are prominent, while a stone retaining wall with ivy runs further back on the left. On the right, a multi-story apartment building is visible beyond a dark metal fence.
+end of description
+Throughout the subsequent frames, no dynamic changes or newly revealed objects or scenes occur; the view remains static from the first-frame viewpoint.
+frame_0000000128-frame_0000000256:
+In the first frame, a long, gray concrete staircase ascends steeply into the distance directly ahead of the viewer, bordered by black metal railings. To the immediate left foreground, white and purple hydrangeas are visible, with a stone retaining wall and a utility pole extending further back on the left. On the right, a paved walkway leads to a black fence and a multi-story building, partially obscured by green trees and bushes.
+end of description
+Across subsequent frames, the viewpoint subtly moves forward towards the staircase, causing the foreground hydrangeas to recede slightly to the left. Consequently, the stairs and the distant scenery beyond them appear gradually closer and larger within the frame relative to the initial position.
+frame_0000000256-frame_0000000384:
+First frame: A long, concrete staircase with dark metal handrails ascends centrally towards the background, bordered by a stone retaining wall on the left (with blue hydrangeas at the bottom) and a metal fence alongside green foliage on the right, leading up to distant buildings and an overcast sky.
+end of description
+The camera then slowly moves forward and upward along the staircase. This motion causes the handrails to extend further into the foreground, the stone wall and right-side foliage to become more detailed as they pass, and the previously distant buildings at the top of the stairs to appear closer and lower relative to the first-frame viewpoint.
+frame_0000000384-frame_0000000512:
+A long concrete staircase with dark metal railings and gold handrails ascends directly away from the viewer, dominating the center of the frame. To the viewer's immediate left, a gray stone wall runs alongside the railing, with a distant building visible further back above it. On the right, green foliage and a light-colored building flank the railing, with some purple flowers entwined higher up the right-hand railing. The stairs disappear into an overcast sky and distant green trees at the top.
+end of description
+The viewpoint slowly advances forward and slightly upward, simulating an ascent of the stairs. Consequently, the steps closest to the viewer gradually move out of the bottom of the frame, while the upper sections of the staircase and surrounding scenery appear progressively closer and higher relative to the initial first-frame viewpoint.
+frame_0000000512-frame_0000000640:
+A wide, grey concrete staircase ascends steeply towards the viewer, flanked by dark metal railings on both sides. To the left, a concrete retaining wall with a darker structure is visible, while to the right, lush green foliage with purple flowers and a building appear behind the railing, all beneath an overcast sky above the distant stairs.
+end of description
+As the frames progress, the camera subtly moves forward along the staircase's central axis. This slight motion causes the immediate foreground steps to appear larger and brings the lower sections of the railings slightly closer to the viewer relative to the first-frame viewpoint, without revealing any new objects or scenes.
+frame_0000000640-frame_0000000768:
+The first frame shows a long concrete staircase with dark metal railings and light brown handrails ascending directly away from the viewer. Green foliage with some prominent purple flowers and a reddish-brown tree line the right side, while a concrete wall and more green foliage are on the left, all under an overcast sky.
+end of description
+Over the subsequent frames, the camera subtly zooms out, revealing slightly more of the immediate foreground at the bottom of the staircase, effectively moving the viewer slightly backward from the initial viewpoint. Concurrently, the distant steps appear marginally smaller, and the purple flowers on the right, positioned relative to the first-frame viewpoint, seem to subtly brighten or shift, suggesting gentle movement.
+frame_0000000768-frame_0000000896:
+The first frame presents a straight, wide concrete staircase ascending directly upwards from the viewer's perspective. Dark metal railings with lighter handrails line both sides, with green foliage and a concrete wall visible to the left, and vibrant purple hydrangeas among green and reddish leaves to the right. The stairs lead towards an obscured top, under an overcast sky.
+end of description
+No dynamic changes or newly revealed objects or scenes occur in the subsequent frames; all images remain identical to the first frame.

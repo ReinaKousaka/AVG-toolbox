@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame reveals a snow-covered street in a town, featuring a red van positioned on the right side of the road. To the right, a multi-story building with illuminated storefronts and a brown wooden statue is visible, with two people standing near the van and the store entrance. On the left, a utility pole, banners, and a row of snow-dusted buildings with Swiss flags line the street, leading towards distant snow-capped hills under a snowy sky.
+end of description
+In the following frames, the red van slowly drives forward, gradually moving further down the street away from the viewer. Concurrently, the two individuals initially on the right sidewalk also walk forward, past the van's original position. The viewpoint subtly shifts forward and slightly right, continuously revealing more of the street ahead as the pole on the far left progressively exits the frame to the left.
+frame_0000000128-frame_0000000256:
+The first frame depicts a snow-covered street in a European town, with buildings lining both sides under an overcast sky and distant snowy mountains. A red van drives away from the viewer on the slushy road, positioned slightly right of center. To its right, two people stand near a shop window, while a snow-covered sidewalk and a dark pole are visible on the left.
+end of description
+The red van gradually moves further away from the viewer on the street. Concurrently, the two people on the right side of the street walk towards the right, also moving away from the viewer, eventually disappearing from view past the shop front. Throughout the sequence, snow is visibly falling, with flakes discernible across the entire frame.

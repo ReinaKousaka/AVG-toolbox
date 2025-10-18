@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame captures a rainy city street from a sidewalk perspective. To the left, a bright yellow 'Paik's Coffee' storefront with an open service window is visible, adjacent to a 'Paris Baguette' building where a white car is parked on the wet street. A wet, paved sidewalk extends forward, featuring a utility box and a small tree in the midground to the right. Beyond, numerous cars navigate the reflective street ahead, with red traffic lights and multi-story buildings lining the background.
+end of description
+Throughout the subsequent frames, heavy rain visibly continues to fall. A dark SUV on the right side of the street drives forward towards the viewer, followed by another dark vehicle appearing and moving in the same direction, while the white car on the left remains stationary.
+frame_0000000128-frame_0000000256:
+The first frame displays a rainy city street with a bright yellow "PAIK'S COFFEE" building on the left, featuring an open service window and an A-frame sign. To its right, a "PARIS BAGUETTE" storefront is visible, while a tree and utility box occupy the mid-ground on the right, and a black car with illuminated headlights approaches on the wet street, with a white car further down the road.
+end of description
+Throughout the subsequent frames, heavy rain continues to fall as the black car on the right moves forward and turns away from the viewer, revealing more of the "PARIS BAGUETTE" interior directly behind its initial position. Concurrently, the white car positioned further down the street slowly progresses forward.
+frame_0000000256-frame_0000000384:
+The first frame displays a rainy city street with a yellow-fronted cafe featuring a '백다방' sign and a display window of baked goods on the left, an empty wet intersection with bollards in the mid-ground, and multi-story buildings adorned with various Korean signs and a red traffic light on the right.
+end of description
+A white delivery truck then emerges from the distant left-background, proceeding across the wet intersection from left to right. The traffic light on the right remains red as the truck continues its journey, eventually exiting the frame towards the right-background. Rain consistently falls throughout, visible as streaks and reflections on the pavement.

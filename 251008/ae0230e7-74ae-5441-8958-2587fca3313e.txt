@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a rainy street scene, featuring a wet road, a bus stop, and vehicles receding into the distance on the left, separated by a black metal fence from a wet sidewalk. This sidewalk extends towards a misty horizon, flanked by a row of trees on its left and a rocky embankment topped with bushes and more trees on its right.
+end of description.
+As the frames progress, the visible rainfall intensifies, and a distinct reddish-brown stream emerges, flowing along the right side of the sidewalk beside the rocky embankment. A small red object, resembling a fire hydrant, becomes more discernible behind the left-side metal fence, while a "Rain Everyday" watermark appears at the bottom left corner of the screen in later frames.
+frame_0000000128-frame_0000000256:
+In the first frame, a wet sidewalk with tactile paving stretches from the foreground. To the left, a rainy asphalt road runs parallel, bordered by a black metal barrier and a red fire hydrant, with distant bus stops and trees. To the right, a rocky embankment supports dense green bushes and trees, with muddy water pooling at its base.
+end of description
+Throughout the subsequent frames, the rainfall fluctuates, visibly intensifying and then diminishing as muddy water continually flows along the rocky ditch to the right. A white vehicle passes on the far left road, while a distant person with an umbrella slowly proceeds along the sidewalk, all within the existing street and park landscape.
+frame_0000000256-frame_0000000384:
+The first frame depicts a wet, rainy street scene looking forward. To the viewer's left, a dark metal fence parallels a wet sidewalk and a road, with blurred vehicles and a bus stop visible in the distance. To the viewer's right, a concrete path runs parallel, bordered by a rock retaining wall below which muddy water flows, and green bushes backed by a forest on an incline.
+end of description
+Rain continues to visibly fall throughout the scene, with water accumulating and flowing along the concrete path to the right and on the left sidewalk. Vehicles, including a bus and cars, pass from the background right to left on the distant road. A person holding an umbrella briefly walks away from the viewer on the path in the mid-distance.

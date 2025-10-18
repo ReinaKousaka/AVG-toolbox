@@ -1,0 +1,16 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a paved park path, mottled with sunlight and shadows, stretching into the distance under a clear sky. To the immediate left, several black park benches are visible, some occupied by people, alongside a dark railing that overlooks a distant bridge and cityscape. On the right, a black metal fence separates the path from a dense area of green trees and bushes, with a prominent tree near the right foreground. A man in a dark hoodie and light pants walks towards the viewer from the mid-left, while other pedestrians are visible further down the path.
+end of description
+As the frames progress, the man in the dark hoodie continues walking towards and past the viewer, moving from the mid-left to the near-left of the original viewpoint. Concurrently, other distant figures, including one person with rolling luggage, continue their movement further down the path away from the viewer, as the camera itself slowly advances forward along the path.
+frame_0000000128-frame_0000000256:
+The first frame displays a wide paved promenade with a person in a dark top partially visible in the bottom-left foreground. To the left, a railing overlooks a body of water and a distant cityscape featuring a bridge; several park benches with seated individuals are along this edge. On the right, a black metal fence borders a lush green area with trees, while a white trash bin stands on the pathway. In the mid-ground, a person with luggage walks away, and another is on a scooter further ahead.
+end of description
+As the frames progress, the immediate foreground person moves out of view to the left, and the individual with luggage continues walking further down the promenade, receding into the distance, as the viewpoint subtly advances forward.
+frame_0000000256-frame_0000000384:
+A paved pathway, bathed in sunlight and dappled shadows, extends into the distance, bordered by a wooden fence to the left with a distant cityscape and a black metal fence to the right alongside a lush, treed park area. A person pushes a black wheeled bag away from the viewer on the path, while further ahead, other individuals walk or sit on benches near a trash can and lamppost on the right.
+end of description
+As the scene progresses, the camera slightly pans right and subtly zooms out, gradually revealing more of the treed area and a white building appearing on the far right, behind the metal fence. Concurrently, the person with the wheeled bag continues moving away from the viewer, further down the path.
+frame_0000000384-frame_0000000512:
+The first frame captures a sunlit outdoor path where a person in dark clothing, carrying a bag, walks away from the viewer in the foreground-left. To the right, a black metal fence, a lamppost, and a grey trash can line the path, backed by lush trees and several park benches, while a distant cityscape is visible on the horizon to the left.
+end of description
+Subsequently, the person continues walking forward along the path, receding from the viewer's immediate foreground-left to the distant-left, thereby revealing more of the path previously obscured. They then fully exit the frame, while all other static elements remain consistent relative to the initial viewpoint.

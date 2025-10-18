@@ -1,0 +1,10 @@
+frame_0000000000-frame_0000000128:
+A winding gravel path extends directly ahead into a mountain valley, flanked by vibrant green grass dotted with yellow wildflowers. To the left, a rugged, rocky mountain rises with patches of snow near its peak, while a verdant, less rocky mountain slopes upward to the right. A clear blue sky is visible above the distant peaks. On-screen overlays provide data: a vertical green bar indicating a gradient profile on the left, various metrics like pace and speed on the bottom right, and a horizontal route profile with current position markers near the bottom center.
+
+end of description
+
+The viewpoint moves steadily forward along the gravel path into the valley, revealing new sections of the path and surrounding grassy terrain directly in front of the viewer, while previously visible areas recede behind. The mountains and sky remain stationary relative to the initial frame's perspective, indicating a linear progression. On-screen data updates chronologically, with the distance counter advancing from 15.4 km to 15.5 km, the elapsed time increasing, and the gradient displaying a slight downward trend from -0.3% to -0.9%. The indicator on the route profile also progresses forward.
+frame_0000000128-frame_0000000256:
+The first frame displays a narrow gravel path extending from the viewer into a verdant valley, flanked by meadows speckled with yellow flowers, with a rocky, snow-dusted mountain range rising on the left and a steep grassy slope on the right, all under a clear blue sky, accompanied by overlaid digital metrics.
+end of description
+As the sequence progresses, the viewpoint moves forward along the path, causing the immediate sections of the path and the bordering flowery meadows to advance closer to the viewer and then recede behind, revealing new stretches of the valley that were initially further ahead. Concurrently, the digital overlay continuously updates, reflecting increases in elapsed time and elevation, and showing the path's gradient shifting from -0.9% to -1.8%.

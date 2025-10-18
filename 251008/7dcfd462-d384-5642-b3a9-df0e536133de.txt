@@ -1,0 +1,6 @@
+frame_0000000000-frame_0000000128:
+The first frame shows an aerial view of a dark brown river flowing diagonally from the upper right towards the lower left. Lush green jungle densely borders both banks, with more foliage visible on the left side extending from the top left. A small blue boat with a light roof is positioned in the middle of the river, moving towards the lower left, leaving a bright white wake trailing behind it, reflecting sunlight prominently.
+
+end of description
+
+The subsequent frames are identical to the first frame, showing no dynamic changes, movement, or newly revealed objects or scenes relative to the initial viewpoint. The boat, river, jungle, and sun reflection all remain static in their original positions.

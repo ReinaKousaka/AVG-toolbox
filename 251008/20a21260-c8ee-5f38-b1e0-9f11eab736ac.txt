@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a dirt path extending into a dense green forest, flanked by tall trees and lush ferns, with a wooden trail marker displaying blue signs prominently in the left foreground, all under sunlight filtering through the canopy.
+end of description
+As the viewpoint progresses through subsequent frames, the viewer moves forward along the path; the trail marker shifts left and partially exits the frame, while the surrounding foliage and ground textures become clearer. Additionally, a 'ProA Inc' watermark appears in the bottom left corner starting from the second frame.
+frame_0000000128-frame_0000000256:
+The first frame presents a dirt path leading from the foreground into the background, curving slightly to the right, surrounded by dense forest with prominent evergreen trees to the left and ferns covering the ground on both sides. Taller trees with varying foliage density extend into the mid-ground and background, partially obscuring the sky overhead.
+end of description
+Following frames show a slow, continuous forward movement along the path relative to the initial viewpoint, progressively revealing more of the trail ahead and deeper into the forest. As the camera advances, the surrounding trees and undergrowth on both sides subtly recede, maintaining their spatial relationship within the moving scene but showing slightly different angles and perspectives of the same forest environment.

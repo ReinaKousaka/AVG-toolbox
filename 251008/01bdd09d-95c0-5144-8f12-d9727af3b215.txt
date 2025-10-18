@@ -1,0 +1,17 @@
+frame_0000000000-frame_0000000128:
+A wide, snow-covered ski slope extends from the viewer into the distance. To the right, a wooden fence lines the piste, backed by a dense coniferous forest climbing a mountain. More snow and trees are to the left, with distant snow-capped mountains visible against a clear blue sky.
+end of description
+As the viewer moves forward, the wooden fence on the right recedes, and the snow bank on the left becomes more prominent. Shadows lengthen across the groomed piste, shifting as the viewer advances, revealing more of the path ahead.
+frame_0000000128-frame_0000000256:
+A groomed snowy path extends forward from the viewer, bordered by a snow-covered embankment with trees on the left and a dense line of coniferous trees on the right, where a wooden bench is visible in the lower right; snow-capped mountains rise in the background under a clear sky.
+end of description
+The viewpoint then moves steadily forward along the path, causing the initial foreground elements like the bench to quickly disappear behind the first-frame viewpoint. As the viewer progresses, the path ahead and the surrounding coniferous forest become closer and then recede, revealing more of the winding track and the distant snow-capped mountains further along the first-frame's trajectory.
+frame_0000000256-frame_0000000384:
+The first frame depicts a snow-covered path stretching forward, flanked by tall evergreen trees on both sides, with a significant snow bank and some bare branches on the left. In the distance, a majestic snow-capped mountain range stands under a clear blue sky, visible beyond the converging trees.
+
+end of description
+As the viewer progresses, the path's features, like the snow banks and trees, approach from ahead (relative to the first-frame viewpoint), move past the immediate foreground, and recede behind the viewer. The distant mountain range appears to draw closer, while the shadows on the snow actively shift and transform with the forward movement.
+frame_0000000384-frame_0000000512:
+The first frame depicts a wide, snow-covered path extending directly forward, framed by dense evergreen forests on both the left and right sides. To the immediate left, a snow-dusted earthy bank is visible, while snow-capped mountains rise in the distant background under a clear blue sky.
+end of description
+As the viewer progresses forward along the path, the earthy bank to the left gradually passes by, revealing more of its rocky and snowy terrain, and the dense trees on both sides appear to recede. The snow-covered trail ahead shows emerging tire tracks on its left side, indicating movement further into the mountain valley.

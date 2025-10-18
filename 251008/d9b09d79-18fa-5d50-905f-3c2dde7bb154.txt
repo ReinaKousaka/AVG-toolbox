@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame captures a snow-covered road curving right, flanked by a yellow house and a tall evergreen tree to the left, and a wooden fence along the right foreground. In the midground, more trees and a distant white house lead to snow-capped mountains and a forested peak in the background, all under a clear blue sky, with a digital overlay showing travel data at the top right.
+end of description
+As the frames progress, the viewpoint moves forward along the snowy road; the fence posts on the right approach and then recede, revealing more of the snow-covered field beyond. Concurrently, the viewer's shadow emerges on the snow to the right and dynamically progresses forward with the movement, while the road ahead continuously comes closer into view. The grade indicator also subtly shifts from -0% to -1% during this progression.
+frame_0000000128-frame_0000000256:
+The first frame captures a snow-covered road curving slightly ahead, bordered on the left by a large evergreen tree and a distant house, and on the right by a snow-covered bank with sparse bare trees and a small yellow post. Majestic snow-capped mountains loom in the background under a clear blue sky, with a data overlay at the top right.
+end of description
+As the scene progresses, the yellow post and a newly revealed green mailbox-like structure pass to the viewer's immediate right. Further along, a guardrail becomes visible on the right side of the road, and a new house emerges distinctly on the right slope. The foreground elements on both sides continuously shift and are passed as the viewer advances.

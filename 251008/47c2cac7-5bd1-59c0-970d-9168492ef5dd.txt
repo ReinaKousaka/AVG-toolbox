@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a dirt path extending away from the viewer into a dense, verdant forest. Lush green ferns and undergrowth densely populate the ground on both sides of the path, surrounding the viewer. Tall, moss-draped conifer trees rise high on either side, their branches forming a canopy overhead, with some leaning or fallen logs visible amidst the foliage to the left and right. The path recedes into the distant trees, where an overcast sky can be glimpsed through the canopy.
+end of description
+There are no dynamic changes or newly revealed objects or scenes in the subsequent frames; all frames are identical to the first, maintaining the same viewpoint and static scene.
+frame_0000000128-frame_0000000256:
+The first frame shows a narrow dirt path winding into a dense forest, flanked by lush green ferns along both sides and numerous tall, moss-covered trees overhead and receding into the background, with glimpses of the sky through the canopy.
+end of description
+As the frames progress, the viewpoint subtly moves forward along the path, causing the immediate foreground ferns and path to shift past and previously more distant sections of the forest to become closer and more detailed relative to the initial viewing position.

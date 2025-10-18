@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+A paved path recedes into a hazy, bright distance, flanked by rows of tall, slender trees with green foliage. Two grey stone blocks are present in the immediate foreground, one on the lower left and one on the lower right, bordering the path which appears wet from a light rain. The surrounding areas on both sides of the path are earthy and covered with sparse green undergrowth and trees.
+end of description
+The camera slowly elevates and subtly moves forward relative to the initial viewpoint. This causes the stone blocks in the first frame's foreground to move out of view downwards and reveals more of the path extending further into the distant haze. The consistent light rain and avenue of trees remain central, seen from a slightly higher and more advanced position.
+frame_0000000128-frame_0000000256:
+A straight, wet path extends into a bright, misty distance, bordered by rows of tall, dark-trunked trees with green foliage and undergrowth on both sides. The path consists of a central darker lane flanked by two wider, lighter-colored lanes.
+end of description
+Subsequent frames maintain this static viewpoint, dynamically revealing continuous, heavy rainfall as distinct streaks descending across the entire scene. The rain appears to fluctuate slightly in intensity, creating subtle variations in the visual density of the falling water, while no new objects or scenes are introduced.
+frame_0000000256-frame_0000000384:
+The first frame displays a wet, tree-lined path stretching into a bright, misty distance. The path consists of a central darker concrete section, bordered on its left and right by elevated brick walkways, with visible water accumulation in the gutters running alongside them.
+end of description
+In subsequent frames, the intensity of the rainfall increases, causing more visible ripples across the water covering the central path and forming more pronounced flow along the brick walkways. The water in the gutters, positioned to the left and right of the main path, flows more vigorously towards the misty background as a small leaf appears on the central path and moves slightly.

@@ -1,0 +1,14 @@
+frame_0000000000-frame_0000000128:
+In the first frame, the rear of a white car is prominent in the immediate left foreground, parked on the left side of a paved path. To the left of this path, a road curves into the distance, with a white car parked mid-ground facing the viewer, and another car visible further ahead. To the right, a mossy stone wall runs parallel to the path, behind which bare trees, houses, and distant hills are visible under a partly cloudy sky.
+
+end of description
+
+As the viewpoint progresses forward, the foreground white car moves out of frame to the left. The white car initially parked on the road to the left remains stationary, while another white car travels past it towards the viewer and then exits the frame to the left. More of the mossy stone wall, the grassy area with gravestones to the right, and additional houses further along the road are progressively revealed.
+frame_0000000128-frame_0000000256:
+The first frame depicts a paved road curving left, with a white car parked on its left side, partially on a narrow sidewalk. To the right, a moss-covered stone wall runs parallel to a row of tall, bare trees, beyond which several houses and a grassy area with gravestones are visible, all set against distant hills under a partly cloudy sky.
+end of description
+As the frames progress, the viewpoint moves forward along the road, while the white car remains stationary on the left. A dark-colored car, initially mostly obscured, progressively becomes more visible, parked directly behind the white car on the left side of the frame. The overall scene shifts to reveal more of the background houses and the graveyard to the right as the viewer advances.
+frame_0000000256-frame_0000000384:
+In the first frame, a white Skoda car is parked on the left foreground of a paved path, with a darker car visible behind it. To the right, a moss-covered stone wall runs parallel, bordering a grassy area with several leafless trees and gravestones, leading to stone houses and distant tree-covered hills in the background under a cloudy sky.
+end of description
+As the frames progress, the viewpoint moves forward along the path. The cars on the left recede out of view behind and to the left of the initial viewpoint, while new sections of the stone wall, grassy area, and houses appear ahead on the path.

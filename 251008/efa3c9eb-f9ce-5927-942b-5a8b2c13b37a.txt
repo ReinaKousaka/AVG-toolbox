@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+A dirt path stretches from the bottom center, leading to a small group of hikers walking away from the viewer in the midground, with two prominent figures closer to the viewer. The path is bordered by green, grassy slopes with sparse rocks and bushes, rising on the left and descending on the right. In the far background, towering jagged mountain peaks are visible beneath a clear blue sky, with a line of dark green trees positioned below the right side of the mountains.
+end of description
+As the frames progress, the viewpoint slowly advances along the path, maintaining the first-frame's perspective. The hikers continue to move further away from the original first-frame viewpoint, and the path initially in the foreground gradually moves behind the first-frame's initial position, while the distant mountains appear slightly closer.
+frame_0000000128-frame_0000000256:
+The first frame displays a dirt path extending from the viewer into the middle distance, flanked by grassy, rocky slopes. Four hikers with backpacks are visible walking away from the viewer along this path. In the background, majestic, jagged mountain peaks dominate under a bright blue sky with a few wispy clouds, while a line of evergreen trees appears along the right slope.
+end of description
+Subsequently, the four hikers continue walking along the path, steadily receding further into the mid-distance from the first-frame viewpoint. They appear slightly smaller as they move away. The mountainous landscape and surrounding slopes remain fixed relative to the viewer, with only very subtle, minor shifts in the sparse clouds discernible in the sky.

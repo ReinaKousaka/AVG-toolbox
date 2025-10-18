@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a mountain village scene with a paved road curving through the foreground, leading to a prominent two-story wooden chalet with red window shutters and a dark red-leafed tree centrally positioned. A smaller wooden chalet with balconies is uphill to the right, a plain street lamp post stands on the far left, and a forested mountain range forms the background.
+end of description
+As the frames progress, two road signs—a '30 km/h' speed limit and a 'no parking' sign—become visible attached to the street lamp post on the far left from the initial viewpoint. Simultaneously, the viewer's perspective subtly shifts to the left, revealing a stack of gray rectangular stones in the extreme left foreground. Concurrently, the green bin on the far right slowly moves out of view relative to its first-frame position.

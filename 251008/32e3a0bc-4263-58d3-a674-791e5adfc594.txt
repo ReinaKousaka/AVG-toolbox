@@ -1,0 +1,14 @@
+frame_0000000000-frame_0000000128:
+The first frame captures a bustling city street at night, adorned with a canopy of sparkling string lights stretching into the distant background. Tall buildings housing shops, notably one on the right, line both sides, while a clock and a 'Hard Rock' sign are visible on a pole to the viewer's upper left, with many pedestrians moving in various directions across the street.
+
+end of description
+
+As the viewpoint subtly advances, more of the illuminated street and receding buildings further ahead become visible. Pedestrians continuously shift positions, with individuals closer to the viewer moving past and new people emerging from the background and sides into the foreground. The 'Hard Rock' sign and clock on the viewer's left gradually recede and eventually move out of frame as the progression continues.
+frame_0000000128-frame_0000000256:
+The first frame shows a bustling city street at night, adorned with a luminous canopy of yellow string lights and ornate structures overhead, extending into the distance. Tall, ornate buildings with classical facades line the left, while modern storefronts with an awning occupy the right. A dense crowd of pedestrians fills the street and sidewalks, mostly moving away from the viewer, with a white taxi partially visible to the mid-left.
+end of description
+As frames progress, the viewer slowly moves forward down the street, amidst the continuously flowing crowd of pedestrians. The static buildings and overhead lights gradually reveal more of the street ahead, with individuals constantly entering and exiting the scene around the viewer's advancing position.
+frame_0000000256-frame_0000000384:
+The first frame presents a bustling city street at night, illuminated by numerous overhead string lights forming a sparkling canopy, with more elaborate arched light structures suspended prominently above the center. Buildings line both sides of the street; on the left, a grand cream-colored classical building stands, while on the right, multi-story commercial buildings with awnings and shops, one marked "Piazza," are visible. Numerous pedestrians, many wearing masks, fill the street in the mid-ground and foreground, moving in various directions, with a white car partially visible on the far left.
+end of description
+As the frames progress, pedestrians continually move and shift positions across the street; some figures previously in the mid-ground move further away, while new individuals emerge into the foreground from the bottom and sides of the frame. The white car on the far left slowly advances forward, remaining on the left side of the street relative to the first-frame viewpoint.

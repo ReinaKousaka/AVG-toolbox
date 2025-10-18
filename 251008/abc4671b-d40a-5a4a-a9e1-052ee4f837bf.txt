@@ -1,0 +1,14 @@
+frame_0000000000-frame_0000000128:
+A dirt path leads from the viewer's foreground, ascending towards a prominent evergreen tree centered on a distant crest. The path is flanked by green grass and tall dry brown grass or bushes on both sides. Several bare trees stand to the viewer's left and right, with gnarled branches reaching into the top of the frame and a thick tree trunk partially visible on the far right. Above the crest and through the upper branches, a blue sky with white clouds is visible.
+end of description
+From the second frame, the viewpoint subtly advances forward along the path, causing the foreground vegetation and the path itself to shift slightly, appearing closer. The bare trees on both sides, particularly the gnarled one on the far right, become more prominent in the frame as the camera progresses. The large evergreen tree at the crest of the hill also appears to slightly increase in size, consistent with the subtle forward motion of the viewer without introducing any new elements to the scene.
+frame_0000000128-frame_0000000256:
+A dirt path stretches from the foreground towards the center-midground, gently ascending. Dry, light brown grasses and patches of green line both sides of the path, extending into the midground. Dominating the center-midground, at the top of the rise, is a large, dark green evergreen tree. To its left and right, further back, are large, bare-branched deciduous trees, with some green foliage visible on the far left and upper right. Above, a bright blue sky with white clouds fills the background.
+
+end of description
+
+No dynamic changes or newly revealed objects occur in the subsequent frames; the scene remains entirely static, maintaining the initial spatial positions of all elements.
+frame_0000000256-frame_0000000384:
+A dirt path leads uphill from the foreground into the middle distance, flanked by green grass. On the left, tall dry grass and a large, bare deciduous tree are visible, while similar bare trees and fallen logs appear on the right. A prominent, dense evergreen tree stands on a grassy rise in the middle distance, under a blue sky with scattered white clouds.
+end of description
+There are no dynamic changes or newly revealed objects in the subsequent frames, as all frames are identical to the first.

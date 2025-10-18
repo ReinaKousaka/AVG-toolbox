@@ -1,0 +1,30 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a street scene dominated by a large, ornate stone building on the left, featuring an Apple store at its illuminated ground floor corner, while a street with a zebra crossing and tram tracks stretches into the right midground. Overhead power lines crisscross a cloudy, twilight sky, under which a distant tram, cars, and a few people are visible.
+end of description
+The tram and a car in the right midground slowly advance further down the street away from the viewer. Concurrently, a person pushing a stroller becomes more prominent and moves further left on the sidewalk in the left foreground.
+frame_0000000128-frame_0000000256:
+In the first frame, a large, ornate building with multiple floors and a curved corner dominates the left side, featuring an illuminated Apple logo on its ground floor. A crosswalk is visible in the bottom-left foreground, leading towards a street extending away from the viewer into the mid-ground. On the right side of the street, tram tracks run parallel to the viewer, with a blue and white tram stationary further down. Overhead wires crisscross the sky, which is filled with altocumulus clouds displaying hues of purple and orange, suggesting dusk.
+end of description
+Throughout the subsequent frames, a car with illuminated headlights proceeds slowly down the street, moving further away from the viewer. Simultaneously, a cyclist on the sidewalk to the left of the viewer also advances forward, gradually moving out of the frame.
+frame_0000000256-frame_0000000384:
+The first frame shows a city street scene at dusk or dawn. To the viewer's left, a large, ornate stone building with an illuminated Apple Store on its ground floor corner and lit windows on upper stories dominates, with parked bicycles along its sidewalk. In the center, a street intersection displays pedestrian crossings, tram tracks, and a stationary blue and white tram on the right. A car with headlights on drives away further down the street, while utility poles and overhead wires crisscross the cloudy sky, which features faint pink and orange hues near the horizon where more distant buildings and bare trees are visible.
+
+end of description
+
+The blue and white tram on the right side of the street begins to move forward, away from the viewer, steadily progressing through the subsequent frames. Simultaneously, the car in the middle distance continues its movement further down the street, receding from the viewpoint. A small, dark object, possibly a bird, appears flying from left to right across the sky in the upper center of the frame. Additionally, a subtle shift in the camera's view slightly expands the scene to the right, making a portion of a distant clock tower on the far right more prominent in the background.
+frame_0000000384-frame_0000000512:
+In the first frame, a wide street scene unfolds under a cloudy, twilight sky. To the left, a large stone building with an Apple store on its ground floor curves into the midground, fronted by a crosswalk. Numerous overhead wires crisscross the sky, with a street lamp hanging prominently in the upper left. To the right, tram tracks lead into the distance, with a partially visible blue and white tram parked and a traffic light pole in the midground. A car with headlights on travels down the street in the center, and a clock tower is visible on the far right horizon.
+end of description
+A new blue street sign appears on the left sidewalk closer to the viewer. The car in the midground slowly proceeds forward, and the blue and white tram on the right also begins to move, shifting slightly forward along the tracks.
+frame_0000000512-frame_0000000640:
+The first frame presents an urban intersection under a cloudy, purplish-gray sky. A large, multi-story building with lighted windows lines the left side, featuring parked bicycles along its base in the mid-ground. To the right, a blue and white tram is stationary on tracks, behind which an ornate building with a prominent clock tower is visible. In the distant center, a white car with illuminated headlights proceeds toward the viewer on the street, which is crisscrossed by tram lines and numerous overhead wires.
+end of description
+The white car in the distance slowly approaches the viewer throughout the sequence. From the third frame onwards, a new white van with red and white markings enters the scene from the far right foreground, steadily moving closer to the viewer and across the right side of the frame.
+frame_0000000640-frame_0000000768:
+In the first frame, a wide street with tram tracks extends into the distance under an overcast sky, flanked by buildings. To the viewer's right, the front portion of a white van with red and white stripes is visible, while a tall, multi-story building lines the left and an ornate, reddish-brown building with a clock tower stands in the mid-right background, with a blue and white tram stationary to the right of the street.
+end of description
+The white van, initially positioned to the viewer's right, moves forward across the scene, progressively revealing its side. As it passes its initial first-frame position, the text 'Gemeente Amsterdam' with the city's XXX logo becomes visible on its panel, further exposing the stationary blue and white tram to its left and more of the ornate building in the far right background.
+frame_0000000768-frame_0000000896:
+The first frame features a white "Gemeente Amsterdam" van, marked with red X's, largely filling the left and center foreground, moving right, with a driver in an orange vest visible inside. Behind it, to the right, an ornate building with a clock tower and a blue tram are visible in the midground, all beneath a cloudy sky crisscrossed by overhead wires.
+end of description
+The van progressively moves out of the frame to the right, revealing more of the street and tram tracks that were previously obscured behind it. As the van exits, a black and white striped traffic light becomes fully visible in the mid-left foreground, and additional vehicles appear further down the street to the left.

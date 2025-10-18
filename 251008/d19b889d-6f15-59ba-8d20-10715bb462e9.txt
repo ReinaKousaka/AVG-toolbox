@@ -1,0 +1,30 @@
+frame_0000000000-frame_0000000128:
+A paved stone walkway extends from the foreground into the distance, with a wooden railing and water visible to the left. To the right of the walkway, large rocks and tall grasses with autumn foliage are present. A woman in a striped shirt, jeans, and a cap walks towards the viewer on the central walkway, while another person in a light coat stands by the railing to her left. In the mid-distance, more pedestrians and streetlights line the path. The background features buildings and trees with vibrant autumn colors under a clear blue sky.
+end of description
+The woman in the striped shirt walks past the viewer, moving towards the immediate left of the frame. Simultaneously, the person in the light-colored coat progresses along the wooden railing, shifting further left from their initial position. Distant pedestrians on the walkway continue to move away from the viewer, receding into the background.
+frame_0000000128-frame_0000000256:
+The first frame captures a sunny promenade with a person in a light hooded jacket walking away from the viewer along a wooden railing to the left, which borders a body of water. A paved path extends into the distance, lined with lamp posts and people walking, while a rocky, grassy bank with autumn foliage parallels the path to the right, leading towards multi-story buildings in the background.
+
+end of description
+
+The person on the left moves progressively further away from the viewer along the promenade, eventually disappearing off-screen to the left. Concurrently, other pedestrians further down the path continue walking away from the first-frame viewpoint, and the shadows on the ground subtly shift.
+frame_0000000256-frame_0000000384:
+The first frame displays a paved waterfront promenade with a wooden railing and water to the viewer's left, and autumn foliage, rocks, and a person walking away on the path to the right, all under a clear blue sky with distant buildings.
+end of description
+Throughout the subsequent frames, the person continues walking further away from the first-frame viewpoint down the promenade. The camera maintains a similar perspective, showing the individual progressing further into the scene relative to the stationary lampposts and buildings ahead.
+frame_0000000384-frame_0000000512:
+A paved path extends towards the viewer, flanked on the left by a wooden fence next to water with wooden pilings, beyond which a building and green trees are visible. To the right, large rocks and golden-brown ornamental grasses line the path, while a person in a black cap, light jacket, and dark pants walks centrally towards the viewer. Several lampposts with blue lanterns are spaced along the left side of the path, with vibrant autumn trees present in the background to the right.
+end of description
+The person continues walking directly towards the viewer along the paved path, gradually coming closer to the foreground. Beginning in the fourth frame, the text "SOUTH COVE PARK" is newly revealed at the bottom left foreground of the scene. As the person approaches, they reveal a phone held in their right hand in the mid-ground.
+frame_0000000512-frame_0000000640:
+A man in a grey jacket and a Yankees cap walks on a paved path towards the viewer, slightly right of center, holding a phone. To his left, a wooden fenced walkway borders a body of water with dock posts, beyond which stand green trees and a large brick building in the background. To his right, an elevated area features rocks and vibrant autumn foliage in shades of orange and yellow.
+end of description
+Over the subsequent frames, the man walks forward and out of the frame to the right, revealing more of the paved path behind him. The viewpoint slightly shifts, following the path deeper into the park where other distant pedestrians are visible along the waterfront.
+frame_0000000640-frame_0000000768:
+The first frame presents a sunny park scene with a paved path extending from the foreground right towards the background, bordered on the right by large rocks and vibrant autumn foliage, and on the left by a wooden railing and water with pilings, all relative to the viewer. A large brick building is visible in the background, behind a line of trees showcasing both green and brilliant autumnal leaves. A person walks away from the viewer along the paved path in the midground, past a series of lampposts, with another person seated further down the path.
+end of description
+Chronologically, the individual walking on the path moves continuously further away from the first-frame viewpoint, heading deeper into the background along the paved walkway.
+frame_0000000768-frame_0000000896:
+The first frame shows "SOUTH COVE PARK" with a wooden boardwalk and water extending along the left, leading towards distant buildings. A paved path, marked by sunlight and shadows, runs along the mid-right, alongside a park area with vibrant autumn trees and large rocks on the far right. A person is visible walking on this path towards the viewer, with urban buildings visible in the background under a clear sky.
+end of description
+As the frames progress, the person on the paved path steadily walks closer to the viewer, moving from the mid-ground to the foreground-mid-ground. All other environmental elements, including the buildings, trees, and waterfront structures, remain stationary in their original spatial positions relative to the first-frame viewpoint.

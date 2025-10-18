@@ -1,0 +1,29 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a sandy beach extending from the lower right towards the upper right, meeting the ocean water on the left, where small waves break with white foam. Distant buildings and a treeline line the far coastline to the left, and several figures walk on the beach in the upper right background.
+end of description
+In subsequent frames, the ocean waves continually roll onto the shore from the left and recede, causing the foamy waterline and wet sand area to dynamically shift, while the distant figures on the upper right beach slowly move further along the shoreline.
+frame_0000000128-frame_0000000256:
+The first frame displays a beach with ocean waves breaking on the left, dark wet sand in the center, and lighter dry sand with footprints on the right. In the distance, a city skyline with buildings and trees stretches across the far shore, with mountains visible behind them to the left. Two small figures are walking along the distant beach towards the far right.
+end of description
+The waves continuously advance and recede along the waterline from the left foreground. Simultaneously, the two figures on the distant beach in the midground progressively move further away from the viewer along the shore.
+frame_0000000256-frame_0000000384:
+The first frame shows a sandy beach extending from the lower right towards the upper right, meeting the ocean on the left. Ocean waves with white foam break along the shoreline, closest to the viewer on the left. In the midground, a city skyline with numerous buildings and trees lines the far side of the beach and water, backed by distant mountains under a clear sky. A few people are walking on the beach in the midground, moving away from the viewer towards the upper right.
+end of description
+In the following frames, the primary dynamic change is the continuous motion of the ocean waves, which repeatedly roll in from the left, break on the sand, and recede. The people on the beach continue walking further into the distance on the right, maintaining their relative positions as the only other noticeable movement in the scene.
+frame_0000000384-frame_0000000512:
+The first frame displays a wide coastal scene with choppy blue ocean water and white-capped waves breaking along the left side, meeting a sandy beach on the right. In the mid-ground, several people walk along the beach, with a prominent individual situated slightly to the right of the frame's center. Along the distant horizon, a line of mountains rises to the far left, behind a row of trees and a city skyline featuring numerous tall buildings.
+end of description
+In the following frames, the waves dynamically break and recede along the shore, moving horizontally across the frame from left to right. Simultaneously, the individuals on the beach continue walking, moving progressively further to the right and slightly away from the viewer relative to their initial positions. The overall perspective and background elements remain constant, with no new scenes or objects revealed beyond the initial view.
+frame_0000000512-frame_0000000640:
+The first frame presents a wide shot of a beach with blue ocean water and white breaking waves occupying the left half of the foreground and midground, meeting a wide expanse of golden sand on the right. Several people are seen walking along the sandy shoreline in the midground, with a city skyline featuring various buildings and a line of trees visible behind the beach, and distant mountains beneath a clear blue sky in the far background.
+
+end of description
+In the following frames, the ocean waves in the foreground continuously break and recede onto the sandy shore. Simultaneously, the figures walking along the beach in the midground move gradually towards the viewer's right, with the closest person advancing further along the beach. The city skyline, trees, and mountains in the background remain stationary.
+frame_0000000640-frame_0000000768:
+The first frame depicts a beach with the ocean occupying the left, where waves crash onto the sandy shore that stretches to the right. In the mid-ground, a person walks barefoot at the water's edge, moving away from the viewer towards the left, with a city skyline and bare trees lining the background from center to right, and distant mountains on the far left under a clear blue sky.
+end of description
+Throughout the subsequent frames, the waves on the left continuously break and recede along the shoreline, while the person in the mid-ground walks further away from the viewer along the beach.
+frame_0000000768-frame_0000000896:
+The first frame shows a sandy beach with ocean waves breaking on the left in the foreground, leading to a wet shoreline where a person walks barefoot away from the viewer in the midground. Behind the beach, a cityscape featuring multiple tall buildings, including a prominent green one and several white/beige structures, stretches across the horizon, with distant mountains visible further left in the background under a clear sky.
+end of description
+In the following frames, the person in the midground continues walking along the wet sand, moving further into the scene and slightly towards the right. Simultaneously, the ocean waves on the left constantly crash and recede, altering the patterns of foam and wetness on the shoreline. Other distant figures on the beach in the background remain largely stationary, with no new objects or scenes revealed as the overall viewpoint remains unchanged.

@@ -1,0 +1,33 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a train track curving left into the distance, running alongside a stone wall on the left. A concrete overhang forms a roof above, supported by vertical pillars on the right, beyond which a steep hillside with a large, bare-branched tree leads to snow-capped mountains and a blue sky in the far right background.
+end of description
+As the viewpoint moves forward, the stone wall to the left and the concrete pillars to the right recede and pass by, with the initial tree on the far right gradually moving out of sight. The open valley and distant snow-capped mountains on the right become increasingly prominent as new pillars appear and also recede into the distance.
+frame_0000000128-frame_0000000256:
+The viewer is positioned on a train track curving gently to the left, inside a partial concrete and stone tunnel. To the left, a rough stone wall extends into the distance, paralleling the tracks, while a concrete roof covers the overhead space. To the viewer's right, the structure opens to a steep, rocky hillside sparsely covered with brown vegetation, framed by a prominent concrete pillar in the foreground. Beyond this opening, majestic snow-capped mountains are visible in the distance under a clear blue sky.
+
+end of description
+
+As the viewpoint progresses forward along the track, the concrete pillars on the right-side opening move past, revealing more of the continuously changing hillside and distant mountain range. Sparse, bare trees on the right come into closer view and then recede as the train advances. The overall scene of the track within the partial tunnel, flanked by the open mountainous landscape, steadily shifts in perspective, maintaining the snow-capped mountains to the right and forward in the distance.
+frame_0000000256-frame_0000000384:
+The first frame shows a view from inside a railway snow gallery, looking forward along tracks that curve slightly left. To the viewer's left is a long stone wall, while a concrete roof supported by pillars covers the tracks, opening to a steep forested hillside, distant snow-capped mountains, and scattered buildings on the right.
+end of description
+As the scene progresses, the camera moves forward; the stone wall and concrete pillars on the right recede behind, revealing new sections of the curved gallery and external hillside previously ahead of the first-frame viewpoint. A power line structure emerges overhead along the left wall further ahead, and a white distance marker on the left stone wall, initially beyond the visible range of the first frame, comes into view and moves towards the viewer.
+frame_0000000384-frame_0000000512:
+The first frame shows the viewer on train tracks inside an open-sided tunnel structure. To the left, a stone wall marked with "28" and "3_0" parallels the curving tracks, leading towards a small dark tunnel entrance visible in the distant center. Above, a concrete ceiling with overhead wires is supported by concrete pillars on the right, beyond which a steep, wooded hillside and snow-capped mountains are visible under a clear sky.
+
+end of description
+
+As the viewpoint progresses forward along the tracks, the stone wall and supporting pillars on the sides recede, and the "28" and "3_0" markings on the left wall move out of view. The small tunnel entrance, initially in the distant center, grows larger and closer ahead of the viewer, becoming more prominent as the train approaches it.
+frame_0000000512-frame_0000000640:
+The first frame displays train tracks laid on gravel, extending straight ahead into a distant dark tunnel. To the viewer's left, a stone wall runs parallel to the tracks, while to the right, concrete pillars support an overhead concrete roof. Beyond the pillars, a snowy mountain range and valley with sparse trees are visible.
+end of description
+As the frames progress, the viewpoint moves forward along the tracks. The stone wall on the left and the concrete pillars on the right recede behind the viewer, while the tunnel entrance, initially ahead in the distance, becomes progressively closer. The scenery to the right, beyond the pillars, continuously reveals more of the snow-capped mountain range and valley floor.
+frame_0000000640-frame_0000000768:
+The first frame shows a viewer's perspective from inside a covered railway gallery. To the left, a textured stone wall recedes into the distance, forming one side of the structure. Overhead, a concrete ceiling extends forward. To the right, the gallery is open, revealing several concrete pillars supporting the ceiling, beyond which a vast snowy mountainous landscape with sparse trees and a valley is visible under a clear blue sky. The railway tracks, set in gravel, run centrally into the distance, slightly curving left towards an illuminated opening at the far end of the gallery.
+
+end of description
+The viewpoint advances steadily along the railway tracks. As the initial concrete pillars on the right recede from view, subsequent pillars and structural elements become visible along the open right side of the gallery. Further ahead, beyond the initial visible sections, a long wooden fence-like structure and then extensive scaffolding gradually appear, running parallel to the tracks on the right. The snow-covered mountain panorama to the right continuously reveals new sections as the viewpoint progresses forward from its initial position.
+frame_0000000768-frame_0000000896:
+The first frame captures a train track leading into a gallery, flanked by a stone wall on the left and a concrete ceiling overhead. To the right, an open section reveals a distant snowy mountain landscape, evergreen trees, and scaffolding, all framed by a visible concrete pillar.
+end of description
+As the viewpoint progresses forward along the tracks, the initial scaffolding and open section on the right move increasingly behind the viewer. New opaque panels emerge on the right side, forming a continuous barrier that gradually obscures the underlying structure, while the distant mountains remain visible beyond the gallery.

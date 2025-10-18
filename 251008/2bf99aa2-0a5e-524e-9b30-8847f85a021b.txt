@@ -1,0 +1,24 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a winding paved path, made of rectangular stones, extending away from the viewer towards the center-right amidst a dense forest. To the viewer's right is a steep, vegetation-covered embankment, while to the left, a slope descends into a thick canopy of trees, under an overcast sky.
+end of description
+As the frames progress, a person wearing dark clothing and carrying a backpack gradually becomes visible in the distant background, walking along the path towards the viewer. This person steadily approaches, moving from the far distance down the path directly towards the first-frame viewpoint.
+frame_0000000128-frame_0000000256:
+The first frame displays a stone path leading away from the viewer into a dense, forested landscape. To the viewer's right, a stone retaining wall covered in green and brown foliage runs alongside the path, and a steep, wooded hillside rises behind it. To the left, lush trees and undergrowth dominate the scene, with some bare branches visible against an overcast sky. A person in dark clothing walks along the path, moving away from the viewer and further into the midground.
+end of description
+In the following frames, the person continues to walk further away from the viewer along the stone path, progressing deeper into the forested area ahead. Their position shifts further into the midground relative to the initial viewpoint, gradually appearing smaller as they recede.
+frame_0000000256-frame_0000000384:
+A stone-paved path slopes upwards and slightly right towards the viewer, bordered on the right by a low stone retaining wall and on the left by a densely vegetated, downward-sloping hillside. In the mid-ground, a person wearing a dark coat and light pants walks uphill on the path, directly approaching the viewer. Tall, green trees line both sides of the path, receding into the background beneath an overcast sky.
+end of description
+The person continues walking towards the viewer on the path, moving from the mid-ground into the immediate foreground. They then pass to the viewer's right, continuing their journey along the path. As they progress, new segments of the stone path, the retaining wall, and the forest on both sides are continuously revealed further ahead. The person eventually appears ahead and to the right of the viewer's initial position, walking further up the path.
+frame_0000000384-frame_0000000512:
+An elderly man wearing a dark coat and light pants, holding a walking stick, is walking towards the viewer on a stone-paved path that stretches from the bottom center into the distance, slightly curving left. To the viewer's right, a stone retaining wall rises, topped with dense vegetation and trees forming a steep slope. On the left, a downward sloping, forested area with numerous trees and undergrowth parallels the path, with an overcast sky visible overhead.
+end of description
+The man continues walking towards the viewer on the path. He then passes to the viewer's immediate left, his face eventually turning towards the left, before exiting the frame completely from the foreground. As he moves past, the section of the paved path directly in front of the viewer, previously occupied by the man, becomes fully visible, while the surrounding forested landscape and retaining wall remain consistently positioned.
+frame_0000000512-frame_0000000640:
+The first frame presents a stone-paved path ascending into a dense forest, with a leafy slope and a large reddish-brown rock situated to the viewer's left, while a stone wall covered in lush green plants lines the path to the right. Tall evergreen trees dominate the background, and several blurred figures are visible walking down the path in the distance, heading towards the viewer.
+end of description
+Maintaining a fixed viewpoint, these figures progressively clarify and move closer, descending the path towards the viewer through subsequent frames. A "WALK CHINA" watermark also emerges in the bottom left corner as the figures approach the midground of the original scene.
+frame_0000000640-frame_0000000768:
+In the first frame, a stone-paved path ascends from the bottom-center towards the distant background. To the viewer's left, a steep, vegetated slope covered in green and brown foliage runs parallel to the path, extending into the midground. To the right, a low stone wall, also covered in plants, parallels the path and rises slightly. Farther up the path in the background, two individuals are visible walking towards the viewer, appearing small due to the distance, framed by dense trees on either side and overhead.
+end of description
+As the frames progress, the two individuals on the path move dynamically closer to the viewer. They grow larger in the frame, gradually descending the path from the distant background towards the viewer's current position.

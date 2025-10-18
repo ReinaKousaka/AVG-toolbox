@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+First, a verdant rainforest waterfall cascades into a tranquil pool, positioned slightly right of center in front of the viewer, surrounded by dense green foliage filling the entire frame. The viewer's elevated perspective looks down into the thick canopy encompassing the waterfall and its basin.
+end of description
+Subsequent frames show the camera gradually pulling back and ascending, revealing more of the area below and to the right of the initial waterfall view. A dirt path emerges to the lower right of the waterfall's pool, and several people become visible on it, positioned further away and to the right. Additionally, a small red-roofed structure appears further to the right, beyond the path.
+frame_0000000128-frame_0000000256:
+A wide, elevated view shows a lush, green tropical forest featuring a prominent waterfall cascading into a pool in the middle-distance, surrounded by dense, vibrant foliage. Below the waterfall and pool, to the right, several small human figures are visible on a wooden platform beside a muddy path.
+end of description
+All subsequent frames are identical to the first, displaying no dynamic changes or newly revealed objects or scenes relative to the initial viewpoint.
+frame_0000000256-frame_0000000384:
+The first frame presents an aerial view of a vibrant green jungle, with a waterfall centrally positioned, plunging into a visible pool feeding a river that flows towards the bottom right. A small wooden bridge with several people crosses the river in the lower right foreground, surrounded by dense foliage extending to the distant tree-covered hills.
+end of description
+Subsequently, the viewpoint subtly pulls back, revealing more of the encompassing forest landscape to the upper left and right of the initial scene. A reddish-brown path or clearing becomes more apparent in the upper-left quadrant as the camera's field of view slightly expands.

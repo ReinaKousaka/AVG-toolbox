@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame captures a dark, rain-soaked city street at night, with glistening wet asphalt reflecting light. A dark car is parked in the foreground-left, and a silver car in the foreground-right; buildings, trees, and other cars with illuminated headlights line the street into the midground and background.
+end of description
+As heavy rain persists, a car with intensifying headlights approaches from the midground-left, creating significant water splashes. Simultaneously, a person walks along the right-side sidewalk, moving further into the background, away from the viewer.
+frame_0000000128-frame_0000000256:
+The first frame depicts a rainy night on a street, with a wet asphalt road reflecting light in the foreground. In the mid-ground, a car's bright headlights face the viewer, illuminating the rain-streaked air, while the background reveals dark buildings with some illuminated windows, trees, and distant streetlights under a dark sky.
+end of description
+As frames progress, the intensity and visibility of the falling rain increase across the foreground. The car's headlights in the mid-ground grow significantly brighter, creating stronger lens flares that spread across the scene. A red traffic cone becomes distinctly visible to the left of the car's headlights, and a larger vehicle with its own lights subtly emerges further behind the main car in the mid-ground towards the background.
+frame_0000000256-frame_0000000384:
+The first frame captures a rainy night on a street, with visible rain streaks across the image. To the far left in the foreground stands a dark pole with an orange and white reflective barrier, beside which orange traffic cones are positioned on the wet, reflective road. Two vehicles with intensely bright headlights approach from the midground center-right, casting strong reflections on the wet pavement that also shows various colored light reflections from illuminated buildings and trees in the dark background.
+end of description
+The lead vehicle, initially approaching from the mid-right, moves past the viewer towards the left, revealing a second, dark-colored car following closely behind it. As the second car also passes from the mid-right to the mid-left of the original viewpoint, more of the street and background become visible. A light-colored parked car is then fully revealed on the far right side of the street in the background, along with additional details of the previously obscured distant illuminated buildings and trees.

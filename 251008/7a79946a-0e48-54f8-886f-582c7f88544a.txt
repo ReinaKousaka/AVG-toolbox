@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a river flowing from left to right, with a large stone bridge arch visible on the near-left, extending towards the viewer. Along the far bank, a picturesque row of colorful, half-timbered buildings is seen, including a multi-story restaurant structure extending over the water, all beneath a partly cloudy sky.
+end of description
+Throughout the subsequent frames, subtle ripples and currents dynamically move across the river's surface, reflecting the sky. The camera largely maintains its initial static viewpoint, revealing no new objects or significant changes in the overall scene.
+frame_0000000128-frame_0000000256:
+The first frame displays a picturesque river scene with a large, moss-covered stone bridge support in the foreground left, extending partially across the top left. Along the opposite bank, a series of colorful half-timbered buildings, including a prominent restaurant built on stilts over the water to the left and a smaller wooden gazebo further to the right, stretch from the midground to the background under a cloudy sky.
+end of description
+Throughout the subsequent frames, the river's surface dynamically ripples and flows from the foreground towards the background, creating visible waves across the entire body of water relative to the stationary first-frame viewpoint.

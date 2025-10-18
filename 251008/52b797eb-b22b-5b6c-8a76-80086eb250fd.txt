@@ -1,0 +1,28 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a traditional courtyard featuring a tall, grey brick building on the left and a dark-roofed structure with red-framed windows on the right. Centrally in the midground, a tree stands before a white wall with a dark brick base and tiled top, which has an arched gateway to its right revealing a garden path beyond. A red fire extinguisher box is positioned on the paved ground in the left-midground, and a stone bench rests to the right of the tree, in front of the white wall.
+end of description
+There are no dynamic changes or newly revealed objects or scenes in the subsequent frames; the viewpoint and all visible elements remain static throughout.
+frame_0000000128-frame_0000000256:
+The first frame depicts a traditional courtyard setting. In the foreground, paved ground covers the area, with a red double trash can recessed to the left and a light-colored stone bench positioned centrally. A prominent tree with sparse green leaves stands behind the bench, its trunk against a low white wall with a dark brick base and tiled top, which spans the mid-ground. An arched gateway, framed by dark brick and topped with tiles, is visible to the right of the tree, offering a view into an outdoor area beyond. A tall grey brick building wall rises on the left, while a dark-timbered traditional building with red accents and a tiled roof occupies the right side of the frame.
+end of description
+In subsequent frames, a person gradually becomes visible walking through the arched gateway, approaching from the distant area beyond it. The individual, wearing light-colored clothing, moves closer to the viewer's position, becoming more defined in the later frames.
+frame_0000000256-frame_0000000384:
+In the first frame, a paved pathway extends from the foreground towards a brick gateway in the mid-ground. To the left, a red recycling bin is near the viewer, next to a light grey stone bench, and further back, a tree with green leaves partially obscures a white wall with a dark brick base. This wall connects to the grey brick gateway, through which a person in a blue top and orange hat is visible, walking deeper into the scene. To the right, a building with red-framed windows and an ornate dark roof is prominent, with a broom leaning against it.
+end of description
+As the frames progress, the camera remains static. The person visible through the gateway continues walking deeper into the scene, away from the first-frame viewpoint, progressively appearing smaller as they recede further into the background. No new objects or scenes are revealed; only the person's movement is dynamic.
+frame_0000000384-frame_0000000512:
+The first frame presents a traditional Chinese courtyard with a brick archway centrally positioned, leading to an outer garden. To the left is a white wall with a tiled roof and a tree trunk, while a darker brick building with red windows and a pillar stands on the right. A paved path extends from the viewer's right towards the archway. Through the archway, a person wearing a hat and blue jacket is visible walking towards the viewer from the garden background.
+end of description.
+The person continues their movement, steadily walking forward from the garden through the archway, emerging into the courtyard. They approach the viewer's position, passing from the background into the midground, becoming more prominent in each successive frame.
+frame_0000000512-frame_0000000640:
+An elderly person wearing a blue patterned jacket and an orange hat is visible, partially emerged from a grey brick archway in the midground, walking towards the viewer. To the archway's left stands a white wall with a tree trunk in the left foreground, while a grey brick building with red doors, a red display case, a black trash can, and brooms are on the right midground. Through the archway, a green garden scene with trees is visible in the background.
+end of description
+In the following frames, the person continues to walk forward, progressively exiting the archway and advancing closer to the viewer's position within the courtyard.
+frame_0000000640-frame_0000000768:
+A grey brick gateway with open dark wooden doors stands centrally, flanked by a white wall on the left and a grey brick wall with a red cabinet and trash can on the right. A person in an orange cap and patterned blue jacket is partially visible, walking out of the gateway, with a green garden and trees visible beyond.
+end of description
+This person continues exiting the gateway, moving progressively to the viewer's left until they fully leave the frame. Simultaneously, a second person in dark clothing becomes visible walking further into the garden through the gateway, and a red mailbox-like object appears on the path within the garden to the left of this second person.
+frame_0000000768-frame_0000000896:
+From just outside, the viewer looks into a courtyard through two open dark wooden doors, flanked by gray brick walls and a red wall-mounted box on the far right. Through the doors, a paved path stretches inward, with green bushes and a red pillar to the left, and a person walking away to the right, amidst more foliage, a traditional building, and a large tree in the distance.
+end of description
+The viewpoint smoothly advances forward through the doorway into the courtyard. Objects that were previously on the immediate left and right of the first-frame viewpoint (the brick walls and red box) move out of view to the sides as the camera progresses. Concurrently, a long wooden bench emerges into view on the right side of the path, previously obscured by the right door frame from the first-frame viewpoint, while the person continues to walk further away along the path.

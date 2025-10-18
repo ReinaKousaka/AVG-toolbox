@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+In the first frame, the viewer is on a paved waterfront walkway looking forward, crowded with people strolling. To the left, a park with lush green trees and distant people is visible, while to the right, a stone barrier separates the path from a body of water with docked boats and distant mountains under a blue sky. A man in a black shirt walks in the foreground on the left, and a group of people walk away from the viewer towards the middle-ground on the right side of the path.
+end of description
+As the frames progress, the viewpoint moves forward; the man in the black shirt exits to the left, revealing a man in a red shirt and white hat walking towards the viewer on the left side of the path from a position initially behind the first man. A stone monument also appears ahead to the left of the original viewpoint, while the main group of pedestrians continues moving further away towards the background.
+frame_0000000128-frame_0000000256:
+The first frame captures a sunny park pathway bustling with people walking away from the viewer, flanked by lush trees on the left and a body of water with boats and a distant bridge on the right, all under a blue sky with mountains in the background. A concrete structure is visible in the foreground-left.
+end of description
+As the video progresses, the viewpoint steadily moves forward along the pathway, causing the foreground concrete structure to recede and eventually exit the frame to the left. The walking crowd continues ahead, revealing new sections of the path and waterside scenery as the overall landscape shifts progressively closer to the viewer.
+frame_0000000256-frame_0000000384:
+A paved path stretches from the foreground, bordered by dense green trees and grass on the left and a calm body of water with moored boats on the right. Distant tree-covered mountains rise across the water under a clear blue sky, while a group of people stands on the left side of the path, and a few individuals walk towards the viewer in the midground.
+end of description
+Through subsequent frames, the viewer moves forward along the path, revealing more of the scene ahead. A woman in a light blue dress, initially in the midground, walks past the viewer, as does a person pushing a stroller who emerges from further in the midground, moving closer. Later, a person on a skateboard becomes visible from behind the main crowd on the left, moving forward towards the viewer on the path.

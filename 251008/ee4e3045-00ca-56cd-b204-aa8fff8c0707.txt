@@ -1,0 +1,6 @@
+frame_0000000000-frame_0000000128:
+The initial frame features a cyclist, viewed from behind with a green backpack, riding uphill on a reddish-brown dirt road. This road is flanked by a large, layered red rock formation on the left and a smaller, vegetated hill on the right, where a tree branch also occupies the upper corner. In the mid-background, a yellow diamond-shaped sign with a left-pointing arrow stands to the left of the path, with a distant rock pillar under a clear blue sky.
+
+end of description
+
+In subsequent frames, the cyclist rides further away from the initial first-frame viewpoint, continuing uphill on the winding dirt road. The yellow arrow sign, initially positioned to the left of the cyclist's path in the background, grows larger and progressively shifts right within the frame as the camera advances, suggesting a leftward curve in the road. Additionally, a subtle sun flare emerges in the upper right corner of the frames.

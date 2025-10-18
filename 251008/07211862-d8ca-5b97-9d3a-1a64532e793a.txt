@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a dramatic coastal cliff on the left and center, topped with dense green trees and a visible dirt path, with a single waterfall cascading onto a sandy beach where it meets the foamy ocean. Rocky outcrops extend into the turbulent blue ocean on the right, with a distant landmass visible in the upper right horizon.
+end of description
+The subsequent frames show the ocean waves crashing and the waterfall continuously flowing, with only subtle, natural shifts in light and shadow across the existing landscape. A quick dissolve then rapidly transitions the entire scene. This newly revealed scene, replacing the original coastal view, features multiple broad waterfalls pouring into a vibrant turquoise river, flanked by lush green cliffs and dense vegetation.
+frame_0000000128-frame_0000000256:
+The first frame displays an aerial view of multiple waterfalls cascading down a verdant, moss-covered cliff face into a vibrant turquoise river flowing from the mid-right foreground into a canyon, with more dense green foliage to the left and receding, tree-lined cliffs in the background. Above the falls to the upper left, lighter, rocky terrain featuring several smaller pools of water is visible.
+end of description
+Through subsequent frames, the viewpoint subtly zooms out and shifts slightly to the left, gradually revealing more of the upper left plateau's lighter terrain and additional pools of water. This movement causes the impressive waterfalls and the river to appear marginally smaller within the frame and shift slightly right relative to the expanded view.

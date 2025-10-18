@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a city street from a sidewalk perspective, with a yellow newspaper dispenser and a street pole immediately to the viewer's right. Further along the sidewalk to the right, three pedestrians are visible, two waiting near a bus stop shelter and one walking away from the viewer, while to the left, a red bike lane and a street with a blue dump truck and a white minivan are flanked by tall buildings.
+end of description
+In subsequent frames, the man walking away from the viewer on the right side of the sidewalk moves further down the street and eventually out of view to the right. The other two pedestrians near the bus stop and all vehicles on the street remain static relative to their initial positions.

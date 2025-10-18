@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+A narrow dirt path, covered in fallen leaves, stretches from the viewer's immediate foreground towards the distant center, framed by dense green foliage and bushes that rise along both the left and right sides. Bright sunlight or a lens flare emanates from the upper-left, partially illuminating the canopy above the path ahead.
+end of description
+The viewpoint subtly shifts, suggesting forward movement along the path as the dense foliage immediately to the left appears to pass closer to the viewer's original position. The light at the path's distant end remains constant, and a dark, curved object briefly appears at the top center of the frame in the later stages.
+frame_0000000128-frame_0000000256:
+The first frame presents a dirt path receding into a lush, green forest, with dense foliage and trees lining both sides. Overhead, a verdant canopy creates a tunnel, through which bright sunlight is visible in the distance at the path's end.
+end of description
+As the frames progress, the viewpoint moves forward along the path; the foliage on both sides blurs and appears to move past the viewer's initial position. Objects originally further down the path, including the path itself and the bright opening, become progressively closer and more detailed relative to the first-frame viewpoint.
+frame_0000000256-frame_0000000384:
+The viewer is positioned on a leaf-strewn dirt path extending from the foreground into the distant center of a dense forest. Immediately to the left, vibrant green bushes and foliage are close to the viewer, while the right side features trees with visible trunks and lush green leaves. An overhead canopy of green leaves allows dappled sunlight to filter through, illuminating parts of the path and foliage.
+end of description
+As the scene progresses, the viewer moves forward along the path. The dense foliage on the immediate left of the first frame recedes, and new sections of the forest, including more prominent tree trunks and undergrowth, are revealed from the front on both sides of the path. The overhead canopy continuously shifts as the viewpoint advances deeper into the woodland, revealing new branches and light patterns ahead.

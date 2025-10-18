@@ -1,0 +1,11 @@
+frame_0000000000-frame_0000000128:
+The first frame captures a paved mountain road receding into the distance under a blue sky with white clouds, flanked on the left by a guardrail and lush mountains, and on the right by a blurred concrete embankment leading up to a grassy slope with a two-story wooden house.
+end of description
+As the viewer moves forward, the blurred concrete embankment recedes, revealing more of the grassy slope and a stone retaining wall to the right, followed by a red-and-white striped pole emerging near the road's edge. Further movement brings into view a large white "CONGIUO" sign with red letters to the right of the road, a small side road branching off to the right, and a red triangular warning sign appearing near the now-closer wooden house.
+frame_0000000128-frame_0000000256:
+The first frame shows a road extending away from the viewer with a white car in the distance, flanked by a metal guardrail on the left and an elevated stone-based building with a green hillside on the right, all beneath a blue sky with clouds and distant mountains. end of description.
+As the viewpoint moves forward along the road, the white car ahead approaches and then passes to the viewer's left. The building and associated stone wall on the right recede out of view, revealing more of the green hillside and two stacked red triangular road signs ahead on the right. The retaining wall to the right becomes more prominent and blurs as the viewer continues moving forward.
+frame_0000000256-frame_0000000384:
+The first frame shows a paved road extending into the distance, with a white line marking its right edge and a metal guardrail on the left, overlooking a valley with distant dark mountains under a blue, cloudy sky. Immediately to the viewer's right, a moss-covered concrete retaining wall rises alongside the road, leading up to a steep, tree-covered hillside.
+end of description
+As the viewpoint moves forward along the road, the retaining wall and guardrail quickly shift past to the sides and behind the viewer, blurring due to motion. The immediate foreground continuously recedes, revealing new sections of the concrete wall and adjacent hillside to the right, while the distant road and mountains ahead gradually approach the viewer.

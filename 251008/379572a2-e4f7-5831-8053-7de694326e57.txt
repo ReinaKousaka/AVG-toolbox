@@ -1,0 +1,10 @@
+frame_0000000000-frame_0000000128:
+In the first frame, a large tree trunk is prominently positioned in the foreground on the left. To the viewer's right, a person holding a bright green umbrella walks away along a brick sidewalk, marked with yellow tactile paving. The midground features a wet asphalt road with a white crosswalk on the left, and a white car is driving away from the viewer, creating a splash of water. Further down the street on the left, a scooter is parked near buildings, while general storefronts and street signs line both sides of the background under a rainy sky.
+
+end of description
+
+In subsequent frames, the white car continues driving further away from the viewer, eventually disappearing from the scene. Concurrently, the person with the green umbrella steadily proceeds further along the right sidewalk, moving away from the viewer's foreground. A parked scooter on the left also begins to move away, and a white delivery truck emerges from the distant background, driving towards the center-right of the road. Another scooter then appears on the road in the mid-background, also moving away from the viewer, as the consistent rainfall continues.
+frame_0000000128-frame_0000000256:
+The first frame depicts a rainy street scene with a white pedestrian crossing in the bottom-left, a wet asphalt road with parallel yellow lines, and a reddish-brown sidewalk with a black and yellow striped utility pole on the right. A white scooter with a black box is parked near storefront buildings on the mid-left, while a white pickup truck and a darker pickup truck move away from the viewer in the midground, with trees and a person under a green umbrella visible on the far right.
+end of description
+Throughout the following frames, both pickup trucks continue moving forward, further away from the viewer along the wet road. Concurrently, the person with the green umbrella on the far right moves slightly forward before becoming obscured by the utility pole relative to the initial viewpoint, as rain consistently falls across the scene.

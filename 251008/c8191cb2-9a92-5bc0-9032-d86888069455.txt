@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a nighttime urban intersection, with a wet asphalt road in the immediate foreground, adorned with white crosswalk stripes and reflecting numerous colorful city lights. Directly ahead, the road extends into the distance, flanked by buildings and streetlights on both the left and right. In the midground to the left, a police car with flashing blue lights is visible among other parked vehicles, while a bright green traffic light hangs above the central road, its reflection prominent on the wet surface below. Distant city lights and signs illuminate the background buildings on both sides.
+end of description
+The blue flashing lights of the police car in the mid-left intermittently activate and deactivate across the frames. Simultaneously, the vibrant reflections of streetlights and traffic signals on the wet road surface, extending from the foreground into the midground, subtly shimmer and undulate. Distant vehicle lights on the road in the background also show a slow forward progression.
+frame_0000000128-frame_0000000256:
+The first frame displays a wet city street at night, with bright reflections of numerous streetlights and a dominant green traffic light on the dark asphalt, extending away from the viewer towards distant buildings. Crosswalk markings are visible in the immediate foreground, and vehicles are sparingly visible along the left side of the road.
+end of description
+Over subsequent frames, the prominent green reflection on the wet road gradually fades, while a red light reflection to its right intensifies and becomes more vivid. This shift suggests a change in traffic light status further up the street, with the reflected light transitioning from a predominantly green hue to a stronger red.
+frame_0000000256-frame_0000000384:
+The first frame displays a wet city street at night, with streetlights and traffic signals, including a prominent central green light and a red turn signal to its left, reflecting brightly on the dark asphalt. Buildings with illuminated windows line both sides of the road in the midground and background, while parked vehicles are visible to the left and orange/white barriers to the right. The road extends into the distance, appearing empty of active traffic directly in front of the viewer.
+end of description
+No dynamic changes, newly revealed objects, or scene alterations are visible in the subsequent frames; all provided images are identical to the first.

@@ -1,0 +1,16 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a wet city street during rainfall; a stack of red plastic chairs is on the far left sidewalk, which is lined by trees extending into the background. Buildings with storefronts flank both sides of the street, and a dark gray Hyundai sedan with its headlights on is stationary in the mid-right street, positioned to the right of a prominent light pole in the foreground.
+end of description
+As frames progress, a white sedan enters from the far right of the street, moves leftward passing the stationary dark gray car, and eventually exits the frame to the far left. Concurrently, the dark gray sedan's windshield wipers begin operating, clearing the rain from its windshield, while the rainy urban setting remains constant.
+frame_0000000128-frame_0000000256:
+In the first frame, a dark grey Hyundai sedan with its headlights on is partially visible on the right, facing slightly left and forward. A dark pole stands in front of the car, towards the far right, while a wet sidewalk with stacked red chairs extends into the distance on the left. A line of trees with green foliage separates the sidewalk from the wet street, which reflects distant bright lights from buildings and possibly other vehicles on the right side.
+
+end of description
+
+The Hyundai sedan begins to move forward, away from the viewer, while its front right turn signal activates and flashes. Simultaneously, the car's windshield wipers engage, sweeping water from the glass as it continues to advance. The dark pole on the far right gradually moves out of the frame as the car proceeds down the street.
+frame_0000000256-frame_0000000384:
+The viewer is positioned on a wet city sidewalk, looking down a street lined with trees and commercial buildings under an overcast sky. To the immediate right, the front-right section of a black car with an illuminated orange turn signal is visible, partially obscured by a tree trunk in front of it. The wet asphalt street extends into the distance, reflecting bright vehicle headlights from oncoming traffic in the midground, while storefronts line both sides.
+
+end of description
+
+The black car on the right, with its orange turn signal still illuminated, slowly moves forward and to the right, gradually exiting the frame. As the car disappears, more of the wet street and painted road markings are revealed in its wake. The rainy conditions and reflections on the street remain consistent throughout the sequence.

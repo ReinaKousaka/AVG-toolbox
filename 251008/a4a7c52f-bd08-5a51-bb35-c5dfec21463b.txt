@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a paved road stretching forward and curving slightly left, bordered on the left by a stone retaining wall topped with dense trees, and on the right by a metal guardrail alongside a concrete bridge. In the mid-ground, a green valley and forested mountains rise under a cloudy sky.
+end of description
+As the frames progress, the viewpoint moves forward along the road; the stone retaining wall on the left reveals a small, dark opening, while the guardrail and an approaching intersection on the right become more distinct. Simultaneously, a multi-directional signpost to the right of the road, beyond the guardrail, becomes increasingly prominent, along with white triangular yield markings and a drain cover appearing on the road surface directly ahead of the viewer.
+frame_0000000128-frame_0000000256:
+First, a paved road with white markings curves gently left, flanked by a tall stone retaining wall and dense trees on the left. To the right of the road is a metal guardrail, beyond which a signpost with multiple red, yellow, and white directional signs and a flower planter is visible in the middle ground, backed by a steep, forested mountain.
+end of description
+The viewer moves forward along the road, causing the signpost on the right to recede and eventually exit the frame to the right. As the viewpoint progresses, a green canal running parallel to the road, previously obscured behind the initial guardrail section, emerges into view on the right side of the road.
+frame_0000000256-frame_0000000384:
+A two-lane paved road with white markings extends forward from the viewer, curving slightly left in the midground. To the left, a stone retaining wall runs alongside, topped by green trees, while to the right, a metal guardrail separates the road from a canal filled with green water. Beyond the canal and guardrail, a grassy field leads to heavily forested mountains in the mid-background, beneath a cloudy sky.
+end of description
+As the viewpoint advances, the stone retaining wall on the left and the metal guardrail on the right recede. A rectangular yellow sign gradually appears on the upper left side, positioned above the stone wall. Further into the scene, a wooden bench becomes visible to the left of the road, below the yellow sign. The entire landscape progresses forward, revealing more of the road's curve and bringing the distant valley relatively closer to the viewer.

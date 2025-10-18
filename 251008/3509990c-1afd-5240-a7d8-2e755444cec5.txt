@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+A black steam locomotive is visible on the tracks to the left, partially obscured by a steep, reddish-brown rocky cliff face that dominates the left side of the frame. The tracks curve slightly to the right, overlooking a deep canyon or valley filled with a dense forest of evergreen trees that extends far into the distance on the right. In the background, rolling mountains are visible beneath a clear blue sky.
+end of description
+The black steam locomotive slowly moves forward along the tracks, traveling further away from the viewer along the cliffside. A distinct puff of white smoke emerges from its smokestack in frame 4, which then streams backward and gradually dissipates into the clear blue sky above the forest as the train continues its journey.
+frame_0000000128-frame_0000000256:
+A dark train engine, emitting white smoke, is visible on gravel tracks in the far left foreground, situated against a towering rocky cliff face. To the right of the tracks, a deep, forested canyon stretches across the midground, with distant mountains defining the horizon under a clear blue sky.
+end of description
+The train engine, initially in the far left, advances along the curving tracks, progressively revealing more of its side and an attached car. It continues to travel forward along the cliff edge, maintaining the rugged rock face to its left and the dense forest valley to its right. The scenic background of mountains and sky remains largely constant as the train moves through the landscape.

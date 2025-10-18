@@ -1,0 +1,10 @@
+frame_0000000000-frame_0000000128:
+The first frame captures a city sidewalk with two individuals walking away from the viewer towards the right; one in a black puffer jacket in the foreground, and another in a letterman jacket in the mid-ground. To the left, a "XERJOFF" storefront features a red velvet rope barrier, with two men standing near its entrance, while a street lined with parked cars and distant buildings extends into the background on the right.
+end of description
+In the following frames, the two individuals walking away from the viewer continue moving forward and slightly right relative to their initial positions. No new objects or scenes are revealed; the storefront, street, and background elements remain stationary from the first-frame viewpoint.
+frame_0000000128-frame_0000000256:
+In the first frame, a bustling city sidewalk scene unfolds. To the left, a glass storefront prominently displays "XERJOFF ITALIAN LUXURY PERFUME" vertically in gold, with a red velvet rope and gold stanchions marking the entrance. Two men stand near the doorway: one in a black jacket directly to the left, and another in a grey suit jacket slightly to the right of the first man. Further to the right and closer to the viewer, two people walk away down the sidewalk, one in a black jacket and red cap, and another in a black puffer jacket with a blue bag. Beyond them, a street with parked cars and distant buildings extends into the background.
+
+end of description
+
+The two pedestrians walking away from the viewer continue their movement down the sidewalk, moving further into the midground. As they proceed, a white A-frame sign with "Ooowah" becomes fully visible on the right side of the sidewalk, having been partially obscured by the closer pedestrian in the initial frame. The two men standing by the store entrance remain largely stationary throughout the sequence.

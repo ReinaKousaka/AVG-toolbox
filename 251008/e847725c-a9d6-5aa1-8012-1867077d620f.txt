@@ -1,0 +1,14 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a snow-covered path leading into a bright, sunlit winter forest, bordered by heavily laden snow trees on both sides. A digital overlay in the top right corner shows 'SPEED 8 KM/H', 'GRADE 9%', and 'DISTANCE 3.8 KM', along with a partial map outline.
+end of description
+Subsequent frames reveal forward movement along the path, with the snow-covered trees and bushes on the left and right receding relative to the initial viewpoint. The digital overlay dynamically updates, showing the 'GRADE' decreasing from 9% to 8% in later frames.
+frame_0000000128-frame_0000000256:
+The first frame displays a snow-covered path extending from the viewer's immediate foreground towards a bright horizon, flanked by deep snow. To the left, snow-laden branches and trees, a mix of deciduous and coniferous, line the path and recede into the distance. On the right, a dense wall of snow-covered coniferous trees stands prominently. A clear blue sky is visible above the distant treeline, and a digital overlay in the top right displays speed, grade, and distance information.
+
+end of description
+
+As the frames progress, the viewpoint moves forward along the snowy path. The snow-covered trees and bushes on both sides of the path, initially in the mid-ground, gradually approach and then recede past the viewer's position. Specifically, a large, heavily snow-covered bush on the left foreground becomes clearer as the viewer passes it, and new sections of the snowy path ahead are continuously revealed. The faint footprints on the path also become more numerous and distinct as the viewer proceeds.
+frame_0000000256-frame_0000000384:
+The first frame depicts a snow-covered path or track extending from the bottom center into the middle distance, flanked by a winter forest under a clear blue sky. To the immediate left of the path is a heavily snow-laden bush or small tree, while dense, snow-covered evergreen trees line the right side of the path. Further into the background, more snow-covered trees and a bright, sunlit clearing are visible, with an on-screen display in the top right showing speed, grade, and distance.
+end of description
+The viewpoint steadily moves forward along the snow-covered path. The heavily snow-laden bush, initially to the mid-left, gradually passes the viewer and moves towards the left-rear relative to the original position. New sections of the path become visible ahead, while the dense trees on the right also progress past the viewer. Sunlight casts and shifts shadows dynamically on the snow, and the on-screen distance indicator increments from 3.8 KM to 3.9 KM as the journey continues.

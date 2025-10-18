@@ -1,0 +1,10 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a wet city street at night, with bare trees and illuminated buildings visible. A prominent tree trunk stands in the mid-left foreground, separating a reflective road on the left from a wet sidewalk on the right, which is lined with streetlights, more trees, and some parked scooters. Buildings line both sides, with a striped structure on the left and a reflective facade on the right.
+end of description
+As frames progress, a white vehicle moves along the wet road from the mid-left towards the background, passing the foreground tree trunk. Simultaneously, reflections on the wet ground and building facades subtly shift, indicating ongoing light changes or falling rain.
+frame_0000000128-frame_0000000256:
+The first frame depicts a wet, rainy city street at night, with numerous lights reflecting off the slick pavement. To the viewer's immediate left, a row of electric scooters is parked on the sidewalk, adjacent to a street lined with bare trees, streetlights, and buildings further down. On the viewer's right, a wide, reflective sidewalk runs parallel to a modern building featuring large glass facades, reflecting the distant urban glow.
+end of description
+From frame 7 onwards, a lone person emerges from the distant background on the right sidewalk, progressively walking closer towards the viewer's original position with each subsequent frame.
+frame_0000000256-frame_0000000384:
+The first frame shows a rainy city street at night. On the wet pavement to the viewer's left, a row of electric scooters is parked, with a bare tree and a bus stop further down the sidewalk. A tall building rises on the far left, while a modern, reflective building lines the right side of the frame, and a distant skyscraper is visible in the background. end of description. Throughout the following frames, the scene remains consistent with continuous rain creating shimmering reflections on the wet surfaces. A vehicle with red taillights briefly appears, moving from left to right across the street in the mid-ground, then disappears from view.

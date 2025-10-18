@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a paved road curving to the right, bordered by dense evergreen forests. Bright sunlight from the upper left illuminates a blue sky and creates lens flare, with the left forest heavily shadowed and the right side brighter. A white vehicle is visible far ahead on the right side of the curving road.
+end of description
+As the viewpoint moves forward, the white vehicle ahead grows slightly larger and more distinct relative to its initial position, still on the curving road. The surrounding forest and shadows on the road shift as the viewer progresses, and a watermark "AdventuresEveryDay" appears in the bottom left of the viewer's field of view from frame six onwards.

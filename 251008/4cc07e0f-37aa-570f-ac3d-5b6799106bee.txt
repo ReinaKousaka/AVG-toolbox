@@ -1,0 +1,32 @@
+frame_0000000000-frame_0000000128:
+The first frame captures a black and white cemetery scene, featuring a large, ornate monument inscribed "KENAN" prominently in the mid-ground, slightly right of center. Numerous smaller tombstones are scattered across the grassy foreground and extend towards the left, while a winding road and a dense treeline stretch across the background under an overcast sky.
+end of description
+Throughout the subsequent frames, the camera subtly zooms in, causing the central monument and its inscribed details to gradually appear larger and more prominent relative to the initial viewpoint.
+frame_0000000128-frame_0000000256:
+The first frame depicts a grayscale cemetery landscape. A large, ornate stone monument, featuring visible inscriptions like 'KENAN', stands prominently in the mid-foreground, slightly right of the viewer's center. Numerous smaller tombstones are scattered across the grassy ground in front of and to both the left and right of this central monument. Behind the main monument, a paved path curves from the mid-left towards the mid-right distance. To the left of the path, a dense wooded hillside with bare trees forms the background, while to the right, more trees and a small building with a peaked roof are visible further down the path. An overcast sky dominates the upper portion of the frame.
+end of description
+No dynamic changes or newly revealed objects are discernible across the subsequent frames. The scene remains entirely static, with all objects maintaining their initial spatial positions relative to the first-frame viewpoint throughout the sequence.
+frame_0000000256-frame_0000000384:
+In the foreground, a prominent, dark tombstone inscribed with "KENAN" stands centrally. To its left and right, smaller gravestones dot the grassy ground, with a paved path curving away to the upper-left, and a building with an arched entrance partially visible in the mid-right. Bare trees and overcast skies fill the background.
+end of description
+The viewpoint then slowly pans to the right, causing the central tombstone to move leftward out of frame. This shift fully reveals the building, bringing it towards the new center, and discloses more gravestones further to the right of the first-frame's perspective.
+frame_0000000384-frame_0000000512:
+The first frame displays a black and white cemetery scene with an overcast sky. In the immediate foreground, a grassy expanse dotted with numerous gravestones extends across the bottom, leading to a dirt path towards a central building. This mid-ground building is a stone structure with a gabled roof and an arched entrance, flanked by bare and evergreen trees. A paved road is visible to the left of the building, and more cemetery plots with gravestones stretch into the background, particularly on a rising slope to the right.
+
+end of description
+
+The viewpoint slowly pans to the right across the cemetery grounds. As the scene shifts left, additional gravestones, including a prominent cross-shaped monument, and bare trees progressively emerge from the right side of the frame. The central building and path gradually move towards the left edge, eventually nearing or exiting the frame entirely, while more distant cemetery plots become visible to the right of the original view.
+frame_0000000512-frame_0000000640:
+The first frame displays a somber, black-and-white view of a cemetery with numerous headstones and grave markers scattered across a grassy, gently sloping terrain under an overcast sky; a prominent weathered stone cross stands in the right foreground, while a winding path and dense trees are visible further back to the left and along the distant horizon.
+end of description
+As the frames progress, the viewpoint slowly moves forward, slightly to the right, and subtly downward. This camera movement causes the foreground stone cross to gradually shift towards the bottom-left and mostly out of view. Concurrently, more of the grassy ground and additional grave markers directly in front of and slightly to the right of the initial foreground position are revealed, with a small dark bush becoming more distinct to the right of the bare tree.
+frame_0000000640-frame_0000000768:
+In the first frame, a black and white cemetery scene unfolds with a cloudy sky above. In the foreground, fragmented grave markers and a low, dark bush appear at the bottom-left and bottom-center. Further back, a prominent bare tree with multiple trunks stands slightly left of center, surrounded by numerous headstones scattered across a grassy, gently sloping terrain, including one large stone labeled "ROYSTER" on the right and another labeled "CROUP" to the left. A winding path or road is visible along the far left midground, leading into the distance where dense clusters of trees and more grave markers populate the background.
+
+end of description
+
+The subsequent frames reveal subtle dynamic changes as a gentle sway in the camera's viewpoint causes the foreground grave markers to subtly shift. The most apparent movement is observed in the branches of the evergreen trees on the far right, which noticeably sway, suggesting a light breeze within the cemetery. Other distant trees and the bare tree in the midground also exhibit minor swaying.
+frame_0000000768-frame_0000000896:
+The initial frame displays a black and white cemetery scene under an overcast sky. In the immediate foreground, a dark shrub is positioned bottom left, next to a "CHURCHUP" marked tombstone. To the right, a prominent "ROYSTER" tombstone rests on a grassy mound. A bare, multi-trunked tree stands in the midground, slightly left of center, amidst numerous other gravestones scattered across the undulating terrain. The background features a dense mix of evergreen and bare trees, with hints of distant graves and pathways extending beyond.
+end of description
+The camera executes a slow, subtle pan to the left. This movement reveals more of the cemetery grounds previously situated just to the left of the initial viewpoint. Concurrently, objects initially on the far right of the first frame, such as distant trees, begin to shift towards the left and partially out of view. The "ROYSTER" tombstone in the right foreground also appears to move leftward within the evolving frames. The "CHURCHUP" tombstone on the far left of the initial view further recedes to the left, becoming more obscured by the frame's edge.

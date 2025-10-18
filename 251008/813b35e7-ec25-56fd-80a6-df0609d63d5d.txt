@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a paved road extending towards the viewer, featuring double yellow lines centrally and white lines on its shoulders, curving gently uphill and rightward into the distance. Tall pine trees line both sides of the road, forming dense forest against a twilight sky of pink and light blue with scattered clouds.
+end of description
+As the scene progresses, the viewpoint moves forward along the road; the pine trees on either side dynamically shift from the midground towards the viewer, then pass out of frame to the sides, continually revealing new segments of the winding road ahead. The overall forested landscape and sky remain consistent as the vehicle drives through the environment.
+frame_0000000128-frame_0000000256:
+The first frame displays a two-lane road stretching into the distance and curving right, flanked by tall pine trees on both sides from foreground to background. Above the treeline, a pale blue sky with scattered pinkish-orange clouds fills the upper half of the view.
+end of description.
+As the viewer moves forward, the road and surrounding trees appear to approach, pass, and recede, with specific foreground trees shifting to the left and right before exiting the frame. This forward motion continuously reveals new segments of the road and additional trees further along the winding path relative to the initial viewpoint. The sky and distant cloud formations maintain their position above the moving landscape.
+frame_0000000256-frame_0000000384:
+The first frame presents a two-lane road stretching from below the viewer into the distant center, bordered by dense evergreen trees to the left and right, beneath a sky filled with pink-tinged clouds.
+end of description
+As the viewpoint progresses forward, the original section of the road and its immediate surroundings move towards and eventually behind the viewer, continuously revealing new stretches of the curved road ahead, still lined by the receding forest.

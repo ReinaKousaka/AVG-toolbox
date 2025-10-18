@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a bustling town square on a sunny day, featuring a large, grey, slate-covered building identified as a hotel/restaurant directly in front of the viewer, flanked by a similar building to its left. A paved square occupies the foreground, populated by various groups of people, including several in the front-right facing the main building, and others seated at outdoor restaurant tables with umbrellas in the midground. The background is a clear blue sky.
+end of description
+Subtle movements of people are the only dynamic changes across subsequent frames; for instance, a person in the foreground lifts their arm, but no new objects or scenes are revealed relative to the first-frame viewpoint.

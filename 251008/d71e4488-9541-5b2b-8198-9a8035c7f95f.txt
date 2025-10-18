@@ -1,0 +1,13 @@
+frame_0000000000-frame_0000000128:
+The first frame captures a deserted, wet paved street at night, illuminated by artificial lights. To the immediate left stands a white building featuring a traditional dark roofline, large windows, and a streetlamp, with Korean text reading "은나무 eunnamu" and "원남" on its facade. Opposite, to the right, a darker building with bright, large windows and a small set of steps leads up to its entrance. The street extends into the background, flanked by dimly lit buildings and sparse trees under a dark, overcast sky.
+
+end of description
+Throughout the subsequent frames, light rain begins to fall, creating numerous small splashes and shimmering ripples across the wet pavement directly in front of the viewer. This precipitation causes the reflections of the streetlights and building lights on the ground to subtly shift and sparkle.
+frame_0000000128-frame_0000000256:
+The first frame depicts a wet, dimly lit city street at night, receding into the distance between buildings. A tall lamppost and a white building with a dark tiled roof and a blue street sign dominate the left foreground, followed by other structures further down. On the right, a brightly lit building entrance with steps and a large display window is visible, with a darker building above it. The wet asphalt road reflects the numerous artificial lights, while bare trees are faintly visible in the dark background.
+end of description
+Subsequent frames reveal very subtle dynamic changes; the reflections on the wet street surface exhibit a slight shimmering and wavering, consistent with ongoing rainfall. The general scene, objects, and their spatial positions relative to the viewer remain constant, with no new elements introduced or camera movement observed.
+frame_0000000256-frame_0000000384:
+The first frame depicts a dark, wet street at night, lined by various buildings with illuminated storefronts and architectural details like an external staircase on the left and steps leading up on the right, all receding into the gloomy distance; reflections of light shimmer on the damp ground.
+end of description
+A person wearing a bright yellow hooded jacket on a bicycle appears from the far left foreground and cycles horizontally across the scene. The cyclist then turns to proceed straight down the center of the wet street, progressively moving away from the viewer and becoming smaller as they recede into the illuminated distance.

@@ -1,0 +1,28 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a residential street with a large dark utility pole dominating the foreground, slightly right of center. To the left, a sidewalk with a white guardrail curves alongside a light-colored two-story house with a white car parked in front, while multi-story buildings line the paved street on the right.
+end of description
+As the camera moves forward and slightly left, the utility pole shifts further to the right, gradually revealing more of the street and the buildings to its left. Concurrently, a person emerges on the sidewalk to the left of the guardrail, walking away from the viewer, and a grey mailbox appears on the far left, closer to the viewer's original position.
+frame_0000000128-frame_0000000256:
+The first frame displays a residential street under a clear blue sky. To the viewer's left, a dark building with a mailbox transitions to a sidewalk where a person walks away, past a white house with an SUV parked below. A central utility pole with numerous wires stands opposite multi-story residential buildings on the right, which are separated from the street by a white guardrail and feature balconies and Japanese street markings.
+end of description
+In the following frames, the person on the left sidewalk continues to recede further away from the first-frame viewpoint, eventually disappearing beyond the central utility pole. No new objects or scenes are revealed, with the overall environment remaining static.
+frame_0000000256-frame_0000000384:
+In the first frame, a residential street is viewed from a slightly low angle. To the immediate left, a dark fence runs alongside the viewer, with a two-story beige house and a white minivan parked in front further down the left side. A prominent utility pole with numerous overhead wires stands slightly left of center in the midground, with a clear blue sky above, exhibiting lens flare in the top-left corner. To the right, white and blue safety barriers are in the immediate foreground, leading to a sidewalk and several multi-story houses lining the street, some with balconies. The asphalt road extends forward, narrowing into the distance.
+end of description
+No dynamic changes or newly revealed objects or scenes are visible in the subsequent frames; the entire sequence is static.
+frame_0000000384-frame_0000000512:
+In the first frame, a narrow residential street extends into the distance, flanked by two-story houses under a bright blue sky. To the viewer's left, a light-colored house with a parked white van is partially obscured by a dark fence in the foreground. A utility pole laden with wires stands slightly left of center, and on the right, a white barrier is in the foreground, with a series of houses featuring balconies and a red parked car further down the street.
+end of description
+The subsequent frames reveal no dynamic changes, newly revealed objects, or alterations to the scene; the view remains entirely static relative to the first-frame viewpoint.
+frame_0000000512-frame_0000000640:
+The first frame shows a narrow residential street under a clear blue sky, with sun glare visible in the upper left. A two-story house occupies the left foreground, where a white minivan is parked; to the right, multiple houses line the street, with a red car parked further down and laundry hanging on a balcony. A utility pole with numerous wires stands centrally over the paved road, which stretches into the distance.
+end of description
+There are no dynamic changes or newly revealed objects in the subsequent frames; the scene remains static.
+frame_0000000640-frame_0000000768:
+The first frame displays a residential street under a clear blue sky, with a strong sun glare in the upper left corner. On the left, a light-colored two-story house has a white minivan parked beneath it. To the right, several houses line the street, including one with laundry hanging on a balcony and a red car parked below it, while a utility pole with wires stands centrally, guiding the eye down the street.
+end of description
+Over the following frames, the scene remains almost entirely static. The prominent sun glare in the top-left corner subtly recedes and diminishes in intensity, gradually revealing more of the upper portion of the house on the left.
+frame_0000000768-frame_0000000896:
+A residential street under a clear blue sky is visible, with a white van parked under a carport on the immediate left, adjacent to a light-colored building. Further down the left, bicycles are parked near more houses. A prominent utility pole with wires stands slightly right of center, while to the right, a red car is parked in front of a multi-story building where laundry hangs on a balcony above.
+end of description
+In the subsequent frames, the viewpoint subtly shifts forward along the street, causing all visible objects to recede slightly further into the distance. The white van, red car, utility pole, and surrounding buildings all remain within the frame, appearing to move further away from the viewer's initial position as the camera advances. No new objects or scenes are revealed, only a progression of the existing street view.

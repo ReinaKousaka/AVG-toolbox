@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame captures a sunny mountain town street with an asphalt road leading into the distance, flanked by a stone wall on the right and a sidewalk on the left where two people walk away from the viewer. Along the midground street are several houses with reddish roofs and an orange van, while snowy mountains and green hillsides dominate the background under a clear blue sky.
+end of description
+As the scene progresses, the viewpoint moves forward; the two people on the left walk out of frame. The orange van remains on the road ahead but moves closer to the viewer, and a black car newly appears behind and to the left of the van. A street lamp on the left and more of the stone wall on the right become visible as the perspective shifts.
+frame_0000000128-frame_0000000256:
+The first frame presents a road stretching forward, flanked on the left by an orange-roofed building with a parked orange and white van and a streetlamp. To the right, a stone wall ascends alongside a treed hillside dotted with chalets, while a dark blue car is visible further down the road.
+end of description
+As the viewpoint advances, the van, streetlight, and orange building recede past the viewer to the left, revealing a crosswalk and pedestrians. Simultaneously, the stone wall and a bridge structure pass to the viewer's right, while the distant dark blue car and another white vehicle become progressively closer, positioned ahead in the first-frame's perspective.

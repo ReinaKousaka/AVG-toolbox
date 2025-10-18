@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+A wet, paved path extends into the distance, flanked on the left by a green grassy slope with a row of trees and apartment buildings beyond, and on the right by a dense line of brown and green shrubs. In the far distance, a bridge and hills are visible under an overcast sky.
+end of description
+The viewpoint slowly moves forward along the wet path. As the camera progresses, the path, grassy slope, and right-side shrubs subtly shift towards the bottom of the frame, gradually revealing more of the distant bridge and hills. The apartment buildings to the left and the scenery ahead appear marginally closer as the camera advances.
+frame_0000000128-frame_0000000256:
+The first frame displays a wet, paved pathway extending into the distance under an overcast sky, flanked on the left by a grassy slope with trees and distant buildings, and on the right by a low hedge, a rope fence with black posts, and a wider vegetated area, with a bridge and mountains visible further ahead.
+end of description
+The subsequent frames show a subtle pan to the left and a slight zoom out, incrementally widening the field of view. This reveals more of the grassy slope and trees to the immediate left of the path, making the entire scene appear slightly broader from the initial viewpoint.
+frame_0000000256-frame_0000000384:
+A wet paved pathway extends from the foreground to the distance, flanked on the left by a green grassy slope with a row of trees and a lamppost. To the right of the path, a dense green hedge runs parallel, with a wooden post and rope fence further right, partially obscured by tall grass. In the mid-ground, a building is visible to the far left and a bridge spans an area in the distance, while mountains lie beneath an overcast sky in the background.
+end of description
+The viewer moves slowly forward along the wet paved path. As the camera advances, more of the pathway, the grassy slope with its trees on the left, and the dense hedge on the right are continuously revealed ahead. The initial foreground objects like the lamppost and fence recede into the distance, while the bridge and distant mountains gradually approach and shift slightly to the left within the frame.

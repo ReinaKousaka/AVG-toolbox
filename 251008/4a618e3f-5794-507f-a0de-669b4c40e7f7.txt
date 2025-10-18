@@ -1,0 +1,10 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a bustling street lined with traditional wooden buildings featuring green shutters, extending towards distant green mountains under a cloudy sky. In the foreground, a man pushes a stroller past pink balloons on the left sidewalk, while two men walk on the right sidewalk beside a parked car and a "CRYSTAL WINTERSPORT" sign, beneath a flying Swiss flag.
+end of description
+Throughout the subsequent frames, individuals on both sidewalks, including the man with the stroller and the men on the right, continuously progress further from the viewer into the midground along the street. No new elements or scenes are introduced; the camera's perspective remains fixed, highlighting only the pedestrian movement.
+frame_0000000128-frame_0000000256:
+The first frame depicts a charming Alpine village street under a cloudy sky. In the foreground, a gray asphalt road occupies the center, flanked by sidewalks. On the left sidewalk, a man pushing a stroller with pink balloons and another man walk towards the viewer, beside a wooden building with a green awning. On the right, two men walk away from the viewer on the sidewalk, below a building with balconies and a prominent red Swiss flag waving above. In the midground, a large multi-story wooden hotel with green shutters, labeled "HOTEL BELLEVUE," stands centrally, surrounded by other wooden buildings and numerous pedestrians. Green mountains rise in the background behind the village.
+
+end of description
+
+As the frames progress, people on both sidewalks and in the street continuously move further along the road away from the viewer. The man with the stroller on the left moves forward and slightly out of frame. On the right, a white banner, initially partially obscured behind the Swiss flag, fully reveals "INTERSPORT" as it unfurls or the viewpoint subtly shifts slightly forward and right.

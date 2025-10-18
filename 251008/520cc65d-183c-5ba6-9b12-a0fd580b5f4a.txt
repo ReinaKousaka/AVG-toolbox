@@ -1,0 +1,10 @@
+frame_0000000000-frame_0000000128:
+In the first frame, a wide cobblestone street extends towards the background, flanked by paved sidewalks. To the left, a modern building houses a "New Yorker" store, with a wooden bench, a large potted tree, and two street lamps further down. To the right, older buildings host various shops, including a "Parfum" store marked by purple signs, and an outdoor cafe with patrons. Two people, a man in a red shirt and a woman in a dark blue jacket, walk towards the viewer in the center-left midground, while more people populate the distant street. A blue bicycle is partially visible in the bottom-left foreground.
+
+end of description
+
+The two individuals initially in the mid-foreground steadily walk closer to the viewer, moving slightly leftward from their initial central position. Their shadows on the cobblestone street also lengthen and shift towards the left side of the frame as they approach. Other pedestrians further down the street also exhibit subtle movements but remain distant.
+frame_0000000128-frame_0000000256:
+The first frame displays a sunny, bustling pedestrian street paved with cobblestones, extending into the distance. Buildings with shops line both sides; on the left, a man and woman walk away from the viewer, past a potted olive tree, towards a row of parked bicycles and outdoor cafe seating. On the right, multiple street lamps and signs for a "Zahnarztpraxis" (dentist) and "Parfum" are visible, also with people seated at outdoor establishments further down the street.
+end of description
+In the following frames, the man and woman on the left continue moving forward, gradually exiting the frame towards the left, further from the first-frame viewpoint. The overall scene remains largely static, with only subtle shifts in distant individuals indicating minor movement.

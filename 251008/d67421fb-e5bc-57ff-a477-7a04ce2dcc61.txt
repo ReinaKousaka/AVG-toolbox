@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+A dirt path extends from the viewer into the midground, flanked by dry, golden-brown grass and scattered pine trees on both sides. A utility pole with wires stands prominently on the far left, while distant hills are visible beneath a clear blue sky towards the background. An informational overlay box displaying "Pace," "Grade," and "Distance" is present in the top right corner.
+end of description
+The viewpoint moves forward along the path, causing the immediate foreground to recede and new sections of the path and surrounding vegetation to appear ahead. The utility pole on the left gradually shifts further left within the frame, indicating forward progression. The 'Pace' value in the top-right overlay dynamically changes from 6:20 /km to 6:35 /km across the frames, reflecting a change in speed.
+frame_0000000128-frame_0000000256:
+A wide, dry grassy path extends from the foreground into the distance, flanked by golden-brown vegetation and evergreen trees. A tall utility pole stands on the far left, while distant hills are visible under a clear blue sky, and a digital overlay with "Pace 6:35 /km," "GRADE 1%," and "DISTANCE 1.4 KM" is in the top right.
+end of description
+As the frames progress, the viewpoint moves forward along the path, revealing new sections of the immediate foreground while objects like the utility pole and surrounding trees appear to approach the viewer. The 'Pace' value in the top right overlay dynamically changes, steadily increasing from 6:35 /km to 6:50 /km.
+frame_0000000256-frame_0000000384:
+The first frame shows a dirt path extending directly away from the viewer into the distance, flanked by dry, golden-brown grass in the foreground and midground. To the left and right, dense forest edges of green pine trees and some bare deciduous trees line the path, with a utility pole visible further down the path on the left. A clear blue sky is overhead, and a digital overlay displaying metrics like "Paali 6:50 km" is present in the top right.
+end of description
+As the frames progress, the viewpoint moves forward along the path. The dry grass and forest edges on both sides appear to move closer to and then past the viewer's initial position. The path itself extends further ahead, progressively revealing new ground previously unseen, and the utility pole on the left approaches the viewer. The overlay data slightly updates, with "Paali" decreasing by 0.01 km and "Traakk" increasing to 2%, indicating ongoing movement through the same landscape.

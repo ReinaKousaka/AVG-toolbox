@@ -1,0 +1,16 @@
+frame_0000000000-frame_0000000128:
+A paved pathway with grey railings extends from the foreground towards the middle distance, bordered by green grass and a river to the viewer's left, and dense bushes and a large building with a connecting bridge to the viewer's right. In the distance, across the river to the left, a larger bridge and town buildings are visible against mountains, all under a clear blue sky, while a digital overlay with ride data appears in the top right.
+
+end of description
+
+The viewpoint steadily advances forward along the pathway. As the viewer progresses, the large building and its connecting bridge on the right, and the distant bridge and town across the river to the left, gradually approach and reveal more detail. A stone picnic table or bench also appears on the grassy bank to the left of the path as the viewer moves past it.
+frame_0000000128-frame_0000000256:
+The first frame displays the viewer on a concrete and metal pedestrian walkway that curves right, leading towards a large, multi-story brick building with prominent blue windows. To the immediate left, a grass bank with a stone bench slopes down to dark water, beyond which a town, a bridge, and distant mountains are visible; the water also extends to the right of the walkway, bordered by lush green foliage. An informational overlay showing speed, grade, and distance, along with a small map, is present in the top right.
+end of description
+As the frames progress, the viewer moves forward along the walkway; the stone bench to the left recedes out of view, and the brick building and surrounding foliage on the right draw closer. The town and bridge across the water to the left remain in the middle distance, while the overlay data indicates the speed decreasing from 12 KM/H to 11 KM/H and the grade increasing from 1% to 2%.
+frame_0000000256-frame_0000000384:
+The viewer is on a concrete path with metal railings, extending forward and curving left, bordered by dark water on the left and lush greenery leading to a large brick building on the right mid-ground. A distant bridge and hillside town are visible to the far left, while an information overlay is present in the top-right corner.
+
+end of description
+
+As the viewpoint moves forward, the path ahead and the brick building on the right both shift leftward, becoming more central to the frame relative to their initial positions. Concurrently, the on-screen overlay indicates the 'Grade' increasing from 2% to 3% and the 'Speed' decreasing from 11 KM/H to 10 KM/H.

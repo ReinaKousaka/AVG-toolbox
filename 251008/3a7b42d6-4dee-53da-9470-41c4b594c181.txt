@@ -1,0 +1,29 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a reddish-brown road with double yellow lines on the left and a white line on the right, curving towards the mid-right foreground, flanked by a massive orange sandstone cliff adorned with sparse green trees and bushes on the left, and a rocky shoulder with foliage on the right.
+end of description
+As the scene progresses, the viewpoint moves forward along the road, revealing more of its winding path and the vast, textured orange cliff face on the left extending into the distance. The foreground elements of the initial view recede behind the viewer, while distant rock formations on the right side of the road become more prominent. Eventually, a dark, vertical road sign appears along the left cliff face, previously positioned further ahead from the first frame's perspective.
+frame_0000000128-frame_0000000256:
+The first frame displays a reddish-brown road with double yellow and white lines, curving rightward into a canyon. A towering orange-red rock formation with sparse vegetation rises steeply on the left, while a rocky shoulder and distant red cliffs with trees are on the right under an overcast sky. A diamond-shaped road sign is visible on the left cliff base.
+end of description
+As the viewpoint moves forward along the road, the immediate landscape shifts, revealing new sections of the impressive red rock formations and dense greenery emerging ahead around the bend. The diamond-shaped curve warning sign on the left becomes fully visible and then recedes behind the viewer.
+frame_0000000256-frame_0000000384:
+The first frame shows a reddish-brown road curving slightly to the right in the foreground, with double yellow lines down its center and a white line on its right edge. To the viewer's left, a massive, rugged reddish-orange rock cliff face rises steeply, adorned with scattered green vegetation, and a brown diamond-shaped sign stands near the road's edge. To the right, a rocky shoulder gives way to green bushes and pine trees, beyond which more tree-covered reddish cliffs extend into the background under an overcast sky.
+
+end of description
+
+As the viewpoint progresses forward along the road, the diamond-shaped sign on the left recedes further into the distance and eventually exits the frame to the lower left. The massive reddish cliff face on the left appears to move backward, revealing more of its textured surface and higher sections as the viewer drives past. Simultaneously, the green bushes and pine trees on the right side also recede, making them appear smaller and revealing more of the distant, tree-covered reddish cliffs further along the road. The road itself continuously extends forward, indicating ongoing movement into the scenic canyon.
+frame_0000000384-frame_0000000512:
+A two-lane road extends directly forward from the viewer, bordered on the left by a massive, reddish-orange rock formation and on the right by a dirt shoulder with green bushes and a tall pine tree. In the mid-ground and background, rugged, tree-covered cliffs rise under a cloudy sky.
+end of description.
+As the viewer moves forward along the road, the immediate rock face to the left and the tall pine tree on the right gradually recede from view and eventually exit the frame. This continuous progression reveals more of the winding road ahead and new sections of the impressive, layered cliffs that line the mid-ground and background.
+frame_0000000512-frame_0000000640:
+The first frame shows a dark asphalt road with double yellow center lines and a white shoulder line, receding into the distance and curving slightly left, with a massive reddish-orange rock face rising steeply to the left and a lower, vegetated rock formation to the right, all under an overcast sky. A small, light-colored vehicle is faintly visible far ahead on the curving road.
+end of description
+As the viewer moves forward, the immediate road surface and its markings continuously shift beneath them. The prominent reddish-orange rock face to the viewer's left and the vegetated cliffs on the right gradually approach and recede, revealing more of the canyon walls previously further ahead from the first-frame viewpoint. The distant light-colored vehicle appears slightly closer, remaining on the road ahead, as the entire landscape progresses past the initial viewpoint.
+frame_0000000640-frame_0000000768:
+The first frame displays a reddish-brown road with double yellow center lines and a white right shoulder line, extending forward and gently curving left, flanked by steep red-orange rock faces. To the left, a large rock face rises immediately, while to the right, green foliage and a tall pine tree line the road, with additional reddish cliffs in the mid-ground. Several vehicles are visible far ahead on the road, near the curve under a cloudy sky. end of description.
+As the viewpoint moves forward along the road, the tall pine tree on the right side becomes progressively closer and larger, passing the viewer's right. A new, low concrete barrier on the right roadside becomes visible in the foreground and moves backward relative to the viewer's progression. The vehicles previously far ahead also appear closer as more of the winding road and surrounding landscape is revealed directly ahead and to the sides.
+frame_0000000768-frame_0000000896:
+The first frame displays a brown asphalt road stretching into the distance, bordered on the left by a massive, layered reddish-orange rock formation and on the right by green vegetation, tall pine trees, and a vertically striated reddish cliff face. A white vehicle is visible far ahead on the road under an overcast sky.
+end of description
+As the frames progress, the viewpoint moves forward along the road; the road ahead becomes more prominent, and the rock formations and vegetation on both sides appear to move closer and past the viewer. The white vehicle ahead on the road gradually approaches the viewer.

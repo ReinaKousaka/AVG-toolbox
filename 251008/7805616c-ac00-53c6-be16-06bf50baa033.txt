@@ -1,0 +1,5 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a rainy street at night. In the immediate foreground, a dark utility pole stands on the right, and a tree trunk is on the left. A black SUV with bright red taillights is positioned centrally on the wet road, facing away from the viewer. To its left, a silver car is partially visible. On the right sidewalk, a person holds a red umbrella, walking away from the viewer, under a distant red traffic light. Buildings with illuminated signs line the left side of the street in the background, all under visible heavy rainfall.
+
+end of description
+The black SUV gradually moves forward and slightly to the right, heading away from the viewer, progressively revealing the silver car previously behind it. The pedestrian on the right also continues walking further down the street away from the viewpoint. The camera viewpoint subtly shifts forward and to the right, causing the foreground utility pole to move more centrally across the frame and obscuring the left-side tree. The heavy rain persists throughout, constantly creating dynamic reflections and splashes on the wet asphalt.

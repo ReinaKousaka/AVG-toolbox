@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+A gravel road stretches forward from the viewer, flanked on the immediate left by a steep, sandy earthen bank with sparse vegetation, and on both sides by dense green trees and foliage, all beneath a blue sky with scattered white clouds.
+end of description
+The viewer moves forward along the gravel road, which continues to curve slightly to the right from its initial position. The immediate earthen bank on the left in the first frame rapidly recedes and passes, revealing new sections of the bank and a white marker pole further down the road on the left. The distant trees and sky generally maintain their positions relative to the first-frame viewpoint, while foreground elements blur due to motion.

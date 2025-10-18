@@ -1,0 +1,30 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a cobblestone street gently curving uphill between traditional buildings under a partly cloudy sky. To the left, a multi-story stone and brick building with a potted plant in the foreground lines the street. To the right, a light yellow building with green shutters features arched ground-floor entrances where two people are standing, with a stone well-like structure and steps positioned further right.
+end of description
+In the following frames, the two people on the right side of the street steadily walk forward, moving closer to the viewer's original viewpoint.
+frame_0000000128-frame_0000000256:
+A cobblestone street extends forward and slightly downhill, flanked by historic buildings under an overcast sky. To the immediate left foreground, a yellow bush and a multi-story stone building with a dark sign are visible. On the right, a lighter-colored building featuring arched doorways, green shutters, and a street lamp is present, with two people standing near one of the entrances and a stone well with plants further right. In the distance down the curving street, a red car is visible, framed by buildings and distant hills.
+end of description
+The camera slowly moves forward and subtly shifts left relative to the initial viewpoint. The yellow bush on the far left and the stone well on the far right gradually move out of the frame. Simultaneously, the two people on the right side recede further down the street, while the buildings flanking the path appear closer, and the distant red car becomes slightly more prominent, all relative to their original positions.
+frame_0000000256-frame_0000000384:
+The first frame depicts a cobblestone street curving slightly uphill into the distance, flanked by buildings. To the viewer's left, a multi-story building of rough stone blocks features brick accents and a small potted plant near its base. On the right, a light yellow building with arched doorways, windows, and dark blue shutters runs parallel to the street, with a man in a dark t-shirt and blue shorts standing near its far right archway. In the midground, a red car is visible further up the winding street, and beyond the buildings, a hazy distant landscape with trees and hills meets a cloudy sky.
+
+end of description
+
+The man initially standing on the far right side of the street in the first frame is no longer visible from the second frame onward, having moved out of the scene. No new objects or scenes are revealed. All other visible elements, including the distant red car and the architectural structures lining the street, remain stationary in their original spatial positions relative to the first-frame viewpoint throughout the sequence.
+frame_0000000384-frame_0000000512:
+A cobblestone street curves slightly towards the right, leading into the distance where a red car is parked and hills are visible under a cloudy sky. To the viewer's immediate left stands a multi-story building with a textured stone facade, featuring a prominent arched entrance and a gridded window higher up. On the right, another multi-story building with a light yellow/ochre facade and dark blue window shutters extends away from the viewer, displaying multiple arched ground-level shop entrances.
+end of description
+Throughout the subsequent frames, the viewpoint subtly shifts backward, causing the immediate foreground objects on both the left and right to appear slightly less magnified. This slight withdrawal reveals a minimal additional width of the stone building on the left and the yellow building on the right, without introducing any new objects or scenes. The red car and the distant landscape remain stationary relative to the overall scene, only appearing incrementally smaller as the camera pulls back.
+frame_0000000512-frame_0000000640:
+The first frame shows an old cobblestone street winding downhill between stone buildings. To the immediate left, a stone wall building displays a '96' sign, a partially open doorway revealing interior shelves, and a wooden A-frame sign. To the right, another building with an arched entrance fronts the street, which recedes towards a distant landscape under a cloudy sky.
+end of description
+A motorbike appears from behind the viewer on the right, driving away down the street, while the doorway on the left simultaneously opens wider, revealing more of its interior.
+frame_0000000640-frame_0000000768:
+The first frame displays a cobblestone street in an old town, lined by stone buildings. A prominent stone wall with a partially visible doorway occupies the immediate left, featuring a white oval "Cantina" sign angled towards the viewer, while a taller stone building with a shuttered window is further left. On the right, another stone building with shops extends along the street, which curves slightly downhill towards a distant valley of hills.
+end of description
+The subsequent frames show the viewpoint slowly moving forward and slightly to the left. Consequently, the "Cantina" sign on the immediate left recedes further into the frame and shifts towards the left edge, eventually being partially cropped relative to its initial position. The buildings flanking the street also recede, making the cobblestone path ahead appear wider as the viewer's position advances from the first frame.
+frame_0000000768-frame_0000000896:
+The viewer is on a cobblestone street in an old town, flanked by traditional stone buildings under a cloudy sky. To the immediate left is a rough stone wall with a window opening. Directly ahead and slightly left, a stone building features a green-shuttered window and a potted plant below, with the street forking towards distant hills. To the right, another stone building displays a dark doorway with a small sign.
+end of description
+No dynamic changes or newly revealed objects are observed across the subsequent frames; all images in the sequence appear identical to the first.

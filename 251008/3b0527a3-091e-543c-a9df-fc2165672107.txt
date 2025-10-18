@@ -1,0 +1,20 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a narrow canyon with towering, textured rock walls flanking both sides, extending into the background where they appear to converge. In the foreground, a pale gravel and sandy path occupies the left, while a murky, light brown river flows along the right side, moving away from the viewer.
+end of description
+Following frames reveal an extremely subtle, slow outward camera movement, causing the immediate foreground to slightly expand and the entire canyon scene to recede minimally. No new objects are introduced; all visible elements maintain their consistent relative positions throughout the sequence.
+frame_0000000128-frame_0000000256:
+The first frame presents a canyon view from within, featuring a wide, light-colored gravel path across the foreground and middle left, paralleled by a murky brown river flowing on the right. Towering light grey rock walls flank both sides of this passage, with a large prominent boulder resting in the middle ground on the left, near the river. Further into the distance, reddish-brown canyon walls with hints of green vegetation are visible between the towering rock faces.
+end of description
+As the frames progress, the viewpoint slowly moves forward into the canyon. This causes the gravel path and river to gradually extend, while the flanking rock walls and the large boulder subtly recede, making the distant canyon interior appear marginally closer.
+frame_0000000256-frame_0000000384:
+The first frame depicts a narrow canyon with a wide, rocky riverbed dominating the foreground and extending into the mid-ground slightly left of center. To the viewer's right, a shallow, muddy river flows, curving into the distance, flanked by a towering, textured rock wall. On the left, another jagged rock wall rises, with a large, light-colored boulder prominent in the mid-ground on the riverbed, and a brighter opening revealing distant reddish-brown cliffs and green foliage further ahead between the canyon walls.
+end of description
+As the sequence progresses, the viewpoint moves steadily forward into the canyon. The large boulder on the left appears to shift closer to the viewer and slightly to the left within the frame as the camera passes it. Simultaneously, the distant canyon opening and the reddish-brown cliffs become more prominent and closer to the viewer, revealing more of the path ahead between the receding canyon walls.
+frame_0000000384-frame_0000000512:
+The first frame displays a narrow canyon with a river flowing from the mid-ground towards the background along the right side. A wide, light-colored rocky and gravelly path fills the foreground and mid-ground on the left, next to the river. Steep, textured rock walls rise on both the left and right, meeting high above to frame a distant, brightly lit opening at the far end. A large, grey boulder is positioned prominently on the left side of the path in the mid-ground.
+end of description
+There are no dynamic changes, newly revealed objects, or scene alterations in the subsequent frames; the entire sequence appears to be a static image.
+frame_0000000512-frame_0000000640:
+The first frame shows a narrow canyon with steep, light-colored rock walls on both sides, a rocky path on the left, a shallow, calm river flowing along the right, and bright light visible at the distant canyon opening ahead.
+end of description
+Subsequent frames reveal no new objects; the scene remains largely static with only extremely subtle shifts in the camera's perspective, without any apparent movement of the river water.

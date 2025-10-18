@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame captures a brightly lit airport terminal featuring a metallic grid ceiling with numerous recessed lights. To the viewer's left, a moving walkway extends into the distance, paralleling a row of shops, one prominently displaying "DEALS." A wide, reflective central walkway stretches forward, receding into the distance where several people are visible, while to the right, rows of orange and red airport seating are arranged next to a large window wall, with a prominent vertical digital display screen in the mid-ground.
+end of description
+In subsequent frames, the digital display screen to the right of the central walkway dynamically cycles through various advertisements: initially showing a blue background with a white "thumbs up" icon, then a blue heart, followed by a yellow heart, a blue abstract human figure, and finally reverting to a white screen, all while other elements remain largely static.

@@ -1,0 +1,14 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a wet, narrow urban street sloping gently upwards into the distance under a cloudy sky. In the foreground, white '30' speed limit numbers are painted on the asphalt between yellow road lines relative to the viewer. To the viewer's left, a silver metal railing is positioned beside a green canopy draped with vines, which shelters a white car and a darker vehicle parked further down the street. Utility poles with numerous wires and distant buildings line the left side. On the right, two light blue traffic cones stand near white air conditioning units on a platform, below a wooden cabinet mounted high on a brick-colored building wall that extends into a parking garage entrance with striped pillars and planters with greenery.
+end of description
+Starting from the second frame, a vigorous stream of water emerges from an opening in the building wall on the right side, closest to the viewer and above the air conditioning units. This water rapidly cascades onto the sidewalk and spreads across the wet street, flowing towards the viewer and down the incline. The volume and intensity of this water flow visibly increase throughout the subsequent frames, while all other objects and the overall scene remain stationary relative to the first-frame viewpoint.
+frame_0000000128-frame_0000000256:
+A wet asphalt street, marked with a "30," extends into the distance, flanked on the left by a white car parked on a green surface and vine-covered structures, and on the right by a brick building with planters. A utility pole with numerous wires stands left of center, while distant buildings and misty hills are visible under an overcast sky.
+end of description
+As the video progresses, a faint trickle of water along the right curb near the striped barrier gradually intensifies. This stream of water, originating from the right side, becomes noticeably more prominent, flowing into the street and steadily spreading further across the wet asphalt towards the viewer in subsequent frames.
+frame_0000000256-frame_0000000384:
+The first frame depicts a wet, narrow urban street extending away from the viewer, appearing to curve slightly uphill. On the immediate left, the front portion of a white sedan is visible, parked on a green curb beside a utility pole adorned with various signs and a tangle of overhead wires. Further along the left side, a dark SUV and a white SUV are parked consecutively, while on the right, a brick building with a prominent bay window and planted greenery lines the street. Distant misty mountains and additional residential structures are discernible in the background.
+
+end of description
+
+No dynamic changes or newly revealed objects or scenes are observed in the subsequent frames; all visible elements remain stationary throughout the entire sequence.

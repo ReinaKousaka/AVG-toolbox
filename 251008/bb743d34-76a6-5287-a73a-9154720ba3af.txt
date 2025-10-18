@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a lush green woodland with a dirt path leading into the distance on the right, framed by dense foliage and trees. To the left, a narrow river flows, partially obscured in the immediate foreground by a large, ivy-covered tree trunk.
+end of description
+As the frames progress, the viewpoint moves forward along the dirt path into the scene. The large tree trunk on the far left of the initial frame gradually shifts out of the viewer's immediate foreground. Concurrently, more of the river to the left becomes visible, and the path extends further into the distance as the surrounding foliage moves past the viewer.
+frame_0000000128-frame_0000000256:
+The viewer stands on a dirt path stretching into the distance, bordered on the left by a flowing river and dense green foliage, including a prominent ivy-covered tree. Lush trees with vibrant green leaves line both sides of the path, creating a natural archway overhead.
+end of description
+As the camera moves forward along the path, the prominent ivy-covered tree, originally to the viewer's immediate left, progresses closer to the first-frame viewpoint and then passes behind it. The river, initially on the left, continues to parallel the path, with its earlier visible sections now further behind the original viewpoint. The portions of the path and surrounding forest that were originally in the mid-distance and background of the first frame progressively move into the viewer's foreground.
+frame_0000000256-frame_0000000384:
+A dirt path occupies the center of the frame, receding into the mid-distance and curving slightly to the right, flanked by dense green foliage. To the viewer's far left, a large vine-covered tree trunk stands prominently, with a body of water partially visible behind dense undergrowth further left. On the right, lush green vegetation rises from the path, backed by several trees forming a leafy canopy overhead.
+end of description
+The viewpoint subtly advances forward along the dirt path across the subsequent frames. As the viewer progresses, the body of water, initially glimpsed on the far left, becomes more prominent and appears closer to the viewer's left. The surrounding trees and undergrowth on both sides of the path gradually shift their relative positions, indicating a slow forward motion without revealing entirely new scene elements.

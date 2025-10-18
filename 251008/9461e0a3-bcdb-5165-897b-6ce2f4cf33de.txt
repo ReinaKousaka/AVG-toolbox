@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a rugged dirt path stretching from the foreground towards the upper center, flanked by steep, grassy slopes. Two individuals walk away from the viewer on the path: one in a dark jacket ahead and slightly left, and another in a khaki jacket closer and to their right. A distant valley and stone wall are visible descending to the far left.
+end of description
+Throughout subsequent frames, both hikers continuously move further along the path, receding into the distance relative to the first-frame viewpoint. The person in the khaki jacket, initially slightly behind and to the right, gradually walks past the person in the dark jacket.
+frame_0000000128-frame_0000000256:
+The first frame presents a wide view of a rocky, reddish-brown path ascending into the distance. Two individuals, one in a green jacket prominent, walk away from the viewer up this path in the mid-ground. To the viewer's left, a grassy slope leads to a stone wall and a valley with distant hazy hills, while a steep, brush-covered hill rises immediately to the right.
+end of description
+As the video progresses, the two individuals continue walking further away from the initial viewpoint along the path. The viewer's perspective steadily advances along the rocky trail, causing the distant valley to the left and the brush-covered hill to the right (relative to the first frame) to subtly shift their positions and appear to recede as the scene progresses forward. No new elements are revealed beyond this continuous movement through the existing landscape.
+frame_0000000256-frame_0000000384:
+A rocky, winding path leads into the mid-distance, occupied by two figures walking away from the viewer. To the left, a grassy slope descends to a stone wall and a distant valley, while a steeper, scrub-covered hillside rises immediately to the right.
+end of description
+The camera consistently tracks forward along the path through the subsequent frames, causing the two figures to steadily recede further into the distance from the first-frame viewpoint. As the perspective advances, the immediate foreground terrain shifts backward, revealing more of the path directly ahead, with the surrounding hillsides remaining to the left and right.

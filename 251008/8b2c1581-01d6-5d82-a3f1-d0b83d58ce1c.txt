@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a forest path winding from the bottom-left through abundant green ferns in the foreground and midground, receding towards the center-right. Tall tree trunks flank the path, with a smaller sapling in the midground, all surrounded by dense forest foliage and towering trees extending into the background.
+end of description
+The subsequent frames display no significant dynamic changes or newly revealed objects; the viewpoint remains almost static, with only minor, imperceptible shifts in the overall scene from the first-frame perspective.
+frame_0000000128-frame_0000000256:
+In the first frame, a winding, narrow dirt path occupies the bottom-left, extending from the viewer's immediate foreground into the mid-ground. Lush green ferns densely cover the ground from the bottom edge of the frame, flanking the path and extending across the entire mid-ground. Beyond the ferns, numerous tall trees with brown trunks and vibrant green foliage dominate the background, forming a dense forest that recedes into the distance, with a lighter-colored sapling standing centrally in the mid-ground.
+end of description
+There are no dynamic changes, newly revealed objects, or scene alterations observed in the subsequent frames; all frames remain identical to the first.

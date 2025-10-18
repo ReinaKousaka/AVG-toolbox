@@ -1,0 +1,6 @@
+frame_0000000000-frame_0000000128:
+In the first frame, the viewer is inside a grand, ornate hall, looking forward and slightly upwards. A large, multi-tiered crystal chandelier hangs prominently overhead in the upper central foreground. An elaborately frescoed, vaulted ceiling, rich with gilded architectural framing, extends into the background, flanked by rows of tall arched windows and dark pilasters on both the left and right sides. Numerous smaller crystal chandeliers are visible further down the hall, receding into the distance on either side.
+
+end of description
+
+From the initial viewpoint, the camera slowly tilts upwards throughout the subsequent frames, causing the large foreground chandelier to gradually move out of the top of the frame. This upward movement progressively reveals more of the elaborately painted and gilded vaulted ceiling that was originally directly above the viewer. The chandeliers and architectural elements further down the hall appear to shift slightly lower in the frame as the perspective changes.

@@ -1,0 +1,25 @@
+frame_0000000000-frame_0000000128:
+The first frame reveals a street view with bare tree shadows on the paved foreground, a person running left-to-right across a central crosswalk, and elevated concrete structures towering from the left-background, while traffic signs and a large tree frame the right side.
+end of description
+In subsequent frames, the running person progresses further right across the crosswalk and gradually out of view from the initial viewpoint. Simultaneously, a green train emerges from behind the elevated background structures, moving horizontally from left to right across the frame above the street. This train then continues its trajectory, becoming more fully visible as it traverses the elevated tracks to the right of the crosswalk and eventually exits the frame to the far right.
+frame_0000000128-frame_0000000256:
+A crosswalk stretches immediately in front of the viewer, marked with white stripes and tree shadows, flanked by a brown pole on the far left and a sign pole on the far right. Beyond this, an elevated concrete overpass spans the mid-ground, supported by columns, with bare trees, pedestrians walking to the left of center, and a green train carriage on tracks to the right of a central support, while city buildings rise in the background under a clear sky.
+end of description
+A person initially running across the crosswalk from the viewer's left to right moves completely off-screen to the right. Simultaneously, the green train carriage visible on tracks to the right of the central overpass support gradually progresses from left to right across the mid-ground, eventually disappearing from view to the right.
+frame_0000000256-frame_0000000384:
+In the foreground, a crosswalk with tree shadows stretches across the street, leading to a sidewalk on the left occupied by pedestrians and bare trees. Above, a large concrete overpass curves from the left across the frame's center. To the right, an elevated green train track carries a green train, with distant buildings beneath a clear blue sky.
+
+end of description
+
+Across subsequent frames, the green train on the elevated track moves consistently from its initial left position towards the right, eventually exiting the frame.
+frame_0000000384-frame_0000000512:
+The first frame presents a wide urban street scene featuring a prominent pedestrian crosswalk in the lower right foreground. An elevated concrete highway bridge spans the upper left and center background, beneath which a green train is visible on an elevated track moving left-to-right. A paved sidewalk with several pedestrians extends into the midground, flanked by bare-branched trees, while a red asphalt road with a white car on the far right leads towards distant city buildings. end of description
+The green train in the mid-background consistently moves from left to right across the elevated tracks throughout the frames. Simultaneously, the pedestrians on the sidewalk progress further into the scene, appearing to walk away from the viewer.
+frame_0000000512-frame_0000000640:
+In the first frame, a paved walkway extends from the viewer into the distance, bordered by bare-branched trees and a low fence on the right and green bushes on the left, next to a large light-green utility box. A white crosswalk is visible in the bottom right foreground. In the midground on the left, a masked person stands looking at a dark information board with a yellow 'i' symbol, while further along the walkway, a person in a blue jacket walks away from the viewer. An elevated concrete highway structure spans the upper part of the frame, supported by pillars, with city buildings and a green train on an elevated track visible in the far background.
+end of description
+Throughout the subsequent frames, the masked person moves away from the information board, walking towards the right and slightly further into the background relative to the initial viewpoint. Simultaneously, the person in the blue jacket continues to recede along the walkway, moving deeper into the background. The green train on the elevated track also dynamically moves from right to left across the background, becoming more distinct as it passes.
+frame_0000000640-frame_0000000768:
+In the first frame, a man (hat, mask, blue jacket) stands prominently in the immediate foreground-left next to a dark information board with a yellow 'i' symbol. Behind them, a concrete elevated road extends across the mid-upper frame, with a pedestrian path below it, flanked by bare trees on the right, leading towards distant city buildings, and a green train visible on an elevated track in the mid-right.
+end of description
+As frames advance, the viewer moves slightly forward, causing the man and information board to shift further left into the foreground. The man adjusts his posture, looking down at his phone, while the green train on the elevated track in the mid-right actively moves out of view to the right, revealing more of the city structures behind it.

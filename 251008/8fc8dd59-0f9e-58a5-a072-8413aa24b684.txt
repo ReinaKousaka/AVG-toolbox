@@ -1,0 +1,20 @@
+frame_0000000000-frame_0000000128:
+The viewer observes two sets of parallel train tracks extending into the distance under a clear blue sky. To the immediate front-left stands a tall utility pole with a green-yellow rectangular signal box, flanked by dense vegetation and dry fields. On the right, open dry fields stretch towards the horizon, where several utility poles with overhead wires run parallel to the tracks, leading into the vanishing point.
+end of description
+As the train moves forward, the initial signal pole on the front-left rapidly recedes out of frame. A small, square building with graffiti on its facade emerges in the far distance to the right of the tracks. This building swiftly approaches and then passes on the viewer's right side as other utility poles and the surrounding landscape of fields and distant trees continuously scroll from the foreground to the sides, then behind the viewer.
+frame_0000000128-frame_0000000256:
+The viewer looks forward along three parallel train tracks receding into the distance under a clear blue sky, with fields and distant trees bordering both sides; overhead power lines stretch along the path, and a small yellow marker is positioned between the left and middle tracks in the mid-ground.
+end of description
+As the viewpoint moves forward along the tracks, the initial yellow marker passes by to the left. A concrete barrier then emerges on the right side of the tracks, closer than the initial scene, and also moves past the viewer. Subsequently, a new, larger utility pole with yellow markings rapidly appears from the distant right, approaches the foreground, and moves out of view.
+frame_0000000256-frame_0000000384:
+The first frame displays train tracks stretching into the distance, flanked by golden fields and distant trees under a clear blue sky. Utility poles with overhead wires line both sides above the tracks, also receding towards the vanishing point.
+end of description
+As the viewpoint moves forward along the tracks, the immediate foreground continuously changes. A small dark marker emerges on the right side, followed by a larger yellow and white structure appearing closer to the right. Both objects progressively approach and then pass to the viewer's right as the journey continues.
+frame_0000000384-frame_0000000512:
+The first frame shows two parallel train tracks extending into the distance, gradually curving to the right, surrounded by brown ballast. Golden fields stretch out to the left and right, with dark green forests visible on the horizon, all beneath a clear blue sky, with overhead electrical lines and support poles above the tracks.
+end of description
+As the viewpoint moves forward, the tracks and landscape recede while new elements appear from the distance and pass by. A utility pole with a blue and white 'X' sign gradually approaches from the mid-distance on the right side, eventually passing out of view to the right. Subsequently, a small rectangular utility cabinet, initially seen in the right mid-ground, moves closer and passes the viewer on the right, revealing graffiti on its side.
+frame_0000000512-frame_0000000640:
+From a low perspective on railway tracks, four parallel tracks extend towards a distant curve under a clear blue sky. To the immediate right, a gravel path with weeds runs alongside the tracks, featuring a graffiti-covered utility box in the foreground. To the left, a golden-brown field stretches towards a line of green trees. Overhead, power lines span across the scene, supported by distant poles.
+end of description
+As the viewpoint moves forward along the tracks, the utility box on the right recedes and disappears. A yellow triangular sign on a pole, initially in the middle ground to the right, moves closer and passes by. Subsequently, another smaller yellow sign appears further down the leftmost track and approaches, while a taller pole with overhead wires and a yellow triangular sign attached on the right also draws nearer.

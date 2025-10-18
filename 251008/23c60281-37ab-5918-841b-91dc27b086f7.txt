@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a snowy winter scene with a light grey house visible in the midground, partially obscured by a dark green, snow-dusted hedge. To the viewer's left, a pedestrian crossing sign stands near a tree trunk, while a snow-covered sidewalk and bare trees extend into the distance on the right.
+end of description
+Subsequent frames show no discernible dynamic changes or newly revealed objects; the scene remains static with the same spatial arrangement of elements.
+frame_0000000128-frame_0000000256:
+The first frame presents a winter scene featuring a large light-grey house with a snow-dusted roof, visible behind a long, dark green hedge stretching across the midground from the left to the right. Snow covers the ground in the immediate foreground and a snow-covered path is on the far right, while bare tree branches hang from the top-left and an overcast sky looms in the background. A smaller, darker house is partially visible further back and to the right of the main house.
+end of description
+In subsequent frames, two cars are newly revealed behind the hedge in the driveway, relative to the first-frame viewpoint. A white car appears in the midground, behind the left-center portion of the hedge, while a dark SUV becomes visible behind the right-center portion of the hedge.

@@ -1,0 +1,10 @@
+frame_0000000000-frame_0000000128:
+The first frame captures a bustling city street under a clear blue sky, featuring a pedestrian's back in the lower-left foreground, a white car turning at a central intersection, and streets lined with shops, buildings (including a blue-roofed one on the right), and numerous other pedestrians extending into the distance.
+end of description
+Throughout the subsequent frames, the white car at the central intersection continues its turn to the right, moving progressively further from the initial viewpoint. Concurrently, the pedestrian in the lower-left foreground walks forward, and other pedestrians on both sidewalks also advance slightly from their original positions.
+frame_0000000128-frame_0000000256:
+The first frame presents a bustling urban street under a clear blue sky. In the foreground, the back of a person in a white shirt with a green bag is visible on the viewer's lower left, facing away. A wide asphalt street occupies the mid-ground, featuring yellow crosswalk lines and several vehicles, most notably a white sedan stopped at an intersection to the right. Pedestrians are scattered along the sidewalks on both sides of the street, and a tall, dark streetlamp stands on the far left. The background is filled with various buildings and green trees, including a structure with a blue-tiled roof on the right and a taller light-colored building behind a large central tree.
+
+end of description
+
+As the frames progress, the white sedan on the right inches forward slightly, and pedestrians on the sidewalks continue to move about. A distinctive white sports car with blue accents then appears from the left foreground, slowly making a right turn into the intersection, passing to the left of the white sedan. This sports car continues to navigate the turn, moving further into the mid-ground of the scene.

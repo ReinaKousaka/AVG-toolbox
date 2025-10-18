@@ -1,0 +1,16 @@
+frame_0000000000-frame_0000000128:
+In the first frame, a pedestrian crosswalk is visible in the foreground spanning the lower left, leading to a wet asphalt road that curves right. To the left stands a tall dark building with a yellow 'NO PARKING' sign, adjacent to a sidewalk featuring yellow tactile paving and black bollards. A white Tesla car is parked on the mid-right side of the wet road, partially obscured by the frame edge, while a small portion of a grey car is visible on the far right. Lush green trees line a path in the mid-background, with distant apartment buildings under an overcast sky.
+
+end of description
+
+The white Tesla car, initially positioned mid-right on the wet road, begins to move forward and eventually exits the frame to the right. As the Tesla departs, a silver car emerges from behind its initial position, moving forward from the left side of the road. This silver car then proceeds across the frame, moving from left-center towards the right, and eventually exits the scene to the far right, leaving the wet road clear.
+frame_0000000128-frame_0000000256:
+The first frame depicts a street scene under an overcast sky. To the immediate left, a yellow 'no parking' barrier stands on a concrete sidewalk that features yellow tactile paving and two black bollards, leading towards a building with dark windows and an orange cone. To the right, a wet asphalt road with a yellow curb and a black metal railing extends into the midground, where a green bus and a dark car are visible amidst lush trees and bushes. A street light pole with a blue directional sign and a speed limit sign is also present in the midground, with residential buildings on a distant hillside in the background.
+end of description.
+In the following frames, a silver compact car appears from the right side of the wet road in the midground and proceeds to drive across the scene, passing the first-frame viewpoint and exiting the frame to the left.
+frame_0000000256-frame_0000000384:
+The first frame displays a wet urban sidewalk on the left, marked by a yellow tactile path and two black bollards with yellow tops, extending towards the background. To the right, a wet asphalt road, edged by a black railing and orange traffic cones, curves into the distance, with a dark car partially visible on its far right side, moving away from the viewer. A lush green strip of bushes and trees separates the sidewalk and road, behind which a green bus and distant buildings are visible under an overcast sky. A modern building is present on the far left, and a utility pole with street signs stands near the road.
+
+end of description
+
+In the subsequent frames, the dark car on the far right of the road continues to move away from the viewer, progressively exiting the frame to the right until it is no longer visible by the third frame. No other significant dynamic changes or newly revealed objects occur in the remaining frames.

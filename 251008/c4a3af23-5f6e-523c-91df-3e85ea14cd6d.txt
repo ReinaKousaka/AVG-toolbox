@@ -1,0 +1,6 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a group of masked individuals in the foreground, with a person in a red jacket pointing left and another in a pink jacket looking at a phone, positioned before an elaborate traditional Chinese building. This structure features dark wooden pillars adorned with gold calligraphy, intricate lattice work above and on either side, and a central dark plaque containing a screen and more calligraphy. Through the archway in the background, green foliage is visible.
+
+end of description
+
+In the following frames, the person in the red jacket lowers their pointing arm and subtly shifts their body forward. Concurrently, the person in the pink jacket slightly repositions their phone. No new objects or scenes are revealed, as other individuals in the mid-ground and background make only minor, gradual movements within the existing architectural setting.

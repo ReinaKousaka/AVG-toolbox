@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame displays an aerial view of a blue-green lake filling the left and foreground, running alongside a two-lane road from bottom-middle to top-left. To the right of the road, a dense forest with autumnal colors extends, while a small blue car is parked on the road's left shoulder in the upper-left portion of the scene.
+end of description
+Throughout the subsequent frames, the camera subtly zooms out and slightly pans left and upward, expanding the view of the lake and the road further into the upper-left region. The previously parked blue car remains stationary on the road's left shoulder, gradually moving with the expanding scene towards the upper-left of the original viewpoint. Additionally, the lake's surface exhibits minor rippling, indicating gentle water movement.
+frame_0000000128-frame_0000000256:
+The first frame presents an aerial view of a vivid blue-green lake filling the left side, edged by a road that runs diagonally from the upper-left to the bottom-right. To the road's right is a dense forest displaying various shades of green and some autumnal colors, while a small blue car is parked on the road's left shoulder in the upper-mid section.
+end of description
+In subsequent frames, two white boats gradually appear on the lake further to the viewer's left and in the background. Following this, the blue car begins to move along the road, traveling away from the viewer towards the bottom-right, exiting its initial parked position.
+frame_0000000256-frame_0000000384:
+The initial frame shows an aerial view of a wide, blue-green lake on the left, with small white boats and distant houses visible in the upper-left. A two-lane road runs diagonally across the middle, bordered by a narrow green bank on the left and a dense forest on the right, extending into the background. A dark car is parked on the road's left shoulder near the center of the frame.
+end of description
+In the following frames, the dark car, initially stationary, begins to move forward along the road, driving away from the viewer towards the upper-left of the first-frame viewpoint.

@@ -1,0 +1,11 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a narrow, paved road extending from the bottom center into the misty distance, flanked by a steep, rocky mountain slope with sparse green vegetation on the right. To the left, the landscape descends into a thick bank of fog, from which a tall, dark pole with a small, indistinct top emerges near the road's edge. The sky above is uniformly gray, blending seamlessly with the encompassing mist. end of description
+As the sequence progresses, the viewpoint advances along the road, causing the detailed rocky slope on the right to pass closer to the viewer. The prominent pole on the left moves from a mid-left position toward the far left before receding out of view as the journey continues into the persistent fog.
+frame_0000000128-frame_0000000256:
+The viewer is on a narrow, paved road extending forward and curving gently right into a misty distance. To the immediate left, a steep, fog-shrouded rocky slope with sparse greenery ascends, featuring a thin pole topped with an orange marker near the viewer. To the right, a rugged, rocky mountain face, partially obscured by mist but with visible green patches, rises steeply alongside the road.
+end of description
+The viewpoint advances steadily along the road, revealing more of the rocky terrain on both sides as the mist on the left slightly recedes. The initial pole on the left moves out of view, and a new red-and-white striped marker pole emerges further ahead on the left side of the road. More of the textured, rocky slope and scattered green foliage on the right mountain face are progressively unveiled as the journey continues.
+frame_0000000256-frame_0000000384:
+The first frame presents a narrow, paved road extending from the viewer's foreground into the distant mist, gently curving right. To the left, a rocky slope with sparse greenery and two red-and-white striped poles descends into thick fog, while a steep, rocky incline covered in green foliage rises to the right.
+end of description
+As the viewpoint moves forward along the road, the red-and-white poles on the left pass the viewer and recede. Simultaneously, the fog on the left side appears to thin, revealing more of the rocky terrain, and a new, dark signpost becomes increasingly clear further ahead on the left side of the road, approaching the viewer's position.

@@ -1,0 +1,14 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a paved road curving gently to the right in the distance, under a clear blue sky. To the viewer's left, a dense forest of tall, green evergreen trees lines the road. To the viewer's right, a sparser forest with a mix of green and brown trees slopes slightly upwards from the roadside.
+end of description
+As the frames progress, the viewpoint moves steadily forward along the road, causing the surrounding forests on both the left and right to appear to recede and reveal more of the path ahead relative to the first-frame viewpoint. The curve in the road ahead becomes progressively closer.
+frame_0000000128-frame_0000000256:
+The first frame displays a gray asphalt road stretching directly in front of the viewer, gently curving to the right in the mid-distance, with double yellow lines on the left and a white line on the right shoulder. Dense evergreen forests line both sides of the road, receding into the distance, beneath a clear blue sky above. end of description. As the frames progress, the viewpoint moves continuously forward along the road, causing the roadside forests and the curving asphalt ahead to gradually approach and pass the viewer, revealing previously distant sections of the path.
+frame_0000000256-frame_0000000384:
+The first frame captures a two-lane asphalt road, marked with double yellow center lines and white shoulder lines, extending from the viewer's immediate foreground into the distance and curving gently to the right. On both sides, dense forests of tall evergreen trees line the road, reaching towards a clear blue sky that occupies the upper portion of the scene.
+end of description
+As the viewpoint moves forward, sections of the road and trees initially in the first frame's foreground recede behind the viewer, while previously distant elements of the road and forest continuously approach and pass by from the front. No new distinct objects or scenes are revealed; instead, the continuous forest landscape unfolds ahead from a progressing perspective, always maintaining the road's rightward curve.
+frame_0000000384-frame_0000000512:
+The first frame displays a paved, two-lane road with double yellow lines in its center and a white shoulder line on the right, curving gently ahead. Dense evergreen forests flank both sides of the road, receding into the distance, all under a clear blue sky.
+end of description
+As the frames progress, the viewer's perspective moves forward along the road, causing the immediate road and trees that were initially in the foreground to advance towards and then past the original viewpoint. Concurrently, new segments of the curving road and additional forest details that were further ahead in the initial frame are continuously revealed directly in front of the viewer.

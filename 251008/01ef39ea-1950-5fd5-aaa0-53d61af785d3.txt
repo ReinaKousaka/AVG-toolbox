@@ -1,0 +1,22 @@
+frame_0000000000-frame_0000000128:
+The first frame captures a paved road extending into the distance, flanked by buildings. To the immediate left is a light-colored multi-story building with balconies and a yellow mailbox, while a dark-leafed tree partially obscures another building with balconies on the immediate right, all beneath a blue sky with distant green mountains.
+
+end of description
+
+As the viewer moves forward along the road, the initial building on the left and the tree on the right move out of view, revealing a green mountain slope and a parked car to the left, and fully exposing the building on the right. Further down the road on the left, pedestrians become visible near a large white sign, as the entire street scene and distant objects steadily approach the viewer's updated position.
+frame_0000000128-frame_0000000256:
+The first frame displays a paved road stretching forward, bordered on the right by a large light-yellow building with brown balconies and on the far left by a steep green mountain slope. Several people are crossing the street on the left, while a black car is parked roadside on the right.
+end of description
+The viewpoint advances along the road, causing the people on the left to move out of the frame. Simultaneously, a person emerges from the driver's side of the black car on the right, walks around, and interacts with the passenger side. As the viewer progresses, new vehicles appear further down the road on the right, and a street lamp adorned with a Swiss flag becomes more prominent on the left.
+frame_0000000256-frame_0000000384:
+The first frame displays a road extending away from the viewer, bordered on the left by a large, dark-roofed building (Gasthaus zum Kreuz) with lush greenery and a mountain behind it. On the right, a parking lot with multiple cars, colorful residential buildings, and a light blue Hyundai Kona with a pedestrian are visible; a Swiss flag is partially seen on the far left.
+end of description
+As the viewpoint moves forward, the white car and pedestrian on the right move out of frame, and the Swiss flag on the left also disappears. More of the Gasthaus zum Kreuz building on the left and new blue parking signs on the right are revealed and become closer. A pedestrian reappears walking on the left sidewalk, and a white van becomes visible further down the road on the left, approaching the viewer.
+frame_0000000384-frame_0000000512:
+A paved road with a dashed white line occupies the foreground, extending into the distance. To the left, a multi-story brown wooden building, 'Gasthaus zum Kreuz', with balconies adorned with red flowers and a yellow and red flag, stands beside the road. On the right, a parking lot holds several parked cars, backed by other buildings of various colors and distant green mountains under a blue sky with scattered clouds.
+end of description
+As the frames progress, the viewpoint moves forward along the road. A woman appears walking on the sidewalk to the left of the initial viewpoint, moving away from the viewer, passing the 'Gasthaus zum Kreuz' which reveals more of its facade, including a red Swiss flag and then a green cross flag, before she eventually exits the frame on the far left. Simultaneously, the parked cars on the right shift further out of view to the right, and new cars are revealed further down the parking lot as the perspective advances.
+frame_0000000512-frame_0000000640:
+The first frame displays a street extending into the distance, flanked by a dark brown building with a Swiss flag on the immediate left and several parked cars, including a blue SUV, on the right. Further along the road, more buildings and a large green tree are visible, with mountains in the background under a blue sky.
+end of description
+As the frames progress, the viewer's perspective moves forward along the street. The initial dark brown building and the blue SUV on the right recede and move out of frame, revealing more distant parked cars and buildings further down the road to the left and right.

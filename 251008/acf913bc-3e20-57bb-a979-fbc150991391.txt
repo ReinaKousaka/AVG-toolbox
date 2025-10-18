@@ -1,0 +1,14 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a view from a road, with a dark SUV ahead, a steep, forested mountain on the left, and a decorative barrier on the right, bordering a river and distant mountains under a cloudy sky, with solar-powered streetlights lining the right side.
+end of description
+As the scene progresses, the viewer moves forward along the road, causing the mountain on the left to gradually unfold its rock face and the decorative barrier on the right to recede. New trees and another streetlight appear and pass on the right, revealing more of the river and a small gazebo-like structure further ahead.
+frame_0000000128-frame_0000000256:
+A dark grey asphalt road with a single yellow lane marker on its left stretches directly ahead. A dark-colored SUV, with its brake lights illuminated, is directly in front of the viewer, moving away. To the viewer's immediate left, a steep, vegetated mountain face rises, while to the right, a low concrete barrier with decorative patterns runs alongside the road. Beyond the barrier, further to the right, are several green trees, streetlights with solar panels, and a glimpse of a small gazebo and body of water. Distant mountains under a cloudy sky complete the background.
+end of description
+The viewer's perspective moves forward along the road, causing the dark SUV ahead to progressively recede further into the distance, with its brake lights intermittently illuminating and extinguishing. The foreground landscape, including the road barrier, streetlights, and trees on the right, appears to move closer and then past the viewer. This continuous forward motion reveals more of the winding road ahead and the mountainous scenery on both sides.
+frame_0000000256-frame_0000000384:
+In the first frame, the viewer is on a gray asphalt road with a yellow center line, following a dark SUV with illuminated taillights in the middle distance. To the immediate left, a steep, rocky mountain covered in green foliage rises sharply, while to the right, a low concrete barrier with faded markings borders the road, beyond which a few small trees and greenery are visible. In the background, larger, distant green mountains stand beneath a cloudy sky, with some utility poles featuring solar panels scattered along the road.
+
+end of description
+
+As the frames progress, the viewer moves forward along the road, continuing to follow the dark SUV. The steep green mountain on the left gradually reveals more of its base, while buildings and small structures begin to appear closer on the left side of the road. On the right, new sections of the concrete barrier become visible, eventually revealing a numerical marker '22' on its surface, and more distant trees and a calm body of water emerge beyond the barrier.

@@ -1,0 +1,16 @@
+frame_0000000000-frame_0000000128:
+From a train's perspective, parallel tracks on a gravel bed recede into a gentle right curve in the distance, flanked by a steep, rocky mountain slope with bare branches and a utility pole on the left, and a gentler slope with leafless trees and a river with snow patches on the right. Snow-capped mountains rise in the distant background under a cloudy sky.
+end of description
+As the train advances, the immediate landscape on both sides continuously moves from the mid-ground towards the foreground and then behind the viewer. The train steadily follows the tracks' rightward curve, revealing a tunnel entrance further ahead along the route that progressively comes into clearer view directly in front of the viewer.
+frame_0000000128-frame_0000000256:
+The first frame shows a set of train tracks on a gravel bed, curving slightly to the right in the mid-ground, leading towards a dark tunnel entrance nestled against a steep rock face on the left. To the right of the tracks, a tree-covered slope ascends, with bare branches and some evergreens, while snow-capped mountains are visible in the far background under an overcast sky.
+end of description
+The viewer moves forward along the tracks, causing the tunnel entrance to progressively enlarge and shift towards the center. The steep rock face and its developing safety netting on the left, along with overhead power lines, move from the mid-ground to the immediate left of the viewer. Concurrently, the tree-covered slope on the right approaches and then recedes to the right of the initial viewpoint, as the train progresses towards the tunnel.
+frame_0000000256-frame_0000000384:
+The first frame presents a train track extending forward towards a dark tunnel entrance, curving gently to the right. Steep, rocky cliffs flank both sides; the left cliff is covered with a protective wire mesh, while trees top the right.
+end of description
+Subsequent frames show the viewpoint moving forward, causing the track and tunnel to approach. A utility pole with overhead wires progressively appears on the left side, originating from the first-frame's distant left cliff and moving closer towards the viewer.
+frame_0000000384-frame_0000000512:
+A view down two parallel train tracks, set on a gravel bed, leads towards a dark, arched tunnel entrance in the mid-ground. Steep, rocky mountainsides flank the tracks, with a mesh net securing the left wall and sparse trees covering the right, all under an overcast sky in the background.
+end of description
+The viewer moves forward along the tracks, causing the rocky walls on both sides to rush past and the tunnel entrance to rapidly enlarge. The concrete portal of the tunnel becomes increasingly prominent, filling the central view as the camera steadily approaches. By the final frames, the camera is fully engulfed by the dark interior of the tunnel.

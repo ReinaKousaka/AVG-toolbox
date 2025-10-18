@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a narrow, cobbled street at night, lined with illuminated buildings and parked cars. On the left, a dark car partially fills the bottom, followed by a light grey car, while a large white truck dominates the right mid-ground, with another car in the bottom right foreground. The street continues into the distance with more buildings and faint figures.
+end of description
+The viewpoint progresses forward, causing the dark car on the left and the car on the bottom right to move out of frame behind the initial position. The light grey car on the left and the large white truck on the right subsequently recede out of view, revealing more of the street and buildings previously obscured further down on both sides.
+frame_0000000128-frame_0000000256:
+The first frame captures a narrow, wet cobblestone street at night. To the immediate left, the rear of a silver hatchback is visible, with a line of parked cars extending behind it along cream-colored buildings. On the right, a large white semi-trailer truck dominates the foreground. The street recedes into the distance, revealing an illuminated archway and faint figures in the background.
+end of description
+In the following frames, the viewer's position shifts slightly forward and left; the silver hatchback on the near left moves further out of view, progressively revealing a silver SUV previously behind it on the left. Concurrently, the semi-trailer truck on the right slightly shifts further right relative to the frame, and the buildings on the left become more prominent, widening the perceived scene.
+frame_0000000256-frame_0000000384:
+The first frame depicts a narrow cobblestone street at night, flanked by tall buildings with illuminated windows and a dark sky above. On the immediate left, a silver car is partially visible, followed by a white SUV, both parked facing away from the viewer. A large white truck trailer with a blue cab occupies the right side of the foreground, also parked. A person in dark clothing walks away from the viewer down the center of the street, towards a brightly lit building facade and storefront in the distant background.
+end of description
+Following the first frame, the person in dark clothing continues walking further away down the cobblestone street. Concurrently, the large blue and white truck on the right slowly advances forward, away from the viewer, revealing more of its blue cab and additional parked cars lining the street deeper into the scene.

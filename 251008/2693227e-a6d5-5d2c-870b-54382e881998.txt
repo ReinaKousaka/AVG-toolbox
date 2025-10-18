@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a rainy street scene featuring a white sedan's rear occupying the immediate foreground right. A person holding a black umbrella is partially visible behind this car, on the sidewalk to its left. Further left, a second white sedan approaches on a wet, red-painted road, with a tree-covered hillside beyond it. In the background, buildings and a '30' speed limit sign are visible.
+end of description
+The white sedan on the foreground right drives away from the viewer, revealing the umbrella-holder who then walks to the right, stepping further into the foreground relative to the initial viewpoint. Simultaneously, the white sedan from the left proceeds straight, passing the now-empty space where the first car was, and continues moving further away from the viewer towards the left of the frame.

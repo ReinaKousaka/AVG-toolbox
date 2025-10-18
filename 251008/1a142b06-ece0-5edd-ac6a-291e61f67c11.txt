@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a viewpoint from a vehicle on a winding asphalt road. The road occupies the lower half, curving right in the foreground before arcing left towards distant mountains. To the immediate right is a steep, rocky embankment with trees, while to the left, a verdant hillside slopes down into a valley. Large mountains dominate the background under a clear blue sky, and tree shadows stretch across the road.
+end of description
+As the frames progress, the viewpoint moves forward along the road. The road continuously advances towards the viewer, with the white line on the right moving from the mid-ground into the foreground and passing the viewer. The rocky embankment and trees on the right, and the green hillside on the left, steadily shift from distant to closer positions, then moving out of view towards the bottom right and left respectively. The distant mountains remain centered as the road continues to curve.

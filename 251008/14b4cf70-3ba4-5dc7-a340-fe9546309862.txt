@@ -1,0 +1,16 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a narrow, ancient-looking stone staircase ascending between two stone walls. To the left, a textured gray wall features a small barred window at its lower section, while to the right, a rough stone wall transitions into a smoother, lighter upper part. At the top of the steps, an arched gray door, adorned with multiple potted plants showcasing green foliage and vibrant red flowers, serves as a focal point.
+end of description
+No dynamic changes, newly revealed objects, or scene alterations are observed in the subsequent frames; all provided images are identical to the first frame.
+frame_0000000128-frame_0000000256:
+The first frame presents a narrow stone alleyway leading upwards to an arched gray-blue door in the background, adorned with red flowers in pots and a hanging planter. To the left, various potted green plants line the stone steps, while a plain, light-colored wall partially obstructs the view on the right foreground.
+end of description
+Subsequently, the viewer's perspective subtly shifts forward and slightly to the right, causing the obscuring wall on the right foreground to gradually recede out of view. This movement reveals more of the stone steps directly in front of the archway, making the door and its surrounding plants appear more centered and closer to the first-frame viewpoint.
+frame_0000000256-frame_0000000384:
+The first frame prominently features an arched, dark grey door with a diamond-patterned grille, set in a rustic stone wall. To the door's left, several potted plants with vibrant red flowers and green foliage line the stone steps, while a plain light-colored wall occupies the right foreground.
+end of description
+The view slowly shifts right, revealing more of the stone building to the door's right. As the camera continues to move, a dark rectangular panel becomes visible on this newly revealed wall section, followed by a small window adorned with red flowers and hanging vines, positioned higher and further right relative to the initial viewpoint.
+frame_0000000384-frame_0000000512:
+A grey arched doorway, adorned with a brown pot holding red flowers, stands centrally within an old stone wall building. A small evergreen bush is positioned in front of the lower door, with another small brown pot containing red flowers to its left. To the right of the door, a window opening above a dark rectangular plaque features a brown planter box with red flowers and trailing green plants. More green foliage partially obscures the stone wall on the far left.
+end of description
+The viewpoint subtly shifts forward, upward, and slightly to the right. This movement causes the door and surrounding stone wall to appear slightly larger and closer, while gradually revealing less of the foliage on the far left side of the frame.

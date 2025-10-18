@@ -1,0 +1,28 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a narrow, paved street extending away from the viewer, bordered by a weathered building on the left with pipes, a green mailbox, a balcony, and two terracotta pots near a doorway. To the right, a lighter building features a dark doorway, a light blue garage-like door, a white wall topped with red flowering vines, and a potted plant. Distant buildings are visible ahead under a bright sky.
+end of description
+In subsequent frames, a third terracotta pot is revealed on the ground to the left of the initial two potted plants, positioned closer to the viewer along the weathered building's wall.
+frame_0000000128-frame_0000000256:
+The first frame depicts a narrow, paved alley flanked by old buildings. On the left, a weathered wall with a door and pipes gives way to more distant structures, while to the right, a white wall topped with red flowers leads to a teal gate and a dark brown door. A person on a scooter is visible far down the alley's center, receding into the background.
+end of description
+In subsequent frames, the scooter rider moves progressively closer to the viewer, shifting from a distant central position to a more prominent, closer position on the left side of the alley.
+frame_0000000256-frame_0000000384:
+The first frame depicts a narrow, sunlit street extending into the distance, enclosed by old buildings and walls. To the viewer's immediate left, an aged stone wall featuring a brown wooden door and a potted plant leads to multi-story buildings further down the street. On the right, a cream-colored building presents a dark brown door near the viewer and a green metal gate, with flowering plants atop a white wall receding into the background.
+end of description
+Throughout the subsequent frames, a person on a dark scooter, initially visible far in the distance directly ahead, steadily approaches the viewer down the center of the street.
+frame_0000000384-frame_0000000512:
+The first frame shows a narrow street, with a weathered stone wall on the left foreground and a building featuring a large green double gate on the right. Further down the street, a person on a black motorcycle is visible, approaching the viewer, while old buildings and flowering bougainvillea-like plants line the distant background.
+end of description
+The motorcycle, initially positioned in the mid-ground, steadily moves closer to the viewer in subsequent frames, passing over two rectangular speed bumps. The rider and vehicle become increasingly detailed as they advance, maintaining their path on the street. By the final frame, the motorcycle has reached the foreground-to-mid-ground, appearing significantly larger and closer to the original viewpoint.
+frame_0000000512-frame_0000000640:
+The first frame captures a narrow paved road receding into the distance, bordered by a stone wall on the left and a white wall with a green gate on the right, topped with foliage and red flowers; old buildings are visible further down the path in the background. In the immediate left foreground, a person wearing a helmet and black jacket is partially visible on a motorcycle, facing away from the viewer.
+end of description
+As the frames progress, the motorcycle and rider move completely out of view to the left, revealing more of the stone wall and the road's two speed bumps, which were previously obscured on the left side of the initial path. The overall scene remains consistent with the first-frame viewpoint, with no entirely new objects or scenes emerging, only clearer views of elements already present within the initial frame's scope.
+frame_0000000640-frame_0000000768:
+The first frame presents a narrow paved street, featuring two speed bumps in the foreground, bordered by a stone wall with foliage on the left and a white wall with overhead greenery on the right, leading towards old buildings in the distant background.
+end of description
+As the camera advances along the street, the speed bumps pass behind the original viewpoint. The flanking walls appear to move past the sides of the original viewpoint, revealing more of the street ahead and bringing the distant buildings into closer view from the original position.
+frame_0000000768-frame_0000000896:
+The first frame shows a narrow, sunlit street or alleyway. To the viewer's immediate left, a weathered stone wall, partially covered in green foliage, extends into the mid-ground. Directly opposite, on the right, a tall white wall with a grey base, also adorned with green vines near its top, runs parallel to the street. In the distance, the asphalt road curves slightly, flanked by multi-story residential buildings on both sides, beneath a clear blue sky.
+end of description
+As the frames progress, the viewpoint advances slightly down the street. Both the stone wall on the left and the white wall on the right recede, making the road appear wider as the viewer moves forward. A dark pole or signpost, initially partially obscured on the left side of the street, becomes more prominent, indicating the forward motion.

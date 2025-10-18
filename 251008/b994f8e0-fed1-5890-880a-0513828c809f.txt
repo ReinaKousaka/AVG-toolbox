@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a paved outdoor area with a large concrete pillar and green planters to the left, while an open black metal fence sits centrally in the midground. Beyond the fence, bare trees and streetlights populate a courtyard, with a modern building visible on the far left. In the background, distant mountains are silhouetted under a cloudy sky, with a prominent yellow lattice tower standing tall on the right.
+end of description
+In the subsequent frames, the horizontal arm of the yellow lattice tower in the background slowly rotates counter-clockwise from the viewer's perspective. This dynamic movement progressively reveals more of the cloudy sky and distant mountains that were previously obscured by the arm's initial position to its right.

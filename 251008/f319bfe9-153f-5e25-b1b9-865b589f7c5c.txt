@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a paved road leading into a sunlit village, flanked by traditional buildings. To the viewer's immediate left, a dark vehicle is parked next to a wooden building, with more houses and a distant snowy mountain peak visible further down the street. On the right, a light-colored two-story building with multiple wooden balconies and a small black fence along its porch features potted plants and visible windows.
+end of description
+As the frames progress, the viewer moves forward along the road, causing the dark vehicle on the far left to gradually disappear from view and the light-colored building on the right to reveal more of its facade and front porch decorations. The overall perspective shifts, making the buildings on both sides appear closer and larger, while the distant snowy mountain peak remains visible to the far left.
+frame_0000000128-frame_0000000256:
+In the first frame, a dark road occupies the foreground, leading to a low black fence. Beyond the fence, a white building with a wooden balcony, window flower box, and "Heimat" sign dominates the right midground. To its left, a rustic wooden building runs parallel to the road, which curves into the background where distant buildings and people are visible under a clear blue sky.
+end of description
+As the frames progress, the viewpoint moves forward along the road, causing the foreground fence to pass out of sight. More of the rustic wooden building's length is progressively revealed to the left, while the white building on the right recedes from the frame, having been passed by the viewer. Distant parts of the village, initially ahead, become clearer as the camera advances into the scene.

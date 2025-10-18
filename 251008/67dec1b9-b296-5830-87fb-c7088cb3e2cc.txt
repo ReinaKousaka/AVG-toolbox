@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a picturesque scene with a utility pole and a brown fence in the foreground left, leading to red-roofed houses nestled along a serene blue lake, flanked by green train tracks on the right, all against a backdrop of steep green mountains and a cloudy sky.
+end of description
+Following frames reveal a dynamic rightward shift in viewpoint, causing the foreground utility pole on the far left to gradually exit the scene while concurrently revealing more of the train tracks and the green mountain slope to the right of the initial composition.

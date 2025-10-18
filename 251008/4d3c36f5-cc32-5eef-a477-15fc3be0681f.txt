@@ -1,0 +1,14 @@
+frame_0000000000-frame_0000000128:
+An aerial view presents a vibrant tropical scene, with a resort complex featuring thatched buildings, a swimming pool, and abundant palm trees occupying the left foreground. A broad, light-sand beach curves from the left towards the mid-right, bordered by clear turquoise ocean water where several boats are anchored, a speedboat leaves a prominent white wake, and numerous people are visible. A rocky outcrop extends into the ocean at the end of the sandy spit on the mid-right, while deeper blue waters stretch towards the horizon in the background.
+end of description
+In subsequent frames, the speedboat located in the turquoise water to the right of the sandy spit consistently traverses towards the bottom-left, its white wake visibly elongating behind it. Other boats and individuals in the water show minor positional adjustments, but the primary dynamic change is the continuous movement of the speedboat.
+frame_0000000128-frame_0000000256:
+An aerial view presents a tropical resort on the left with dark-roofed buildings and a large pool, bordered by palm trees and a white sandy beach curving towards the right. Clear turquoise ocean water with visible seabed extends to the right and into the distance, featuring a small rocky islet on the beach, a floating platform, and a boat leaving a wake in the lower right foreground.
+end of description
+The camera subtly shifts right and zooms slightly out, gradually revealing more of the ocean further to the right and back from the initial viewpoint. Concurrently, the boat in the lower right continues its trajectory away from the viewer, while people on the beach and shadows exhibit minor movements.
+frame_0000000256-frame_0000000384:
+An aerial view presents a vibrant tropical coastline with a clear turquoise ocean extending into a darker blue horizon. In the foreground, a resort complex features dark-roofed buildings, a large blue swimming pool with lounge chairs and umbrellas, and many prominent palm trees. A wide, curving white sand beach occupies the midground, populated by people and beach umbrellas, leading to dark rocky formations on the right.
+
+end of description
+
+The viewpoint steadily pans to the right, progressively revealing more of the beach and ocean that were initially beyond the right edge of the first frame. Consequently, the resort complex and pool, initially in the foreground-left, appear to shift further towards the left side of the expanding visual field. As the pan continues, a new sandy area and more distant coastline become visible on the far right, relative to the first-frame's initial boundaries.

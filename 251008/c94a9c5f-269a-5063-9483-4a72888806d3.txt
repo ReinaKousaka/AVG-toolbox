@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The initial frame presents a rainy city street at night, with a bus stop featuring illuminated advertising panels to the left and reflective wet pavement leading into the distance. On the right, closed storefronts with rolling shutters and glass line the sidewalk, where a bench and a person/bag are visible against a wall.
+end of description
+Following frames show continuous rain falling, intensifying the shimmering reflections on the wet road and subtly altering light patterns. A red traffic light in the distance to the left intermittently flashes, adding a dynamic element to the otherwise steady streetlights and illuminated signs.
+frame_0000000128-frame_0000000256:
+The first frame captures a rainy night street scene. To the immediate right, a dark bundle covers a figure on a street bench against a building facade with closed roller shutters. Further right, a row of illuminated storefronts with awnings and stacked blue crates line the sidewalk. To the left, a bright white bus stop advertisement panel with an airplane icon and Korean text is prominently visible, followed by a small dark booth and bare trees in the midground. The wet ground reflects the streetlights and building lights, extending into the misty background.
+end of description
+A person in light-colored clothing becomes more visible as they walk from the left side of the frame, emerging from behind the bus stop structure. They proceed rightward along the wet sidewalk, staying to the left of the viewer. The person then moves past the small dark booth, continuing into the distant background on the left side of the street, gradually becoming smaller as they recede from view.
+frame_0000000256-frame_0000000384:
+The first frame presents a wet city street at night during a rain shower, viewed from a sidewalk. To the viewer's immediate right, a row of illuminated storefronts with awnings and stacked blue crates extends into the distance. To the left, a dark street runs parallel, bordered by a metal fence, bare trees, streetlights, and a dark kiosk. The ground is slick with rain, reflecting the numerous lights from the street and buildings further ahead.
+end of description
+In subsequent frames, the intensity and visibility of raindrops increase significantly on a surface immediately in front of the viewer, particularly in the upper-left quadrant, with water streaks and circular droplets becoming more prominent.

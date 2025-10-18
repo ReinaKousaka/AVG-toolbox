@@ -1,0 +1,14 @@
+frame_0000000000-frame_0000000128:
+The first frame shows the viewer facing a long, ascending path flanked by countless vermilion torii gates, forming a tunnel. Large, partially visible gates frame the immediate foreground on the left and right, with dark green foliage visible behind them. A paved pathway extends from the viewer's position towards a distant staircase, continuously lined by increasingly smaller torii gates receding into the background.
+
+end of description
+
+The viewpoint steadily moves forward, advancing along the paved path and into the torii tunnel. The gates initially closest to the viewer recede, while those previously further away approach the foreground. This forward progression reveals more of the continuous tunnel ahead and new sections of the ascending path in the background, as the surrounding foliage also shifts its relative position, indicating movement through the shrine.
+frame_0000000128-frame_0000000256:
+The first frame shows a long, orange (vermillion) torii gate tunnel extending into the distance, with the viewer positioned inside it. In the immediate foreground, large orange torii pillars with black bases are visible on both the left and right sides, partially framing the view. A paved pathway occupies the center, leading towards a set of stairs visible in the far background. On either side of the pathway, smaller torii gates create a continuous tunnel effect, and green foliage is visible to the left, right, and above the gates in the distance.
+end of description
+As the frames progress, the viewpoint moves forward along the paved pathway, deeper into the torii gate tunnel. The torii pillars that were initially in the immediate foreground move to the sides and out of frame, revealing new sections of the pathway and more torii gates further ahead. The entire scene, including the continuous tunnel of orange gates and the ascending stairs in the background, appears to draw closer, emphasizing the forward motion along the path relative to the initial viewpoint.
+frame_0000000256-frame_0000000384:
+The first frame depicts a stone-paved pathway enclosed by a continuous tunnel of vibrant orange torii gates, stretching directly ahead and upward towards distant ascending stairs; foliage is visible through the gaps between the gates on both the left and right, and sunlight casts reflections on the path directly in front.
+end of description
+As the camera advances forward along the path, the torii gates and path sections previously in the mid-ground of the initial view sequentially move into the foreground and pass behind the original first-frame viewpoint. Simultaneously, the distant ascending stairs grow progressively closer and more defined, revealing new segments of the path and additional steps further ahead.

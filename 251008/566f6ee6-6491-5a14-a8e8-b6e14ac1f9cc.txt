@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a paved road with white lines on its right edge and near the left, stretching forward and curving slightly to the left. Dense green foliage, including trees and bushes, lines both sides of the road, forming a natural corridor. To the right and in the background, a steep, green mountain rises high, while on the left, a forested hillside ascends. Above, a blue sky with scattered white clouds is visible.
+end of description
+The following frames show continuous forward movement along the road. The landscape, including the road surface, trees, and mountainsides previously ahead of the first-frame viewpoint, steadily passes by to the left and right, then recedes behind the viewer. This progression indicates the viewer is traveling deeper into the mountainous valley.
+frame_0000000128-frame_0000000256:
+The first frame shows a straight, gray asphalt road extending into the distance, bordered by white dashed lines. Lush green trees and dense vegetation line both sides of the road, leading towards a large, green-covered mountain range in the background. A clear blue sky with scattered white clouds is visible above the mountains and trees.
+end of description
+Subsequent frames depict continuous forward movement along the road. The roadside vegetation and dashed lines dynamically shift from the distant background towards and past the viewer, exiting the frame at the bottom, while the mountain and sky steadily remain in the background as the landscape unfolds.
+frame_0000000256-frame_0000000384:
+The first frame displays a gray asphalt road extending directly away from the viewer, flanked by white dashed lines on its left and right edges. Lush green trees and dense undergrowth line both sides of the road, ascending to form steep, verdant hillsides. In the far distance, behind the converging road, towering green mountains are visible beneath a bright blue sky adorned with white clouds.
+end of description
+As the frames progress, the viewpoint moves forward along the road, causing the immediate roadside foliage and trees to continuously pass by the viewer from front to back, relative to the initial position. The distant mountains and sky steadily draw closer to the viewer's original first-frame location.

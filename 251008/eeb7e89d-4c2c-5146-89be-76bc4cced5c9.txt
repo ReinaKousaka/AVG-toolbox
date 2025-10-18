@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+In the first frame, a chain-link fence occupies the foreground left, partially obscuring a house-like structure with a balcony behind it. To the right, concrete stairs with a white handrail ascend alongside a stone retaining wall topped with green hedges, all beneath a canopy of lush trees.
+end of description
+As the frames progress, the viewpoint slightly pans right and subtly zooms, revealing a long white banner or sheet hanging from the front of the house-like structure on the left. The scene also brightens slightly, enhancing the visibility of the building and its surroundings.
+frame_0000000128-frame_0000000256:
+The first frame displays a steep, overgrown hillside with a dilapidated setting. In the foreground, a dark, leaning chain-link fence partially obscures the lower left side. Behind this fence and to the mid-left stands a weathered, two-story wooden house with visible damage and an exposed roof. To the mid-right, concrete steps with white handrails ascend uphill, bordered by a textured stone retaining wall on the right. Lush green trees and dense foliage dominate the background and upper sections of the frame, with a bright sky visible through the canopy.
+end of description
+As the frames advance, the chain-link fence in the foreground on the left visibly collapses further downwards and towards the right, revealing more of the steep, debris-strewn ground behind it. Concurrently, a silver ladder becomes clearly visible on the ground directly behind the collapsing fence, positioned to the lower left of the weathered house and previously obscured. The rest of the scene, including the house, ascending stairs, and background foliage, maintains its spatial position relative to the initial viewpoint.

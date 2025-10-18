@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+A paved road with a white line curves left in the foreground, flanked by a steep, rocky, green hillside on the right. A red circular speed limit sign stands to the road's left, beneath a bright blue sky with scattered clouds and distant mountains.
+end of description
+As the viewer moves forward, the speed limit sign, initially on the road's left, appears to move closer and then exits the scene to the left, passing beyond the viewer's initial perspective. Further along the curving road to the left, a new scene emerges: a cluster of buildings and a parking lot filled with vehicles, initially appearing in the far left background, progressively moves into the mid-distance on the left side of the road. The rocky hillside on the right continuously reveals new, previously unseen sections as the viewpoint advances.
+frame_0000000128-frame_0000000256:
+First frame displays a grey paved road curving gently to the right, leading away from the viewer, flanked by green and rocky mountain slopes. In the mid-distance to the left, a building complex, parking lot with cars, and a white truck are visible against rugged brown mountains under a bright blue sky with scattered white clouds.
+end of description
+As the viewpoint moves forward along the road, the center dashed line and right solid line advance beneath the viewer. Irregular dark patches and cracks on the road surface ahead become progressively more defined and closer to the viewer's position. The background mountains and buildings to the left maintain their general position but appear slightly larger as the perspective advances.
+frame_0000000256-frame_0000000384:
+The viewer is positioned on a paved mountain road that gently curves to the right, bordered by a rocky, grassy slope on the immediate right. To the left, a parking area with vehicles and several buildings is visible in the middle distance, situated beneath rugged mountains under a clear blue sky with white clouds, with a large white truck present on the road ahead near the buildings.
+end of description
+As the viewpoint progresses forward along the road, shadows from an unseen object shift and lengthen across the road surface on the bottom left. Concurrently, a red circular '30' speed limit sign becomes increasingly prominent on the right side of the road, while the distant buildings and vehicles on the left draw closer.

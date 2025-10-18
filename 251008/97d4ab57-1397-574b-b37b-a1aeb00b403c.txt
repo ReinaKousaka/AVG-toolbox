@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The viewer is positioned on a dirt path that curves slightly to the right, receding into a dense redwood forest. Tall, reddish-brown tree trunks dominate the scene on both sides, with two prominent charred tree snags visible to the left and right of the path, while lush green ferns and undergrowth carpet the forest floor in the foreground.
+end of description
+There are no dynamic changes or newly revealed objects or scenes in the following frames, as all images presented are identical to the first frame from the same viewpoint.
+frame_0000000128-frame_0000000256:
+The first frame displays a verdant redwood forest with a dirt path leading from the viewer into the mid-ground, bordered by bright green ferns and numerous towering tree trunks, including two distinct charred stumps to the path's left and right.
+end of description
+A very subtle camera pan to the right causes the scene to gradually shift, revealing slightly more of the forest extending to the immediate right of the original view. Simultaneously, elements on the far left of the initial frame slowly move further out of sight, though the overall perspective along the path remains largely stable.

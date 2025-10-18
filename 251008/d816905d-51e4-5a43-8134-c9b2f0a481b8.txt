@@ -1,0 +1,14 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a wet, dark street at night, extending uphill into the distance and reflecting streetlights and building illuminations. Multi-story buildings line both sides, with those on the left displaying Korean signs and air conditioning units, and those on the right featuring ornate lighting and illuminated windows. A bright street lamp stands in the middle-left, illuminating blue bags on the sidewalk, while a silver car with visible red taillights drives away from the viewer, receding up the street in the middle-right.
+end of description
+Throughout the subsequent frames, the only dynamic change is the silver car continuously moving further into the distance, away from the viewer and up the street.
+frame_0000000128-frame_0000000256:
+The first frame presents a nighttime street scene looking up a wet, sloping asphalt road. Buildings with illuminated signs line both sides of the street, with a prominent streetlight in the mid-left foreground and another further up. On the left sidewalk, blue plastic bags are visible near the curb, while the right foreground features a brightly lit building with an ornate entrance sign. Far up the road in the background, distinct red taillights are visible.
+end of description
+As the frames progress, the pair of red taillights in the background slowly moves further up the hill and slightly right, eventually becoming less distinct as they recede into the distance. Throughout all frames, rain continuously falls, visible as illuminated streaks, especially around the streetlights.
+frame_0000000256-frame_0000000384:
+The first frame depicts a wet, uphill urban street at night, flanked by multi-story buildings. To the viewer's left, multiple storefronts with illuminated signs and blue trash bags are visible near metal pedestrian barriers, while the right side features buildings with brightly lit windows and decorative facade lights, also bordered by barriers. A prominent yellow line divides the wet asphalt road, which reflects the distant red lights of a vehicle far up the ascending street and scattered streetlights.
+
+end of description
+
+Rain streaks are dynamically visible across the frames, intensifying and shifting. A person holding an umbrella appears on the left sidewalk, further up the road from the viewer, in the middle frames. Additionally, various vehicle headlights become subtly visible further up the ascending road in later frames, indicating ongoing traffic.

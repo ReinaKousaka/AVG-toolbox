@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a wet, paved park path curving gently into the distance, bordered by lush green grass on either side. Numerous trees with vibrant green foliage line the path, including weeping willows to the left and several broad-leafed trees to the right, where a dark park bench is also visible in the mid-ground.
+end of description
+Subsequent frames reveal intermittent rain falling from above the scene, with visible streaks of water across the foreground and mid-ground, particularly noticeable in frames four and five, before the rainfall appears to lessen again in the final frames.
+frame_0000000128-frame_0000000256:
+A wet, dark paved path stretches from the immediate foreground into the distance, curving slightly left. To the viewer's left, green grass borders the path, backed by a row of lush green trees, many with long, drooping branches, and further beyond, hints of water or dense foliage are visible. To the viewer's right, more green grass accompanies two dark park benches with lighter slats, angled towards the left, with a light pole standing behind them and a forest of trees in the middle distance.
+end of description
+The scene slowly recedes, mimicking a subtle zoom-out and slight pan to the left. This movement causes the two park benches on the right to appear further away, revealing more of the wet ground and grass in the immediate foreground, particularly along the left side of the path, thereby broadening the overall view of the park.
+frame_0000000256-frame_0000000384:
+A wet park path curves from the foreground towards the mid-ground, flanked by lush green trees and wet ground on both sides. To the right of the path, three empty wooden park benches with black metal frames are positioned side-by-side, facing the path, while an overgrown tunnel-like structure is visible further back.
+end of description
+Beginning with the bench furthest into the mid-ground on the right, the benches sequentially disappear from the scene. Each bench vanishes completely, moving progressively closer to the viewer along the right side of the path. Ultimately, the bench closest to the viewer on the right side of the path also disappears, leaving the path and surrounding nature devoid of benches.

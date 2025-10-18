@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a dirt path extending centrally into a dense green forest, flanked by vibrant ferns and moss-covered ground, with numerous tall, mossy trees visible throughout. A large, moss-laden fallen log lies horizontally on the mid-ground to the right.
+end of description
+As the frames progress, the viewer moves forward along the path; the path itself becomes more prominent as foreground vegetation on both sides shifts and recedes. The moss-covered log on the right transitions into the foreground before eventually moving out of view, while new sections of the forest floor and tree trunks ahead are progressively revealed.
+frame_0000000128-frame_0000000256:
+The first frame shows a narrow dirt path extending from the bottom center into a dense, verdant forest, bordered by numerous tall, mossy trees and lush ferns covering the ground. A fallen log rests horizontally on the right foreground, while distant trees and a faint mountain peak are discernible through the foliage.
+end of description
+As the frames progress, the viewpoint steadily moves forward along the path. The immediate foreground elements like ferns and the fallen log on the right recede and move towards the right and eventually behind the initial viewpoint. Simultaneously, previously mid-ground sections of the path and forest ahead become the new foreground, continuously revealing the progression deeper into the forest scene.

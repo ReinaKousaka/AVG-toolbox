@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame captures a vibrant Alpine landscape, featuring a winding dark path on a bright green grassy slope in the lower left foreground. On the upper left hillside, a large traditional building with balconies is prominent, while to its right, a smaller house and a multi-story hotel-like structure are partially visible amidst tall pine trees. In the background, forested mountains lead to distant, majestic snow-capped peaks under a clear blue sky adorned with scattered white clouds.
+end of description
+Throughout the subsequent frames, the only dynamic change observed is the subtle, gradual shifting of the white clouds as they drift across the blue sky, maintaining their position relative to the distant peaks.

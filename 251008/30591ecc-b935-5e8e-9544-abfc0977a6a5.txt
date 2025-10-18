@@ -1,0 +1,30 @@
+frame_0000000000-frame_0000000128:
+In the first frame, a wide paved sidewalk extends from the bottom left, bordered by parked cars and a tree on the left, and a large building with vertical architectural elements on the right. A prominent light brown speckled stone column stands on the right, featuring a sign displaying "777 DUNSMUIR," "KPMG," and "SOPHOS," with a glass revolving door partially visible to its right. A bicycle leans against this column on the sidewalk, while several people walk away from the viewer in the middle distance, and tall buildings rise in the background under a bright sky.
+end of description
+The camera slowly tracks forward and slightly left, causing the building column and 'KPMG' sign on the right to recede and appear less central. The revolving door previously on the far right begins to exit the frame, while simultaneously, the parked cars on the left, including a black motorcycle in the foreground, become more visible and closer to the viewer. The group of people walking on the sidewalk in the middle distance also moves further away relative to the viewer's original position.
+frame_0000000128-frame_0000000256:
+The first frame depicts a city sidewalk stretching into the distance, with a line of parked cars on the left, starting with a black motorcycle and a dark car in the immediate foreground, beside a tree and a utility pole. To the right, a large building with granite-textured columns features a blue 'SOPHOS' sign near the top right and a silver bicycle parked against its base. Several pedestrians walk away from the viewer down the sidewalk, amidst other city buildings and distant trees.
+
+end of description
+
+As the sequence progresses, the viewpoint moves forward along the sidewalk. The "SOPHOS" sign and the initial black motorcycle on the left move out of view behind the viewer, while more of the sidewalk and parked cars, including a new dark car appearing on the far left, become visible ahead. A new silver bicycle in a bike rack on the right emerges further along the building's facade.
+frame_0000000256-frame_0000000384:
+The first frame displays a city sidewalk extending into the distance, flanked by granite-clad building pillars and a silver bicycle on the immediate right, and a street lined with parked cars, including a black one closest to the viewer, on the left. Several pedestrians walk away on the central sidewalk, with tall city buildings visible in the background. end of description. As the sequence progresses, the viewpoint subtly moves forward; the bicycle and bike rack on the far right exit the frame, revealing more of the building's entrance area between the granite pillars. Concurrently, the nearest black car on the left subtly shifts further out of view to the left.
+frame_0000000384-frame_0000000512:
+The first frame depicts a city sidewalk scene with a granite building and metal bicycle racks to the viewer's immediate right, and a street with parked cars on the left. A sidewalk, lined with trees and a modern building featuring a glass awning, recedes into the background, where several pedestrians and distant skyscrapers are visible under a bright sky. A bearded man in a brown shirt walks towards the viewer in the mid-ground on the sidewalk.
+end of description
+In the following frames, this bearded man continues walking directly towards the first-frame viewpoint, progressively moving into the foreground-left and appearing larger, while the rest of the scene remains static.
+frame_0000000512-frame_0000000640:
+The first frame presents a city street view with a bearded man walking right in the foreground, next to parked cars on the left, including a black car nearest the viewer and a red car further down. A wide sidewalk with pedestrians extends into the midground on the right, bordered by a building with large display windows and a granite facade. Tall buildings and trees are visible in the background under a clear sky.
+end of description
+As frames progress, the foreground man moves from left to right, gradually exiting the frame and revealing more of the parked cars and street behind him. Simultaneously, the pedestrians on the midground sidewalk continue walking forward, while the parked cars and background structures remain stationary from the viewer's perspective.
+frame_0000000640-frame_0000000768:
+The first frame presents a city sidewalk scene with a building facade and a large shop window displaying clothing on the immediate right. A sidewalk extends centrally into the distance, populated by pedestrians, while a street with parked cars, notably a red car to the mid-left, runs parallel, with distant buildings in the background.
+
+end of description
+
+As the viewpoint moves forward along the sidewalk, the driver's side door of the red car on the left gradually opens, revealing its interior. Concurrently, pedestrians on the sidewalk move past the viewer and further into the scene, while the items displayed within the shop window on the right continue to come into view as the perspective shifts.
+frame_0000000768-frame_0000000896:
+The first frame shows a bustling city sidewalk. To the immediate left, a red car with its front door open is parked beside a tree trunk. A group of three women walks towards the viewer in the mid-ground on the left sidewalk, with other pedestrians further down the street. To the right, a modern building with large reflective glass windows and a glass awning extends along the sidewalk. Tall buildings rise in the background, and parked cars line the street beyond the red car.
+end of description
+Chronologically, the red car's open door on the left closes. The group of three women walks past the viewer, continuing their movement from the center-left towards the far left of the frame. Subsequently, a man in a dark polo shirt walks into the frame from behind them, also passing the viewer on the left. The viewpoint subtly advances forward, causing the tree trunk on the immediate left to recede from view and revealing more of the building facade on the right.

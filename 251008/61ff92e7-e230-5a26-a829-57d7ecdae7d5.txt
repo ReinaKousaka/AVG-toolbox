@@ -1,0 +1,28 @@
+frame_0000000000-frame_0000000128:
+In the first frame, an asphalt road occupies the bottom right, curving away from the viewer. To its left, a lush green grassy slope rises upwards, with a wire fence and white posts along the bottom left. In the midground, a small, multi-tiered waterfall cascades down the slope slightly to the left of the center. Further up and to the left, a cluster of green trees adorns the hillside, while another group of trees crowns a distant hill to the right. A tall, slender structure stands on the upper slope near the center, all beneath a sky filled with blue patches and scattered white clouds.
+end of description
+There are no dynamic changes observed across the subsequent frames; all visible objects, their positions, and the overall scene remain static relative to the first-frame viewpoint.
+frame_0000000128-frame_0000000256:
+The first frame displays a vibrant green, hilly landscape under a partly cloudy sky, featuring a multi-tiered waterfall cascading down a central slope. A paved road curves into the bottom right foreground, with a wire fence lining the bottom left, and numerous trees dotting the hillsides.
+end of description
+Across the following frames, the most noticeable dynamic change is the visible flow of water within the waterfall, moving downwards. Additionally, subtle shifts occur in the cloud patterns above the hills, but no new objects or scenes are revealed, and the spatial viewpoint remains static throughout.
+frame_0000000256-frame_0000000384:
+In the foreground, a paved road curves to the right, while a grassy slope with a wire fence runs along the left. A multi-tiered waterfall cascades down the lush green hillside towards the center-left, bordered by scattered trees and a prominent light green bush below it. The background features rolling green hills topped with more trees, a distant utility pole, and a partly cloudy sky with a mountain peak barely visible on the far right.
+end of description
+Across the following frames, no significant dynamic changes are observed in the waterfall's flow, cloud movement, or the emergence of any new objects or scenes.
+frame_0000000384-frame_0000000512:
+The first frame displays a verdant mountain landscape with a paved road curving into the mid-right foreground. To the left of the road, a grassy slope rises sharply, featuring a small waterfall cascading in the mid-left, scattered trees, and a distant tower-like structure. A large, jagged mountain peak is visible in the far right background beneath a partly cloudy sky.
+end of description
+Subsequent frames reveal subtle movement in the cascading waterfall in the mid-left, indicating continuous water flow. The clouds in the sky above also exhibit minor shifts and changes in their formations, implying a gentle passage of time and atmospheric changes.
+frame_0000000512-frame_0000000640:
+In the first frame, a paved road curves from the bottom right into the distance, flanked on its left by lush green grass and a partial wire fence with two wooden posts. A steep, verdant hillside dominates the left and center, featuring a small waterfall on the far left slope, several tree clusters atop rises, and a tall structure behind trees on the upper left. The background consists of a cloudy sky with blue patches, and a rugged, snow-capped mountain peak rises prominently on the far right.
+end of description
+As the frames progress, the viewer moves forward along the road, which gradually curves further to the right relative to the initial viewpoint, revealing more of its winding path ahead. The grassy hillside and the waterfall on the left recede, moving slightly out of frame to the left, allowing more of the waterfall's base and stream to become visible. The immediate foreground and midground shift to reveal new stretches of the road and the hillside previously obscured by the viewer's initial position.
+frame_0000000640-frame_0000000768:
+A paved road curves gently into a green mountain valley, flanked by steep grassy hillsides on both sides under a partly cloudy sky; a small waterfall is visible on the lower left slope, and distant mountains rise in the background.
+end of description
+As the viewpoint moves forward along the road, the waterfall on the left recedes from immediate view and a light-colored pole on the left moves closer before passing. The lush green slopes and distant, snow-capped mountains progressively appear more encompassing and closer, with a fence line gradually becoming visible on the right side of the road.
+frame_0000000768-frame_0000000896:
+In the first frame, a paved road stretches from the bottom center into the distance, flanked by lush green grassy slopes on both sides. A cluster of trees stands atop the left slope, while a faint fence line runs along the right edge of the road. In the far distance, towering green mountains, some with rocky faces and patches of snow, frame the horizon beneath a partly cloudy sky.
+end of description
+Across the following frames, the primary dynamic change is a very subtle forward progression of the viewpoint along the road, causing the foreground grassy areas on either side to subtly shift perspective. No new objects or scenes are revealed, and the distant mountains and sky remain largely stationary relative to the overall scene.

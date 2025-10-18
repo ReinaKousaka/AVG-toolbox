@@ -1,0 +1,22 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a paved path leading away from the viewer into the distance. To the viewer's left, a white multi-story building with an external staircase and a green sign is prominent, alongside a narrow water channel bordered by a black metal railing and lush green foliage. To the viewer's right, a large, dense green tree is visible, with a wooden fence stretching from the foreground toward the mid-ground. The scene is under a partly cloudy sky, with distant buildings visible along the path on the left.
+end of description
+The camera gradually moves forward along the paved path throughout the subsequent frames. This movement causes the white building and canal system on the left, and the large tree and wooden fence on the right, to steadily recede into the distance and shift outwards from the center of the frame, revealing more of the path ahead relative to the initial viewpoint.
+frame_0000000128-frame_0000000256:
+The first frame shows a paved pathway stretching into the distance, bordered on the left by a white building with two propane tanks and a green sign, alongside a canal partially obscured by black railings. To the right, dense green foliage covers a grassy bank, with a wooden railing just visible in the bottom corner.
+end of description
+As the frames progress, the viewpoint moves forward along the pathway. The white building, canal with railings, and the foliage on the right all recede, revealing more of the pathway ahead and a concrete platform extending along the canal's edge to the left of the original position.
+frame_0000000256-frame_0000000384:
+The first frame displays a narrow paved path leading into the distance under a blue sky, flanked by a black metal railing and a water channel on the immediate left. Behind the railing is a white building with a closed grey shutter and a small teal sign, with two gas tanks at its base, and other buildings further back. To the right of the path stands a large, dense green tree and smaller bushy plants. end of description. The subsequent frames reveal no dynamic changes, newly revealed objects, or scene shifts, maintaining the same static viewpoint.
+frame_0000000384-frame_0000000512:
+The first frame displays a paved path extending forward from the viewer, bordered on the left by a white building with a closed gray door and a light blue sign showing a face, and on the right by dense green foliage. A dark railing runs horizontally in the foreground left, alongside other distant buildings on the left.
+end of description
+In subsequent frames, the light blue sign on the left building is dynamically replaced by a white and red "ONE WAY" sign, appearing at the same spatial position relative to the first-frame viewpoint.
+frame_0000000512-frame_0000000640:
+The first frame depicts a paved pathway stretching into the distance, flanked by dense green foliage on the right. To the left, a white building with a black external staircase stands next to a narrow canal, partially obscured by a white A-frame barrier and a black pole in the immediate foreground. Beyond the canal and behind the barrier, houses and greenery are visible under a partly cloudy sky.
+end of description
+As the viewpoint advances along the pathway, the A-frame barrier and black pole recede and move left, revealing more of the canal and its wooden fencing to the immediate left of the path. The scene ahead continuously unfolds, showing more of the path, houses, and foliage further in the distance relative to the initial position.
+frame_0000000640-frame_0000000768:
+A paved path stretches into the distance, bordered on the left by a white building, a concrete wall, and a narrow canal with metal railings, and on the right by dense green and brown foliage. A small bridge crosses the canal further along the left side of the path.
+end of description
+As the camera moves forward along the path, the initial white building and concrete wall on the left recede, shifting further left and eventually behind the first-frame viewpoint. The canal and bridge also move progressively further left and behind, revealing more of the continuing paved path and distant natural surroundings that were initially further ahead.

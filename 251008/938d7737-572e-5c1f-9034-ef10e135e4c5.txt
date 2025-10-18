@@ -1,0 +1,28 @@
+frame_0000000000-frame_0000000128:
+A narrow dirt path extends from the viewer's position into the distance, flanked by steep, grassy hillsides to the left and right. In the background, mountains rise, with a central peak partially obscured by a cloud and a distant snow-capped peak visible further left under a blue sky with scattered white clouds.
+end of description
+As the viewer moves forward along the path, the immediate grassy slopes on both sides continuously change, revealing more vegetation and small rocks. A narrow water channel gradually becomes visible to the left of the path, alongside the base of the left hillside. Small pieces of debris on the path appear closer to the viewer before moving out of view behind them, while distant mountains remain generally fixed in the background. A prominent white, possibly bone-like object appears on the right side of the path and passes by the viewer.
+frame_0000000128-frame_0000000256:
+The first frame displays a dirt path receding into a mountainous valley, flanked by a lush green grassy slope with scattered rocks on the left and dense vegetation on a steeper slope to the right. Distant, cloud-capped mountains rise majestically straight ahead, under a bright blue sky with wispy clouds.
+end of description
+As the video progresses, the viewpoint moves continuously forward along the winding dirt path. The immediate grassy slopes and rocks on either side appear to pass by, while the distant mountainous landscape gradually approaches and reveals more of the trail ahead.
+frame_0000000256-frame_0000000384:
+A narrow, unpaved path extends from the viewer into the distance, flanked by steep, grass-covered slopes on the left and right, leading towards a cloud-kissed mountain peak under a bright blue sky.
+end of description
+The viewpoint steadily advances along the path, causing the immediate foreground of the dirt path and the lower sections of the grassy slopes to continuously move towards and past the viewer, while the distant mountain scene ahead remains the objective.
+frame_0000000384-frame_0000000512:
+The first frame shows a narrow dirt path extending from the viewer into the midground, flanked by vibrant green, grass-covered hillsides ascending steeply to the left and right. In the background, large mountains rise, with a cloud touching the peak of the central mountain, all under a bright blue sky.
+end of description
+As the frames progress, the viewpoint moves forward along the path, causing the immediate foreground vegetation and rocks to pass by, while new sections of the path and the immediate hillsides are continually revealed ahead. The distant mountains remain generally centered in the background as the viewer steadily approaches indistinct figures further along the winding path.
+frame_0000000512-frame_0000000640:
+A dirt path extends from the viewer's foreground into the middle distance, flanked by lush green, grassy slopes on both the left and right. Distant mountains with cloud-kissed peaks are visible directly ahead in the background, beneath a blue sky with some white clouds and sunlight flaring from the upper right.
+end of description
+The viewpoint steadily moves forward along the path, causing the immediate grassy slopes and vegetation on both sides to move past the viewer. As the camera progresses, new sections of the path and the surrounding terrain are revealed further ahead, while the distant mountains remain centered in the background, growing subtly larger.
+frame_0000000640-frame_0000000768:
+The first frame shows a dirt path extending from the foreground into the middle distance, flanked by lush green grassy slopes. On the left slope, some rocks are visible. In the background, distant mountains rise under a bright blue sky with scattered white clouds and a contrail, with one mountain peak partially obscured by a cloud.
+end of description
+The viewpoint moves forward along the path, causing the immediate path and surrounding grassy vegetation on the slopes to the left and right of the original path to appear closer and pass by. As the perspective advances, two people emerge into view in the mid-background, walking along the path ahead of the first-frame viewpoint, gradually becoming more distinct as the camera continues to move forward.
+frame_0000000768-frame_0000000896:
+The first frame depicts a dirt path winding into a mountain valley, flanked by steep, grass-covered hills on the left and right. Several hikers are visible walking away from the viewer along the path into the distance, with distant mountains and a blue sky overhead.
+end of description
+As the frames progress, the viewpoint advances along the path, causing the initial hikers to move further away from the first-frame viewpoint towards the distant mountains. Previously unseen sections of the path and the immediate grassy slopes on both sides are continuously revealed closer to the moving viewpoint. A small water channel, initially on the far left edge of the first frame, becomes more evident and extends closer to the viewer's current position as the camera moves forward relative to the original viewpoint.

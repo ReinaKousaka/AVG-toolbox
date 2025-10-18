@@ -1,0 +1,5 @@
+frame_0000000000-frame_0000000128:
+The viewer is presented with a grand, traditional Chinese gate structure centrally positioned, featuring a prominent yellow signboard with Chinese characters and curved, tiled roofs. A wide paved area leads to steps at the gate's base in the foreground, flanked by large trees with dense foliage and intricate root systems on both left and right, their branches arching overhead. Beyond the gate, a garden area with fences and distant residential buildings are visible.
+
+end of description
+Subsequent frames depict a gradual, subtle camera movement panning right from the initial viewpoint. This slow shift incrementally reveals more of the paved ground and the left side of the gate's base, while concurrently expanding the visible area of the right-side foliage and structures beyond the gate.

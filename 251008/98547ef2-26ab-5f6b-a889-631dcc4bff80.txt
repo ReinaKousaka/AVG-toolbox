@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a bustling restaurant buffet area, featuring two blue and gold food stations on the mid-left attended by three chefs, while a chef on the mid-right works at a golden buffet, with dining tables and chairs in the background. A large marble pillar with a gold light fixture stands prominently on the immediate left.
+end of description
+The camera slowly pans right, revealing more of the expansive dining room with additional tables and chairs to the right of the initial view. The chef at the golden buffet adjusts items, and other staff members shift positions deeper within the room.
+frame_0000000128-frame_0000000256:
+The first frame depicts a modern restaurant interior with multiple buffet stations and dining areas. In the foreground-left, a chef attends to a blue and silver serving station with various dishes, while another larger station is positioned in the midground-left. A third chef in a black apron adjusts items on a dark, cylindrical serving station in the midground-right, facing a dining area with several tables and chairs set to the far right. The background reveals more restaurant space with marble-clad pillars, wall sconces, large windows showing greenery, and a dark paneled wall, all illuminated by an ornate central chandelier and recessed ceiling lights.
+end of description
+No dynamic changes or newly revealed objects occur in the subsequent frames; the scene remains entirely static, with all individuals maintaining their initial positions and activities.

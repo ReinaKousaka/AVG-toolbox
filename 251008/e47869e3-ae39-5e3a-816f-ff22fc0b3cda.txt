@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+A city street stretches forward from the viewer, with a black sedan to the immediate left and a silver sedan ahead in the central lane. To the right, parked vehicles line a snowy sidewalk beside multi-story buildings, including one with a prominent church steeple further down, while a park with bare trees occupies the left side, where an orange construction sign is also visible.
+end of description
+As frames progress, a dark grey SUV appears from the bottom left, moving into the viewer's immediate left foreground. Concurrently, the parked black pickup truck and SUV on the right recede behind the viewer's position, and pedestrians, including one with a stroller, become visible on the far right sidewalk moving towards the viewer, as the orange construction sign on the far left disappears.
+frame_0000000128-frame_0000000256:
+A gray SUV is directly ahead and a white cargo van is to the viewer's right on a traffic-filled street, with a snowy park and bare trees to the left and tall brick buildings, including a steeple, lining the right side of the road in the first frame.
+end of description
+Throughout the subsequent frames, all vehicles, including the white cargo van to the right and the dark gray SUV in front, slowly advance forward along the road, revealing more of the street ahead and the buildings on the right as the viewer's perspective also moves forward.
+frame_0000000256-frame_0000000384:
+The first frame displays a multi-lane city street on an overcast day, viewed from inside a vehicle. Directly in front is a dark grey SUV with illuminated brake lights, followed by a line of cars receding into the distance; a snow-dusted park with bare trees is to the left, and various buildings, including one with a tall steeple, line the right.
+end of description
+Throughout the sequence, the vehicles in the viewer's lane begin to move forward, progressing further down the street relative to the first-frame viewpoint. The dark grey SUV directly ahead slowly departs, revealing the silver sedan that was previously behind it, which then occupies the position immediately in front of the viewer as traffic flows.

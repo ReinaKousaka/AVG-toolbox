@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a gravel path receding to the left, bordered by a large, leafy green tree and a lamppost in the immediate foreground, with a wooden bench visible further down the path. To the right, a multi-story house with a white lower facade, wooden upper sections, a gabled roof, and a wooden balcony stands in the midground, fronted by green bushes in planters. A low metal fence separates the path from a lush garden and additional structures in the background, all under a cloudy sky.
+end of description
+No dynamic changes or newly revealed objects or scenes occur across the subsequent frames; all images are identical.
+frame_0000000128-frame_0000000256:
+The first frame displays a gravel path extending into the distance, bordered on the viewer's right by a multi-story wooden house featuring a balcony and white planter boxes with green bushes. To the left of the path, a large weeping willow tree partially shades a wooden bench and a railing, beyond which a body of water is visible. A metal fence separates the path from a garden on the right, which contains a signpost and various foliage, with additional buildings in the background under a cloudy sky.
+end of description
+No dynamic changes, newly revealed objects, or scene alterations are present in the subsequent frames; all images are identical to the first frame.

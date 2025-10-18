@@ -1,0 +1,30 @@
+frame_0000000000-frame_0000000128:
+A low concrete wall extends across the foreground, with a building's illuminated balcony featuring a string-lighted railing, potted plants, and white patio furniture in the midground. Behind the building, dark trees and a night sky are visible.
+end of description
+The camera slowly pans left and slightly down, revealing a lower path or sidewalk below the initial concrete wall. A person wearing black walks into view from the bottom left on this path, followed by other pedestrians further down the illuminated walkway. A street lamp also becomes visible to the far left, above the path.
+frame_0000000128-frame_0000000256:
+The viewer faces a night scene with a stone wall extending from the bottom right across the midground, above which a raised structure with a white railing adorned with string lights and potted plants leads to a building. To the left, a paved path with a dark railing runs alongside a narrow stream, illuminated by a tall street lamp in the left foreground and distant city lights. A woman in black and a man in white walk away from the viewer on the path.
+end of description
+In subsequent frames, the woman in black and the man in white continue walking away along the path to the left. The woman exits the frame to the left, followed by the man, as other figures further down the path also move into the distance relative to the first-frame viewpoint.
+frame_0000000256-frame_0000000384:
+In the first frame, a man in a white shirt and dark mask walks towards the viewer on a pathway in the right foreground. To his right, a stone retaining wall runs parallel, topped by an elevated white railing adorned with string lights and potted plants. On the left, a tall streetlamp brightly illuminates a dark water channel below, which parallels the pathway where several people walk away from the viewer in the midground, with buildings visible under a dark sky in the background.
+
+end of description
+
+The man in the white shirt and mask in the right foreground walks past the viewer towards the bottom right, eventually exiting the frame. Concurrently, the group of people on the pathway in the midground steadily move further away from the viewer. All other fixed elements, including the streetlamp to the left and the elevated railing to the right, remain stationary relative to the first-frame viewpoint.
+frame_0000000384-frame_0000000512:
+The first frame depicts a nighttime urban scene along a canal, with a brightly lit pedestrian path to the right bordered by a stone wall and an elevated structure with a white railing and string lights above. To the left, a metal handrail runs alongside a dark stream with vegetation, leading to a distant street lamp illuminating buildings under a dark sky, while a group of people walk away from the viewer on the pathway.
+end of description
+As frames progress, the viewpoint slowly tracks forward along the path, causing the group of people to recede further into the distance relative to the initial position. The stone wall and the elevated structure on the right gradually extend further into view, revealing more of their length as the camera moves forward past the first-frame viewpoint, and the street lamp to the left also recedes further into the background.
+frame_0000000512-frame_0000000640:
+A paved pathway stretches into the distance at night, bordered on the left by a metal railing alongside a dark stream, and on the right by a high stone wall topped with an overhanging building balcony. A group of people walks away from the viewer down the path, with distant buildings and streetlights visible in the background.
+end of description
+The viewpoint then steadily advances forward along the pathway, causing the group of people to recede further into the distance. As the camera moves, new sections of the railing on the left and the stone wall and building structure on the right are progressively revealed, advancing into the viewer's immediate foreground.
+frame_0000000640-frame_0000000768:
+The first frame depicts an illuminated urban pathway at night, extending into the distance. To the viewer's left, a dark stream or canal is bordered by a metal railing and overgrown vegetation, with residential buildings and streetlights visible beyond. To the right, a tall, textured stone wall with concrete sections rises, with parts of a building including a balcony visible above it. In the center, a group of five people walks away from the viewer along the path, casting shadows under the artificial lighting.
+end of description
+In subsequent frames, the group of people continues walking further away from the first-frame viewpoint along the path. Their figures gradually recede into the distance, becoming smaller as their shadows lengthen and shift on the ground. No new objects or scenes are revealed; the environment remains static as the people move through it.
+frame_0000000768-frame_0000000896:
+The first frame shows a night scene on a lit urban path. To the viewer's immediate right, a tall stone retaining wall with a building above it runs alongside the path. On the left, a dark metal railing separates the path from a canal with dense vegetation, beyond which residential buildings are visible. Two masked people, a man and a woman, walk towards the viewer in the foreground, with other figures further down the path in the midground.
+end of description
+The viewpoint advances along the path, causing the man and woman in the immediate foreground of the first frame to move past the viewer and out of sight to the viewer's left. As this occurs, the retaining wall on the right and the canal on the left extend further into view, revealing more of the path that was previously in the midground. Additional people, initially in the midground, subsequently move closer to the viewer's path and also pass by. The urban landscape remains consistent as the viewer continues forward.

@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame captures a stone staircase ascending into a sun-drenched, tree-filled landscape, flanked by white metal railings adorned with musical note patterns on both sides. A prominent tree trunk stands to the immediate left of the stairs, with a brick structure partially visible further left, while dense green foliage lines the right.
+end of description
+The viewpoint gradually moves forward and slightly upward, progressing along the staircase. This motion reveals more of the brick structure on the far left, including a dark rectangular opening, as the scene slowly shifts closer to the ascending path.
+frame_0000000128-frame_0000000256:
+The first frame displays a stone staircase ascending directly in front of the viewer, flanked by white metal railings on either side. To the viewer's left, a large tree trunk stands prominently, with a section of a light-colored building partly visible behind it and a branching path leading left. To the viewer's right, dense green foliage covers a hillside, with another large tree trunk near the bottom and the white railing extending upwards. The background consists of a dense forest with tall trees, and bright sunlight filters through the leaves at the top-center.
+end of description
+The viewpoint subtly advances forward and slightly upward relative to the first frame, extending the visible portion of the ascending stone staircase and revealing more of the path ahead. Consequently, the white metal railings on both sides appear to lengthen as the viewer moves closer, showcasing more of their intricate design.

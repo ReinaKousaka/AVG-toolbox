@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a wet, paved foreground with reflective puddles, leading to a park entrance in the mid-ground. Green bushes border a central arched metal trellis adorned with foliage, marking a path entrance. To the left, a no-parking sign is visible, while to the right, a bicycle rack and a no-bicycles sign are present. In the background, an information board, some playground equipment, and numerous green trees stand under an overcast sky.
+end of description
+The subsequent frames show no dynamic changes; all visible objects and their spatial positions remain identical to the first frame.

@@ -1,0 +1,30 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a wide, outdoor scene featuring a light brown dirt road stretching into the distance, gently curving to the right. On either side of the road, the ground is covered with dry, yellowish-brown grass and sparse green and yellow-leafed bushes. A large, densely foliated green tree dominates the left mid-ground, while distant brown and green mountains lie across the horizon under a clear blue sky.
+end of description
+As the frames progress, the viewpoint moves steadily forward along the dirt road. The immediate foreground recedes, continuously revealing new sections of the road and surrounding grassy terrain that were previously further ahead. The large green tree on the left and the yellow-leafed bushes on the right appear to move past the viewer, shifting towards the rear-left and rear-right positions relative to the initial view. The distant mountains remain ahead in the background, subtly appearing larger as the viewer approaches them.
+frame_0000000128-frame_0000000256:
+In the first frame, a light brown dirt path extends from the bottom center, curving gently to the right as it recedes into the middle distance. Dry, golden-brown grass and scattered green and yellow shrubs line both sides of the path. To the far left, a large tree with dense green foliage and a thick trunk occupies the mid-left foreground. In the background, a range of rolling mountains with sparse vegetation stretches across the horizon, beneath a clear, bright blue sky.
+end of description
+As the frames progress, the viewpoint moves forward along the path; the dirt path extends directly ahead, and the foreground grass and shrubs on both sides recede outwards and behind the initial viewpoint. The large tree on the left also moves further left and passes the viewer's original position. The distant mountains remain ahead in the background, appearing incrementally closer.
+frame_0000000256-frame_0000000384:
+A dirt path leads from the viewer, curving gently to the right in the mid-ground, flanked by tall brown and yellow grass and scattered bushes with autumn foliage. A large tree with green and yellow leaves is positioned on the left, while a cluster of bright yellow trees occupies the mid-right. In the far background, barren brown mountains span the horizon under a clear blue sky.
+end of description
+The viewer moves forward along the dirt path. Consequently, the foreground grass and bushes on both sides recede past the viewer's immediate vicinity, revealing more of the path ahead. The large tree on the left and the yellow-leafed trees on the right appear to move backward relative to the viewer, while the distant mountains subtly grow larger as the viewpoint approaches them. A pinkish-purple lens flare intermittently appears and shifts slightly in the upper right sky.
+frame_0000000384-frame_0000000512:
+The first frame presents a wide, light-colored gravel path stretching from the bottom center into the distance, flanked by dry, golden-brown grasses and shrubs. Beyond this immediate vegetation, green and yellow trees are visible on both the left and right sides, with rugged mountains rising in the far background under a clear blue sky. A faint lens flare is present in the upper right sky.
+end of description
+In subsequent frames, the viewpoint moves continuously forward along the path; the gravel path and foreground vegetation shift progressively towards and then past the viewer. This motion reveals new sections of the path and surrounding dry, yellow-brown grasses directly ahead of the viewer, continuously traversing the landscape. The distant mountains and trees slowly advance into the mid-ground relative to the first-frame's perspective.
+frame_0000000512-frame_0000000640:
+A wide dirt path curves gently forward through a landscape of golden grasses and bushes, bordered by distant brown mountains on the left and vibrant yellow-green trees on the right, all beneath a clear blue sky with two lens flares.
+end of description
+As the viewpoint advances along the path, the foreground vegetation appears to recede, while the distant mountains grow larger. A previously indistinct small white building on the left, near the base of the mountains, becomes clearer. Subsequently, a white vehicle drives into view on a distant road to the left of the path's trajectory, moving further left across the scene.
+frame_0000000640-frame_0000000768:
+The first frame displays a dirt path extending from the viewer directly into the midground, flanked by dry, yellow-brown grasses and low bushes. To the left, an elevated road with a white SUV parked on it leads to barren mountains in the background, with a striped pole marking the slope. To the right, a dense cluster of yellow-green trees forms a prominent feature against the dry vegetation, all under a clear blue sky with lens flares in the upper right.
+
+end of description
+
+The white SUV on the elevated road to the mid-left shifts further left and slightly closer relative to the first-frame viewpoint. A blue object, likely a tent or canopy, emerges in the mid-left, appearing initially to the right of the SUV's first-frame position, then moving left with it. A person becomes visible near the white SUV on the mid-left slope. Briefly, another person appears atop the large yellow-green tree cluster on the mid-right.
+frame_0000000768-frame_0000000896:
+The viewer is on a light brown dirt path stretching from the center foreground into the distance, flanked by dry golden grass, green weeds, and reddish-brown bushes. To the distant left, a blue truck is parked on a hill, with rolling mountains rising behind it, under a clear blue sky with lens flares in the upper right.
+end of description
+As the sequence progresses, the blue truck, initially visible on the distant left of the path, moves progressively further to the left relative to the first-frame viewpoint, eventually passing out of frame to the far left, implying the viewer is advancing along the path.

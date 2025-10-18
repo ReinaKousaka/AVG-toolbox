@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a wet, narrow street receding uphill, flanked by multi-story buildings and shops under an overcast sky, with a distant mountain visible in the background. An A-frame sign stands in the immediate foreground to the viewer's left, while shop awnings, potted flowers, and pedestrians line the left side, contrasting with a building on the far right featuring boarded-up windows.
+end of description
+In subsequent frames, the camera executes a very subtle zoom-out or slight pullback, causing the entire street scene to gradually expand. This action increasingly reveals more of the foreground pavement and the buildings along both sides of the street, particularly widening the visible area to the viewer's left.
+frame_0000000128-frame_0000000256:
+The first frame shows a wet, cobblestone-like street extending into the distance, flanked by multi-story buildings with shops on both sides; a blue display stand and a large planter with pink flowers are in the immediate foreground. On the left, red-awninged shops with bright interiors and red flags ascend into the midground, mirroring buildings with balconies and a "Clochard" sign on the right, with distant green mountains visible under a cloudy sky in the background.
+end of description
+A pair of pedestrians, initially standing in the midground on the right side of the street, begin walking away from the viewer from frame 2 onwards. They continue moving further down the street, becoming smaller in perspective and gradually revealing more of the storefront they were previously obscuring to their right. By the final frame, they are noticeably further away from the first-frame viewpoint, continuing their progression into the background.

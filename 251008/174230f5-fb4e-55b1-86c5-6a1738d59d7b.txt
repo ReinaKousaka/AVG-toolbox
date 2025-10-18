@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a charming street scene with a stone wall adorned with red flowering plants and a multi-story wooden building on the left. An asphalt road with a yellow center line leads into the distance, flanked on the right by parked cars and a traditional building with balconies full of purple flowers. Towering green, forested mountains dominate the background under a clear blue sky.
+end of description
+As the frames progress, a person pulling luggage on the left sidewalk and another individual walking on the right side of the road both consistently move further away from the viewer, continuing down the street.
+frame_0000000128-frame_0000000256:
+A street in a mountain town is visible under a clear blue sky. To the left, a stone wall topped with red flowers runs alongside a sidewalk where several pedestrians, including one pulling a black suitcase, walk away from the viewer. Opposite the sidewalk, a black car and a silver SUV are parked on the right side of the road, with a person in dark clothing standing beside the SUV. In the mid-ground, traditional buildings with balconies adorned with purple flowers and Swiss flags line the street, while lush green mountains rise in the far background.
+end of description
+The person standing by the silver SUV on the right side of the road begins walking further into the scene, passing behind the SUV and continuing down the street towards the background. Simultaneously, the group of pedestrians on the left sidewalk also progresses further away from the viewer along the street. These movements continue steadily through the subsequent frames as both groups move deeper into the distant part of the street.

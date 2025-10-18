@@ -1,0 +1,14 @@
+frame_0000000000-frame_0000000128:
+The initial frame presents a park scene under a dark, cloudy sky, featuring a grassy slope with a central dirt path leading uphill. To the left, a wooden fence precedes a green-leafed tree, while to the right, reddish-brown trees and a bench dot the upper slope; another bench is positioned near the path's crest. Two small deer are partially visible on the path in the mid-distance.
+
+end of description
+
+As frames progress, these two deer and an additional one, initially partially obscured further up the path, steadily move downhill. They become increasingly clearer and closer to the original viewpoint, descending the dirt path towards the viewer's position with each subsequent frame.
+frame_0000000128-frame_0000000256:
+The first frame depicts a landscape under a dark, cloudy sky, with a dirt path sloping downwards from the center-right. Green grass flanks the path, leading towards a wooden fence on the left with green trees behind it, and a grassy hill with bare trees on the right, where a small wooden structure is visible. Three small, rectangular wooden blocks are spaced along the dirt path in the mid-ground.
+end of description
+As the sequence progresses, the viewpoint moves forward and slightly left relative to the initial position. The dirt path and the three rectangular wooden blocks on it become closer and more distinct, appearing to be steps. The surrounding trees and fence also move closer, revealing more of the scene's foreground.
+frame_0000000256-frame_0000000384:
+The first frame displays an outdoor scene with a wide dirt path in the foreground, flanked by a wooden log fence on the left, behind which lush green trees are visible. On the right, a gravelly slope with several wooden steps ascends towards a leafless tree and a light brown wooden sign on the ground, all under a dark, overcast sky.
+end of description
+The following frames show the viewpoint subtly shifting forward and panning left. The initial wooden steps and sign on the right move further left and eventually exit the frame. Simultaneously, a large, horizontal cylindrical log structure is progressively revealed from the far right of the first-frame viewpoint, ultimately settling into the mid-right of the final frames.

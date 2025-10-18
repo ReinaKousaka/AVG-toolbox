@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a dirt path extending forward into a dense forest. Tall trees with green and autumnal foliage rise steeply on both sides, encompassing most of the view, with bright sky visible above. Lush green ferns and undergrowth line the path on the left and right, with a fallen log on the left.
+end of description
+The following frames depict a continuous forward movement along the path, with the viewpoint slowly progressing deeper into the forest. Objects initially further down the path, like distant trees and turns in the trail, gradually move closer to the viewer's perspective and then recede as the camera advances, revealing more of the path ahead within the same densely wooded environment. No entirely new objects or scenes are revealed; the viewer simply moves through the existing scene.
+frame_0000000128-frame_0000000256:
+A narrow dirt path extends directly ahead from the viewer into a dense forest, flanked by tall evergreen trees that reach towards a bright sky. Lush green ferns and fallen logs populate the forest floor to the viewer's immediate left and right, with larger trees standing prominently in the mid-ground on both sides.
+end of description
+The viewpoint smoothly advances forward along the path, causing the initial foreground ferns and tree trunks to recede behind the original vantage point as new segments of the path and deeper forest elements are continuously revealed directly ahead.

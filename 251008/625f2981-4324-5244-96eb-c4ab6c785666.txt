@@ -1,0 +1,15 @@
+frame_0000000000-frame_0000000128:
+A young woman with dark hair is partially visible in the immediate foreground, to the right of the viewer. Directly in front of the viewer, a man and a woman walk away down a paved path. This path is bordered by a dense green hedge on the left and a raised bank with pink and yellow roses on the right, where a wooden bench with three seated individuals is also visible further along. Tall green trees line the path in the background under an overcast sky, with more people visible walking further down the path.
+
+end of description
+
+As the viewer moves forward, the young woman in the immediate foreground moves out of view to the right. The two people walking ahead remain in front, while the bench with seated individuals and the rose garden to the right pass by the viewer's position. More people become clearly visible further along the path ahead, previously in the background.
+frame_0000000128-frame_0000000256:
+In the first frame, a person in a purple shirt with a black backpack walks away on the viewer's immediate left, next to a partially visible individual, while a man and a woman sit on a wooden bench to the immediate right. A paved path stretches into the midground, populated by several people walking away, flanked by dense green foliage on the left and a raised flower bed with pink and yellow blooms on the right, behind which stands a dark building.
+
+end of description
+As the viewpoint moves forward, the foreground individuals on both the left and right recede and move out of frame. The paved path ahead and the groups of people walking further along it in the midground become progressively larger and clearer. Simultaneously, the flower beds and building on the right side of the path, and the green foliage on the left, approach and move past the viewer, revealing a distant spire in the background.
+frame_0000000256-frame_0000000384:
+The first frame displays a wide paved pathway receding into the middle distance from the viewer. To the right, a low stone wall supports a bank of green foliage, a dark-roofed building, and vibrant yellow-orange roses, all framed by tall green trees. Along the left, a neatly trimmed hedge borders the path, with more distant trees and a faint building spire visible further beyond. Numerous people are walking away from the viewer along the pathway, clustered towards the right, while others are seated on benches near the building on the right under a cloudy sky.
+end of description
+As the frames progress, the viewer steadily moves forward along the pathway. People initially in the middle distance become clearer as the viewpoint approaches them, while others continue walking further away. The building on the right and its adjacent rose bushes become more detailed, revealing additional individuals, including a person with bright pink attire and a stroller, seated on benches closer to the viewer on the right side of the path. The overall scene progresses, indicating the viewer is walking along the path.

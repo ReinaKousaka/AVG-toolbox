@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+A dirt path curves slightly left through a vibrant forest, bordered by ferns and mossy trees, with sunlight brightly flaring from the upper left, revealing distant hills beyond the treeline under a clear sky.
+end of description
+The camera then slowly tracks forward along the path. Foreground plants and the path recede *underneath and behind* the initial viewpoint, while midground trees and dense foliage move *past and behind* the original position. Simultaneously, the distant hills in the background become gradually *closer*.
+frame_0000000128-frame_0000000256:
+A dirt path stretches forward from the viewer, bordered by vibrant green ferns and grass. To the left and center stand tall, slender trees, some mossy, with dense evergreen foliage on the right, all illuminated by sunlight filtering through the upper left, revealing distant mountains beyond a grassy clearing in the background.
+end of description
+The viewpoint progresses steadily forward along the path, causing the immediate ground and surrounding ferns to rush past and recede from the initial field of view. As the viewer advances into the scene, the previously distant trees and mountains beyond the clearing to the left and ahead gradually grow larger and clearer.

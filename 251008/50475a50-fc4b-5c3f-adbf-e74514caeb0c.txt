@@ -1,0 +1,29 @@
+frame_0000000000-frame_0000000128:
+The first frame captures a European street scene. To the immediate foreground left, an orange traffic cone rests on cobblestones, adjacent to a large, light-colored building with multiple windows and arched ground-floor entrances on the left side of the street. A paved road curves into the midground towards the right, flanked by additional buildings, including one on the right displaying Italian and another flag, culminating in a distant green-domed clock tower at the street's end.
+
+end of description
+In the subsequent frames, the orange traffic cone is removed from its position in the foreground left, while the rest of the street scene remains static relative to the first-frame viewpoint.
+frame_0000000128-frame_0000000256:
+The first frame displays a European town street with a wet, curving asphalt road under an overcast sky. To the left, a large, light-colored building with arched ground-level passages and a prominent 'WALDER' sign is visible. On the right, shopfronts, flags, and a red fire hydrant line the sidewalk, while the street recedes towards a distant building with a red roof and a green-domed clock tower in the background.
+end of description
+Subsequent frames show a subtle forward camera movement, revealing more of the rightmost building's facade, including a red signboard, and the flags on it appear to flutter slightly.
+frame_0000000256-frame_0000000384:
+The first frame displays a narrow, curving street in an old town. To the left, a light-colored building with arched ground-floor entrances and multiple windows rises, partially obscured by a red-roofed spire further back. To the right, a darker multi-story building features shopfronts, vertical flags (red/white, red/green/white), posters, a red fire hydrant on the sidewalk, and planters. In the background, at the end of the street, another building with arched walkways and a prominent clock tower with a green dome is visible under an overcast sky.
+end of description
+A black SUV appears from the lower-left, moving onto the street directly in front of the viewer. It then proceeds forward, passing the red fire hydrant to its right. The vehicle continues down the curving street, receding into the background until it is almost out of view.
+frame_0000000384-frame_0000000512:
+The first frame shows a wet, narrow urban street lined with multi-story buildings under an overcast sky. A black SUV drives away from the viewer in the midground, with a light-colored building featuring arched ground-floor windows on the left and shopfronts with a red fire hydrant and green plants on the right. In the background, Italian and other flags hang from buildings, and a large building with a green dome and clock tower is visible further down the curving street.
+end of description
+As the video progresses, the black SUV continues to move forward and slightly right, receding further down the street away from the viewer's original position. The viewpoint subtly shifts, revealing more of the street and the arched building on the left. Concurrently, a Swiss flag becomes more clearly visible, hanging below the Italian flag on the right-hand side.
+frame_0000000512-frame_0000000640:
+The first frame shows a European street curving gently to the right, with a black car driving away in the mid-ground. To the left, light-colored buildings with arched ground-floor entrances line the street, while to the right, a multi-story building with storefront arches and hanging flags (Italian and an emblem) features a red fire hydrant and foreground planters. In the distance, a building with a green-domed clock tower is visible at the end of the street.
+end of description
+As the viewpoint moves forward, the black car recedes further ahead down the street. A new Swiss flag is revealed, hanging to the right of the viewer's path below the initial flags, as the viewpoint progresses past them. The buildings on both sides become closer, revealing more architectural details and storefront information, including additional posters on the right-hand side.
+frame_0000000640-frame_0000000768:
+The first frame depicts a narrow town street curving left, lined by multi-story buildings with arched ground floors; a white car is parked on the left, and a black car is in the middle of the road, further down. To the right, a building with flags and numerous display boards under its arches features a "RISTORANTE RIALTO PIZZERIA" sign, while a green-domed clock tower rises in the distant background.
+end of description
+Subsequently, the white car on the left begins moving forward into the scene, passing its initial parked position relative to the viewer. Concurrently, the black car in the center of the road progresses further away from the viewer along the street.
+frame_0000000768-frame_0000000896:
+The first frame depicts a European street flanked by historic-looking buildings. To the viewer's right, a series of light-colored arched columns form a covered walkway, displaying informational cases and a white sandwich board, with a red and white Swiss flag flying overhead. To the left, another building with similar arches and blue signage lines the street. In the midground, a paved road curves gently to the right, featuring a white car on its surface and white dashed lane markings. In the background, more buildings are visible, including one with a green-domed clock tower.
+end of description
+As the frames progress, the white car initially positioned in the midground moves continuously closer to the viewer. Simultaneously, its lateral position shifts from the center-right of the road towards the left side, eventually occupying a prominent space in the lower-left foreground. No new objects or scenes are revealed; the surrounding buildings and static elements of the street remain unchanged relative to the first-frame viewpoint, underscoring the car's dynamic movement through the established scene.

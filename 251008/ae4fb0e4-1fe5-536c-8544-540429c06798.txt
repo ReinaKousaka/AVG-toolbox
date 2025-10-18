@@ -1,0 +1,14 @@
+frame_0000000000-frame_0000000128:
+A rainy street scene shows a wet paved sidewalk on the right foreground, alongside a black metal fence and a blue hand truck on the left. In the mid-ground, green plastic crates and a large grey metal structure are stacked on the sidewalk, with a person holding a black umbrella walking away to the far right, while cars move on the wet road to the left under traffic lights and distant apartment buildings.
+end of description
+Throughout the frames, vehicles move across the road from left to right, and the traffic lights cycle from green/yellow to green/red and then to flashing yellow. The person with the umbrella continues walking further away along the sidewalk. Most notably, the grey metal structure and the stacked green crates on the mid-ground sidewalk begin to move right, with the structure gradually departing from the frame, revealing more of the street behind its initial position.
+frame_0000000128-frame_0000000256:
+In the first frame, a large grey utility box with various poles on top, and some white bags and a green crate, occupies the foreground to the left. A man holding a black umbrella walks on a tiled sidewalk in the midground, moving towards the viewer, with parked cars to his right. A wet street with a silver sedan and other cars, along with traffic lights displaying yellow signals, is visible in the mid-left and background, behind a black fence. Apartment buildings and trees are in the distant background.
+
+end of description
+
+The man with the black umbrella continues walking forward on the sidewalk, steadily approaching the viewer. A yellow van drives from left to right across the midground street, behind the man's initial position, while traffic lights change from yellow to red and back to yellow. Other cars move across the street to the left, and a red truck appears from the left, moving behind the man in later frames as he draws closer.
+frame_0000000256-frame_0000000384:
+In the first frame, a man holding a black umbrella walks from left to right across the foreground on a wet, tiled sidewalk, with a black railing to his left. In the midground, a red and white delivery vehicle is parked on the wet asphalt road near an intersection featuring traffic lights and street signs. Other vehicles are visible further along the roads, and tall buildings rise behind trees in the background under an overcast sky.
+end of description
+The man with the umbrella continues walking towards the right, eventually exiting the frame. Concurrently, the red and white delivery vehicle drives forward and exits the frame to the right. Traffic lights at the intersection cycle, with some changing from red/yellow to green and back. Later, a white car enters from the left midground, drives across the crosswalk, and turns right into the road where the delivery vehicle had been.

@@ -1,0 +1,26 @@
+frame_0000000000-frame_0000000128:
+In the first frame, a person with their back to the viewer, wearing a plaid shirt and dark pants, holds a black polka-dotted umbrella overhead while walking down a wet, stone-paved alley. Traditional buildings with white and reddish-brown brick walls line the left, featuring two tall evergreen trees in the foreground, while buildings with dark brick walls are on the right, where a white wall with a recessed display window is visible. A utility pole stands further down the alley, with a dark car and distant mountains visible in the background.
+
+end of description
+
+The person continues walking forward down the alley. A sudden gust of wind violently inverts the umbrella, blowing it backward over their head. The person then swiftly brings their hands together, managing to recover the umbrella's original shape and continuing their walk.
+frame_0000000128-frame_0000000256:
+In the first frame, a person wearing a yellow-green plaid shirt and dark pants walks away from the viewer down a wet, stone-paved alley, holding a black umbrella partially inverted by the wind. To the viewer's left, a low white brick wall with a dark tiled roof runs alongside, behind which are traditional buildings with ornate lanterns. To the right, a dark brick building with a red door and a window above it is visible. The alley recedes into the distance, revealing a parked grey car further ahead, with utility poles and wires overhead, and faint mountains under a cloudy sky in the background.
+
+end of description
+
+The person continues walking further away from the viewer down the alley, with their feet becoming more visible. The black umbrella remains partially inverted, showing distinct raindrops and fluctuating under the apparent wind. As they move, more of the red door on the right building becomes visible, and the parked car in the distance subtly approaches the frame's center.
+frame_0000000256-frame_0000000384:
+The first frame shows a wet, stone-paved alleyway flanked by traditional Korean architecture. To the viewer's left, a white-walled building with a dark tiled roof and wooden elements features a decorative lantern. To the right, a black brick wall with a red door and another lantern extends into the distance. A person, seen from behind, walks away from the viewer down the alley's center, holding a black umbrella and wearing a yellow plaid shirt and dark trousers. A utility pole stands mid-frame to the right of the person, with a silver SUV partially visible further down the alley, and distant mountains under an overcast sky in the background.
+
+end of description
+
+The person continues to walk forward, moving further away from the stationary viewpoint down the wet alley. Their feet alternate, showing a glimpse of a red shoe sole as they step, maintaining a consistent pace away from the viewer.
+frame_0000000384-frame_0000000512:
+In the first frame, a person holding a black umbrella walks away from the viewer on a paved street, flanked by traditional Korean-style buildings on the left and a black brick wall on the right; a utility pole stands mid-ground to the right, a gray SUV is parked further down the street behind the person, and distant mountains are visible under an overcast sky.
+end of description
+As frames progress, the person with the umbrella continues walking further away from the first-frame viewpoint, moving deeper into the street and slightly shifting to the right.
+frame_0000000512-frame_0000000640:
+The first frame shows a wet, paved street in an old town, lined with traditional tiled-roof buildings, leading towards distant mountains under a cloudy sky. A person holding a black umbrella walks away from the viewer, center-left, with a utility pole in the foreground right and a silver SUV parked further down the street.
+end of description
+In subsequent frames, the person continues moving forward, further away from the first-frame viewpoint, deeper into the street. This dynamic change reveals more of the wet pavement and the building facades to the left, while the stationary silver SUV remains further down the street ahead, and the utility pole stays fixed in the foreground to the right.

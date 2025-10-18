@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a wet asphalt road from a low viewpoint, with a yellow line and a partial white 'E' marking visible on the left. Ahead, the road extends to an intersection marked by a white stop line, beyond which red traffic lights are visible in the distance. To the left, storefronts with awnings and Korean text line the street, featuring a black car parked near the viewer and other vehicles further down. To the right, a sidewalk across the intersection shows trees, a scooter, a blue parking sign, and an information kiosk.
+end of description
+Throughout the subsequent frames, rain is visibly falling, creating subtle splashes and ripples on the glistening wet road surface, especially prominent in the foreground.
+frame_0000000128-frame_0000000256:
+The first frame displays a wet street under an overcast sky. In the foreground, a wet asphalt road is visible with a white crosswalk line and a yellow curb line to the left. Along the left side of the street, a row of buildings features the closest one with a red awning and clear plastic sheeting, behind which are parked cars. On the right side, a sidewalk is bordered by a metal fence, with a red trash can, a blue parking sign, and a white scooter positioned further down, alongside a public information board. The street extends into the background, revealing more buildings, trees, and faint red traffic lights.
+end of description
+Subsequent frames depict continuous light rainfall, evident by subtle splashes and ripples visible on the wet street surface directly in front of the viewer and extending into the midground. There are no newly revealed objects or scenes, only dynamic changes in the appearance of the falling rain on the existing environment.
+frame_0000000256-frame_0000000384:
+The first frame depicts a wet asphalt street in an urban setting, reflecting the overcast sky, with manhole covers in the foreground. To the viewer's left, a row of buildings with storefronts, signs, and parked cars lines the curb, partially covered by clear plastic sheeting and a red awning. To the right, a sidewalk features a blue parking sign, a red and black trash bin, a metal fence, and trees, with parked vehicles and a white scooter further down the street. Red traffic lights glow in the distance, marking an intersection.
+end of description
+No dynamic changes, newly revealed objects, or shifts in spatial positions relative to the first-frame viewpoint are perceptible across the subsequent frames; the scene remains static.

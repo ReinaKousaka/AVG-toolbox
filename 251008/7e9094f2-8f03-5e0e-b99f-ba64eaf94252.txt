@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+A paved road curves to the left in the foreground, with a metal guardrail lining its right edge. Beyond the guardrail, a lush green hillside dotted with houses and dense evergreen forests rises towards the mid-ground and background, topped by a partly cloudy sky. On the far right, a tree and a red and white marker pole are visible.
+end of description
+The viewpoint advances along the road, revealing a white SUV appearing on the far left and passing by, and subsequently a yellow crosshatch marking on the pavement. A white van becomes visible behind houses on the left, while a multi-directional signpost emerges on the right side of the road, further along the guardrail.
+frame_0000000128-frame_0000000256:
+The first frame displays a winding paved road in the foreground and mid-ground, featuring white dashed and yellow zig-zag markings, leading into a rural valley. To the left, a blue bus stop sign and trees line the road, while to the right, a metal barrier, multiple houses with brown roofs, and a prominent directional signpost for Chamonix/Megève are visible against a backdrop of green, tree-covered hills and a partly cloudy sky.
+end of description
+As the camera progresses along the road, the directional signpost and metal barrier on the right, and the bus stop sign on the left, gradually move out of view. The houses on the right become larger and closer, with a white van becoming more clearly visible parked beside one. The road's markings continuously scroll from the foreground as the viewpoint advances through the landscape.

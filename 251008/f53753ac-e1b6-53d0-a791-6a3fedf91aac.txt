@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a wet city street under an overcast sky, with a white car turning right in the center-left midground, its taillights on. Behind it, other vehicles are visible on the left, while the right features a sidewalk, trees, a building facade, and a blue street sign above, with tall apartment buildings in the background.
+end of description
+The white car progressively completes its right turn, moving further away down the street to the right of the initial viewpoint. Simultaneously, the line of cars on the left advances forward, moving into the intersection and gradually past where the white car originated, towards the midground. The scene consistently depicts a rainy urban environment as the vehicles continue their movement.

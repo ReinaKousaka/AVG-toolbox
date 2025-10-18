@@ -1,0 +1,14 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a paved road curving gently uphill and to the left, with a dashed white line delineating the left lane and a solid white line on the right edge. A silver guardrail extends along the right side of the road, beneath which is a grassy embankment and dense green foliage leading to a small wooden bridge-like structure with decorative stone posts further along the road. To the left of the road, a grassy slope ascends towards a distant mountain range with visible peaks, all under a blue sky dotted with fluffy white clouds.
+end of description
+As the viewpoint advances along the road, the guardrail, road markings, and the wooden bridge structure on the right move progressively past the viewer and recede into the distance, further along the path initially depicted. Simultaneously, the mountain range and forested slopes visible on the left side of the initial frame appear to draw closer. In later frames, a white car becomes newly visible, situated far ahead on the grassy slope to the left of the road, which was previously out of view.
+frame_0000000128-frame_0000000256:
+The viewer is on a paved road with white dashed and solid lines extending forward into the distance. To the immediate right, a metal guardrail precedes a stone pillar with a spherical top and a wooden fence spanning a ditch, backed by dense green trees. On the left, a grassy slope with trees leads to a winding road where a white car is visible, while distant mountains and a partly cloudy blue sky complete the background.
+end of description
+As the frames progress, the viewpoint moves forward along the road. The guardrail, stone pillar, and wooden fence on the right sequentially pass the viewer, receding to the right and slightly behind the initial viewpoint. Concurrently, the grassy slope and trees on the left pass by, revealing more of the winding road ahead.
+frame_0000000256-frame_0000000384:
+The first frame shows a paved road with double white solid lines in the center and a single white line on the right shoulder, curving into the distance. To the left, a grassy incline with scattered trees leads up towards mountains in the far background under a partially cloudy blue sky, while a silver guardrail borders dense green foliage on the right side of the road.
+
+end of description
+
+As the viewpoint progresses forward, the road, its markings, and the adjacent guardrail move closer and then pass beneath and to the sides of the viewer. The guardrail on the right eventually recedes from view, revealing more of the steep, rocky, and densely vegetated embankment behind it, while the distant mountains remain visible ahead.

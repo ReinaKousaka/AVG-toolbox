@@ -1,0 +1,6 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a paved road stretching forward, featuring white lane markings including two prominent forward arrows. To the left, another lane with a left-turn arrow is visible, along with a dark car in the mid-distance, and green trees leading to distant mountains. On the right, a sidewalk runs parallel to a green hedge, behind which a white multi-story house with green shutters is seen, while a red and white pedestrian crossing sign, a green electric scooter, and a white fire hydrant are visible closer to the viewer. The scene is set under a blue sky adorned with wispy white clouds.
+
+end of description
+
+Subsequently, the dark car on the left approaches and then turns right, moving towards the distant intersection. Concurrently, the pedestrian crossing sign, green scooter, and fire hydrant gradually move out of frame to the right as the viewpoint advances. An orange and white striped barrier then appears on the right side of the main road, replacing the pedestrian sign, and moves closer as the scene progresses.

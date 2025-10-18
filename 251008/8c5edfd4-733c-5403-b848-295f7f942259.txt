@@ -1,0 +1,14 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a wet urban street scene with a glistening sidewalk on the left, bordered by a green hedge and several tree trunks. To the right lies a wet road with yellow markings, where distant cars are visible beneath a blue overhead sign and buildings in the background.
+end of description
+Throughout the frames, rain visibly falls, splashing on the wet surfaces. Cars on the distant road intermittently move forward or stop, while the traffic light further down the street changes color. A pedestrian with an umbrella briefly appears on the far right sidewalk, moving towards the left.
+frame_0000000128-frame_0000000256:
+A street scene on a rainy day is depicted, looking down a wet sidewalk and road. In the foreground right, a thick tree trunk partially obscures the view of the multi-lane asphalt road, which is slick with rain and features yellow and white markings. Further down the road, several cars are visible, along with a blue road sign overhead and distant tall buildings. To the left, a red-brown paved sidewalk with a distinctive white edge line runs parallel to the road, bordered by a row of trees and a dense green hedge that extends into the background.
+
+end of description
+
+The camera slowly pans left, gradually revealing more of the wet sidewalk and the lush green hedge on the viewer's left, as the foreground tree trunk slowly moves out of frame to the right. The rainy conditions persist throughout, with visible raindrops on all surfaces, while the distant urban landscape and road traffic remain in view. A "Rain Everyday" watermark appears in the bottom-left corner from the third frame onwards.
+frame_0000000256-frame_0000000384:
+The first frame depicts a wet asphalt sidewalk extending from the foreground into the distance, bordered on its left by a green bush-covered embankment with rocks, and on its right by a narrow reddish path and several tree trunks. Beyond these trees to the right, a wet road with yellow markings stretches towards the background, where distant cars are visible moving away from the viewer and tall buildings loom on the horizon, with a turquoise street cabinet positioned in the midground behind a tree.
+end of description
+Throughout the subsequent frames, numerous raindrops continuously fall, creating visible splashes and ripples across the wet sidewalk, road, and bushes. A white car, initially in the mid-distance on the road to the right, gradually moves further away from the viewer, accompanied by subtle shifts in other distant vehicles. The constant rainfall maintains the scene's overall wet and reflective appearance.

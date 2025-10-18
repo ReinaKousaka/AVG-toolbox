@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a paved walkway extending into the distance, bordered on the left by a grassy lawn and vibrant flower beds, beyond which mountains rise. To the right, a street runs parallel, featuring buildings with red awnings and one marked "KIRCHH", along with parked cars. A person in dark clothing with a red bag is walking away from the viewer on the path, where a manhole cover is visible in the foreground.
+end of description
+In subsequent frames, the person on the path continues to walk further away from the viewer. Additionally, two other people appear on the street to the right, also moving away from the initial viewpoint. The manhole cover in the foreground gradually disappears from view as the perspective subtly advances forward.
+frame_0000000128-frame_0000000256:
+The first frame depicts a paved walkway extending into the distance, flanked by a grassy area and a raised flower bed with colorful plants to the left, backed by mountains in the far distance. To the right, another grassy strip and light poles precede a street with a building featuring red awnings and flags, while a woman in dark clothes carrying a red bag walks away from the viewer on the path's right side.
+end of description.
+In subsequent frames, the woman on the right continues walking forward, moving further away from the viewer and gradually exiting towards the far right of the scene. A person on a mobility scooter-like vehicle appears in the mid-left of the path, moving into the distance, and another individual walks towards the right near the red-awning buildings.

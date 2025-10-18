@@ -1,0 +1,10 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a park with a white ornate bench in the foreground, slightly right of center, next to a paved path and a large tree with golden foliage. To the left, a white gazebo with red lanterns is visible, while a row of similar trees and parked cars line a street to the right, with buildings in the distant background under a clear sky.
+
+end of description
+
+Subsequently, a red car appears in the distant background, emerging from the left side of the scene, behind the central tree and gazebo. This car then proceeds to drive from left to right across the frame along the street, eventually exiting to the far right.
+frame_0000000128-frame_0000000256:
+The first frame displays an autumn park with large trees featuring yellow leaves dominating the left and top. A white, ornate park bench is positioned bottom-center, foregrounding a prominent tree trunk. To the right, a paved pathway runs alongside a street with parked cars and buildings in the mid-background under a clear blue sky.
+end of description
+The camera slowly pans right and subtly zooms in. This shift causes the foreground tree trunk and white bench to move further left and appear larger relative to the initial viewpoint, while progressively revealing more of the street and parked cars previously to the right of the frame.

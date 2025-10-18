@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+In the foreground, a dirt path extends away from the viewer, bordered by green grass and scattered vegetation on both sides. In the middle ground, a person wearing blue walks uphill on a winding section of this path, traversing a steep, grassy mountainside to the left of the viewer. The background reveals towering green and rocky mountains, with a prominent snow-capped peak visible to the far left, all beneath a blue sky with white clouds.
+end of description
+As the frames progress, the person in blue continues to walk further up the winding path, moving away from the viewer and higher up the mountainside to the left. Subsequently, a second person, wearing lighter clothing, becomes visible behind the first individual, also ascending the path further in the distance to the left of the first-frame viewpoint.
+frame_0000000128-frame_0000000256:
+The first frame shows a dirt path extending towards the midground, bordered by green grass and shrubs, leading up a steep, grassy mountain slope on the left where two hikers are visible on a winding trail. In the background, distant rugged mountains rise under a blue sky with white clouds and a contrail.
+end of description
+As the frames progress, the two hikers continue to ascend the winding trail, moving further up the steep, grassy mountain slope to the left and appearing increasingly distant from the original viewpoint.
+frame_0000000256-frame_0000000384:
+The first frame captures a narrow dirt path in the foreground, leading into the mid-ground, flanked by steep, grass-covered mountain slopes. To the far left, a person in blue is visible on a winding trail, receding towards distant mountains under a blue sky.
+end of description.
+The subsequent frames reveal no significant movement of objects or newly revealed scenes; the person, paths, and mountains maintain their original spatial positions relative to the first-frame viewpoint. A subtle lens flare in the upper right sky is the only dynamic element, appearing and shifting slightly.

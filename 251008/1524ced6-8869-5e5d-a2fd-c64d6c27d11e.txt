@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+In the first frame, the viewer is positioned on a wooden boardwalk featuring central train tracks that curve gently left, bordered by wooden railings extending into the distance. To the left, a rocky shore, vegetation, and a multi-story building are visible, while to the right, water filled with numerous wooden pilings stretches out to distant buildings under a vast green metal bridge and clear blue sky.
+end of description
+As the viewpoint moves forward along the tracks, the multi-story building on the left recedes further away. Simultaneously, the right side of the main green bridge structure and its concrete support column progressively become more visible to the viewer's right, as the wooden pilings in the water pass by.
+frame_0000000128-frame_0000000256:
+The first frame depicts a wooden boardwalk with embedded train tracks curving to the left, while to the right, a body of water extends into the distance, dotted with numerous wooden pilings; above, a large green bridge spans the scene, with distant buildings visible on the far side of the water under a clear blue sky.
+end of description
+The viewpoint dynamically moves forward along the wooden boardwalk. As the camera progresses, a section of the boardwalk and its railing, initially ahead and to the right, extends closer and becomes more fully visible to the right of the viewer. Objects in the background, like the distant buildings and the large green bridge structure, appear to recede slightly. The wooden pilings in the water also shift their relative positions, revealing more of the waterway previously beyond the initial field of view.

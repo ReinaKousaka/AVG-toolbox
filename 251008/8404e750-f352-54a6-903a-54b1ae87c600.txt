@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a rainy night cityscape with a wet street reflecting lights. To the left, a dark tree and bushes foreground a street with a stationary white car at red traffic lights and tall buildings. To the right, bare trees line a sidewalk leading to white tents and a building with blue accents.
+end of description
+A red car emerges from the left in frame 4, moving past the white car and disappearing right by frame 8. Concurrently, a truck appears further down the street on the left, moving right, and by frame 9, a white SUV has moved into position behind the initial white car from the left.
+frame_0000000128-frame_0000000256:
+The first frame depicts a rainy city street at night, with wet, reflective asphalt dominating the foreground. To the left, a white SUV is stopped at a red traffic light, partially obscured by a dark pole and a large bare tree trunk that dominates the center. On the right, a sidewalk features parked bicycles, a small kiosk, and several white tents, while illuminated buildings rise in the background. A green truck is visible further down the street behind the central tree, and reflections from streetlights and building lights shimmer across the scene.
+end of description
+Subsequently, a white bus travels from left to right, passing behind the central tree. As the bus moves, a large white banner becomes fully visible on the sidewalk behind the second tree, to the right of the initial viewpoint. Later, a pedestrian appears from the far right side of the frame, near the tents, and walks left past the parked bicycles.

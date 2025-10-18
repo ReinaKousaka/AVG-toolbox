@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a forest path made of rocks, leading into a dense woodland. In the foreground, a prominent cut tree stump is slightly right of center, flanked by a large log segment to its left and green foliage on the far right. Tall, slender trees with green canopies dominate the midground and background, rising towards an overcast sky, with more fallen logs and rocks scattered throughout the forest floor.
+end of description
+Across the subsequent frames, no dynamic changes or newly revealed objects or scenes occur; the view remains entirely static. All visible objects maintain their exact spatial positions relative to the first-frame viewpoint throughout the sequence.
+frame_0000000128-frame_0000000256:
+The first frame shows a rocky forest floor with several fallen logs and tree stumps, surrounded by tall evergreen trees under a bright sky. In the foreground, a mossy tree stump is centrally located, with a large dark log to its left and another lighter log diagonally to the right, partially obscuring a small stream. The midground is dominated by a rocky path leading into the dense forest where more fallen logs and green foliage are visible.
+end of description
+The subsequent frames display no dynamic changes or newly revealed objects; the scene remains entirely static throughout the sequence.

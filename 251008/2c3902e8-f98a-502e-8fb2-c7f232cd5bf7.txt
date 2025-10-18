@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a dark asphalt road with double yellow lines on the left and a white line on the right, curving ahead and slightly right, flanked by arid vegetation and towering reddish-brown rock formations on both sides under a clear blue sky.
+end of description
+As the frames advance, the viewpoint moves forward along the road, causing the dark asphalt and its markings to recede towards the horizon while the towering red rock formations on both sides steadily draw closer and expand into view. The continuous rightward curve of the road guides the viewer deeper into the scenic valley, revealing more of the arid roadside vegetation. Additionally, a faint sun glare moves slightly in the upper right of the frame.
+frame_0000000128-frame_0000000256:
+The first frame displays a dark asphalt road with double yellow lines on the left and a white line on the right, curving towards the right ahead of the viewer. Towering red-orange rock formations flank both sides, with a large mass on the left and a closer rock wall on the right, under a bright blue sky with sun glare in the upper right.
+end of description
+As the viewpoint moves forward, the road appears to advance, and the rock formations on the left and right continuously recede, revealing new segments of the arid landscape and vegetation directly ahead and along the roadside relative to the initial position.

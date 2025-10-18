@@ -1,0 +1,32 @@
+frame_0000000000-frame_0000000128:
+The initial view presents a cobblestone street in the foreground, followed by a stone retaining wall, and a black iron fence with green bushes behind it. A red "no vehicles" sign is visible near the center, backed by red brick buildings, a large tree with Spanish moss, and a partial utility pole on the far left, all beneath an overcast sky.
+end of description
+The scene dynamically shifts left relative to the viewer, as if the camera is panning right. This movement gradually reveals a street light pole appearing from the far right of the first-frame viewpoint. Simultaneously, the leftmost utility pole and portions of the brick building eventually exit the frame to the viewer's left.
+frame_0000000128-frame_0000000256:
+A stone wall occupies the lower third of the first frame, with a cobblestone street in the immediate foreground. Behind the wall, a black wrought-iron fence is mostly obscured by dense green bushes, which stand in front of a red brick building with white trim on the far left. A utility pole with a streetlamp is in the mid-right background, and a cluster of trees with Spanish moss is further right. From the top-left, foreground foliage with Spanish moss hangs, partially revealing a 'no right turn' sign above it.
+
+end of description
+
+The 'no right turn' sign on the far left disappears. A dark vehicle emerges from behind the moss-draped trees on the far right, moving towards the left in the background. Several pedestrians then appear on the path to the right, moving from behind the trees towards the center. A green SUV subsequently drives into the frame from the far right and parks behind the pedestrians.
+frame_0000000256-frame_0000000384:
+The first frame displays a cobblestone road in the foreground, with a low stone wall topped by a black fence and green bushes stretching along the left, while a dark green SUV is parked on the right next to a group of people near steps, all beneath large trees with Spanish moss and an overcast sky.
+end of description
+Subsequently, the dark green SUV, initially parked on the right, slowly reverses away from the viewer and gradually exits the frame towards the background-right of its original parking spot. Concurrently, the viewer's perspective advances, causing the entire scene, including the receding group of people on the right, to appear further in the distance as more of the cobblestone road is revealed in the foreground.
+frame_0000000384-frame_0000000512:
+The first frame shows a cobblestone road leading into a recessed area, bordered by stone retaining walls on the viewer's left and right, topped with black fences. In the distance, a grey SUV is parked on the cobblestones with several people near it and on a stone staircase to its right, all beneath large trees draped with Spanish moss on higher ground.
+end of description
+The grey SUV subsequently reverses slowly backward and to the viewer's left from its initial distant position. Concurrently, a person in a red shirt descends the stone staircase, joining other individuals who congregate near its base to the right of the SUV's original spot. The SUV continues backing further towards the viewer, progressively clearing the area near the stairs as people gather there.
+frame_0000000512-frame_0000000640:
+The first frame displays a cobblestone path bordered by tall, mossy stone walls on the left and right, leading towards a background of large, tree-filled parkland. A group of people gathers near the base of the left wall, with more individuals on steps in the central midground. Black metal fences top the walls, and Spanish moss hangs from trees in the distance.
+end of description
+The subsequent frames show a gradual, subtle forward movement of the viewpoint. All visible objects, including the static groups of people, appear to slowly approach the viewer as the scene slightly enlarges. No new elements are revealed; the perspective simply advances deeper into the initial setting.
+frame_0000000640-frame_0000000768:
+In the first frame, a cobblestone ground occupies the foreground. Rising on both the left and right are stone walls, creating a sunken area, with a narrow path running along the right wall. In the midground, a group of people stands on a stone platform to the left and on the lower steps of a stone staircase leading upwards, situated between the walls. Above the stone structures, in the background, a dense canopy of large green trees adorned with Spanish moss is visible, partially obscured by a black metal fence running along the upper edge of the walls.
+end of description
+Throughout the subsequent frames, the group of people on the lower left platform and stairs begins to move, with individuals subtly shifting positions and a person in a green shirt walking towards the right across the platform. Concurrently, a person in a blue shirt emerges from behind the trees at the far top right, above the stone wall, and proceeds to walk horizontally to the left, along the upper pathway. The overall dynamic indicates a gradual dispersal and repositioning of the individuals within the scene.
+frame_0000000768-frame_0000000896:
+The first frame shows a cobblestone ground leading to a multi-tiered stone wall and stairs in the mid-ground. A group of people are gathered on the left cobblestone, while a person stands on the upper level to the mid-right, below large trees draped in Spanish moss and a black fence in the background.
+
+end of description
+
+Subsequently, the individual on the upper level moves left and begins descending the stairs, while the group of people on the lower left coalesces and starts ascending the same stairs. A new person then appears on the upper level, moving left, and another figure becomes visible inside an opening on the right stone wall.

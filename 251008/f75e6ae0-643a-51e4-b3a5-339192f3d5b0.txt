@@ -1,0 +1,10 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a wet, illuminated city street at night, with streetlights and commercial signs casting vibrant reflections on the ground directly in front of the viewer. A bus stop and black metal barriers are visible on the left, while a bare tree and parked bicycles occupy the central midground, and storefronts with closed shutters and illuminated signs (e.g., '귀금속') line the right side, extending into the background.
+end of description
+The viewpoint steadily recedes backward from its initial position, slowly revealing more of the street and sidewalk directly in front. This outward movement also expands the visible scene, showing more of the buildings and infrastructure to the left and right of the first frame's original edges, as objects like the bus stop and storefronts appear to move further outward from the center.
+frame_0000000128-frame_0000000256:
+The first frame displays a wet, dimly lit city street at night from a street-level perspective, featuring a bus stop shelter on the mid-left behind a dark barrier and a white bag on the ground, while illuminated kiosks and bins are centrally positioned. To the mid-right, a bare tree stands next to a row of parked bicycles and scooters, with distant buildings and traffic lights (green) visible further down the street.
+
+end of description
+
+As the frames progress, the viewpoint slowly moves forward and slightly to the right, causing the initial left foreground objects like the barrier and white bag to recede and eventually move out of frame. The bus stop and kiosks also recede, making more of the street ahead and the details of the parked bicycles and scooters on the mid-right more prominent before they too pass by, maintaining the rainy urban night scene.

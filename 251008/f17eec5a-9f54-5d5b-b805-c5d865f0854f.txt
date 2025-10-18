@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a clear blue sky above a paved road that extends forward into the distance, curving slightly right. A double yellow line marks the road's center, with a solid white line defining the right shoulder. To the viewer's left, a light-colored, sloping embankment rises, topped by a dense forest of tall green pine trees. To the viewer's right, a similar dense forest of pine trees lines the road, casting shadows.
+end of description
+The viewpoint continuously moves forward along the road, causing the paved surface and its markings to approach and pass beneath the viewer. The dense pine forests and the embankment on both sides of the road progressively shift from being ahead to passing by the viewer's left and right, and then receding behind. New sections of the winding forest road and the surrounding tree-lined landscape are constantly revealed ahead from the first-frame viewpoint.
+frame_0000000128-frame_0000000256:
+The first frame shows a paved two-lane road with double yellow lines extending into the distance, bordered by a gentle dirt slope with trees to the left and a dense evergreen forest to the right, under a clear blue sky.
+end of description
+As the viewpoint moves forward along the road, the trees and slope on the left, and the forest on the right, progressively move past the viewer. A dark car emerges in the distance, ahead of the viewer in the opposing lane, gradually approaching. The shadows on the road subtly shift, reflecting the continuous movement, and a watermark appears in the bottom-left corner.

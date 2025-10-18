@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a dirt path winding into a lush, green forest, with dense ferns and undergrowth immediately surrounding the viewer on both sides. Tall, moss-draped trees frame the path, with a distinct, light-barked tree leaning prominently in the mid-ground ahead.
+end of description.
+As the frames progress, the viewpoint slowly advances forward along the path, causing the foreground vegetation to move past the viewer and the leaning tree to appear further away, maintaining the same forest scene ahead.
+frame_0000000128-frame_0000000256:
+The first frame displays a narrow dirt path receding into a dense, verdant forest. Lush green ferns and undergrowth densely pack the immediate foreground, flanking the path on both sides. Numerous tall, moss-covered trees dominate the midground and background, with a distinct mossy tree trunk leaning diagonally in the mid-distance, slightly right of center. The forest canopy above partially reveals a bright sky.
+end of description
+As the frames progress, the viewpoint steadily moves forward along the path, causing the foreground undergrowth and the immediate path section to shift closer and then out of view below. Objects like the prominent leaning tree trunk, initially in the mid-distance, appear to approach the viewer and slowly shift towards the left. This movement continuously reveals more of the path and forest that was previously ahead of the viewer, deeper into the scene.

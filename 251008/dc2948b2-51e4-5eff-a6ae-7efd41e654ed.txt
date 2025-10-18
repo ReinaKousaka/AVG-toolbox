@@ -1,0 +1,14 @@
+frame_0000000000-frame_0000000128:
+A rainy city street features a silver car partially in the bottom left, a tree trunk foreground right, and a scooter with a yellow delivery box mid-left. In the midground, a white car drives past a building with a "KB 국민은행" sign and a shop with a striped awning, under a green traffic light. The wet sidewalk on the right shows black bollards.
+end of description
+The scooter proceeds forward on the street, moving from the mid-left towards the background and eventually turning right, revealing white crosswalk markings beneath it. Simultaneously, the white car in the midground moves further down the street and exits the frame to the right. The green traffic light in the midground eventually changes to red, and the foreground silver car remains mostly stationary throughout the continuous rainfall.
+frame_0000000128-frame_0000000256:
+In the first frame, a dark tree trunk stands prominently in the left foreground, partially obscuring the rear of a silver sedan stopped on the wet asphalt road. To the left of the road, storefronts with striped awnings and a "KB Kookmin Bank" sign are visible behind a pedestrian crosswalk. In the midground, a street light pole with traffic signs (pedestrian crossing, no stopping) marks an intersection where a yellow motorcycle is turning right, and several black bollards line the sidewalk to the right. Further down the rainy street, buildings rise on both sides, with a circular building featuring a large display in the background right, and traffic lights showing green for straight ahead and red for turning right.
+
+end of description
+
+The silver sedan in the left foreground begins to move forward, making a left turn across the intersection. The yellow motorcycle, initially turning right in the midground, exits the frame. Subsequently, a white SUV approaches from the midground-left and also executes a left turn, following the silver car. Throughout the sequence, other vehicles move dynamically through the midground and background, either driving straight down the street or turning at the intersection.
+frame_0000000256-frame_0000000384:
+The first frame captures a rainy city street intersection with wet pavement. In the mid-left, a dark pole with pedestrian crossing and traffic signs stands, while a white SUV rests on the left crosswalk and a silver sedan turns right from the mid-right. Buildings, including storefronts on the left and a circular structure on the right, frame the busy scene.
+end of description
+The white SUV on the left drives forward, exiting to the viewer's left, as a new white van enters from the far left and proceeds forward. Concurrently, the silver sedan completes its turn to the right and exits, allowing a white sedan behind it on the far right to begin moving. A dark sedan in the mid-distance advances forward from its initial position.

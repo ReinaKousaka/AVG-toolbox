@@ -1,0 +1,5 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a dense, verdant forest. A large tree trunk, thick and covered in textured bark and numerous hanging vines, stands prominently in the foreground, slightly right of center. Its base is surrounded by lush green foliage, and broad leaves cling to its upper trunk. To the left, several bare branches extend horizontally into the midground, while to the right, a thick expanse of trees heavily draped in vines recedes into the background. Above, patches of bright sky are visible through the dense canopy of green leaves that dominate the upper frame.
+
+end of description
+The camera subtly zooms out and pans slightly upwards and to the left. This causes all visible objects, including the prominent central tree and the distant vine-covered trees, to appear to recede further away from the viewer. Consequently, a small amount of new ground foliage is revealed directly below the initial viewpoint, while more of the upper canopy becomes visible above and to the left. The overall scene expands, subtly shifting the forest elements relative to their initial positions.

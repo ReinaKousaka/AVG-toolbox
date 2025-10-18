@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+A paved road with double yellow lines and a white shoulder line extends forward, gently curving right into a desert canyon. To the right, a massive, layered red rock cliff face rises, while smaller rocky hills with sparse vegetation line both sides of the road under a clear blue sky.
+end of description
+As the viewpoint moves forward along the road, previously foreground elements exit the bottom of the frame. The towering red cliff to the right and the distant hills ahead grow larger and more detailed, continuously revealing new sections of the curving road and the expansive canyon environment as the viewer progresses.
+frame_0000000128-frame_0000000256:
+The first frame depicts a paved road, marked with double yellow lines and a white shoulder line, extending forward and curving gently right through a desert landscape. Reddish-brown rock formations and cliffs, sparsely vegetated, line both sides, with a prominent layered cliff to the right and distant mesas visible straight ahead under a clear blue sky.
+end of description
+As the video progresses, the viewer moves forward along the curving road, causing the immediate surroundings to recede behind the initial viewpoint. New segments of the road and the towering red rock formations are continually revealed ahead of the viewer, appearing to grow closer and then move past. A yellow cautionary road sign, initially out of frame, emerges into view further ahead along the road, and a white roadside post appears on the right side of the road, both passing by as the journey continues.
+frame_0000000256-frame_0000000384:
+The first frame displays a paved road, marked with double yellow lines and a white shoulder line, extending forward and gently curving left between prominent red rock formations and sparse green vegetation on both sides under a clear blue sky. A yellow diamond-shaped sign is visible in the distant center-left, with a small white object occupying the bottom-left foreground.
+end of description
+As the camera moves forward from the first-frame viewpoint, the yellow sign in the distance progressively approaches the viewer, becoming larger and more central. Simultaneously, the immediate roadside vegetation and lower rock sections on both the left and right move past the viewer, eventually receding behind the initial vantage point. A slender wooden post with a white top, initially on the far right, also approaches and passes the viewer's right side, continuously revealing new segments of the road and rugged terrain ahead.

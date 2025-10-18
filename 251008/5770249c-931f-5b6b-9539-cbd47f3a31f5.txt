@@ -1,0 +1,33 @@
+frame_0000000000-frame_0000000128:
+In the first frame, a wet asphalt street, marked by two parallel white lines, extends into the distance under an overcast sky. To the left, a long, weathered brick archway structure houses various shops, with a prominent yellow-tarped stall and a bicycle near stacked white containers in the foreground. On the right, a multi-story building lined with numerous signs recedes, and in the mid-distance, a person holding an umbrella walks away from the viewer. Modern skyscrapers are visible in the far background.
+
+end of description
+
+Subsequently, the person holding an umbrella on the right side of the road steadily walks further away from the viewer. They progressively move deeper into the street, appearing smaller and receding into the distance with each subsequent frame. By the final frame, the individual is almost out of sight towards the far end of the street.
+frame_0000000128-frame_0000000256:
+The first frame displays a wet, dark asphalt street extending into the distance, marked by two white double lines in the center. To the viewer's left, a long, aged brick structure with multiple arched openings houses storefronts, with the nearest featuring a black awning, yellow tarp, and a white sandwich board sign. On the right, a tall, modern building with numerous advertisements lines the street, with a large menu display stand prominent in the mid-ground. A lone figure holding an umbrella walks away from the viewer on the right side of the road, while city buildings are visible under an overcast sky in the background.
+
+end of description
+In the following frames, the person with the umbrella on the right continues walking further down the street, moving away from the viewer. Concurrently, a second person holding an umbrella emerges from the mid-ground on the left side of the road, walking towards the viewer and gradually approaching the center of the street.
+frame_0000000256-frame_0000000384:
+The first frame depicts a wet urban street with two white parallel lines on the right and a single white line on the left, leading into the distance under an overcast sky. To the left, an elevated brick railway structure with several arched openings houses various small shops, while a person holding a clear umbrella approaches from further down the street. On the right, a multi-story building displays numerous signs, including a prominent menu board in the mid-right foreground, with another person holding a black umbrella walking away in the middle distance.
+end of description
+Throughout the subsequent frames, the individual with the clear umbrella steadily advances towards the viewer on the left side of the street. Concurrently, the person with the black umbrella continues walking away into the distance, moving further into the background along the wet road.
+frame_0000000384-frame_0000000512:
+The first frame shows a wet asphalt street with two sets of double white lines receding into the distance. To the left, a person holding a clear umbrella walks away from the viewer, alongside an old arched stone structure housing storefronts. To the right, a sidewalk features a large menu board in the foreground, followed by a building facade covered with signs and posters. Further down the street, near the center, another person with a dark umbrella walks away from the viewer under an overcast sky.
+end of description
+The person with the clear umbrella on the left steadily moves away from the viewer and to the left, gradually exiting the frame from the bottom-left corner. Concurrently, the person with the dark umbrella in the middle ground also progresses further down the street, moving away from the viewer. No new objects or scenes are revealed as the camera remains stationary.
+frame_0000000512-frame_0000000640:
+The first frame captures a wet, narrow street under a clear umbrella canopy. To the left, a long stone arched structure houses various shops, with a prominent blue and white storefront visible in the foreground. To the right, a multi-story building with white hoarding extends down the street, where a few indistinct figures walk ahead in the distance.
+end of description
+As the camera moves forward along the street, objects ahead, such as the distant figures and subsequent arched shops, appear closer to the initial viewpoint. The orange sign on the right building, initially ahead and to the right, transitions into a dynamic display, and a yellow post, also ahead on the right, comes more clearly into view as the first-frame viewpoint progresses towards it.
+frame_0000000640-frame_0000000768:
+The first frame depicts a wet urban street scene looking straight ahead. To the left, a large concrete archway structure stretches into the distance, beneath which a storefront with a blue awning and Japanese signage, along with other businesses displaying red lanterns, are visible. A person in dark clothing stands further down under this archway. To the right, a multi-story building lines a narrow sidewalk, where another person holding an umbrella walks away from the viewer, past a yellow barrier. Overcast skies and distant skyscrapers are visible in the background.
+
+end of description
+
+In subsequent frames, the person on the right, further down the street, continues walking away from the viewer, moving deeper into the scene. All other visible objects, including the buildings, archway, and stationary person on the left, remain in their initial spatial positions relative to the first-frame viewpoint.
+frame_0000000768-frame_0000000896:
+The first frame depicts a wet, narrow street stretching away from the viewer, marked by double white lines on both sides. To the immediate left, a series of concrete archways house various shops with signs, while to the right, multi-story buildings with numerous signs line the street. Two individuals are visible walking away from the viewer: one under an archway on the left and another further down the street on the right holding an umbrella.
+end of description
+In the subsequent frames, both individuals continue to move progressively further away from the viewer along their respective sides of the street, without any new objects or scenes being revealed.

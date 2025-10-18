@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a verdant valley featuring a green meadow with scattered trees in the foreground, several traditional houses in the midground (a large one with solar panels on the left, a cluster on the right), all backed by towering, forested rocky mountains under a blue sky.
+end of description
+Over the following frames, the camera executes a slow, subtle pan to the left, progressively revealing more of the expansive mountainous background and the large building on the far left, while elements on the right side of the view gradually recede.

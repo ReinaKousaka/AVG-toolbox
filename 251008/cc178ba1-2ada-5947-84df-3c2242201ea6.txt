@@ -1,0 +1,14 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a nighttime street scene with snow-covered ground and a wet sidewalk leading into the distance. To the immediate right, a bike rack holds two blue bicycles, positioned in front of a large, illuminated billboard next to the sidewalk. A row of bare trees with streetlights extends along the left, bordering a snow-covered park area, while buildings with illuminated windows line the distant right and left sides of the street, with construction barriers visible on the far right.
+end of description
+The viewpoint moves forward along the sidewalk, causing the bike rack with bicycles on the right to progressively move closer and then out of the frame. Similarly, the illuminated poster board on the right recedes and eventually moves past the right edge of the frame. As the camera advances, the street and buildings in the distance become more defined and closer, while the trees on the left also move past the viewer.
+frame_0000000128-frame_0000000256:
+The first frame displays a snow-dusted city street at night, with two blue bicycles parked in the foreground to the right, adjacent to an illuminated billboard advertising "Wisting." To the left, a row of bare trees borders a snow-covered park area, behind which buildings with lit windows are visible, and a street stretches into the distance on the right, lined with white and orange construction barriers.
+end of description
+The camera slowly moves forward along the sidewalk. The bicycles and billboard on the right gradually move past the viewer and out of frame, revealing more of the street with additional construction barriers and a street pole that was previously obscured. Simultaneously, the trees and lampposts on the left also move past, exposing more of the park with a visible bench, and a prominent snow pile appears to the right of the path. The background street and buildings, including a traffic light, become closer and more defined as the viewpoint advances.
+frame_0000000256-frame_0000000384:
+The initial frame displays a snowy city street at night, featuring a sticker-covered pole on the far left and an illuminated advertising display showing a poster on the far right, partially obscuring the adjacent street and buildings. The midground shows a path leading into the distance, bordered by bare trees on the left and a street with construction barriers and buildings on the right.
+
+end of description
+
+As the camera moves forward and slightly to the right, the pole and advertising display exit the view, revealing a prominent crosswalk on the street to the right. The traffic light in the midground center-left dynamically cycles from dark/red, to yellow, then red again, before finally changing to green.

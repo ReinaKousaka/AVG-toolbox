@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The viewer is on a winding road, with a steep rocky cliff face rising immediately to the left. Ahead on the road, slightly right of center, a white car is visible, while a metal guardrail borders the right side of the road, beyond which lies a green valley with distant mountains and trees under a clear sky.
+end of description
+As the viewer moves forward, the white car on the road ahead gradually recedes further into the distance relative to the initial viewpoint. Simultaneously, the rocky cliff face and the guardrail on either side of the road continually pass by and move out of frame to the left and right, revealing new sections of the road, valley, and mountains further ahead.

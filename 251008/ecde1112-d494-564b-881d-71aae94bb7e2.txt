@@ -1,0 +1,20 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a city street with buildings lining both sides; a white building with a dark green facade and a red fire hydrant is to the viewer's right, while a cobblestone street and a multi-story brick building with fire escapes are to the left. A man in a blue shirt and dark pants, looking at his phone, walks away from the viewer on the left sidewalk, with other pedestrians further down the street. end of description. The man in the blue shirt continues walking away from the viewer and slightly left, growing larger in the foreground, while other pedestrians further down the street also proceed away from the initial viewpoint.
+frame_0000000128-frame_0000000256:
+In the first frame, a man in a light blue shirt and backpack, looking at an orange phone, occupies the lower left. To the viewer's immediate right is a light-colored building facade with a dark green window frame and a red fire hydrant below. A man in a dark t-shirt and white shorts, carrying brown paper bags, walks towards the viewer on the sidewalk in the midground, with other pedestrians further down the street. A cobblestone street runs along the left, bordered by multi-story brick buildings with columns and fire escapes, all receding into a distant city street.
+end of description
+The man in the light blue shirt exits the frame to the left. The man with shopping bags continues walking directly towards the viewer on the sidewalk, passing the original viewpoint and eventually exiting the frame to the lower left. Other pedestrians further down the sidewalk continue to walk away from the viewer, receding into the distance.
+frame_0000000256-frame_0000000384:
+The first frame displays a city street with a light-colored building wall and a dark green door partially visible on the immediate right, while a cobblestone street occupies the left. A grey sidewalk extends forward from the viewer, featuring a black lamppost slightly left of center, leading towards two people walking away in the midground and buildings lining both sides of the street into the distance.
+
+end of description
+
+The viewpoint slowly advances forward along the sidewalk, causing the building wall and door on the immediate right to gradually move out of view to the right. Concurrently, the black lamppost moves progressively closer and leftwards before exiting the frame to the left. As the camera progresses, new sections of the sidewalk and cobblestone street emerge from the foreground, while the distant street, buildings, and other pedestrians steadily recede further away.
+frame_0000000384-frame_0000000512:
+First, a black street light pole stands in the center-left foreground, flanked by a light-colored building wall to the right and a cobblestone street with red brick buildings to the left. A sidewalk extends into the distance, where several pedestrians walk away from the viewer, and two individuals are seated near a red object against the right building wall.
+end of description
+In the following frames, the pedestrians on the midground sidewalk continue moving further into the background, appearing to recede from the first-frame viewpoint. Simultaneously, other pedestrians on the far-left sidewalk also progress further down the street. The two individuals seated against the building wall on the right remain static throughout the sequence.
+frame_0000000512-frame_0000000640:
+The first frame displays a city street featuring a black lamppost prominently in the foreground left, a cobblestone road, and a concrete sidewalk to the right, where a person sits by a building near a red fire hydrant. To the left, several brick buildings line the street, populated by pedestrians walking into the distance.
+end of description
+As the frames progress, the viewpoint moves forward along the sidewalk. The lamppost and a dumpster further down the cobblestone street on the left are passed, appearing to recede and shift left relative to the initial viewpoint. The building facades on both sides, and pedestrians ahead on the left sidewalk, become more extensively revealed as the camera advances into the scene from the original position.

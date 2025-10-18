@@ -1,0 +1,16 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a verdant landscape with a village nestled at the base of mountains. In the foreground, a bright green grassy field occupies the left, bordered by a wire fence, and a gray asphalt road runs along the right, receding into the distance. In the midground, several buildings are visible: a brown house partially obscured on the far left, a larger dark chalet with white foundations, and a tall reddish-brown building with a black car parked in front, adjacent to the road. Towering green and gray mountains rise in the background under a blue sky with white clouds.
+end of description
+No dynamic changes or newly revealed objects or scenes occur in the subsequent frames; all elements remain entirely static relative to the initial viewpoint.
+frame_0000000128-frame_0000000256:
+The first frame displays a gray road in the foreground, curving from the lower left towards the right, bordered by a vibrant green grassy field with three wooden fence posts on the left. In the midground, three buildings are prominent: a multi-story reddish-brown building on the right with a dark roof and a black car parked in front, a darker chalet-style building to its left with a white base, and a smaller brown building further left. Behind these structures, steep, green, forested mountains rise under a blue sky dotted with white clouds, with a tree branch partially visible on the far left.
+end of description
+Throughout the subsequent frames, the camera subtly pans right and slightly zooms out. This shift causes the tree branch on the far left to move out of view, while revealing more of the road and a street light pole on the far right as the entire scene gradually moves to the right. The business names displayed on the reddish-brown building also change across the sequence.
+frame_0000000256-frame_0000000384:
+The first frame displays a mountain village with a paved road sweeping across the bottom right and a vibrant green grassy field to its left, bordered by fence posts. In the midground, a large reddish-brown building with a black car parked in front of it stands on the right, alongside a dark brown chalet situated behind the field. Towering green mountains are visible in the background beneath a blue sky.
+end of description
+Across the subsequent frames, the only dynamic change observed is the black car. It slowly moves forward (to the right, relative to its initial parked position), gradually continuing along the road and out of view.
+frame_0000000384-frame_0000000512:
+The first frame shows a paved road on the lower right, bordering a bright green grassy field with three wooden posts to its left. Behind the field and road, three buildings are visible: a dark wooden chalet, a larger reddish-brown building with a black car parked in front, and a smaller brown building to the far left, all foregrounded by towering green mountains and a blue sky.
+end of description
+Subsequently, the black car gradually reverses and moves out of view towards the right, as the camera subtly pans right, revealing a slightly wider portion of the road and sky on the far right relative to the initial viewpoint.

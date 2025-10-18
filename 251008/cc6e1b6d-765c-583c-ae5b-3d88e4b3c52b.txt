@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a wet park environment with a two-lane path curving rightwards in the foreground, flanked by numerous green trees on the left and a slope covered in dense bushes and trees on the right.
+end of description
+As the camera moves forward along the right lane, the path and surrounding greenery recede from the viewer's immediate foreground, continuously revealing more of the park ahead and to the sides from the initial viewpoint.
+frame_0000000128-frame_0000000256:
+The first frame shows two wet, leaf-strewn paths diverging from the foreground into the distance; a lighter path is on the left, and a darker asphalt path with white dashed lines is on the right, both containing puddles. A tall light pole stands to the far left of the viewer, while lush green trees line both sides of the paths, and a dark green hedge runs along the right path, bordering a treed hill behind it that extends into the background where faint structures are visible.
+end of description
+In subsequent frames, consistent rain falls, causing visible ripples and splashes on the puddles across both paths and the distant background, without introducing any new objects or altering the overall scene composition from the first-frame viewpoint.
+frame_0000000256-frame_0000000384:
+The first frame displays a wet park path with puddles and scattered leaves, curving left while another segment continues straight ahead, both delineated by white lines. Lush green trees line the paths into the background, with a dense green bush to the right and a distant dark wooden structure beyond the trees. A tall dark pole is visible on the far left.
+end of description
+The subsequent frames show a subtle forward movement of the viewpoint along the path. This slight progression causes the foreground puddles and fallen leaves to gradually shift backward relative to the viewer, revealing more of the path directly ahead.

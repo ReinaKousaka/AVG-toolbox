@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame shows train tracks curving left ahead, flanked by green, forested hills with scattered distant houses under a cloudy sky. A small, dark building is immediately to the left of the tracks, with overhead wires visible above.
+end of description
+As the train moves forward, the left-side building exits the frame, revealing a stack of white hay bales previously to its left. Concurrently, a utility pole and a wooden fence on the right side of the tracks advance from the mid-ground, passing to the right of the first-frame viewpoint. Raindrops also begin appearing on the viewpoint's surface as the train continues through the scene.
+frame_0000000128-frame_0000000256:
+The first frame captures a view down curving train tracks towards a rural landscape with green hills and scattered houses under an overcast sky. In the foreground, bushes flank the tracks, while a white house and smaller red buildings are visible to the right, with a stream further right and forested mountains in the distant background.
+end of description
+As the train proceeds, the utility pole to the right moves closer, then passes by the initial viewpoint to the right. The white house and red buildings also approach and recede towards the right and behind the original viewpoint. Additionally, raindrops begin to appear and accumulate on the front surface of the viewer's perspective.
+frame_0000000256-frame_0000000384:
+The first frame displays a train's forward view along two tracks curving slightly left, bordered by green hills, fields, and scattered trees under an overcast sky. In the mid-ground to the right, a white house with a dark roof and a utility pole are visible, while overhead power lines stretch above the tracks.
+end of description
+As the train moves forward, the utility pole on the right passes the initial viewpoint, and the white house recedes further right, eventually falling behind the first-frame's perspective. A yellow diamond-shaped sign emerges and approaches from the distance on the right side of the tracks. Subsequently, a small shed appears further right behind where the house was, while the immediate roadside greenery continuously shifts.

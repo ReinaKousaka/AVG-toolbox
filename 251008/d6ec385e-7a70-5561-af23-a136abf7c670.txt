@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a bustling nighttime market scene featuring prominent tree trunks in the foreground, a cobblestone path, and numerous festive wooden stalls adorned with string lights and green garlands, crowded with people, all beneath a large illuminated fish sculpture in the midground and a multi-story building in the background.
+end of description
+Throughout the subsequent frames, the market's layout remains stationary, but various individuals and groups within the bustling crowd continuously shift their positions and move along the paths between the stalls in the midground.

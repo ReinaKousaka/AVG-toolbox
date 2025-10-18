@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+An aerial view shows a dark river winding through dense green jungle foliage, with trees occupying the upper left, top, and right portions of the frame. A small blue boat is visible in the middle-right of the river, creating a white wake behind it as it travels towards the lower-left.
+end of description
+In subsequent frames, the boat continues its movement towards the lower-left, and its wake steadily lengthens and extends further back from its initial position. No new objects or scenes are revealed; only the boat's progression and its elongated wake change within the existing scene.

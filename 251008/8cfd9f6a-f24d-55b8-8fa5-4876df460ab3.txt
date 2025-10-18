@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame captures a busy city street with numerous pedestrians populating the right foreground sidewalk and standing near a crosswalk in the left midground, while traffic occupies the street behind them. Tall buildings line both sides of the street, with a distinctive skyscraper and a large billboard visible in the distant center under a clear blue sky.
+end of description
+As the frames progress, the foreground figures on the far left, including the person in the light hat and the masked individual, move out of view to the left. A grey minivan subsequently enters the left foreground, traveling from left to right across the street, while other vehicles and pedestrians in the midground continue to move along the street and crosswalk. The crowd on the right foreground largely maintains its position relative to the viewer, with only minor individual shifts.

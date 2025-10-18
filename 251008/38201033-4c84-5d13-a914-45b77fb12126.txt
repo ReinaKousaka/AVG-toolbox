@@ -1,0 +1,26 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts an asphalt path extending directly forward, bordered on the left by a low stone wall and on the right by a narrow stream flowing beside a flowering stone bank. In the midground, the path and stream gently curve right, with several trees visible, some bare and some with early spring foliage and pink blossoms, while a building and parked cars appear to the left beyond the wall, backed by distant green hills. end of description. As the sequence progresses, the viewpoint moves forward along the path, revealing more of the stream's details and its vibrant, plant-lined banks to the right. Concurrently, the building and its parking area on the left, including a distinctive yellow sign, become more distinctly visible relative to the initial viewpoint.
+frame_0000000128-frame_0000000256:
+The first frame shows the viewer on a paved path bordered by a dry-stone wall on the left, leading past a building, parking lot, and distant green hills. To the right, a narrow stream flows alongside the path, separated by a low stone edge, with a plant-covered stone wall beyond it, backed by a grassy field and distant hills. Two large, bare-branched trees stand in the middle distance, slightly to the right, overhanging the stream.
+end of description
+The subsequent frames depict no dynamic changes or newly revealed objects; the entire scene remains static from the initial viewpoint.
+frame_0000000256-frame_0000000384:
+The first frame presents a paved path extending towards the background, flanked on the left by a stone wall, beyond which a building and parking area are visible. To the right of the path, a narrow stream runs parallel, bordered by another stone wall adorned with various plants and flowers, while several trees with largely bare branches overhang this side. Green hills and a cloudy sky form the backdrop.
+end of description
+There are no dynamic changes or newly revealed objects or scenes in the subsequent frames; the entire sequence remains static relative to the first-frame viewpoint.
+frame_0000000384-frame_0000000512:
+A paved path runs centrally into the distance, bordered by a low dry-stone wall to the left and a narrow stream with a stone bank and flowering plants to the right. Bare-branched trees overhang the stream from the right, while a building with a "P" sign and distant hills are visible further left under a cloudy sky.
+end of description
+As the scene progresses, the viewer moves forward along the paved path. Consequently, the initial sections of the dry-stone walls and stream on either side appear to shift towards the edges and then behind the viewer's original position, while the previously distant building and trees become progressively closer and more detailed in the forward view.
+frame_0000000512-frame_0000000640:
+The first frame depicts a paved path extending from the foreground into the mid-ground, flanked on the left by a low dry stone wall and on the right by a narrow, rocky stream lined with another stone wall adorned with colorful flowers. Beyond the left wall, a light-colored building with outdoor tables and a parking lot containing cars and a 'P' sign are visible. Several large trees with sparse foliage arch over the stream on the right, while green hills rise in the background under a cloudy sky.
+end of description
+There are no dynamic changes or newly revealed objects in the subsequent frames; the scene remains entirely static throughout the sequence.
+frame_0000000640-frame_0000000768:
+The first frame presents a paved path leading into the distance, bordered on the left by a stone wall and on the right by a narrow stream with a stone bank adorned with colorful flowers. Beyond the left wall, a parking area with buildings, picnic tables, a streetlight, and a parking sign is visible, while the right side features a grassy area with trees, and distant hills rise in the background under a cloudy sky. Two large trees with sparse foliage noticeably overhang parts of the path and stream.
+end of description
+No dynamic changes occur, nor are any new objects or scenes revealed in the following frames; the entire composition remains static from the first-frame viewpoint.
+frame_0000000768-frame_0000000896:
+In the first frame, a paved pathway extends from the foreground into the mid-ground, curving slightly to the right. To the left, a stone wall runs parallel to the path, beyond which a small building and a parking area are visible, with people seated at a picnic table in the far left. To the right of the path, a narrow stream with flowing water is contained by a low stone wall, bordered by a grassy bank with flowering plants and a large, partially bare tree with some green leaves rising from the mid-ground. In the distant background, rolling green hills are visible under a cloudy sky.
+end of description
+Across the subsequent frames, the only noticeable dynamic change is the subtle movement of the water in the stream to the right of the viewer, indicating gentle currents or ripples. All other elements in the scene, including the path, walls, buildings, trees, and distant hills, remain static relative to the first-frame viewpoint.

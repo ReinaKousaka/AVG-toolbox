@@ -1,0 +1,20 @@
+frame_0000000000-frame_0000000128:
+In the first frame, a paved mountain road curves into the distance, flanked by dense green coniferous trees and distant mountains under a blue sky. A black car is visible on the road in the mid-ground, heading away from the viewer, with a triangular road sign to its right. In the bottom-left foreground, a cyclist on a red bicycle with a yellow helmet is partially visible beside a stone wall.
+end of description
+The black car consistently moves forward along the winding road, advancing further into the mid-ground and away from the viewer. Simultaneously, the cyclist on the left side of the road progresses forward, becoming fully visible and then receding into the distance along the road's left edge. The surrounding landscape, including the trees and mountains, remains largely static, with the view gradually shifting as the car and cyclist move ahead.
+frame_0000000128-frame_0000000256:
+A black Audi car is visible in the lower-left foreground, partially obscuring a low stone wall that runs along a grassy, tree-covered slope to its left. A winding asphalt road with a white line on its right edge stretches from the mid-ground towards distant mountains in the center. To the right of the road, a triangular warning sign with a red border depicting a winding road is visible in the mid-ground, alongside tall, dense evergreen trees that line both sides of the road and extend into the background, where distant mountains and a blue sky with scattered clouds are visible.
+
+end of description
+
+The black Audi car, initially in the lower-left foreground, moves steadily away from the first-frame viewpoint towards the left along the road. The car gradually shifts out of the frame entirely on the far left. No new objects are revealed; the mountainous and forested landscape remains static relative to the initial viewpoint.
+frame_0000000256-frame_0000000384:
+A paved mountain road, marked with a solid white line on the right and a double white line on the left, extends uphill directly in front of the viewer. To the immediate left, a stone retaining wall supports a grassy slope with evergreen trees, while to the right, a red-bordered triangular warning sign depicting a skidding car stands amidst dense evergreen trees. In the distance, the road winds through a valley flanked by forested mountains under a clear blue sky.
+end of description
+The viewpoint steadily moves forward along the road. The stone retaining wall on the left and the warning sign on the right recede further into the distance relative to the first-frame viewpoint, becoming smaller as the viewer approaches and passes them. The distant forested mountains and the ascending road ahead remain central, progressively appearing closer as the journey continues.
+frame_0000000384-frame_0000000512:
+The first frame shows the viewer looking down a gray asphalt road that curves gently to the left and then right into the distance. To the immediate left, a stone retaining wall runs alongside the road, backed by a grassy slope and dense evergreen trees that extend into the mid-ground. On the immediate right, a grassy verge is visible, featuring a white and red reflector pole, and further ahead on the right, a triangular red-bordered warning sign depicting a skidding car is mounted on a pole. Numerous evergreen trees line both sides of the road, leading towards distant mountains visible under a clear blue sky in the background.
+
+end of description
+
+As the frames progress, the viewpoint moves forward along the road. The triangular warning sign, initially on the mid-right, draws closer before passing out of the frame to the right. Similarly, the white and red reflector poles and the stone retaining wall on the left move closer and then disappear behind the viewer. The evergreen trees lining both sides of the road continuously shift and reveal more of the winding mountain road ahead, while the distant mountains remain broadly centered in the far background.

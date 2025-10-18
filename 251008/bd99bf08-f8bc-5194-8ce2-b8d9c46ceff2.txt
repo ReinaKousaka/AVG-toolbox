@@ -1,0 +1,10 @@
+frame_0000000000-frame_0000000128:
+The first frame captures a panoramic winter scene of a snow-covered alpine village nestled in a valley. In the immediate foreground, a blanket of snow covers the ground, with a visible wooden house on the viewer's left and a large, snow-dusted deciduous tree on the right, along with several evergreen trees between them. Beyond these, numerous chalets and buildings forming the village extend across the mid-ground, all under a fresh layer of snow, while imposing snow-capped mountains rise steeply in the background and distance, under a clear sky.
+
+end of description
+
+As the frames progress, a subtle shift in illumination occurs, suggesting the sun rising or moving. The distant snow-capped mountain peaks, particularly on the right, become progressively brighter, subtly altering the overall lighting and contrast of the entire landscape. No new objects or scenes are revealed; the viewpoint and static scene remain constant, with only the ambient light evolving across the existing vista.
+frame_0000000128-frame_0000000256:
+The first frame presents a wide view of a snow-covered mountain village nestled in a valley. Numerous dark-roofed houses are scattered across the mid-ground and lower slopes, blanketed in white, with prominent snow-laden trees in the foreground on both the left and right. Towering snow-capped mountains form the backdrop, under a partly cloudy, pale blue sky.
+end of description
+The scene dynamically pans slowly to the right, revealing more of the snow-covered mountain slopes and village on the right side of the valley relative to the initial viewpoint. As it pans, a large, multi-story building with a light facade in the mid-ground becomes more visible on the far right, and the distant snow-capped peak previously on the far right shifts further into the center of the frame. The prominent snow-capped mountain on the far left of the initial view gradually moves out of the frame to the left.

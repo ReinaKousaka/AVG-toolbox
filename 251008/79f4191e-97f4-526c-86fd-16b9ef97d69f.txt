@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The viewer is on an asphalt road with a solid white line on the left and a dashed center line, curving slightly right into the distance. To the immediate left, a rock face covered with green foliage and trees rises steeply, while to the right, a grassy verge with tall vegetation leads to more trees. A small red and white barrier stands on the left side of the road, ahead of the viewer; distant snow-capped mountains are visible under a clear blue sky.
+end of description
+As the viewpoint moves forward along the road, the red and white barrier on the left recedes from the viewer's forward sight and passes out of view. Subsequently, a motorcycle rider appears in the distance ahead on the road, gradually approaching the viewer's original position. The motorcycle continues to advance, eventually passing closely to the viewer's left, moving from ahead to behind the viewer's original first-frame viewpoint.
+frame_0000000128-frame_0000000256:
+The first frame presents a paved road with a white double line, extending into the distance between steep, densely forested green mountains on both the left and right, under a bright blue sky, while a blurry red object occupies the bottom-left foreground.
+end of description
+The blurry red object quickly disappears as the viewpoint moves forward along the road. The scene continuously updates, revealing more of the winding asphalt ahead and further sections of the lush green mountain slopes that flank the road, all under the consistent blue sky.
+frame_0000000256-frame_0000000384:
+A paved two-lane road stretches directly away from the viewer, curving gently left into the distance, marked by a solid white line on the left and a dashed line further ahead. To the left, a steep, tree-covered hillside rises, topped by a rocky mountain face. On the right, a grassy shoulder borders dense trees, with a clear blue sky extending above.
+end of description
+As the viewpoint moves forward, the road surface and its worn patches become more defined, while the surrounding trees and hillside approach and pass. A low concrete barrier emerges along the right side of the road, replacing the initial grassy shoulder and extending further into the distance. The curvature of the road ahead to the left becomes more pronounced, and a few white clouds appear in the blue sky above the right-side mountains.

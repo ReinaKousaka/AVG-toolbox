@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a sunny city street scene featuring multiple tall skyscrapers with reflective glass facades dominating the left side, mirroring other buildings and the sky. A white street lamp with a green sign extends from the lower-left, above a sidewalk with a couple of trees, a parked blue car, and two distant pedestrians. To the viewer's right, a large wall covered in dense green foliage rises, featuring a vertical patch of brown foliage towards its left, and a fire hydrant near its base where a person stands.
+end of description
+The person visible on the viewer's right walks consistently from right to left along the base of the green wall. Simultaneously, two pedestrians on the left sidewalk move leftward and gradually exit the frame. Subsequently, a dark car appears behind the stationary blue car on the viewer's left and proceeds slowly forward, followed by another dark car moving in the same direction.

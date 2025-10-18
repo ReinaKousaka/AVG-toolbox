@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a wet, tree-lined park path extending into a misty, rain-obscured distance. To the viewer's left, a wooden bench rests beside a strip of bushes, a green fence, and a grassy field, while the right side is bordered by a low brick wall with a green fence and more foliage. A yellow tactile paving strip marks the center of the path, where a lone figure holding an umbrella walks away into the far background.
+end of description
+In the following frames, the heavy rain continues to fall consistently, causing more water to visibly accumulate on the path, especially towards the right side. The person with the umbrella steadily moves further away from the viewer along the path, gradually receding deeper into the distant mist.
+frame_0000000128-frame_0000000256:
+The first frame presents a wet, paved path receding into a misty distance under falling rain. To the left, a wooden bench with dark, ornate wheels is situated behind a line of green bushes, backed by a green wire fence, a grassy field, and several trees. To the right, another row of green bushes borders a low red brick wall topped with green metal fencing, leading to a lamppost and more trees that blur into the background mist. Far down the path, faintly visible figures, one possibly holding an umbrella, are shrouded by the heavy rain and mist.
+end of description
+Throughout the following frames, the heavy rain continues to fall, creating visible splashes and ripples on the wet ground. The distant figure slowly progresses further away from the viewer along the path. No new objects or scenes are revealed from the first-frame viewpoint; the primary dynamic elements are the persistent rainfall and the subtle movement of the person in the background.
+frame_0000000256-frame_0000000384:
+The first frame depicts a wet paved path, with a wooden bench on the immediate left and a row of trees and a green fence running along the left side. On the right, a brick wall topped with green fencing and bushes parallels the path, with a streetlamp in the mid-ground; a lone figure with an umbrella walks away in the misty distance.
+end of description
+As the frames progress, the rain continues to fall, creating visible ripples on the wet path. The person holding the umbrella steadily recedes further into the background, moving away from the viewer down the path.

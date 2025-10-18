@@ -1,0 +1,16 @@
+frame_0000000000-frame_0000000128:
+A stone path on a dirt ground extends into a lush, sunlit park filled with diverse trees and dense green foliage, featuring large boulders flanking the path. A prominent conifer stands on the left, while a reddish tree is visible on the far right, and a distant structure appears above the central trees under a bright blue sky.
+end of description
+Subsequent frames show subtle shifts in illumination and a very slight rightward pan, causing a distant white structure in the upper-left background to briefly become more visible before partially receding behind foliage relative to the first-frame viewpoint.
+frame_0000000128-frame_0000000256:
+In the first frame, a winding gravel path, interspersed with flat stepping stones, leads from the bottom-center towards the upper-left, receding into the midground. Large, rounded boulders line both sides of the path in the foreground. Abundant green foliage, including tall evergreen trees on the far left and various deciduous trees and shrubs throughout the midground and background, dominates the scene. Above the distant tree line, a hint of a structure and a bright sky are visible.
+end of description
+Across the subsequent frames, the scene remains static; no new objects are revealed, nor do significant dynamic changes occur in the landscape. There are only extremely subtle, almost imperceptible shifts in light and shadow, suggesting minor ambient changes rather than movement within the scene or a change in the viewer's position.
+frame_0000000256-frame_0000000384:
+The first frame shows a sunlit garden path made of gravel and irregular stepping stones receding towards the center-right. Large, smooth rocks line the path's foreground, with a cluster of three on the left and several scattered on the right. Dense green and autumnal foliage, including various trees and bushes, fill the midground and background under a bright sky.
+end of description
+The camera slowly pans to the right, gradually shifting the perspective within the garden. Objects on the far left of the initial view move out of frame to the viewer's left, while new sections of dense foliage and additional large rocks become visible on the right, maintaining the garden path as a central element.
+frame_0000000384-frame_0000000512:
+The first frame displays a serene garden scene with a gravel path curving from the foreground-center towards the middle-left. Large green evergreen trees are prominently on the far left, while a bright green-leaved tree frames the right side, and a reddish-leaved tree stands in the middle-left, all behind the path. Dense green shrubs fill the mid-ground, with several large rocks visible in the foreground-left and right, and flat stepping stones embedded in the gravel path.
+end of description
+Subsequent frames show a very subtle, gradual panning movement to the right, slightly widening the field of view. This reveals a small, dark, reflective pool of water emerging more clearly in the bottom-right corner, situated just below the cluster of rocks and shrubs already present in the first frame.

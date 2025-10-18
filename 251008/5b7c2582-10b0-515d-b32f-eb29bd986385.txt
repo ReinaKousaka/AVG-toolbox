@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a street flanked by brick buildings and numerous green trees. On the left, brownstone-style buildings line the street, with a white car and several dark cars parked along the curb, and an older person with a walker visible on the sidewalk in the mid-ground. On the right, a gray car is parked beside a sidewalk where a pedestrian in white is visible further down the street.
+end of description
+In the following frames, the pedestrian in white clothing on the right sidewalk continuously moves away from the viewer, gradually receding into the distance and eventually disappearing completely from the frame by the eighth frame. The older person with the walker on the left sidewalk remains mostly stationary relative to their initial position throughout the sequence.
+frame_0000000128-frame_0000000256:
+From the street level, a white sedan is parked to the left foreground, ahead of several dark cars lining red brick buildings partially hidden by abundant green trees that continue into the midground. The asphalt street in the center features white lane markings, including a bike symbol and an arrow pointing away from the viewer. To the right foreground, a silver sedan is parked facing the viewer, adjacent to a concrete sidewalk that runs alongside a tall, reddish-brown brick building with dark fencing. A person is visible on the sidewalk further down the right side.
+end of description
+No dynamic changes occur, nor are any new objects or scenes revealed in the subsequent frames, as all images are identical to the first.

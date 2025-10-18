@@ -1,0 +1,34 @@
+frame_0000000000-frame_0000000128:
+In the first frame, a paved road with white markings extends into the distance, framed by green grassy shoulders and fences. To the left, multiple traditional brown houses dot the green hillsides, while on the right, a large brown barn and white hay bales are present. Lush green mountains rise behind these structures, culminating in snow-capped peaks against a partly cloudy sky.
+end of description
+As the viewpoint progresses forward, the broken white line on the road passes beneath the viewer. The houses on the left move further to the left of the initial viewpoint, and a vertical brown silo-like structure next to the barn on the right becomes more prominent and fully visible to the viewer's right.
+frame_0000000128-frame_0000000256:
+In the first frame, a paved road with white dividing lines extends from the viewer into the midground, gently curving right. To the left, a small paved intersection meets the main road, beside which stands a dark brown building with white windows, flanked by a smaller brown wooden structure. On the right, a grassy verge and a wooden fence run parallel to the road, with a large dark brown barn and a pile of wood in front of it, and a tall brown silo further right. Beyond these structures, a steep, vibrant green mountain covered in trees dominates the background, topped by snow-capped peaks under a partly cloudy sky.
+
+end of description
+
+As the frames progress, the viewpoint moves forward along the road; the road and roadside features on both sides advance toward the bottom of the frame. A red vehicle appears to the right of the road, behind the barn, and a small tent-like structure is revealed next to the wood pile in front of the barn. Objects like the silo on the far right gradually move out of the frame as the viewer approaches and passes them.
+frame_0000000256-frame_0000000384:
+A paved road with white dashed lines stretches from the foreground into the midground, flanked by a prominent brown building with white windows and red shutters on the left, and a wooden fence bordering grass on the right. Further right, behind the fence, stands another brown building with a sign and a red truck parked in front of it, all set against a backdrop of lush green, tree-covered mountains topped with distant snow-capped peaks under a cloudy sky.
+
+end of description
+
+As the viewpoint moves forward along the road, the large brown building on the left and the wooden fence on the right expand and shift towards the respective frame edges. A small tree emerges on the left side, closer to the viewer, while the red truck on the right becomes more prominent within a newly revealed parking area beside the building. The road's white lines extend, and yellow markings appear along its right edge, revealing more of the path ahead.
+frame_0000000384-frame_0000000512:
+The first frame shows a paved road curving towards the distant mountains, with a solid white line on the left and dashed yellow lines on the right. To the viewer's immediate left, a green grassy area features a tree and a wooden fence, while a dark brown building and wooden fence line the right. In the midground, a white house and two dark wooden barns stand on the left, opposite a red trailer and more buildings on the right. Majestic green mountains, partially snow-capped, dominate the background under a cloudy sky.
+
+end of description
+
+As the viewpoint progresses forward, objects like the blue pedestrian crossing sign and the yellow pedestrian crossing markings emerge directly ahead, moving towards and then underneath the viewer. The red trailer on the right is replaced by a silver SUV, which then passes to the left as a building labeled "HOTEL" on the right becomes more prominent. The entire scene shifts, with background mountains remaining distant but midground structures passing backward relative to the viewer's continuous forward movement.
+frame_0000000512-frame_0000000640:
+The first frame displays a road extending forward into a mountain village, featuring yellow crosswalk lines in the immediate foreground. To the left, a vibrant green, steep mountainside with two dark wooden buildings rises, bordered by a fence near the road. On the right, a silver car is partially visible near the viewer, beyond which lies a multi-story hotel building with a "Sardona" sign, also behind a wooden fence. Majestic, snow-capped mountains form the distant background under a cloudy, blue sky.
+end of description
+As the viewpoint progresses, the yellow crosswalk lines recede and the silver car on the right disappears from view. A street light pole appears on the left side of the road, followed by a parking sign and another pole further ahead. Concurrently, a person in a yellow jacket walks onto the right sidewalk, moving away from the initial viewpoint.
+frame_0000000640-frame_0000000768:
+In the first frame, a paved road extends from the viewer into the distance, flanked by a paved shoulder and a dark wooden building on the left, and a sidewalk with a grassy verge on the right. A white trailer is parked on the left shoulder, near several streetlights and a blue "P" parking sign. To the right, a multi-story hotel building marked "HOTEL" stands prominently, and a person in a yellow top is walking away from the viewer on the sidewalk. In the background, lush green mountains rise on the left, leading to distant snow-capped mountains across the center, all under a partly cloudy sky.
+end of description
+The person in the yellow top moves further away from the viewer and to the right, gradually exiting the frame by the fifth image. No other significant dynamic changes or new objects are revealed in the subsequent frames; the static elements of the mountain town and landscape remain constant.
+frame_0000000768-frame_0000000896:
+A paved road extends from the viewer into a mountain village, flanked by a parking area with a white horse trailer on the left and a large hotel building on the right. In the distance, snow-capped mountains rise beneath a cloudy sky.
+end of description
+As the viewpoint advances forward, the horse trailer on the far left exits the frame. Three tall poles emerge from behind the left-side buildings, progressively appearing closer and moving towards the center-left of the original view. Concurrently, the hotel building on the right recedes slightly further to the right.

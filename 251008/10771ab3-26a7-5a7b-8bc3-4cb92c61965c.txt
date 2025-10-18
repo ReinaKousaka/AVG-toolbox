@@ -1,0 +1,13 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a narrow paved path on the right, stretching from the foreground into the distance, flanked by a strip of green grass on its left. Adjacent to the grass, on the far left, a dark canal runs parallel, bordered by dense green trees and bushes on its distant bank. On the right, a weathered stone wall, partially covered in foliage and topped by a dark fence, parallels the path. In the far distance, a light-colored building is visible at the end of the path, with a small, indistinct figure walking on the path towards it.
+
+end of description
+The viewpoint steadily moves forward along the path. The initial sections of the path, grass, canal, and stone wall gradually transition from being in front of the viewer to passing alongside and eventually receding behind the first-frame viewpoint. Concurrently, new segments of the path, canal, and adjacent vegetation are continuously revealed ahead of the original scene. The distant building and the walking figure become progressively larger and clearer as the viewer approaches them.
+frame_0000000128-frame_0000000256:
+The first frame displays a pathway stretching into the distance, flanked on the left by a dark canal bordered with green grass and trees, and on the right by a stone wall covered in greenery and topped by a black fence. In the far distance, a light-colored building and a person are faintly visible down the path.
+end of description
+The viewpoint steadily advances along the pathway through the subsequent frames. Consequently, the immediate surroundings of the path, canal, and stone wall recede from the foreground, while the distant building and person gradually become slightly more defined as the viewer approaches them, without revealing any new objects or scenes beyond the existing vista.
+frame_0000000256-frame_0000000384:
+A narrow pathway extends forward from the viewer, bordered on the left by a dark canal with lush trees beyond, and on the right by a stone wall covered in green vegetation, all leading towards a distant light-colored building at the end of the path.
+end of description
+As the frames progress, the viewpoint moves steadily forward, causing the path, canal, and stone wall to appear to approach the viewer from their initial forward positions, while the distant building ahead slowly becomes larger.

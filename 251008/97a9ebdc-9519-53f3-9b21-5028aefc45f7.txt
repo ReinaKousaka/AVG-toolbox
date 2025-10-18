@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a mountain road curving slightly to the right, viewed from a forward-moving perspective. A white van is partially visible on the immediate left, moving forward away from the viewer. A rusted metal guardrail runs along the road's right side in the foreground, with a tall utility pole further down on the right. Dense green forests cover steep slopes on both sides of the road, with a stone retaining wall visible on the left hillside, and forested mountains rise in the background under a cloudy sky.
+end of description
+Following the first frame, the white van rapidly exits the scene to the far left. The viewpoint then moves continuously forward along the road, causing the utility pole and guardrail on the right to progressively pass the viewer. Simultaneously, the forested slopes and retaining wall on the left also move past, revealing more of the winding mountain road and the surrounding valley ahead.
+frame_0000000128-frame_0000000256:
+The first frame displays a paved road with white markings curving right into the distance, flanked by a low stone wall and grassy slope on the left, and a metal guardrail with concrete posts on the right, both leading into dense green forests covering steep mountains under a cloudy sky; a blurry vertical object is visible at the far right edge, close to the viewer.
+end of description
+As the sequence progresses, the viewpoint moves forward along the road, causing the stone wall and guardrail to recede laterally and new segments of the winding path, flanked by approaching forested hillsides, to continually appear from the distant background and move towards and past the viewer.
+frame_0000000256-frame_0000000384:
+A road curves gently to the right, leading into a lush green valley framed by forested mountains under a cloudy sky. To the viewer's left, a stone retaining wall supports a grassy slope with dense trees behind it, while to the right, a guardrail runs alongside the road, beyond which are more trees and a steep mountain face.
+end of description
+As the viewpoint progresses forward along the road, the white lines, the stone retaining wall to the left, and the guardrail to the right move towards and then past the viewer. A utility pole, initially further ahead on the right, appears closer and eventually passes the viewer's right side, while the surrounding landscape gradually shifts to reflect the continuous forward motion.

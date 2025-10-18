@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a narrow dirt path receding into a dense, lush forest, flanked by vibrant green ferns and moss-covered ground vegetation. Numerous tall, slender trees, also heavily draped in moss, rise vertically on both sides of the path and fill the background, with glimpses of an overcast sky above.
+end of description
+In the following frames, the viewpoint slowly moves forward along the dirt path, causing the foreground and middle ground vegetation to shift as new sections of the path and forest ahead are revealed. Progressing further, a subtle ray of light emerges from the upper right side, casting a gentle glow upon some of the tree trunks in the mid-distance.
+frame_0000000128-frame_0000000256:
+The first frame presents a dense forest scene dominated by numerous tall, moss-covered evergreen trees that extend upwards into a bright, overcast sky from the foreground to the distant background. The forest floor directly in front of the viewer is covered by lush, vibrant green ferns and other undergrowth, with a prominent mossy log positioned horizontally in the lower-center foreground.
+end of description
+No dynamic changes or newly revealed objects occur across the subsequent frames; the scene remains static with no camera movement or alterations in the forest environment.

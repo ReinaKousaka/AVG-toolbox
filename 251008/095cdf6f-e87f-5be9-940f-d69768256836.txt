@@ -1,0 +1,20 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a view from the front of a train, with dark, blurry elements partially obscuring the upper and left foreground. Train tracks curve gently to the left in the midground, flanked by snow-dusted ballast and dense forests on either side, while a body of water is visible to the far right and utility lines stretch above under an overcast sky.
+end of description
+As the train proceeds, the blurry foreground obstructions recede and clear from view, revealing a clearer path of the tracks ahead that slowly straighten. The surrounding forests and utility poles steadily move closer and then pass by on both sides of the viewer, while the body of water on the right moves further into the distance as the train advances.
+frame_0000000128-frame_0000000256:
+The first frame depicts a set of train tracks extending centrally into the distant, converging horizon, flanked by snow-dusted, rocky, and tree-covered slopes on both the left and right, all under an overcast sky, with overhead power lines visible above the tracks and "Vmax 75KM/h" in the bottom left.
+end of description
+As the viewpoint moves forward along the tracks, the immediate foreground continuously shifts rearward, revealing new sections of the railway and its surroundings ahead. The initially broad, tree-lined slopes on both the left and right gradually narrow and rise, appearing to create a deeper cut in the terrain. The overhead power lines and their supporting pole on the right systematically approach the viewer, passing from a distant point to the immediate side of the tracks and then receding behind.
+frame_0000000256-frame_0000000384:
+In the first frame, train tracks extend centrally from the viewer's immediate foreground into the distant background, curving slightly right, framed by steep, dark rocky embankments on both sides, with overhead electrical wires and a distant dark forest visible under an overcast sky.
+end of description
+As the viewpoint moves forward along the tracks, the rocky embankments recede to the left and right, progressively revealing a wider landscape. The left embankment significantly diminishes, opening up to a snowy, open terrain with a distant body of water becoming visible far to the left of the original viewpoint. Concurrently, the overhead wire pole moves past and recedes to the left as the train continues its journey.
+frame_0000000384-frame_0000000512:
+The first frame displays train tracks extending directly ahead and curving gently right into the distance, bordered by snow-dusted ground and a dense forest on the left, and a steep, dark, tree-covered bank on the right, all under an overcast sky with overhead power lines.
+end of description
+As the viewpoint advances along the tracks, the immediate foreground continuously passes by, revealing new sections of the dense forest and rocky embankment further down on both sides. Overhead power line poles progressively approach and then recede on the left, while a yellow sign becomes visible further ahead on the right as the tracks maintain their rightward curve.
+frame_0000000512-frame_0000000640:
+From the viewer's perspective, train tracks stretch into the distance, gently curving right, flanked by snow-dusted ground and dark evergreen forests on both sides. A utility pole with overhead wires stands to the left, while a steep wooded bank on the right features a partially visible yellow sign in the mid-distance, all under an overcast sky.
+end of description
+As the viewpoint advances along the tracks, the utility pole on the left approaches and then moves behind the viewer's initial position. Concurrently, the yellow sign on the right, initially obscured in the mid-distance, becomes fully visible revealing "85" as it draws nearer and then passes to the right of the viewer's original position. The entire forested landscape and tracks continuously recede from the foreground towards behind the first-frame viewpoint.

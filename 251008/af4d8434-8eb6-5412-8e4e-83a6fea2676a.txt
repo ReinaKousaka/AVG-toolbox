@@ -1,0 +1,10 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a forest scene with a reddish-brown dirt path originating at the viewer's feet and curving right into the distance. Dense green ferns and undergrowth flank the path, with a massive tree trunk to the viewer's immediate left and another large trunk to the immediate right; a fallen log lies on the mid-left slope, while numerous towering trees fill the background and rise above, under an overcast sky.
+end of description
+No dynamic changes or newly revealed objects or scenes are visible in the subsequent frames; the viewpoint and static elements remain identical throughout the sequence.
+frame_0000000128-frame_0000000256:
+The first frame displays a verdant forest path, with a reddish-brown dirt trail immediately in front of the viewer, forking slightly in the mid-ground and surrounded by dense green ferns and undergrowth that rise up a slope to the left. Numerous tall, slender redwood trees dominate the mid-ground and background, extending vertically upwards towards an overcast sky.
+
+end of description
+
+Throughout the subsequent frames, the entire visible scene undergoes a very subtle, slow pan, shifting slightly upwards and to the left relative to the initial first-frame viewpoint. No new objects or scenes are revealed; instead, the existing forest elements gradually reposition within the frame.

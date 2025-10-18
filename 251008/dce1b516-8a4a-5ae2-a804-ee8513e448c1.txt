@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a view from inside a car on a mountain road, with the dashboard visible at the bottom. Ahead, a white car and a darker vehicle are approaching on the curving asphalt, flanked by rocky, grass-covered slopes and distant jagged peaks under a clear blue sky with contrails.
+end of description
+The white car then passes the viewer on the left, followed closely by the darker car also receding to the left. As the vehicles move past, more of the continuous winding mountain road ahead is revealed.
+frame_0000000128-frame_0000000256:
+The viewer is positioned on an asphalt mountain road that curves to the right, with a steep, rocky, grass-covered slope immediately to the left and white stone bollards marking the road's edge to the right. Ahead on the winding road are two cars, a dark one closer to the viewer and a lighter one further beyond, all set against a backdrop of distant rugged mountains under a clear blue sky.
+end of description
+As the viewpoint slowly advances, the dark and lighter cars ahead move further along the curving road. Subsequently, a silver car appears, now driving alongside the dark car on the right side of the road, revealing more of the winding mountain pass and the steep, rocky terrain on the right.

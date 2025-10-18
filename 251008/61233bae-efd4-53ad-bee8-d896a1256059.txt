@@ -1,0 +1,5 @@
+frame_0000000000-frame_0000000128:
+In the first frame, a blue corrugated metal fence with graffiti occupies the lower left and center foreground, behind which old buildings with rusty roofs and overgrown vegetation are visible. To the right, a narrow, downward-sloping paved road with a white guardrail and a stone retaining wall is seen. In the background, a cityscape featuring taller buildings, a prominent red and white telecommunications tower on the far left, and numerous power lines anchored by a utility pole on the right side of the frame are present under a clear blue sky.
+
+end of description
+As the frames progress, the camera subtly pans to the right. This movement gradually reveals more of the stone retaining wall and the paved road, which expand into the frame from the right of the first-frame viewpoint. Consequently, the utility pole on the right becomes more centered, and the blue fence and structures in the midground shift slightly to the left relative to the initial view.

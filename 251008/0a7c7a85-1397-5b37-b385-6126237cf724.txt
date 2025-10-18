@@ -1,0 +1,30 @@
+frame_0000000000-frame_0000000128:
+A paved, two-lane road with white dashed center lines and solid white edge lines occupies the foreground, curving gently to the right as it extends into the distance. To the immediate left, a steep, rocky hillside covered in sparse green and brown scrub rises sharply, while a similar, but flatter, arid landscape with scattered vegetation is visible to the right. Far ahead on the road, slightly to the right of the center, a dark vehicle is visible, and in the distant background, rugged mountain ranges stretch across the horizon under a clear blue sky.
+end of description
+As the viewpoint advances, the road's white lines move from the distance towards and past the viewer, while the rocky, scrub-covered terrain on both sides approaches and recedes. The distant dark vehicle on the road ahead and to the right slowly appears larger, indicating the viewer is catching up to it. Red and white striped road markers become visible on the right side of the road, emerging from the distance and progressively moving closer.
+frame_0000000128-frame_0000000256:
+The first frame presents a two-lane asphalt road with dashed white center lines and solid white shoulders, extending forward and curving slightly to the right. To the left, a rocky, scrub-covered mountain slope rises, while the right shows a flatter, arid landscape with sparse vegetation. In the distance, two small vehicles are visible on the road, moving away, set against a clear blue sky and a backdrop of rugged mountains.
+end of description
+As the viewpoint progresses, it moves steadily forward along the road, causing the immediate foreground terrain and vegetation on both sides to continuously recede past the original first-frame viewpoint. The two distant vehicles ahead gradually appear larger and closer to the viewer's evolving position, while the background mountain range slowly becomes more defined as the viewer advances towards it.
+frame_0000000256-frame_0000000384:
+The first frame depicts a long, dark grey asphalt road with white dashed markings extending directly in front of the viewer towards distant, jagged mountains under a clear blue sky. Rocky, arid terrain with sparse vegetation flanks both sides of the road, to the left and right of the viewer, while a small red car is visible far ahead on the road in the distance.
+end of description
+As the camera moves forward, the surrounding terrain scrolls past to the left and right of the viewer, and a triangular road sign emerges on the left side of the road, in front of the viewer, becoming more prominent as it is approached. The distant red car remains far ahead on the road, subtly increasing in size as the camera closes the distance.
+frame_0000000384-frame_0000000512:
+The first frame displays a straight, dark paved road extending into the distance, flanked by rocky, arid terrain with sparse bushes. In the mid-ground, a dark triangular road sign is positioned on the left, and a small light-colored car is parked on the right shoulder, all beneath rugged dark mountains and a clear blue sky.
+end of description
+As the frames progress, the viewpoint moves forward along the road. Both the road sign, initially on the left side of the road, and the parked car, initially on the right, approach the viewer, grow larger, and then pass out of sight to the left and right of the frame, respectively. The white dashed lines on the road continuously move from the distance and disappear beneath the viewer, while the distant mountains appear progressively closer and more defined.
+frame_0000000512-frame_0000000640:
+The first frame displays a straight asphalt road, marked with white dashed lines, extending from the viewer's foreground into the mid-distance towards a distant cluster of cars. Flanking the road on both sides are rocky, barren landscapes with sparse green and brown shrubbery, leading up to a range of dark, rugged mountains stretching across the background beneath a clear blue sky.
+end of description
+As the frames progress, the viewpoint moves forward along the road, causing the white dashed lines and the surrounding rocky terrain to continuously shift from the distant perspective towards and past the viewer. Concurrently, the distant cluster of cars on the road becomes progressively closer and more distinct. A dark brown road sign structure, initially an indistinct speck, is increasingly revealed on the right side of the road, ahead of the viewer.
+frame_0000000640-frame_0000000768:
+The first frame presents a straight gray asphalt road with a dashed white center line extending directly forward towards the distant horizon. Rocky, sparsely vegetated terrain flanks the road on both sides, sloping upwards towards rugged, dark mountains dominating the background beneath a clear blue sky. Two cars are visible far ahead on the road, with indistinct structures to the far right in the mid-distance.
+end of description
+As the viewpoint moves forward, the road's center line passes beneath, and the roadside scenery approaches. A rectangular dark sign on the far right and a blue square sign further along on the right become clearer, revealing a cluster of parked cars further ahead on the right, all moving closer before passing the viewer's right.
+frame_0000000768-frame_0000000896:
+A paved road with white dashed lines stretches from the viewer into the distance, surrounded by rocky, sparse terrain and rugged mountains under a clear blue sky. To the right, a parking area contains several parked cars (white, red, dark) and a partially visible blue signpost, while a dark vehicle recedes far down the road ahead.
+
+end of description
+
+As the camera moves forward, the blue signpost on the right quickly moves out of view. The parked cars on the right, including a red SUV and a white sedan, progressively move past the viewer. The road ahead and the vast mountainous landscape continue into the far distance.

@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+From the viewer's perspective inside a vehicle, a dark SUV travels ahead on a winding road, flanked by a guardrail and trees to the left, and a row of dense trees with green fields and utility poles to the right. Distant green mountains, partially obscured by clouds, rise in the background beneath a sky with white clouds and blue patches.
+end of description
+As the viewer's vehicle moves forward, the trees on the right recede, revealing a massive, textured rock face dominating the upper right and a traditional dark-roofed house appearing in the green field to the right of the road. The SUV continues ahead, maintaining its relative distance on the road, as the scenic mountain landscape unfolds.
+frame_0000000128-frame_0000000256:
+A dark grey SUV is visible in front of the viewer, moving away on a paved road that curves slightly to the left in the mid-ground. To the right of the road, a green grassy field with a wooden fence contains a traditional dark house with white windows, backed by a massive, light-colored rocky mountain face that extends into the far background. On the left, a dense line of trees accompanies the road, while further distant tree-covered mountains recede under a cloudy sky with patches of blue.
+end of description
+As the viewpoint progresses forward along the road, the leading SUV gradually recedes further into the distance. The house and the towering mountain face on the right shift further right and slightly out of view relative to the advancing camera, while the foreground trees and fence posts on the left and right also recede past the viewer.
+frame_0000000256-frame_0000000384:
+The first frame depicts a paved road leading into the distance, with a dark grey SUV directly ahead and a smaller white car further down the road. To the right, a traditional dark brown house stands beside a wooden fence, overlooked by a massive rocky cliff face, while green fields, trees, and distant mountains flank the road under a cloudy sky.
+end of description
+As the viewpoint moves forward, the dark grey SUV recedes, and the house on the right gradually moves out of frame to the right. Simultaneously, a red car, initially unseen beyond the dark SUV, becomes newly revealed on the road ahead, progressing towards and then alongside the SUV as the majestic rocky cliff and green mountains continuously pass by the viewer's perspective.

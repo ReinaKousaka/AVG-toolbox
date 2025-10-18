@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a wet, paved pathway extending directly ahead from the viewer, flanked by lush green grass. A grassy slope on the left leads to apartment buildings and a line of trees, while a rope fence on dark posts borders a wider grassy area to the right. Distant trees, hills, and a bridge are visible straight ahead under a cloudy sky.
+end of description
+The camera slowly moves forward along the path, causing the immediate surroundings to gradually shift towards the viewer's sides and revealing more of the continuing path and distant scenery directly ahead. Concurrently, a "Rain Everyday" watermark emerges in the bottom-left foreground.
+frame_0000000128-frame_0000000256:
+The first frame depicts a wet, dark paved path extending forward under an overcast sky. To the left, a grassy embankment holds a row of trees, with distant buildings and mountains visible, while to the right, a rope fence borders a wide grassy field with scattered trees and further distant hills.
+end of description
+In frames 3-4, a yellow object, likely an umbrella, partially enters the frame from above, appearing in the top center and slightly right of the viewer's immediate overhead space. This yellow object then gradually disappears from the top of the frame in subsequent frames, exiting the scene by frame 5.
+frame_0000000256-frame_0000000384:
+The first frame displays a wet paved path extending into the background on the left, bordered by a grassy slope and a line of trees. To the path's right, a rope fence runs parallel, separating it from a wide area of tall green grass and a row of trees further back, all under a cloudy sky with distant mountains on the horizon.
+end of description
+The following frames show a subtle forward tracking motion along the path. This dynamic change causes the foreground path, fence, and immediate grassy areas to gradually approach and then recede from the viewer's initial perspective. No new objects or scenes are revealed; the overall landscape remains consistent.

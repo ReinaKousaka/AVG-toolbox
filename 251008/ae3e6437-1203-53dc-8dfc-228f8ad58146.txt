@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a steep grassy slope in the immediate foreground, extending from the bottom left towards the center. To the left, a large, rugged rocky mountain face rises steeply, partially obscured by the foreground grass. In the mid-ground and background, further rocky mountains with sections of scree and some green patches stretch across the scene to the right. Above, a blue sky with scattered white clouds is visible.
+end of description
+As the frames progress, the viewpoint pans smoothly to the right and slightly downwards. The immediate foreground grassy slope and the adjacent rocky mountain face on the far left gradually shift out of the frame. Simultaneously, more of the sloping, rocky, and sparsely vegetated terrain of the distant mountains to the right is revealed, showing a wider expanse of the valley and mountainside. A narrow dirt path becomes visible along the bottom edge of the grassy slope, emerging from the lower left as the scene unfolds.
+frame_0000000128-frame_0000000256:
+The first frame presents a panoramic view of a mountainous landscape. In the foreground, a grassy slope with a narrow dirt path is visible, extending from the lower left towards the mid-center. Beyond this, steep, rocky grey mountains with scattered green patches and scree slopes rise majestically towards the upper left and center, while the sky above is filled with white and grey clouds.
+end of description
+There are no discernible dynamic changes or newly revealed objects in the subsequent frames; the scene remains entirely static relative to the first-frame viewpoint.

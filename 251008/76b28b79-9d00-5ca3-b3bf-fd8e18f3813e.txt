@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a park path split into two wet sections: one curving left with a large puddle, the other running straight right, marked with yellow text. Tall trees line both sides of the paths, while a white bike rack holds two bicycles, one dark and one yellow, on the right, behind a green bush. A lamppost and distant benches are visible further into the lush, tree-filled background.
+end of description
+Throughout the subsequent frames, visible raindrops continuously disturb the puddle on the left path, causing increasing ripples on the water's surface, though no new objects appear or the spatial viewpoint shifts.
+frame_0000000128-frame_0000000256:
+A wide, wet park path curves from the foreground left towards the mid-ground right, with extensive puddles reflecting the sky on its left side, bordered by a row of tree trunks and dense green foliage. On the right of the path, a white-lined bike lane leads to a green bicycle propped against a white rack, and a yellow-striped pedestrian crossing is visible further ahead in the mid-ground.
+end of description
+As the frames progress, the viewpoint slowly moves forward along the path. Rain continues to fall, creating visible ripples in the remaining puddles on the left, which gradually recede as a white arrow painted on the path becomes more prominent in the left foreground. The green bicycle and bike rack shift further to the right relative to the advancing viewpoint.
+frame_0000000256-frame_0000000384:
+A wet paved path, marked with a white line on its left and a yellow striped crosswalk on its right, recedes into a lush green park-like setting under an overcast sky. Fallen leaves and puddles dot the path, and a green bicycle wheel is visible on the far right near the crosswalk, with a row of trees on the left and dense foliage covering hills in the background.
+end of description
+Across the following frames, the green bicycle wheel, initially present on the far right, is gradually removed from the scene. Concurrently, the scattered fallen leaves and debris on the wet path and its immediate surroundings visibly decrease in quantity.

@@ -1,0 +1,14 @@
+frame_0000000000-frame_0000000128:
+The first frame captures a bustling pedestrian street flanked by multi-story buildings housing shops on both the left and right, with yellow lines marking the pavement edges. In the foreground, two men walk away on the right, while a diverse crowd of pedestrians fills the midground and background, moving in various directions along the street towards the vanishing point.
+end of description
+Throughout the subsequent frames, all individuals continue their movement; the two men on the right proceed further away, and a man carrying a bag emerges from the mid-left, walking towards the viewer while talking on a phone, progressively closer relative to the initial viewpoint.
+frame_0000000128-frame_0000000256:
+The first frame presents a pedestrian street flanked by multi-story buildings with storefronts like "engel" on the viewer's left and "HIRSCHFELD" on the right, extending towards a bright sky in the distance. Numerous pedestrians populate the asphalt path marked with yellow lines; a man on his phone carrying a bag is in the viewer's left foreground, while another man in a brown jacket is partially visible on the viewer's immediate right.
+end of description
+In subsequent frames, the static viewpoint shows most people, including the man on the left, moving forward and receding into the distance. The man initially on the right exits the frame, while a new individual in a dark jacket emerges from the right foreground, walking away from the viewer along the yellow line. This dark-jacketed man continues his movement, passing the 'no stopping' sign on the right and gradually receding further into the background.
+frame_0000000256-frame_0000000384:
+The first frame presents a pedestrian street or alley flanked by multi-story buildings housing various storefronts. In the center, numerous people are walking in different directions along the paved path, which is delineated by yellow lines on both sides. To the viewer's immediate left, a building displays a red element and a yellow sign at the top, with a sandwich board sign on the sidewalk below. To the right, another building features shops, notably "HIRSCHFELD Stoffe & Gardinen," with shadows cast onto the path. The alley recedes into the distance, revealing more buildings and distant trees under a bright sky.
+
+end of description
+
+Throughout the following frames, the main dynamic change involves the continuous movement of pedestrians within the alley, constantly shifting their positions relative to the first-frame viewpoint. Individuals and groups walk closer to and further away from the viewer, passing each other in the central and mid-ground areas. Some people initially positioned further down the alley on the left and right sides gradually move closer. The architectural elements and overall street scene, however, remain static relative to the viewer's initial perspective, with no new objects or scenes revealed.

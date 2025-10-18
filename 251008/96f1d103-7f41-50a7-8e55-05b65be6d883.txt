@@ -1,0 +1,6 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a narrow dirt path receding into a lush green forest, flanked by dense vegetation. On the left, tall trees heavily draped in moss are visible, with fallen logs and undergrowth beneath them. To the right, a thick expanse of vibrant ferns dominates, extending into the midground, backed by more trees.
+end of description
+The subsequent frames show no discernible dynamic changes or newly revealed objects; the forest scene remains identical without any shifts in position or content.
+frame_0000000128-frame_0000000256:
+The first frame displays a verdant forest path leading away from the viewer, bordered by dense ferns and towering trees heavily draped in green moss and epiphytes, with a fallen, moss-covered log positioned to the path's left. end of description. No dynamic changes or newly revealed objects are observed in the subsequent frames; the scene remains entirely static from the initial viewpoint.

@@ -1,0 +1,28 @@
+frame_0000000000-frame_0000000128:
+The viewer is positioned directly on a wet, paved path covered in fallen brown and yellow leaves, which stretches forward into an autumnal forest. To the immediate right, an elevated embankment carpeted with similar leaves and sparse green plants slopes upwards, while a dense line of tall, dark-barked trees borders the path on the left, with lighter-foliaged trees and a hint of a water body visible further left. The path gently curves to the right in the distance, disappearing into a canopy of vibrant yellow and orange autumn leaves under an overcast sky.
+end of description
+The viewpoint steadily moves forward along the path, causing the foreground path and its immediate surrounding foliage to continuously recede behind the viewer. The trees lining the path on both the left and right progressively approach, pass by, and then exit the frame behind the viewer, while the distant path and forest ahead gradually come closer. No new objects or scenes are revealed, but the existing autumn forest landscape continuously unfolds as the viewer progresses.
+frame_0000000128-frame_0000000256:
+The first frame depicts a wet, leaf-strewn path receding into a vibrant autumn forest, curving slightly to the right. Tall, dark tree trunks line the left side of the path, beyond which dense yellowish-green foliage and a glimpse of a body of water are visible. To the right, an embankment covered in reddish-brown fallen leaves slopes upward, meeting a wall of green and yellow-leafed trees.
+end of description
+The camera slowly advances forward along the path. As the viewpoint progresses, more of the winding path ahead is revealed, with the dense autumn foliage and tree trunks on both sides shifting in perspective and the body of water to the left becoming slightly more prominent.
+frame_0000000256-frame_0000000384:
+The viewer is positioned on a wet, dark paved path largely covered in reddish-brown fallen leaves, which recedes into an autumn forest and curves gently to the right in the distance. To the left, several large, dark tree trunks stand prominently in the foreground, with dense green and yellow foliage further behind them, subtly revealing a lighter area in the far distance. To the right, the ground slopes gently upwards, covered entirely in fallen leaves, with numerous trees displaying yellow and green autumn foliage receding along the path. An overcast, light sky is visible through the tree canopy.
+end of description
+A subtle, continuous forward movement along the path commences, causing the immediate foreground to recede beneath the viewer and the trees lining both sides to gradually approach and pass by to the left and right. The scene progressively unfolds further down the path, revealing more of the wet, leaf-strewn surface and the vibrant autumn foliage deeper within the forest as the viewpoint advances.
+frame_0000000384-frame_0000000512:
+The first frame displays a wet, leaf-strewn path extending from the viewer's foreground into the distance through an autumn forest. Tall tree trunks line the left side of the path, backed by green and yellow foliage, while the right side features a leaf-covered incline with yellow-leafed trees. An overcast sky is visible above the tree canopy.
+end of description
+The viewpoint slowly advances along the path, continuously revealing more of the wet ground directly ahead. The surrounding trees and foliage on both sides progressively shift further into the distance as the camera moves through the unchanging forest environment.
+frame_0000000512-frame_0000000640:
+The viewer is looking down a wet, dark asphalt path, bordered on both sides by a thick carpet of fallen orange and brown autumn leaves. Tall, dark tree trunks rise close on the left and right, extending out of frame, forming a dense forest with a mix of green, yellow, and red foliage as the path recedes into the distance under an overcast sky.
+end of description
+The following frames reveal no dynamic changes, newly revealed objects, or shifts in spatial positions relative to the first-frame viewpoint, as they are identical static images of the initial scene.
+frame_0000000640-frame_0000000768:
+A wet, dark gray asphalt path, covered in scattered brown and yellow autumn leaves, extends from the foreground into the distance. To the immediate left, dense green and yellow shrubs line the path, with a prominent dark tree trunk rising further back. On the right, a leaf-strewn slope ascends into a vibrant forest canopy of trees adorned with yellow, orange, and green foliage, where a subtle smaller path branches off in the midground. An overcast sky peeks through the tree branches above.
+end of description
+The camera subtly pulls back, widening its field of view to reveal slightly more of the colorful forest at both the far left and right edges of the scene relative to the initial viewpoint. This minute adjustment makes the overall autumnal landscape appear marginally more expansive, while all visible objects remain stationary within the frame.
+frame_0000000768-frame_0000000896:
+The first frame depicts a wet, leaf-strewn path winding into an autumn forest, flanked by numerous tall trees adorned with yellow, green, and brown foliage under an overcast sky. A large, dark tree trunk is prominent in the immediate foreground on the far left, while the path, covered in fallen brown leaves, recedes towards a slight curve in the mid-distance where a small dark figure is visible on the right.
+end of description
+The subsequent frames show no dynamic changes or newly revealed objects; the scene remains entirely static from the initial viewpoint.

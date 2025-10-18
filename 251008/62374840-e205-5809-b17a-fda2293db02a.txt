@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a paved road curving left, with a grassy median to the left and a yellow-curbed path on the right, leading towards a crosswalk where a dark SUV is parked; dense forest lines both sides of the road, and a partial sign on a post is visible to the right of the SUV.
+end of description
+The viewpoint advances steadily forward, causing the dark SUV to shift closer and slightly to the right of its initial spot. Concurrently, the signpost on the right becomes fully visible, displaying '140H' as it approaches the viewer, while the white fence recedes out of view on the far right.
+frame_0000000128-frame_0000000256:
+The first frame displays a paved road with a white crosswalk in the immediate foreground, flanked by a patch of green grass on the left and a brown sign with a logo and small flowers on the right. Further down the road on the right, a dark SUV is parked, and a white A-frame sign stands in the middle distance, all set against a backdrop of dense green trees forming a canopy overhead.
+end of description
+As the frames progress, the viewpoint steadily moves forward and slightly to the left, causing the initial sign on the right to exit the frame. The parked SUV and the A-frame sign recede further down the road, revealing more of the winding, tree-lined path ahead that was previously obscured.
+frame_0000000256-frame_0000000384:
+In the foreground, a dark SUV is parked on the right side of an asphalt road, its rear facing away and slightly to the viewer's right. Centered in the mid-ground, a small pink and white folding chair sits on the road surface. The road curves gently to the left and extends into the distance, flanked on both sides by dense green trees forming a natural canopy overhead, with glimpses of a bright sky above.
+end of description
+The SUV on the right moves forward and off-frame, while a person in a blue jacket appears on the right sidewalk walking away, revealing a stone structure behind them. The small chair on the road is then replaced by a larger pink and white striped road barrier. The person continues walking off-frame to the right, exposing a yellow fire hydrant on the sidewalk. Finally, the road barrier also moves forward and out of the frame to the left, leaving the road clear as a red sign becomes visible further down the right side of the road.

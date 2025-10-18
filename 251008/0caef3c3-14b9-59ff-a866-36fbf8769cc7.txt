@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+A paved road with a white line on the right and double yellow lines on the left extends from the foreground into the distance, curving slightly right, flanked by arid desert land with sparse brush. To the left, a massive, reddish-brown rock formation dominates the mid-ground and distant left, while a smaller, distinct rock pillar stands in the distant right under a clear blue sky.
+end of description
+Starting from the third frame, a dark-colored car emerges from the curve on the road in the distant right lane, gradually moving closer to the viewer. By the seventh frame, a second dark-colored car appears further behind the first, also approaching in the right lane. Both cars continue to advance towards the viewer, growing larger in the frame.
+frame_0000000128-frame_0000000256:
+A paved road with double yellow and white lines recedes into the distance, curving right, bordered by arid landscape with sparse green bushes. A large red rock formation dominates the left midground, while a dark SUV approaches in the left lane, and another car is further ahead, all under a clear blue sky.
+end of description
+The dark SUV in the left lane rapidly approaches the viewer, becoming larger until it passes by to the viewer's immediate left. Concurrently, the second dark car continues to approach along the road, growing larger and more distinct in the left lane.
+frame_0000000256-frame_0000000384:
+The first frame captures a paved road curving right, stretching from the foreground into the mid-ground under a clear blue sky. A massive reddish-orange cliff face dominates the left mid-ground and background, while a dark SUV occupies the immediate left foreground of the road. To the right, a low concrete barrier runs alongside a sandy shoulder dotted with sparse bushes and distant smaller rock formations.
+end of description
+As the frames progress, the dark SUV on the left departs the scene, revealing the road and landscape it previously obscured. The viewpoint then steadily advances forward along the curving road, consistently moving through the same desert landscape with its prominent red rock formations on the left.

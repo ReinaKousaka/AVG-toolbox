@@ -1,0 +1,6 @@
+frame_0000000000-frame_0000000128:
+In the first frame, a pedestrian street stretches away from the viewer. To the left, a multi-story building with a red-brown facade, displaying "Walbusch," is visible, with several bicycles parked or lying on the cobblestone street in the bottom left foreground. On the right, a building with large reflective windows features a hanging sign "WEINE Fr.Bremer" above, and in the bottom right foreground, a wooden barrel, a small wooden table, and part of a bench with cushions are present. Several people walk down the street towards the background, where more historical buildings with varying facades, including a timber-framed one on the left and a light blue-gray one at the end of the street, are visible under a partly cloudy sky.
+
+end of description
+
+As the frames progress, the viewpoint subtly pulls back and widens, revealing more of the scene. The right-side building's facade becomes more fully visible, extending further to the right of the initial frame's edge. Consequently, the wooden bench and the area around the barrel in the bottom right foreground are also more completely revealed, stretching further rightward. The people in the midground appear slightly smaller as the distance from the viewer marginally increases, and the overall street view expands horizontally.

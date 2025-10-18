@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a wet street intersection with a crosswalk directly in front of the viewer. To the left, three pedestrians stand on a sidewalk with buildings and a traffic light showing a green pedestrian signal, while to the right, a large stone building and two unlit overhead traffic lights are visible further down the road under an overcast sky.
+end of description
+Subsequently, the three pedestrians move off to the left and out of view, as the left pedestrian traffic light changes to red while its vehicle signal turns green. The viewpoint then advances forward, crossing the initial crosswalk, revealing more of the road ahead and a yellow car appearing in the far distance left of center. Concurrently, a new red traffic light illuminates on a pole beside the stone building to the right.

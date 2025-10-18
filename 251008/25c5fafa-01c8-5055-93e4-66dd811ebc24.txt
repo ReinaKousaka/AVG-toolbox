@@ -1,0 +1,28 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a stone and wooden archway, bearing the inscription 'ROYAL HAWAIIAN CENTER' above, positioned in the foreground. This archway frames a winding pathway leading into a lush tropical garden, bordered by abundant green foliage extending into the midground. A directional sign is visible on the right pillar of the arch, while in the background, a building adorned with flags is partially visible amongst large trees.
+end of description
+The subsequent frames show no dynamic changes or newly revealed objects; the scene remains entirely static throughout the sequence.
+frame_0000000128-frame_0000000256:
+The first frame shows a stone and wooden archway in the foreground, with "ROYAL HAWAIIAN CENTER" inscribed on its top beam and a "WELCOME" sign on the right pillar. Beyond the archway, a curving paved path leads into a lush, tropical garden with prominent tree trunks and distant buildings and flags visible through the foliage.
+end of description
+As the frames progress, the viewpoint appears to slowly move forward, closer to and through the archway. The archway and the garden scene beyond it incrementally grow larger in the frame, revealing slightly more detail within the garden and bringing the flags and buildings in the background into closer perspective. The effect is a gradual progression deeper into the "Royal Hawaiian Center" entrance.
+frame_0000000256-frame_0000000384:
+The first frame shows the viewer looking through a stone archway with two prominent stone pillars supporting a wooden pergola overhead. A partially visible white sign with a red footprint is on the bottom left pillar, while a brown "ALOHA MAI WELCOME TO ROYAL HAWAIIAN CENTER" sign is on the bottom right pillar. Beyond the archway, a winding paved pathway leads into a lush tropical garden with green foliage, a large banyan tree, and distant buildings with colorful flags.
+end of description
+In subsequent frames, the only dynamic change occurs on the white sign attached to the bottom left pillar. The red footprint graphic on this sign slowly moves upwards and slightly to the right, progressively disappearing from view across the sign's surface as the frames advance. The rest of the scene, including the pathway, vegetation, banyan tree, and buildings, remains static relative to the first-frame viewpoint.
+frame_0000000384-frame_0000000512:
+The first frame depicts a pathway through a lush tropical garden, viewed through an opening framed by stone walls on the immediate left and right, and a wooden beam overhead. A winding concrete path extends directly forward into the garden, bordered by dense green foliage. In the mid-ground, a large tree with thick, gnarled branches stretches horizontally across the scene, adorned with blue star-shaped decorations, while buildings and more distant trees are visible further back, particularly to the right.
+end of description
+Subsequently, the viewpoint smoothly pans to the right. This motion gradually reveals more of the building and garden features located to the right of the initial frame's central axis, while the stone walls and foliage on the far left and right foreground slowly move out of view.
+frame_0000000512-frame_0000000640:
+A winding pathway extends from the bottom center, framed by dense tropical foliage on both sides. A large tree with sprawling branches spans the midground, adorned with colorful star-shaped decorations (red, blue, orange). Multistory buildings and more lush greenery are visible in the background, especially to the right, suggesting a resort environment.
+end of description
+No dynamic changes or newly revealed objects are observed in the subsequent frames; the scene remains static relative to the initial viewpoint.
+frame_0000000640-frame_0000000768:
+In the first frame, a paved pathway curves into the distance, flanked by dense tropical foliage including ferns. A large tree with thick, gnarled branches extends across the frame, from which several colorful star-shaped ornaments (blue, red, gold) and two dark, bell-shaped objects hang. In the background, multi-story buildings with wooden elements are visible amidst palm trees and lush greenery.
+end of description
+No dynamic changes or newly revealed objects are observed in the subsequent frames; the scene remains entirely static.
+frame_0000000768-frame_0000000896:
+A paved path originates in the viewer's foreground, bordered by lush green foliage, leading into a tropical garden. A large tree with thick, light-colored branches spans the midground, adorned with dark bell-shaped objects on the left and blue and red star decorations on the right, beneath a wooden bridge and buildings in the background.
+end of description
+The camera subtly shifts right and zooms slightly throughout the frames. A white, irregularly shaped object hanging from a branch in the mid-right section of the large tree sways distinctly from side to side. Other blue and red star decorations also exhibit minor swaying, with the overall scene remaining consistent.

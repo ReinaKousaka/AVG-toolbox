@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+First, an ornate, multi-towered castle with prominent green roofs occupies a rocky, tree-covered hill in the mid-foreground, backed by a sprawling town and distant mountains beneath a blue sky.
+end of description
+Following this, the initial castle visibly transforms and fades, revealing a distinct, more fortified stone castle with a central keep and extensive winding outer walls now fully in the same mid-foreground location. The perspective slightly widens, further exposing these long defensive structures to the right and more of the surrounding urban landscape to the left and behind the castle, all maintaining their positions relative to the initial viewpoint.
+frame_0000000128-frame_0000000256:
+The first frame displays an elevated view of a large medieval castle complex situated centrally on a prominent rocky hill. To the left and foreground, a town with numerous buildings, many featuring red or orange roofs, extends down the hillside, with a stadium visible further left and behind it. A larger city with various structures and roads stretches into the background to the right of the castle, backed by rolling green hills and distant mountains under a clear blue sky.
+end of description
+No dynamic changes occur, and no new objects or scenes are revealed in the subsequent frames; the video remains static, depicting the same scene throughout.
+frame_0000000256-frame_0000000384:
+An aerial view presents a large stone castle with a prominent tower situated on a hill in the midground, flanked by green trees in the foreground. To the left, a town with a stadium and a river extends into the background, merging with distant hills under a clear blue sky.
+end of description
+The camera subtly pulls back and rotates slightly counter-clockwise, revealing more of the castle's outer walls to the viewer's right and the surrounding town. A yellow and blue flag becomes distinct atop the central castle tower, and a yellow tram moves rightward on tracks to the far left of the original viewpoint. A red bridge, initially less visible, becomes more prominent within the castle's rightmost outer defenses.

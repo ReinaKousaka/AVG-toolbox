@@ -1,0 +1,16 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a wooden boardwalk extending from the bottom center into the midground, flanked by tall, dry, yellowish-green grasses and scattered rocks. Beyond this, a rugged landscape unfolds with numerous trees, some with light-colored bark and others dark green, interspersed with rocky terrain and smaller shrubs. In the far background to the right, a distant body of water is visible, bordered by tree-covered hills under a partly cloudy sky.
+end of description
+The viewpoint slowly progresses forward along the wooden boardwalk. As the camera advances, the immediate foreground grasses and rocks recede out of view, revealing more of the path and the rocky, grassy landscape ahead. The distant body of water to the right in the background subtly expands, and the surrounding hills appear marginally closer as the scene gradually shifts forward.
+frame_0000000128-frame_0000000256:
+The first frame displays a natural, somewhat scrubby landscape featuring a wooden boardwalk path curving from the bottom center into the midground. Tufted golden-brown grass and scattered rocks fill the foreground, while a mix of bare-branched and leafy trees form a dense forest extending into the background, where a body of water and dark hills are visible under a cloudy sky to the right.
+end of description
+The camera slowly moves forward along the boardwalk, causing the foreground grass and rocks to recede from view relative to the initial viewpoint. As the perspective advances, new segments of the path and surrounding vegetation are revealed from the top and sides, which were previously just beyond the initial frame's edges. The distant water and hills in the background subtly shift further right from their first-frame position as the viewpoint progresses.
+frame_0000000256-frame_0000000384:
+The first frame presents a wooden boardwalk path extending from the bottom center into the middle distance, flanked by dense clumps of golden-green grass in the immediate foreground. Beyond the grass, a mixed landscape of bushy green trees and lighter-colored bare-branched trees occupies the midground, with distant hills visible under an overcast sky in the background.
+end of description
+As the frames progress, the viewpoint moves forward along the boardwalk, causing the foreground grass clumps to recede to the sides. This reveals more of the path ahead, further along the trail from the initial viewpoint, and gradually shifts the perspective on the midground trees.
+frame_0000000384-frame_0000000512:
+The first frame shows a wooden boardwalk path extending from the bottom center into the mid-ground of a natural landscape, bordered by dense green shrubs and trees on the left, and tussock grass with sparse, light-barked trees on the right, under a cloudy sky with distant mountains; a "VRA" logo is visible in the bottom right.
+end of description
+The viewpoint slowly advances along the boardwalk. The path gradually extends further ahead, while the surrounding vegetation and trees on the left move past the viewer. A dark vertical post, initially in the right mid-ground, becomes more prominent and approaches the viewer, revealing a small, light-colored marker atop it as it draws closer to the right of the path.

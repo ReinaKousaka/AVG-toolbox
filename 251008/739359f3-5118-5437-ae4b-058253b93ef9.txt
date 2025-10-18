@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a rainy city street at night from a sidewalk perspective, with a light pole, tree, and parked black SUV immediately to the left, and a wet street reflecting distant buildings and lights further left. To the viewer's right, a wet sidewalk parallels buildings with some illuminated elements.
+end of description
+Heavy rain continues throughout the frames, making all surfaces slick and reflective. On the street to the left, vehicles, including a light-colored car then a dark car, sequentially move across the frame, receding into the distance or appearing from it. Additionally, from the third frame, a person with an umbrella emerges on the mid-distance sidewalk to the right, walking away from the viewer before disappearing from view by the final frame.
+frame_0000000128-frame_0000000256:
+The first frame captures a rainy night street scene, with a prominent tree trunk in the foreground-left. To its left, a wet street reflects distant building lights, where a black SUV is parked, and another vehicle is further back. To the right of the tree, a wet sidewalk stretches into the distance, bordered by a building with illuminated facades and several smaller trees.
+end of description
+As frames progress, a white car drives into view from the far left, moving across the wet street behind the foreground tree. The parked black SUV's taillights briefly illuminate, and a red fire hydrant becomes distinctly visible on the curb next to the tree. The continuous heavy rain intensifies the reflections on all wet surfaces, while the overall viewpoint remains static.
+frame_0000000256-frame_0000000384:
+The first frame displays a rainy city street at night, with a black SUV parked on the wet asphalt to the viewer's left, beside a red fire hydrant on the curb. A prominent tree trunk stands in the center foreground, separating the street from a wet sidewalk on the right, which is lined by a building featuring warmly lit windows and decorative potted plants.
+end of description
+In subsequent frames, the black SUV's brake lights briefly illuminate. The rain visibly intensifies, showing more distinct streaks across the scene from approximately frame six, while a white car moves further down the wet street into the distance.

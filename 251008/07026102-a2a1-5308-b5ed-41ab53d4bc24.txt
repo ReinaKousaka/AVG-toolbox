@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a paved road extending forward, bordered on the left by a steep, tree-covered hillside and on the right by a dense line of trees. Distant mountains with exposed rock faces are visible straight ahead in the background, beneath a partly cloudy sky. Shadows from trees are cast across the road surface.
+end of description.
+As the viewer progresses along the road, elements initially in the foreground of the first frame recede behind the viewer's original position. Simultaneously, new sections of the road and the surrounding forested landscape are continuously revealed further ahead, while the distant mountains steadily approach.
+frame_0000000128-frame_0000000256:
+The first frame captures a paved road extending from the bottom center, gently curving left into the mid-distance of a mountainous, forested landscape. A steep, rocky hillside covered in sparse vegetation rises to the viewer's left, while a dense forest of tall green trees borders the road on the right, all beneath a sky showing both clouds and patches of blue.
+end of description
+The subsequent frames depict the viewpoint moving steadily forward along the road, causing the immediate roadside trees on the right and the hillside on the left to gradually approach, enlarge, and recede behind the viewer's initial position. As the scene progresses, new sections of the road ahead and the immediate forest edge are continually revealed relative to the first-frame's perspective, with shadows on the road shifting dynamically.
+frame_0000000256-frame_0000000384:
+The first frame displays a paved road stretching forward, flanked by a steep, green-covered hillside on the left and a dense forest of tall trees on the right, all leading towards rocky mountains in the distant background under a partly cloudy sky.
+end of description
+The viewer moves forward along the road, causing the trees on the right and the hillside on the left to progressively recede behind the initial viewpoint. As new sections of the road appear directly ahead, the shadows cast upon it dynamically shift and lengthen with the forward progression.

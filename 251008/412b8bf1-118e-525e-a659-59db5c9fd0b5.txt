@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a wide, wet paved pathway extending into the distance, flanked by lush green trees overhead under a cloudy sky. To the viewer's right, a large white tent with a map-like sign stands, and a lamppost with an orange 'no smoking' sign is positioned further along the right side of the path. Several individuals holding umbrellas are visible walking away from the viewer in the mid-ground, with potted plants and benches along the left.
+end of description
+Throughout the subsequent frames, visible rain continuously falls across the scene, creating numerous splashes on the wet pavement. The individuals holding umbrellas continue to progress further along the pathway, moving steadily away from the viewer into the background.
+frame_0000000128-frame_0000000256:
+The first frame depicts a wet, paved pathway extending into the distance, flanked by dense green trees and bushes under a rainy sky. Several people holding umbrellas are walking on the path, with a woman carrying a blue umbrella and yellow bag positioned closer on the left, while others move further away in the midground. To the right, a dark brown bench rests beside a grassy area, with a lamppost and two signs visible further along the path.
+end of description
+Subsequently, the woman with the blue umbrella and yellow bag consistently moves closer towards the viewer along the left side of the path. Other pedestrians with umbrellas continue moving away into the midground and background. Throughout the frames, rain is visibly falling, creating ripples on the wet ground and maintaining the dynamic, rainy atmosphere.
+frame_0000000256-frame_0000000384:
+The first frame shows a wide, wet paved path extending into the distance, flanked by green trees and bushes under a rainy sky. To the viewer's immediate left, a person holding a blue umbrella walks away, passing a large silver planter filled with yellow and pink flowers, while other pedestrians with umbrellas are seen further down the path.
+end of description
+As the frames progress, the camera subtly shifts rightward, revealing more of the paved path and the green bushes on the right side of the frame relative to the first-frame viewpoint. The person with the blue umbrella on the left moves further away from the viewer and eventually exits the frame towards the upper left. Concurrently, other pedestrians and a car in the distance continue their movement forward along the wet path.

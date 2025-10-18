@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+A large, spherical replica of the moon, detailed with craters and varying shades of gray, hangs centrally in front of the viewer, occupying most of the frame. To the left and right, slightly behind and above the moon, are gothic architectural arches with stained-glass windows, illuminated by a vibrant blue light. A deep blue ceiling or sky is visible at the very top, behind the moon.
+end of description
+The moon slowly rotates, revealing different sections of its cratered surface. No new objects or scenes are revealed, as the architectural background elements remain static relative to the first-frame viewpoint. The subtle rotation continues throughout the sequence.

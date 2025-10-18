@@ -1,0 +1,13 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a rainy city street at night, with a person in dark attire holding a black umbrella and walking away from the viewer on a wet pavement. To the left, a street with bushes and distant car lights extends, while to the right, illuminated storefronts with signs (including one showing '7800원') line a reflective sidewalk.
+end of description
+As the frames progress, the initial person continues walking. A second person appears immediately to their left, then moves to share the same umbrella, which now prominently displays a pink reflection from underneath, as both individuals walk further into the distance along the rain-slicked street.
+frame_0000000128-frame_0000000256:
+In the first frame, two individuals walk away from the viewer on a wet sidewalk; the person closer to the viewer holds a black umbrella, and the one slightly behind and to their left holds a pink umbrella. To their right, storefronts with illuminated signs line the street, including a prominent blue sign displaying "7,800." To their left, a wet street runs parallel, with distant cars, trees, and a yellow street sign visible under a heavy rain.
+end of description
+The two individuals continue walking away from the viewer on the wet sidewalk. The heavy rain persists, visible as streaks across the entire scene, and reflections on the wet ground dynamically shift. Vehicles on the street to the left of the walking individuals move further into the distance.
+frame_0000000256-frame_0000000384:
+The first frame shows a rain-soaked city street at night, with two individuals in the foreground walking away from the viewer: one to the left under a black umbrella, and another slightly to the right under a pink umbrella. To the left is a street with moving cars and a pole, while to the right is a sidewalk alongside illuminated buildings.
+
+end of description
+Both individuals consistently walk forward, moving further away from the first-frame viewpoint down the wet street. The person with the pink umbrella progresses slightly ahead of the person with the black umbrella, as the heavy rain continues to fall and distant vehicle lights shift slightly within the scene.

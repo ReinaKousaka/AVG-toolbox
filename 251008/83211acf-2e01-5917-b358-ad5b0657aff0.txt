@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a grey asphalt road with a yellow dashed line extending from the viewer, curving subtly into the distance under an overcast sky. To the left, a small, light-colored building with a dark roof and two red-brown doors stands near the road, backed by a utility pole and a dense, forested hillside. On the right, a grassy embankment adorned with small trees and yellow flowers gradually recedes, with distant houses and mountains partially visible in the far background.
+end of description
+As the frames progress, the viewpoint moves forward along the road, causing the small building and utility pole on the left to grow larger and closer to the viewer. Simultaneously, the trees and grassy embankment on the right, along with the distant houses, also progressively approach and become more detailed within the consistent field of view.

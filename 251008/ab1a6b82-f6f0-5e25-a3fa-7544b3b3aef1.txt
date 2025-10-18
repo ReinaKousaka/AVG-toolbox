@@ -1,0 +1,10 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a paved road extending from the bottom center towards a tunnel entrance in the mid-ground, bordered by stone retaining walls. To the left and right, tree-covered mountainsides, with an exposed rocky face on the upper right, rise into a clear blue sky.
+end of description
+As the frames progress, the viewpoint steadily advances along the road, causing the tunnel entrance, originally in the mid-ground, to loom larger and closer. The foreground road surface recedes, and a small red marker is revealed on the right side of the tunnel entrance as the viewer approaches.
+frame_0000000128-frame_0000000256:
+In the first frame, an asphalt road stretches from the bottom foreground towards a concrete tunnel entrance directly ahead. Flanking the road are retaining walls of dark, large stones; the left wall leads to a grassy slope and a distant autumn-colored forested mountain, while the right wall is beneath a steep, light-colored mountain face. Inside the tunnel, a series of lights recedes into darkness, and a small red post and blue sign are visible near the tunnel entrance on the right.
+
+end of description
+
+The scene depicts continuous forward movement towards the tunnel; the tunnel entrance, road, and flanking stone walls steadily grow larger and closer to the viewer. Consequently, the red post and blue sign on the right also increase in size and proximity, while the distant mountains subtly recede.

@@ -1,0 +1,14 @@
+frame_0000000000-frame_0000000128:
+A rain-slicked urban street extends into the distance, flanked by multi-story buildings. On the left, several market stalls with green tarps line the wet pavement, while on the right, a large commercial building features illuminated storefronts and red facade elements, with a street lamp post in the immediate foreground.
+end of description
+A black umbrella briefly obscures the top of the frame, moving across the viewer's immediate upper field of vision. Subsequently, a person carrying a white umbrella walks from the right foreground across the wet pavement, moving past the illuminated storefronts on the right side of the street towards the midground left. Another person in dark clothing then becomes visible near the building entrance on the right, briefly remaining there.
+frame_0000000128-frame_0000000256:
+The first frame depicts a wet, rainy urban street scene, with multi-story buildings featuring shops and restaurants lining both sides of a wide, paved thoroughfare leading into the distance. To the right, brightly lit storefronts with Korean signage adorn a prominent corner building with red accents, while several green-covered stalls are visible in the mid-left along the street. In the distant background, a tall, metallic tower structure rises above the city skyline under an overcast sky.
+
+end of description
+
+Subsequently, no significant changes occur across multiple frames until a person, holding a black umbrella, emerges from the far right mid-ground, walking leftwards along the storefronts on the right side of the street, gradually moving further into the mid-ground.
+frame_0000000256-frame_0000000384:
+The first frame depicts a wet, reflective city street lined with multi-story buildings under an overcast sky. In the foreground, the pavement shows a red and white pattern on the left. To the left, a row of green-covered street vendors recedes, followed by storefronts with illuminated signs. To the right, a large building with multiple floors features brightly lit windows, storefronts, and red and black architectural details. In the midground center, a few small trees line the street, and two people holding umbrellas walk away from the viewer. In the background, a tall white metal structure, possibly a Ferris wheel, rises above the buildings on the left, which are adorned with numerous glowing signs.
+end of description
+The two individuals carrying umbrellas dynamically move further down the wet street, away from the viewer and gradually towards the left side of the frame. The person initially closer to the viewer turns their upper body to the left as they continue walking forward. By the final frame, both individuals have progressed notably into the distance down the street.

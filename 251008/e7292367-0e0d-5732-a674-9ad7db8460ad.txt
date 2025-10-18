@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a winding asphalt road curving to the left, with a dark car driving ahead in the mid-ground. To the viewer's immediate left, a dark retaining wall rises, topped by tall coniferous trees from which the sun brilliantly shines. On the right, a metal guardrail parallels the road, beyond which a grassy verge leads to dense evergreen forests climbing a large, distant mountain range under a clear blue sky.
+end of description
+As the viewpoint progresses forward, the road continues its leftward curve, and the dark car ahead moves further along the bend relative to the viewer. The retaining wall on the left and the guardrail on the right become more defined, revealing textured details. A white roadside marker eventually appears on the right, positioned near the guardrail, while the distant, tree-covered mountains slowly recede into the background.
+frame_0000000128-frame_0000000256:
+The first frame depicts a mountain road curving gently left, with a bright sun high in a clear blue sky, causing reflections on the asphalt surface directly ahead of the viewer. To the viewer's left, a stone retaining wall borders dense evergreen trees, while a dark car proceeds in the left lane further along the curve. To the right, a wooden guardrail extends forward, beyond which a large, tree-covered mountain rises in the distance.
+end of description
+As the frames progress, the viewer moves forward along the road; the dark car continues to recede further ahead, and a small white marker near the right guardrail passes from ahead of the viewer to their right side. This forward movement continuously reveals new sections of the winding road and the mountainous landscape further ahead and to the right.

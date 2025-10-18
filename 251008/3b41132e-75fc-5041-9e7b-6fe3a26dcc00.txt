@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a snow-covered street in Grindelwald with a clear blue sky above distant snow-capped mountains. Traditional brown wooden chalets with snow-dusted roofs are visible along the curving paved road in the mid-ground, while a multi-story building with a grey stone base and brown wooden top, partially hidden by green bushes, occupies the immediate right foreground.
+end of description
+As the view subtly pans right, more of the rightmost chalet's facade, including a wall-mounted lamp fixture previously obscured by bushes, becomes visible to the right of its initial position. Simultaneously, a black watermark or logo gradually appears and sharpens in the upper right corner, overlaying the chalet's roof.
+frame_0000000128-frame_0000000256:
+In the first frame, a snow-covered village scene in Grindelwald, Switzerland, is visible under a clear blue sky. In the foreground, a plowed road curves right, bordered by snow, leading past a large dark brown chalet with green shutters and a balcony on the left-center, and a stone wall on the far right. Bare trees stand to the left of the chalet, while other traditional wooden houses with snow-laden roofs are nestled further back and to the right, leading up towards distant, majestic snow-capped mountains.
+end of description
+Starting from the eighth frame, a small red object, resembling a sled or plastic shovel, appears on the snow to the left of the prominent dark brown chalet, near the bare trees in the mid-left foreground.

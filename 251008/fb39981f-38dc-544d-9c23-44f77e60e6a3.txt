@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+A wooden boardwalk extends from the viewer's immediate foreground into the middle distance, surrounded by dense green and yellow-green vegetation on both sides. Tall trees with green foliage are positioned on the left and right, with one tree showing reddish leaves further down the path on the left, all beneath a bright blue sky.
+end of description
+As the viewpoint steadily moves forward along the boardwalk, the immediate foreground vegetation passes by to the sides. Objects previously in the mid-distance, such as the trees and the red-leafed foliage, progressively draw closer to the viewer's current position. The path ahead appears to curve slightly to the left, as the surrounding forest seems to expand relative to the moving observer.
+frame_0000000128-frame_0000000256:
+A wooden boardwalk extends from the viewer's immediate foreground into the middle distance, curving slightly towards the left. It is flanked by dense green and golden grass, reeds, and various foliage, with lush green trees lining both sides, including one with some reddish leaves positioned to the left of the boardwalk's center. A clear blue sky with sparse clouds is visible above the distant tree line.
+end of description
+The viewpoint slowly and smoothly moves forward along the boardwalk. Consequently, the surrounding grass and trees on both sides gradually shift backward relative to the viewer, and the distant end of the path appears to subtly approach.

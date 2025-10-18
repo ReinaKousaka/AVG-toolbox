@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+A paved road with a dashed white centerline curves gently left into the distance, flanked by a metal guardrail and dense evergreen forest on the left. To the right, a steep, rocky hillside with sparse vegetation rises, while distant mountains are visible beyond the trees under a bright sky.
+end of description
+The viewpoint progresses forward along the road, causing the centerline and road surface to advance from the distance. Both the left guardrail and the right rocky hillside continuously recede, revealing new sections of the surrounding terrain as the camera navigates the curve.
+frame_0000000128-frame_0000000256:
+The first frame displays a paved road curving gently to the left, flanked by tall pine trees on both sides and distant mountains under a bright sky. A dashed white line marks the middle-right side of the road, leading into the distance, while a rocky embankment borders the road's right edge.
+end of description
+As the scene progresses, the viewpoint moves forward along the road, causing the dashed white line segments to advance towards and pass beneath the viewer. Simultaneously, a white bicycle symbol gradually emerges on the road surface to the right of the dashed line, becoming fully formed and visible directly in front of the viewer by the final frames.
+frame_0000000256-frame_0000000384:
+The first frame depicts a paved road curving gently to the left and uphill, with a dashed white line along its center and a white bicycle symbol painted on the right side closest to the viewer. To the road's left is a dense pine forest, while a rocky, sparsely vegetated hillside leading to more forest stands to the right. Distant mountains are visible beyond the trees.
+end of description
+As the frames progress, the viewpoint moves forward along the road, causing the initial bicycle symbol to recede from the bottom right of the frame. The dashed white line segments continually appear from the distant curve and pass underneath the viewer, indicating constant forward motion through the same mountainous, forested environment without revealing any entirely new objects or scenes.

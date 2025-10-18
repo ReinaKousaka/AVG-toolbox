@@ -1,0 +1,11 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a picturesque street scene in what appears to be a European town, under an overcast sky. In the immediate foreground, a reddish-brown cobblestone pathway extends towards the mid-ground, where a dark metal railing borders a narrow waterway. To the left of the path stands a black streetlamp, and several pedestrians are visible, including two individuals walking left with a bicycle and a person wearing a blue backpack. Across the waterway, multiple traditional half-timbered buildings with white walls and dark brown beams, featuring gabled brown roofs, line the bank, with a prominent signpost on one central building. To the far left, a larger, light-colored building with "HOTEL" and "RESTAURANT" signs is visible, while on the far right, a portion of another large half-timbered building with reddish timbers is seen, in front of which a considerable crowd, including many children in bright yellow vests, is gathered.
+
+end of description
+The sequence shows a gradual, continuous pan to the right, progressively revealing more of the street and a market stall on the far right. The individuals in the foreground, including the person with the blue backpack and the adjacent cyclist, continue walking from right to left and deeper into the scene. Simultaneously, the large group of people and children in yellow vests on the right subtly shifts their positions, while the "HOTEL RESTAURANT" building on the far left gradually moves out of view.
+frame_0000000128-frame_0000000256:
+The first frame displays a lively street scene centered around a large half-timbered building in the midground. To the left, a canal runs horizontally, bordered by a group of people observing the water, with more half-timbered buildings extending into the background. On the right, a cobbled square contains a group of children in reflective vests and several adults, with market stalls visible along the far right edge.
+
+end of description
+
+Throughout the following frames, a person with a blue backpack progresses from the far left foreground towards the viewer's lower left. Simultaneously, an adult and a child walk from the mid-right across the cobbled square towards the central-right, all remaining within the boundaries of the initial scene.

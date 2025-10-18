@@ -1,0 +1,28 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a cobblestone street extending forward, flanked by a decorative yellow fence bordering a lush garden with palm trees and flowers on the left. To the right, a stone wall adorned with posters runs alongside the street, featuring a light pole with an Italian flag. In the distance, a multi-story building with green shutters and a parked white car are visible under a clear blue sky.
+end of description
+There are no dynamic changes or newly revealed objects in the subsequent frames; all frames are identical to the first-frame viewpoint.
+frame_0000000128-frame_0000000256:
+The first frame displays a cobbled street ascending gently, bordered on the left by a yellow barrier with white ornate railings and lush tropical foliage including palm trees, and on the right by a stone wall covered with various large advertisements. Further up the street, a light-colored building with green shutters is visible on the left, while a peach-toned building with a small balcony and a streetlight pole line the right side.
+end of description
+As the camera moves forward, the initial barrier and foliage on the left and the poster-covered wall on the right progressively recede from view. Concurrently, a white car parked further up the street on the left approaches, and a parked motorcycle with additional wall art, alongside another streetlight, becomes visible further along the right side of the street relative to the initial scene. The perspective shifts to reveal more of the street's curve and distant buildings ahead.
+frame_0000000256-frame_0000000384:
+The initial frame depicts a cobblestone street winding away, bordered left by yellow posts, white railings, and a lush palm garden, and right by a stone wall with posters, a prominent street lamp, and a pink building. Further down the street, a light yellow building and a white car are visible.
+end of description
+In subsequent frames, a clothing rack with various garments progressively emerges into view on the right side of the street, positioned in front of the pink building, relative to the original first-frame viewpoint. This rack, displaying colorful clothes, is the only dynamic object to appear within the scene.
+frame_0000000384-frame_0000000512:
+A narrow, cobblestone street curves gently into the distance, flanked by a lush garden with palm trees and a yellow-pillared white railing on the left, and a multi-story building with a storefront and a lamp post on the right. A white car is visible further down the street ahead, while varied clothing hangs on racks outside the storefront to the immediate right of the viewer.
+end of description
+From the first-frame viewpoint, the camera appears to move subtly forward along the street. The yellow pillars and white railing on the left gradually shift further left in the frame, revealing slightly more of the garden ahead. Simultaneously, the distant buildings and the white car appear marginally closer ahead of the viewer, indicating a slow progression without any entirely new objects or scenes dramatically emerging.
+frame_0000000512-frame_0000000640:
+The first frame captures a cobbled street gently curving left uphill, bordered by buildings and lush greenery. To the viewer's left, a yellow stone wall with white ornate railings runs alongside a garden filled with vibrant green plants and palm trees, while to the right, a storefront with blue and grey siding showcases colorful clothing. Further down the street, a lamppost stands, two scooters are parked, and in the distance, a white car and a walking person are visible, all beneath a clear blue sky.
+end of description
+There are no discernible dynamic changes or newly revealed objects or scenes in the subsequent frames; all objects and their spatial positions remain static relative to the first-frame viewpoint.
+frame_0000000640-frame_0000000768:
+To the left of the viewer, a low yellow wall with decorative white fencing extends into the midground, bordered by lush green plants, including agave and prominent palm trees. A cobbled street leads uphill and curves slightly into the distance in the center, flanked by light-colored multi-story buildings and more foliage in the background, where a white car and a few pedestrians are visible. To the right, the facade of a shop displays colorful clothing and hats, alongside a black street lamp and a white scooter parked against a stone wall topped with dense greenery.
+end of description
+In the subsequent frames, the white car in the background gradually moves further up the street, receding from the viewer. Similarly, the pedestrians in the distance also proceed further away along the street. Otherwise, the foreground shop, street lamp, walls, and surrounding vegetation remain static relative to the first-frame viewpoint.
+frame_0000000768-frame_0000000896:
+The first frame displays a cobblestone street winding slightly uphill, flanked on the left by a yellow railing with decorative inserts, behind which are lush palm trees and other green foliage. To the right, a grey building exhibits various clothes for sale, next to a streetlamp, a parked white scooter, and a stone wall covered in ivy. Further down the street, a light yellow building with green-shuttered windows is visible in the background.
+end of description
+Subsequent frames reveal dynamic changes to the right of the first-frame viewpoint: the clothing rack with garments is removed, uncovering a white outdoor umbrella and restaurant signs. A red "No Entry" sign also becomes visible to the right of the streetlamp. By the final frames, a white table with a tablecloth and two chairs underneath are clearly revealed, forming an outdoor dining area.

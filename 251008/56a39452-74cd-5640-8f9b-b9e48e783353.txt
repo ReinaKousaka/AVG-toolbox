@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+A winding asphalt road recedes into the distance, flanked on the left by a stone wall against a rocky, forested mountain face with a white sign, and on the right by green bushes leading to a tree-covered mountain under a blue sky.
+end of description
+As the viewer progresses, the landscape moves closer and past the camera, with the rocky mountain face on the left curving alongside the road. Further along the path, to the left of the road and near the mountain base, two white rectangular bins are newly revealed. The green vegetation and distant mountains continue to be observed as the scene unfolds.
+frame_0000000128-frame_0000000256:
+The first frame shows a paved road curving gently right, flanked by a steep, tree-covered rock face on the left, where two white bins are visible, and dense green vegetation on the right, all leading towards distant, verdant mountains under a blue sky.
+end of description
+As the frames progress, the viewpoint moves forward along the road. The initial rock face, bins, and roadside vegetation on both sides move progressively closer, then shift to the left and right respectively, eventually receding behind the original first-frame viewpoint.
+frame_0000000256-frame_0000000384:
+A gray asphalt road extends from the foreground into the distance, curving slightly leftwards, flanked by dense green vegetation. To the upper left, a rocky cliff face rises, covered in sparse trees, while on the right, a larger green mountain range dominates the background. A prominent gray rectangular sign on a pole stands to the right of the road in the mid-ground, with a smaller white marker post visible on the left side of the road further back.
+end of description
+As the viewer moves forward along the road, the initial objects, including the gray sign on the right and the white marker on the left, recede and move towards the sides of the frame. More concrete barrier posts along the right side of the road become visible and pass by. Further ahead, a red and white striped barrier blocking the road becomes clearly visible in the mid-distance on the right.

@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a rainy city street with a wet sidewalk lined by trees extending into the distance on the left, and buildings with storefronts visible further down. To the right, a wet road with a yellow median line features a black scooter moving towards the viewer, a white car partially visible behind it on the right, and a parked motorcycle in the bottom right foreground; city buildings with Korean signage are in the background across the street.
+end of description
+In subsequent frames, the black scooter and the white car continue moving forward along the road, passing the first-frame viewpoint. A pedestrian holding an umbrella then emerges from the left sidewalk and crosses the street towards the right side. Rain consistently falls, causing visible splashes and reflections as vehicles and the pedestrian proceed along the street.
+frame_0000000128-frame_0000000256:
+The first frame presents a rainy city street looking forward, with a wet asphalt road, trees, and buildings lining both sides. A person with an umbrella is seen crossing a crosswalk from left to right in the midground, accompanied by a white car slightly behind them and moving away from the viewer.
+end of description
+Throughout the subsequent frames, the person with the umbrella continues their walk across the crosswalk, moving further from the viewer towards the right side of the frame. Simultaneously, the white car behind them progresses slowly forward, and the continuous rainfall creates visible splashes on the glistening street.
+frame_0000000256-frame_0000000384:
+The first frame shows a rainy city street with wet, reflective asphalt, indicating a downpour. A white car with illuminated headlights is positioned in the left lane, facing away from the viewer, while a person with a blue umbrella crosses the street from left to right on a crosswalk in the midground. To the right, red chairs are stacked on a sidewalk alongside parked vehicles and buildings, which also line the street in the background. Trees are visible along both sidewalks.
+end of description
+Subsequently, the person with the blue umbrella continues walking further to the right across the crosswalk. Simultaneously, the white car in the left lane slowly moves forward, deeper into the scene, while another dark vehicle behind the pedestrian also progresses slightly.

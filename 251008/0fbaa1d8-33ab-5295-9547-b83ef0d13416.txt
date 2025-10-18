@@ -1,0 +1,30 @@
+frame_0000000000-frame_0000000128:
+The viewer faces down a city sidewalk lined by tall buildings. To the immediate left, partially visible, are a woman in a light sweatshirt and two children. Further right and slightly ahead, a woman in a black winter coat with a fur-lined hood walks away from the viewer, carrying bags. A tree trunk and a large planter with greenery are to the viewer's right, and beyond them, a street with a yellow taxi in the distance is visible, while tall skyscrapers extend into the background.
+end of description
+The viewer's perspective moves forward along the street. The woman in the white sweatshirt and the two children, initially to the viewer's left, exit the frame to the left. Simultaneously, a blonde person's head briefly enters and then exits the bottom-left of the frame. The woman in the black coat, remaining ahead, continues walking directly away from the viewer. As the camera progresses, the background cityscape, including the distant street, buildings, and pedestrians, steadily draws closer, revealing a red double-decker bus in the far distance.
+frame_0000000128-frame_0000000256:
+The first frame shows a person in a dark winter coat with a fur-lined hood, carrying shopping bags, walking away from the viewer on a city sidewalk. To their left are storefronts displaying clothing, while to their right are large planters with greenery, and distant city buildings with a yellow taxi further down the street.
+end of description
+In subsequent frames, the person continues walking forward as other pedestrians also move ahead on the sidewalk. A white delivery truck emerges from the far right background, moving towards the viewer and gradually becoming more prominent as the scene progresses.
+frame_0000000256-frame_0000000384:
+In the first frame, a person in a dark winter coat walks away from the viewer on the left side of a city sidewalk, beside storefronts marked 'J.CREW'. To the right, planters with green foliage and a bare tree line the sidewalk, partially obscuring a parked white truck with a 'THERMO KING' unit, while other pedestrians and tall buildings are visible further down the street.
+
+end of description
+
+Subsequently, the foreground person continues walking forward and away from the initial viewpoint, revealing more of the storefront to the left and allowing another pedestrian to become fully visible behind them, also moving away. The stationary white truck on the right appears to recede slightly as the viewpoint advances down the street.
+frame_0000000384-frame_0000000512:
+The first frame shows a city sidewalk with storefronts to the left and a parked white semi-truck to the right, partially behind a tree trunk. A dark planter with greenery and orange flowers is in the mid-ground, while several pedestrians walk along the sidewalk, including one closest to the viewer on the far left. Bicycles are parked further down, with tall buildings and a red bus visible in the distance.
+end of description
+In subsequent frames, the white semi-truck on the right gradually moves forward from its initial position, revealing more of its front cabin and the "JFC" logo. Simultaneously, the pedestrian initially on the far left continues walking forward and slightly right relative to their first-frame position, moving further down the sidewalk.
+frame_0000000512-frame_0000000640:
+The first frame captures a city sidewalk scene: a dark planter with green plants and orange flowers occupies the foreground left, next to a partially visible person. Ahead, pedestrians walk away from the viewer past storefronts on the left, while a large white truck is parked to the right with bicycles and bare trees between it and the sidewalk, and tall buildings receding in the background.
+end of description
+In subsequent frames, the person on the far left and the pedestrians on the sidewalk continue moving away from the viewer. Concurrently, a person in a blue jacket, initially partially behind the truck on the right, shifts slightly towards the truck's front. The parked truck and the distant cityscape remain static throughout.
+frame_0000000640-frame_0000000768:
+In the first frame, a city sidewalk occupies the left half, starting with green foliage in a planter in the immediate foreground. Behind this, storefronts with large plaid-patterned displays and clothing are visible, lining the left side. Numerous pedestrians are walking along this sidewalk, moving away from the viewer. On the mid-right, several bicycles are parked at a rack next to a tree, behind which a large white "NISHIKI SUSHI SPECIALIST" delivery truck is parked along the curb. Tall buildings flank both sides of the street, receding into the background.
+end of description
+In the following frames, the pedestrians on the sidewalk, including the woman in the dark coat and light blue jeans carrying shopping bags on the left, steadily move forward away from the viewer. The person in the blue jacket near the parked delivery truck on the right also changes their posture and position slightly over time. No new objects or scenes are revealed beyond the initial view; only the movement of these individuals is observed.
+frame_0000000768-frame_0000000896:
+A city street scene shows a pedestrian sidewalk on the left with several people walking away from the viewer, storefronts displaying plaid patterns on the far left, and a street on the right with vehicles. In the foreground right, several bicycles are parked next to a tree, with a large white truck partially visible behind them and a person in a blue jacket standing near the bikes. Tall buildings line both sides of the street, receding into the background beneath an overcast sky.
+end of description
+Throughout the subsequent frames, the pedestrians on the sidewalk slowly proceed away from the viewer, and the person in the blue jacket on the right also begins to move forward with a bicycle. The only new element revealed is the text "WEST 50th STREET" appearing in the lower-left foreground in the final frame.

@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a small, ornate, yellow and grey building with a traditional tiled roof situated centrally amidst green ground cover scattered with yellow leaves, surrounded by numerous trees in the foreground and background. A dirt path curves from the middle right towards the background, and a wooden signpost stands to the right of the building, while a tree trunk occupies the far left foreground.
+end of description
+As the frames progress, the camera subtly executes a very slight zoom out or a minimal pan to the right from the initial viewpoint. This action causes the central building, the signpost on the right, and the foreground tree on the left to gradually appear marginally smaller within the frame and shift imperceptibly to the right.
+frame_0000000128-frame_0000000256:
+A small, ornate, pagoda-like structure, primarily yellow with green accents and a tiled roof, stands centrally in a park setting, surrounded by green ground cover with scattered yellow leaves. It is framed by numerous trees with varying foliage density, while a dirt path curves from the mid-right into the background, with a wooden informational sign positioned beside it.
+end of description
+The subsequent frames show no dynamic changes in objects or newly revealed scenes; the pagoda, trees, and path remain stationary relative to the first-frame viewpoint. The only discernible variation is a very subtle fluctuation in the overall lighting and shadow intensity across the scene, suggesting minor changes in illumination conditions or camera exposure.

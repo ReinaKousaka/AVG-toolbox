@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+In the first frame, a paved path curves from the bottom center into the midground, flanked by vibrant green grassy fields. To the immediate left, a wooden post with a rope-like object stands in the grass, while several wooden fence posts delineate a garden plot on the right. In the midground, a house with a white facade, dark roof, and red window shutters is situated to the right of the path, with an attached wooden building. Majestic, snow-capped mountains form the distant background under a clear blue sky with white clouds, with cable car gondolas traversing between the peaks.
+end of description
+The viewpoint slowly advances forward along the paved path while slightly panning to the right. The foreground grass and fence posts shift towards the frame edges as more of the path ahead is revealed. A new section of a wooden house emerges on the far right midground, located to the right of the initial house and closer to the viewer than the distant mountains. Concurrently, cable car gondolas continue their movement across the sky in the distant background, and a new cable car pole becomes visible further up the mountain to the right.
+frame_0000000128-frame_0000000256:
+In the first frame, a paved path curves right in the foreground, bordered by green fields with wooden posts; a white house with a wooden annex is to the left, and a brown building is on the far right. Distant snow-capped mountains dominate the background under a blue sky with white clouds, while dark cable car gondolas are suspended high above the scene.
+end of description
+No dynamic changes or newly revealed objects occur in the subsequent frames; the scene remains static throughout the sequence.

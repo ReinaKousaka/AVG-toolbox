@@ -1,0 +1,32 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a dirt path originating from the bottom center, curving gently uphill towards the right and disappearing into a dense forest. To the viewer's immediate left, a steep embankment covered in tall grasses and shrubs rises, while a less steep slope with similar vegetation and trees borders the path on the right. The overcast sky is partially visible through the upper tree canopy in the background.
+end of description
+As the viewpoint progresses along the path, the immediate foreground continuously moves backwards, revealing new segments of the path ahead and previously unseen portions of the dense forest and undergrowth on both sides. Objects initially in the mid-ground and background, such as specific trees and rocks, gradually become more prominent and closer to the viewer.
+frame_0000000128-frame_0000000256:
+A dirt path extends directly forward from the viewer, flanked by dense forest vegetation under an overcast sky. To the left, a steep, heavily wooded slope rises with various trees and grasses; to the right, trees and undergrowth line the path, with lower terrain visible beyond them.
+end of description
+The viewpoint progresses along the path, causing initial forest elements to recede *behind* the first-frame viewpoint while continuously revealing new sections of the wooded trail *ahead*. A small, light-colored object briefly appears on the path to the right, *ahead of the first-frame viewpoint*, before moving *behind* it as the viewer passes.
+frame_0000000256-frame_0000000384:
+A dirt path stretches from the foreground towards the distant background, flanked by dense foliage and trees. To the viewer's immediate left, a steep, rock-strewn slope covered in various green and brownish-green vegetation rises sharply. On the right, a slightly less steep embankment also features thick vegetation, including tree trunks and grasses, descending slightly. Overhead, a cloudy sky is visible through the tree canopy.
+end of description
+As the viewer moves forward along the path, the foreground vegetation on both sides continuously slides out of view, revealing new sections of the identical, winding dirt path ahead. The dense trees and foliage flanking the path on the left and right sides continue to dominate the view, with no entirely new objects or scenes appearing beyond the continuous progression through this wooded trail.
+frame_0000000384-frame_0000000512:
+The first frame displays a dirt path extending from the bottom center into the middle distance, curving slightly to the right. To the immediate left, a steep, grassy slope with dark rock faces rises upwards, covered in tall, slender grasses. On the right, shorter green bushes and grasses line the path. Beyond the immediate foreground, a dense forest of varying trees, some bare and some leafy, occupies the midground and background, with a bright, cloudy sky visible through the canopy above.
+
+end of description
+
+As the frames progress, the viewpoint moves steadily forward along the dirt path. Objects previously in the midground, such as segments of the grassy slope on the left and the bushes on the right, become closer and then move past the viewer's immediate sides. Concurrently, new sections of the path and the forest landscape are continuously revealed directly ahead in the forward direction. The overall scene maintains its composition, simply advancing deeper into the treelined trail.
+frame_0000000512-frame_0000000640:
+In the first frame, a dirt path extends from the bottom center into the distance, slightly curving left. To the viewer's immediate left, a steep, rocky embankment covered in dense, dark green and yellowish-green grass-like vegetation rises, with a spiky plant prominent in the bottom left. On the right, a slope descends, densely covered with green bushes and trees, with a prominent lighter green bush in the middle right foreground. The background features more trees and a partly cloudy sky visible above.
+end of description
+The viewpoint progresses steadily forward along the dirt path, causing immediate foreground elements like the spiky plant on the left and a rock in the path to recede and move out of the bottom of the frame. The rocky embankment on the left and the dense foliage on the right appear to move past the viewer. As the camera advances, more of the path ahead is continuously revealed, maintaining the same treelined trail scene.
+frame_0000000640-frame_0000000768:
+First, a narrow, unpaved path covered in dirt and small stones extends directly away from the viewer into a wooded area. To the left, a steep, dark green, bushy slope rises sharply upwards, while to the right, a gentler slope covered in lighter green grasses and trees descends slightly, revealing a brighter sky in the distance above the trees.
+end of description
+The scene shows continuous forward movement along the path. As the viewpoint progresses, sections of the path and flanking vegetation previously in the mid-ground shift towards the sides and out of view, revealing new segments of the winding dirt trail and dense forest further ahead along the path relative to the initial position. The overall environment remains a natural, unpaved pathway through lush greenery under a partly cloudy sky.
+frame_0000000768-frame_0000000896:
+The first frame shows a narrow, unpaved dirt path extending from the bottom center into the middle distance, curving slightly left. To the viewer's left, a steep, grassy and rocky embankment rises, covered in sparse green and brown foliage. To the right of the path, dense green bushes and trees line the way, with a prominent tree featuring a distinct curved trunk leaning over the path from the upper right. Above the tree canopy, a light blue sky with some cloud patches is visible.
+
+end of description
+
+As the frames progress, the viewpoint moves forward along the path. The initial foreground vegetation on both sides of the path recedes, revealing new sections of the rocky embankment to the left and denser undergrowth to the right, further along the path. The leaning tree on the right appears to move further back and right relative to the initial viewpoint, exposing more of its lower trunk and roots. A person briefly appears in the distance on the path in frame four, walking away from the viewer, before disappearing behind vegetation in subsequent frames. The path itself becomes clearer as the viewer traverses it, with the overall landscape gradually shifting to reveal what was previously further down the trail.

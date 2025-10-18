@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a sunlit, snow-covered forest path. To the immediate left, a large tree trunk is partially visible, while a smaller wooden post stands to the right of a distinct path of footprints leading into the snowy midground. Numerous snow-laden and bare trees extend into the background, beneath a clear blue sky, casting prominent shadows across the foreground snow.
+end of description
+As the frames progress, the viewer moves forward along the path. The large tree trunk on the immediate left and the small wooden post on the right gradually move out of the frame, disappearing from the original viewpoint. The path of footprints becomes more central and pronounced as the viewer advances deeper into the snow-covered forest.
+frame_0000000128-frame_0000000256:
+The first frame presents a snow-covered forest path stretching into the distance. Fresh snow covers the foreground and ground, marked by a central path of footprints and long, dark shadows extending from the right across the snow. Tall, snow-laden trees flank both sides, forming a dense winter forest in the midground and background, with a small patch of clear blue sky visible at the top-left above the treeline.
+end of description
+A rope swing, initially subtle, becomes noticeable hanging from a tree branch on the mid-right and begins to swing gently from right to left. Subsequently, numerous tiny, bright particles become visible in the mid-ground, primarily to the left of the path, drifting downwards like illuminated snow or dust. The shadows on the snow and the overall illumination of the trees on the right also subtly shift and change throughout the sequence.
+frame_0000000256-frame_0000000384:
+The first frame depicts a snow-covered forest path leading from the viewer into a clearing surrounded by dense trees, all laden with snow. A fallen, snow-covered tree branch stretches across the mid-left, while a bare tree trunk stands upright on the mid-right, with a bright light source visible high in the distant sky.
+end of description
+The viewpoint slowly progresses forward along the snowy path, causing the foreground snow to appear increasingly detailed and closer. Consequently, the bare tree trunk on the mid-right moves gradually leftward within the frame and becomes larger, indicating increasing proximity, as does the fallen branch on the mid-left. Shadows cast upon the snow consistently shift and lengthen across the frames, suggesting a change in lighting conditions or time.

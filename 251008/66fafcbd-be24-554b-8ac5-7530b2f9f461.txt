@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a paved mountain road stretching forward from the viewer, with a cyclist just ahead, a stone barrier to the left, and a rocky mountain slope immediately to the right, all beneath a clear sky with distant peaks.
+end of description
+As the frames progress, the viewer moves forward along the road, following the cyclist who remains ahead, slightly to the right of the center. The road curves gently to the left, revealing more of the steep, rocky terrain to the right and the winding road further ahead. The stone barrier on the left and the immediate rocky slope on the right move past the viewer.
+frame_0000000128-frame_0000000256:
+A cyclist rides away from the viewer on a winding asphalt road, positioned slightly right of center, with a low concrete barrier to the left and a stone retaining wall to the right. Beyond these, steep, rocky mountains rise under a bright blue sky with scattered clouds in the upper left.
+end of description
+The cyclist gradually moves further away from the viewer, shrinking and shifting towards the far right of the frame before fully exiting by the seventh frame. Concurrently, the viewpoint itself advances along the road, causing the concrete barrier on the left and the stone wall on the right to appear closer, then pass by, revealing more of the winding mountain pass ahead. The overall mountainous landscape and clear blue sky remain consistent throughout.
+frame_0000000256-frame_0000000384:
+A gray asphalt road with white edge lines stretches from the bottom center, curving slightly left into the distance, flanked by a concrete barrier on the left and a tall stone retaining wall on the right. Beyond these structures, verdant, rocky mountain slopes ascend steeply on both sides towards a clear blue sky dotted with white clouds.
+end of description
+As the viewpoint advances, the initial sections of the road, concrete barrier, and stone wall move rearward relative to the first-frame viewpoint, eventually disappearing behind it. Simultaneously, new portions of the curving road and its accompanying barriers, previously further ahead in the first frame, progress towards and then past the original viewpoint. The surrounding mountain landscape continually unfolds, revealing new sections of terrain that were previously beyond the initial field of view.

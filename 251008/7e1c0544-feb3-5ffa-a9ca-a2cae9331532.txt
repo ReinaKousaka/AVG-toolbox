@@ -1,0 +1,28 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a narrow asphalt alley receding into the distance, flanked by traditional Japanese buildings. To the viewer's immediate left stands a house with light wooden doors and dark wooden siding, while a similar dark-sided building with a stone base lines the immediate right. Further along the alley, additional wooden facades and windows are visible on the left, with the right wall continuing parallel.
+end of description
+The viewpoint moves steadily forward along the alley, causing the initial left and right buildings to recede into the background. As the viewer progresses, more of the lighter wooden facades and windows on the left side of the alley become prominent and closer. The distant end of the alley also appears to widen slightly, revealing a brighter area further ahead.
+frame_0000000128-frame_0000000256:
+The viewer is positioned in a narrow alleyway flanked by traditional Japanese buildings. To the left, a dark wooden plank wall dominates the foreground, topped by lighter wooden walls with windows and a tiled roof, extending into the mid-ground. A small, lighter wooden fence is directly to the viewer's immediate left. On the right, a similar dark wooden plank wall and tiled roof also recede into the distance. An asphalt road stretches ahead, marked by a bright patch of sunlight leading towards the far end where the alley curves slightly right, revealing a bright sky and indistinct structures in the background.
+end of description
+Across the following frames, the camera subtly recedes, causing the buildings on both sides to appear to move slightly outward from the center. This slight backward movement incrementally reveals a fraction more of the immediate foreground and the lateral edges of the scene. Concurrently, the patch of sunlight on the asphalt road subtly shifts its relative position, moving slightly backward and to the left within the frame as the viewpoint pulls away.
+frame_0000000256-frame_0000000384:
+A narrow asphalt alley extends forward from the viewer, flanked by traditional Japanese buildings with dark wooden paneling on the right and a mix of dark and lighter weathered wood with a tiled roof on the left. Moss grows along the base of both walls, and a patch of sunlight illuminates the midground of the path, leading to a distant opening with a bright sky and indistinct structures.
+end of description
+All subsequent frames are identical to the first, showing no dynamic changes, camera movement, or newly revealed objects or scenes from the first-frame viewpoint.
+frame_0000000384-frame_0000000512:
+The first frame displays a narrow pathway flanked by traditional wooden buildings, with a lighter-toned structure featuring a tiled roof and windows on the left, and a dark, vertically planked building on the right, both receding towards a bright, open distant area. The concrete path exhibits sunlit patches and areas with green moss along the base of the right wall.
+end of description
+As the frames progress, a distinct shadow, resembling a person, emerges and gradually moves across the pathway from the bottom-left toward the bottom-right relative to the initial viewpoint. No new objects or scenes are revealed; the static environment only shows the shifting position of this shadow on the ground.
+frame_0000000512-frame_0000000640:
+A narrow paved path stretches forward, bordered by weathered wooden buildings on both sides that recede into the distance. The left building shows windows with white frames, while the darker right building features red banners further along its facade. A bright sky appears beyond the distant opening, with the viewer's faint shadow cast on the path directly in front.
+end of description
+The subsequent frames display no dynamic changes or newly revealed objects, as the scene remains completely static from the first-frame viewpoint.
+frame_0000000640-frame_0000000768:
+The first frame presents a narrow paved alleyway flanked by traditional wooden buildings, with a weathered light brown structure featuring windows on the left and a darker building adorned with red fabric strips on the right. In the distance, the path opens to an open field area under a hazy sky, while a large green tree is visible above the right building.
+end of description
+No dynamic changes or newly revealed objects occur in the subsequent frames; the scene remains static.
+frame_0000000768-frame_0000000896:
+The viewer stands on a narrow paved path flanked by traditional Japanese structures under a bright sky, looking towards an open field in the distance. To the left, a weathered wooden building with a window extends forward, while to the right, a darker walled building with white panels, a tiled roof, and a red banner runs parallel, featuring moss at its base. A person's shadow is cast directly in front on the path, and a large gnarled tree is visible above the right building.
+end of description
+The camera subtly advances forward along the path, causing the buildings on both sides to gradually move further from the foreground relative to the first-frame viewpoint. The red banner on the right wall slightly sways, and the distant field and structures slowly become slightly clearer as the viewer progresses.

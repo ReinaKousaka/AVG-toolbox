@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame presents an upward-looking view into a dense forest canopy, with several tall tree trunks ascending from below on the left and center-left, their green foliage and branches sprawling across the upper and central areas, partially obscuring a bright, hazy sky overhead.
+end of description
+Subsequent frames show a slow, continuous upward and slight rightward camera pan, gradually revealing more of the bright sky directly above the initial viewpoint. This movement causes subtle shifts in the dappled sunlight across the tree canopy, all within the same forest scene relative to the first frame.
+frame_0000000128-frame_0000000256:
+The first frame shows a view looking straight up into a forest canopy, with tall tree trunks framing the edges and their dense green foliage obscuring much of the bright blue sky directly overhead, visible in patches through the leaves.
+end of description
+Throughout the subsequent frames, the viewpoint subtly pans upwards and slightly to the right, gradually revealing more of the lower trunks of the surrounding trees, particularly the prominent one in the bottom-right portion of the frame relative to the initial view. This slow shift further exposes the textured bark of these trees as they extend skyward, while the patches of sky and canopy overhead adjust accordingly.

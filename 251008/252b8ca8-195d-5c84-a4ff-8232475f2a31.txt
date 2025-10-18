@@ -1,0 +1,28 @@
+frame_0000000000-frame_0000000128:
+The viewer is positioned on a dark asphalt path, with a grey road and a metal guardrail extending to the left alongside a steep, lush, tree-covered hillside, and a utility pole visible on the far left. To the right, a white railing with mesh panels overlooks a body of water and a sandy/rocky shore, while in the distance, the path curves towards a prominent tree and distant hills under a clear blue sky.
+end of description
+The camera moves steadily forward along the path; the guardrail to the left and the white mesh railing to the right gradually recede from the immediate foreground, revealing more of the curving path ahead. As the viewpoint advances, new sections of the verdant hillside to the left and the coastal scenery to the right are continuously uncovered, while the distant tree and hills slowly become more prominent.
+frame_0000000128-frame_0000000256:
+In the first frame, a dark asphalt path extends from the viewer into the midground, gently curving towards the right. To the left of this path is an asphalt road, separated by a continuous metal guardrail. A steep, heavily vegetated hillside rises on the far left, bordering the road. On the right, a white barrier with mesh panels runs alongside the path, beyond which a body of water and a narrow shore are visible. In the background, hills stretch across the water, beneath a clear blue sky, with a large tree and a smaller one standing further along the path to the right.
+end of description
+Across the subsequent frames, there are no discernible dynamic changes or newly revealed objects; the scene remains static from the first-frame viewpoint.
+frame_0000000256-frame_0000000384:
+The first frame shows the viewer on a dark paved path, with a metal guardrail separating it from a grey road and a steep green hillside to the left. To the right, a white barrier with a wire mesh fence overlooks a body of water and a distant shore, all beneath a clear blue sky. Ahead, the path curves right towards a prominent large tree and distant hills.
+end of description.
+In subsequent frames, the viewpoint moves forward along the path, continuously revealing new segments of the path, the guardrail to the left, and the right-side barrier directly ahead of the initial first-frame viewpoint as the scene advances. The distant landscape, including the large tree and hills, remains visible ahead, gradually appearing closer.
+frame_0000000384-frame_0000000512:
+The viewer stands on a dark asphalt path, flanked by a paved road with a metal guardrail on the left, and a white fence with wire mesh overlooking a body of water and distant land on the right. A lush, tree-covered hillside rises on the left, while scattered trees, including a prominent large one in the mid-distance, line the right side. The expansive clear blue sky above reveals distant mountains on the horizon.
+end of description
+Subsequent frames depict a slight forward movement along the path, causing the foreground elements to subtly advance towards the viewer. The overall composition and the relative spatial positions of major objects remain largely consistent throughout the sequence.
+frame_0000000512-frame_0000000640:
+The first frame depicts a dark asphalt path extending forward from the viewer, flanked by a light grey guardrail and a paved road on the left, backed by an overgrown, rocky hill. To the viewer's right, a white barrier with mesh panels parallels the path, beyond which lies a gravelly slope. In the distance, under a clear blue sky, the path gently curves right towards distant hills and trees, with a prominent tall tree positioned on the right side above the barrier.
+end of description
+As the frames progress, the viewpoint steadily moves forward along the path. The guardrail on the left and the white barrier on the right gradually recede towards the background. The adjacent road and the overgrown hill on the left pass further to the left, while the landscape beyond the right barrier moves past. The distant hills and trees in the background slowly appear to enlarge, indicating continuous forward motion without revealing new objects or scenes.
+frame_0000000640-frame_0000000768:
+The first frame depicts a paved pathway extending forward, flanked on the left by an asphalt road with a silver guardrail alongside a rocky, vegetated hillside, and on the right by a white mesh fence; distant hills are visible under a clear blue sky straight ahead.
+end of description
+The viewpoint gradually moves forward along the pathway. As the camera progresses, the road and guardrail on the left recede, and the white mesh fence on the right passes by, revealing more of the open space beyond its end, all relative to the initial position.
+frame_0000000768-frame_0000000896:
+From the viewer's perspective, a dark paved path lies in the foreground, bordered on the left by a grey asphalt road with a metal guardrail and a stone retaining wall further left. To the right, a white gate is partially open, revealing a dirt embankment and trees, while a white fence lines a curved section of the path further ahead. Distant hills under a clear blue sky complete the scene.
+end of description
+The white gate on the viewer's right progressively swings wider open relative to its initial position, revealing more of the dirt embankment and vegetation previously obstructed behind it. Simultaneously, the viewpoint subtly advances forward and slightly right, showing more of the paved path that extends from the initial camera position.

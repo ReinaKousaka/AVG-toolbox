@@ -1,0 +1,10 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a wet asphalt road with a prominent white pedestrian crossing in the foreground, leading towards a large house in the background. This house, featuring a red-tiled roof, sits behind a grey brick wall with a central black gate and two garage doors to its right, flanked by green trees and bushes. A dark car is partially visible on the far right, while a red traffic cone and black pole are near the road on the far left.
+
+end of description
+
+Subsequently, the red cone and black pole on the far left disappear as a red SUV is revealed, parked fully on that side of the road. A black sedan then emerges from the far right, proceeding to drive left across the wet road and over the pedestrian crossing, passing the stationary red SUV.
+frame_0000000128-frame_0000000256:
+The first frame captures a wet street with a black sedan dominating the lower-left and foreground, moving left. To the right, a traditional-style gate with a red-tiled roof and a stone wall leads to a house on a hillside, while a crosswalk spans the mid-ground.
+end of description
+Subsequently, the black sedan exits left, fully revealing a red SUV parked on the street behind its initial position. Two orange traffic cones and a blue ADT sign become clearly visible on the sidewalk in front of the gate to the right, which were partially obscured earlier.

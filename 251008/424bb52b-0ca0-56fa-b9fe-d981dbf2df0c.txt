@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame captures a sunny street intersection with a busy crosswalk in the foreground where numerous pedestrians are actively moving across the street. To the viewer's left, a blue car is visible, alongside a light-colored building with scaffolding in the background, while a brown building dominates the background-right, with a yellow SUV stopped on the street in the mid-ground-right.
+end of description
+As the scene progresses, pedestrians continue their movement across the crosswalk. A white van emerges from behind the yellow SUV on the right, driving left across the mid-ground, and a scooter enters the frame from the far left, moving right, passing behind the foreground pedestrians. Additionally, more pedestrians, including an adult guiding a child, appear in the crosswalk from the left.

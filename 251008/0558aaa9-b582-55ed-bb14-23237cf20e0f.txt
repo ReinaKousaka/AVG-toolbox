@@ -1,0 +1,26 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a winter street scene featuring a red brick building dominating the left side, with multiple windows and a stone base. A light grey pole stands centrally, slightly left, dividing a snow-covered grassy area from a concrete sidewalk and an asphalt road with a yellow line to the right. A glass-enclosed pedestrian bridge spans the road ahead, connecting the brick building to a modern grey building partially visible on the far right.
+end of description
+As the viewpoint progresses forward and slightly right, the brick building on the left slowly recedes, revealing more of its lower sections. Concurrently, the modern grey building on the far right becomes increasingly visible, expanding into the frame from its right edge. The light pole shifts further leftwards in the frame, and the snow on the foreground ground gradually diminishes, exposing more of the sidewalk and surrounding terrain.
+frame_0000000128-frame_0000000256:
+The first frame shows a snowy urban pathway flanked by a red brick building on the left and a modern grey building on the right, connected overhead by a glass pedestrian bridge, with a paved road and a lamppost extending into the distance.
+end of description
+Throughout the subsequent frames, the viewer slowly moves forward along the paved path. This slight advancement causes the buildings, the overhead glass bridge, and the lamppost on the left to gradually appear larger and closer relative to the first-frame viewpoint. Consequently, a wider perspective of the street ahead, straight through the opening beneath the bridge, is progressively revealed. The snowy areas on the ground also shift closer towards the foreground as the viewpoint progresses.
+frame_0000000256-frame_0000000384:
+The first frame presents a street leading away from the viewer, bordered on the left by a red brick building and on the right by a modern building with gray panels and windows. Snow covers the ground to the street's left, while a yellow line marks the pavement's center. A glass skybridge connects the two buildings overhead in the mid-distance, beneath which a dark lamppost is visible.
+end of description
+The subsequent frames show no dynamic changes, newly revealed objects, or alterations to the scene; all elements remain static relative to the initial viewpoint.
+frame_0000000384-frame_0000000512:
+The first frame displays a street scene bordered by two multi-story buildings; a red brick building with balconies is on the left, and a modern grey and glass building is on the right. A glass-enclosed pedestrian bridge connects the two buildings overhead, while a paved road with a yellow centerline extends into the distance, flanked by snow-covered ground on both sides.
+end of description
+No dynamic changes or newly revealed objects occur across the subsequent frames, as the entire scene remains completely static relative to the first-frame viewpoint.
+frame_0000000512-frame_0000000640:
+The first frame captures a snowy urban path bordered by a brick building on the left and a modern grey building on the right, connected by an overhead glass skybridge. A paved road with a yellow line and a snow-dusted sidewalk recede under the skybridge, revealing more distant buildings beyond. end of description. Across the subsequent frames, the scene remains largely static with only imperceptible camera jitters causing minor visual noise, and no new objects or scenes are dynamically revealed relative to the initial viewpoint.
+frame_0000000640-frame_0000000768:
+The first frame shows a snowy scene with a brick building on the left and a modern glass-fronted building on the right, connected by an overhead glass skybridge. A lamppost stands in the foreground, left of center, with a paved road featuring a yellow line running between the buildings.
+end of description
+Throughout the subsequent frames, the lamppost gradually moves out of view to the left, indicating a subtle camera shift or pan to the right. Concurrently, the snow on the ground, particularly along the left side and in the foreground, visibly diminishes, revealing more of the underlying sidewalk and earth.
+frame_0000000768-frame_0000000896:
+A paved pathway with a yellow center line extends away from the viewer, flanked by snow-covered ground. To the left, a brick building with large windows is partially visible, with a grey pole positioned closer to the viewer than the building. To the right, a modern building with numerous windows is also partially seen. A glass-enclosed skybridge connects these two buildings overhead, spanning directly above the path and displaying a "CLEARANCE 14'-0''" sign. In the distance, beyond the skybridge, additional buildings and bare trees are visible.
+end of description
+Relative to the initial viewpoint, the camera subtly advances forward and slightly pans to the left. This gradual movement causes the grey pole on the left to appear slightly larger and shift further left in the frame. The buildings on both sides, and the connecting skybridge overhead, appear marginally closer and more expansive within the view. No new objects or scenes are revealed; the perspective simply deepens slightly into the existing scene.

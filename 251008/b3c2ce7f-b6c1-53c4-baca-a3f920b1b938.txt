@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a narrow cobblestone street lined with multi-story buildings. On the left, a potted plant stands near arched doorways and windows with hanging flower boxes; on the right, a shopfront with an awning gives way to an outdoor cafe area with tables, chairs, and a white umbrella, receding into the distance.
+end of description
+Throughout the following frames, the scene experiences subtle brightening. Crucially, two individuals appear further down the street, near the outdoor cafe tables on the right, becoming fully visible and stationary by the final frames.
+frame_0000000128-frame_0000000256:
+The first frame presents a narrow, cobbled alleyway extending into the distance, flanked by old stone buildings. On the immediate left, a large potted green plant sits before an arched window and grated door, while further down the right side of the alley, an outdoor cafe setup with tables, chairs, a white umbrella, and a red menu board can be seen.
+end of description
+Across the subsequent frames, a slow, continuous camera pan to the right occurs. This movement gradually reveals more of the leftmost building's stone wall and a small green plaque on its facade, previously obscured to the left of the initial viewpoint, while simultaneously shifting the entire scene rightward within the frame.

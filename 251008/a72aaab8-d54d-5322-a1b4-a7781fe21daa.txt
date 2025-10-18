@@ -1,0 +1,14 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a dark, wet residential street at night, with yellow lines marking its center, stretching into the distance away from the viewer. Parked cars are visible along both the left and right sides of the street in the mid-distance, while a brick building with a prominent window and some foliage stands on the right, all dimly illuminated by distant streetlights.
+
+end of description
+
+Throughout the following frames, the static scene is dynamically characterized by continuous, heavy rainfall visibly descending across the entire view, creating constant ripples and splashes on the wet asphalt and sidewalks. The rain intensifies the reflections from the streetlights on the glistening surface of the road.
+frame_0000000128-frame_0000000256:
+The first frame captures a dark, rainy night scene down a narrow, wet street. A bright street light in the mid-ground illuminates falling rain and the reflective road, which extends towards a dimly lit distance. To the left, a darker sidewalk runs parallel to the street with two parked cars further down, while on the right, a brick building with windows, lush foliage, and another parked car are visible.
+end of description
+Throughout the subsequent frames, the heavy rainfall continues consistently, with visible rain streaks persisting, especially intensified around the street light. The wet street surface constantly glistens, showing minor, continuous fluctuations in reflections and small puddles as the rain relentlessly falls. No new objects or changes in viewpoint are revealed.
+frame_0000000256-frame_0000000384:
+The first frame displays a dark, rain-soaked asphalt road at night, stretching into the distance and marked by yellow dashed lines. To the left, a striped utility pole and two parked cars are visible, while on the right, a brick wall with plants and another parked car are present, with a building in the background. Heavy rain is visibly falling continuously across the entire scene, illuminated by a distant streetlamp.
+end of description
+Throughout the subsequent frames, the heavy rain continues to fall relentlessly across the entire scene, splashing on the wet road and creating shimmering reflections, with no newly revealed objects or scenes.

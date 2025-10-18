@@ -1,0 +1,6 @@
+frame_0000000000-frame_0000000128:
+A dark gray SUV occupies the viewer's immediate left foreground. Ahead, an urban intersection unfolds with prominent crosswalks; a brightly lit Taco Bell building, adorned with neon signs, stands across the street in the center-midground. To the viewer's right, other vehicles are visible on an intersecting street, beneath a red traffic light and a distinctive yellow McDonald's arch sign. Tall city buildings, illuminated by artificial light, define the background, with a green "W 36 St" sign visible high above the Taco Bell.
+
+end of description
+
+The traffic light on the viewer's right changes from red to green, prompting a silver sedan in the central intersection to begin moving forward, away from the viewer. A group of pedestrians simultaneously starts crossing the crosswalk from the viewer's left side towards the Taco Bell building. Concurrently, a black SUV and a red SUV on the viewer's far right also start advancing through the intersection. Another white car appears from the viewer's left, moving onto the crosswalk behind the foreground SUV. As cars and pedestrians continue through the intersection, a new person in a red shirt, carrying a box, emerges from the viewer's far right, walking leftwards across the foreground.

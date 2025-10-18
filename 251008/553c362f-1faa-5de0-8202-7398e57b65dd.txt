@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+A wet street scene is visible, featuring a dark car parked in the foreground-left, followed by a blue pickup truck and a small white guard booth to its right and further back. To the viewer's right, a brick wall with a large brown garage door extends into the mid-ground, while distant houses and lush greenery fill the background.
+end of description
+The dark car then slowly moves forward and exits the frame to the viewer's left, incrementally revealing the wet asphalt and the yellow parking line that was previously behind and beneath it from the initial viewpoint.
+frame_0000000128-frame_0000000256:
+A blue pickup truck is partially visible on the left foreground, parked next to a small white building with a dark roof, all situated on a wet asphalt road. Further ahead, an orange traffic cone stands near ivy-covered dark gates, while a brick wall with a white fence lines the right side of the road, leading to a distant white garage door.
+end of description
+Over the subsequent frames, the wetness on the road intensifies, and a noticeable accumulation of water develops, particularly in the middle of the road, spreading and forming more prominent puddles. This dynamic change occurs on the road surface, remaining in the same general spatial position relative to the first-frame viewpoint.
+frame_0000000256-frame_0000000384:
+The first frame displays a wet, dark paved surface in the foreground, showing ripples from rainfall. To the viewer's left, a white building with an orange side wall stands, accompanied by a potted plant and two orange traffic cones further back. On the right, a brick wall extends towards the midground, with a drain grate visible in the immediate foreground. In the midground, two black metal gates within a brick archway are visible, flanked by a white garage door to their right, all backed by an ivy-covered wall and dense foliage extending upwards.
+end of description
+As the frames progress, the viewpoint subtly shifts right, revealing more of the street ascending into the distance on the right. A yellow rectangular sign with a red circular emblem, previously obscured by the right brick wall, becomes increasingly visible above the white garage door. Subsequently, a significant volume of water begins to rush down the newly revealed sloped street from the upper right, creating visible streams and splashes on the wet pavement.

@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame captures a sunny outdoor market scene on a wooden boardwalk. In the foreground, a red information board is positioned to the far left, and a tall light pole stands slightly right of center. The midground features several white-tented market stalls bustling with people to the right, adjacent to a small reddish kiosk further left, all backed by a city skyline and an elevated structure.
+end of description
+The viewpoint then slowly pans right, causing objects on the left (like the red information board) to gradually move further left and eventually out of sight. This motion simultaneously reveals more of the market stalls and the building that were initially positioned just outside the right edge of the first frame, as people continue to walk and interact within the market area.
+frame_0000000128-frame_0000000256:
+The first frame displays a wide wooden boardwalk under a clear sky, with a market on the right featuring multiple white tents, goods, and people. To the left, a red information stand is visible, and two people walk towards the viewer in the mid-ground, passing an orange cone and a small red and grey booth, with city buildings and an elevated structure in the background.
+end of description
+Subsequent frames show the camera slowly panning rightward, causing the red information stand on the far left to move out of view while revealing more of the market tents to the right. Concurrently, the two individuals in the mid-ground walk closer, increasing in size as they approach the first-frame viewpoint.

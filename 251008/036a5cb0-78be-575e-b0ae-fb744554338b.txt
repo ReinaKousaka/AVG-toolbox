@@ -1,0 +1,28 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a city street scene from a sidewalk perspective. To the left, a road with black railings, trees, and distant buildings runs parallel. On the right, a modern building and a parked blue box truck are visible, while three pedestrians, including one in a blue jacket with a backpack on the far right near an A-frame sign, walk away from the viewer along the sidewalk.
+end of description
+In subsequent frames, the person in the blue jacket moves further away and exits the frame to the right of the initial viewpoint. The two central pedestrians continue walking forward, receding into the distance along the sidewalk.
+frame_0000000128-frame_0000000256:
+The first frame depicts a city sidewalk in the foreground, featuring a dark stone in the lower-left and a black railing on the left. Two people walk away from the viewer on the sidewalk, positioned between a tree to their left and a blue delivery truck parked on the right, next to a modern building. A road and additional buildings are visible in the background to the left.
+end of description
+In the following frames, the two individuals consistently move further away from the viewer along the sidewalk, progressing into the midground, while all other objects remain in their initial positions.
+frame_0000000256-frame_0000000384:
+In the first frame, a wide paved sidewalk extends from the bottom of the viewer's perspective towards the background. To the left, a street runs parallel, separated by a black fence and a tree with green foliage. Two people, seen from behind, walk away from the viewer on the sidewalk; one in a light jacket and one in a dark jacket with tan pants. To the right of these individuals, a blue truck with a silver box cargo area is parked facing slightly towards the viewer, occupying the right side of the sidewalk. In the background, multiple buildings rise, and a bridge structure is visible over the distant street.
+end of description
+The blue and silver truck, initially parked on the sidewalk to the right of the viewer, begins to pull forward and further to the right. As the truck moves away, more of the building facade it was obscuring becomes visible to the right. Concurrently, the two people on the sidewalk continue walking further away from the viewer towards the background. The distant red vehicle on the street also appears to move slightly further into the background.
+frame_0000000384-frame_0000000512:
+The first frame shows the viewer's perspective from a sidewalk, with a large blue and silver truck parked along the right side. Two people are walking away from the viewer on the sidewalk, passing a tree to their left, while a road with a black fence runs parallel to the sidewalk on the far left. In the distant background, buildings, a bridge, and a yellow car driving away on the road are visible under an overcast sky.
+end of description
+Throughout the subsequent frames, the two individuals continue walking further away from the first-frame viewpoint along the sidewalk. Simultaneously, the yellow car on the road also moves further away and eventually exits the left side of the frame, while the truck remains stationary on the right.
+frame_0000000512-frame_0000000640:
+The first frame presents a sidewalk scene with a delivery truck on the far right, displaying "Shonan Liner" text. To the left, a street runs parallel, separated by a black fence, where a gold car moves left, followed by a dark SUV. Two pedestrians walk away from the viewer on the paved sidewalk, with a tree on the mid-left and a glass-fronted building extending into the background on the right, under an overcast sky.
+end of description
+The viewer moves forward, causing the tree and the truck to shift slightly backward in the frame, revealing more of the truck's underside. The two pedestrians continue walking further into the distance ahead of the viewer. Concurrently, the gold car on the street exits left, a dark SUV moves into view, and then a black minivan enters from the right, all traveling leftward across the street.
+frame_0000000640-frame_0000000768:
+The initial frame depicts a paved sidewalk extending forward, with a tree trunk in the foreground left and a building with large glass windows lining the right. Along the left, a fence separates the path from a street where a gray car moves from left to right; two individuals walk away from the viewer towards a concrete staircase and an elevated pedestrian bridge in the mid-ground, with distant high-rises.
+end of description
+Throughout the following frames, both people continue walking forward, nearing the base of the stairs and receding further from the viewer's original position. Simultaneously, the gray car progresses further to the right along the street, gradually disappearing off-frame right relative to the initial viewpoint.
+frame_0000000768-frame_0000000896:
+The initial frame presents a paved city sidewalk leading away from the viewer, flanked by a black metal fence and a road with a white minivan on the left, and a large building with reflective glass windows on the right. In the midground, two people walk away from the viewer towards a large concrete pedestrian overpass with stairs, where an orange traffic cone is situated at its base, all set against a backdrop of distant tall buildings.
+end of description
+As frames progress, the two individuals continue walking deeper into the scene towards the pedestrian overpass, eventually passing the orange cone. The white minivan on the road moves out of view to the left, and subsequently, a yellow taxi appears from the left, driving past the first-frame viewpoint.

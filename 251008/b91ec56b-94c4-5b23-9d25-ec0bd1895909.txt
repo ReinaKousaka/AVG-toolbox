@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame presents an aerial view of a city at sunset, with the golden sun low on the distant horizon, slightly left of center. A partially constructed, multi-tiered skyscraper with a large yellow crane dominates the mid-ground directly in front of the viewer, surrounded by numerous other tall buildings and a river flowing towards the right in the background.
+end of description
+As the frames progress, the viewpoint subtly zooms out and slightly pans left, causing the central structures to appear smaller. This motion gradually reveals more of the sprawling cityscape to the viewer's left and below the initial first-frame viewpoint, exposing additional buildings and streets.
+frame_0000000128-frame_0000000256:
+The initial frame displays an aerial cityscape at sunrise or sunset, with a bright orange sun in the upper background, illuminating numerous skyscrapers filling the midground and foreground. A tall yellow construction crane stands prominently to the left of a partially built, curvilinear high-rise in the center, flanked by other completed buildings. The sprawling city extends into the hazy distance, with a river visible far to the right and a white domed structure in the mid-background.
+end of description
+Over subsequent frames, the viewpoint subtly pulls back and shifts left relative to the initial position. This motion causes the central partially built skyscraper and the yellow crane to move progressively towards the left side of the frame. Concurrently, more structures and parts of the city become visible, revealed from what was initially to the right and directly below the first-frame viewpoint.

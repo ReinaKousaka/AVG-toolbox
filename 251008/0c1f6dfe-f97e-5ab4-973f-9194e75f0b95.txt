@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+From a low-angle driving perspective, a winding asphalt road extends forward and slightly to the left. Immediately to the viewer's left is a large, textured rock face, while a metal guardrail runs along the road's right edge, bordering a steep, forested valley containing a visible riverbed. Distant, tree-covered mountains rise on both sides of the valley under a partly cloudy blue sky.
+end of description
+The viewpoint steadily moves forward along the road. The rock face on the left continuously recedes as new sections of the road and guardrail emerge directly in front of the viewer. The distant mountain landscape and valley gradually approach, showcasing a continuous progression through the mountainous terrain.
+frame_0000000128-frame_0000000256:
+The first frame displays a mountain road curving gently left, extending from the foreground into the distance. A steep, rocky cliff face rises immediately to the left, while a concrete barrier with a metal guardrail runs along the right, overlooking a forested valley with a riverbed descending towards distant, dark mountains ahead. Above, a blue sky with white clouds is visible in the upper center.
+end of description
+As the frames progress, the viewpoint moves forward along the road. The rocky cliff and the right-side barrier with its guardrail move from the mid-ground into the foreground and then recede behind the viewer, continuously to their respective sides relative to the road. The distant mountain landscape ahead remains visible as the scene subtly shifts, indicating forward motion.
+frame_0000000256-frame_0000000384:
+The first frame presents a view down a paved mountain road that curves gently to the left. A steep, rocky mountain face rises immediately to the viewer's left, while a metal guardrail runs along the right edge of the road, overlooking a densely forested valley with a riverbed below and distant, taller mountains under a blue, cloudy sky.
+end of description
+In the following frames, the scene dynamically shifts as the viewer moves forward along the road; the rocky mountain face to the left and the guardrail on the right progressively approach and move past the viewer's initial position, indicating continuous traversal of the mountain pass.

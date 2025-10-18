@@ -1,0 +1,13 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a wet street at night, looking down a road extending away from the viewer. To the immediate right, a brick building borders a sidewalk with a white crosswalk and yellow tactile paving, where a purple electric scooter is parked upright next to a planter box. To the left, the wet road with yellow markings reflects streetlights, with various buildings and trees lining both sides further down.
+
+end of description
+In subsequent frames, the purple electric scooter, initially positioned on the sidewalk to the right of the viewer, gradually moves out of view as the viewpoint subtly shifts forward and right, revealing more of the brick building facade. Simultaneously, reflections on the wet road and sidewalk subtly change as distant car headlights move further down the road.
+frame_0000000128-frame_0000000256:
+The first frame depicts a wet, nighttime street scene with a dark sky overhead. To the viewer's right, a brick building with large glass windows and a green shrub in the foreground runs parallel to a sidewalk with tactile paving. To the viewer's left, a wet asphalt road with a prominent yellow dividing line extends into the distance. Streetlights illuminate the path, with a bright white light, likely a car headlight, visible in the far distance on the road. Buildings and sparse trees line the left side of the street, further away.
+end of description
+A bright white light, emanating from a vehicle's headlights in the distance on the road, progressively moves closer to the viewer. Simultaneously, a faint red light trail, likely from a vehicle's taillights, appears on the far left side of the road and extends towards the viewer. The reflections on the wet road and sidewalk subtly shift and brighten as these vehicles approach.
+frame_0000000256-frame_0000000384:
+The first frame depicts a wet, dark street at night, viewed from a sidewalk, extending into the distance under streetlights. To the viewer's right is a brick building with storefront windows and an awning; to the left, smaller buildings line the road, with vehicle headlights visible far ahead on the wet asphalt.
+end of description.
+Subsequently, a car with distinct red taillights dynamically appears in the mid-distance on the road's left side, traveling towards the viewer. This vehicle continues moving closer, reflecting on the wet road, and then proceeds past the viewpoint, exiting to the left of the frame.

@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+In the first frame, a wet, dark road curves from the bottom left foreground towards the mid-ground. To the left of the road, a stone house with a dark tiled roof and multiple windows stands, fronted by a grassy lawn and a small, bare tree. To the right of the road, a dense green and yellowish-green bush forms a hedge, behind which a building with a thatched roof is partially visible on the far right. Overcast skies are overhead, and more bare trees are visible in the background beyond the houses.
+end of description
+The viewpoint slowly moves forward and slightly to the left, progressively revealing more of the stone house and the grassy area to its left. The wet road in the foreground also shifts further left, bringing more of its surface into view. Concurrently, the dense bush on the right side of the road recedes towards the right edge of the frame, diminishing the visibility of the thatched-roof building which moves further out of view to the right.
+frame_0000000128-frame_0000000256:
+The first frame features a central two-story, light-colored stone house with a dark roof, flanked by several bare-branched trees on a green grassy patch in front of it. A wet, dark road curves from the foreground right towards the left, with distant trees and a hedge visible on the far right under an overcast sky.
+end of description
+As the viewpoint pans left across the scene, a stone wall and an archway are progressively revealed to the far left of the initial frame's composition. Concurrently, a tall evergreen tree emerges on the extreme left, while the rightmost parts of the house and distant scenery recede from view.
+frame_0000000256-frame_0000000384:
+In the foreground, a wet asphalt road with puddles curves right, bordered by green grass. A stone cottage with a shingle roof and a bare tree stand midground right, while a low stone wall extends midground left, with distant trees and an overcast sky completing the scene.
+end of description
+Subsequent frames show the viewpoint steadily moving to the right of its initial position. This movement causes the bare tree to shift left within the frame, progressively revealing more of the stone cottage's right facade and its windows that were initially behind the tree and to the viewer's right. Simultaneously, the stone wall on the left appears to recede and less of its leftmost section remains visible from the first-frame viewpoint.

@@ -1,0 +1,30 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a wet, narrow alley at night with glowing yellow lanterns overhead. To the viewer's left, a building with windows shows seated patrons, and a person's back is in the immediate foreground; to the right, an orange "RAMEN ICHIKAKUYA" sign and stacked yellow crates line another building with paper lanterns, leading to an entrance. In the middle distance, a person holding a black umbrella stands facing away.
+end of description
+This person then turns to face the viewer and walks forward down the alley, eventually approaching the foreground while holding the umbrella.
+frame_0000000128-frame_0000000256:
+The first frame displays a narrow, wet alley at night, illuminated by numerous lanterns, with a man holding an open black umbrella on the left, stepping out of a warmly lit doorway. To the right, stacked yellow 'KIRIN' beer crates line the wall beneath electrical boxes, and a large white lantern hangs prominently.
+end of description
+Over the following frames, the man with the umbrella walks past the viewer's initial position, moving progressively further left and eventually out of frame. His departure reveals more of the doorway entrance on the left, but no new objects or scenes emerge from behind or to the sides of the first-frame viewpoint.
+frame_0000000256-frame_0000000384:
+In the first frame, a narrow, wet alleyway extends into the distance, flanked by buildings. To the immediate right, three yellow "KIRIN" beer crates filled with bottles are stacked. On the left, a bicycle draped in a light-colored tarp sits beside a red sign with Japanese text. Above, yellow lanterns and red-orange foliage are strung across the alley, illuminating the path. The right building wall features a glass storefront adorned with numerous signs and visible interior lighting, while the left wall is darker and covered in posters and stickers.
+
+end of description
+
+As the viewpoint progresses, the stacked beer crates on the right move out of frame downwards, revealing more of the storefront's interior and additional signage. Simultaneously, the covered bicycle and red sign on the left move past the viewer, with more of the poster-covered left wall becoming visible before it too begins to move out of frame to the left. The forward motion continues down the brightly lit alley, exposing more of the building facades further ahead.
+frame_0000000384-frame_0000000512:
+The first frame presents a narrow, wet alleyway illuminated by hanging yellow and blue lanterns overhead. To the viewer's immediate left, a tarp-covered object rests beside red crates, one displaying a white sign with Japanese text. On the right, a shop entrance with glass and numerous signs opens to a counter, where a person's head is faintly visible, while the alley recedes into the background lined with more establishments.
+end of description
+In subsequent frames, a woman sitting inside the shop on the right becomes increasingly clear, eventually revealing an umbrella near her seat. Later, a bearded man joins her at the counter, sitting to her right, as both look down. Concurrently, a blue container becomes visible behind the red sign on the left side of the alley.
+frame_0000000512-frame_0000000640:
+The first frame depicts a narrow, wet alleyway at night, lined with buildings illuminated by lanterns and red maple leaves. To the immediate right, an open bar features a woman using her phone and a bearded man seated at a counter beneath a large orange lantern, while a building entrance is on the left, and distant figures with umbrellas are seen further down the alley.
+end of description
+The viewpoint shifts forward into the alley, causing the bar's occupants and interior on the right, and a container on the far left, to move out of frame. Concurrently, the prominent orange lantern on the right recedes, and a red "BAR" sign on the left becomes more centrally visible as the path ahead is revealed.
+frame_0000000640-frame_0000000768:
+A narrow, wet alley is visible, illuminated by various lanterns at dusk or night. To the immediate left, a red 'BAR' A-frame sign stands before a building adorned with red faux autumn leaves. The right side features a wall with posters and a mesh curtain, topped by a large pink lantern. Yellow lanterns hang across the alley overhead, which recedes into the distance where two figures are walking away from the viewer.
+end of description
+The viewpoint slowly progresses forward into the alley. The 'BAR' sign and the wall on the right with the mesh curtain gradually move towards the bottom edges, receding from view. As the camera advances, a stack of white crates becomes visible on the left side of the alley, beyond the initial bar entrance. The two figures ahead grow larger and clearer, and a "TOILET" sign becomes more distinct on the left wall above them.
+frame_0000000768-frame_0000000896:
+The first frame depicts a narrow, wet alleyway at night, illuminated by numerous glowing lanterns and Japanese signs, with multi-story buildings lining both sides. On the left, a dark-curtained establishment features a stacked 'Asahi' crate, while the right side displays a wooden facade with an awning and a partially visible translucent curtain. At the distant end of the alley, two figures, one in white and one in dark clothing holding an umbrella, stand near a 'TOILET' sign beneath more yellow lanterns and red-orange foliage.
+end of description
+Throughout the subsequent frames, the two figures at the alley's distant end subtly shift their postures, with the person in dark clothing turning their head slightly. Simultaneously, the translucent curtain on the far right exhibits minor swaying movements. A subtle widening of the view on the left side reveals more of a "BAR" sign and a white hanger, positioned closer to the viewer.

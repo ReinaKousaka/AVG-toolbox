@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a low-angle view of two buildings: a tall, scaffolded structure covered in light gray mesh on the left and a more ornate, light-stone building with arched windows and a decorative gable on the right, all beneath a blue sky with white clouds.
+end of description
+The camera pans slowly to the left, progressively revealing more of the long, scaffolded building that extends further to the left of the initial view, while the ornate building on the right moves out of the frame. Subsequently, a greater horizontal extent of the scaffolded structure becomes visible, and bare tree branches emerge in the bottom-left foreground relative to the initial viewpoint.

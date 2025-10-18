@@ -1,0 +1,17 @@
+frame_0000000000-frame_0000000128:
+First, a paved road stretches ahead from the viewer under a sunset sky, with a white building and a blue sign visible to the left. A large blank road sign and a utility pole are prominent ahead in the midground, while on the right, higher white buildings are partially obscured by structures.
+end of description
+As the viewer moves forward, the road sign and utility pole move left out of frame, revealing more distant hills and bringing the white car and red scooter closer on the road. The buildings on the right become clearer, showcasing traditional architecture with tiled roofs and green window frames, and a flock of birds appears flying above them to the right.
+frame_0000000128-frame_0000000256:
+In the first frame, a paved road extends into the distance, curving slightly right, with a faint white center line, placing the viewer on the road looking forward. To the left, several white and dark-framed buildings with dark roofs are nestled amidst trees and a low stone wall parallels the road. On the right, a large wooden utility pole with multiple overhead power lines stands prominently, with darker, tree-obscured buildings and a hillside further behind it. In the mid-distance on the road, a white car is followed by a person on a motorcycle, while hills covered in trees line the horizon under a sky displaying hues of dusk with scattered clouds.
+end of description
+As the frames progress, the viewpoint moves forward along the road. The white car, initially in the distance, approaches and turns left onto an unseen path, while the motorcycle follows, then turns right onto a newly revealed side road past the initial utility pole's position. The prominent utility pole on the right moves past the viewer, uncovering a new solar-powered street light and more of the stone wall along the road's edge. The buildings on both sides progressively grow larger and then recede as the viewer advances deeper into the village.
+frame_0000000256-frame_0000000384:
+The first frame displays a paved road stretching into a rural village at dusk, flanked by a stone wall and buildings among trees on the left, and a prominent utility pole, another building, and foliage on the right. In the mid-distance along the road, a white car is followed by a person on a scooter, with rolling hills under a cloudy sky forming the backdrop.
+
+end of description
+As the viewpoint moves forward into the village, the road, buildings, and surrounding foliage on both sides become progressively closer and larger. The white car and scooter ahead maintain their relative positions but appear to recede as the viewer advances. Notably, a new utility pole with a solar panel emerges to the viewer's immediate left from the seventh frame, while the initial utility pole on the right moves towards the frame's edge.
+frame_0000000384-frame_0000000512:
+The first frame shows a road leading forward between multi-story buildings on either side, with low stone walls along the roadside. A large tree stands ahead, backed by a green mountain, while a white car and a red scooter are visible further down the road.
+end of description
+As the viewpoint advances along the road, the car and scooter ahead appear closer. Simultaneously, a new motorcycle with a rider emerges from behind the first-frame viewpoint on the left and then passes it, continuing forward along the road.

@@ -1,0 +1,13 @@
+frame_0000000000-frame_0000000128:
+The first frame captures a rainy night urban scene with a wet, patterned sidewalk occupying the left foreground. A prominent dark pole stands to the immediate right, while a long hedge separates the sidewalk from a glistening wet road in the midground, where multiple cars with bright headlights recede into the distance amidst city buildings and streetlights.
+end of description
+A light-colored SUV initially drives away on the midground road, moving from right to left, followed by a blue bus appearing from the far right and moving left across the background. Additional vehicles continually traverse the wet road, splashing water as they move further away from the viewer.
+frame_0000000128-frame_0000000256:
+The first frame displays a rain-slicked urban street scene at night, with a patterned sidewalk occupying the left foreground and a dense green hedge running along the right, separating the sidewalk from the road. Beyond the hedge, a wet road reflects numerous streetlights and distant building lights, with a dark vehicle showing bright headlights positioned in the mid-ground, driving away to the right. Bare trees stand behind the hedge, and city buildings along with illuminated signs are visible in the far background.
+end of description
+Throughout the following frames, visible rain streaks become increasingly pronounced across the scene, particularly in the air and reflecting off the wet surfaces. The dark vehicle on the road continues to move away to the right as another white car appears behind it and also moves forward. Subsequently, a white van emerges from the background on the right side of the road, proceeding away from the viewer, while water splashes and reflections intensify, especially around vehicles on the road.
+frame_0000000256-frame_0000000384:
+The first frame displays a wet, dark city street at night, viewed through a rain-streaked window, showing a paved sidewalk leading into the distance. To the viewer's left are a blue tarp-covered object and a low stone wall with bollards, while to the viewer's right, a green hedge borders a wet road with visible vehicle headlights and numerous streetlights reflecting on the saturated surfaces.
+
+end of description
+A white truck with bright headlights, initially distant on the road to the viewer's right, moves closer and then passes by, exiting the frame to the right, while other vehicles similarly progress. The reflections and distortion from the continuous heavy rain persist across the scene throughout the sequence.

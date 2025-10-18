@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+In the first frame, an aerial view shows a house with a dark grey, multi-gabled roof occupying the upper-middle to right portion of the scene. A brick pathway extends from the house's front towards the bottom center, flanked by green lawns. To the far left, a grey road runs diagonally, with a sidewalk parallel to it, and a prominent tree with reddish-orange foliage stands near the road to the left of the house. Green trees are also visible in the bottom right corner, and white pergola-like structures are attached to the house's sides.
+end of description
+As the frames progress, the camera slowly ascends and pulls back, causing the entire scene, including the house, road, and trees, to subtly shrink in size. This movement reveals more of the surrounding neighborhood, specifically a portion of another house and its lawn appearing in the upper right relative to the initial viewpoint.

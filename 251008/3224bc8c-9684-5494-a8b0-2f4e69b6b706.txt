@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+From the viewer's elevated perspective, a paved path descends, dappled with sunlight and shadows. A white Fiat 500 car is parked facing away in the mid-left, backed by an external three-story metal staircase attached to an old brick building on the far left. To the right, a wooden fence parallels the path, bordering a downward slope densely forested with tall trees, beyond which distant rooftops are visible under a bright blue sky.
+end of description
+Across the following frames, the scene remains static; no dynamic changes occur, nor are any new objects or scenes revealed, apart from negligible, almost imperceptible shifts in the shadows on the ground.
+frame_0000000128-frame_0000000256:
+A white Fiat 500 car, facing away, is parked centrally on a sun-dappled paved area, backed by a multi-story metal external staircase. To the viewer's left stands a light brick building with a reddish wooden door and a blue utility box attached to its facade. To the right, a wooden fence lines a path bordered by tall trees overlooking a distant town with buildings and terracotta roofs.
+end of description
+The viewpoint slowly recedes backward and slightly to the left, revealing more of the light brick wall and utility boxes to the viewer's left. This movement also slightly expands the view of the distant town scenery beyond the wooden fence and trees on the right.
+frame_0000000256-frame_0000000384:
+In the first frame, a white Fiat 500 car is parked with its rear facing the viewer, occupying the lower-left foreground on a paved surface. To its immediate left and behind it, a light-colored stone building features a dark brown wooden door and an external metal staircase ascending upwards. To the right of the car, a sloped pathway leads into the midground, bordered on its right by a rustic wooden fence and several tall pine trees; beyond these, a townscape with buildings and roofs extends into the background under a blue sky.
+end of description
+Over the subsequent frames, the camera slowly moves forward and slightly to the right relative to the initial viewpoint. This shift in perspective causes the parked car to appear to recede slightly to the left, revealing more of the pathway ahead. The metal staircase and the wooden fence on the right become more central and slightly closer, unveiling additional details of the townscape beyond the fence as the viewer advances along the path.

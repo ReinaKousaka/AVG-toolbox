@@ -1,0 +1,20 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a bustling pedestrian street flanked by multi-story buildings housing shops with various signs, stretching into the distance under a clear sky. In the foreground, a tall lamppost and a trash can are on the far left, while a woman in a brown jacket stands next to a large vertical billboard displaying two people, positioned on the left side of the wide paved path. Numerous pedestrians populate the midground and background, either walking away from the viewer or standing, with a small green tree on a planter located centrally on the path.
+end of description
+Subsequent frames reveal dynamic changes as pedestrians move along the street. The woman in the brown jacket on the left shifts slightly forward and to her right relative to the initial viewpoint. The two individuals directly past the billboard continue walking further into the background, as does the person with the white backpack on the far right. Other people in the midground also exhibit forward movement or subtle changes in posture, reflecting the continuous flow of pedestrian traffic down the street.
+frame_0000000128-frame_0000000256:
+The first frame shows a bustling pedestrian street with a large, tilted white billboard displaying two models in the foreground left. Multiple pedestrians are walking away from the viewer or standing throughout the mid-ground, interspersed with trees in stone planters, while storefronts line both sides of the street, extending into the background.
+end of description
+Across subsequent frames, the main dynamic change involves the subtle forward movement of several pedestrians in the mid-ground. The individual in the patterned black jacket and the person in the dark blue jacket notably progress further away from the viewer, while other groups of people on the right side of the street also show minor shifts in their positions relative to the static environment.
+frame_0000000256-frame_0000000384:
+The first frame captures a lively pedestrian shopping street, with numerous people scattered across the paved ground, predominantly walking away from the viewer into the mid-ground and background. To the left, a planter with small green trees and red arched structures occupies the mid-ground, while storefronts like 'HIA' and a digital billboard line the left side of the street, mirroring other shops including one with an 'ANTA' sign on the right.
+end of description
+Throughout the subsequent frames, the pedestrians, including those initially in the foreground on the right, dynamically shift their positions relative to the first-frame viewpoint, moving further into the background or crossing the street, while the stationary street elements and buildings remain fixed.
+frame_0000000384-frame_0000000512:
+The first frame shows a pedestrian street looking forward, lined by buildings with various storefronts on both sides, populated by many people walking away from the viewer. To the viewer's immediate left, a landscaped area contains small trees, concrete benches, red sculptures, and a parked red scooter.
+end of description
+In subsequent frames, the pedestrians, notably the couple in the central foreground and groups on the right, continuously move further away from the viewer down the street. Other individuals gradually shift position or enter the scene from the right edge, maintaining their forward motion relative to the fixed viewpoint.
+frame_0000000512-frame_0000000640:
+The first frame depicts a bustling urban pedestrian street flanked by commercial buildings. In the left foreground, a red scooter is parked beside a small tree in a concrete planter, where a person is seated, with a red arch structure further left. Numerous pedestrians fill the midground. Shops displaying 'HLA' are on the left background, and signs like 'ANTA' and '康乐冰品' adorn buildings receding along the street's right side.
+end of description
+As the frames progress, pedestrians in the midground continue walking; those approaching the viewer, such as the person with a red bag, move closer and shift right, while others walking away recede into the distance relative to the stable background.

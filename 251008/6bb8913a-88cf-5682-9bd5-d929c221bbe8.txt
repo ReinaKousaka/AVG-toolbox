@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a cobblestone street directly in front with a white arrow pointing forward, flanked by a sidewalk and lamppost on the left and a darker paved road curving right. To the left, a green hedge atop a stone wall leads into trees and buildings; to the right, a large building with orange-brown panels has a recessed entrance with blue and red signs, revealing parked cars further down the street. In the distance, mountains are visible under a clear blue sky.
+end of description
+The viewpoint advances steadily down the street. The lamppost on the far left exits the frame, and a white sign on the hedge wall becomes visible as the camera moves past it. Simultaneously, a tall, white vertical sign emerges to the right of the right-hand building's entrance.
+frame_0000000128-frame_0000000256:
+The first frame displays a cobblestone street intersection; a round green planter is in the center, and a tall hedge with a large tree borders the left. On the right, a large red-brown building with an underpass is visible, featuring a 3.7m height limit sign and an arrow, while a white building and parked cars line the street beyond.
+end of description
+The viewpoint shifts forward and slightly right, revealing more of the street ahead and the underpass entrance on the right, which now clearly shows a "max 3.70m" sign. The street sign previously partially hidden by the planter on the left becomes fully visible, displaying directions to "Teatro Sociale." The original 3.7m sign on the right moves out of frame as the viewer progresses.

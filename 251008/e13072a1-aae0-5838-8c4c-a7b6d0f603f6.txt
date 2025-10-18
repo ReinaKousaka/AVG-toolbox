@@ -1,0 +1,16 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a woman in a pink cardigan and black pants, holding a pink drink and a 'ZARA' shopping bag, positioned in the left foreground on a bustling city sidewalk. To her left are storefronts with display windows, while to her right, a street bustles with vehicles and pedestrians further back, leading to distant tall buildings and yellow outdoor umbrellas.
+end of description
+As the frames progress, the foreground woman walks past the viewer towards the right and exits the scene. Simultaneously, several pedestrians, previously in the midground, move closer to the viewer's initial position on the sidewalk, with a red-haired woman and another in a leopard print top becoming more prominent as they walk from right to left. A new woman in a white top and jeans holding a drink also emerges on the far left, walking towards the viewer.
+frame_0000000128-frame_0000000256:
+In the first frame, a city sidewalk extends from the foreground to the background. In the foreground, a person with red hair is partially visible on the far left, while a woman in a leopard print jacket walks towards the viewer in the center-left. Along the left midground are storefronts, and on the right midground, a street features parked vehicles, an outdoor dining area under yellow umbrellas, and blue recycling bins.
+end of description
+As frames progress, the foreground figures move past the viewer to the left, revealing an A-frame menu board positioned to the viewer's immediate left. Other pedestrians continue walking away from the viewer in the midground, maintaining the street's busy atmosphere.
+frame_0000000256-frame_0000000384:
+The first frame depicts a city sidewalk featuring storefronts on the left, an A-frame sign for 'coffee, matcha' in the foreground, and pedestrians walking away past a 'BABBO PIZZA' sign in the midground center, with parked vehicles, bicycles, and people under a yellow awning on the right.
+end of description
+In subsequent frames, the pedestrians in the center midground continue walking further away from the initial viewpoint, gradually diminishing in size as they move towards the background. The red 'BABBO PIZZA' A-frame sign subtly shifts to the right relative to its original position, becoming slightly less central in the midground. No new objects enter the scene from previously unseen areas.
+frame_0000000384-frame_0000000512:
+The first frame depicts a city sidewalk scene. To the viewer's left, a storefront showcases clothing, adorned with pink flowers and a "TRAP PIZZA" neon sign, with a clothing rack positioned outside. To the right, a red "Traditas Pizza" A-frame sign stands near a parked bicycle, scooter, and a large plant pot, with an SUV further down the street and pedestrians walking away.
+end of description
+As frames progress, a man in a blue suit, initially in the midground on the left sidewalk, walks towards the viewer, passing the clothing rack and moving into the foreground. Simultaneously, other pedestrians in the midground continue walking away from the viewer, further down the street.

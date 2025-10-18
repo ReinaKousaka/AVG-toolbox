@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a sunlit park with a dirt path in the foreground left and a grassy area on the right. In the midground, a black fence borders a body of water, beyond which a stone wall stands on the left and numerous cherry blossom trees line the distant bank. Several people are strolling on the midground path to the right, beneath more blossoming trees that also frame the top right. The sun is low on the left horizon, casting long shadows.
+end of description
+In subsequent frames, the people on the midground path to the right progressively move to the viewer's left, with a woman in a purple top moving further into the central midground. Shadows across the foreground path also subtly lengthen and shift leftwards.
+frame_0000000128-frame_0000000256:
+The first frame shows a park scene with a dirt pathway and grass in the foreground, extending towards the mid-ground where a black metal fence separates it from a body of water (likely a moat). To the left, behind the water and fence, is a stone wall topped with foliage, while several large cherry blossom trees with white flowers dominate the mid-ground and stretch towards the right. The sun is low in the upper-left, casting long shadows from the fence onto the path and illuminating a group of people walking along the path to the right, beneath more cherry trees.
+end of description
+Throughout the subsequent frames, a person in a pink jacket, initially near the far right edge, gradually walks forward along the path towards the viewer, ending in the mid-right foreground. Simultaneously, other pedestrians further along the path in the mid-ground, beneath the cherry trees, are observed moving away from the viewer towards the right side of the scene.

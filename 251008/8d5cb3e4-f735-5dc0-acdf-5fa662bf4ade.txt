@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a long, wide city street with a central sidewalk. To the left, a multi-lane road has vehicles moving away from the viewer, bordered by buildings, while to the right, a row of bare trees stands alongside parked cars and ornate buildings. A lone person walks away from the viewer on the sidewalk in the distance.
+end of description
+The person on the sidewalk continues walking further away. The white parked car on the right drives forward and is replaced by a large white delivery van, which also proceeds forward, revealing additional parked cars beyond. Simultaneously, vehicles on the road to the left drive past as the entire scene slowly progresses forward.
+frame_0000000128-frame_0000000256:
+The first frame depicts a city street with a paved sidewalk extending into the distance, where a person walks away from the viewer. To the viewer's left, a multi-lane road features parked and moving cars alongside tall buildings, with a prominent lamp post nearby. To the right, a grassy strip with benches and bare trees separates the sidewalk from more buildings and parked cars, including a red-and-white bollard in the foreground.
+end of description
+In subsequent frames, the person on the sidewalk continues to walk further away from the first-frame viewpoint. Cars on the road to the viewer's left move forward, with new vehicles entering the frame from behind the first-frame viewpoint and proceeding down the street. The red-and-white bollard on the right side also gradually moves further away from the first-frame viewpoint.

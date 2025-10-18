@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a wet, brick-paved path receding into the distance, flanked on the left by a low brick-and-stone wall topped with green bushes, and on the right by a strip of green grass and dense foliage. Numerous trees line both sides of the path, creating a canopy, while puddles of water reflect the overcast sky from the path's surface.
+end of description
+In the following frames, the scene remains static, with no new objects or significant shifts in spatial position relative to the first-frame viewpoint. Subtle dynamic changes are visible in the appearance of the water on the path; reflections in the puddles slightly undulate and shift, indicating either ongoing light rainfall or gentle movement of water across the wet surfaces.
+frame_0000000128-frame_0000000256:
+The first frame displays a wet, brick-paved pathway stretching from the foreground into the distance, bordered by lush green foliage and trees on both sides. To the left, a stone wall is partially visible behind bushes, while the right side features a denser woodland area.
+end of description
+A dark-clad person subsequently appears on the middle-left of the pathway, walking away from the viewer towards the background. This individual moves further into the distance along the wet path, eventually becoming a small silhouette before disappearing from view.
+frame_0000000256-frame_0000000384:
+The first frame shows a wet, reddish-brown brick pathway extending into the distance, flanked by green foliage and trees. To the left, there's a brick wall partially covered in vines, with dense bushes and two dark park benches in front of it. To the right, a wider strip of bushes and several tall trees line the path, with a lighter path surface visible further ahead. The entire scene is overcast and appears recently rained upon, with visible wetness on all surfaces.
+end of description
+Rainfall intensifies throughout the subsequent frames, with numerous raindrops visibly striking and rippling on the wet brick pathway directly in front of the viewer and extending into the mid-distance. The reflections on the ground become slightly more pronounced due to the increasing wetness. Splashes become more frequent and visible on the surface of the puddles, but no new objects or scenes are revealed relative to the first-frame viewpoint.

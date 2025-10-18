@@ -1,0 +1,32 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a narrow paved road extending into the distance on the right, bordered on the immediate left by a low, moss-covered stone wall. Behind the wall, a row of traditional stone houses with white-framed windows, heavily adorned with green foliage and wisteria on the nearest building, lines the left side, with two vehicles visible further down the road.
+end of description
+The viewpoint steadily moves forward along the road, causing the initial stone wall and the closest houses on the left to gradually recede and exit the frame to the left. Concurrently, buildings and features further down the road become clearer and approach the viewer, while the two distant vehicles also appear incrementally closer, indicating forward motion relative to the first-frame viewpoint.
+frame_0000000128-frame_0000000256:
+The first frame presents a stone cottage on the left, featuring a light green door with the number '5' and white-framed windows, all partially covered by climbing vines and a blooming tree in front, set behind a low stone wall adorned with green shrubs in the immediate foreground. To the right, a road extends into the distance, bordered by a stone wall and another building, with parked cars visible further along.
+
+end of description
+
+The camera slowly pulls back, revealing slightly more of the foreground's low stone wall and shrubs to the viewer's left. The cottage and other objects on the street appear subtly smaller as the viewpoint recedes, allowing a small wooden bench or similar object to become more visible in front of the green door, further to the left from the initial viewpoint.
+frame_0000000256-frame_0000000384:
+A stone house with a green door and two white-framed windows occupies the left foreground, its walls covered in some climbing vines. In front of it, a low stone wall supports green bushes and a vibrant red-leafed shrub, with a white-blossomed tree rising above it. To the right, a paved road stretches into the distance, bordered by a stone wall on its right, behind which another stone house with a red-roofed section is visible. Several parked cars line the left side of the road further down, under a cloudy sky.
+end of description
+The viewpoint slowly shifts forward and slightly to the right, causing the immediate left-side house and greenery to become slightly larger and move marginally to the left relative to the frame center. This subtle movement reveals a clearer, wider perspective down the street ahead, and the details of the red-leafed bush and white-blossomed tree on the left side of the road appear to subtly pan out of view.
+frame_0000000384-frame_0000000512:
+A stone building with two white-framed windows is on the immediate left, partially obscured by a prominent reddish-purple bush and a flowering white tree, which are above a low stone wall. A paved road extends forward from the center, bordered by parked cars (a white van prominent) on the left shoulder and a long stone wall with more stone buildings behind it on the right.
+end of description
+The scene progresses as the viewpoint moves forward along the road. The reddish-purple bush, flowering tree, and the initial stone building on the left gradually shift out of view to the viewer's left and behind the original first-frame position. Simultaneously, the parked white van and black car, initially ahead on the left, move closer into view, then also recede to the viewer's left and behind the original position, unveiling more of the road and distant buildings ahead.
+frame_0000000512-frame_0000000640:
+A low stone wall with dense green and purple foliage occupies the foreground left, partially obscuring a large stone building and a white van parked on the roadside; a branch with white blossoms extends from the top left. To the right, an asphalt road leads away, bordered by a stone wall and a row of stone buildings with a red-leafed tree visible above them under a cloudy sky.
+end of description
+As the viewpoint moves forward, the foreground foliage and stone wall on the left recede and move out of view towards the bottom left, gradually revealing more of the white van and the stone building behind it. The parked black car behind the white van also becomes more fully visible, moving closer to the viewer. The entire scene shifts, indicating forward motion along the road, with objects on the right, like the stone buildings and red tree, receding further into the distance relative to the initial viewpoint.
+frame_0000000640-frame_0000000768:
+The first frame displays a narrow road extending into the distance under a cloudy sky. To the immediate left, in the foreground, is lush green foliage, behind which a white van is parked facing away, followed by a dark car, all adjacent to a large stone building. On the right side of the road, a low stone wall runs parallel, with more stone houses and red-leaved trees visible behind it further back.
+end of description
+As the viewer progresses forward along the road, the green foliage in the bottom-left foreground recedes and eventually moves out of view. This movement gradually reveals more of the white van's rear, including its license plate "W04 SZY". Subsequently, the white van's rear left taillight illuminates.
+frame_0000000768-frame_0000000896:
+The initial frame displays a white van parked prominently on the immediate left foreground, partially obscuring a black car behind it, both alongside a textured stone building. To the right, an asphalt road extends into the distance, bordered by a low stone wall and a row of stone houses, with a red-leafed tree visible and several vehicles further down the street under a cloudy sky.
+
+end of description
+
+Subsequently, the viewpoint moves forward along the road, causing the white van to gradually recede and exit the left side of the frame as the camera passes it. As the motion continues, the black car becomes fully visible before similarly receding past the left side of the view, revealing more of the road and distant buildings ahead from the original viewpoint.

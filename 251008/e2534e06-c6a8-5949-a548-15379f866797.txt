@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a narrow paved path extending forward on the left, bordered by dense, leafless hedges. To the right lies a calm canal, reflecting several bare trees on its far bank and a distant green field with a fence under a clear blue sky.
+end of description
+Subsequent frames reveal a continuous, forward movement along the path, causing the initial foreground elements to recede and exposing more of the identical canal and surrounding landscape directly ahead, without introducing any new objects or scenes beyond what was already visible.
+frame_0000000128-frame_0000000256:
+A paved path stretches into the distance on the viewer's left, flanked by dense, bare bushes. To the path's right lies a grassy bank bordering a tranquil canal, whose surface reflects several large, leafless trees on the opposite bank. Behind these trees, a vibrant green field extends under a clear blue sky, while a distant figure is faintly visible on the path.
+end of description
+The subsequent frames depict no dynamic changes, newly revealed objects, or alterations in the spatial positions of any elements relative to the initial viewpoint; the scene remains static.
+frame_0000000256-frame_0000000384:
+The first frame displays a paved path extending directly away from the viewer on the left, flanked by a dense line of bushes and leafless trees. To the right of the path, a calm canal parallels the pathway, reflecting the sky and bare trees lining its far bank. Beyond the canal and its trees, a green field with a fence is visible on the right, under a clear blue sky.
+end of description
+Subsequent frames present the identical static scene without any dynamic changes or newly revealed objects, maintaining the exact same viewpoint and landscape elements. No movement or alterations occur within the path, canal, or surrounding environment throughout the sequence.

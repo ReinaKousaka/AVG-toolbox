@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a park scene with a pathway extending from the bottom left towards the center-right. A street lamp stands slightly left of center, partially obscured by a small, leafy tree in the foreground, while a wooden bench rests beside the path in the mid-ground. To the right, a grassy slope leads to dense foliage and several taller trees, under a partly cloudy sky.
+end of description
+Throughout the following frames, the primary dynamic change is the subtle swaying of the leaves on the trees and bushes, indicating a gentle breeze, while the clouds in the sky also shift slightly, with no new objects or scenes introduced.

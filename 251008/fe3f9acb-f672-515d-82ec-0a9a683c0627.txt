@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a grey asphalt road curving gently uphill to the left, receding from the viewer's perspective, flanked by a rocky, tree-covered hillside on the left and a silver guardrail alongside dense foliage on the right, all under a blue sky with white clouds.
+end of description
+As the frames progress, the viewpoint moves forward along the road, causing the initial landscape to recede towards the back. Continuously, new sections of the curving road, the guardrail, and the surrounding trees and hillside are revealed directly *in front* of the first-frame's previous horizon, extending the journey through this winding, mountainous environment without introducing fundamentally new objects.

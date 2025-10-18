@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a wet street at night, reflecting bright lights, with a sidewalk on the left featuring two yellow bollards and two individuals walking away, one holding a yellow umbrella. Across the street, a row of illuminated commercial buildings stands, including a white structure with a red awning on the left and a darker building with a prominent red sign to its right, partially framed by a large tree on the right foreground.
+end of description
+In subsequent frames, the two individuals on the left sidewalk continue moving away from the viewer towards the far left. A circular '20' speed limit sign progressively becomes fully visible on the upper right, initially behind the tree. Later, a small white object appears on the far right sidewalk, further away from the viewer.

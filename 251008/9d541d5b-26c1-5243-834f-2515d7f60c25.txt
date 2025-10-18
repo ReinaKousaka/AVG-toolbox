@@ -1,0 +1,30 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a wooden boardwalk extending from the bottom center, curving gently to the right, through a wide expanse of brown, orange, and reddish scrubland that fills the foreground and midground. In the mid-distance, several small, dark lakes or ponds are visible, situated towards the left, with sparse evergreen trees clustered on their near banks. Distant, flat-topped hills or mountains stretch across the horizon in the background, beneath a blue sky dotted with wispy white clouds.
+
+end of description
+
+Subsequently, a small, light-colored animal emerges from the mid-right side of the frame, positioned amidst the vegetation to the right of the boardwalk. It then moves steadily across the midground from right to left, maintaining its distance from the first-frame viewpoint, before disappearing off the left side of the scene.
+frame_0000000128-frame_0000000256:
+The first frame presents a wide view of a vast landscape. A light-colored wooden boardwalk extends from the bottom center towards the middle distance, leading into a reddish-brown and green scrubland. To the right of the boardwalk, a lighter dirt path is visible. In the mid-ground, behind the immediate scrub, a calm body of water is visible, bordered by scattered dark evergreen trees on its far bank. Distant hills or mountains emerge on the horizon under a partly cloudy blue sky, and a "VRA" logo is present in the top right corner.
+end of description
+A few frames later, a cluster of rocks appears on the right side of the boardwalk, closer to the viewer. Subsequently, a light-colored animal (possibly a wallaby) emerges standing in the scrubland to the right of the boardwalk, in the mid-ground roughly aligned with the near edge of the lake. The animal then proceeds to move to its right, gradually shifting further into the scrubland and eventually exiting the frame to the right.
+frame_0000000256-frame_0000000384:
+A wooden boardwalk extends from the bottom center towards the middle distance, curving slightly right, across a vast expanse of reddish-brown and green low-lying vegetation resembling a bog or moor. To the left in the midground, a dark lake is visible with sparse green trees along its near shore, with more of the reddish-brown landscape continuing beyond. In the background, rolling hills rise towards the horizon under a light blue sky dotted with scattered white clouds.
+end of description
+No dynamic changes occur, and no new objects or scenes are revealed in the subsequent frames, as all frames are identical to the first.
+frame_0000000384-frame_0000000512:
+A wooden boardwalk extends from the bottom center of the frame into the mid-distance, flanked by vast reddish-brown scrubland covering the foreground and midground. To the left, a dark body of water with a few small green trees at its edge is visible in the midground. In the background, rolling hills or distant mountains stretch across the horizon under a wide blue sky dotted with scattered white clouds.
+end of description
+There are no dynamic changes or newly revealed objects in the subsequent frames; the scene remains static.
+frame_0000000512-frame_0000000640:
+A wooden boardwalk stretches from the bottom center of the frame directly forward into the distant midground. Dense, reddish-brown and green shrubbery flanks both sides of the boardwalk, extending from the immediate foreground to the midground. To the left of the boardwalk, a body of water with a few small trees lines its edge. Beyond the vegetation and water, a vast, flat landscape of similar reddish-brown terrain extends towards a range of distant hills on the horizon, all beneath a blue sky with scattered white clouds.
+end of description
+In subsequent frames, the viewpoint progresses forward along the wooden boardwalk. Sections of the boardwalk and the adjacent reddish-brown vegetation move from the foreground towards the viewer's immediate surroundings and then behind them. The distant lake and hills remain relatively stable on the horizon, confirming the forward motion.
+frame_0000000640-frame_0000000768:
+The first frame displays a wide panoramic landscape featuring a wooden boardwalk extending from the bottom center into the middle distance, slightly right of the viewer's center. On both sides of the boardwalk, vast expanses of reddish-brown and muted green vegetation fill the foreground and mid-ground. To the left in the mid-ground, a dark lake is visible with a cluster of small trees on its far bank. Distant brown hills and mountains stretch across the horizon in the background, beneath a blue sky dotted with scattered white clouds. A 'VRA' logo is present in the bottom right corner.
+end of description
+The subsequent frames reveal no dynamic changes, camera movement, or newly revealed objects; the scene remains static and identical to the first-frame viewpoint.
+frame_0000000768-frame_0000000896:
+The first frame displays a wooden boardwalk stretching from the viewer's foreground into the distant center of a vast, reddish-brown field of low-lying vegetation. To the left, a body of water with some small green trees is visible, while distant hills appear under a bright blue sky dotted with scattered white clouds. A small white signpost stands to the right of the boardwalk in the mid-ground.
+end of description.
+There are no dynamic changes or newly revealed objects in the following frames, as all subsequent images are identical to the first, showing a static scene.

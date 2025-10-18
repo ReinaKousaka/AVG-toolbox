@@ -1,0 +1,16 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a winding paved road in the foreground, with a white dashed center line and a solid white line on its right edge, curving towards the left. To the left, a grassy slope features a tall evergreen tree, a stone wall, and a light brown building with a red roof further back, while a green shack and dense deciduous trees line the right side of the road. In the background, majestic dark green mountains, some with snow-capped peaks, rise under a blue sky dotted with fluffy white clouds.
+
+end of description
+
+As the viewpoint moves forward along the road, the leftward curve becomes more pronounced, revealing more of the yellowish building and the extending stone wall on the left side. A red and white striped pole is newly revealed on the left, closer to the viewer than the building. Simultaneously, the green shack on the right recedes into the background, and more of the distant mountain range becomes visible to the left as the scene progresses.
+frame_0000000128-frame_0000000256:
+A paved road with white markings extends into the distance, flanked on the left by a stone wall and a two-story building with a red roof and yellow lower walls. To the right, green trees line a dirt area, with a white sign just visible among them. In the background, majestic green mountains, some with snow-capped peaks, rise under a blue sky adorned with white clouds.
+end of description
+As the viewpoint moves forward along the road, "PRIVAT" text becomes visible on the dirt area to the right, followed by a circular manhole cover appearing on the road ahead. The sign on the right transforms from a generic white sign into a 'no stopping' sign, while a yellow and blue banner becomes clearer on the building to the left, all shifting closer to the viewer's original position.
+frame_0000000256-frame_0000000384:
+A paved road occupies the foreground and midground, curving gently left into the distance. To the far left, a light-colored building with a brown roof stands beside a yellow dumpster, while to the immediate right, a 'No Stopping' sign on a pole is supported by a tire. Beyond the road, verdant mountains rise under a bright blue sky dotted with white clouds, with dense green trees lining both sides of the road.
+
+end of description
+
+As the viewpoint moves forward, the 'No Stopping' sign on the immediate right recedes and disappears, replaced by a white and black reflector pole emerging from the right roadside, with a second, smaller reflective marker appearing further down the road on the right. Concurrently, the building on the left becomes more fully revealed as the road's leftward curve becomes more prominent.

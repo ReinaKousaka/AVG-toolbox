@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame presents an expansive aerial view of a dense city district, featuring numerous residential and commercial buildings with mostly red-brown roofs, organized by a complex network of streets. A prominent complex of older-style buildings is centrally located, surrounded by a circular plaza from which streets radiate outwards, with a hazy sky and a darker, possibly forested area visible towards the distant upper left.
+end of description
+The subsequent frames (2-8) remain static, showing no dynamic changes or newly revealed objects from the initial viewpoint. In the final frame, the scene abruptly changes, revealing a dramatically zoomed-in perspective of a street canyon, positioned much closer to the viewer than the original panorama, now showing cars and building facades in intricate detail.
+frame_0000000128-frame_0000000256:
+An aerial view presents a densely built city with a long, straight street running centrally from the bottom towards the top, flanked by numerous buildings with reddish-brown roofs and various architectural styles, extending across the entire visible area.
+end of description
+The viewpoint slowly ascends and slightly pulls back, revealing more of the sprawling city landscape in the upper and side regions, while the central street gradually appears shorter within the expanding scene. Minor traffic movement is visible on the central street and adjacent roads, and subtle changes in shadows suggest the progression of time.

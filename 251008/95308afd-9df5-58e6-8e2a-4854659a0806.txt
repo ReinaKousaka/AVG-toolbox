@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a vibrant park scene featuring a wide paved walkway in the foreground, extending from the lower-left towards the upper-left. To the right of this path, numerous lush green trees dominate the mid-ground and background, under which a colorful playground structure is visible. Several people are scattered across the scene, walking on the path from foreground to mid-ground, playing near the playground, and resting beneath the trees on the far right, with distant buildings prominent in the upper-left background.
+end of description.
+In subsequent frames, various individuals on the paved walkway in the foreground and mid-ground continue moving from right to left across the original viewpoint, while others among the trees also show minor shifts in their positions within the static scene.

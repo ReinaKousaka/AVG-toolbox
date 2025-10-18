@@ -1,0 +1,28 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a snow-covered park on a sunny day. A cleared, icy path extends from the bottom center into the distance, flanked by snow banks. To the left, a dark fence and an evergreen tree are visible, followed by a streetlamp and bare-branched trees. On the right, a large pine tree with a low wooden fence around its base dominates the midground, with more snow-covered ground and part of a playground visible behind it in the far right.
+end of description
+As the frames progress, the viewpoint moves forward along the path, causing the foreground snow and path to extend further towards the viewer. The black fence and evergreen tree on the left, and the large pine tree and wooden fence on the right, gradually recede into the midground and background, becoming less prominent. Concurrently, more of the colorful playground structure to the far right of the first-frame viewpoint becomes visible.
+frame_0000000128-frame_0000000256:
+The first frame displays a snowy park scene under a bright blue sky. A cleared, icy path extends from the viewer towards the background, flanked by snowbanks. To the left, a black fence, an evergreen bush, and a lamppost are visible, with bare deciduous trees and buildings further in the distance. To the right, a low wooden fence borders a snow-covered area, leading to a playground structure with blue accents in the mid-ground, while an evergreen branch overhangs from the top right.
+end of description
+There are no dynamic changes or newly revealed objects or scenes in the subsequent frames; the viewpoint remains static throughout the video.
+frame_0000000256-frame_0000000384:
+The first frame presents a snow-covered park scene on a bright, sunny day, featuring an icy path extending centrally from the foreground into the distance. To the left, a black fence, a lamppost, a trash can, and multiple metallic vertical poles (likely part of an outdoor gym) are visible, while bare trees line both sides of the path and fill the mid-ground. A prominent dark evergreen tree stands slightly right of the path's center in the mid-ground, and a low wooden barrier is seen to the far right within a snowy area, possibly a playground. A dark pine branch partially obscures the bright blue sky in the top right corner.
+end of description
+Throughout the subsequent frames, the viewpoint remains static. The most significant dynamic change is the gradual recession of a prominent shadow on the icy path towards the viewer, becoming shorter in the frame. The overall scene elements and their positions remain unchanged, with no new objects revealed.
+frame_0000000384-frame_0000000512:
+The first frame depicts a snowy park with an icy path extending forward from the viewer, bordered by snow banks. To the left are a trash bin, four vertical silver poles, a partial fence, and a distant parking lot; to the right, a low wooden barrier. Bare deciduous trees and a tall evergreen stand in the midground, alongside blue playground equipment, all beneath a clear blue sky, with buildings visible in the far background.
+end of description
+No dynamic changes or newly revealed objects are observed in the subsequent frames, as all images appear identical to the first.
+frame_0000000512-frame_0000000640:
+A winter park scene is visible under a clear blue sky, dominated by an icy path extending into the distance from the center foreground. Snow-covered ground with white mounds flanks the path, with a cluster of silver vertical poles and some blue objects appearing to the path's left in the midground, and a wooden structure partially buried in snow to the right. Numerous bare trees and some evergreen trees stand further in the background, with distant buildings under the bright sky.
+end of description
+No dynamic changes occur, nor are any new objects or scenes revealed; all subsequent frames are identical to the first-frame viewpoint.
+frame_0000000640-frame_0000000768:
+The first frame shows a snow-covered park on a clear, sunny day. An icy path extends from the foreground into the middle distance, flanked by deep snowbanks and bare trees. To the left, white vertical poles and blue outdoor exercise equipment are partially visible through the snow, while buildings appear in the far background.
+end of description
+Subsequent frames show no dynamic changes or newly revealed objects; the scene remains static.
+frame_0000000768-frame_0000000896:
+A clear, snow-covered path extends from the viewer into the distance, flanked by snow and bare trees under a bright blue sky. To the left, several blue and gray structures are partially visible in the snow, while buildings are faintly seen through trees in the right midground.
+end of description
+The subsequent frames display no discernible dynamic changes or newly revealed objects; the scene remains static from the initial viewpoint.

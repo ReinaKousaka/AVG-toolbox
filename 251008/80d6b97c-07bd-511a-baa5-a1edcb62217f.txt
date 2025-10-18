@@ -1,0 +1,28 @@
+frame_0000000000-frame_0000000128:
+A gravel path recedes directly into the distance from the viewer, bordered by dense evergreen trees on the left and a mix of evergreens and bare deciduous trees on the right, with green and dry ground vegetation. Distant mountains are visible through an opening along the path, beneath a bright sky.
+end of description
+The following frames depict a slow, continuous forward movement along the gravel path, causing the immediate ground and roadside foliage to progressively advance towards and beyond the initial viewpoint.
+frame_0000000128-frame_0000000256:
+The first frame displays a gravel road extending from the bottom center into the distance, flanked on both sides by dense forest. On the left, tall evergreen trees form a solid wall, while the right side features a mix of evergreens and bare deciduous trees with sparse undergrowth. In the background, a distant mountain peak is visible beneath a bright sky, where the road appears to ascend.
+end of description
+The following frames depict a slow forward movement along the gravel road. The foreground gravel and nearby undergrowth on either side of the road steadily move out of view as the viewpoint advances. Trees and bushes, initially in the midground of the first frame, progress closer to the viewer and then recede towards the sides. The distant mountain and sky, initially in the background, remain visible ahead, showing a gradual change in perspective as the viewer moves deeper into the forest.
+frame_0000000256-frame_0000000384:
+The first frame displays a gravel road extending forward, flanked by dense evergreen trees on both the left and right, with a distant mountain visible beneath a bright sky at the horizon. The ground immediately adjacent to the road is covered in green and brown vegetation.
+end of description
+Subsequently, the viewpoint moves forward along the gravel road; the trees and undergrowth on both sides shift subtly backward as if being passed, while the distant mountain remains ahead, gradually appearing closer without significant new objects being revealed.
+frame_0000000384-frame_0000000512:
+The first frame displays a straight, gravel road stretching from the immediate foreground into the distant background, bordered on both sides by dense walls of evergreen trees. In the far distance, a bright light source illuminates the receding road and a faint mountain silhouette, positioned centrally relative to the viewer.
+end of description
+The subsequent frames in the sequence are identical to the first, revealing no dynamic changes or newly revealed objects or scenes at any spatial position relative to the initial viewpoint.
+frame_0000000512-frame_0000000640:
+The first frame presents a straight gravel road extending from the foreground into the distant center, flanked by dense evergreen trees on both the left and right sides. Green undergrowth and fallen branches are visible along the road's edges, with a more sparsely leaved tree on the mid-right. A distant mountain peak is visible ahead, centered above the road, under a bright sky.
+end of description
+As the frames progress, the viewpoint steadily moves forward along the gravel road, causing the flanking trees and undergrowth to continuously recede towards the sides and behind the viewer. The distant mountain remains visible ahead as the path unfolds, revealing more of the forest road.
+frame_0000000640-frame_0000000768:
+A gravel road extends centrally towards the horizon, flanked on both sides by dense rows of evergreen trees. Green grass and undergrowth line the road, with a fallen log partially visible among the trees on the left. Distant mountains and a bright sky are visible at the road's end.
+end of description
+There are no dynamic changes or newly revealed objects in the subsequent frames; the scene remains completely static from the first-frame viewpoint.
+frame_0000000768-frame_0000000896:
+The first frame displays a dirt and gravel road stretching directly away from the viewer into the distance, flanked on both sides by dense rows of tall evergreen trees forming a forest. To the immediate left, a fallen log lies horizontally amongst green undergrowth, while on the right, similar undergrowth and some bare-branched deciduous trees are visible within the forest. In the far background, sunlit mountains can be seen where the road vanishes.
+end of description
+Beginning around the third frame, a thin, bare tree or large branch starts to fall from the forest edge on the right side of the viewpoint. It progressively descends downwards and inwards towards the road, becoming more prominent as it moves in front of the background trees on the right. Throughout the subsequent frames, the branch continues its fall, extending further across the right-side undergrowth. By the final frames, it has largely settled, resting horizontally on the undergrowth near the road's edge on the right.

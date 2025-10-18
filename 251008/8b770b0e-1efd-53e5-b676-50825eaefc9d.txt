@@ -1,0 +1,14 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a wet, narrow urban street lined with multi-story buildings featuring numerous illuminated storefront signs on both sides. On the left, a row of businesses extends into the distance, with a black bin positioned in the lower-left foreground. To the right, a white delivery truck is parked, and a person holding a black umbrella stands beside it, facing away from the viewer, slightly right of center. The street recedes into the background, where more buildings and a tall high-rise are visible under a cloudy sky.
+
+end of description
+
+The person with the black umbrella slowly walks away from the viewer, continuing down the street towards the distant background, remaining to the right of the center path. Simultaneously, a yellow scooter with a rider in a yellow vest appears further down the street on the left side, also moving away from the viewer into the distance. The white delivery truck remains stationary on the right throughout the sequence.
+frame_0000000128-frame_0000000256:
+The first frame displays a wet city street receding into the distance, bordered by multi-story buildings covered in Korean signs on both the left and right. A man holding a black umbrella walks away from the viewer, slightly right of center, down the street, while a white delivery truck is parked prominently on the right side.
+end of description
+In subsequent frames, the man with the umbrella continues walking further away, moving deeper into the street ahead of the viewer's initial position. The camera's perspective subtly advances, gradually revealing more of the street and the lower sections of the buildings that were initially further ahead and to the left of the viewer's first-frame viewpoint.
+frame_0000000256-frame_0000000384:
+The first frame displays a wet urban street receding into the distance, flanked by multi-story buildings adorned with numerous Korean signs. On the immediate left, a glass storefront and a tall advertising stand are visible, while on the right, a person holding a black umbrella walks away from the viewer, with a white truck partially seen on the far right edge. In the distant center, a tall modern building rises above the other structures.
+end of description
+Subsequently, the viewer's perspective subtly shifts left and slightly forward. The person holding the umbrella continues walking away on the right side of the street, moving deeper into the background. This shift causes the white truck previously on the far right edge to no longer be visible and reveals more of the storefront details on the viewer's left.

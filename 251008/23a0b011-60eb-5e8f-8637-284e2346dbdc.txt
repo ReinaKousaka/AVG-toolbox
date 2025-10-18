@@ -1,0 +1,16 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a train track receding into the distance, curving gently to the right, flanked by a forested slope on the left with a utility pole and overhead wires, and a dense, coniferous hillside on the right with yellowish-brown undergrowth in the foreground. A partially cloudy sky stretches above the tree-lined horizon in the background.
+end of description
+As the frames progress, the viewpoint moves forward along the tracks. The utility pole and the trees on the left side swiftly pass by, receding to the left of the viewer, while the dense hillside on the right also moves past. The curving track ahead becomes more prominent as the journey continues, revealing more of the forested landscape.
+frame_0000000128-frame_0000000256:
+The first frame depicts a train track curving right into the distance, flanked by a downward, tree-lined slope and distant hills on the left, and a densely forested uphill slope with yellow foliage on the right, all under a partially cloudy sky with overhead power lines and a utility pole on the left.
+end of description
+As the scene progresses, the train advances, causing the utility pole, initially to the left, to move past the viewer's original position and recede behind it. The forested slopes and yellow foliage on both sides of the tracks, initially ahead, likewise move closer, then alongside, and eventually behind the first-frame viewpoint, continuously revealing more of the curving track ahead.
+frame_0000000256-frame_0000000384:
+The first frame displays two parallel railway tracks receding into the distance, curving slightly right, flanked by dense trees on both sides under a bright, cloudy sky. A tall utility pole with overhead wires is visible to the upper-left, while a rocky embankment with yellow bushes rises along the right side of the tracks.
+end of description
+As the viewpoint moves forward, the utility pole on the left and the rocky embankment on the right advance towards and then pass the viewer. A concrete support structure gradually emerges on the left, ahead of the viewer, as the tracks lead progressively closer to a dark tunnel entrance visible straight ahead in the distance.
+frame_0000000384-frame_0000000512:
+In the first frame, train tracks extend from the foreground into the mid-ground, leading towards a dark tunnel entrance ahead. Dense green trees and foliage line the left side, while a rocky embankment with sparse vegetation rises on the right, all beneath a bright sky.
+end of description
+As the viewpoint progresses forward along the tracks, the tunnel entrance in the distance grows larger, and the surrounding trees and rocky embankment on both sides appear to recede and widen. Power poles on the left and a fence atop the right embankment become more prominent and pass by the viewer. Ultimately, the scene culminates with the viewpoint entering the dark tunnel, obscuring the sky and distant landscape.

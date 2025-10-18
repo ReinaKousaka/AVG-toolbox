@@ -1,0 +1,10 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a wet, rainy street scene with a sidewalk featuring a white center line extending into the hazy distance, bordered on the left by a brick fence and dense trees, and on the right by a curb, a planter, and a street where vehicles like a red car and a bus are visible moving away from the viewer.
+
+end of description
+
+Throughout the subsequent frames, the heavy rain persists while the vehicles on the street dynamically shift; the red car moves further into the distance, and a white car appears behind it, all progressing away from the first-frame viewpoint.
+frame_0000000128-frame_0000000256:
+A wet paved path extends into a hazy distance, flanked by a brick and green fence on the left and a curb with bushes and trees on the right, under a rainy, overcast sky. Several cars are visible on the wet road to the right, beyond the trees, and tall trees line the left side of the path.
+end of description
+Throughout the frames, constant rain visibly falls, creating splashes and reflections on all surfaces, while tree leaves subtly sway. Vehicles move on the road to the right, with a green bus notably appearing from the middle ground and driving further into the distance. A piece of white debris also appears on the wet path in the middle ground, slightly shifting due to wind or water.

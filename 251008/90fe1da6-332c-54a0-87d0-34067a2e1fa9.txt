@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame features the back of a person's head in a dark beanie on the left, observing two festive wooden Christmas market stalls decorated with red baubles and garlands. A prominent red candle prop with a golden flame stands between the "Weihnachtsmarkt" labeled stalls in the midground, with bare trees and buildings in the background.
+end of description
+The view slowly pans right and slightly zooms, shifting the initial foreground figure off-screen left and revealing more of the bustling market's interior to the right of the original viewpoint. As the camera moves, more shoppers become visible, along with an expanded display of colorful merchandise like candles or confectionery on shelves inside the stalls.
+frame_0000000128-frame_0000000256:
+The first frame displays a bustling market stall viewed from a customer's perspective, featuring a textured straw roof with hanging lights overhead. Directly in front, a wide variety of colorful candles and decorative items are arranged on multiple shelves and display tables, set against a dark teal back wall. Three individuals, with their backs to the viewer, are positioned in the foreground, examining the merchandise, while a vendor stands behind a counter on the far right.
+end of description
+As the frames progress, the vendor on the right, initially partially obscured, becomes more clearly visible. They then pick up a red rectangular tray or box from the counter directly in front of them, holding it up and eventually making eye contact towards the viewer without revealing any new objects or scenes beyond the existing stall layout.

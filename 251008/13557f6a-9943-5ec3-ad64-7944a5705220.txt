@@ -1,0 +1,10 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a gravel path receding into the distance, bordered by tall golden grasses and various green shrubs in the immediate foreground and midground on both sides. In the background, mist-shrouded green mountains rise under an overcast sky filled with gray and white clouds.
+end of description
+As the sequence progresses, the viewpoint moves forward along the path. A large dark rock gradually appears on the right side of the path, moving from the mid-right towards the foreground-right, while another rock also emerges on the left side of the path, indicating continuous forward motion.
+frame_0000000128-frame_0000000256:
+The first frame presents a gravel path extending from the foreground into the mid-ground, bordered by tall grasses, green shrubs, and scattered rocks to the left and right. In the background, cloud-covered mountains rise under an overcast sky, with a bare, thorny bush visible on the far right mid-ground. end of description. The viewpoint steadily progresses forward along the path; objects on either side, such as the tall grass on the left and dense shrubs on the right, dynamically move from the mid-ground towards and past the viewer, revealing new stretches of the path and more distant vegetation from the first-frame viewpoint. The bare thorny bush on the right eventually exits the frame as the scene advances.
+frame_0000000256-frame_0000000384:
+A gravel path extends from the viewer into the midground, flanked by dense green and brownish-green bushes and tall grasses on both sides. In the background, large green mountains rise, their peaks enveloped by thick white and gray clouds under an overcast sky.
+end of description
+As the viewpoint slowly moves forward along the path, the foreground vegetation shifts to the sides, revealing more of the path and a winding river in the midground to the right. The mountainous landscape in the background remains largely consistent but appears slightly closer as the scene gradually expands.

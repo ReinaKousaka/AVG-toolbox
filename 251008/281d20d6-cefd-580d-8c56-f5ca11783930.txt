@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a rocky path leading into the distance, flanked on the left by a dry-stone wall topped with a wire fence and on the right by a grassy, upward-sloping hill. An overcast sky dominates the upper frame, and small purple flowers are visible on the right slope in the foreground.
+end of description
+The viewpoint moves forward along the path; the dry-stone wall and grassy slope recede further into the distance relative to the first-frame viewpoint, revealing new sections of the rocky path ahead. The purple flowers that were initially on the right move out of view to the space behind the first-frame viewpoint.
+frame_0000000128-frame_0000000256:
+The first frame presents a rocky path ascending from the viewer, bordered on the left by a dry-stone wall topped with a wire fence and a strip of grass. To the right, a steep, grassy slope with scattered rocks and purple flowers rises, all beneath an overcast sky.
+end of description
+As the viewpoint progresses forward along the path, the dry-stone wall, fence, and grassy slope on the right continuously recede, revealing new sections of the ascending trail ahead. The overcast sky also shows slightly more defined cloud patterns.
+frame_0000000256-frame_0000000384:
+A stone wall with a wire fence atop it occupies the left foreground, extending into the left middle ground. A rugged, rocky path leading uphill into the distance fills the center of the frame. To the right of the path, a grassy hillside slopes upwards, adorned with scattered clusters of purple flowers in the middle ground. Overcast skies with hints of blue dominate the upper portion of the frame.
+end of description
+The viewer moves forward along the rocky path, causing the stone wall and fence on the left to recede towards the left and reveal more of its length. Simultaneously, the grassy hillside on the right, along with the purple flowers, also moves further into the background as new sections of the path and landscape unfold ahead. This progressive movement makes the foreground elements shift out of view, continually presenting new terrain further along the trail.

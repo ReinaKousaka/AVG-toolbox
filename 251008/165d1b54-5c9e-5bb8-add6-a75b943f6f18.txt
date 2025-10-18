@@ -1,0 +1,33 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a city street viewed from a sidewalk, with a person standing on the left by a metal railing and a Starbucks storefront under an umbrella. To the right, another individual, covered in an orange blanket, pushes a cart laden with white bags along the sidewalk next to a red bike lane and a blue bus stop sign. Tall buildings, bare trees, and a street with distant cars establish the urban backdrop.
+end of description
+In subsequent frames, the person with the cart slowly progresses further into the distance along the right side of the sidewalk. Simultaneously, a white car, initially in the background of the first frame, drives towards the mid-ground on the street, passing the moving cart. The person in the left foreground remains largely stationary throughout the sequence.
+frame_0000000128-frame_0000000256:
+In the first frame, a person with an orange bag covering their torso and holding white bags is positioned in the immediate foreground, slightly to the right of the center. To the left and slightly behind this figure, another person wearing a mask is visible, looking at a phone and holding white bags. Along the left side, a building with large glass windows, a canopy, and outdoor seating extends into the mid-ground. Parallel to the street on the right, a red-painted lane is visible, with a white car in the distance and a blue bus stop sign further down on the right.
+
+end of description
+
+The person with the orange bag and the person on the left holding white bags progressively move out of frame towards the left. A dark grey car then appears on the street, moving from the right side towards the left, continuing down the street past where the white car was initially. The scene gradually opens up as the foreground figures disappear from view.
+frame_0000000256-frame_0000000384:
+The first frame presents a city street with a gray sidewalk on the left, alongside a building featuring a prominent glass facade and awning. To the right, a wide pink-colored lane parallels the sidewalk, where a black car is visible moving leftward, with an orange traffic cone on the far right; tall buildings recede into the background.
+end of description
+The black car continues to progress leftward in the pink lane, passing the stationary orange cone. Subsequently, a black scooter appears behind the car and also travels leftward in the same pink lane.
+frame_0000000384-frame_0000000512:
+The first frame depicts a city street viewed from a sidewalk, featuring a modern building with a glass awning to the left and tall buildings lining the right side of the street. A pink bike lane runs down the center-right, with a dark car and a distant bus on the main road, and a blue scooter with an orange bag visible in the bike lane to the right.
+end of description
+In subsequent frames, the blue scooter moves away from the viewer within the pink bike lane on the right, eventually exiting the scene. Simultaneously, the dark car on the main road, initially further down the street, advances closer to the viewer.
+frame_0000000512-frame_0000000640:
+The first frame presents a city street scene from a pedestrian's viewpoint on a sidewalk. To the immediate left, a modern building features a prominent glass canopy and a curved glass facade with visible letters "CF Pa". Along the sidewalk's edge are planters and metal barriers, while a bare-branched tree and a utility pole stand to the right, adjacent to the street. The street, running parallel to the viewer, includes a distinct red-painted lane on its left side, where a dark grey sedan is seen moving away from the viewer. Further down the street, a dark bus approaches, facing the viewer, against a backdrop of tall urban buildings.
+
+end of description
+
+The dark grey sedan on the right continues to move away along the red lane, eventually exiting the frame to the right. Subsequently, a white SUV enters from the right, driving along the red lane, also moving away from the viewer. Concurrently, more people become visible sitting inside the glass-fronted building to the left, and the bus in the midground adjusts its position slightly.
+frame_0000000640-frame_0000000768:
+The first frame captures a city street view from a sidewalk. To the left, a contemporary building with a distinctive curved glass canopy, bearing the inscription "CF Pac," features expansive windows revealing seated individuals inside. A light gray sidewalk stretches into the distance, bordered on the right by a dark utility pole and a tree trunk that partially obstructs a dark blue bus stopped in a bright pink lane. Further right, a white car and a black car are visible on the main road, driving away from the viewer alongside the bus.
+
+end of description
+The dark blue bus, initially stopped to the right and partially behind the foreground pole, begins moving forward along the street, progressively becoming more visible as it passes the pole and tree. Simultaneously, the white car, previously located on the main road further down and to the right of the bus, also advances. A new black car emerges from behind the white car, further down the street on the right. All three vehicles continue to move away from the first-frame viewpoint, eventually disappearing into the distance ahead.
+frame_0000000768-frame_0000000896:
+In the first frame, a dark pole stands very close to the viewer's immediate right, partially obscuring the front of a grey and blue city bus on a red lane to the right. To the viewer's left, a modern building with a curved glass facade and canopy features two people seated inside, with a paved sidewalk stretching forward from the viewer between the building and the street. Tall city buildings and bare trees line the street in the mid-to-far background.
+end of description
+The bus continuously moves forward, exiting the frame to the right of the first-frame viewpoint, progressively revealing more of the red bus lane and the street. As the bus departs, a white car, previously obscured behind the bus, becomes clearly visible further down the street on the right.

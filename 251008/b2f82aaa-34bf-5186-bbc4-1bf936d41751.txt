@@ -1,0 +1,28 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a narrow cobblestone path leading straight into the distance, flanked by buildings and foliage. To the left, a tall, orange-brown wall runs parallel to the path, with green bushes and a low metal railing in the foreground. To the right, a white building with a dark roof and ivy-covered walls stands alongside the path, with a metal railing and grassy area in the lower foreground. In the distance, a white building with a red-tiled roof is visible at the end of the path, with other building roofs beyond it. Overhead, dark green tree branches partially obscure the overcast sky, and a light pole is present on the right.
+end of description
+The viewpoint slowly advances forward along the cobblestone path. The metal railings in the immediate foreground, both to the left and right, gradually move out of the frame as the viewer passes them. The orange wall on the left and the white building on the right expand in the frame, revealing slightly more of their upper sections. The distant white building at the end of the path appears to grow larger, indicating approach.
+frame_0000000128-frame_0000000256:
+The first frame depicts a cobblestone path leading into a narrow alley, flanked by a reddish-brown wall on the left and a white ivy-covered building with a metal fence and pole on the right, culminating in a white house with a red roof and dark archway at the end.
+end of description
+The viewpoint gradually moves forward and slightly to the right along the path over the subsequent frames. Consequently, the metal railing on the viewer's immediate right recedes further right, revealing more of the white building and its wire fence. The dark pole on the right also shifts further right as the white house at the end of the alley appears slightly larger and closer, indicating progression into the scene.
+frame_0000000256-frame_0000000384:
+A narrow cobblestone path extends directly away from the viewer, flanked on the left by a tall reddish-brown wall and on the right by a white building largely covered in green ivy, with a metal fence at its base. Green foliage lines both sides of the path, leading towards a distant white house with a red-tiled roof, beyond which other buildings and an overcast sky are visible. Overhead, dark green tree leaves partially frame the top of the scene.
+end of description
+Across the following frames, the viewpoint subtly shifts backward and slightly upward. This gradual movement reveals marginally more of the cobblestone path in the immediate foreground and a greater expanse of the overcast sky above, while the overhead tree branches recede slightly. All other objects within the scene remain static in their spatial positions relative to the first-frame viewpoint.
+frame_0000000384-frame_0000000512:
+The first frame depicts a narrow, cobblestone alleyway receding into the distance, bordered by green bushes and plants on both sides. To the viewer's left, a tall, plain reddish-brown wall runs along the path, while to the right, a light-colored, textured wall partially covered with green ivy features a small rectangular window higher up. At the end of the alley, a light yellow building with a red-tiled gabled roof is visible, presenting a ground-level opening and an upper window, with additional buildings and foliage behind it under an overcast sky.
+end of description
+No dynamic changes or newly revealed objects are observed in the subsequent frames; all frames show an identical static scene from the first-frame viewpoint.
+frame_0000000512-frame_0000000640:
+The first frame shows a narrow cobblestone path receding into the distance, flanked by a tall, reddish-brown wall on the left and a lighter, off-white wall on the right. Green bushes and plants line the base of both walls along the path. At the end of the path, a white house with an orange tiled roof and a visible window stands, with an open archway or garage door beneath it.
+end of description
+No dynamic changes, newly revealed objects, or alterations in spatial positions are visible in the subsequent frames; all frames are identical to the first.
+frame_0000000640-frame_0000000768:
+The first frame shows the viewer on a cobblestone path, with a tall orange-brown wall to the left and a lighter wall adorned with green bushes to the right. Directly ahead, at the path's end, stands a white house featuring a red-tiled roof with dormer windows and an open garage, flanked by a tall green hedge on its left.
+end of description
+The viewpoint advances steadily forward along the path. Consequently, the foreground bushes and side walls recede from view, bringing the white house and the entire end of the alley progressively closer. A grey concrete box on the right side of the path, initially partially obscured, becomes more clearly visible as the camera moves past the immediate foliage.
+frame_0000000768-frame_0000000896:
+The first frame presents a cobblestone path receding towards a white house with a red-tiled roof and an open garage door directly ahead. A tall reddish-brown wall stands to the viewer's left, while a cream-colored wall with a grey utility box and abundant greenery is to the right.
+end of description
+In later frames, a small, light green bowl is newly revealed, appearing on top of the grey utility box located to the right of the path, maintaining its position relative to the initial viewpoint.

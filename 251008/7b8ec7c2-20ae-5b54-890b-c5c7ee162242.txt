@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a dirt road extending directly forward from the viewer into the distance. To the viewer's left, a steep, rocky, tree-covered hillside rises, casting shadows across the road's left side. To the right, a shallower slope with bushes and trees runs alongside the road, beyond which a large, treeless, golden-brown mountain range stretches across the distant horizon under a clear blue sky.
+end of description
+As the frames progress, the viewpoint moves forward along the dirt road, causing the immediate road surface to recede behind the viewer. The steep hillside on the left and the tree-lined slope on the right continuously move past the viewer, appearing closer to the original camera position. The distant mountain range remains ahead, slowly approaching the viewer as the journey continues.
+frame_0000000128-frame_0000000256:
+A wide, light-colored dirt road extends from the viewer into the distance, flanked by steep, vegetated slopes. To the left, a dense mix of green bushes and trees climbs a hillside, featuring a prominent rocky outcrop and several taller conifers. On the right, a gentler slope covered in sparse green and dry vegetation with rows of small evergreen trees descends, leading up to a large, tan-colored mountain range in the distant background under a clear blue sky.
+end of description
+As the frames progress, the viewpoint moves continuously forward along the dirt road. The immediate foreground vegetation on both sides recedes and moves out of view, revealing new sections of the path and roadside directly in front of the viewer. The distant mountain range and sky remain relatively stable in their position, but their perspective subtly shifts with the forward motion.
+frame_0000000256-frame_0000000384:
+The first frame displays a dirt road receding into the distance, flanked by a steep, tree-covered hillside on the left featuring a prominent rock formation topped with trees, and smaller trees and shrubs lining the right. A vast, barren mountain range under a clear blue sky forms the background.
+end of description
+As the viewpoint progresses along the road, the foreground vegetation on both sides quickly moves past, and dynamic shadows lengthen and shift across the path. The rock formation on the left draws nearer, while the entire scene subtly reveals more of the winding road ahead, continuously approaching the distant mountain range.

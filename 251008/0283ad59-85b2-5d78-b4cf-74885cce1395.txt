@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a wet outdoor scene on a rainy day, with a paved sidewalk and a prominent red pedestrian/bike path stretching into the distance directly ahead of the viewer. To the immediate left, lush green bushes line the path, behind which a black metal fence separates the sidewalk from a wet road. A utility pole with a yellow and red triangular warning sign stands on the far left. To the right, a red brick wall topped with green metal fencing runs parallel to the red path, also receding into the distance, with numerous trees featuring dense green foliage visible beyond both the road and the wall.
+end of description
+The viewpoint steadily moves forward, revealing more of the wet red path and the receding streetscape. A distant white car becomes more distinct on the wet road to the left, moving away from the viewer. Further along the red path, a person holding an umbrella emerges from the distant mist, slowly approaching the viewer's original position. The rain continues to fall throughout the progression.
+frame_0000000128-frame_0000000256:
+The first frame shows a wet brick sidewalk to the left foreground, bordered by a black metal fence separating it from a wet asphalt road where distant cars and a red umbrella are visible. To the right, a red path runs parallel to the sidewalk, with a brick wall and green grating forming its right boundary, while a line of trees with green foliage separates the sidewalk and red path.
+end of description
+The viewpoint steadily moves forward along the path, revealing more of the continuing fence and brick wall to the left and right, respectively. The rain persists, subtly affecting reflections on the wet surfaces as the perspective advances deeper into the scene.
+frame_0000000256-frame_0000000384:
+The first frame shows a wet street scene on a rainy day. A red pedestrian path runs along the right, bordered by a brick wall with green fencing, while a sidewalk with trees and green bushes separates it from a wet asphalt road on the left, which is further contained by a black metal fence.
+end of description
+Subtle rain is visible throughout. A person with a red umbrella briefly walks away on the far left of the road, soon followed by a dark car driving from the mid-left into the background. The car's red taillights become visible as it recedes, with a white car following it into the distance.

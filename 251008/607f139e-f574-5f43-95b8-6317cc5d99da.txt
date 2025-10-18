@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+An aerial view displays a serpentine road winding through a mountainous landscape, characterized by steep rocky slopes and patches of sparse green vegetation. A large, dark shadowed area dominates the left side of the frame, while a brand logo is visible in the bottom left corner. A dark vehicle is located on a curved segment of the road in the mid-right portion of the frame, heading towards a sharper bend.
+end of description
+The scene's viewpoint remains static, with the only dynamic element being the progression of the dark vehicle. This vehicle advances steadily along the road, moving from its initial position in the mid-right, navigating a sharp hairpin turn, and continuing its ascent through several more bends towards the upper right section of the frame.
+frame_0000000128-frame_0000000256:
+The first frame shows an aerial view of a winding, light-colored mountain road snaking through a steep valley. Rocky hillsides, sparsely covered with green vegetation, flank the road which begins at the bottom left and ascends towards the top center.
+end of description
+A small dark vehicle first appears on the lower-left segment of the winding road in frame three, then steadily travels upwards through the numerous curves. Over the following frames, it progresses towards the center and then the upper-right section of the visible road, eventually nearing the top right exit of the frame.
+frame_0000000256-frame_0000000384:
+The first frame shows an aerial perspective of a complex, winding road cutting through a mountainous landscape, with the road beginning in the bottom left and stretching upwards towards the top-middle of the frame. The surrounding terrain consists of rocky slopes with patchy green vegetation, all appearing beneath the viewer.
+end of description
+A dark vehicle emerges on the road mid-left of the first-frame viewpoint, navigating a curve. This vehicle continues to move along the winding path, progressing further into the scene and upwards from its initial position. Subsequently, a second, smaller vehicle appears further down the road to the left of the first vehicle's path, also moving away from the viewer.

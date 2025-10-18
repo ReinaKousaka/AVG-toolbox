@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a paved, hexagonal-patterned path stretching towards the middle-right, dappled with sunlight. To the left, a woman sits on a park bench next to a baby stroller, behind which a metal fence overlooks distant buildings and a bridge under a clear sky. On the right, a brick building with dark windows rises, its lower portion a dark wall along the path. Bare-branched trees stand between the building and path, with other brick structures further back.
+end of description
+There are no dynamic changes or newly revealed objects in the subsequent frames, as all provided frames are identical to the first frame.
+frame_0000000128-frame_0000000256:
+The first frame shows a paved pathway extending forward, with a person on a bench in the foreground-left and a dark structure beside a large brick building and bare trees to the right. A metal fence separates the path from a distant city skyline and bridge visible in the background-left, all under a blue sky.
+end of description
+As the viewpoint progresses forward along the path, the person and bench on the left, and the dark structure on the right, gradually move out of frame. The path's patterned shadows continuously shift backward relative to the viewer, while the distant city skyline remains visible in the background, though its perspective subtly changes.

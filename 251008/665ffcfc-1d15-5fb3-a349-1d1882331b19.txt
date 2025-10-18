@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a sandy path in the foreground flanked by dry grassy dunes, opening onto a wide beach. In the midground, two dark objects rest on the sand, with the ocean and breaking waves extending towards a prominent rock formation on the far left and a long, green-topped cliff on the right, all under a clear blue sky.
+end of description
+Across the subsequent frames, the scene remains entirely static; no dynamic changes occur, and no new objects or scenes are revealed relative to the initial viewpoint.
+frame_0000000128-frame_0000000256:
+The first frame presents a wide beach panorama, featuring a sandy path emerging from foreground dunes with dry grass (left and right) and leading to a vast sandy beach. In the midground, two dark objects rest on the sand, while rolling ocean waves span the horizon, with prominent rock formations visible to the far left and a green-topped headland receding into the distance on the right, all beneath a clear blue sky.
+end of description
+As the frames progress, the viewpoint subtly pans to the left, gradually revealing more of the ocean and causing the distant rock formations on the far left to become more central in the frame. Simultaneously, the green headland on the right shifts further out of view towards the viewer's right, while the ocean waves continue their natural movement across the midground.

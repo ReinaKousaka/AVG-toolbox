@@ -1,0 +1,10 @@
+frame_0000000000-frame_0000000128:
+A cracked asphalt road with yellow markings curves gently left, dominated by a black car moving towards the viewer's right in the foreground. To the left, a lamppost and red and white barriers precede a parked dark car and chalets nestled on a treed hillside. A sidewalk with a wooden fence borders the right, leading towards distant tree-covered mountains under a clear blue sky.
+end of description
+The black car on the right rapidly moves away from the viewer, eventually disappearing off-screen to the right. Subsequently, the viewpoint subtly advances, revealing more of the red and white barriers, the full pedestrian crossing, and making the parked car on the far left appear closer.
+frame_0000000128-frame_0000000256:
+In the first frame, the viewer is on a paved road featuring a white crosswalk and yellow markings, with red and white plastic barriers lining the left curb. Further left, a hillside rises with trees and traditional wooden chalets, along with a red 'no entry' sign. To the right, a sidewalk borders the road, featuring a blue and yellow bus stop sign, a grey trash can, and a lamppost, all adjacent to a wooden fence. Mountains covered in greenery fill the background under a clear blue sky.
+
+end of description
+
+As the frames progress, the viewpoint moves forward. The bus stop, trash can, and the initial lamppost on the right recede and move out of view. A parking area becomes more prominent to the right, revealing three large, wood-paneled waste containers previously partially obscured, now appearing to the right of the road's center. A "No Stopping" sign on a concrete base also emerges into view from the right within the parking area.

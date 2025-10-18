@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+A blue boat's bow is visible in the foreground, extending from the bottom center towards the middle. Ahead of the boat, clear, shallow turquoise water fills the midground, revealing extensive rocky formations and coral structures on the seabed directly beneath and extending forward. In the background, a white sandy beach stretches horizontally, bordered by steep, dark rocky cliffs on the left and dense green foliage covering the hillsides and large rocks on the right.
+end of description
+The boat slowly moves forward, gradually approaching the distant beach and landmass. The water surface gently ripples, and the submerged rocks below the boat appear to shift and pass by as the scene progresses, indicating continuous, slow forward motion towards the background elements.
+frame_0000000128-frame_0000000256:
+The first frame displays the bow of a blue boat in the foreground, extending into clear turquoise water that reveals coral below, with a white sandy beach, rocky cliffs, and lush green trees forming the distant background.
+end of description
+Initially, subsequent frames show only subtle water movement and light shifts, maintaining the same perspective from the boat. The scene then transitions, revealing an entirely new, elevated aerial viewpoint situated far from the original boat's position. This newly exposed landscape features a winding dirt path on a grassy hilltop in the foreground, leading towards a distant coastline with an expansive blue ocean or bay.
+frame_0000000256-frame_0000000384:
+The first frame presents an elevated view of a winding dirt path cutting through a vibrant green, grassy hill, flanked by dense trees and foliage primarily on the left. In the midground, the path leads towards a small gazebo-like structure, beyond which a vast blue ocean meets a curved coastline on the left, backed by distant mountains, all under a partially cloudy sky.
+end of description
+A small red-clad figure then dynamically appears on the path in the midground, walking away from the viewer. This figure consistently moves forward along the path, progressing towards the distant structure throughout the subsequent frames.

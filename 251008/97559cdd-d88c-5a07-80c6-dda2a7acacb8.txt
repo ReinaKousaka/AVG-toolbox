@@ -1,0 +1,6 @@
+frame_0000000000-frame_0000000128:
+In the first frame, a paved road with white dashed lines extends directly away from the viewer towards the center of the image. To the left of the road, a dark wooden house is positioned in the mid-ground, with a blue sign on a pole further down the road, and distant mountains fading into the background. To the right of the road, a steep, vibrant green grassy slope rises, featuring a large deciduous tree and a smaller white structure higher up, with another small wooden building visible near the road further ahead.
+
+end of description
+
+As the viewer moves forward along the road, the dark wooden house and blue sign on the left recede and eventually move out of frame to the left, revealing more of the expansive green valley and distant houses. Simultaneously, the large tree and small white structure on the right slope pass by and move out of frame to the right. A prominent black rectangular sign on a pole emerges from behind where the large tree was, becoming centered on the right side of the road. The green grassy slope continues to pass on the right, revealing a patch of drier grass and a small dirt track, while the distant yellow vehicle on the road ahead steadily grows larger.

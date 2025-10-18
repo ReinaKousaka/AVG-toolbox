@@ -1,0 +1,22 @@
+frame_0000000000-frame_0000000128:
+In the first frame, train tracks curve slightly to the left, extending from the bottom center into the distance. A steep, rocky cliff face with mossy patches runs along the immediate left, while a dense forest covers the sloping terrain to the right of the tracks, with a utility pole and overhead wires visible on the right. Distant mountains with hazy peaks rise under a cloudy sky in the background.
+
+end of description
+
+As the viewpoint moves forward along the tracks, the rocky cliff face on the left gradually recedes, revealing a signal pole further along the track. The initial utility pole on the right moves out of the frame to the right, while the forest and mountainous landscape to the right and in the background appear to advance into closer perspective relative to the initial viewpoint.
+frame_0000000128-frame_0000000256:
+From a train's perspective, the tracks extend centrally into the distance, curving right. A steep, green, forested hillside with a visible rocky outcrop and a railway signal post rises on the left. A parallel concrete retaining wall and another dense forested hillside with an overhead power line pole are on the right. An overcast sky looms above, with distant mountains in the background.
+end of description
+The viewpoint moves steadily forward along the tracks. The railway signal post on the left approaches and then passes to the viewer's left side, receding behind the initial viewpoint. Simultaneously, the overhead power line pole on the right approaches and passes, also moving behind the original right-side position. As the scene progresses, the forested mountain landscape continuously reveals new sections of track and scenery ahead while obscuring elements that have passed the first-frame viewpoint.
+frame_0000000256-frame_0000000384:
+The viewer looks forward along train tracks that curve gently to the right into the distance. A steep, rocky, tree-covered hillside rises to the immediate left, with a red and white striped pole very close in the foreground. To the right, a shallower embankment with a concrete retaining wall is topped by dense evergreen trees. In the far distance, a dark tunnel entrance is visible slightly right of center, beneath an overcast sky with overhead power lines.
+end of description
+The train advances, causing the red and white pole to exit the frame to the immediate left, while new sections of the rocky hillside and trackside vegetation continuously reveal themselves on both sides. Overhead power poles and wires also progressively appear and pass on the left as the train moves forward. The distant tunnel entrance becomes larger and closer, indicating the train is approaching it along the curving tracks ahead.
+frame_0000000384-frame_0000000512:
+In the first frame, train tracks curve slightly right, extending from the viewer into the distance. To the left, a steep, rocky, green-vegetated slope rises, with a utility pole and overhead wires positioned between it and the tracks. On the right, a lower, green embankment with trees parallels the tracks. In the distant center-right, a dark tunnel entrance is visible amidst the forested hills, under an overcast sky.
+end of description
+As the viewpoint moves forward along the tracks, the rocky slope on the left and the right embankment recede and pass to the sides of the viewer. The utility pole and overhead wires also move from the midground to the foreground and then out of the left frame. The tunnel entrance in the distance progressively grows larger and closer, remaining ahead of the viewer as the train approaches it.
+frame_0000000512-frame_0000000640:
+The first frame displays train tracks receding and curving slightly right towards a dark tunnel entrance in the distance, flanked by a steep, rocky cliff with scattered greenery on the left and a lush, green slope with dense trees on the right, all beneath an overcast sky. Overhead electrical wires are visible extending above the tracks.
+end of description
+As the frames progress, the train moves forward, causing the rocky cliff on the viewer's left and the green slope on the right to recede behind the viewpoint, revealing new track sections and closer catenary poles. Concurrently, the distant tunnel entrance directly ahead grows progressively larger and nearer as the train approaches it.

@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The initial frame depicts a snow-covered mountain village street, with a wet road extending forward, flanked by a wooden bridge and chalet on the left and a larger chalet sheltering a white car and a partial white pickup truck on the right. Distant snow-capped mountains dominate the background under a bright sky.
+end of description
+As the camera pans right, the white pickup truck on the road's right side becomes fully visible, revealing its rear and a dark car behind it. The large chalet on the right shifts towards the center, revealing more of the immense, rocky mountain face directly behind it, while the left side of the village scene recedes from view.
+frame_0000000128-frame_0000000256:
+A large, dark brown wooden house with a snow-covered roof, featuring green shutters and an attached open shed housing a white car and a dark blue car, stands centrally in the first frame. A white pickup truck is parked in the snowy foreground to the right, while a paved road curves away on the left, passing a smaller building. In the background, a massive snow-capped mountain face rises prominently under a bright sky.
+end of description
+Throughout the subsequent frames, the scene remains largely static, with no new objects or scenes revealed from outside the initial viewpoint. The primary dynamic change observed is a subtle, continuous shift in the natural lighting and shadow patterns across the snow, the house, and the towering mountain in the background. This chronological progression indicates slight variations in the sun's position and intensity over time.

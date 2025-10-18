@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame features a clear blue sky above a prominent range of red rock mountains spanning the background. The mid-ground and foreground are dominated by dense green foliage and trees, including a tall, slender pine tree standing on the right, and a reddish-brown dirt path winding from the foreground towards the center-right.
+end of description
+A light brown deer then emerges onto the dirt path in the mid-ground, walking from left to right across the frame. It slowly traverses the path, eventually becoming partially obscured by the dense bushes positioned on the right side of the path relative to the viewer.
+frame_0000000128-frame_0000000256:
+A wide shot reveals a vast desert landscape under a clear blue sky. In the background, a majestic range of reddish-orange mountains bathed in sunlight stretches across the horizon, partially obscured by a dense band of dark green trees and bushes in the midground. A reddish-brown dirt path occupies the lower right foreground, curving slightly left, with a prominent tall pine tree standing slightly right of center.
+end of description
+The camera slowly pans to the right, gradually shifting the entire scene horizontally. This movement reveals more of the distant reddish mountains previously further to the right of the initial viewpoint, and subtly repositions the tall pine tree and foreground path further towards the right edge of the frame.

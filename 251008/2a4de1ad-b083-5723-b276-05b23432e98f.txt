@@ -1,0 +1,29 @@
+frame_0000000000-frame_0000000128:
+First, the viewer's perspective is centered over train tracks curving right, receding into the distance. A steep, rocky hillside with sparse vegetation and overhead line poles rises immediately to the left, while a paved path and dense evergreen forest border the tracks to the right. Distant mountains are visible ahead in the valley under a clear sky, with patches of snow at the bases of the hillsides.
+
+end of description
+
+As the train progresses, the foreground of the tracks, the rocky hillside on the left, and the forest and path on the right continuously move from ahead of the first-frame viewpoint to past its sides. New segments of the same curving track and mountainous terrain are revealed further ahead, while overhead line poles emerge from the distance on the left and pass by the viewer.
+frame_0000000128-frame_0000000256:
+A single railway track extends straight ahead, curving slightly right into the distance, bordered by a rocky hillside on the left and a narrow paved path alongside a dense coniferous forest on the right. A utility pole with overhead lines stands to the left near the tracks, with distant mountains visible straight ahead under a bright sky.
+end of description
+The viewpoint advances along the tracks, causing the rocky hillside and utility poles on the left to move past and recede to the viewer's left. Simultaneously, the paved path and coniferous forest on the right also recede to the viewer's right, as the distant mountains ahead appear progressively closer.
+frame_0000000256-frame_0000000384:
+The first frame captures a view down a train track extending forward, gently curving towards the right. To the left, a steep, rocky hillside rises, partially covered in sparse vegetation and topped with evergreen trees, while overhead power lines stretch across the sky. To the right of the tracks, a narrow paved path runs parallel, bordered by dense evergreen forests; distant snow-capped mountains are visible ahead, slightly right of center.
+end of description
+The following frames depict a continuous forward motion along the train tracks, causing the rocky hillside on the left and the paved path with its bordering evergreen trees on the right to progressively move past the viewer. The overhead power lines also recede, giving way to new sections as the scene unfolds forward.
+frame_0000000384-frame_0000000512:
+The first frame displays a train track extending into the distance, curving gently to the right, flanked on the left by a steep, rocky hillside with sparse vegetation and on the right by a paved road bordered by a dense evergreen forest; overhead power lines span the track, and snowy mountains are visible in the far background.
+end of description
+The viewpoint advances steadily along the train tracks. The immediate foreground constantly changes as the rocky hillside with its utility poles on the left and the dense forest alongside the road on the right progressively move towards and then past the viewer's position. The distant snowy mountains slowly draw closer as the train continues into the valley.
+frame_0000000512-frame_0000000640:
+From a forward-facing perspective, railway tracks extend directly ahead, curving gently to the right in the mid-distance, flanked by gravel ballast. To the left, a steep, rocky hillside covered in sparse brown vegetation and scattered pine trees rises sharply. To the right of the tracks, a paved road runs parallel, bordered by a dense row of tall evergreen trees. In the far distance, beyond the curve, snow-capped mountains are visible under a bright blue sky, with overhead power lines traversing the scene.
+end of description
+As the viewpoint moves forward, the railway ties and gravel in the foreground rapidly recede beneath the viewer, while the immediate hillside on the left and the dense treeline on the right move from being ahead to passing by the sides. The power line poles also sequentially move from the mid-distance towards the left side and past the viewer. The scene advances deeper into the valley, causing the distant snow-capped mountains to subtly change their relative appearance as the curve is navigated.
+frame_0000000640-frame_0000000768:
+The first frame depicts a railway track extending directly forward and curving gently to the right, bordered by a steep, rocky, sparsely forested hillside on the left and a dirt path alongside dense evergreen trees on the right. Utility poles with overhead lines ascend the hillside on the left, leading towards a distant, snow-capped mountain visible at the end of the valley under a bright blue sky.
+
+end of description
+As the frames advance, the viewpoint moves forward along the train tracks. The utility poles and overhead lines on the left progressively move from being ahead to passing beside the viewer. Concurrently, the steep hillside and the line of trees on the right continuously recede, indicating the viewer's forward progression through the mountain valley towards the distant peak.
+frame_0000000768-frame_0000000896:
+The first frame presents a view looking down train tracks curving gently to the right, flanked by a steep, treed hillside on the left with a utility pole, and a dirt path and more pine trees on the right. Distant snow-capped mountains are visible ahead, beneath a clear blue sky. end of description. As the train moves forward, the immediate tracks and path continuously recede behind the first-frame viewpoint. New sections of the forested hillside to the left and dense pine trees to the right emerge into view, directly ahead of the initial position. The distant snow-capped mountain gradually becomes more prominent as the path curves to its right.

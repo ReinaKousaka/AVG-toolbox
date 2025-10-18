@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+A narrow, gravel path extends from the foreground into a lush green forest, flanked by dense undergrowth and trees; a prominent tree trunk stands immediately to the left, and a white vehicle is partially visible behind a stone wall in the far left background.
+end of description
+The camera moves forward along the path. The prominent tree trunk exits to the left, while the central tree with exposed roots grows larger and more central. Foliage on both sides passes by, with the white vehicle on the far left receding and becoming obscured as the viewer advances deeper into the woodland.
+frame_0000000128-frame_0000000256:
+In the first frame, the viewer is positioned on a dirt path leading into a dense green forest. Lush foliage and smaller trees flank the path in the immediate foreground and mid-ground, while a prominent tree with exposed roots stands directly ahead, slightly right of center, where the path appears to fork. Numerous other trees with verdant canopies fill the background and extend to the left and right.
+end of description
+The viewpoint then moves steadily forward into the forest, causing the foreground foliage to blur and the path beneath to become more pronounced. Subsequently, a white car becomes visible in the far background, positioned to the left of the main path.
+frame_0000000256-frame_0000000384:
+The first frame depicts a forest path winding slightly left, covered in brown leaves, with lush green moss and grass on either side. A prominent tree with exposed, mossy roots stands to the right of the path, its canopy extending overhead, while another tree is visible further left amidst dense green foliage, all beneath an overcast sky in the background.
+end of description
+The viewpoint slowly advances forward along the path. As the viewer progresses, the foreground path lengthens, the large tree on the right appears to move slightly further right relative to the path, and the surrounding undergrowth and distant trees become gradually closer and more defined in front of the initial viewpoint.

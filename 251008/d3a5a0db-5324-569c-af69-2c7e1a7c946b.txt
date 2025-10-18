@@ -1,0 +1,28 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a narrow, cobbled alleyway receding downhill, enclosed by tall stone walls on both sides, with a stone building featuring a wooden door and small window straight ahead, and a light grey door and an ornate black lamp visible on the right wall.
+end of description
+As the frames progress, the viewer moves slightly forward into the alley. This movement reveals a white rectangular utility box appearing above and to the right of the grey door on the right wall, and makes a small set of stone steps on the lower left wall more prominent.
+frame_0000000128-frame_0000000256:
+The viewer stands in a narrow, sunlit cobbled alleyway with patches of green moss on the ground. To the left, a stone building features a rustic wooden door and an ascending stone staircase, while a tall stone wall on the right displays a light grey utility door and a circular, barred opening. The alley stretches into the distance, flanked by more stone structures under a clear sky.
+end of description
+As the frames progress, the viewpoint subtly pans right. The metal door on the right wall moves further left relative to its initial position, while the barred circular opening becomes more centrally framed and then also shifts rightward, revealing more of the adjacent stone wall.
+frame_0000000256-frame_0000000384:
+The first frame shows a narrow, ancient-looking cobblestone alley. To the left, a stone building features a wooden door and stone steps leading upwards, with a red downspout on its side. To the right, a tall, rough-hewn stone wall with a dark square panel dominates, while the alley recedes into the distance under a bright sky with glimpses of greenery.
+end of description
+As the camera slowly advances into the alley, the stone steps and wooden door on the left become more pronounced, and the distant archway and foliage appear closer. The square panel on the right wall subtly shifts position, indicating a continuous forward movement deeper into the scene.
+frame_0000000384-frame_0000000512:
+The viewer stands on a cobblestone path flanked by stone buildings; a wooden door and a red downspout are visible to the left, while a stone wall with a utility box is to the right. The path recedes into the distance towards further buildings and greenery under a bright sky.
+end of description
+As the viewpoint moves forward along the cobblestone path, the initial left building with the red downspout and the right stone wall with its utility box gradually recede and move out of the frame to their respective sides. A small rectangular window becomes visible on the left building further down the path. The distant buildings and greenery grow larger and closer, revealing more of the converging path ahead.
+frame_0000000512-frame_0000000640:
+A narrow cobblestone path recedes from the viewer, flanked by tall, rough-hewn stone walls on either side. The left wall exhibits a small rectangular window opening and a reddish vertical pipe in the foreground, while the right wall features a dark, L-shaped metallic fixture. Further along the path, the scene brightens, revealing vibrant green foliage on the right and distant stone buildings with dark doorways under a bright sky.
+end of description
+Subsequent frames display no dynamic changes or newly revealed objects, with the entire scene remaining static from the initial viewpoint.
+frame_0000000640-frame_0000000768:
+The first frame shows a narrow, cobblestone path receding into the distance, flanked by a stone wall with a yellow window on the left and another stone wall with a dark metal fixture on the right. Overhanging trees and distant buildings are visible down the sunlit path.
+end of description
+As the camera moves forward, the yellow window on the left wall gradually recedes to the viewer's left, indicating advancement past its initial position. Concurrently, the immediate stone wall on the viewer's right recedes, revealing more of the green hedge and fence located further to the right of the path. Further along the left wall, behind where the window was, a wooden ladder or support structure becomes visible as the viewpoint shifts forward. The distant buildings at the end of the path appear progressively closer and larger as the camera progresses.
+frame_0000000768-frame_0000000896:
+A narrow cobblestone path extends into the distance, flanked by a rough stone wall on the left foreground and a green hedge behind a low fence on the right. In the distance, a building with a brown door is visible, surrounded by trees with green foliage under a clear blue sky. An opening in the lower left wall reveals some wooden planks, and flowers are present at its base.
+end of description
+The viewpoint moves forward along the path, causing the left stone wall and its visible wooden planks to recede and eventually exit the frame to the left, revealing more of the overgrown hillside behind it. Concurrently, the green hedge on the right and the distant building approach, with the hedge gradually moving out of view to the right as well. A large, light-colored plant becomes visible to the left, behind where the initial flowers were, as the camera advances into the scene.

@@ -1,0 +1,27 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a two-lane desert road extending into the distance under a clear blue sky, flanked by rocky, shrub-covered hills on both the left and right, with red roadside markers near the shoulders and a distant blue sign on the right.
+end of description
+As the viewpoint progresses, the road markers and the blue sign move from ahead to past the viewer's original position, now appearing to the sides and eventually behind. The surrounding rocky landscape and the road ahead continuously unfold, revealing new sections of the same environment further along the path.
+frame_0000000128-frame_0000000256:
+The first frame shows a long asphalt road with a double yellow line and a white edge line, stretching from the viewer's immediate foreground into the distant center, where it gently curves to the right. Rocky, sandy hills covered with sparse green and brown vegetation rise along both sides of the road, extending from the mid-ground towards the distant horizon under a clear blue sky that dominates the upper half. end of description.
+As the video progresses, the viewer moves steadily forward along the road. The surrounding rocky landscape and vegetation on both sides continuously advance from the distant foreground, passing by the viewer's sides, and eventually receding behind the initial viewpoint as the journey continues.
+frame_0000000256-frame_0000000384:
+The first frame displays a two-lane asphalt road stretching forward from the viewer, marked by a double yellow line in the center and white lines on the shoulders. To the viewer's left, reddish-brown rocky hills rise steeply, while to the right, a more gradual, arid rocky landscape with sparse vegetation extends. A bright blue sky occupies the top half of the frame, above the distant rocky horizon, where the road appears to ascend.
+end of description
+As the frames progress, the viewpoint moves continuously forward along the road. The road surface and its markings appear to approach from the distance and then recede beneath the viewer, indicating forward motion. The rocky hills and sparse vegetation on both the left and right sides of the road consistently shift, moving from the distant horizon towards the foreground and then out of the frame as new sections of the landscape are revealed ahead.
+frame_0000000384-frame_0000000512:
+The viewer is positioned on a paved two-lane road, marked by a solid yellow line on the left and a white line on the right, which curves gently to the left in the foreground before ascending into the distance. Arid, rocky terrain covered with sparse green and brown vegetation flanks both sides of the road, leading to low, light-colored mountains in the mid-ground under a clear blue sky. A dark pole stands beside the right shoulder of the road.
+end of description
+The subsequent frames display the identical static scene with no dynamic changes or newly revealed objects.
+frame_0000000512-frame_0000000640:
+The first frame displays a bright blue sky over a desert landscape. A paved asphalt road, featuring a double yellow center line and a white right shoulder line, extends from the foreground into the upper middle, gently curving uphill. Rocky, light brown hills, sparsely covered with green scrub and some small trees, flank both sides of the road, receding into the distance.
+end of description
+As the frames progress, the viewpoint moves forward along the road, causing the immediate asphalt and its markings to continuously pass by and recede. The rocky hillsides on both the left and right reveal new sections of terrain and vegetation as they appear to move past the viewer. A red roadside marker pole emerges on the left, advancing towards the foreground, while a dark post appears on the right side of the road.
+frame_0000000640-frame_0000000768:
+A paved road with double yellow lines and white shoulders stretches into the distance, flanked by arid, rocky hills dotted with sparse vegetation, all under a clear blue sky; a dark post stands bottom right.
+end of description
+The viewpoint advances along the road, causing the rocky hills and vegetation on both sides to progressively recede to the left and right of the initial position, with the dark post moving entirely out of view to the right. New sections of the ascending road and surrounding landscape continually emerge directly ahead, moving towards and then past the viewer from the first-frame viewpoint, maintaining the uphill trajectory.
+frame_0000000768-frame_0000000896:
+First, the viewer is positioned on a two-lane paved road, looking forward as it ascends into the distance, flanked by a double yellow center line and a white solid line on the right shoulder. Reddish-brown rocky hills covered with sparse green bushes and small trees rise on both the left and right sides of the road, under a vast, clear blue sky.
+end of description
+As the frames progress, the viewer moves forward along the road, causing the immediate road surface and its markings to pass beneath them, while the rocky terrain and vegetation on both sides continuously advance from the distance and recede past the viewer. A prominent green tree initially in the mid-ground on the right side of the road appears to grow larger and eventually moves out of frame to the viewer's right. The expansive blue sky remains consistent overhead throughout the sequence.

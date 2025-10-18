@@ -1,0 +1,15 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a wet, dark city street at night. A dark pole stands slightly left of center in the foreground, with a yellow curb line marking the right edge of a highly reflective road. To the left of the pole, a small white booth with a window and several bare-branched trees are visible on a wet paved area. Distant car headlights illuminate the wet road ahead, and a white car is partially visible on the far right, while tall buildings with numerous lit windows and red traffic lights line the background across the street.
+
+end of description
+
+As the frames progress, the viewpoint slowly pans to the right. The dark pole shifts towards the right side of the frame, simultaneously revealing a long, light-colored building extending further to the left of the initial viewpoint, behind the security booth and trees. The booth and trees, initially left of the pole, also shift further towards the left edge of the frame, while the reflections of city lights on the wet street remain prominent.
+frame_0000000128-frame_0000000256:
+The first frame shows a wet urban street at night, with reflective pavement in the foreground. A bare tree stands slightly left of center, with a white paneled booth containing a window to its right. A long light-colored building with posters lines the left, while vehicle lights reflect off the street and distant city buildings illuminate the right background.
+end of description
+The viewpoint subtly shifts right, causing the tree and booth to move left within the frame. Subsequently, a green bus emerges from the far right street, traversing left across the scene behind the booth's initial position, while other distant vehicles become visible further down the wet street.
+frame_0000000256-frame_0000000384:
+The first frame displays a wet city street at night, with a tree and a white, paneled building immediately to the viewer's right. In front, a reflective paved area leads to a busy street ahead and to the left, featuring vehicle headlights, a green bus, and red traffic lights. To the viewer's left, a long wall adorned with posters runs parallel to the pavement.
+
+end of description
+Subsequently, vehicles on the wet street begin to move; the green bus travels from the mid-right to the mid-left of the frame, passing the intersection. The traffic lights change from red to green, allowing other cars to proceed as reflections shimmer on the rain-slicked pavement.

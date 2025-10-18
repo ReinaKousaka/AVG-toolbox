@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a rainy street scene, featuring a wet brick sidewalk on the left foreground, bordered by stacked white panels and a raised planter bed with green trees extending into the distance. To the right, a wet asphalt road stretches ahead, with a street light pole prominently in the mid-ground and a black car moving forward, while other vehicles and blue barriers are visible further down the road.
+end of description
+In the subsequent frames, the black car on the road continues to move further away from the viewer and towards the right. Other distant vehicles also progress along the road, and the rain persists, creating noticeable splashes and reflections on the wet surfaces as the scene remains largely static except for the vehicular movement.
+frame_0000000128-frame_0000000256:
+A wet, reddish-brown tiled sidewalk is on the left, bordered by a low brown wall with white display cases. A line of green-leafed trees runs along the left, with building facades beyond them. On the right, a grey asphalt road with yellow lines stretches into the distance, beside a metal pole and a large tree trunk, with a black planter of flowers on the adjacent sidewalk. In the distance on the right, cars are visible, alongside blue barriers. Rain is visibly falling throughout the scene.
+end of description
+A white car initially visible in the distant right lane moves closer towards the viewer. Subsequently, a dark grey car with headlights on appears in the distance on the right lane, approaching the viewer, then passes the viewpoint moving from right to left across the foreground. Following this, a black motorcycle emerges in the midground on the right lane, also traveling towards the viewer.
+frame_0000000256-frame_0000000384:
+The initial frame captures a rainy street with a wet brick sidewalk on the left, adorned with white structures and trees, running parallel to a reflective asphalt road on the right, which features a utility pole, flower planters, and distant blue barriers.
+end of description
+The intensity of the falling rain and visible splashes on the wet surfaces, especially on the sidewalk and road directly in front of the viewer, diminishes slightly across subsequent frames. Concurrently, the traffic light positioned further down the road to the right changes from red to green. Throughout the sequence, vehicles appear to be slowly moving or idling on the road to the right of the viewer's position.

@@ -1,0 +1,28 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a winding asphalt road leading away from the viewer, flanked by lush green foliage. To the viewer's immediate left, a yellow guardrail follows the road, behind which a hillside densely covered in trees and two signs (one white rectangular, one smaller green rectangular) ascends. On the immediate right, a steep, mossy embankment rises alongside the road, with leafy branches overhanging the path.
+
+end of description
+
+As the viewpoint progresses forward along the road, the white and green signs previously on the left recede and move out of view, demonstrating forward motion. Concurrently, a new white rectangular sign gradually emerges on the right embankment, initially distant and slightly right relative to the first frame, steadily becoming more prominent and moving towards the viewer's right foreground as the winding road continues through the lush green landscape.
+frame_0000000128-frame_0000000256:
+A paved road, dappled with sunlight and shadows, curves gently to the right from the foreground into the distance, bordered on the left by a yellow guardrail and a dense tree-covered slope, and on the right by a steep, heavily vegetated cliff face.
+end of description
+As the viewpoint steadily moves forward, new segments of the winding road, the guardrail on the left, and the lush forested slopes on both sides are continuously revealed ahead. Meanwhile, previously visible sections of the path and surrounding environment recede into the background, maintaining their relative lateral positions from the first-frame viewpoint.
+frame_0000000256-frame_0000000384:
+The first frame shows a paved road curving gently to the left and receding into the distance. A yellow guardrail runs along the left side of the road, with sunlit trees and foliage on a slope beyond it. To the right, a shadowed, steep bank heavily covered in dark green vegetation borders the road.
+end of description
+As the viewpoint moves forward along the road, the original scene recedes. A cyclist appears in the distance, ahead and to the left of the initial viewpoint, gradually becoming clearer. Further progression reveals a blue and white sign on a pole, situated ahead and to the left of the first-frame viewpoint, beyond the guardrail.
+frame_0000000384-frame_0000000512:
+The first frame displays a paved road curving slightly left into the distance, with dappled sunlight on its surface. A yellow-topped guardrail runs along the left side, backed by a lush, green hillside, while a steep, moss-covered rock face borders the road on the viewer's right. Far ahead along the road, a blue sign is visible on the left and a red-and-white triangular sign on the right.
+end of description
+As the scene progresses, the viewer moves forward, causing the road ahead to unfold and the initial guardrail and mossy rock face to recede past the viewer's sides. The blue and red-and-white signs, initially far ahead along the road, steadily approach and grow larger, revealing their details as they draw closer to the viewer's original position.
+frame_0000000512-frame_0000000640:
+The first frame captures a paved road extending into the distance, curving gently to the right, flanked by verdant hillsides. To the left, a brown guardrail runs parallel to the road, with a steep, tree-covered slope rising behind it. Ahead on the left, two road signs are visible: a rectangular blue and green sign, and a triangular white warning sign. On the right, a steep rock face covered in dense green foliage ascends sharply from the road's edge.
+end of description
+As the frames progress, the viewpoint moves steadily forward along the road. The guardrail and the road signs on the left move from the foreground towards the viewer and then recede behind, revealing more of the winding road ahead. Concurrently, the lushly vegetated rock face on the right also appears to move past the viewer.
+frame_0000000640-frame_0000000768:
+The first frame shows a paved road stretching into the distance, curving slightly to the left, with a grassy embankment and a wooden post with a yellow-striped marker visible to the left, while a steep, moss-covered rock face rises immediately to the right, all surrounded by dense green foliage and trees. end of description. As the viewpoint moves forward, the initial foreground recedes behind the viewer, revealing new sections of the winding road ahead where the yellow guardrail on the left extends further and the dense natural landscape of tree-covered mountainsides and rocky embankments continuously unfolds alongside the viewer.
+frame_0000000768-frame_0000000896:
+First, a winding asphalt road with white lines extends ahead, flanked on the left by a yellow guardrail and on the right by a steep, mossy rock face. Dense green and partially bare trees line both sides of the road, rising uphill towards the background.
+end of description
+As the camera moves forward, the road, guardrail, and rock face steadily advance towards and then recede past the viewer. The road's gentle curve to the right becomes more pronounced, continuously revealing deeper sections of the winding path ahead as the lush, overhanging foliage on both sides creates shifting shadows.

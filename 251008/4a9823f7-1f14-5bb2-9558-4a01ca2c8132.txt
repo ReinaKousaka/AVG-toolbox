@@ -1,0 +1,28 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a sunny city street with an electric scooter on the foreground right, and on the left, a green traffic pole, a metal trash can, and an elderly man checking an item who partially obscures a pile of trash bags. The street and buildings extend into the distance on the left, paralleled by a shop-lined sidewalk on the right, with another person visible further down.
+end of description
+The elderly man proceeds away from the viewer and left, his movement revealing the full trash can and the growing pile of white bags beside it, which were initially mostly behind him relative to the first-frame viewpoint. He then continues walking off-screen to the far left, leaving an unobstructed view of the street ahead as the person further down the sidewalk also moves slightly away.
+frame_0000000128-frame_0000000256:
+The first frame reveals a sunny urban street scene with a pile of garbage bags and a cardboard box in the immediate foreground to the viewer's left, beside a green street sign. A person stands further ahead on the left sidewalk, which parallels a multi-lane road with cars, while buildings with windowed facades line the right sidewalk.
+end of description
+As the viewpoint progresses forward and slightly right along the sidewalk, the foreground pile of garbage and the green street sign, originally on the viewer's immediate left, move out of frame to the *left and behind* the advancing camera's current field of view. The person, initially in the mid-ground on the left sidewalk relative to the first-frame viewpoint, appears to move *closer* to the viewer as the scene advances, while the buildings on both sides become more prominent and reveal deeper sections of the street ahead.
+frame_0000000256-frame_0000000384:
+The first frame captures a sunlit city street scene from a sidewalk perspective, with a person standing on the sidewalk to the viewer's left, facing a multi-lane road where cars are parked along the far curb, lined by tall buildings. To the viewer's right, a commercial building with large windows and an ornate facade extends along the sidewalk, while further down the street, more pedestrians and buildings are visible.
+end of description
+The subsequent frames provided are identical to the first, revealing no dynamic changes or newly appearing objects or scenes.
+frame_0000000384-frame_0000000512:
+The first frame shows a person on the lower-left sidewalk, holding a black bag and a white bag, looking towards the viewer, with a city street and multi-story buildings extending into the distance on the left, and commercial buildings lining the sidewalk on the right, all under a clear blue sky. end of description. The person then walks from the viewer's left to the right across the foreground, gradually exiting the frame. Concurrently, a dark car appears from the far left street lanes and drives rightward, passing behind the person's initial position in the mid-left of the scene.
+frame_0000000512-frame_0000000640:
+The first frame presents a sunny urban street scene. In the immediate foreground, the left side shows the head and shoulder of a person. To the left, a grey car is parked on a multi-lane street, with other vehicles and tall buildings receding into the distance. Centered in the mid-ground, a lamppost with red and white banners stands, casting a long shadow on the sidewalk. On the right side, a busy sidewalk features pedestrians, street vendors with carts, and storefronts, with more buildings extending into the background under a clear blue sky.
+
+end of description
+
+The person initially in the foreground left moves out of view. The grey car on the left side of the street begins driving forward, away from the first-frame viewpoint. Subsequently, a white van and then a dark sedan appear from behind the grey car's initial position, also moving forward along the left side of the street past the original viewpoint. Pedestrians on the right sidewalk continue to move further down the street away from the viewer.
+frame_0000000640-frame_0000000768:
+The first frame presents a sunny urban street scene from a sidewalk perspective, looking forward down a bustling street. To the left, a multi-lane road features several cars, including a dark sedan closest, moving away, bordered by tall buildings. On the right, a street pole with banners stands near the viewer, while the sidewalk is lined with building facades and storefronts where pedestrians, including a man pushing a shopping cart, walk away into the distance.
+end of description
+Subsequently, the dark sedan on the left moves further away from the viewer, and the man pushing the shopping cart on the right sidewalk also continues walking into the distance. A red sedan then enters from the far left of the frame, driving forward on the street, passing the initial position of the dark sedan.
+frame_0000000768-frame_0000000896:
+The first frame presents a sunny urban street scene with a wide sidewalk on the right, featuring a storefront and a man in a blue cap walking towards the viewer. A busy street occupies the left, with multiple cars moving away, alongside tall buildings on both sides receding into the distance under a clear sky.
+end of description
+The man continues walking past the viewer's immediate right, then bends down near the storefront. Concurrently, various cars on the street proceed further away from the viewer's original position.

@@ -1,0 +1,10 @@
+frame_0000000000-frame_0000000128:
+The first frame captures a charming street scene with a gray sports car parked on the foreground left. A row of colorful buildings with shops and awnings lines the left side, interspersed with trees. In the mid-ground, two pedestrians walk away from the viewer on the cobblestone street, while a stone arcade with arches extends into the distance on the right, partially obscured by a tree in the immediate foreground. In the background, a church with a red steeple is visible, flanked by distant snow-capped mountains under a cloudy sky.
+end of description
+The camera slowly pans to the right, gradually revealing more of the stone arcade on the right side of the street, while the church and mountains in the background subtly shift towards the center of the frame. Simultaneously, the two pedestrians continue to walk further away from the viewer, receding deeper into the scene along the street.
+frame_0000000128-frame_0000000256:
+A colorful street scene is presented with multi-story buildings lining the left, featuring a grey car and yellow awning in the foreground. On the right, an arched stone passageway with a 'RESTAURANT' sign is partially visible, while two people walk away from the viewer down the paved street, marked '30'. In the distance, a church with a red spire and snow-capped mountains rise, framed by a decorative light fixture hanging overhead to the right.
+
+end of description
+
+The two pedestrians continue walking further down the street, moving away from the viewer's original position. Simultaneously, the decorative light fixture overhead to the right sways gently, and the camera subtly tracks forward along the street.

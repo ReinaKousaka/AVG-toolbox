@@ -1,0 +1,14 @@
+frame_0000000000-frame_0000000128:
+In the first frame, two individuals stand on a wet, reflective pavement: one closer to the viewer under a dark umbrella, and another slightly behind them under a pink umbrella, both facing away. To their left, a street with blurred car headlights and streetlights extends into the misty distance, lined by trees and bushes. To their right, a row of storefronts with illuminated signs and large windows recedes, featuring outdoor seating and potted plants. The entire scene is under visible rainfall, with buildings and neon lights visible in the background.
+
+end of description
+
+The two individuals under umbrellas begin walking away from the viewer along the wet pavement, moving further into the mid-ground. As they recede, more of the illuminated street and the storefronts to their right become clearly visible behind their initial positions. They continue their walk, gradually shrinking in size and revealing more of the distant street and buildings ahead.
+frame_0000000128-frame_0000000256:
+The first frame depicts two individuals walking away from the viewer on a wet, rain-slicked city sidewalk at night. The person closer to the viewer on the right holds a black umbrella, while a second person further ahead on the left holds a pink umbrella. To the right, brightly lit storefronts line the street, and to the left, a road with streetlights and trees extends into the rainy distance.
+end of description
+As the frames progress, the two individuals steadily move forward, walking further down the street away from the viewer. Concurrently, the blue storefront sign on the right side of the street dynamically brightens and dims, creating a flickering effect. The heavy rain continues to fall throughout the urban scene.
+frame_0000000256-frame_0000000384:
+The first frame presents a rainy night cityscape with two figures in the midground walking away from the viewer on a wet street, one under a black umbrella and the other a pink one, while a blurry street with a yellow sign is to their left and an illuminated sidewalk with storefronts stretches to their right into the background city lights.
+end of description
+Throughout the subsequent frames, both individuals continue walking further away from the first-frame viewpoint, with the person under the black umbrella turning their head slightly left, revealing more of the street to their left. A white car becomes increasingly visible moving further down this street, and several trash bags gradually appear accumulated near a pole on the left side of the road. The persistent heavy rain maintains a hazy atmosphere and creates reflections on all wet surfaces as the scene progresses.

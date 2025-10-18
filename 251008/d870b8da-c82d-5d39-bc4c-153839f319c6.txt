@@ -1,0 +1,20 @@
+frame_0000000000-frame_0000000128:
+First, an urban street intersection is visible, with green bushes and a utility pole on the far left and a partial white car in the bottom right. In the midground, a gray van and a person on a scooter are positioned at the intersection, flanked by low-rise buildings on the left and a prominent high-rise building on the right.
+end of description
+Following frames show the gray van and scooter proceeding forward and turning right through the intersection. Simultaneously, a white SUV emerges from the far left, moving across the intersection, and is soon followed by a black car appearing from the left.
+frame_0000000128-frame_0000000256:
+The first frame displays a bustling city intersection with a person on a scooter in the foreground, positioned to the right. In the midground, a dark grey van is central, followed by a white van, while a black car is visible further left. A multi-story building with yellow and grey facades stands behind the black car on the left, contrasting with a tall, modern high-rise building that dominates the background to the right.
+end of description
+As the video progresses, the scooter rider on the right moves forward and eventually exits the frame. The dark grey van and the white van behind it, both in the midground, proceed forward through the intersection from the initial viewpoint. Simultaneously, the black car on the far left moves forward and turns right, disappearing from view as other vehicles enter the intersection from the right. A new white SUV then emerges from the right background, moving across the intersection into the midground, illustrating continuous traffic flow.
+frame_0000000256-frame_0000000384:
+The first frame displays a city intersection with a pedestrian crosswalk immediately in the foreground. A yellow-facade building with shop signs is prominently visible on the left, facing a tall, modern building on the right across the street, separated by a white barrier. A white SUV is positioned centrally on the crosswalk, with a dark gray van further right, and a small green bush on a circular divider ahead to the left.
+end of description
+Over the subsequent frames, the white SUV drives forward across the pedestrian crosswalk towards the right, while the dark gray van to its right continues moving further away, eventually exiting the frame. Concurrently, a new white sedan emerges from the far left, entering the crosswalk area behind the SUV and also proceeding towards the right across the viewer's path.
+frame_0000000384-frame_0000000512:
+In the first frame, a white SUV is positioned on a crosswalk in the bottom left foreground, facing right, with older commercial buildings featuring neon signs visible behind it to the left. To the right, a tall, multi-story modern building dominates the scene, while a street extends into the mid-ground, separated by a median adorned with blue, red, and white barriers.
+end of description
+The white SUV progresses across the crosswalk and moves off-frame to the right over several frames. Subsequently, a silver sedan emerges from behind the SUV in the mid-left turning lane, following its path onto and across the crosswalk. A pedestrian briefly appears on the far left sidewalk in the mid-ground as the silver sedan continues forward, with another white car becoming visible further behind it.
+frame_0000000512-frame_0000000640:
+The first frame presents a city street with a paved road in the foreground, showing a crosswalk-like marking. To the left, a multi-story building (hotel) is visible, with a white car, a landscaped island featuring a stone monument and a blue arrow sign, and a red no-entry sign beside it. On the right, a tall high-rise building stands adjacent to red and blue barriers, parked cars, and a street extending into the distance with several vehicles.
+end of description
+As the camera slowly moves forward and slightly to the right, the white car on the far left exits the frame. The no-entry sign on the left becomes more prominent, and a red fire hydrant appears behind the blue barriers on the right, which shift further left relative to the initial viewpoint.

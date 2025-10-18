@@ -1,0 +1,5 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a wet urban street scene under an overcast sky. In the foreground to the left, a pink bicycle is parked against a metal railing, behind which a large, grey utility box rests on a small patch of grass. Further left, a multi-lane road extends into the distance with several cars, a scooter, and a traffic light displaying green. To the right, a tiled sidewalk stretches forward, bordered by a row of multi-story buildings featuring various storefronts, awnings, and signs. Tall trees line the far side of the road, and distant high-rise buildings are visible in the background through the misty conditions.
+
+end of description
+As the viewpoint moves forward along the sidewalk relative to the initial position, the pink bicycle and the large utility box on the left progressively move out of frame. Vehicles on the multi-lane road, initially to the left, continue to move past, and the traffic light in the mid-distance changes from green to yellow. The camera's forward motion reveals more of the wet sidewalk directly in front of the viewer and additional storefronts along the building facades to the right.

@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a wet asphalt road reflecting city lights at night, extending into the distance. On the viewer's right, a dark blue pickup truck is parked on the sidewalk next to some white bundled objects. To the left, a black car is parked on the street in front of multiple illuminated storefronts, including a "Subway" restaurant. Multi-story buildings line both sides of the street, and streetlights are visible overhead, with traffic lights showing red and green further down the road.
+end of description
+A yellow truck subsequently appears in the midground, entering from the right side of the street and traveling left, passing behind the stationary blue pickup truck. This yellow truck then continues driving across the main road, moving towards the left. A white car briefly emerges in the far left lane, moving towards the viewer from the distance, as the yellow truck proceeds further left and exits the scene.
+frame_0000000128-frame_0000000256:
+The first frame depicts a wet city street at night, with a blue pickup truck parked on the far right and a yellow delivery truck moving away from the viewer in the left lane towards the center. Illuminated buildings with colorful neon signs line the street on the left, their reflections shimmering on the wet asphalt.
+end of description
+Subsequently, a dark grey sedan enters from the left foreground, moving in the left lane across the viewer's field of vision, passing the yellow truck and exiting the frame to the right. Simultaneously, the yellow truck continues its movement further to the left, gradually moving towards the far left of the frame. The blue pickup truck on the right remains stationary throughout the sequence.

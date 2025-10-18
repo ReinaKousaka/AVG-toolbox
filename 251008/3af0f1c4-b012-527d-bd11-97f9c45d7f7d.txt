@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+First, a male runner in a black shirt and shorts is in the lower left foreground, viewed from behind, on a paved road curving to the right. Ahead, a female runner in a yellow top is in the midground, followed by traditional buildings nestled on green slopes under distant mountains. A "ZONE 30" sign is centered in the midground distance, with running data overlays on the left and bottom-right.
+end of description
+As frames progress, both runners advance along the road relative to the initial viewpoint, with the male runner moving towards the upper left. The 'ZONE 30' sign, initially in the midground, moves closer and shifts right, becoming a prominent object on the right side of the road. The perspective continuously shifts forward, causing the stone wall to recede and revealing more of the wooden fence, while the on-screen running data updates.
+frame_0000000128-frame_0000000256:
+The first frame captures a male runner from behind, in black shorts and a t-shirt, centrally positioned on a grey asphalt path that curves right, with a wooden fence and grassy hill to his right. Traditional dark wooden buildings line both sides of the path, leading to distant green hills and rugged mountains under an overcast sky, while a female runner in yellow is ahead of him and numerical overlays appear on screen.
+end of description
+As the frames advance, both runners move forward along the path, and the digital information on the screen's right side updates to reflect the changing pace and time. Simultaneously, a large white "ZONE 30" inscription emerges onto the asphalt from the bottom edge of the frame, progressing towards the midground relative to the initial viewpoint.

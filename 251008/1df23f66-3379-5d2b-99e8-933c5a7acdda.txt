@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a rain-soaked city street at night, with a zebra crossing in the foreground and three black bollards to the viewer's right. Streetlights illuminate the wet asphalt, reflecting distant building signs and traffic lights, while trees line the view across the street. Two electric scooters are parked on the far right sidewalk.
+end of description
+Rain consistently falls, causing ripples on the wet surfaces throughout the frames. From frame five, a person on a red delivery scooter with a white box emerges from the right sidewalk, moving leftward across the zebra crossing into the intersection. Simultaneously, the distant traffic lights transition from predominantly red to green as the scooter proceeds.
+frame_0000000128-frame_0000000256:
+The first frame displays a rainy night cityscape with a wet asphalt road featuring prominent white pedestrian crosswalk stripes in the foreground and a red bike lane extending horizontally across the mid-ground. A white delivery scooter, bearing a large green box, is situated on the right side of the red bike lane, while a stationary car with red taillights is visible further left on the road. Streetlights cast bright reflections on the soaked surface, illuminating distant trees and buildings in the background.
+end of description
+The white delivery scooter dynamically moves leftward across the red bike lane, proceeding onto the pedestrian crossing and eventually exiting the frame to the far left. Simultaneously, the traffic light in the mid-background transitions from red to green as the sequence progresses. The car with red taillights remains stationary on the left side of the road, while rain consistently falls throughout the frames.

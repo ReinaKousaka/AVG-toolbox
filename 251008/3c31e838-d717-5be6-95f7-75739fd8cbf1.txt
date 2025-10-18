@@ -1,0 +1,32 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a wide scenic view under a clear blue sky, with a large blue body of water and distant rolling hills to the left. A dark paved path extends into the foreground, bordered on its right by a white line and rectangular concrete barriers alongside a curving paved road. To the right of the road, a steep, tree-covered hillside rises, showcasing some structures nestled within the dense foliage.
+end of description
+As the viewpoint moves forward, the concrete barriers on the right of the path progressively slide towards the bottom-right, indicating progression along the road. The rocky shoreline and the near section of the blue water to the left also recede to the left and slightly behind the viewer. Simultaneously, the tree-covered hillside on the right, with its visible structures, continues to curve and pass by, revealing more of the scenic route ahead.
+frame_0000000128-frame_0000000256:
+The first frame shows an asphalt road curving to the right, with a white line and light-colored concrete barriers marking its right edge in the foreground. To the viewer's left, a narrow gravel shoulder borders a strip of green grass, which meets a rock-lined edge alongside a vast expanse of blue water. Across the water, distant green hills stretch along the horizon, while a steep, tree-covered hillside rises on the right side of the road, featuring a white shelter further along. The scene is set under a clear blue sky with a few scattered clouds.
+
+end of description
+
+As the frames progress, the viewpoint moves forward along the road. The concrete barriers and the rock-lined waterfront on the left continuously advance from the mid-ground towards the foreground, with new sections appearing from the bottom of the frame. The white shelter on the right side of the road initially approaches the viewer, then gradually recedes and exits the frame to the right, revealing more of the winding road ahead and the continuing hillside.
+frame_0000000256-frame_0000000384:
+The first frame displays a road running alongside a body of water under a clear blue sky. To the viewer's left, a dark blue body of water, likely a bay or lake, extends from the foreground to the distant horizon, bordered by a rocky embankment covered with green grass. A dark asphalt road curves from the lower right foreground towards the mid-ground, with a white solid line and several rectangular concrete barrier blocks positioned along its right edge. Further right and extending into the mid-ground, a green, tree-covered hillside slopes upwards, while in the far distance across the water, more hills are visible under a bright sky dotted with light clouds.
+
+end of description.
+
+As the frames progress, the viewpoint steadily moves forward along the paved road. The rocky embankment and the water on the left, along with the road's white line and concrete blocks on the right, continuously advance towards the viewer before receding into the mid-ground. No new objects or scenes are revealed; the motion is a continuous progression through the initially depicted landscape.
+frame_0000000384-frame_0000000512:
+A dark asphalt road occupies the foreground, curving slightly to the left in the distance. To the viewer's left, a rocky, grassy bank borders a calm blue body of water, beyond which lie distant, hazy hills. On the right, a steep, verdant hillside covered in trees rises, with a small white structure partially visible amongst the foliage in the mid-ground, and white concrete barriers lining the right edge of the road.
+end of description
+As the viewpoint moves forward along the road, the white concrete barriers on the right gradually slide past, and the rocky bank to the left continuously reveals more of the distant water and hills. The small white structure on the right hillside recedes into the background. Subsequently, a new, larger white building emerges higher up on the right hillside, becoming increasingly visible relative to the initial viewpoint.
+frame_0000000512-frame_0000000640:
+The first frame presents a sunny coastal scene with a dark asphalt path in the foreground, bordering a body of water with a rocky embankment to the left, while a parallel asphalt road with white markers is to the right, backed by a lush hillside with houses and trees under a blue sky.
+end of description
+As the frames progress, the viewpoint moves forward along the path, causing the foreground asphalt and white road markers to advance and then pass out of view towards the bottom of the frame. The water and embankment on the left, along with the houses and vegetation on the right, appear to move closer before receding, continuously revealing more of the curving road ahead. No new objects or scenes emerge from behind the viewer or from unexpected directions, merely a continuous progression through the established landscape.
+frame_0000000640-frame_0000000768:
+The first frame displays a paved road extending from the viewer's foreground into the distance, bordered on the left by a rocky embankment leading to a body of water with distant hills beyond. To the right of the road, a treed hillside contains visible houses and a white picket fence, with a concrete barrier segment adjacent to the road.
+end of description
+As the scene progresses, the viewpoint moves forward along the road; foreground elements like the rocky bank and concrete barrier recede, replaced by new sections of the road and shoreline that emerge further ahead. A dark bin or mailbox, initially partially hidden by trees on the right side of the road, becomes more clearly visible as the camera approaches its original relative position.
+frame_0000000768-frame_0000000896:
+The first frame shows an asphalt road extending from the foreground into the distance, curving slightly to the right, bordered on the left by a wide blue body of water. Distant green hills line the horizon to the left of the road, while a lush, tree-covered hillside rises to the right. In the mid-ground on the right, a small light-colored house and a dark bin are visible nestled among the trees.
+end of description
+As the frames progress, the viewpoint subtly shifts forward, causing the white road markings to move from the middle of the frame towards the bottom and out of view. Simultaneously, the small house and dark bin on the right side of the road gradually recede further into the distance relative to the initial first-frame viewpoint.

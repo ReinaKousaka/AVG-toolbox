@@ -1,0 +1,26 @@
+frame_0000000000-frame_0000000128:
+A paved two-lane road with double yellow center lines and a white right shoulder line extends directly ahead of the viewer, curving gently rightward into the midground. Lush green pine and deciduous trees line both sides of the road, forming dense forests on a rising hillside to the right and more sparsely on the left, where distant mountains are visible. Above, a bright blue sky with scattered white clouds fills the upper half of the frame, positioned ahead of the viewer.
+
+end of description
+
+As the frames progress, the viewer advances along the road, causing the trees and ground cover previously ahead to pass to the immediate left and right, then behind the original viewpoint, while the distant mountains on the far left become progressively clearer and larger. The forested hillside to the right also continuously unfolds, revealing new sections of trees and slopes to the right of the original scene.
+frame_0000000128-frame_0000000256:
+The first frame presents a highway extending from the viewer's immediate position into the distance, with green foliage and a distant mountain range on the left, and a dense, upward-sloping forest on the right, all beneath a clear blue sky.
+end of description
+The viewpoint moves forward along the highway. As the viewer progresses, the roadside foliage, the distant mountain on the left, and the forested hill on the right continuously shift, revealing new sections of the landscape ahead. A black and yellow delineator post appears on the right shoulder of the road, moving from the distance towards the viewer. The distant vehicle on the road ahead gradually appears larger, indicating continued forward motion.
+frame_0000000256-frame_0000000384:
+The first frame presents a bright, clear day on a mountain road with a wide view. An asphalt road, featuring double yellow center lines and a white right shoulder line, extends from the bottom center towards a gentle curve to the left in the middle distance. To the right, a grassy slope rises, densely covered with various evergreen and some deciduous trees. To the left, a flatter grassy area contains several large pine trees, with a distant, rugged mountain range visible in the far left background under a predominantly clear blue sky with a small cloud cluster near the distant center.
+end of description
+As the frames progress, the viewpoint steadily moves forward along the road. Objects in the immediate foreground, like the trees and grassy areas on both sides, recede and move out of the frame, revealing more of the road ahead and the unfolding treelined mountain pass. The distant mountain range on the far left becomes slightly more pronounced, but no entirely new scenes or major objects are dramatically introduced; instead, the existing environment is traversed.
+frame_0000000384-frame_0000000512:
+The viewer looks forward from a vehicle on a paved two-lane road, marked with a double yellow line down the center and a white line on the right shoulder. To the left, there is a wider paved area alongside the road, followed by several tall pine trees and distant mountains under a clear blue sky. To the right, a grassy slope rises, densely covered with a mix of pine and deciduous trees, with some smaller shrubs closer to the road. The road ahead curves gently into a distant forested area, with some white clouds visible near the horizon.
+end of description
+As the frames progress, the viewpoint steadily moves forward along the road. The immediate landscape, including the trees and grassy slopes on both sides, continuously shifts towards and then past the viewer, revealing more of the winding road ahead. The distant mountains to the left and the general forested terrain gradually come closer and then recede, maintaining the open, clear sky overhead. No entirely new objects or scenes are revealed; rather, the existing natural environment continuously unfolds from the first-frame viewpoint.
+frame_0000000512-frame_0000000640:
+The scene captures a two-lane asphalt road with double yellow center lines extending forward, curving right. To the left, a dark evergreen tree and a paved shoulder transition into a grassy valley with distant, tree-covered mountains. On the right, an upward-sloping embankment is densely forested with aspens and evergreens, all beneath a clear blue sky.
+end of description
+As the viewpoint moves forward along the road, a white sedan initially appears far in the distant left lane. This vehicle steadily approaches the viewer, becoming larger and more clearly defined in the opposite lane.
+frame_0000000640-frame_0000000768:
+The first frame displays a scenic mountain road under a clear blue sky, with a silver car approaching the viewer from the left, alongside a grassy field and distant mountains. To the right, a dense forest of tall aspen and evergreen trees lines a sloped embankment.
+end of description
+As the video progresses, the viewer's perspective moves forward along the road. The silver car on the left passes and exits the frame, while the surrounding trees and distant landscape continuously shift, revealing new sections of the winding mountain scene.

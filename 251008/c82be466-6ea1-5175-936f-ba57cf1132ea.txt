@@ -1,0 +1,13 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a wet, illuminated city street at night, with a paved sidewalk on the right featuring a metal bollard, bare trees, streetlights, and a glowing turquoise bus stop, while the main street on the left shows reflective asphalt, barriers, and distant city lights.
+end of description
+Subsequently, a white SUV with visible headlights and red taillights enters from the left and drives across the wet street towards the right. The vehicle continues its movement, passing the mid-ground trees and exiting the frame to the right, creating ripples in the standing water. As the SUV departs, a faint dark silhouette, possibly a person or scooter, becomes visible on the distant right sidewalk, moving further away from the viewer.
+frame_0000000128-frame_0000000256:
+The first frame displays a wet, dimly lit city street at night from a pedestrian's low vantage point. Immediately in front of the viewer lies a crosswalk on the asphalt road, which is flanked by a narrow sidewalk with a metal barrier to the left, and a wider sidewalk with a tactile paving strip to the right. Along the left sidewalk, a street pole with multiple green and blue signs, another information pillar, a bare tree, and a purple scooter are visible, followed by a bus stop further into the mid-ground. On the right, a modern bus stop shelter with large, reflective glass panels extends into the mid-ground. The street continues into the distance, lined with trees and illuminated by numerous streetlights and distant building lights in the background.
+
+end of description
+Throughout the subsequent frames, continuous rainfall is visible as white streaks falling across the entire scene. The reflections on the wet street and the glass bus shelter subtly shift and shimmer with the falling rain. Around the seventh frame, a distant traffic light visible on the right side of the street transitions from off to green. No new objects or significant positional changes of existing objects occur relative to the first-frame viewpoint.
+frame_0000000256-frame_0000000384:
+The first frame displays a rain-soaked city street at night, receding into the distance. On the left, a purple scooter is parked near a tree, accompanied by street signs and a bus shelter, while a reflective glass structure defines the right side. Streetlights illuminate the wet pavement, and distant buildings show faint lights.
+end of description
+Rain continues to visibly fall throughout the scene. From frame 5, a large white truck emerges from the distant left on the street, progressively moving closer towards the viewer's left side. By frame 9, the truck has advanced significantly, passing the initial tree on the left.

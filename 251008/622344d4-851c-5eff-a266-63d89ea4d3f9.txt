@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a rainy park scene with a wet paved path and a silver railing curving into the distance on the viewer's right foreground, bordering dense green bushes. To the left of these bushes lies a rippled lake, across which a line of green trees forms the background, while a wooden pier with a small shelter and a red life buoy is visible on the far right bank. Overhanging tree branches partially obscure the top of the frame.
+
+end of description
+
+Throughout the subsequent frames, the rain continues to create ripples on the lake's surface, and from the fourth frame onwards, a person holding a red umbrella briefly emerges walking away from the viewer on the path, appearing in the mid-ground to the right, before moving further into the distance.
+frame_0000000128-frame_0000000256:
+In the first frame, a wet paved path extends from the foreground on the right, curving away with a silver metal railing lining its left edge. To the left of the path, a dense row of green bushes separates it from a calm body of water occupying the midground. Across the water to the left, a thick line of green trees forms the far bank, while on the right, a wooden boardwalk with two covered pavilions extends into the water, with a red life buoy visible. In the background to the right, a multi-arched bridge spans above the trees and boardwalk, all under an overcast sky suggesting rain.
+
+end of description
+
+Subsequent frames reveal dynamic changes primarily in the form of rainfall: numerous raindrops continuously strike the water's surface in the midground, causing transient ripples and small splashes. The visible intensity and specific patterns of these water disturbances subtly evolve with each passing moment, entirely contained within the existing scene from the initial viewpoint.

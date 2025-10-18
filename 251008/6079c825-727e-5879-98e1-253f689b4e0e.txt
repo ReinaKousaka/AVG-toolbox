@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame displays an aerial view of a vibrant blue and turquoise ocean filling the foreground and mid-ground, with a small white boat visible in the mid-ground water slightly left of center. Along the mid-ground and background, a rugged coastline emerges, featuring steep cliffs and numerous terraced vineyards and buildings ascending the hills towards the top-left and top-center.
+end of description
+There are no dynamic changes or newly revealed objects in the following frames; all subsequent frames are identical to the first.
+frame_0000000128-frame_0000000256:
+An aerial view presents a vibrant blue and turquoise sea dominating the foreground and right side. To the left, a rugged coastline with dark cliffs and green vegetation recedes into the upper-right background. Above these cliffs, on the upper-left, lie extensively terraced hillsides with reddish earth, dotted with small buildings and green crops. A small, dark object, resembling a boat, is visible in the mid-ground water, just left of the frame's center and close to the rocky shore.
+end of description
+A small dark boat, initially positioned in the mid-ground water slightly left of center near the coastline, steadily moves towards the right across the frames. It gradually shifts further from the coast and closer to the center of the water area. By the final frame, the boat has traversed a significant distance to the right, now appearing in the right half of the scene relative to its original position.

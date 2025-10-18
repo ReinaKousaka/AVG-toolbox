@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a wet, uphill asphalt road curving gently left, flanked on the right by a dark green SUV parked on a driveway adjacent to a dense green hedge. To the left, a concrete wall with ivy, a gray gate, a utility pole, and a convex mirror line the road, while traditional tiled-roof houses are visible in the midground beyond trees and bushes. More buildings and misty pine-covered hills stretch into the background under an overcast sky, with raindrops clearly falling throughout the scene.
+end of description
+In the following frames, the primary dynamic change is a noticeable increase in the visible intensity of the rainfall, causing the wet surfaces to appear more saturated within the existing scene, but no new objects or areas are revealed.
+frame_0000000128-frame_0000000256:
+The first frame presents a wet, uphill paved road in the center, flanked by a dark green camper-equipped vehicle parked on a driveway to the right, and a large grey gate with ivy-covered walls and a convex mirror on the left; traditional tiled roofs and lush trees are visible in the hazy background.
+end of description
+Following this, the grey gate on the left slowly swings open inwards, progressively revealing a paved area and other parked vehicles behind it, while the dark green camper vehicle on the right remains stationary throughout the sequence.
+frame_0000000256-frame_0000000384:
+A wet asphalt road, reflecting light from a cloudy sky, slopes uphill into the distance, with a dark green camper van occupying the right foreground and a gray building, a utility pole with a convex mirror, and parked cars partially visible on the left. Traditional buildings with dark tiled roofs are nestled among lush trees on the right midground, lining the ascending road.
+end of description
+The dark green camper van slowly backs away from the viewer, moving uphill and towards the right edge of the frame. It continues reversing until it fully exits the scene to the right, leaving the right foreground of the wet road empty.

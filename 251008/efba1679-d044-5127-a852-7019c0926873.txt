@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame captures a rainy city street at dusk, with a blurry person holding a clear umbrella moving towards the viewer in the immediate foreground on the left. A dark fence separates the wet sidewalk from a treed area on the left, while parked vehicles like a dark pickup truck and a white van line the right, all illuminated by bright streetlights further down the road and reflecting on the wet pavement.
+end of description
+Subsequently, the foreground person with the umbrella quickly moves out of frame to the left. Two other individuals with an umbrella, initially visible further down the sidewalk relative to the first-frame viewpoint, steadily walk away from the viewer towards the receding background over the following frames.

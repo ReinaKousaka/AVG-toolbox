@@ -1,0 +1,30 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a stone-paved street extending away from the viewer, lined on both sides by traditional Japanese buildings featuring dark tiled roofs and white walls with black trim. To the left, a small market stall with blue banners is visible in the foreground, and a low stone wall runs alongside the path. To the right, a stone lantern, surrounded by rocks and small plants, stands beside the path with several wooden stumps in front of it. In the distance, a few small figures walk along the street, and a bright, cloudy sky is visible above the buildings.
+end of description
+No dynamic changes, newly revealed objects, or scene alterations occur across the subsequent frames; the scene remains static.
+frame_0000000128-frame_0000000256:
+The first frame shows a traditional Japanese street with a paved stone path extending into the distance, flanked by stone walls and buildings with dark tiled roofs and timber facades. To the viewer's left, a building features a blue fabric banner, while on the right, a stone lantern and bare trees stand beside a stone retaining wall with a wooden fence. Two figures are walking away from the viewer on the path in the midground, with more traditional buildings visible further down the street under a partly cloudy sky.
+end of description
+The viewpoint steadily advances forward along the stone path. Consequently, the two figures in the midground progressively move further away from the viewer into the distance. Objects on the sides, such as the stone lantern and the blue banner, gradually shift towards the edges of the frame as the camera moves past them, revealing more of the street ahead. Simultaneously, new sections of the stone path appear closer to the viewer's immediate foreground.
+frame_0000000256-frame_0000000384:
+The viewer observes a traditional street paved with stone, transitioning to a rectangular paver path leading into the distance. On the left, a row of traditional Japanese buildings with dark roofs, white walls, and various signs line the street, while on the right, a large dark-timbered building with bare branches, a low stone wall, and greenery is present. Two individuals are seen walking away from the viewer in the mid-distance on the paved path under a partly cloudy sky.
+end of description
+In the following frames, these two individuals steadily progress further down the street, moving deeper into the background relative to the first-frame viewpoint, gradually diminishing in size as they recede.
+frame_0000000384-frame_0000000512:
+The first frame shows a narrow, paved stone path extending from the viewer into the distance, flanked by rough stone and dirt ground. To the left, a traditional Japanese building with a tiled roof and white and dark wooden walls features banners with Japanese text. To the right, another similar traditional building with dark wooden siding displays banners, decorative wagon wheels, and a wooden bench in the foreground. Two people are walking away from the viewer on the central path, heading towards distant buildings under a partly cloudy sky.
+end of description
+The two people on the path continue to walk further away from the viewer into the background. A "Virtual Japan.TV" watermark appears in the bottom left corner and becomes more defined as the frames progress.
+frame_0000000512-frame_0000000640:
+The first frame depicts a traditional Japanese street scene with a stone-paved path running uphill from the foreground into the background. On the immediate left, a large dark wooden signpost with white Japanese characters stands before a traditional building with a dark tiled roof and white and dark wooden walls; another similar building is further along on the left, with benches and flower pots near the viewer. On the right, another traditional building with dark wooden siding and a tiled roof features a wooden cart wheel and ladder leaning against its wall in the mid-right. Two individuals are walking away from the viewer on the path in the midground. The background shows more traditional buildings lining the ascending path under a partly cloudy sky.
+
+end of description
+
+The two individuals on the path consistently move further away from the first-frame viewpoint, walking deeper into the scene along the stone-paved path, gradually diminishing in size as they recede.
+frame_0000000640-frame_0000000768:
+A stone-paved street, lined with traditional Japanese buildings and signs, recedes into the distance under a partly cloudy sky. In the mid-right, two masked pedestrians, a man and a woman, walk towards the viewer, while a wooden bench and flower pot are visible on the left foreground.
+end of description
+Throughout the sequence, the man and woman move from the mid-right towards the viewer and the right side of the frame. The man, initially to the right and slightly ahead of the woman, progressively moves closer to the viewer and exits the frame to the right. The woman, initially to the left and slightly behind the man, also continues walking closer to the viewer and to the right, becoming the prominent figure on the right side before also exiting the frame to the right.
+frame_0000000768-frame_0000000896:
+A traditional Japanese street scene features a stone-paved path receding uphill, flanked by multi-storied buildings with dark roofs and white-and-black walls. In the foreground left, a planter of flowers rests next to a building displaying Japanese signs, while on the right, a person in a dark coat and fur-lined hood is partially visible, looking down.
+end of description
+The person initially visible on the foreground right slowly moves further right and out of the frame entirely by the fifth frame. Concurrently, the viewer's position shifts forward along the path, revealing more of the distant street and bringing the buildings on both sides, including a red bench emerging on the right, closer into view.

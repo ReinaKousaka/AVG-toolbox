@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+First, a city intersection is visible, featuring a crosswalk in the foreground and multi-story buildings on both sides, including one with a red traffic light on the left and another with a red storefront on the right. Several pedestrians are present: one in yellow crossing right-to-left, two on the far left sidewalk, and one in dark attire entering the crosswalk from the far right.
+end of description
+Next, the person in yellow moves further left across the crosswalk. The person in dark attire also advances leftward, revealing a new pedestrian with a backpack walking away from the viewer towards the left-center of the intersection, and an initially obscured green traffic light on the far right. The red traffic light on the left remains unchanged.
+frame_0000000128-frame_0000000256:
+The first frame displays a city street with a marked crosswalk in the foreground. A person walks across the crosswalk from left to right, moving away from the viewer, while a utility pole stands centrally with a red traffic light and green pedestrian signal positioned above and to the far left. To the right, a white building with a red and black ground-floor storefront and a blue sign above it is visible, flanked by a darker building further right and a light yellow building to the left in the background.
+end of description
+The pedestrian continues walking further away from the viewer towards the left background. Subsequently, a cyclist enters from the far right of the scene, moving leftwards across the foreground, passing in front of the red-and-black storefront located to the right of the initial viewpoint.

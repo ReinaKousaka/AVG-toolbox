@@ -1,0 +1,10 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a paved road curving left into the distance, flanked by a metal guardrail on the viewer's left, beyond which lies a green valley with distant mountains, and a steep, densely tree-covered hillside on the viewer's right, all under a clear blue sky.
+end of description
+As the viewer moves forward along the winding road, the guardrail and valley on the left, and the dense foliage of the hillside on the right, continuously scroll past from the foreground to the sides. Further into the curve, a dark vehicle emerges ahead on the road, gradually appearing closer to the viewer's original position.
+frame_0000000128-frame_0000000256:
+A paved asphalt road curves left in the foreground, marked by a solid white line on the right and double yellow lines in the center, leading towards a dark car in the mid-ground ahead. To the immediate left, a metallic guardrail follows the road, beyond which a verdant, tree-covered mountain rises. On the right, a steep, rocky hillside densely covered with vegetation extends upwards, mirroring another distant green mountain on the far left. The scene is topped by a clear blue sky.
+
+end of description
+
+The viewpoint moves forward along the road, causing the dark car in the mid-ground to gradually approach while remaining ahead as the road curves left. The guardrail and foreground vegetation on the left move past the viewer and exit the frame, revealing more of the continuous, steep hillside to the left. Simultaneously, the rocky, vegetated hillside on the right continuously slides past, exposing new sections of the winding road and natural environment ahead, all under the clear blue sky.

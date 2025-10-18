@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a paved road stretching into the distance, with two dark cars driving away from the viewer in the center. To the left, there's a red-paved bike lane alongside a green median with trees and a parked white car, while on the right, a sidewalk features yellow parking blocks, a palm tree, a tall building with a white gate, and a person walking.
+end of description
+As the viewpoint moves forward, the cars ahead recede into the distance, and the white car previously on the left passes behind the viewer, revealing more parked vehicles on that side. The person on the right also disappears behind the viewer, as a large black van becomes prominent on the right sidewalk, ahead of a newly visible red building. The distant glass buildings on both sides become closer, and the road markings transform from a dashed line to a turn arrow and a crosswalk ahead of the viewer.
+frame_0000000128-frame_0000000256:
+The first frame captures a street from a vehicle's perspective, featuring an asphalt road with white crosswalks and a red bike lane to the left. Several cars are visible ahead on the road, while a large black van is parked on the immediate right, partially concealing a red building with flags and a green roof behind utility poles and trees. On the left, a sidewalk lined with trees leads to a modern glass building displaying a Peruvian flag.
+end of description
+As the vehicle moves forward, the parked black van passes out of view to the right, fully revealing the red building's entrance and flags, along with a "VISA" sign near a tree. Simultaneously, a pedestrian becomes visible walking further along the left sidewalk as the scene progresses.
+frame_0000000256-frame_0000000384:
+The first frame displays a street scene with a dark grey car partially visible on the immediate left and a white SUV parked on the right, adjacent to a building with a 'VISA' sign surrounded by trees. Directly ahead, several cars are moving down the road, which is flanked by modern buildings and numerous trees receding into the distance under a bright sky.
+end of description
+As the viewpoint progresses forward, the dark grey car on the left moves out of frame, and the parked white SUV and 'VISA' sign on the right recede and are eventually passed. New sections of buildings and trees continuously appear to the sides as the viewer moves further along the street.

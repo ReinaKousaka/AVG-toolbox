@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a rainy night street with wet, reflective pavement extending forward from the viewer. To the left, parked bicycles line a sidewalk next to a brightly lit glass structure, with distant city lights and buildings visible further down the street. On the right, closed storefronts with roll-down shutters and various illuminated signs, including a prominent white sign with "1500원," flank the street.
+end of description
+In the subsequent frames, the scene remains static except for the dynamic, continuous fall of rain across the foreground and midground, creating shifting streaks and reflections on the wet surface. No new objects appear, and all elements to the left and right maintain their original spatial positions relative to the first-frame viewpoint.
+frame_0000000128-frame_0000000256:
+The first frame displays a rainy city street at night, featuring a row of parked bicycles and a glass-enclosed subway entrance to the left. To the right, closed storefronts with graffiti-covered shutters and neon signs, alongside a coffee advertisement, extend into the distance, all reflected on the wet pavement.
+end of description
+Throughout the subsequent frames, the intensity of the falling rain noticeably diminishes across the entire visible scene from the viewer's perspective. No new objects are revealed, and all existing elements maintain their initial spatial positions.
+frame_0000000256-frame_0000000384:
+The first frame displays a wet, illuminated street at night, with several bicycles and a scooter parked in the foreground-left next to a glass-paneled subway entrance labeled '1', revealing a descending escalator inside. A long row of closed storefronts with metal shutters, some red, runs along the mid-ground-right into the background, beneath glowing neon signs, all reflecting in the damp pavement stretching into the distance.
+end of description
+The following frames show the viewpoint moving slowly forward and slightly to the right, causing the subway entrance on the left and the storefronts on the right to become larger and more detailed relative to the initial position. The parked bicycles and scooter exit the frame to the far left as the camera progresses down the street, while the reflective wet surface continues to dominate the foreground.

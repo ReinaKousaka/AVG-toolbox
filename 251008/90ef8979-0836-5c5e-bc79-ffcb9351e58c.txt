@@ -1,0 +1,10 @@
+frame_0000000000-frame_0000000128:
+The viewer's perspective is from a car on a winding mountain road, showing a silver station wagon, a dark car, and a lighter car ahead, all turning left. To the right, a metal guardrail runs alongside a steep, forested mountainside, with a brown building overhang visible in the upper right corner.
+end of description.
+As the scene progresses, the brown overhang quickly exits the frame from the upper right, while the viewer's car moves forward and turns left. The guardrail extends further right relative to the initial view, and the vehicles ahead shift left and become more fully visible as they navigate the curve.
+frame_0000000128-frame_0000000256:
+The viewer is positioned on a winding mountain road with a grey guardrail extending along the right side. In the immediate left foreground, a white car is present, followed by a dark grey SUV and other vehicles further ahead, all traveling in the same direction away from the viewer. Lush green forested mountains rise steeply on both sides of the road, dominating the background under a clear blue sky.
+
+end of description
+
+As the sequence progresses, the viewer's vehicle moves forward; the white car initially to the left of the viewer drives past and out of the frame. Subsequently, the dark grey SUV moves into the immediate left foreground and also passes the viewer's position, revealing more of the winding road ahead and the continued forested mountain slopes.

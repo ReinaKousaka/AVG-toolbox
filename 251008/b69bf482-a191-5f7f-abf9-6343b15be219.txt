@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a snow-covered city street at night, with illuminated shop windows on buildings lining the left and a white SUV parked on the right. Several pedestrians are visible in the mid-ground and distance, navigating the snowy thoroughfare flanked by tall buildings.
+end of description
+From the initial viewpoint, the buildings and parked SUV remain stationary. An individual on the mid-right continues walking further into the distance along the sidewalk, while a new person, initially obscured behind a snowdrift on the mid-left sidewalk, emerges and walks directly towards the viewer along the snowy street.
+frame_0000000128-frame_0000000256:
+The first frame depicts a snow-covered city street at night, illuminated by storefronts lining buildings on both sides. A person in dark clothing stands centrally in the midground, facing the viewer, with a dark vehicle partially visible on the far right foreground and distant pedestrians further down the street.
+end of description
+The person then walks directly towards the first-frame viewpoint, passing it on the immediate right in the foreground, and continues receding into the distance along the street. Throughout this movement, the street, buildings, and other background elements remain stationary relative to the first-frame viewpoint.
+frame_0000000256-frame_0000000384:
+The viewer is positioned on a snow-covered street at night, looking down a city thoroughfare flanked by multi-story buildings under a dark sky. On the immediate left, partially covered in snow, are outdoor cafe tables and chairs with two parked bicycles, followed by a significant snowdrift further along the sidewalk. On the right, shopfronts with illuminated displays and a prominent blue awning are visible, with more buildings receding into the distance, and several pedestrians are scattered in the mid-ground and far distance.
+end of description
+A lone pedestrian, initially in the mid-distance on the right side of the street, walks steadily towards the viewer. This individual, dressed in a dark coat and carrying a bag, moves progressively closer, shifting from the right mid-ground to the center-right foreground of the street as the sequence unfolds. Other distant figures remain largely stationary or move subtly within the frame.

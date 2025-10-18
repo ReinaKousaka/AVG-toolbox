@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a rainy city street at night, likely in Korea, with a wet, reflective pavement stretching into the hazy distance. To the left of the viewer, a bus stop with bright advertising screens and multi-story buildings are visible, flanked by a black railing in the foreground. To the right, closed storefronts with metal shutters display various red, orange, and green neon signs, while streetlights, a bare tree, and a green traffic light illuminate the middle distance.
+end of description
+Chronologically, the most significant dynamic change is the prominent red neon sign on the right-side building, which repeatedly blinks on and off relative to the first-frame viewpoint. All other visible lights and objects remain static throughout the sequence.
+frame_0000000128-frame_0000000256:
+First, a wet, dark city street scene is visible at night, featuring a bus stop and trash bags in the foreground-left, dark kiosks and parked bicycles in the mid-ground, and buildings with illuminated signs, including "KUMKANG" on the right, lining the street under bright streetlights and a green traffic light in the background.
+end of description
+As the camera slowly pans right, the bus stop and trash bags exit the frame to the left of the initial viewpoint, while new segments of the wet street, sidewalks, and building facades further to the right of the original scene are revealed, with visible rain continuing to fall.

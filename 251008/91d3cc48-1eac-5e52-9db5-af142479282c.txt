@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a wet, paved road in the foreground leading towards a modern building on the left, which has a glass facade and white sections. A light pink car is parked on the left near a hedge, and further back, an illuminated entrance with a sign is visible. To the right, beyond a grassy area, a parking lot contains several parked cars, backed by another dark-colored modern building.
+end of description
+A white car, initially parked on the far right of the parking lot, begins to move forward, turning left onto the paved road from the right side of the first-frame viewpoint. It continues driving towards the left, passing a parked black car and heading generally towards the viewer, gradually occupying the central-right portion of the paved road.
+frame_0000000128-frame_0000000256:
+The first frame presents a wet, paved road leading from the viewer into the midground, flanked by a patch of grass and a dark post on the right, and a sign/kiosk on the near left. A white sedan is positioned slightly left of the road's center, facing away from the viewer. To the far left, a large white building with a glass storefront reading "WHITE BLOCK ART CENTER" is visible, while several parked cars and other buildings are further back to the right.
+end of description
+In subsequent frames, the white sedan in the midground begins to move towards the viewer and to the left. It steadily approaches, passes the first-frame viewpoint, and continues its trajectory until it exits the frame to the viewer's left. No other significant dynamic changes or new objects are revealed.
+frame_0000000256-frame_0000000384:
+The first frame displays a wet, paved brick road curving into the midground. To the immediate left, a white car is partially visible, while on the right, green foliage borders a parked white SUV. A modern building, labeled "WHITE BLOCK ART CENTER," with white and glass sections, stands prominently to the left. In the midground, several cars are parked, with a black SUV situated centrally on the road, and additional buildings and trees are visible in the distance under an overcast sky.
+end of description
+Following frames show the black SUV in the midground slowly driving forward and to the right, moving away from the viewer. In later frames, prominent streaks of rain appear across the entire view, indicating precipitation on the camera lens or windshield.

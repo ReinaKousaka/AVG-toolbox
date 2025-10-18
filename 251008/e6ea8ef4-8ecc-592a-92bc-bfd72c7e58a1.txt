@@ -1,0 +1,30 @@
+frame_0000000000-frame_0000000128:
+A paved road with a central dashed line stretches forward from the viewer, flanked by lush green fields. To the left, railway tracks run parallel to the road, passing a two-story house with a white car parked beside it, all beneath overhead power lines. Towering, forested mountains rise steeply on both sides, converging in the distance where the road disappears under a bright blue sky with wispy clouds.
+end of description
+As the viewpoint progresses, the viewer moves forward along the road; the house and railway tracks on the left slowly recede to the left and rear. The road's curve ahead becomes more apparent, and more distant sections of the mountain valley and railway infrastructure further ahead are revealed.
+frame_0000000128-frame_0000000256:
+In the first frame, the viewer is positioned on a paved road extending forward into a valley, flanked by steep, green-covered mountains on both the left and right sides. To the immediate left are railroad tracks parallel to the road, with a small brown building beyond them. To the immediate right, a grassy verge and a wooden post and wire fence line the road, which has white markings. Distant, rocky mountains are visible at the far end of the valley under a bright blue sky with scattered clouds.
+end of description
+As the frames progress, the viewpoint moves forward along the road, causing the foreground elements to recede. The small brown building and the initial section of railroad tracks on the left move further back and eventually out of view to the left. Concurrently, the fence on the right recedes, revealing a herd of light brown cows grazing in the grassy field that was previously partially obscured by the fence. The surrounding mountains appear to get slightly closer as the path into the valley unfolds.
+frame_0000000256-frame_0000000384:
+The first frame features a paved road with white markings stretching centrally away from the viewer, flanked by railroad tracks and a steep green grassy slope on the left, and a grassy field with a narrow dirt path and white fence posts on the right, where cows graze. Majestic, tree-covered mountains rise on both sides, forming a valley that recedes into the distance under a blue sky with scattered clouds.
+end of description
+As the camera moves forward, the road, tracks, and immediate surroundings continuously emerge from the foreground and recede from view. Utility poles on the left and white fence posts on the right progressively appear closer before moving past the viewer. Concurrently, the distant mountains and small buildings in the valley ahead gradually grow larger and appear nearer, revealing new sections of the landscape.
+frame_0000000384-frame_0000000512:
+The first frame features a straight paved road extending into the distance, flanked by railway tracks to its left and a narrower dirt path to its right. Lush green meadows with scattered houses and electrical poles line both sides, leading up to steep, tree-covered mountains that form a valley stretching into the horizon, under a bright blue sky with wispy clouds.
+
+end of description
+
+As the viewpoint steadily moves forward, the road, railway tracks, and parallel path continuously advance from the distant middle ground to pass beneath the viewer. Objects like electrical poles and segments of the grassy fields, which were ahead in the first frame, emerge and progressively shift towards the sides and bottom, revealing new stretches of the valley and mountains further ahead.
+frame_0000000512-frame_0000000640:
+The first frame displays a paved road stretching directly away from the viewer into a valley, with railroad tracks paralleling it immediately to the left and a grassy field with a dirt path to the right. Steep, green mountains rise prominently on both sides, framing the distant valley floor where scattered houses are visible under a blue sky with light clouds. end of description. As the video progresses, the viewpoint steadily advances along the road, causing foreground elements like the white lane markers, fence posts, and nearby grass to recede and eventually move behind the viewer. Simultaneously, new sections of the road, tracks, and the immediate landscape continuously emerge ahead, revealing more of the valley as the distant mountains appear to gradually approach the viewer.
+frame_0000000640-frame_0000000768:
+The first frame shows a valley view from a road, with railway tracks and green slopes rising to a dark mountain on the viewer's left, and a grassy field with white fence posts and scattered buildings to the right, all bordered by towering, verdant mountains in the background under a blue sky.
+end of description
+As the frames progress, the viewpoint moves continuously forward along the road, causing the railway tracks, road markings, and white fence posts on the right to recede past the viewer. The mid-ground buildings and surrounding mountain details gradually approach and then pass, revealing more of the road and valley ahead without significant new objects being introduced to the scene.
+frame_0000000768-frame_0000000896:
+In the first frame, a paved road stretches centrally into a mountain valley under a bright blue sky. To the viewer's left, railway tracks run parallel to the road, passing a traditional house with a dark roof, all situated against a steep, forested mountain slope. To the right, a grassy verge and a metal barrier line the road, with another steep, forested mountain slope rising beyond. Distant rocky mountains define the valley's horizon.
+
+end of description
+
+As the frames progress, the viewpoint moves forward along the road, indicating continuous vehicular motion. The white dashed line on the road, railway tracks, and white posts to the left recede, moving past the viewer. Simultaneously, the grassy verge and metal barrier to the right also move past the viewer. The house on the left becomes progressively closer and larger, while new sections of the road and the distant valley are continually revealed ahead. The surrounding mountains remain fixed in the background but gradually appear larger as the viewer advances towards them.

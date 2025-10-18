@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+A winding dirt path occupies the foreground, leading away from the viewer up a gentle incline flanked by green, rocky slopes. In the midground, the path continues and forks, with a large, light-colored scree slope dominating the background, framed by darker, craggy mountains to its left and right. A small figure is barely visible walking on the path in the lower right corner.
+end of description
+The camera slowly pans upward and zooms out, progressively revealing more of the immediate steep, grassy, and rocky terrain that was initially below the first-frame viewpoint. The small figure on the path moves further away, becoming more centered and smaller as the camera ascends. The winding paths in the midground and background become more distinct, showing their branching nature more clearly as the overall landscape recedes from the viewer.
+frame_0000000128-frame_0000000256:
+The first frame presents an aerial view of a mountain valley, with a light brown dirt path meandering from the bottom foreground through rocky, green and brown slopes. In the midground, the path continues towards a large, pale scree slope that fills the background between towering, rugged mountain peaks on the left and right.
+end of description
+A lone person emerges on the path in the mid-right relative to the first-frame viewpoint and steadily walks away from the viewer along the winding trail. This individual progresses further into the valley, eventually becoming a small, distant figure approaching the large scree slope in the upper mid-distance before moving largely out of clear sight.

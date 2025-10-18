@@ -1,0 +1,10 @@
+frame_0000000000-frame_0000000128:
+The first frame captures a vibrant city intersection under a clear blue sky, featuring a prominent white multi-story building on the left, flanked by numerous modern skyscrapers in the background. In the foreground, three pedestrians walk away from the viewer towards the left, while a white sedan crosses the intersection from right to left, and a white SUV is stopped further left.
+
+end of description
+
+As the frames progress, the three pedestrians continue their movement away from the viewer and towards the left, gradually advancing across the intersection. Simultaneously, the white sedan continues to drive further left and away from the viewer, while other vehicles and pedestrians on the distant right sidewalk also exhibit subtle forward movement relative to their initial positions.
+frame_0000000128-frame_0000000256:
+In the first frame, three individuals—an adult male with a blue shopping bag, an adult female, and a child—are seen from behind, walking across a white-lined crosswalk in the bottom-center. To their left, a white SUV is parked, followed by a dark SUV, while a building adorned with yellow flags stands further left. A large white multi-story building and a modern structure with a green glass facade are prominent in the midground at a street intersection, where traffic lights are visible. The background is filled with numerous towering skyscrapers of various designs under a clear blue sky, with a street receding into the distance on the right, populated by more vehicles and pedestrians.
+end of description
+The three people in the foreground continue walking forward, moving away from the viewer and gradually shifting towards the center-right of the frame. On the left, the white SUV moves forward and out of view, followed by the dark SUV. A red taxi newly appears on the far left, moving into the foreground and across the intersection from left to right, becoming increasingly prominent. Other distant vehicles on the right also show slight forward movement.

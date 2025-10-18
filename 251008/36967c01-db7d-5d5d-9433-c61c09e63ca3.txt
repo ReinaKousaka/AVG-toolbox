@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a rainy city street at night, featuring a white sedan in the immediate foreground, right of center, partially on the wet street and curb. Behind it and slightly to its left, a white minivan is parked along the sidewalk, with a tree trunk positioned between the two vehicles closer to the viewer; illuminated buildings with glowing signs line the background across the wet street.
+end of description
+Following this, the white sedan dynamically moves away from the viewer and towards the right, gradually exiting the frame from the right side. Throughout the subsequent frames, the heavy rain persists, while the parked minivan and background cityscape remain static.
+frame_0000000128-frame_0000000256:
+The first frame depicts a rainy city street at night, with a wet sidewalk running along the left side where several small trees and building storefronts with neon signs are visible. In the immediate foreground to the right, the rear portion of a white car is seen, while a large tree trunk stands in the mid-ground center. A white minivan is parked on the wet street in the mid-ground, positioned slightly left of the central tree, facing towards the left. Further in the background, more illuminated buildings line the street, with traffic lights and distant vehicles also visible.
+end of description
+As the frames progress, the white car in the immediate foreground to the right reverses and slowly moves out of the frame, revealing more of the wet street directly in front of the viewer. Simultaneously, the white minivan in the mid-ground begins to move forward and slightly to its left. The scene remains rainy, with reflections consistently visible on the glistening wet surfaces.
+frame_0000000256-frame_0000000384:
+The first frame captures a rainy night urban street scene, with a white minivan prominently parked on the right side of the frame, angled slightly left and away from the viewer. To the left, a wet sidewalk reflects colorful lights from buildings and several trees, leading towards a bustling street in the background, also lined with illuminated signs and buildings.
+end of description
+Following frames show the white minivan moving forward and to the right, gradually exiting the frame. Its movement reveals more of the wet street surface previously obscured by the vehicle. Concurrently, a traffic light visible further down the street on the far side of the intersection transitions from red to green.

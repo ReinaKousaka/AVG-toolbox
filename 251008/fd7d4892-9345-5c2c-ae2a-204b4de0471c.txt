@@ -1,0 +1,28 @@
+frame_0000000000-frame_0000000128:
+A concrete path, resembling a series of steps, descends into a lush green forest, stretching from the viewer's immediate foreground to the distant background. Dense trees and foliage flank both sides of the path, forming a verdant tunnel. On the left, in the mid-ground, a tree branch is adorned with colorful prayer flags in shades of orange, yellow, blue, and red. Further down the path, near the center, another small collection of colorful decorations is visible.
+end of description
+The camera advances forward, descending the concrete path into the forest. The colorful flags on the left mid-ground initially approach and then recede out of view to the left as the viewpoint moves past them. The surrounding dense foliage on both sides subtly shifts, indicating deeper progression into the scene established in the first frame. A "Visit China" watermark appears in the bottom left corner of the frame starting from frame 6.
+frame_0000000128-frame_0000000256:
+A concrete path ascends uphill, flanked by dense green foliage and trees; colorful prayer flags are strung among trees on the mid-left, with more flags visible further up the path.
+end of description
+The scene remains static, with only the colorful prayer flags on the left gently fluttering and the surrounding tree leaves subtly rustling, indicating a slight breeze throughout the subsequent frames.
+frame_0000000256-frame_0000000384:
+The first frame depicts a narrow, light-colored path winding uphill into a dense forest, flanked by lush green trees and undergrowth on both sides. A canopy of leaves arches overhead, and a string of colorful prayer flags (blue, orange, red, white, green) hangs across the lower left foreground. In the mid-distance to the left, a body of water is partially visible through the foliage, while the path culminates in a set of steps further uphill in the center distance, marked by another small cluster of flags.
+end of description
+All subsequent frames are static, showing no dynamic changes; visible objects and their spatial positions remain constant relative to the initial viewpoint.
+frame_0000000384-frame_0000000512:
+A concrete path framed by dirt leads directly away from the viewer, ascending into a dense green forest. To the viewer's immediate left, a string of colorful prayer flags (red, blue, yellow, green) hangs down, partially revealing a body of water beyond lush foliage. The right side of the path is lined with thick green bushes and trees, while the path itself continues into the mid-distance as a series of shallow steps, flanked by a white pole and more colorful flags. The background is dominated by a thick canopy of trees.
+end of description
+The scene remains largely consistent across subsequent frames, with only very subtle dynamic changes. The camera viewpoint drifts slightly forward and slightly upwards, subtly shifting the perspective as if moving along the path, causing objects in the mid-distance to appear incrementally closer. The colorful prayer flags on the left sway minimally in the breeze.
+frame_0000000512-frame_0000000640:
+The first frame shows a shaded, slightly descending concrete path leading into a dense green forest, flanked by trees and abundant foliage on both sides. To the lower left, colorful prayer flags hang from tree branches, while similar vibrant flags are strung across the path further in the distance where it gently ascends.
+end of description
+The viewpoint slowly progresses forward along the path, causing the surrounding foliage to shift slightly relative to the frame. The colorful prayer flags on the left subtly sway, and the flags spanning the path ahead appear gradually closer as the camera advances.
+frame_0000000640-frame_0000000768:
+The first frame displays a downward-sloping concrete path with steps, surrounded by lush green foliage and trees on both sides, extending away from the viewer into a wooded area. A red and green flag hangs from a tree branch on the lower left, closest to the viewer, while a string of colorful flags stretches across the path further ahead, attached to a white pole on the right and a tree on the left.
+end of description.
+The subsequent frames show no significant dynamic changes or newly revealed objects, with the scene remaining static relative to the initial viewpoint.
+frame_0000000768-frame_0000000896:
+A winding dirt path with steps descends into a dense green forest, flanked by trees and foliage. A steep drop-off is visible to the left, while the right side is a thick embankment. Further down the path, a tall pole with colorful prayer flags stretched across it marks a continuation of the descent. Overhead, a lush tree canopy partially obscures the sky.
+end of description
+Subsequent frames reveal a subtle, slow downward camera movement, causing the perspective to slightly lower into the scene relative to the first frame viewpoint, accompanied by gentle swaying of the colorful prayer flags and minor shifts in the surrounding foliage.

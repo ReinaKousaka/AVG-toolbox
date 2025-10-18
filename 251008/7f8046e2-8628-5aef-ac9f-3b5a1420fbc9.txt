@@ -1,0 +1,18 @@
+frame_0000000000-frame_0000000128:
+A narrow paved road extends away from the viewer, bordered by a grassy slope on the left, featuring a large brown and white house with green shutters and a small tree. A blue slide is visible near the house's base. To the right, a long row of pale green cylindrical hay bales lines a bright green field. In the midground, two white vehicles are parked on the left side of the road, with dense trees and additional houses beyond them. A clear blue sky occupies the upper portion, with distant mountains to the far right.
+end of description
+The viewpoint advances along the road, causing the large house on the left to move progressively higher and further left within the frame, and the blue slide to appear longer as more of its base becomes visible. Concurrently, the tree in front of the house also shifts upwards and left. On the right, the line of green hay bales scrolls past the viewer, with new bales continuously entering from the right side of the frame. The parked vehicles further down the road on the left become slightly larger and more central as the viewer approaches them.
+frame_0000000128-frame_0000000256:
+A paved road extends into the distance, flanked on the immediate left by a multi-story wooden house with green shutters and grass, and on the right by a continuous line of light green hay bales next to a vibrant green field. In the middle distance ahead, more houses and dense trees are visible, with mountains forming the backdrop under a clear blue sky.
+end of description
+The viewpoint progresses forward along the road. The wooden house on the left partially moves out of frame, revealing a white caravan and a dark car parked further up the grassy slope on the mid-left. Concurrently, the line of green hay bales on the right appears to extend further into the frame as new bales come into view, maintaining their position relative to the road.
+frame_0000000256-frame_0000000384:
+The first frame shows a paved road curving slightly right, bordered by a large leafy tree and a dark blue car with a trailer on the left, and a row of green silage bales on the right. Further along the left are a white pickup truck and a white van parked near rustic buildings, with green fields, more trees, and distant mountains beneath a clear blue sky.
+end of description
+As the camera moves forward and slightly left, the dark blue car exits the frame to the viewer's left. The white trailer, pickup truck, and van on the left become more visible and shift leftward relative to the first-frame viewpoint. Simultaneously, the green silage bales on the right move out of view to the bottom right, revealing more of the road and background structures.
+frame_0000000384-frame_0000000512:
+The first frame depicts a rural road that curves to the right, leading into the distance under a clear blue sky. On the immediate left, a white pickup truck is visible in the foreground, partially obscuring a grey trailer, with a white van parked behind it next to a wooden building. Further down the road on the right, a large house with a red roof stands beside a bright green grassy field, where several pale green wrapped hay bales are visible in the bottom right foreground. Distant mountains line the horizon far to the right.
+
+end of description
+
+As the viewpoint progresses forward, the white pickup truck on the left moves out of frame to the left, revealing more of the white van parked behind it, which then shifts closer to the viewer and to the left. The road ahead and the buildings on the left appear closer, while the pale green hay bales on the right move out of frame to the right.

@@ -1,0 +1,14 @@
+frame_0000000000-frame_0000000128:
+The first frame captures a rainy night city street, with a partially submerged white guard booth and bare trees on a flooded sidewalk in the left foreground, separated by a yellow curb from a reflective wet road on the right. The road displays moving vehicle lights and distant red traffic signals, against a backdrop of illuminated towering city buildings.
+end of description
+As the camera slowly pans left, the dark pole in the mid-foreground shifts progressively towards the right side of the frame and eventually moves out of view. This reveals more of the flooded sidewalk, the white guard booth, and a white building facade that were initially positioned further to the left of the first-frame viewpoint.
+frame_0000000128-frame_0000000256:
+In the first frame, the viewer is on a wet sidewalk at night, looking down a street during rainfall. A bare tree supported by poles is centrally positioned, with a small white striped kiosk with a window to its immediate right. To the left, a long light-colored wall with posters runs parallel to the sidewalk, while a wide, reflective street with car headlights and city lights stretches into the distance on the right.
+end of description
+The viewpoint slowly moves forward and slightly left. The kiosk and central tree gradually shift to the right, revealing more of the wet sidewalk and distant bare trees to the left of the original tree's position. A yellow bus, initially far down the street on the right, moves prominently from right to left across the street ahead of the viewer. The perspective continues to widen, showing more of the street and distant city as the viewer progresses forward.
+frame_0000000256-frame_0000000384:
+In the first frame, a wet city street at night is visible. To the immediate right, a tree with support poles stands beside a light-colored building or kiosk. To the left, a wet sidewalk with a prominent yellow tactile paving strip runs alongside a low wall and a long white temporary barrier. In the midground, the street reflects distant lights, showing several bare trees, a white car, a green bus further left, and a red traffic light on the right. Tall city buildings with illuminated windows line the dark horizon in the background.
+
+end of description
+
+As the frames progress, the scene remains rainy. The white car, initially in the mid-right, moves forward and slightly left on the street. Behind it, a dark car also advances. Simultaneously, the green bus, previously positioned in the mid-left, travels further right across the midground, passing the center trees. The traffic light on the right in the midground changes from red to green, coordinating with the vehicle movement.

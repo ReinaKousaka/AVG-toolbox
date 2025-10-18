@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a paved road extending from the viewer's immediate foreground towards a gentle curve in the middle distance. To the viewer's left, a steep, tree-covered rocky slope rises, while a guardrail parallels the road on the right, alongside a grassy field. In the background, majestic green mountains with some visible rock faces dominate the left, and a more distant mountain range with snow patches is visible to the right under a clear blue sky.
+end of description
+As the frames progress, the viewpoint moves forward along the road. Trees on the left and the guardrail on the right move past the viewer, revealing new sections of the road and more of the verdant mountain landscape ahead. The distant snow-capped mountain remains in view, but the immediate foreground continuously shifts as the vehicle advances.

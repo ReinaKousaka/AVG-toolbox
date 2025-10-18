@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a dirt path extending into a dense, sun-dappled forest, bordered by abundant green foliage and numerous trees, with a light blue sky peeking through the canopy. A prominent tree with lighter bark stands directly to the left of the path, closer to the viewer.
+end of description
+As the frames progress, the viewpoint moves steadily forward along the path, revealing more of the forest interior and the winding path ahead. The prominent tree on the left gradually moves out of the frame to the viewer's left as it is passed, while new sections of trees and undergrowth further into the distance are continuously revealed.
+frame_0000000128-frame_0000000256:
+The first frame depicts a narrow, unpaved path leading away from the viewer into a dense, sunlit forest. Lush green trees and undergrowth flank both sides of the path, with a prominent, light-barked tree trunk dominating the left foreground, closer to the viewer.
+end of description
+The viewpoint steadily moves forward along the path. The prominent tree on the left and the immediate foreground foliage on both sides progressively recede towards the viewer's left and right, eventually moving out of frame, behind the initial viewpoint. Concurrently, new sections of the winding path and deeper forest emerge from the center, continuously revealing more verdant trees and undergrowth ahead as the scene progresses.
+frame_0000000256-frame_0000000384:
+The first frame depicts a dirt path stretching ahead of the viewer into a lush, sunlit forest. Tall trees with vibrant green leaves densely line both sides of the path, arching overhead, with glimpses of a bright sky visible through the canopy. Dappled sunlight illuminates the path, and a 'ProArtInc' watermark is visible in the bottom left.
+end of description
+As the frames progress, the viewpoint moves forward along the path, causing the surrounding trees and foliage, particularly the prominent branches on the left, to appear closer and then recede as the viewer advances deeper into the forest. The scene remains consistently a sun-drenched forest path, with continuous green vegetation bordering both sides as the perspective slowly shifts forward relative to the initial viewpoint.

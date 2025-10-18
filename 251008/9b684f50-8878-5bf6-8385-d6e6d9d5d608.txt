@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a wet residential street with yellow markings, stretching away from the viewer. On the immediate right, part of a dark SUV is visible, while on the left, a potted plant, wooden bench, and electric scooter line a sidewalk adjacent to several parked dark vehicles. Lush green trees and distant apartment buildings frame the scene, with two figures holding umbrellas walking away down the road in the mid-distance.
+end of description
+As the frames progress, the two figures with umbrellas continue walking further away down the street, gradually receding into the background relative to the initial viewpoint. No other dynamic changes or newly revealed objects are observed in the static environment or other vehicles.
+frame_0000000128-frame_0000000256:
+The first frame shows a wet residential street under an overcast sky. A dark asphalt road with double yellow lines runs from the foreground towards the distant background, flanked by sidewalks. On the left, a brown wooden bench and a potted green plant sit on a paved sidewalk, with several dark SUVs parked along its edge, facing away from the viewer. On the right, a black sedan is parked on an elevated sidewalk lined with green foliage. In the mid-distance down the road, two figures are visible walking away, holding umbrellas, while tall apartment buildings rise on both sides in the background.
+end of description
+As the frames progress, visible rain streaks appear, intensifying the appearance of rainfall against the distant buildings and trees, indicating active precipitation. The wet road surface continually shows more subtle splashes and ripples from the falling rain. The two individuals with umbrellas in the mid-distance slowly move further down the street, receding slightly from the viewer's perspective over the sequence of frames.
+frame_0000000256-frame_0000000384:
+The first frame shows a wet, tree-lined residential street with apartment buildings in the background under an overcast sky, suggesting rain. A dark SUV is parked on the left foreground, facing away, while a dark sedan is similarly parked on the right, further down the road, with people holding umbrellas walking away behind it on the sidewalk.
+end of description
+As frames progress, the rain persists and the group of people with umbrellas on the right sidewalk continuously walks further away from the viewer, moving towards the right edge of the scene until they are nearly out of view.

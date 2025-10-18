@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+A two-lane paved road with double yellow lines in the center extends forward, curving slightly to the right in the distance. A black sedan is in the left lane, approaching the viewer. On the far right, a dark gray sedan is partially visible, moving away from the viewer. Lush green trees line both sides of the road, forming a dense canopy overhead, with a patch of bright sky visible through the distant foliage where a small white car is barely visible.
+end of description
+In the subsequent frames, the black sedan moves closer to and then past the viewer, exiting to the viewer's left. Simultaneously, the dark gray sedan on the right moves further away, eventually disappearing to the viewer's right. The viewpoint then moves forward along the road, revealing more of the curving path and causing the immediate tree lines to shift backward relative to the viewer. The distant white car slowly becomes slightly larger as the viewer approaches.
+frame_0000000128-frame_0000000256:
+The first frame presents a two-lane asphalt road with double yellow lines, bordered by dense green trees and foliage on both sides that stretch upwards and arch slightly overhead, leading into a bright, sunlit area in the distant rightward curve of the road.
+end of description
+As the video progresses, the viewpoint steadily moves forward along the road; the trees and foliage previously at the sides of the viewer in the first frame now recede behind them. The bright sunlit area ahead grows larger and closer, continually revealing more of the path as the vehicle advances.
+frame_0000000256-frame_0000000384:
+The viewer is positioned on an asphalt road with double yellow center lines and white edge lines, extending forward and gently curving rightward in the distance. Dense green trees line both sides of the road, forming a natural canopy, with bright sunlight illuminating the path directly ahead.
+end of description
+As the scene progresses, the viewpoint moves forward along the road, causing the lush trees lining both sides (initially to the left and right of the viewer) to recede into the background. The gentle curve of the road becomes more pronounced, and the bright patch of sunlight in the distance gradually approaches the viewer, emphasizing continuous forward motion.

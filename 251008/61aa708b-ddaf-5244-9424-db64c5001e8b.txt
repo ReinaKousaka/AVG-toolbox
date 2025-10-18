@@ -1,0 +1,16 @@
+frame_0000000000-frame_0000000128:
+The first frame captures a street scene featuring a traditional Japanese-style building on the mid-right with white walls, dark wood accents, and a tiled roof, extending to the far right where a white tarp covers a section. In front of it, a blue trash can and signs with Japanese text are visible. A paved street extends into the background from the lower center, with a narrow sidewalk running alongside the traditional building. Several people, including a cyclist on the mid-left and a pedestrian in light clothing on the mid-right sidewalk, are moving away from the viewer down the street, towards a tall, modern brown building dominating the upper left background.
+
+end of description
+
+Throughout the following frames, the main dynamic change is the continued movement of individuals away from the first-frame viewpoint. The person on the bicycle on the mid-left cycles further down the street into the background. Concurrently, the person in light-colored clothing on the mid-right sidewalk walks further away, progressing along the street past the traditional building. Other figures also continue moving further into the distance along the street.
+frame_0000000128-frame_0000000256:
+The first frame presents a street leading into the background, flanked by buildings under a clear blue sky. On the right, a traditional Japanese building with white walls and a tiled roof stands, beside which a person in light attire walks towards the viewer on the sidewalk; a cyclist rides away further left on the street, with a tall brown building dominating the distant background.
+
+end of description
+
+The person on the right sidewalk steadily walks closer to the viewer, passing a short pole and moving further towards the right edge of the frame. Simultaneously, the cyclist on the street recedes further away, moving towards the distant background left. No new objects or scenes are revealed as the viewpoint remains static.
+frame_0000000256-frame_0000000384:
+The first frame reveals a street scene with a person in light clothing walking towards the viewer on the far right, positioned beside a traditional-style building with a dark roof, wooden entrance, and a display case. A street extends into the distance on the left, where a person on a bicycle and another walker are visible, while parked cars occupy a lot on the right side of the street, and a tall brown building dominates the background.
+end of description
+The person on the far right walks past the viewer towards the left, eventually moving out of the frame. Simultaneously, the cyclist and the other walker continue their movement further away down the street on the left side of the scene.

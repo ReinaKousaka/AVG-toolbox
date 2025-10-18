@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a picturesque view with vibrant pink and purple flowers across the immediate foreground. A clear river flows towards the viewer in the midground, bordered by stone walls and green bushes; roads with buildings and cars line both banks, and a bus stop sign is visible on the right, with a village extending up a forested mountain in the background under a clear blue sky.
+end of description
+In subsequent frames, a light blue car on the right road moves from right to left, eventually disappearing from view towards the left. Following this, a red and white van appears from the far right on the same road, progressing left past the bus stop sign.

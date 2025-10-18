@@ -1,0 +1,10 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a first-person view of a runner in a blue shirt and white cap ahead on a dirt path, receding into the midground. To the left, a dry grassy slope rises with scattered trees, while to the right, the terrain drops steeply into a valley revealing distant mountains under a bright blue sky, with data overlays.
+end of description
+The initial runner advances along the path, progressively moving further away from the first-frame viewpoint. A yellow trail marker becomes visible further along the path, to the right of the path, ahead of the first runner's position relative to the original viewpoint. From frame six, a new runner, wearing a patterned cap, appears in the bottom-left foreground, moving forward from a position that was initially directly behind the first-frame viewpoint.
+frame_0000000128-frame_0000000256:
+From a first-person perspective behind a runner wearing a cap and a white and teal vest, a dirt trail stretches ahead through a mountainous, grassy landscape under a clear blue sky. Another runner is visible further down the path, while a large green tree stands to the right and a steep, dry slope with scattered logs rises to the left. Distant, rugged mountains dominate the background.
+
+end of description
+
+As the frames advance, the viewer and the runner ahead progress along the dirt path, with the viewer steadily closing the distance. A prominent yellow sign, initially to the left of the path, gradually emerges into clearer view as the viewer approaches it. The path continues its winding ascent through the mountainous terrain, revealing new sections of the trail and a clearer view of the sign's details. The overlay data dynamically updates with changing metrics.

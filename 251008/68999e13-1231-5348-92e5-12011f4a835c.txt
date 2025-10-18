@@ -1,0 +1,10 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a two-lane road curving left into the distance, flanked on the right by a steep, rocky mountain face with loose debris and three road signs: a red/white chevron, a yellow falling rocks, and a blue no stopping sign, all positioned to the right of the viewer. To the left, a partially frozen, snow-covered body of water extends, bordered by distant snowy mountains.
+
+end of description
+
+As the viewpoint progresses along the road, the initial road signs on the right move out of frame behind the first-frame viewpoint. The rocky mountain face to the right becomes more pronounced, revealing increasing rockfall debris at its base, with some rocks seen spilling directly onto the road from the right. Concurrently, a new metal guardrail emerges and lengthens along the left side of the road, continuing past the frozen water.
+frame_0000000128-frame_0000000256:
+The first frame shows a paved two-lane road with double white lines in its center, extending straight ahead into the distance before curving slightly to the left. To the immediate right of the road, a steep, rocky cliff face rises, with a slope of loose rocks and debris at its base. To the left, a metal guardrail runs parallel to the road, beyond which lies a snow-covered shoulder and a range of snow-dusted mountains partially covered with evergreen trees. In the background, further ahead, more snow-capped peaks are visible under a partly cloudy sky.
+end of description
+As the frames progress, the viewpoint moves continuously forward along the road. The immediate road surface, the rocky cliff to the right, and the guardrail and snow-covered terrain to the left gradually recede into the distance as the viewer advances. This reveals more of the winding road and the mountainous landscape previously further ahead of the first-frame viewpoint.

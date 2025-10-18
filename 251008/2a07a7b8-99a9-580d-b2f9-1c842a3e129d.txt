@@ -1,0 +1,30 @@
+frame_0000000000-frame_0000000128:
+In the first frame, a large, leafy green tree occupies the left half, casting shadows onto an asphalt road that curves rightward into the midground. To the left and below the tree, a brown wooden house is partially visible, and an orange house with a red tiled roof stands prominently in the mid-center, flanking the road. Further to the right and uphill, several traditional buildings with tiled roofs and solar panels dot a verdant hillside under a blue sky, while a grassy slope and a grey curb run along the bottom left.
+end of description
+A red and white Swiss flag emerges from behind the large tree, to the left of the orange house, progressively unfurling on a pole in the subsequent frames. By the fifth frame, it becomes visible, and by the eighth frame, the flag is fully extended and flapping in the breeze, flying prominently above the orange house's roofline relative to the first-frame viewpoint.
+frame_0000000128-frame_0000000256:
+In the first frame, a large tree with dense green foliage occupies the left side, obscuring buildings partially visible behind it, while a grassy slope is in the lower left foreground. A winding asphalt road curves from the center foreground towards the mid-right, bordered by charming multi-story houses with red-tiled roofs, including a prominent orange one, which line a gentle slope. Further up the green hillside, more houses are nestled, with distant mountains rising under a clear blue sky.
+end of description
+No dynamic changes or newly revealed objects occur in the subsequent frames; the entire scene remains static from the first-frame viewpoint.
+frame_0000000256-frame_0000000384:
+The first frame captures a sunny village street, featuring a large, leafy tree prominently in the left foreground with a red bench on a stone wall and a silver trash can beneath it. A paved road curves from the lower right towards the mid-center, bordered by an orange building with a red roof and white shutters, and several traditional buildings ascending a green hillside to the right, with distant mountains under a blue sky in the background.
+end of description
+In the subsequent frames, a silver car, initially parked on the right side of the road in the mid-ground, begins to slowly drive forward along the road towards the left. Simultaneously, two pedestrians who were standing near the car move forward, following its path.
+frame_0000000384-frame_0000000512:
+The first frame features a large tree with green foliage in the foreground left, alongside a red park bench and a silver trash bin. A curved asphalt road dominates the midground to the right, where a dark grey car is visible approaching the viewer. In the background, numerous houses with red-orange roofs and solar panels are nestled on a lush green hillside.
+end of description
+The dark grey car on the road gradually moves closer to the viewer throughout the frames. Subsequently, a second black car emerges behind the first vehicle, and a few pedestrians become visible walking on the far side of the road behind the main orange building.
+frame_0000000512-frame_0000000640:
+In the foreground, a large tree trunk with green foliage dominates the left side, with a red bench and a silver trash can positioned below it. To the right, a dark SUV is partially visible on a curved road. In the mid-ground, a prominent orange house with a red roof, white windows, and green shutters is visible, with a few people on the sidewalk in front of it and a black car turning left onto the road. Behind these, numerous houses with red or brown roofs, some with solar panels, ascend a green hillside to the right, while distant mountains are visible under a blue sky.
+end of description
+The viewer moves forward and slightly to the right, causing the foreground tree, bench, and trash can to progressively shift left and eventually exit the frame. Simultaneously, the dark SUV on the right drives away, and the black car in the mid-ground completes its left turn, moving further down the road from the viewer. The group of people on the sidewalk also continues walking to the left, receding into the distance. This continuous motion gradually reveals more of the curving street ahead, including additional parked vehicles and buildings further along the road to the left of the orange house.
+frame_0000000640-frame_0000000768:
+The first frame captures a picturesque village scene. On the far left, a large tree trunk stands prominently in the foreground, with a red bench partially visible beneath it. A paved path leads towards the center, where a distinct orange house with a red tiled roof dominates the midground. To the right of the path, a road curves into the distance, featuring a dark gray car with two people standing beside it. Further to the right, a steep grassy hill with a stone retaining wall rises, topped by numerous houses with red roofs nestled among trees. A clear blue sky with some clouds is visible above the village.
+end of description
+Following frames show a white car appearing from the far right on the road, moving towards the viewer's left. Concurrently, the two people near the dark car in the midground begin walking towards the viewer, then move past the dark car towards the left. The dark car itself also subtly moves forward and slightly to the left from its initial position.
+frame_0000000768-frame_0000000896:
+The first frame depicts a sunny street scene with an orange house and a black car parked to the mid-left. A white car drives uphill on the asphalt road to the mid-right, past two pedestrians walking on the sidewalk away from the viewer, with a tree and banner in the foreground left and a hillside of houses and trees in the background right.
+
+end of description
+
+Subsequently, the white car continues moving further uphill and away from the viewer on the road, while the two pedestrians also proceed along the sidewalk away from the initial viewpoint. The black car to the mid-left also slowly advances forward and away from the viewer.

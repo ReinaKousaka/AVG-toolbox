@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The viewer is situated on a reddish-orange dirt road that extends forward and curves left into the distance, with a massive red rock cliff rising immediately to the right and a deep canyon visible to the left, all beneath a clear blue sky.
+end of description
+As the camera moves forward, the dirt road and surrounding landscape dynamically progress, revealing new sections of the winding path ahead of the first-frame viewpoint. The red rock cliff on the right and the canyon on the left continuously present previously unseen portions of their structures that were further down the road, moving into and through the area initially captured by the first frame.

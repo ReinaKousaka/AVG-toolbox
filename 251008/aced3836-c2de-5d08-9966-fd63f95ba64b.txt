@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+In the first frame, a red car's front-right is visible in the foreground to the right, adjacent to a white grid fence. Beyond this, a weathered, caged building on a stone base sits in the midground, flanked by a black car on a sloping driveway and a light yellow house to its left, with a tree-covered mountain in the background.
+end of description
+Over subsequent frames, the red car moves progressively to the left and out of view, revealing more of the street and the white grid fence, which also retracts further left relative to the initial viewpoint.

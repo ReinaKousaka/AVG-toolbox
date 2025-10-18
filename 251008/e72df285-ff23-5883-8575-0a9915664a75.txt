@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a snowy urban sidewalk under a clear blue sky, with a bare-branched tree and street lamp lining the left-side street, backed by distant buildings. A large reddish-brown skyscraper with dark reflective windows dominates the center-right, adjacent to a beige building section on the far right, which is separated from the viewer by a black railing and a snow-covered planter.
+end of description
+As the viewpoint progresses forward, the bare-branched tree on the left moves out of frame to the viewer's left, and the snow-covered planter and railing on the right recede and disappear to the viewer's right. Concurrently, the skyscraper shifts further left, revealing more of the street and previously obscured buildings located further ahead on the right.
+frame_0000000128-frame_0000000256:
+The viewer is positioned on a sidewalk, bordered by snow patches, looking down a city street. A bare tree stands prominently in the left foreground, while a tall, brown building with multiple dark reflective windows dominates the right side of the frame. Further down the street on the left, various multi-story buildings and parked cars are visible, with a solitary street lamp in the mid-ground.
+end of description
+Over the subsequent frames, the camera slowly shifts forward and to the right, causing the foreground tree to gradually exit the frame entirely to the viewer's far left. This slight movement reveals more of the street and the buildings on the left side, which were partially obscured by the tree, while the tall building on the right remains largely stationary relative to the initial viewpoint.

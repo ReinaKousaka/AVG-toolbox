@@ -1,0 +1,30 @@
+frame_0000000000-frame_0000000128:
+A wet, paved road extends forward between towering mountain walls. To the viewer's left, a stone retaining wall borders a sheer rock face covered in some greenery. To the viewer's right, a metal guardrail runs alongside the road, beyond which a lush, green mountain face with prominent rock formations rises towards the bright, cloudy sky in the distance.
+end of description
+As the viewpoint moves forward, the road, retaining wall, and guardrail recede, revealing more of the steep, rocky, and forested canyon ahead. A river becomes visible to the right of the guardrail, flowing parallel to the road as the scenery progresses deeper into the valley. Distant mountains gradually appear closer, maintaining their position ahead.
+frame_0000000128-frame_0000000256:
+The first frame shows the viewer on a paved road extending into a valley, flanked by a massive rock cliff to the left and a metal guardrail to the right. Beyond the guardrail, a river flows alongside another steep, vegetated cliff, which features distinct spiky rock formations further along its face. Distant mountains define the valley's end under a bright sky.
+end of description
+As the scene progresses, the viewpoint moves forward along the road, causing the road surface, the guardrail, and sections of the left cliff face to continuously move past the viewer. This motion steadily reveals more of the river and the forested right cliff to the right of the guardrail, with the distant valley appearing to gradually open up further ahead.
+frame_0000000256-frame_0000000384:
+A paved road stretches into a mountain valley, bordered on the left by a towering, rugged rock face, and on the right by a metal guardrail alongside a rocky river. Beyond the guardrail, a steep, forested mountain with distinctive rock spires rises, while more distant mountains are visible straight ahead in the valley under a bright sky.
+end of description
+As the viewpoint steadily moves forward along the road, the immediate sections of the rock face, road, guardrail, and river progressively recede behind the viewer. Simultaneously, new segments of the road, the river valley to the right, and the surrounding mountains ahead are continuously revealed and brought into the foreground, maintaining the initial spatial arrangement of the landscape.
+frame_0000000384-frame_0000000512:
+The first frame shows a paved road extending forward from the viewer into a valley. To the immediate left, a tall, rough rock cliff face rises steeply, while to the right, a metal guardrail runs alongside the road, separating it from a flowing river with rocky banks. Beyond the river, steep mountains covered in dense evergreen trees and some power lines stretch into the midground, with further mountains visible in the distance under a cloudy sky.
+
+end of description
+
+As the frames progress, the viewpoint moves forward along the road. The road, the adjacent cliff face on the left, the guardrail, and the river on the right all continuously shift towards the viewer, revealing new segments further ahead. The forested mountains beyond the river and the distant valley scenery also progressively approach the viewer, causing them to appear larger and more detailed as the camera advances into the landscape.
+frame_0000000512-frame_0000000640:
+A paved road stretches into the distance from the lower center, bordered on its right by a metal guardrail. Beyond the guardrail, a flowing river runs parallel, flanked by steep, vegetated mountains that rise on both sides and define the valley ahead. A cloudy sky is visible above the distant mountains.
+end of description
+The viewpoint steadily moves forward along the road, causing the road surface and guardrail to appear progressively closer to the viewer. The perspective shifts slightly, revealing more details of the valley ahead. A small waterfall becomes increasingly visible on the left mountainside, appearing to the left and slightly further ahead of the initial position.
+frame_0000000640-frame_0000000768:
+The first frame presents a paved road extending into the distance, curving gently to the left, with a metal guardrail on its right edge. Flanking the road are steep, green-covered mountains on both sides, and a river flows along the right, under a partially cloudy blue sky.
+end of description
+The viewpoint steadily moves forward along the road, causing the immediate foreground to recede and revealing more of the winding path ahead. The towering mountain walls on both sides and the flowing river on the right continue to extend further into the distance. As the camera progresses, a concrete structure becomes more clearly visible on the right bank of the river.
+frame_0000000768-frame_0000000896:
+The first frame shows a paved road curving gently left through a mountain pass, extending into the mid-ground. To the left, a steep, rocky mountain face covered in green foliage rises sharply, featuring a darker, overhanging section in the mid-left. A metal guardrail runs along the right side of the road, beyond which a rocky riverbed and a densely forested slope lead to distant mountains under a blue sky with scattered white clouds.
+end of description
+As the frames progress, the viewpoint advances along the road. The white markings on the road surface recede from the foreground, while the guardrail on the right moves further back, revealing more of the riverbed and trees that were previously obscured to the right of the original viewpoint. The steep mountain face and its overhanging section on the left appear to grow closer, and utility poles with power lines on the right also advance into a more prominent position.

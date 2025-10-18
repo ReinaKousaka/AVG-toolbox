@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a narrow rock gorge with light-colored, moss-dappled walls on both sides, rising towards an unseen sky. A turbulent, light-colored river flows along the left side, with large boulders visible near its bank. To the right, a wooden plank walkway with a silver metal railing ascends steeply into the distant narrowing gorge, with another railing segment visible higher on the right rock wall.
+end of description.
+No dynamic changes occur, nor are new objects or scenes revealed in the subsequent frames; the viewpoint and scene remain static.
+frame_0000000128-frame_0000000256:
+The first frame displays a narrow, sunlit gorge, with rugged, light-colored rock walls rising steeply on both the left and right sides. To the viewer's immediate right, a wooden walkway with a metal railing extends into the distance, ascending slightly, while a fast-flowing, light-colored river with several large boulders occupies the space to the viewer's left.
+end of description
+In the subsequent frames, the scene's overall spatial composition remains unchanged; however, the water in the river to the left of the walkway dynamically flows forward, creating visible ripples and whitewater as it moves through the gorge.
+frame_0000000256-frame_0000000384:
+The first frame depicts a narrow rocky gorge with a swift-flowing river of white water below and to the left of the viewer, bordered by towering, light-colored rock walls. To the viewer's right, a wooden walkway with a silver metal railing extends forward, transitioning into a steep set of stairs ascending further into the upper right of the frame.
+end of description
+In the following frames, the turbulent white water in the river to the left dynamically rushes downstream. Simultaneously, the viewpoint subtly advances, progressively revealing more of the ascending stairs and the deep gorge ahead, indicating a slow forward movement along the path.

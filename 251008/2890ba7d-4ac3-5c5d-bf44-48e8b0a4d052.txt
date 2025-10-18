@@ -1,0 +1,28 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a snowy urban night scene, with a building on the left featuring stone cladding and illuminated glass windows revealing an interior. A cleared, wet sidewalk runs along this building, adjacent to a wide, snow-covered plaza extending to the right, dotted with streetlights and distant buildings under a dark, snowing sky.
+end of description
+Throughout the frames, snowflakes constantly fall and shift across the entire scene, creating dynamic visual textures. A person on the distant right side of the plaza gradually moves leftwards across the snow-covered ground from the first-frame viewpoint.
+frame_0000000128-frame_0000000256:
+The first frame depicts a snowy urban night, with a modern building featuring a gray facade and glass windows on the left, bordering a covered walkway with dark pillars. To the right, a wide, snow-covered plaza with footprints extends towards distant illuminated city buildings under a dark sky where snowflakes are visibly falling.
+end of description
+As frames progress, the falling snowflakes continue, and a person becomes visible walking from left to right across the distant snowy plaza. Additionally, a red illuminated sign in the background slightly brightens and dims.
+frame_0000000256-frame_0000000384:
+The first frame depicts a snowy urban night scene with a cleared path leading into the distance. To the left, a building features a grey facade and glass-fronted commercial units with visible interior seating, while dark vertical poles line the right side of the path, bordering a wide, snow-covered plaza extending towards distant illuminated buildings under a dark sky, as snowflakes fall.
+end of description
+Throughout subsequent frames, falling snowflakes dynamically shift positions relative to the viewer. A person in a light blue top newly appears sitting at a table inside one of the left-side glass units, closer to the viewer. Additionally, a faint figure is visible moving from left to right across the distant snow-covered plaza in the background.
+frame_0000000384-frame_0000000512:
+The first frame displays a snowy winter night with a modern building on the left, featuring large glass windows that reveal an interior with tables, stools, and a person. A snow-covered walkway runs centrally from the foreground towards the background, flanked by the building and a row of dark vertical poles, beyond which an expansive, snow-covered plaza extends to the right under a dark sky with distant illuminated buildings.
+end of description
+Throughout the subsequent frames, snowflakes continuously fall across the entire scene. The person inside the building on the left shifts position slightly, while reflections on the glass panels dynamically alter. Concurrently, a distant figure is revealed walking from right to left across the open snow-covered area to the right of the poles.
+frame_0000000512-frame_0000000640:
+The first frame depicts a snowy night scene looking down a walkway alongside a modern building. To the left, a series of glass storefronts reveal the interiors of businesses with tables, chairs, and an illuminated ordering kiosk visible closest to the viewer. A partially cleared, snowy path extends into the distance on the left, flanked by the building, while to the right, a wide, snow-covered open area features several dark vertical pillars and distant benches. Scattered snowflakes are visible in the air against the dark background, where city buildings with some lights are discernible.
+end of description
+As the viewpoint steadily moves forward, more of the glass-fronted building on the left and the expansive, snow-covered plaza on the right are continuously revealed. The person initially walking away on the left side of the frame moves further into the background and eventually out of sight. Subsequently, a new person emerges from a newly revealed storefront further along the building's facade on the left and walks away from the first-frame viewpoint, as snowflakes continue to fall across the scene.
+frame_0000000640-frame_0000000768:
+The first frame captures a snowy urban environment at night, featuring a long glass-fronted building with a covered walkway on the left, extending into the mid-ground, alongside a vast snow-covered plaza on the right, all under a dark sky with distant illuminated structures and falling snowflakes.
+end of description
+Subsequently, a person in a light blue jacket and tan pants emerges from a door within the building on the left, stepping directly onto the path in front of the viewer, initially holding a white stick. This individual then acquires a black shoulder bag and turns, walking away from the viewer down the pathway, moving into the mid-ground as the door closes behind them.
+frame_0000000768-frame_0000000896:
+In the first frame, a person in a light blue jacket and tan pants with a black bag walks away from the viewer on a snow-dusted path bordering a building with large glass windows on the left, while a wide snow-covered plaza extends into the distance on the right under a dark, star-speckled night sky featuring distant illuminated buildings.
+end of description
+Subsequently, the person in the light blue jacket continues walking further into the scene, away from the viewer, as another person in darker clothing ahead of them also progresses along the path. The gentle snowfall persists throughout the sequence as both individuals move deeper into the snow-covered urban landscape.

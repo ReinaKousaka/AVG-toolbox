@@ -1,0 +1,6 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a wet urban street scene on an overcast day. In the foreground, a grey tiled sidewalk extends from the viewer towards the center, bordered on the left by a metal barrier and on the right by a strip of wet grass leading to storefronts. To the left, a multi-lane wet road shows a silver car moving away from the viewer, and further down, green traffic lights hang above the intersection. On the right, a row of businesses line the street, including a cafe with an outdoor air conditioning unit and a red awning covering a seating area further along. In the background, tall residential and commercial buildings rise, partially obscured by distant trees.
+
+end of description
+
+The green traffic lights on the far left begin to cycle, turning yellow then red. Concurrently, the silver car on the road continues to move away from the first-frame viewpoint, and other vehicles appear further down the street, also moving. Additionally, several pedestrians emerge on the distant sidewalk near the white covered stall, walking towards the viewer's left.

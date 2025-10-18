@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a sunlit pedestrian street extending away from the viewer, bordered by multi-story buildings. Two large green potted plants are positioned in the immediate foreground, one to the viewer's left and one to the right. Numerous people populate the mid-ground, walking away; most prominently, a man with a blue suitcase and a woman with a black suitcase are on the right side of the street, while a man with a bicycle is further ahead on the left.
+end of description
+In successive frames, all individuals on the street, especially the two travelers with luggage in the mid-ground, gradually advance further away from the viewer down the street.
+frame_0000000128-frame_0000000256:
+The first frame depicts a busy street scene with a cobblestone path. In the foreground, large potted plants flank the viewer on both sides. A man wearing a helmet pushes a bicycle towards the viewer from the center-left, while an older man and a woman pulling blue and black suitcases respectively move away from the viewer towards the center-right. The midground and background feature numerous pedestrians walking between multi-story buildings that line both sides of the street under a clear sky.
+end of description
+Over time, the man with the bicycle advances closer to the viewer and slightly left. Concurrently, the two individuals with suitcases recede further into the street, and other pedestrians throughout the midground and background continually shift their positions, altering their proximity to the first-frame viewpoint.

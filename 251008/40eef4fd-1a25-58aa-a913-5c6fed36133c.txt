@@ -1,0 +1,32 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a sunny outdoor scene featuring a cafe and waterfront. In the immediate foreground, to the left, three individuals are seated at a table with a colorful tablecloth and string lights overhead. A multi-story building with yellow awnings and balconies borders a street on the left, where several cars are parked. A paved sidewalk extends centrally into the distance, separating the street from a grassy park area on the right, which contains various trees, a tall palm, and red benches. Beyond the park, a body of water with distant land and people walking along its edge is visible under a blue sky with white clouds.
+
+end of description
+
+Subtle dynamic changes occur primarily with the people in the foreground; the woman at the table shifts her head and right arm positions slightly across the frames. The bald man next to her also makes minor adjustments to his head posture. All other elements, including the building, parked cars, park, and distant water, remain static relative to the initial viewpoint.
+frame_0000000128-frame_0000000256:
+The first frame presents a sunny lakeside promenade. At the bottom left, part of a person wearing sunglasses and a dark car are visible, followed by several other parked cars lining a street alongside a multi-story building with yellow facades on the far left. To the right of the street, a grassy park with palm trees, other foliage, and red benches extends towards a body of water in the background under a partly cloudy blue sky.
+end of description
+As the frames progress, the viewer's viewpoint subtly moves forward. The person and the dark car at the bottom left gradually move out of view, revealing more of the parked cars further down the street and the building's facade to the left. Simultaneously, the green park area and red benches on the right shift, bringing more of the distant water and a walking pedestrian into prominence relative to the initial scene.
+frame_0000000256-frame_0000000384:
+In the first frame, a multi-story building with yellow awnings and balconies occupies the far left, fronted by several parked cars including dark blue, light blue, and white vehicles along a street. To the right of the street, a paved sidewalk separates it from a grassy park area containing palm trees, a tall light pole, and a large green-leafed tree in the mid-ground. Further right, two red benches face a blue body of water, likely a lake, with distant land visible across it, all under a partially cloudy sky.
+end of description
+As the camera slowly pans right and moves slightly forward, the distant person by the water becomes more clearly visible, and a second, more distant person emerges behind them to the right of the initial viewpoint. The leftmost red bench and a larger expanse of the blue lake surface also become more fully revealed further to the right.
+frame_0000000384-frame_0000000512:
+In the first frame, a sunny waterside promenade is visible. To the left, a multi-story building with balconies lines a street where several cars are parked, including a blue car closest to the viewer and a white van further back. A paved sidewalk runs along the left, parallel to a grassy area dotted with palm trees and smaller green plants, with a tall palm tree trunk dominating the mid-ground right. To the far right, a tranquil body of water is visible under a partly cloudy sky, bordered by more grassy land with red benches and large trees featuring bright green foliage. A distant figure stands near the water's edge.
+
+end of description
+
+All subsequent frames are identical to the first frame, showing no dynamic changes or newly revealed objects or scenes.
+frame_0000000512-frame_0000000640:
+A street scene unfolds with a paved sidewalk and parked cars, including a blue car, white sedan, and white van, on the left, alongside a multi-story white building with balconies. To the right, a grassy area features several small palm trees in the foreground, and larger trees, including a prominent palm trunk, further back. A red bench with a person sitting on it is visible on the right, beyond which lies a body of water fringed by weeping-like trees, all under a blue, cloudy sky.
+end of description
+Following frames reveal no new objects or scenes; only subtle swaying of palm fronds on the right side of the frame and minor camera movement are discernible, maintaining the initial viewpoint.
+frame_0000000640-frame_0000000768:
+The first frame presents a sunny outdoor scene with a tall building and parked cars (white van, white car) on a street along the left. A paved path and grassy area run down the center, flanked by several prominent palm trees with spiky green leaves on the right. In the background, more trees, some with pink blossoms, and a street lamp are visible under a blue sky.
+end of description
+Throughout the subsequent frames, people dynamically appear and move on the sidewalk and street in the mid-left area. Concurrently, a red bench becomes clearly visible on the far right, further back from the viewer, as the viewpoint subtly shifts forward and slightly left.
+frame_0000000768-frame_0000000896:
+The first frame shows a sunny street scene with a multi-story building on the far left. In the midground, a sidewalk runs towards the background, bordered on the left by parked white cars and outdoor seating with people, and on the right by a grassy park with a lamp post and flowering trees. A large palm tree trunk and leaves dominate the immediate foreground on the right, with glimpses of a body of water behind the park in the distance on the right.
+end of description
+The camera slowly pans right, causing the foreground palm tree to gradually move out of frame to the right. This motion progressively reveals more of the green park and the expansive body of water to the right, where a red bench becomes visible near the water's edge.

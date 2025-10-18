@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+A paved road with white lines extends ahead, featuring a partially visible black minivan on the left preparing to turn onto a side road marked with a white arrow. To the right, a metal guardrail runs alongside dense green trees and bushes, which also line the midground and cover distant hills on the left, all under a blue sky with scattered white clouds.
+end of description
+The black minivan then moves out of frame to the left, and a "STOP" marking on the asphalt at the left intersection becomes progressively clearer as the viewer approaches and passes it. As the viewer continues forward, the intersection recedes behind and to the left, and a new white directional road sign emerges on the right side of the road, further ahead beyond the guardrail.
+frame_0000000128-frame_0000000256:
+In the first frame, the viewer is on a paved road with white lane markings, stretching forward and curving right. Lush green trees and dense foliage flank both sides, extending into the background beneath a blue sky with scattered clouds, while a guardrail parallels the road on the right and a separate road segment with arrows is visible to the left.
+end of description
+As the frames progress, the viewpoint moves forward along the road. The white arrows on the left road segment and the guardrail on the right appear to approach and then recede as the viewer advances, with the surrounding trees and foliage on both sides moving past the viewer, revealing more of the winding road ahead.
+frame_0000000256-frame_0000000384:
+The first frame depicts a multi-lane road stretching into the distance, curving gently to the right under a blue sky with scattered clouds. Guardrails border both sides of the road, flanked by dense green foliage and trees that recede towards a distant treeline.
+end of description
+As the scene progresses, the viewpoint moves forward; a triangular warning sign with a deer image and "5 km" text appears on the right side, moving past the viewer. Simultaneously, a blue car, initially far ahead on the left lane of the curving road, steadily approaches the viewer's position, becoming larger and more central in the field of view.

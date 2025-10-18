@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a bustling, narrow night street scene, with the backs of two individuals in the foreground (one left, one right), a cafe with seated patrons to the left, and illuminated shop signs and pedestrians on the right and down the central path into the background.
+end of description
+As the sequence progresses, the midground pedestrians continue walking further away from the viewer, while on the far right, closer to the viewer, a musician's stand and instrument become clearer. Subsequently, a man appears sitting on a stool to the right of the musician, holding an ice cream cone, as other individuals continue to navigate the lively street.
+frame_0000000128-frame_0000000256:
+The first frame depicts a narrow, bustling cobblestone street at night, lined with illuminated multi-story buildings and shops like "GOOD FOOD" and "GELATO KING" receding into the distance. In the foreground, a bald man stands left, a group of three faces away towards the center, and an older man eats from a cup on the right, where a dark-haired man's back is also visible. Further down the street, a man in a red jacket stands on the right path.
+end of description
+Subsequently, the foreground group walks away from the viewer, allowing more pedestrians to become visible moving down the street. Concurrently, the dark-haired man on the right shifts position, and a white drum-like object with red stripes emerges into full view on the viewer's immediate right.

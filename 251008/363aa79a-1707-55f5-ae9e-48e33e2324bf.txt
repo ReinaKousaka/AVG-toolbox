@@ -1,0 +1,13 @@
+frame_0000000000-frame_0000000128:
+A wet city street features two people holding umbrellas walking towards the viewer on the left foreground, passing shopfronts of a building with dark facades. In the mid-ground, a small grey kiosk with a blue scooter is centered, while a brick building and a sparse tree line the right side, with more distant buildings stretching into the background.
+end of description
+The two individuals with umbrellas consistently walk directly towards the viewer on the left side, progressively moving from the mid-left foreground to the far left and eventually exiting the frame from the bottom left, while the rest of the urban scene remains static.
+frame_0000000128-frame_0000000256:
+The first frame shows a wet urban street paved with cobblestones, stretching into the background between multi-story buildings. In the foreground, a lamppost stands on the far right with a small tree to its left; further back, a grey kiosk with a blue scooter is visible left of center, and another stall is further down. Various shops with Korean signs line the street, with larger, modern buildings and billboards visible in the distant background under an overcast sky.
+end of description
+A dark car briefly appears in the mid-background on the right side of the street in frame 3, then disappears. Subsequently, a person emerges from the far background, walking towards the viewer, slightly left of center, and continues advancing closer through the remaining frames.
+frame_0000000256-frame_0000000384:
+The first frame displays a wet urban street, featuring a light-colored kiosk with a teal scooter parked directly to the left, and a brick-faced building with shops extending along the right. A paved path leads into the midground where another small green kiosk and an archway are visible, with multiple buildings and a large lattice structure dominating the distant background.
+
+end of description
+In subsequent frames, a white car dynamically drives from left to right across the street in the midground, initially appearing behind the small green kiosk. The car then continues its trajectory, eventually moving beyond the right edge of the initial frame, out of the first-frame viewpoint.

@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a wet, reflective street in what appears to be a Korean city, with numerous pedestrians, many holding umbrellas, navigating a narrow shopping street lined with stores and awnings. A person on a scooter, wearing a green jacket and white helmet, is in the mid-ground, driving away from the viewer, while a group of people on the right walk towards the viewer, and others on the left move near storefronts.
+end of description
+In the following frames, the scooter consistently moves further away from the viewer, receding down the street. Simultaneously, the group of pedestrians on the right side advances towards the viewer, with individuals like the person in the red top progressing from the mid-ground to the foreground. People on the left also shift their positions, some moving deeper into the scene, others approaching the foreground.
+frame_0000000128-frame_0000000256:
+The first frame displays a wet, reflective street flanked by shopfronts on both sides, extending under an overcast sky with distant buildings. In the foreground on the right, pedestrians with dark, yellow, and partially visible pink umbrellas are walking towards the viewer. A person on a green scooter is also visible in the midground, moving away centrally.
+end of description
+Throughout the subsequent frames, the pedestrians on the right, including the now fully visible individual with the pink umbrella, move closer to and past the first-frame viewpoint. Meanwhile, the green scooter continues to recede further into the street's distance from the first-frame viewpoint, as other pedestrians also shift positions.

@@ -1,0 +1,26 @@
+frame_0000000000-frame_0000000128:
+A person on a bicycle, facing away from the viewer, is positioned slightly right of center on a dirt path displaying tree shadows. To the left, multiple train tracks are visible behind a wire fence, with a large metal utility pole prominently in the mid-left. Beyond the tracks, a line of trees forms the background under a bright blue sky, while to the path's right are grassy areas, more trees, and distant railway signals. end of description. In subsequent frames, the cyclist pedals further away from the first-frame viewpoint along the path. The surrounding railway tracks to the left and trees to the right remain stationary relative to the first-frame viewpoint as the cyclist recedes into the distance.
+frame_0000000128-frame_0000000256:
+The first frame shows a paved path extending forward from the viewer, bordered by a wire fence on the left, beyond which are railway tracks and a large metal pylon. To the right, grass and trees line the path, with shadows cast by overhead foliage, while a person rides a bicycle in the mid-distance. The background features a clear blue sky with overhead power lines.
+end of description
+Throughout the subsequent frames, the viewer's position advances slightly forward along the path. Concurrently, the bicyclist continues to move further away from the viewpoint, receding into the distance.
+frame_0000000256-frame_0000000384:
+The viewer is on a paved path extending forward, covered partially by tree shadows. To the left, a chain-link fence runs parallel, separating the path from multiple train tracks beyond it. To the right of the path, a person walks away in the midground, a street lamp stands further ahead, and a rocky bank with trees lines the edge. In the background, more trees and power line structures are visible under a clear blue sky with scattered clouds.
+end of description
+The viewpoint progresses steadily forward along the path. The person ahead on the path gradually appears smaller, moving further into the distance relative to the viewer's advancing position. All surrounding objects, including the fence and train tracks to the left, and the street lamp and trees to the right, shift their relative positions as the viewer moves past them.
+frame_0000000384-frame_0000000512:
+A light-colored path extends from the foreground, curving slightly rightward into the distance. To the left, a chain-link fence runs parallel to the path, separating it from multiple train tracks that recede into the background, topped by overhead wires. On the right, a grassy verge borders the path, backed by a rock face partially covered by trees and dense foliage, with a lamppost positioned alongside the path and two small figures visible further down the path. The sky overhead is a clear blue with scattered white clouds.
+end of description
+The viewpoint steadily moves forward along the path. The train tracks and fence on the left recede into the background, while the trees and rock face on the right also move backward relative to the viewer. The two distant figures on the path grow perceptibly larger as the viewer approaches them, and the lamppost on the right gradually moves out of the frame.
+frame_0000000512-frame_0000000640:
+The first frame displays a dirt path extending forward, dappled with tree shadows. To the left, a chain-link fence separates the path from multiple train tracks with overhead electrification infrastructure and distant trees, all under a clear blue sky. To the right, a grassy verge leads to a utility pole and a rocky embankment covered in trees and bushes, with faint graffiti visible, and two distant figures further along the path.
+end of description
+As the scene progresses, the viewpoint moves forward along the path. A train emerges from the far left on the tracks relative to the initial frame's viewpoint, moving from left to right across the scene before receding into the distance. The two figures previously seen in the distance on the path, to the right of the original viewpoint, also become slightly closer.
+frame_0000000640-frame_0000000768:
+A paved path extends towards the distant horizon under a blue sky, with tree shadows on its surface. To the left, railway tracks run behind a chain-link fence, featuring overhead power lines and signal poles. On the right, a grassy bank with graffiti-covered rocks and trees borders the path, with a graffitied utility pole in the foreground.
+end of description
+The subsequent frames depict the identical static scene with no observable dynamic changes, newly revealed objects, or discernible movement within the environment.
+frame_0000000768-frame_0000000896:
+The first frame depicts a paved path leading away from the viewer, bordered on the left by multiple railway tracks behind a fence, with overhead lines and signal posts visible. To the right, a rocky embankment covered in foliage and graffiti runs parallel, with tree branches casting shadows onto the path from above.
+end of description
+No dynamic changes occur, nor are any new objects or scenes revealed in the subsequent frames; the scene remains entirely static from the same viewpoint.

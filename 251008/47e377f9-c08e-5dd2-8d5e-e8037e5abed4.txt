@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a paved road curving slightly to the right, with a steep rocky mountain face rising to the viewer's left and a grassy slope with stone barrier posts to the right. In the distance, ahead and slightly right, a dark tunnel entrance is visible with a small white vehicle nearby, all beneath an overcast sky.
+end of description
+As the frames progress, the viewpoint moves forward along the road, causing the broken white center line and the solid right-edge line to approach and pass beneath the viewer. The stone barrier posts on the right side of the road also progressively appear closer. Simultaneously, the tunnel entrance and the small white vehicle ahead and to the right become significantly larger and more detailed as the viewer approaches them.
+frame_0000000128-frame_0000000256:
+From the viewer's perspective, a paved road with broken and solid white lines curves ahead, flanked by a steep rocky cliff on the left, topped with evergreen trees, and a grassy slope with stone barrier posts on the right. In the far distance, a small white vehicle is visible on the road against an overcast sky.
+end of description
+The viewer moves forward, causing the distant white vehicle to rapidly approach, revealing itself as a dark car that passes to the viewer's immediate left. As the car passes, new white markers become apparent on the cliff face to the viewer's left, while the stone posts on the right side recede behind the viewer.
+frame_0000000256-frame_0000000384:
+From the viewer's perspective on a paved road, a massive, craggy rock face rises steeply to the left. To the right, a stone barrier lines the road, beyond which a forested hillside slopes down into a valley. A dark grey car approaches in the left lane, positioned in the middle distance. In the background, green, forested mountains extend under a cloudy sky, and the road curves out of sight.
+end of description
+The dark grey car continues to approach the viewer, growing larger in the frame. It then rapidly passes the viewer, moving from the road ahead to the left side of the frame with motion blur, and subsequently exits the scene completely, now behind and to the left of the viewer. The road and mountainous landscape ahead remain constant.

@@ -1,0 +1,28 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a sunlit street view, looking forward along a sidewalk. To the viewer's left, a row of brownstone buildings with stoops and ornate black fences extends into the distance, with sunlight highlighting their facades. To the right, a large tree trunk is in the foreground, and a red SUV is partially visible parked next to the curb.
+end of description
+As the frames progress, the viewpoint moves forward along the sidewalk. This movement causes the red SUV on the immediate right to shift further right in the frame, revealing more of its front wheel. Concurrently, the brownstone buildings and their fences on the left appear to shift leftward in the frame, and the street ahead becomes more visible.
+frame_0000000128-frame_0000000256:
+The first frame captures a tree-lined city street viewed from a sidewalk, featuring brownstone-style buildings to the left behind an ornate black fence, which displays '631' in the bottom-left foreground. A sunlit concrete sidewalk extends into the midground, paralleled on the right by a street with several parked cars, including a prominent black SUV.
+
+end of description
+
+As the frames progress, the viewpoint slowly shifts forward along the sidewalk, causing the '631' sign and the initial section of the fence on the left to gradually recede and move out of the bottom-left of the frame. More of the sidewalk and the buildings further down the street are consequently revealed ahead in the updated perspective.
+frame_0000000256-frame_0000000384:
+A street scene shows a sidewalk extending into the distance, flanked by a black wrought-iron fence and green bushes on the left, and several trees with green foliage. Brownstone buildings line the left side, while a black SUV and other parked cars are on the street to the right. Patches of sunlight illuminate the concrete sidewalk.
+end of description
+Subsequently, a blue bus gradually emerges from the background to the right and moves along the street, passing behind the parked cars on the right side of the initial view as it travels leftward.
+frame_0000000384-frame_0000000512:
+The first frame captures a sunlit city street with a sidewalk extending forward. To the left, brownstone buildings with stoops and black railings are visible, fronted by greenery. Trees line the center of the sidewalk, while a dark SUV is parked on the street to the right. Further down the street, a lighter car and a blue bus are also visible. end of description. In subsequent frames, the blue bus and the lighter car, both located further down the street to the right of the viewer's original position, slowly move away, receding into the distance.
+frame_0000000512-frame_0000000640:
+The first frame captures a sunny city sidewalk scene looking into the distance. To the viewer's left, a black wrought-iron fence runs alongside a garden with green plants, fronting brownstone buildings with visible stoops and a bicycle leaning against one set of steps. On the right, a dark SUV is parked, partially obscured by a tree trunk in the foreground, with more parked cars and leafy trees lining the street further ahead. Dappled sunlight and shadows fall across the paved sidewalk and illuminate the upper parts of the buildings and trees.
+end of description
+The camera executes a slow, subtle forward motion down the sidewalk. Objects to the left, such as the fence and brownstones, gradually shift slightly further left in the frame, while objects on the right, like the parked cars and trees, move incrementally towards the right. A small red object, initially barely visible on the left side of the sidewalk in the midground, slowly becomes clearer and moves towards the center-left as the viewpoint advances.
+frame_0000000640-frame_0000000768:
+The first frame presents a pedestrian's view down a sunny city street. To the viewer's immediate left are historic brownstone buildings with stoops and intricate iron railings, a bicycle leaning against one. To the right, a street is lined with parked cars and mature trees, extending into the distance.
+end of description
+Subsequently, the viewer's perspective moves slightly forward along the sidewalk. This progression causes the brownstones and railings on the left, and the parked cars and trees on the right, to recede slightly further into the distance and shift marginally to the left relative to the initial viewpoint, progressively revealing more of the path ahead.
+frame_0000000768-frame_0000000896:
+The first frame presents a sunlit street scene looking forward, with a row of brownstone buildings and front steps on the left, where two bicycles lean against a black metal fence. A white cloth hangs from this railing, and a small red object lies on the ground near the fence. On the right, a large tree trunk stands next to the sidewalk, which parallels a street lined with parked cars, and more trees and buildings extend into the background.
+end of description
+Throughout the subsequent frames, the white cloth hanging from the railing on the left gradually extends further downwards and sways gently, as if caught by a light breeze. Minor, almost imperceptible shifts are also visible in the sunlight and shadow patterns across the sidewalk and street. No new objects or scenes are introduced; the overall perspective and stationary elements remain unchanged.

@@ -1,0 +1,26 @@
+frame_0000000000-frame_0000000128:
+A paved road curves slightly left into a lush green mountain valley under a partly cloudy sky in the first frame. Two traditional houses are visible on the far left mid-ground, while a large, leafy tree stands close on the right, flanked by towering, forested mountains and distant, snow-capped peaks.
+end of description
+As the viewpoint advances along the road, the large tree on the right gradually moves out of the frame, revealing more of the steep, grassy slope previously behind it. The scene widens, and the houses on the left, along with the distant snow-capped mountains further ahead in the valley, become slightly more prominent.
+frame_0000000128-frame_0000000256:
+The first frame displays a scenic mountain valley with a paved road curving slightly left in the foreground, flanked by a dirt shoulder on the left and a grassy bank on the right. To the left, two wooden buildings are nestled on a green slope, which rises into a tree-covered mountain. On the right, a vast grassy hillside extends upwards, eventually covered by dense forest. In the distance, between the mountains, a valley opens to reveal further peaks, some with snow, all beneath a partly cloudy blue sky. end of description. There are no dynamic changes or newly revealed objects in the subsequent frames, as all images appear identical to the first-frame viewpoint.
+frame_0000000256-frame_0000000384:
+The first frame displays a scenic mountain valley with a paved road curving slightly right in the foreground, extending towards distant snow-capped mountains. Lush green grassy slopes and densely forested mountains flank both sides of the valley, with two traditional houses visible on the left slope. A partly cloudy sky arches overhead.
+end of description
+The subsequent frames show no dynamic changes; the entire scene remains static with all visible objects retaining their original spatial positions relative to the viewer.
+frame_0000000384-frame_0000000512:
+The first frame displays a paved road curving gently to the left from the bottom center, bordered by green grassy slopes. To the viewer's left, in the midground, two small buildings with dark roofs are nestled on the hillside, with more distant structures visible deeper in the valley. Imposing, tree-covered mountains rise steeply on both the left and right, framing rugged, snow-capped peaks in the distant background under a sky filled with white clouds and blue patches.
+end of description
+There are no dynamic changes or newly revealed objects in the subsequent frames; all frames are identical to the first, depicting the same static mountain valley scene.
+frame_0000000512-frame_0000000640:
+The first frame presents a scenic mountain valley. A paved road stretches from the bottom center into the middle distance, flanked by vibrant green grassy slopes rising on both sides. To the left, several rustic wooden buildings with dark roofs are nestled on a hill amidst the green fields. Towering, heavily forested mountains frame the scene on the left and right, leading the eye towards the distant center where majestic, snow-capped peaks are visible under a partly cloudy sky.
+end of description
+No dynamic changes or newly revealed objects are observed across the subsequent frames; the scene remains static throughout the sequence.
+frame_0000000640-frame_0000000768:
+The first frame shows a paved road extending from the bottom center, gently curving right into the middle distance, flanked by vibrant green grassy fields. On the left, a steep, tree-covered mountain rises dramatically, featuring a visible waterfall cascading down its face, while several traditional houses are nestled on the hillsides. Another large, green mountain frames the right side, with more distant, rugged, partially snow-capped mountains visible further down the valley under a sky filled with scattered white clouds.
+end of description
+No dynamic changes, newly revealed objects, or shifts in spatial position relative to the first-frame viewpoint are observed in the subsequent frames; all frames appear identical to the first.
+frame_0000000768-frame_0000000896:
+The first frame presents a scenic mountain valley with a paved road curving slightly to the right in the foreground, flanked by green grass and a dirt shoulder. In the midground, verdant grassy slopes ascend, dotted with several traditional houses primarily to the left and center-right. Steep, forested mountains frame the scene to the left and right, with a small waterfall visible on the far left, while distant snow-capped peaks are visible at the end of the valley under a partly cloudy sky.
+end of description
+The following frames depict an identical static scene, revealing no dynamic changes or newly revealed objects relative to the first-frame viewpoint.

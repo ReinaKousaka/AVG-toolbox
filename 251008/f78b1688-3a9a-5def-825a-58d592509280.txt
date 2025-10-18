@@ -1,0 +1,14 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a narrow dirt path receding into the distance, flanked by lush green grass in the foreground. To the left, a dense wall of vibrant green foliage and trees creates a tunnel-like canopy overhead, while to the right, a calm, dark canal reflects the sky, bordered by more trees. A small, indistinct figure is visible far down the path, approaching the viewer.
+end of description
+As the frames progress, the viewpoint moves steadily forward along the path. The surrounding dense vegetation and the canal on the right progressively shift from the foreground towards and then behind the viewer. Concurrently, the distant figure on the path continuously grows larger as it approaches the viewer's original first-frame position.
+frame_0000000128-frame_0000000256:
+The first frame displays a narrow, unpaved path extending directly away from the viewer into the distance. To the immediate left of the path, a dense wall of vibrant green foliage and climbing vines dominates, while to the right, a strip of green grass borders a dark, still body of water, likely a canal. Overhead, lush green tree branches from both sides arc inward, forming a natural canopy, with a bright sky subtly visible through the leaves. Far down the path, a solitary, dark-clad figure walks away from the viewer.
+
+end of description
+
+As the frames progress, the viewpoint moves steadily forward along the path from its initial position. The dense foliage on the left and the canal on the right appear to continuously pass by the viewer, receding towards the sides and eventually behind. Concurrently, the lone figure ahead on the path consistently grows larger, indicating the viewer is closing the distance while maintaining forward motion.
+frame_0000000256-frame_0000000384:
+The first frame displays a narrow, damp path extending into the distance, bordered on both sides by dense, verdant trees forming a natural canopy overhead. To the viewer's right, a calm canal or river runs parallel to the path, separated by a strip of green grass, with a small, dark figure walking in the far distance along the path.
+end of description
+As the frames progress, the viewer moves forward along the path, causing the lush green foliage on both sides to visually approach and then recede, becoming more prominent in the foreground. The path and the adjacent body of water on the right also appear closer, gradually filling more of the lower and right parts of the frame, while the distant figure on the path is slowly approached.

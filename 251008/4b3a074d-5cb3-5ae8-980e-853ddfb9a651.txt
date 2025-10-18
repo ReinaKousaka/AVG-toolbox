@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a traditional L-shaped building complex with a dark tiled roof, featuring a white section to the left and a wooden one straight ahead adorned with red lanterns, all surrounding a paved courtyard with numerous potted plants. To the far right, a vine-covered pillar with bamboo behind it holds a lit lantern.
+end of description
+As the view pans subtly left and down, a red umbrella and the head of a person in a white cap emerge in the far left foreground. The scene's lighting gradually darkens, and a stone well structure becomes visible in the mid-right of the courtyard, previously obscured.
+frame_0000000128-frame_0000000256:
+The first frame displays a traditional stone-paved courtyard, featuring a white-walled building with a wooden window on the left, and a wooden structure on the right housing a lit window, an open doorway revealing an interior, and vertically hanging red lanterns; numerous potted plants line both walls, and a stone well-like structure stands center-right.
+end of description
+The viewpoint slowly pans to the right and slightly zooms, progressively revealing more depth in the corridor at the back of the courtyard and further into the right-side building's interior, while the leftmost building and plants gradually move out of frame to the left.

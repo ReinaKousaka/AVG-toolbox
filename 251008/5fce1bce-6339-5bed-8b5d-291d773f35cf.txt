@@ -1,0 +1,30 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a multi-lane highway extending into the distance, bordered by dense evergreen forests on both sides under a partially cloudy sky. To the immediate left, a concrete barrier separates the viewer's road from an adjacent thoroughfare where several vehicles, including a white car, are visible. Further ahead in the right-center lane, a dark car travels in the same direction, while white dashed lane markings define the path directly in front of the viewer.
+
+end of description
+
+As the sequence progresses, the viewer's vantage point moves forward along the highway. Lane markings on the road surface continuously emerge from the distant foreground, pass beneath the initial viewpoint, and recede behind it. New sections of the evergreen forests and the concrete barrier lining the highway progressively appear ahead of the first-frame viewpoint. The dark car ahead maintains its position relative to the moving camera, while other vehicles on the adjacent left road also advance, revealing new segments of the journey in front of the initial observation point. This continuous motion causes the landscape to shift, revealing new scenery ahead and moving existing elements behind the static first-frame perspective.
+frame_0000000128-frame_0000000256:
+The first frame shows the viewer on a multi-lane highway, looking forward. The road extends into the distance, with a concrete barrier to the left separating the viewer's direction from oncoming traffic, where several cars are visible. Beyond the barrier and to the left, a treeline with various trees is present. To the right, dense coniferous trees border the highway. A dark car is visible ahead in the middle lane, and the sky above is partly cloudy.
+
+end of description
+
+A red pickup truck progressively enters the scene from the bottom-left, to the immediate left of the first-frame viewpoint, and moves forward in the adjacent lane. It drives alongside the viewer, gradually revealing its full side and rear as it passes. Meanwhile, vehicles in the opposing lanes on the left also continue to move past the first-frame viewpoint, while the dark car in the distance remains ahead in the same lane.
+frame_0000000256-frame_0000000384:
+The first frame shows a multi-lane highway from a moving vehicle, with a red pickup truck to the immediate left, slightly ahead. The road extends into the distance with other cars, flanked by dense trees and foliage on both sides under a cloudy sky.
+end of description
+As the frames progress, the viewer's vehicle moves forward along the highway, with the red pickup largely maintaining its position to the left. The background vehicles and roadside trees continuously shift, revealing new sections of the forested landscape on both sides as the scene advances.
+frame_0000000384-frame_0000000512:
+A multi-lane highway stretches forward under a partly cloudy sky, flanked by a concrete barrier on the left and dense evergreen trees on the right, where a street light pole with a sign is also visible. A red pickup truck is ahead in the left adjacent lane, while another dark car is further ahead in the right lane.
+end of description
+As the viewpoint moves forward along the highway, the red pickup truck and the dark car ahead maintain their relative positions. The concrete barrier on the left and the street light pole with its sign on the right progressively scroll closer and then out of view, revealing continuous stretches of the treeline and highway.
+frame_0000000512-frame_0000000640:
+The first frame displays a highway stretching into the distance under a partly cloudy sky. Directly ahead in the right lane is a red pickup truck, with a dark sedan further ahead in the adjacent left lane, and additional cars visible far left beyond a concrete barrier. Dense trees line both sides of the highway. end of description. As the viewer moves forward, a street light pole gradually appears on the right side of the road, becoming fully visible by frame 7. Attached to this pole, a blue Interstate 5 sign is newly revealed in frame 8.
+frame_0000000640-frame_0000000768:
+The first frame shows a multi-lane highway from a driver's perspective, extending into the distance under a partly cloudy sky. A red pickup truck is directly ahead in the viewer's lane, with a dark car further ahead in the right lane. To the left, a concrete barrier separates traffic, beyond which a dense evergreen forest lines the road, mirroring a similar forest on the right.
+end of description
+As the scene progresses, the viewer's vehicle moves forward; the red pickup truck and dark car become more distant, while the concrete barrier and forests on both sides appear to recede past the viewer. Vehicles in the left lanes also move relative to the viewer. A blue road sign on the right side of the highway gradually approaches and becomes more prominent.
+frame_0000000768-frame_0000000896:
+The first frame displays a multi-lane highway receding into the distance under a blue and white cloudy sky. To the viewer's immediate left, a concrete median barrier runs alongside the road, beyond which is a white car in an opposite lane and dense evergreen trees. To the right, a blue rectangular road sign is visible on the shoulder, also backed by a thick forest of evergreen trees. Further ahead in the viewer's lanes, a red car is in the leftmost lane, and a dark car is in the rightmost lane.
+end of description
+As the video progresses, the viewpoint moves forward along the highway. The red and dark cars ahead appear to draw closer, while the white car previously to the viewer's left passes out of view in the opposite direction. The blue road sign on the right side of the highway grows larger, revealing legible text indicating "CAMPING TENT ONLY" and "RV/TRAILER OVERSIZE" as the viewer approaches it. New sections of the evergreen forests on both sides of the highway are continuously revealed to the left and right of the original frame's boundaries as the camera advances.

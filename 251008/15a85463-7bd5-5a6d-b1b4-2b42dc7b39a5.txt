@@ -1,0 +1,30 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a sunny outdoor scene with a paved road curving from the viewer's lower center-right towards the upper left. To the left of the road is a grassy slope with several bare trees, while to the right, a stone retaining wall supports a higher grassy bank, with a white utility box, red pole, and brown signpost positioned further right. In the background, multiple buildings and more bare trees are nestled on the distant grassy hillside under a clear blue sky, with the sun bright in the upper-left.
+end of description
+As the frames progress, the viewpoint subtly moves forward and slightly to the left. The white utility box and a portion of the signpost on the far right gradually move out of the frame to the right, indicating a forward and slightly inward camera shift. The details of the stone retaining wall and the trees on the left become slightly more prominent, while the overall landscape remains consistent.
+frame_0000000128-frame_0000000256:
+The first frame depicts a winding asphalt road receding uphill and curving left, flanked on its right by a stone retaining wall and a steep, bright green grassy hill dotted with bare trees. Several traditional wooden houses are visible on the distant hilltop, beneath a clear blue sky where the sun shines brightly from the upper left. A large, leafless tree stands prominently on the left foreground, casting long shadows across the road, with a small patch of snow near its base.
+end of description
+No dynamic changes or newly revealed objects are observed in the subsequent frames; the scene remains static relative to the first-frame viewpoint.
+frame_0000000256-frame_0000000384:
+In the first frame, an asphalt road curves from the bottom center towards the upper left. To the right of the road, a substantial stone retaining wall rises, topped by a steep, vibrant green grassy hillside. Scattered across this hillside and receding into the background are several bare-branched trees and multiple chalet-style wooden houses with dark roofs. A small patch of snow lies on the grassy verge to the road's left, while a bright blue sky dominates the upper frame, with sun glare visible in the upper left.
+
+end of description
+
+The viewpoint moves forward along the road. As the scene progresses, more of the stone retaining wall is continuously revealed ahead and to the right of the first-frame's initial view. The patch of snow initially seen to the left of the road gradually moves out of frame to the left, exposing more green grass in its place. The houses and trees on the hillside remain ahead and to the right, shifting slightly in perspective as the viewer advances along the road.
+frame_0000000384-frame_0000000512:
+The first frame displays a paved road in the foreground and mid-ground, curving towards the viewer's left. To its right, a stone wall supports a vibrant green grassy hill, adorned with bare-branched trees and distant houses under a bright blue sky with the sun in the upper-left corner.
+end of description
+As the frames progress, the viewpoint moves forward, dynamically revealing more of the curving road ahead and to the left of the initial position. Concurrently, new segments of the stone wall and the grassy hill appear further along the path, to the original right and ahead, as previously visible elements subtly shift towards the right edge of the frame.
+frame_0000000512-frame_0000000640:
+In the first frame, a paved road curves upwards and to the left from the bottom center, bordered on its right by a stone retaining wall. Behind the wall, a grassy hill slopes upwards to the right, crowned by a multi-story wooden house. Bare trees are visible along the left side of the road and on the hill, with a bright sun high in the clear blue sky in the upper-left, and a distant snow-capped mountain peeking from behind houses on the far left.
+end of description
+Over the subsequent frames, the viewpoint subtly pans leftward, gradually shifting the scene. The bright sun, originally in the upper-left, moves further towards the far left of the frame. Simultaneously, the rightmost section of the stone wall and grassy slope, initially to the viewer's right, slowly recedes from view. The paved road and the house on the hill, originally in front of the viewer, appear to shift slightly leftward within the evolving perspective.
+frame_0000000640-frame_0000000768:
+The first frame presents a sunlit, paved road curving uphill and to the right, leading away from the viewer. To the right, a stone retaining wall borders a grassy slope with a multi-story house and bare trees, while to the left, more bare trees frame distant houses with snowy roofs and snow-capped mountains in the far background. A bright sun is prominently positioned high in the clear blue sky above.
+end of description
+As the viewpoint moves forward along the road, the immediate foreground trees on both sides and the stone wall on the right progressively recede and shift out of view towards the edges. Simultaneously, the distant houses and snow-capped mountains, originally to the far left, become more prominent as the passing foreground elements no longer obscure them.
+frame_0000000768-frame_0000000896:
+The first frame depicts a paved road curving uphill to the right, leading towards a bright sun high in a clear blue sky. To the immediate right, a stone retaining wall runs alongside the road, with a grassy slope and a large brown building further up. To the left, a wooden fence borders the road, behind which bare trees and a house with a snow-dusted roof are visible, while snow-capped mountains rise in the far distance.
+end of description
+As the viewpoint moves forward along the road, the stone retaining wall and wooden fence on either side recede from the foreground, revealing more of the winding path ahead. The grassy slope on the right expands, bringing into view a red flag attached to a pole near the distant brown building. Objects on both sides dynamically shift as the "Tourist Car" progresses up the hill and around the bend, revealing more of the road and the surrounding mountainous landscape.

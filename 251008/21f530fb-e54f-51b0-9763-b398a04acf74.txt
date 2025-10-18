@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a winding asphalt road with colorful center lines and a right-side guardrail, curving towards the right. Lush green vegetation and a steep, tree-covered hillside flank the road, with dense forest covering distant hills under a clear blue sky. Two yellow chevron signs and utility poles are visible along the right side of the road in the midground.
+end of description
+As the frames progress, the viewpoint moves forward along the winding road. The colorful road markings and the guardrail on the right approach and pass the viewer from their initial positions. The yellow chevron signs and utility poles, initially in the mid-right, move closer and transition towards the right side and foreground of the view as the vehicle rounds the curve, revealing new sections of the road and forested hillside further ahead.

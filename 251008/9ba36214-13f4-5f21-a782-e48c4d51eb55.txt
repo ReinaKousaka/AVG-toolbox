@@ -1,0 +1,6 @@
+frame_0000000000-frame_0000000128:
+The initial frame presents a snow-dusted dirt path extending directly ahead, curving gently to the left and receding into a dense forest. To the immediate left are sparse, snow-covered bushes, while to the right, patches of snow dot the ground next to several tall, evergreen trees with snow-laden branches. The background is a thick forest of snow-covered evergreens under an overcast sky. end of description. There are no dynamic changes or newly revealed objects in the subsequent frames; the scene remains static throughout the sequence.
+frame_0000000128-frame_0000000256:
+The first frame displays a muddy brown path, centrally positioned, extending from the viewer's foreground into the snow-covered distance. Snow blankets the ground on both sides of the path, flanked by dense evergreen trees and bare bushes, all dusted with white, under an overcast sky.
+end of description
+In subsequent frames, the viewpoint subtly shifts forward, moving along the path. The path ahead appears to get closer, and the snowy foliage and trees lining either side of the path advance and then recede relative to the initial viewpoint, revealing more of the forest deeper within.

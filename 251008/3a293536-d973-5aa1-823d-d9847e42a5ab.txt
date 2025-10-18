@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+In the first frame, a wet asphalt road with yellow '차량 통행 금지' (No vehicles) markings stretches uphill into the distance. To the viewer's right, a traditional wooden building with a tiled roof features a large, partially open wooden garage door, revealing a dark interior, while a patterned white wall is closer on the far right. On the left, a stone and brick wall runs alongside the road, leading to two dark cars parked in the mid-distance and houses further up the sloped street amidst green foliage.
+end of description
+Over the subsequent frames, the large wooden door on the right-hand building progressively opens wider, revealing more of the dark interior space behind it. No new objects or significant scene changes occur beyond this gradual opening, and all other elements like the road, walls, cars, and distant houses remain stationary relative to the first-frame viewpoint.
+frame_0000000128-frame_0000000256:
+The first frame shows a wet, paved street sloping uphill and curving slightly left in the distance. Yellow lines border the street, which features a vertical Korean phrase '순환차 통행' painted in yellow towards the viewer. To the right, a traditional wooden building with a tiled roof and intricate doors extends from the foreground, while a stone wall topped with red brick and green foliage occupies the left. A dark car is parked on the left further up the street, with another vehicle partially visible behind it, all under a cloudy sky.
+end of description
+Across the following frames, the yellow Korean text '순환차 통행' painted on the road directly in front of the viewer gradually fades and disappears. This dissolution progresses from the top character downwards. By the final frame, only the last character of the phrase, '행', remains partially visible on the street surface.
+frame_0000000256-frame_0000000384:
+In the first frame, a wet asphalt road, marked with two yellow parallel lines and yellow Korean characters ("소방차"), extends from the viewer uphill into the distance. To the left, a curved red brick wall atop a stone base runs alongside the road. To the right, a traditional wooden building with white patterned sections and a tiled roof parallels the road. Further uphill, two parked cars are visible on the left side of the road, and more traditional buildings and trees can be seen in the background under an overcast sky.
+end of description
+There are no dynamic changes or newly revealed objects in the subsequent frames, as the scene remains static from the first-frame viewpoint.

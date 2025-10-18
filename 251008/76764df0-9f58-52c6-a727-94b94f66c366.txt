@@ -1,0 +1,14 @@
+frame_0000000000-frame_0000000128:
+The viewer looks along snow-covered train tracks that curve right into a vast winter landscape, with a frozen body of water and sparse trees to the left, and a snow-dusted rocky incline with more trees to the right; overhead power lines are supported by a large utility pole directly ahead in the mid-ground, all beneath a cloudy sky.
+end of description
+As the scene progresses, the viewer moves forward along the tracks, causing the initial utility pole to shift left and eventually move out of the frame. New power poles appear from the right and recede, while the tracks continuously reveal more of the curving path and the snow-covered mountainous terrain ahead. The barren trees to the left and the rocky slope to the right steadily unveil new sections, extending deeper into the scene from their original positions.
+frame_0000000128-frame_0000000256:
+The first frame displays train tracks stretching into the distance and curving right, flanked by snow-covered ground and bare trees. A snow-dusted mountain slope is visible to the right, while a broader, snow-filled valley with distant hills lies to the left under a cloudy sky. Overhead, electrical lines are supported by a power pole situated centrally over the tracks.
+
+end of description
+
+As the viewpoint progresses forward along the tracks, the initial power pole and its lines move towards the far left and eventually out of the frame. The snowy landscape, trees, and mountain on the right continuously scroll past, revealing new sections of the track and terrain as additional power poles appear in the advancing distance.
+frame_0000000256-frame_0000000384:
+In the first frame, train tracks stretch directly ahead of the viewer, curving gently to the right in the distance, flanked by snow-covered ground. To the immediate left, a snowy slope with numerous bare trees extends into a valley with more distant snow-covered hills under a cloudy, dusky sky. To the right, a steeper, snow-covered rocky mountain face with bare trees is visible. Overhead, multiple electrical lines run above the tracks, supported by a tall utility pole positioned to the left of the tracks in the mid-ground.
+end of description
+As the frames progress, the viewpoint moves forward along the train tracks. The initial utility pole rapidly approaches and passes to the viewer's left, revealing new sections of track and snow-covered landscape ahead. Subsequent utility poles and the overhead electrical lines also advance, passing by the viewer on the left, while the snowy mountain on the right and the distant valley on the left continuously recede. The environment consistently updates, showing the ongoing journey through the wintry landscape.

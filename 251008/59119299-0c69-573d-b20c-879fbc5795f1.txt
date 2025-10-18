@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a city street lined with multi-story red brick buildings on both sides, with prominent trees on the left and a silver car parked near the curb on the right, under a cloudy sky with a distant city skyline.
+end of description
+Subsequently, the silver car on the right drives forward and away from the viewer down the street. A person then emerges from the right sidewalk, behind the car's initial position, and walks across the street towards the left. As the car continues to recede, the green construction hoarding on the far right foreground disappears, revealing more of the building, and a second person appears on the far right sidewalk, also walking away from the viewer.
+frame_0000000128-frame_0000000256:
+The initial frame depicts a street flanked by multi-story brick buildings under a cloudy sky, converging towards a distant city skyline straight ahead. On the left, a bicycle is parked near dark utility boxes on the sidewalk, below a partial tree canopy and a "Water St" street sign. On the right, a man in a white shirt walks away from the viewer, past a building with balconies and a flatbed trailer with an orange cone.
+end of description
+As the viewpoint moves forward along the street, the man on the right continues walking away from the viewer, gradually exiting the frame to the right. Simultaneously, a person on the left sidewalk, initially partially obscured behind the utility boxes, becomes more visible walking towards the viewer. The buildings on both sides and street signs, including "Wain St" on the right, become progressively closer and larger.

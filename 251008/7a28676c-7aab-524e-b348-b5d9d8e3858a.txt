@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+A narrow, paved road stretches forward from the viewer, flanked on both sides by dense, vibrant green jungle foliage and tall trees. Overhead, the tree canopies form an archway, heavily laden with vines and epiphytes, mostly obscuring the sky, though a bright white patch is visible directly above the distant road.
+end of description
+The subsequent frames show no noticeable dynamic changes; the scene remains static with no movement of objects or changes in spatial composition relative to the first-frame viewpoint.

@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+A paved road with white lines on its edges stretches from the bottom center, curving slightly left into the distance, flanked by a steep, rocky mountainside to the immediate right and a grassy slope with distant mountains on the left, all under a clear blue sky.
+end of description
+As the viewpoint moves forward along the road, the rocky mountainside on the right and the distant mountains on the left recede, shifting further to the sides and background relative to the initial position. Concurrently, new segments of the curving road and the rugged terrain immediately to the right are revealed directly in front of the viewer, indicating forward progress through the mountainous landscape.
+frame_0000000128-frame_0000000256:
+The first frame captures a paved road extending into the distance, curving gently to the right, with a steep, rocky mountain face rising immediately to the viewer's right. To the left, a grassy shoulder borders the road, beyond which a vast valley with distant mountains stretches under a clear blue sky.
+end of description
+As the frames progress, the viewpoint moves continuously forward along the mountain road, revealing more of the path ahead and causing the immediate surroundings to recede behind the viewer. The rocky mountain slope to the right and the valley to the left continuously unfold as the journey progresses, with no new distinct objects or scenes introduced beyond the existing landscape.
+frame_0000000256-frame_0000000384:
+A paved mountain road with white lines stretches forward, curving left into the distance, with a steep rocky slope rising immediately to the viewer's right and a valley with distant mountains visible to the left under a clear blue sky.
+end of description
+As the viewpoint advances along the road, the immediate rocky mountain face on the right moves closer and passes by, continually revealing new sections of its strata and sparse vegetation to the viewer's right. The white road lines steadily extend into the foreground and recede behind the viewer. The distant mountains and valley to the left remain largely consistent in the frame but shift subtly in perspective as the forward motion progresses.

@@ -1,0 +1,28 @@
+frame_0000000000-frame_0000000128:
+A straight, narrow paved road extends from the viewer's position into the distance, flanked by vast green fields on both sides. In the mid-ground, a small village with buildings and trees is visible centrally, with more distant green mountains rising on the left and right sides of the horizon. The sky above is a clear, bright blue with a few wispy white clouds scattered across it.
+end of description
+The subsequent frames show no dynamic changes; all visible objects and their spatial positions remain static, and no new objects or scenes are revealed relative to the initial viewpoint.
+frame_0000000128-frame_0000000256:
+A gray asphalt road extends from the viewer's immediate foreground towards distant houses, flanked by lush green grass fields. To the left, a lighter green crop field, trees, and distant hills are visible, while a large forested mountain with a rocky face dominates the right, all beneath a bright blue sky with scattered clouds.
+end of description
+No dynamic changes or newly revealed objects or scenes occur in the subsequent frames, as all frames are identical to the first.
+frame_0000000256-frame_0000000384:
+A paved road extends from the viewer's foreground into the distance. Lush green fields flank the road, with a lighter field and a line of trees to the left, and scattered houses alongside a steep, forested mountain to the right. In the background, a small village and more distant mountains are visible, all beneath a clear blue sky with sparse clouds.
+end of description
+There are no dynamic changes or newly revealed objects in the subsequent frames, as all frames are identical to the first.
+frame_0000000384-frame_0000000512:
+A paved road stretches from the foreground towards the distant horizon, bordered by a field of dry, harvested land transitioning to tall green crops on the left, and a vibrant green grassy field on the right. In the distance, a small village featuring several red-roofed houses is nestled amongst trees, with towering green mountains rising behind the entire scene under a clear blue sky.
+end of description
+As the viewpoint moves forward, the road and surrounding fields gradually expand towards the viewer, revealing a wooden fence post appearing on the left side of the road, closer to the viewer. Subsequently, another wooden fence post emerges on the right side of the road, also approaching the viewer, as the entire landscape slowly advances.
+frame_0000000512-frame_0000000640:
+The first frame displays a narrow paved road receding directly away from the viewer, flanked by fields. To the left, a field of dry hay is in the foreground, leading to tall green crops and trees; to the right, a vibrant green field extends towards a large, forested mountain range in the background. A small village with houses is visible along the road in the mid-ground, all under a bright blue sky with scattered clouds.
+end of description
+Throughout the subsequent frames, the overall landscape, including the road, fields, village, and mountains, remains static relative to the first-frame viewpoint, revealing no new objects or scenes. The only observed dynamic changes are the subtle movements and slight alterations in the shapes of the white clouds against the distant blue sky.
+frame_0000000640-frame_0000000768:
+A gray paved path leads into the distance, flanked by a dry grass patch transitioning to green fields and trees on the left, and a wide green field on the right. Distant houses appear mid-left, with a vast green mountain range rising on the far right under a clear blue sky.
+end of description
+The viewpoint moves forward along the path. A green rectangular object on a pole, initially in the mid-right, approaches and grows larger, followed by a blue sign on a pole emerging further down the path on the right, both moving closer to the viewer.
+frame_0000000768-frame_0000000896:
+A narrow asphalt road curves gently from the bottom center, receding into the middle distance, flanked by vibrant green fields. To the left, a tall crop field and a small wooden shed are visible, with a village featuring red-roofed houses nestled amongst trees further back. On the right, a utility pole with a blue sign and a green box-like object stands closer to the viewer, while the expansive green field leads to a large, forested mountain range in the far distance under a clear blue sky.
+end of description
+The viewpoint steadily progresses forward along the road through the subsequent frames. The utility pole and green box on the right side rapidly recede from the foreground and disappear completely from view by the second frame. As the camera moves deeper into the scene, the village, fields, and distant mountains become progressively larger and appear closer relative to the initial viewpoint, continuously revealing more of the path ahead.

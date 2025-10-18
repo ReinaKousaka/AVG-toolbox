@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a city street from a sidewalk viewpoint, with a grey van parked immediately to the left. To the right, several cars are parked along the sidewalk, backed by multi-story buildings adorned with signs, including a large "Before After" billboard. A tree with sparse foliage stands near the center, while the street with a prominent crosswalk extends into the distance, flanked by buildings and additional trees.
+end of description
+In subsequent frames, vehicles in the distance on the street, ahead of the viewer, move further away, and pedestrians on the distant sidewalk also shift their positions. A person in dark clothing appears on the far right sidewalk, walking towards the viewer and then passing the parked cars on that side.
+frame_0000000128-frame_0000000256:
+The first frame presents a city street with a gray van partially visible on the far left. To the right, several parked cars line the sidewalk, behind which buildings with shops and signs extend into the midground. A crosswalk is visible across the street in the midground, with trees and more buildings receding into the distance, and a person standing on the right sidewalk.
+end of description
+Subsequent frames show the person initially on the right sidewalk walking slowly forward and then slightly right, eventually moving past the last parked car to the right of the viewer. Simultaneously, a distant person previously on the left side of the street crosses the crosswalk from left to right, then proceeds further away from the viewer down the street.
+frame_0000000256-frame_0000000384:
+The first frame displays a city street intersection featuring a yellow-striped crosswalk in the mid-left foreground. On the right, a white car is parked next to a sidewalk where a person, facing the viewer, is positioned in the mid-ground, surrounded by buildings and bare trees lining both sides of the street extending into the distance.
+end of description
+Subsequently, the person on the right sidewalk walks forward, consistently approaching the viewer and becoming progressively larger until they are closer to the first-frame viewpoint, near the right edge of the crosswalk.

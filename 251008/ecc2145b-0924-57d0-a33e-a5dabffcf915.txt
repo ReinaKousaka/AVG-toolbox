@@ -1,0 +1,30 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a park pathway where a woman in a red shirt pulls a black suitcase in the left foreground, while another woman sits on a bench in the right foreground using a phone. A man in a beige hoodie walks away from the viewer in the mid-ground, and numerous other individuals are seated on benches lining both sides of the tree-lined path.
+end of description
+As the frames progress, the woman with the suitcase in the left foreground continues walking leftward, gradually moving out of view. Simultaneously, the man in the beige hoodie walks further into the background, receding down the pathway. The woman on the right foreground bench remains mostly stationary.
+frame_0000000128-frame_0000000256:
+In the first frame, a man wearing a beige hoodie and blue jeans, holding a green object, walks away from the viewer in the center of a wide paved pathway. To the left, a black metal fence borders a grassy area with trees, alongside which are benches occupied by three people. To the right, several more benches line the path, with multiple individuals seated, and a large light-colored building is visible further back. In the background, other pedestrians walk along the path, with city buildings visible in the distance above the trees.
+end of description
+As the frames progress, the man in the beige hoodie moves further away from the first-frame viewpoint, deeper into the scene along the central pathway. Other pedestrians in the mid-ground and background also continue to walk further away from the viewer. The people seated on the benches to the left and right of the path remain relatively stationary relative to the first-frame viewpoint.
+frame_0000000256-frame_0000000384:
+The first frame displays a paved park path leading into the distance, bordered by trees and park benches occupied by various people on both the left and right sides. A man in a beige hoodie walks away from the viewer on the path, with a pamphlet stand and seated individuals to his left, and more seated people to his right, while distant buildings and pedestrians are visible further ahead.
+
+end of description.
+The man in the beige hoodie continues walking away from the viewer down the path. As he moves, a circular white marking on the pavement, initially beneath his right foot, becomes clearly visible, while other distant pedestrians also proceed further away.
+frame_0000000384-frame_0000000512:
+In the first frame, a paved stone path extends from the viewer into the distance, flanked by green trees and park benches. A man in a beige hoodie walks away from the viewer slightly right of center, while other pedestrians are further down the path. To the left, a display rack with brochures is near the viewer, and people are seated on benches both left and right, with city buildings visible in the far background.
+end of description
+In subsequent frames, a small dog, initially wearing a green garment, appears to the left of the man in the beige hoodie, walking forward along the path. As frames progress, a new man in a black t-shirt and cap emerges to the dog's left, holding its leash, as they both move further away from the viewer. The dog's green garment is no longer visible on it in later frames.
+frame_0000000512-frame_0000000640:
+The first frame depicts a wide paved park path extending into the distance towards city buildings. To the viewer's left, a man walks forward with a small bulldog on a leash, while on the right, two women sit on a bench, one with a black rolling suitcase beside her.
+
+end of description
+Chronologically, the man and dog on the viewer's left walk past and exit the frame to the left, while the man in a beige hoodie and others walking centrally move further into the distance. A new person's lower half becomes visible on the far right edge of the frame, seated next to the suitcase, maintaining a similar depth to the previous women on the bench.
+frame_0000000640-frame_0000000768:
+A wide paved walkway, lined with trees and park benches, stretches towards a distant city street with buildings and vehicles. A person in a pink top is seated on a bench to the left, while to the right, a woman in a pink top and patterned skirt sits on another bench with a black bag beside her. In the mid-ground, a man in a beige hoodie walks away from the viewer, followed by several other pedestrians further down the path towards the background.
+end of description
+The man in the beige hoodie continues walking away into the background, as another man in a brown jacket enters from the mid-left and also walks forward along the path. The woman on the right bench initially interacts with a phone, then puts something into her mouth, and subsequently looks towards the center-left. All pedestrians on the central path consistently move further away from the viewer towards the background city scene.
+frame_0000000768-frame_0000000896:
+A paved pathway extends from the foreground, where the viewer is located, into a city park, bordered by trees and fenced green spaces on the left and right, leading towards distant city buildings and a prominent skyscraper in the background. On the pathway, a man in a brown jacket walks left-to-right in the near foreground, while another man in a white shirt and a man in a beige hoodie walk away from the viewer. To the far left, a person in a pink top is partially visible on a bench, and to the far right, another person in a blue patterned dress is also partially visible on a bench.
+end of description
+The man in the brown jacket continues moving to the viewer's right, eventually exiting the frame. Simultaneously, the man in the white shirt, the man in the beige hoodie, and other pedestrians further down the path continue walking away from the first-frame viewpoint, moving deeper into the scene.

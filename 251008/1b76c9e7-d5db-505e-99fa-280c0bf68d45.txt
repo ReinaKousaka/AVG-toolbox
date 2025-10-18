@@ -1,0 +1,26 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a dusty ground in the foreground, with some crumpled fabric items and a yellow line extending from the bottom left. To the right, a large encampment of tents and tarps in various colors (orange, white, blue, pink) is visible, with debris piled around them. A dirt path runs through the midground, with a grassy area and bare trees to the left, and distant buildings and blue structures further along the path. In the background, more bare trees frame a clear blue sky and distant mountains.
+end of description
+There are no dynamic changes or newly revealed objects in the subsequent frames; all provided images appear to be identical to the first frame, showing a static scene.
+frame_0000000128-frame_0000000256:
+The first frame depicts a sunny outdoor area with a dirt path extending diagonally from the lower left towards the mid-right. To the viewer's left is a green grassy slope with bare trees and distant city buildings, while to the right of the path, a large encampment of various colored tents and tarps, along with piles of belongings, occupies the mid-ground. A yellow hose or barrier lies along the lower left edge of the path, and a line of blue poles stands along the path's edge in the mid-ground.
+end of description
+There are no dynamic changes or newly revealed objects or scenes in the subsequent frames; all images appear identical to the first.
+frame_0000000256-frame_0000000384:
+In the first frame, a paved path extends from the foreground into the distance, with a yellow curb ramp visible on the bottom left and colorful piles of tarps, blankets, and tent structures on the ground in the bottom right. To the left of the path lies a grassy area with sparse trees, a blue fence, a tall blue lamppost, and a metal cage filled with objects, while to the right, numerous makeshift shelters covered in blue and white tarps line the path. In the background, bare trees, distant buildings on the left, and faint mountains on the right are visible under a clear blue sky, with a small, faint smoke plume rising on the far left.
+end of description
+Across the subsequent frames, the most significant dynamic change is the gradual dissipation of the small, faint smoke plume located on the far left, in front of the distant buildings, which steadily reduces in density and size. It becomes barely visible by the fifth frame and entirely disappears by the sixth frame relative to its initial position. Apart from this, the overall scene remains largely static, with no other prominent dynamic changes or newly revealed objects.
+frame_0000000384-frame_0000000512:
+The first frame presents a dirt path flanked by a makeshift encampment of various tents and tarps (orange, red, green, white) on the right, and a grassy area with distant buildings and a blue lamppost on the left. A metal cage with items is visible beside the path on the right, and a yellow cable runs along the left path edge towards the viewer.
+end of description
+A small white object appears on the grassy area to the left, and a dark item shifts on the path in front of the viewer in subsequent frames. Subsequently, a person in a red hood emerges, sitting in front of the orange tarp within the encampment on the right, further back than the prominent red and pink tarps. Finally, a white object materializes on the ground near the white tent frame on the far right, closer to the viewer than the person.
+frame_0000000512-frame_0000000640:
+The first frame depicts a wide outdoor scene with a dirt path cutting through the center, bordered by grassy ground on the left and a dense encampment of makeshift shelters on the right. A metal cage filled with items and a blue lamppost stand on the left mid-ground, while various tents and tarps (orange, blue, white, green) dominate the right side, extending into the background alongside visible mountains.
+end of description
+In subsequent frames, a person in a red jacket pushing a cart emerges from the encampment in the right mid-ground and proceeds slowly towards the viewer's right foreground.
+frame_0000000640-frame_0000000768:
+The first frame presents a dirt path extending from the foreground into the mid-ground, flanked by a grassy slope with a metal cage full of items on the left, and an encampment of diverse tarp-covered shelters (blue, white, orange) and blue barrels on the right. Two blue poles stand along the path in the mid-ground, with bare trees, a distant white building, and mountains visible in the background beneath a clear sky.
+
+end of description
+
+A person subsequently walks from behind the left blue pole, moving progressively rightwards across the path in the mid-ground relative to the first-frame viewpoint.

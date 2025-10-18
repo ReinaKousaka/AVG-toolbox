@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a bustling night street scene with numerous pedestrians crossing a street on a crosswalk, predominantly in the midground, with some extending into the foreground on the right. A light-colored car's front is partially visible in the lower-left foreground. Above the crowd, a green traffic light hangs, flanked by streetlights and lush green trees, while tall buildings with illuminated windows loom in the dark background from left to right.
+end of description
+Subsequently, the dense crowd of pedestrians continuously moves from the left towards the right across the crosswalk. A person riding a white bicycle emerges from the left midground and traverses towards the right. Later, an electric scooter also enters from the left midground, following the bicyclist, as the crosswalk progressively clears from its left side.

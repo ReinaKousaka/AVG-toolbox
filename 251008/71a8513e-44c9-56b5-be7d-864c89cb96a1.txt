@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a paved road stretching from the viewer's immediate foreground into the distance, bordered by green trees and dry vegetation on rising terrain. A lone cyclist is visible in the far distance, centered on the road, moving away from the viewer. A clear blue sky spans the upper portion, with tree shadows cast on the road closest to the viewer.
+end of description
+In the following frames, a second cyclist, initially positioned behind and to the left of the first cyclist from the viewer's first-frame perspective, becomes more prominent. This new cyclist progressively overtakes the first, moving closer to the viewer and towards the right side of the road while continuing forward. The original cyclist remains further ahead on the road, as the surrounding environment of trees and distant terrain stays static.

@@ -1,0 +1,6 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a dirt path receding into the distance between golden-brown grassy hills under a clear blue sky. A dark, round object rests on the right hill, while distant green hills and a faint body of water are visible on the horizon to the far right.
+end of description
+As the viewpoint progresses forward along the path, the foreground grass shifts past the viewer, and the round object on the right hill gradually approaches and appears larger relative to its initial position. The overall panoramic landscape subtly pans as the viewer moves through the scene.
+frame_0000000128-frame_0000000256:
+A narrow dirt path extends from the bottom center, curving slightly to the left and leading into the middle distance, bordered by hillsides covered in dry, golden-brown grass. Beyond these, rolling green hills and distant structures are visible under a clear blue sky with a single cloud positioned to the right. end of description. The viewpoint moves steadily forward along the path, causing the dry grass on both sides to recede past the viewer and the visible length of the path ahead to extend. As this occurs, the distant green hills and sky gradually appear to approach the viewer's position.

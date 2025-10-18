@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a narrow, uphill cobblestone street winding between old stone buildings under a bright sky. To the viewer's left, a crumbling stone wall features a sunken wooden door, a concrete structure with another wooden door, and an upper balcony with metal railings. On the right, a textured stone wall contains a brown door with an arched frame, a green mailbox, and a low concrete block near the bottom right.
+end of description
+In subsequent frames, the low concrete block on the right-hand wall gradually increases in height and extends further towards the viewer's right, revealing additional decorative carved patterns on its top surface. This expansion adds complexity and dimension to the structure relative to its initial position beside the street.
+frame_0000000128-frame_0000000256:
+The first frame displays a narrow, winding cobblestone alley flanked by old, weathered stone buildings. To the left, a dark red arched wooden door is visible at the bottom, with a smaller, unpainted wooden door and a wrought-iron balcony positioned above and slightly behind it on the same wall. To the right, a dark brown arched wooden door with a green mailbox and a gray utility box are visible against a similarly textured stone wall, all leading to a gently curving path ahead.
+end of description
+The subsequent frames depict a slow, continuous forward movement of the camera deeper into the alley. As the viewpoint shifts, more of the cobblestone path further into the alley and the winding stone buildings to the front-right are revealed, while the initially prominent doors on both sides subtly recede and shift outwards, reflecting the camera's subtle forward and rightward trajectory.

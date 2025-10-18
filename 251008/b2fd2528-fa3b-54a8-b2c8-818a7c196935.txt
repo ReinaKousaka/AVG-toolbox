@@ -1,0 +1,14 @@
+frame_0000000000-frame_0000000128:
+In the first frame, a woman holding a white umbrella with colorful hearts and carrying a light-colored bag is walking towards the mid-left on a wet sidewalk, moving away from the viewer. To the viewer's immediate right stands a black and yellow striped pole topped with a small dark roof, adjacent to a brown guardrail separating the sidewalk from a multi-lane wet road. Along the left, a lush green hillside densely covered in bushes and trees borders the path, while several cars are visible on the rainy road to the right, driving away from the viewer.
+
+end of description
+
+The woman with the umbrella gradually exits the frame to the left as the camera slightly pans right, revealing more of the wet road and ongoing traffic. A red and white bus becomes increasingly visible on the far right side of the road in later frames. Throughout the sequence, heavy rain continues, creating more visible puddles on the sidewalk to the left and intensifying reflections on the wet road surface as cars proceed.
+frame_0000000128-frame_0000000256:
+The first frame depicts a rainy street scene with a dark blocky structure, marked with yellow and black hazard stripes, partially visible on the far right in the foreground. To its left, a wet sidewalk extends into the background, bordered by a dense green hedge lining an elevated embankment. Further right, a wet road shows a white sedan and SUV stationary in traffic, with streetlights beyond them.
+end of description
+As the frames progress, a red and white bus, displaying the number "1000," slowly becomes visible further down the road to the right of the stationary SUV, gradually revealing itself as it moves away into the background.
+frame_0000000256-frame_0000000384:
+The initial frame displays a rain-soaked urban street featuring a wet sidewalk and a light pole in the foreground on the right, alongside a lush green hillside with trees and a narrow path on the left. On the right, a white sedan, SUV, van, and a red and white bus are stopped on the road, with apartment buildings visible in the misty distance beyond the ongoing heavy rainfall.
+end of description.
+Subsequently, a person holding an umbrella appears from behind the white sedan on the road's right side, walking along the sidewalk towards the viewer. This individual then moves past the prominent light pole in the immediate foreground, continuing left before exiting the frame.

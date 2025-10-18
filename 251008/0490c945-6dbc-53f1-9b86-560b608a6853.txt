@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The viewer stands on an illuminated pedestrian bridge with metal railings; red graffiti covers the left railing's underside, while a glowing white structure parallels the right side, leading down to a city street and intersection at dusk. In the midground, a lone figure descends the ramp towards paused cars on the street and distant city buildings.
+end of description
+As frames progress, the descending figure moves further down the ramp and exits the scene to the foreground-right, while a bicycle becomes stationary at the ramp's base. Concurrently, additional pedestrians emerge and move around the central intersection area to the right, as the cars on the street remain largely static.
+frame_0000000128-frame_0000000256:
+The first frame depicts a nighttime urban scene from a pedestrian overpass. A metal-railed walkway extends towards the viewer in the foreground, while below and to the left, a street underpass glows red with graffiti, featuring two dark cars and a parked bicycle. To the mid-right, a sleek white structure with red lettering and a lone figure walking is visible, with a busy intersection and illuminated buildings further in the background.
+end of description
+In subsequent frames, the figure on the white structure on the right moves forward and slightly away from the viewer. Simultaneously, the two dark cars on the street below and to the left proceed from left to right across the frame, indicating active traffic.
+frame_0000000256-frame_0000000384:
+The first frame depicts a pedestrian walkway leading into a night cityscape, with a red-lit wall and passing black cars on the left below street level, and a white architectural structure on the right. Beyond the walkway's end, a busy intersection with pedestrians, glowing streetlights, and distant buildings with an 'AUDI' sign fill the mid-to-background.
+end of description
+Chronologically, the black car on the left moves further away and out of view, while pedestrians continually cross the intersection from right to left in the midground. Concurrently, a traffic light on the right transitions from red to green, allowing cross-traffic to proceed.

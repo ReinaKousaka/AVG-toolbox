@@ -1,0 +1,10 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a snowy street intersection on a clear day, with the rear of a white car (viewer's) partially visible in the foreground right. Ahead and slightly left, a silver hatchback is parked near orange construction barrels, a "Yield" sign, and other vehicles extending down the street. To the right, two light-colored multi-story buildings stand prominently under a blue sky, with bare trees and distant mountains in the background.
+
+end of description
+
+As the frames progress, the viewer's vehicle moves forward, causing the silver hatchback to recede slightly and revealing more of its rear license plate and roof racks. Simultaneously, the orange construction barrels on the left and the buildings on the right shift perspective, indicating a continuous forward motion past these stationary elements.
+frame_0000000128-frame_0000000256:
+In the first frame, a sunny winter street scene is depicted. A silver Subaru wagon is prominently parked in the right foreground, facing away from the viewer. To its left, a partially snow-covered asphalt road extends into the distance, with an orange and white traffic cone on the snowy median in the left foreground. A tall, beige multi-story building stands to the right mid-ground, while a bare tree is central in the mid-ground. Further left, a red triangular 'Yield' sign with a 'One Way' sign below it is visible on a pole, with residential houses and parked cars lining the street in the left background.
+end of description
+The scene dynamically shifts as the viewer moves forward. The silver Subaru wagon and the orange traffic cone disappear from the right and left foregrounds, respectively. The 'Yield' and 'One Way' signs also move out of frame to the left, while the beige buildings on the right become more fully visible. A light pole and additional rocks on the snow-dusted sidewalk appear on the right as the perspective advances, revealing more of the road and distant parked cars.

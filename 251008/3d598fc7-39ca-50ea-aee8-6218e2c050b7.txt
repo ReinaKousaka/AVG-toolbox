@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a multi-lane urban street with a white van directly ahead and another partially visible on the far left. Tall buildings and dense trees line both sides of the road, with a white car parked on the right roadside near a red circular no-entry sign.
+end of description
+As the viewpoint progresses forward, a person in blue appears on the left sidewalk, and a large "Social Security Organization" sign becomes visible on the left building. Simultaneously, the white car on the right moves away, revealing a new white car further down the road, while the red no-entry sign recedes from view.

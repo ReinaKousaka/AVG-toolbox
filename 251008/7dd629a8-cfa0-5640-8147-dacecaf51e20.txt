@@ -1,0 +1,11 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a wet asphalt road with a '30' speed limit marking and Korean text painted in yellow in the foreground, extending into the distance, flanked by green trees on both sides. To the right, a wet sidewalk scattered with small, brown objects runs alongside a partially visible parked white car, while a lone person with an umbrella walks away on the left side of the road in the mid-distance under an overcast sky.
+end of description
+Throughout the subsequent frames, the rain visibly intensifies, creating more prominent splashes and ripples on the wet road surface. The distant person with the umbrella slowly recedes further down the left side of the road, eventually disappearing from view towards the far end.
+frame_0000000128-frame_0000000256:
+The first frame depicts a wet asphalt road extending into the misty distance, bordered by lush green trees under an overcast sky. In the foreground, yellow lines and a '30' speed limit sign mark the road's left, while a wet brick sidewalk and a parked silver car partially obscured by an orange cone occupy the right. end of description
+Throughout the subsequent frames, rain actively falls, visible as streaky drops. A person holding a dark umbrella emerges from the distant road in frame 6, walking slowly along the left side of the road towards the viewer.
+frame_0000000256-frame_0000000384:
+The first frame displays a wet asphalt road with prominent yellow and white markings in the foreground, extending into the distance between lush, tree-lined verges. A paved sidewalk and curb are visible to the viewer's immediate right, while a white car is parked further down the road on the right, and a lone figure walks away in the far distance under a grey sky, with "Rain Everyday" watermarked in the top right.
+end of description
+Throughout the subsequent frames, rain visibly falls, causing dynamic water flow and ripples across the wet road surface. Concurrently, the parked white car on the right slowly moves further away from the viewer, and the distant person continues walking down the road, also receding into the distance.

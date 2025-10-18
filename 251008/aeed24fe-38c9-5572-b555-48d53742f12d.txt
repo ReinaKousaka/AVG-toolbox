@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a snow-covered outdoor path at night, with two individuals walking towards the viewer in the foreground-left, bicycles and a green structure further left, and a large white boat docked in the far left background. A line of people walks away into the illuminated midground and background, where a bright decorative light fixture and a modern building with glowing windows and a display board are visible to the right.
+end of description
+Subsequently, the two foreground individuals walk past the viewer and exit the frame to the immediate left, while the group walking away from the viewer in the midground-right continues to recede further along the path towards the background, indicating continuous movement in the scene.
+frame_0000000128-frame_0000000256:
+The first frame depicts a snow-covered pedestrian walkway at night, stretching from the viewer's position into the distance. To the immediate left, a dark trash bin and bicycles are visible, alongside a large white and green boat docked further away on the left. A crowd of people, including one in an orange jacket on the right, walks away from the viewer in the midground. In the background, a modern building with illuminated windows stands on the right, with a decorative light-covered tree in the center.
+end of description
+As the frames progress, the person in the immediate foreground on the right moves further away from the viewer, revealing more of the snow-covered path. Concurrently, the entire crowd of people in the midground and the orange-jacketed person on the right steadily advance further into the distance. No new objects or scenes are introduced relative to the initial viewpoint.

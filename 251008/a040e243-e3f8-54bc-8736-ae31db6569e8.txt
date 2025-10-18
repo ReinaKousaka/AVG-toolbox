@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+A verdant forest path is visible, with a reddish-brown dirt trail covered in fallen leaves and exposed tree roots in the foreground. Tall, slender trees with lush green foliage dominate the midground and background, extending upwards towards a bright sky peeking through the canopy. A prominent tree in the center of the midground features a white marker on its trunk, while the path appears to split slightly ahead.
+end of description
+The camera subtly advances forward throughout the frames. This movement causes the foreground path and leaves to recede slightly from the viewer's perspective, while the trees in the midground, particularly the one with the white marker, appear to draw marginally closer within the original scene, without revealing entirely new objects or areas to the left, right, or behind the first-frame viewpoint.
+frame_0000000128-frame_0000000256:
+The first frame presents a dirt path winding through a dense forest of trees with vibrant green leaves, extending from the viewer's foreground into the background. The path itself is covered with exposed roots and the ground is carpeted in brown fallen leaves. A white trail marker is visible on a tree trunk slightly left of center in the mid-ground.
+end of description
+The subsequent frames display virtually no dynamic changes, showing the same static forest scene without any newly revealed objects or alterations in spatial position relative to the initial viewpoint.

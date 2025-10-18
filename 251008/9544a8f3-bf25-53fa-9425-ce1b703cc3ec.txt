@@ -1,0 +1,7 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a rainy city street with a large billboard displaying soup and bread on a white building to the right, and a traffic light pole next to a wet crosswalk on the left. In the midground, pedestrians with umbrellas and cars are visible between a modern glass-fronted building and a large tree.
+end of description
+As frames progress, the initial pedestrians move across the crosswalk, with a new individual holding a black umbrella and carrying bags entering from the left and proceeding rightward. Concurrently, the large billboard on the right dynamically cycles its advertisement from soup to a burger, and then to a bright pink graphical display.
+frame_0000000128-frame_0000000256:
+The first frame displays a wet city street, with a dark pole and traffic lights in the foreground left. A blonde woman, holding a grey umbrella and white shopping bags, walks from right-to-left across a zebra crossing in the mid-ground, while buildings, cars, and other pedestrians line the street in the background.
+end of description. The blonde woman progresses leftward across the zebra crossing and eventually exits the frame to the far left. Subsequently, a dark-haired woman with a black umbrella enters from the right side, closer to the viewer than the background cars, walking leftward across the street. Concurrently, a pedestrian on the far left continues moving further left across the crossing.

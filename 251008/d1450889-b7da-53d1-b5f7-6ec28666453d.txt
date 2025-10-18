@@ -1,0 +1,30 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a narrow street extending into the distance under a partly cloudy sky. On the left, houses with fences and hedges line the road, while on the right, a sidewalk borders a grassy area and a multi-story grey apartment building, with a small tree in the immediate foreground.
+
+end of description
+
+As the viewpoint moves forward, the small tree and foreground elements on the right gradually shift out of view to the right. Concurrently, the grey apartment building on the right and houses on the left become progressively closer and more defined within the frame.
+frame_0000000128-frame_0000000256:
+The first frame displays a narrow residential street receding into the distance under a partly cloudy sky. To the left, several houses with white walls and tiled roofs line the street; to the right, a large concrete apartment building with balconies is visible behind a foreground patch of grass and a utility pole.
+end of description
+As the viewer moves forward, the street and buildings on both sides appear to recede behind the viewer, progressively revealing more distant structures along the path. The prominent utility pole on the right moves past the viewer, bringing into view a dark, rectangular post and more green foliage closer to the viewer's right within the grassy area.
+frame_0000000256-frame_0000000384:
+The first frame shows a narrow residential street under a partly cloudy sky. To the viewer's right, a tall utility pole stands next to a grassy patch, followed by a sidewalk with green bushes and a large, light grey multi-story apartment building. On the left, an asphalt road runs alongside a low wall and a white house with a brown roof, receding into the distance among other buildings.
+end of description
+As the frames progress, the viewpoint moves forward along the street. The utility pole and the apartment building on the right subtly shift to the left within the frame, indicating forward progression. Correspondingly, the houses and the street on the left also show a slight forward movement, revealing more of the path ahead.
+frame_0000000384-frame_0000000512:
+A paved residential street extends into the distance under a partly cloudy sky, flanked by buildings. On the left, a white wall and a house with a brown roof are visible, followed by taller structures and utility poles overhead. To the right, a multi-story light grey building stands behind green hedges, with a prominent utility pole and streetlamp near the foreground, alongside a sidewalk with a metal barrier.
+end of description
+As the viewer moves forward, the utility pole on the right appears to shift leftward, revealing more of the grey building's previously obscured lower levels and balconies to the right. The hedges on the right also move closer to the viewer's current position, partially receding from the frame, while the houses on the left advance and appear nearer.
+frame_0000000512-frame_0000000640:
+The first frame displays a narrow street extending into the distance under a partly cloudy sky, flanked by residential buildings on the left and a multi-story apartment building with green bushes and a street light on the right. Utility poles and wires are visible overhead, crisscrossing the upper portion of the scene.
+end of description
+The sequence shows the viewer moving forward along the street. Consequently, the street light and green bushes on the right appear to move past the viewer and recede towards the right side of the frame. Simultaneously, the residential buildings on the left also move past, and new portions of the apartment building's lower levels emerge into view on the right.
+frame_0000000640-frame_0000000768:
+The first frame depicts a narrow urban street extending away from the viewer, lined with residential buildings under a partly cloudy sky filled with utility wires. To the left, a white house with a stone fence is prominent in the foreground, and behind it, a building with a pink roof is visible; to the right, a light gray apartment building stands with green bushes in the immediate foreground.
+end of description
+As the viewpoint moves forward, the foreground elements on both sides, like the stone fence on the left and the bush on the right, gradually recede out of frame to their respective sides. The street continues to extend ahead, revealing more distant residential structures and the receding pathway as they approach the viewer.
+frame_0000000768-frame_0000000896:
+The first frame displays a narrow residential street under a partly cloudy sky, with an asphalt road receding into the distance. To the viewer's left, a white fence borders a building with a brown roof, next to a utility pole holding numerous wires and featuring a '30' speed limit sign and a yellow children crossing sign. On the right, a multi-story grey apartment building stands alongside a concrete planter.
+end of description
+There are no dynamic changes, newly revealed objects, or scene alterations in the subsequent frames; all provided images are identical to the first.

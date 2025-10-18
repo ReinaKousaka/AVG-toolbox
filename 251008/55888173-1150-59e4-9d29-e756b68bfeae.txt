@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+In the first frame, a paved road slopes upwards from the viewer, lined with numerous bare trees and a group of pedestrians in the foreground and midground. A black car is visible further up the road, while to the immediate right, a blue recycling bin, a lamppost, multiple parked bicycles, and a stone staircase ascending into a wooded area are present.
+end of description
+Subsequently, the foreground pedestrians shift positions and move further up the road, and a white sign with Korean text appears and becomes fully visible next to the lamppost on the right by the later frames.
+frame_0000000128-frame_0000000256:
+The first frame depicts an outdoor scene with a wide paved road curving uphill to the left, lined by bare trees, while a steep, wooded hill rises to the right. In the foreground, a group of people walk left, while several individuals stand centrally, one facing the viewer. To the right, a woman stands by parked orange and blue bicycles, a sign, and a partially visible blue bin, with a stone staircase and underpass visible on the hill behind her.
+end of description
+Following frames show people in the central mid-ground shifting their stances and new individuals emerging from the viewer's right, moving leftward past the original standing group. The man in the black coat, initially facing the viewer, progressively turns his head and body towards his left. The woman standing by the bicycles also subtly shifts, eventually moving partially out of the frame's right edge.

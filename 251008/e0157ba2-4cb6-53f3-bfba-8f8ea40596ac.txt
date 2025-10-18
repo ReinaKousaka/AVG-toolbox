@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a wet asphalt road with two yellow lines, curving gently into a misty distance, flanked on the left by a grassy embankment with dense trees and on the right by a concrete sidewalk, a brick path, and more trees.
+end of description
+Heavy rain is visible falling throughout all frames. From frame 4, a person holding a red umbrella and wearing a red top appears on the brick path, emerging from the viewer's far right. This individual then walks progressively further into the scene along the right side, eventually moving out of view towards the far right of the frame by frame 7, as the rain continues.
+frame_0000000128-frame_0000000256:
+The first frame shows a wet asphalt road curving gently to the left in the middle distance, extending away from the viewer. Two yellow lines mark the center of the road, and another yellow line defines its right edge, separating it from a raised brick-paved sidewalk. Lush green trees line both sides of the road, with multiple blue and white banners visible along the right sidewalk in the mid-ground. The background is hazy, suggesting a rainy or misty atmosphere.
+end of description
+Throughout the subsequent frames, visible rainfall intensifies, creating streaks against the distant trees and ripples on the puddles that have formed on the road and sidewalk, all still extending away from the viewer. Water cascades from leaves on the trees to the left and right of the viewer. In the later frames, a person carrying an open umbrella emerges into view on the far right side, moving away from the viewer along the brick-paved path.
+frame_0000000256-frame_0000000384:
+A wet, two-lane asphalt road with yellow markings curves into the misty distance on the left, flanked by dense green trees. To the right, a wet brick sidewalk runs alongside the road, bordered by more trees, two dark bollards, and two blue signs, under an overcast sky with visible falling rain.
+end of description
+A person, initially partially obscured by trees on the far right of the sidewalk, progressively moves forward and away from the viewer along the right-side sidewalk. This individual continues walking towards the background until exiting the frame entirely to the right. Throughout the sequence, rain steadily falls, creating constant ripples and reflections on the wet surfaces of the road and sidewalk.

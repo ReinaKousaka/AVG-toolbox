@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a snowy urban street scene featuring a large, decorated Christmas tree with red, white, and silver ornaments and lights, positioned centrally in the foreground and enclosed by a white fence. To the right of the tree, a Starbucks storefront is visible within an orange-brick building. Further left in the mid-ground, a street with cars and pedestrians leads to an elevated train track with a train car, all set against a backdrop of numerous tall high-rise buildings under an overcast sky.
+end of description
+In the following frames, the elevated train car, initially on the tracks to the mid-left, slowly moves right, traversing the mid-ground. Concurrently, a multi-level sign structure, previously partially obscured behind the Christmas tree and to the mid-left of the Starbucks, is progressively revealed, displaying store names like "BEST BUY." The cars on the street also show minor movements.

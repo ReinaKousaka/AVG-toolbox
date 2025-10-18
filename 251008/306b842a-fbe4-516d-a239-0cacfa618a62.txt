@@ -1,0 +1,29 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a mountain railway scene with two sets of tracks on a gravel bed extending directly forward from the viewer. To the immediate right, a grey utility box stands next to a grassy slope leading up to a partially visible building, while a rocky mountain face dominates the far left. Distant snow-capped peaks rise above a forested valley under a cloudy sky.
+end of description
+As the viewer moves forward along the tracks, the gravel bed, utility box on the right, and grassy slopes recede towards the back. A small train car, initially visible far ahead on the tracks, steadily approaches the viewer's position, becoming clearer.
+frame_0000000128-frame_0000000256:
+The first frame presents a view down two parallel train tracks, extending into a mountainous landscape. To the left, a steep rock face ascends, while to the right, a grassy embankment with a stone wall runs alongside the tracks, leading to a building and signal poles further ahead. Distant snow-capped mountains define the background under a partly cloudy sky.
+
+end of description
+As the frames progress, the viewpoint moves forward along the tracks, causing the immediate foreground to recede from the viewer. The signal poles and the building to the right, initially visible ahead, become progressively larger and closer, indicating continuous advancement. The overarching mountain vista remains consistent, but the foreground elements shift dynamically with the forward motion.
+frame_0000000256-frame_0000000384:
+The first frame depicts a panoramic view over two sets of train tracks laid on gravel, receding into the mountainous distance. Signal posts flank the tracks on grassy slopes, with a small building and a distant yellow train visible on the right track further ahead, all set against a backdrop of snow-capped mountains under a cloudy sky with overhead power lines.
+end of description
+In the subsequent frames, the distant yellow train subtly approaches the viewer along the tracks, appearing marginally larger with each progression. All other visible objects, including the signal posts, buildings, and mountains, remain stationary relative to the initial viewpoint.
+frame_0000000384-frame_0000000512:
+The first frame captures a view looking down two parallel train tracks towards a mountainous landscape under a cloudy sky. To the far left, snow-capped mountains rise above forested slopes, with a small yellow train visible on the left track in the mid-distance. To the right of the tracks, an uphill grassy slope with a stone retaining wall, scattered pine trees, and a station building with a red roof are present.
+end of description
+In the subsequent frames, the distant yellow train on the left track slowly moves closer towards the viewer's initial position. Aside from this subtle movement, no new objects or scenes are revealed, and the overall scene remains static relative to the first-frame viewpoint.
+frame_0000000512-frame_0000000640:
+The first frame shows a mountain railway scene looking forward, with two sets of tracks and a paved path extending from the viewer into the distance. Ahead, a yellow train approaches on the left track, a brown station building stands to the right, and the scene is framed by a verdant valley leading to snow-capped mountains under a cloudy sky.
+end of description
+Throughout the subsequent frames, the yellow train on the left track gradually moves closer towards the viewer along the same tracks.
+frame_0000000640-frame_0000000768:
+In the first frame, two sets of train tracks extend towards the distant mountains, with the viewer seemingly positioned between the tracks. A concrete pole with overhead wires stands centrally in the foreground. To the left, a yellow and black train is visible on the track, heading into the distance, while to the right, a paved platform leads to a small brown building with a red roof, resembling a station. Lush green hills flank the tracks, rising to meet a backdrop of majestic, snow-capped mountains under a partly cloudy sky.
+end of description
+As the frames progress, the viewpoint moves forward along the track, causing the central concrete pole to shift steadily towards the left side of the frame. The distant yellow train and the brown station building, initially further away, gradually appear slightly larger and closer relative to the viewer's advancing position.
+frame_0000000768-frame_0000000896:
+The first frame shows two parallel train tracks extending from the viewer's position into a mountainous landscape under a cloudy sky. A yellow and green train is partially visible approaching on the left track, while a red station building with a paved platform stands to the right, against a grassy hill and distant snow-capped mountains.
+end of description
+In the following frames, the yellow and green train steadily moves closer along the left track, revealing more of its carriages as it progresses towards the viewer from its initial mid-ground position. No other significant objects are newly revealed or change dynamically within the scene relative to the first-frame viewpoint.

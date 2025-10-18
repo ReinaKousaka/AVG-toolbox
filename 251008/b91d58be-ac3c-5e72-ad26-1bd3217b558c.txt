@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The initial frame features a light blue house with a dark porch roof and stairs on the left-center, partially obscured by a prominent green pillar on the far left. To the right, large green trees stand alongside a wet sidewalk, leading towards a brown house further down the street in the mid-right.
+end of description
+The camera then pans right, gradually revealing the full facade of the light blue house, including its main dark door and a second darker door to the left, which were previously hidden behind the green pillar. Concurrently, a hanging basket becomes visible between the house's windows as the trees on the right shift further left within the expanding view.
+frame_0000000128-frame_0000000256:
+The first frame presents a slightly upward-angled view of the front of a two-story light blue house with dark trim and a porch. Two dark doors are visible, with steps and black metal railings leading up to them in the mid-ground. To the left is a partial green wall, while a hanging wicker basket and several windows are to the right of the main door; a brown house and green foliage are further right, and an overcast sky fills the top.
+end of description
+The viewpoint slowly zooms in and pans slightly to the right across subsequent frames. This action gradually reveals more of the green wall and the left side of the blue house's facade relative to the first-frame viewpoint, while simultaneously bringing the porch entrance into closer focus. The details of the steps, railings, doors, and the hanging basket become more prominent, offering a tighter view of the property's front.

@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a pedestrian street under a blue sky with some clouds. To the left, a lamppost with flower baskets stands in front of a building with a red and white awning, adjacent to a larger brown multi-story building featuring a blue awning and white flags on its roof. Pink planters and benches are placed along the left side of the wide, brick-paved walkway, which extends into the distance, with market stalls visible on the right side in the mid-ground.
+end of description
+A person on a bicycle in the left mid-ground slowly moves forward and slightly to the right, eventually passing out of view behind the lamppost. Concurrently, a person emerges from the right mid-ground, walking towards the viewer on the paved area, before moving slightly left towards the center and continuing past the market stalls.
+frame_0000000128-frame_0000000256:
+The first frame presents a wide paved street or plaza under a bright blue sky. On the near left, a white building with red storefronts and awnings stands, adjacent to a brown multi-story building further back, featuring blue awnings and flags on its roof. A lamppost with flower baskets is centrally positioned between these buildings, while pink benches and trees line the right side of the street, receding into the distance. A person on a bicycle is visible on the far left of the paved area, in front of the white building.
+end of description
+The person on the bicycle moves slowly from the far left foreground, gradually progressing across the street and then further down it, receding from the viewer on the left side of the brown building.

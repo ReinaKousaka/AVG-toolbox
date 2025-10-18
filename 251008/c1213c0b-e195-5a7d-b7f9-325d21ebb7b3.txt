@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+From an aerial viewpoint, a dark river flows centrally from the viewer's foreground towards the background, bordered by dense green jungle on both the left and right banks. A small blue boat is in the upper-middle, moving away from the viewer towards the background, leaving a distinct white wake trailing towards the viewer's lower-left.
+end of description
+In subsequent frames, the boat consistently moves further into the background relative to the first-frame viewpoint, steadily progressing upstream along the river. The dense jungle on either side remains visible, continuously receding into the background as the boat travels.

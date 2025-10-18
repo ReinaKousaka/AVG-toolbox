@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a red car and a cream Mini Cooper parked on a paved area to the left, while a large wooden house with a red-tiled roof and extensive foliage occupies the center. A blue car is parked on the street in front of the house, and a person on a bicycle, wearing a pink top, is seen on the right, riding away from the viewer. In the background, a turquoise lake stretches behind the house, flanked by imposing snow-capped mountains under a blue sky with white clouds.
+end of description
+In subsequent frames, the person on the bicycle progressively moves further down the street, receding away from the viewer and to the right along the lakeside road. No new objects are revealed, and all other elements such as the parked cars, the house, the lake, and the mountains remain stationary relative to the first-frame viewpoint.

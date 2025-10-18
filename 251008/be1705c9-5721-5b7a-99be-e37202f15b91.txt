@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a wet urban street intersection on a cloudy day, with a wide sidewalk on the left foreground, featuring a blue "Visitor Centre" sign and a flag pole further left. Directly across the street, a multi-story modern building stands prominently, flanked on the left by an older stone building with a green boom lift extended, and on the right by traffic lights (showing red), black bollards, and another historic building.
+end of description
+The green boom lift, located left of the central modern building, subtly retracts from the older building in subsequent frames. From the fourth frame onwards, a small white square cover becomes visible on the foreground sidewalk to the viewer's left. Pedestrians on the right crosswalk and sidewalk exhibit minor position shifts, while a cyclist on the far right street slowly moves towards the center and then away from the viewer.

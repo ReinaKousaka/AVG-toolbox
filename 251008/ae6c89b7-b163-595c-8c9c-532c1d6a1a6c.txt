@@ -1,0 +1,16 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a wet city street at dusk, with a large blue and white transit bus parked in the left midground, partially hidden by a foreground pole, and a black pole with a bench directly to the viewer's right. Red traffic lights are visible on the right pole, while city lights reflect off the wet road in the background, where cars are stopped.
+end of description
+In subsequent frames, the transit bus slowly moves from left to right, departing its initial midground position and progressively revealing more of the wet sidewalk and street it previously obscured. The interior of the bus, with visible passengers, shifts across the frame, while the background cars and red traffic lights to the right of the viewer remain mostly stationary.
+frame_0000000128-frame_0000000256:
+The first frame displays a wet city street at dusk or night, with the side of a dark blue and grey public transit bus occupying the left half of the view, positioned immediately to the viewer's left with its front door closed. A thick black pole stands directly in front of the viewer, slightly right of center, obscuring part of the bus and the wet street beyond, where a line of cars and illuminated storefronts extends away from the viewer on the right side.
+end of description
+In subsequent frames, the bus's front door, located on its side mid-left, begins to open in frame 4 and is fully open by frame 5, revealing the interior. The door then closes again over frames 6-9. Simultaneously, the bus slowly moves forward and slightly away from the first-frame viewpoint, revealing more of its front section previously hidden behind the pole.
+frame_0000000256-frame_0000000384:
+The first frame displays a street scene at dusk or night. A large blue and white bus, with its front doors open and passengers visible inside, is parked parallel to the viewer on the left, mostly obscured by a dark pole in the center-left foreground. To the right of the pole, a wet sidewalk extends into the distance, lined with small trees and brightly lit storefronts displaying signs like "STC" and "ATM". Beyond the bus and sidewalk, a street with vehicles and traffic lights is visible.
+end of description
+In subsequent frames, the bus doors close, and the bus begins to move forward to the left of the viewer, gradually revealing more of its rear section. As the bus departs, the previously obscured street and background elements beyond it become more visible from the original viewpoint. Passengers inside the bus become less defined as it pulls away.
+frame_0000000384-frame_0000000512:
+The first frame captures a wet city street at dusk, with a large blue and white bus dominating the left foreground, its side windows reflecting streetlights. A bare-branched tree stands on the sidewalk in the midground, to the right of the bus, while illuminated storefronts and pedestrians populate the right side of the frame, extending into the background. Further down the street, beyond the tree, are several cars and red traffic lights, all reflected on the wet asphalt.
+end of description
+In the subsequent frames, the bus door, located on its left side, progressively opens wider to reveal its illuminated interior and passengers within. After reaching its fully open position, the bus door then begins to slowly close.

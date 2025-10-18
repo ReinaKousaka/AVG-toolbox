@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a paved road ascending into the distance under a clear blue sky, flanked on the left by a stone retaining wall and a grassy slope, and on the right by a wooden guardrail overlooking a mountain valley. A small figure is visible far ahead on the road, with snow-capped mountains beyond it in the background.
+end of description
+In subsequent frames, the viewer progresses along the road, causing the distant figure to gradually appear larger and closer to the first-frame viewpoint. The immediate landscape features, such as the stone wall and guardrail, recede from the viewer's initial position as the scene shifts forward along the path.
+frame_0000000128-frame_0000000256:
+The first frame depicts a wide, gray asphalt road curving gently uphill to the left in the distance, leading away from the viewer. To the left, a stone retaining wall borders the road, above which a steep, grassy mountain slope ascends. To the right, a wooden guardrail runs parallel to the road, overlooking a rocky, vegetated valley descending sharply. In the far distance on the road, a small dark figure is visible, and beyond them, snow-capped mountains are silhouetted against a clear blue sky.
+end of description
+The viewpoint advances steadily along the road. The stone retaining wall on the left and the wooden guardrail on the right move closer to the viewer and then recede out of view as new sections emerge from the distance. The small figure on the road in the far distance gradually grows larger, indicating the viewer is approaching them. The snow-capped mountain range remains fixed on the distant horizon, subtly increasing in apparent size as the viewer moves forward.
+frame_0000000256-frame_0000000384:
+The first frame shows the viewer on an asphalt road ascending a mountain pass. To the left, a stone wall supports a steep, grassy slope, while on the right, a wooden guardrail borders a drop-off revealing a distant valley and snow-capped mountains under a clear blue sky. A small, solitary figure stands far ahead on the road, near the center.
+end of description
+Chronologically, the figure begins to move towards the viewer, with a bicycle becoming distinctly visible beneath them by the fifth frame. The person, now cycling, steadily approaches the viewer along the road from their initial distant position.

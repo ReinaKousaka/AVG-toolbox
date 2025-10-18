@@ -1,0 +1,10 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a winding paved road from a low viewpoint. To the immediate left, a stone wall accompanies a grassy, forested hillside, while to the right, a wooden barrier lines a steep, tree-covered slope. A white car appears in the distant midground, heading towards the viewer on the winding road, set against a backdrop of distant forested mountains and a bright, cloudy sky.
+end of description
+In subsequent frames, the white car steadily approaches the viewer along the road, becoming larger and more defined as it travels forward. Its position shifts from the distant midground to a closer midground, still within the original scene, without revealing new objects or areas.
+frame_0000000128-frame_0000000256:
+The viewer is positioned on a winding mountain road, looking forward as a white Tesla car moves towards and past them in the lower left, following the road's curve to the right. To the viewer's left, a stone retaining wall flanks a steep, grassy hillside ascending into a dense evergreen forest, while a metal guardrail lines the road's right edge, overlooking more trees and distant mountains under a bright, partly cloudy sky.
+
+end of description
+
+The white Tesla continues its forward motion and exits the frame to the right of the initial viewpoint. Concurrently, the viewer's perspective advances along the road, progressively revealing more of the winding asphalt ahead, with the stone wall on the left and the guardrail on the right extending further into the scene from the original observation point.

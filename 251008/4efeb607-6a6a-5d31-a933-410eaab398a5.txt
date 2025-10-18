@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+A wet street with white pedestrian crosswalk lines and yellow box markings occupies the foreground. To the left, a steep, tree-covered hillside rises, bordered by a black and yellow striped pole. The wet road extends into the distance, with a white sedan parked on the left and a person in yellow walking away from the viewer further along the left side. On the right, a sidewalk abuts a red building, where a person is seated under a red umbrella near the center. In the background, more buildings, utility poles, and trees line the street under an overcast sky.
+end of description
+The person in yellow, initially near the parked white sedan on the left side of the road, walks further away from the viewer down the street. Simultaneously, a white car in the distance on the right side of the road, previously almost obscured, gradually becomes more visible as it approaches the viewer's position. The rain continues to fall throughout, evident from the wet surfaces.
+frame_0000000128-frame_0000000256:
+The first frame depicts a wet street with yellow and white markings leading into the distance. To the left, a treeline runs alongside the road, where a person holding a blue umbrella and two parked cars are visible further down; to the right, a brick building borders a sidewalk where two individuals sit under a red umbrella next to an orange bucket.
+end of description
+Subsequently, the person with the blue umbrella on the left side of the road begins to walk forward, gradually moving closer to the viewer's original position. They steadily advance along the left edge of the street, maintaining their position relative to the initial viewpoint as they proceed down the road.
+frame_0000000256-frame_0000000384:
+The first frame displays a wet asphalt road with yellow markings in the foreground, receding under an overcast sky. To the left, a person holding a blue umbrella walks on a sidewalk alongside a tree-covered slope, with two parked cars further down the road. On the right, a red-orange umbrella shelters people on a sidewalk next to an orange bucket, in front of a brick building with signs.
+end of description
+Throughout the subsequent frames, the person holding the blue umbrella and wearing yellow pants steadily walks further up the sidewalk on the left side of the street, gradually moving from the mid-left towards the background-left. All other elements, including the parked cars on the left and the individuals under the red umbrella on the right, remain static relative to the initial viewpoint.

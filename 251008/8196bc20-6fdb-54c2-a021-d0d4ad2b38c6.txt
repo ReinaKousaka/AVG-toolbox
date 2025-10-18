@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a snow-covered path stretching forward, gently curving right, flanked on the left by a dark river beyond bare trees and a distant snow-dusted hillside, and on the right by a snow-laden slope with dense, leafless bushes.
+end of description
+The viewpoint steadily advances along the path, causing the river on the left to gradually become more prominent and closer to the foreground relative to the first-frame viewpoint. Simultaneously, the surrounding bare trees and snowy shrubbery recede, deepening the view further into the wintery valley ahead without introducing entirely new objects.
+frame_0000000128-frame_0000000256:
+In the first frame, a snow-covered path extends from the viewer's foreground, curving gently to the right into the distance. To the left, a dark river flows away, bordered by snow-dusted bare trees and sparse vegetation, with a steep, wooded hillside rising beyond. To the right of the path, a snow-covered bank with dense leafless trees and shrubs ascends, all beneath an overcast sky.
+
+end of description
+
+The camera moves steadily forward along the path. As the viewpoint progresses, the curve in the path and the section of the river immediately ahead of the initial position draw closer, revealing more of their continuous forms. The surrounding snow-dusted trees and hillsides also advance towards the viewer, becoming more detailed as the camera moves deeper into the scene, but no entirely new scenes or objects from different spatial positions are introduced.
+frame_0000000256-frame_0000000384:
+The first frame displays a snow-covered path leading into the distance at the center, with a dark river flowing alongside it to the left. Bare trees with snow-dusted branches line the riverbank between the path and the water, while a steep, snow-covered hillside rises across the river to the far left. On the right, a snow-dusted embankment with sparse bushes parallels the path, and distant hills are visible under a light sky. end of description. The view steadily moves forward along the snow-covered path, causing previously seen foreground elements to recede and new sections of the path, river, and surrounding snowy landscape to be continuously revealed ahead of the viewer, maintaining the river's position to the left of the path.

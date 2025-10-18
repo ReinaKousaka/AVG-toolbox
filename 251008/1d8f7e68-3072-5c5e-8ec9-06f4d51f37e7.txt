@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a residential street scene with an orange SUV partially visible in the foreground to the viewer's right. Behind it, a silver minivan is parked next to a wall adorned with posters, in front of a two-story white building. To the viewer's left, a street extends into the background, marked with white chevrons and a red lane, lined with parked cars and a distant pedestrian.
+end of description
+Subsequently, the orange SUV in the immediate foreground gradually moves away from the viewer and to the right, progressively revealing more of the silver minivan parked behind it on the right side of the road. This movement continues across the frames, with the SUV eventually almost entirely exiting the frame to the viewer's right, allowing the full side profile of the silver minivan to become visible in its original position relative to the viewer.

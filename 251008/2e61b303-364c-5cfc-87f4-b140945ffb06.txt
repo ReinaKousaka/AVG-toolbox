@@ -1,0 +1,30 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a road curving left, flanked by a metal guardrail on the left above a riverbed, with distant mountains in the background. On the right, buildings line the road, with several cars parked in front, and a steep, tree-covered hillside rising behind them.
+end of description
+Following this, a dark gray minivan on the immediate right moves forward and out of view. Subsequently, a new dark gray minivan, then a silver minivan, and finally a black car progressively appear in the foreground on the right, passing the viewer's stationary viewpoint along the road.
+frame_0000000128-frame_0000000256:
+The first frame displays a two-lane road curving slightly left, with a metal guardrail lining its left edge, beyond which a river and distant mountains are visible. On the right, a black car is parked closest to the viewer, followed by a dark grey SUV and a white SUV, all facing away, adjacent to a light-colored two-story building. A steep, tree-covered hillside rises behind the buildings on the right, with utility poles stretching upwards.
+end of description
+The viewer moves forward along the curving road. The black car initially to the viewer's immediate right moves out of the frame. Subsequently, the dark grey SUV and the white SUV, initially parked further ahead on the right, are progressively approached and passed by the viewer. As the viewpoint advances, the building on the right is passed, revealing more of its facade and a white SUV with a roof rack further ahead on the right. New sections of the tree-covered hillside, additional utility poles, and road signs appear ahead on the right.
+frame_0000000256-frame_0000000384:
+From a vehicle, a road curves right into the midground, bordered on the left by a metal guardrail next to a concrete-banked river and distant mountains. To the right, a steep, tree-covered hillside hosts two houses and a signpost displaying speed limit, no parking, and a green directional 'P' sign.
+end of description
+As the viewer's vehicle moves forward, the initial signpost and nearest house on the right recede and exit the frame to the front-right. New sections of the curving road appear directly ahead, while more of the hillside and an additional house further up become visible to the front-right. The river and guardrail on the front-left continue alongside, gradually moving towards the mid-left.
+frame_0000000384-frame_0000000512:
+In the foreground, a paved road curves gently to the right, with a metal guardrail extending along its left edge. To the left of the guardrail, a river or stream is visible, bordered by a village with several houses and more distant mountains under a bright sky. To the right, a steep, rocky embankment is covered in sparse trees, with an old, multi-story house featuring a balcony positioned near the viewer's immediate right.
+end of description
+As the camera moves forward, the house on the right quickly recedes and moves out of view. The rocky embankment and its sparse trees continue along the right side, revealing more power poles and overhead lines. The guardrail on the left recedes as the viewpoint advances, while the distant mountains and houses to the left shift further back. White road markings continuously emerge from ahead and pass beneath the viewer.
+frame_0000000512-frame_0000000640:
+The initial frame depicts a road leading straight ahead, bordered on the left by a metal guardrail next to a river with distant houses, and on the right by a steep, rocky hillside covered in bare trees, with mountains visible in the far distance under a bright sky.
+end of description
+As the viewpoint moves forward along the road, the guardrail, river, and houses on the left, along with the rocky hillside and bare trees on the right, progressively approach the viewer from their initial forward positions and recede to the sides. A utility pole, initially visible in the mid-distance on the right, becomes more prominent as the viewer passes it.
+frame_0000000640-frame_0000000768:
+The first frame presents a view from a vehicle moving forward on a paved road, with a steep, rocky, tree-covered hillside rising immediately to the right. To the left, a metal guardrail runs alongside a partially snow-covered riverbed, beyond which a small village and distant mountains are visible.
+end of description
+As the sequence of frames progresses, the viewpoint steadily moves forward along the road; the guardrail, riverbed, and village to the left, and the hillside and utility poles to the right, all recede and pass the initial viewing position.
+frame_0000000768-frame_0000000896:
+The first frame displays a paved road stretching into the distance, flanked on the left by a metal guardrail, bare trees, a riverbed, and distant mountains. To the right, a steep rock face rises, while power lines are visible overhead, leading towards a blue road sign and buildings further ahead.
+
+end of description
+
+As the viewpoint progresses, the observer moves forward along the road. The guardrail, left-side trees, and utility poles gradually move out of frame to the bottom-left and left, respectively, revealing more of the riverbed and a section of green bamboo closer to the left side of the road. Simultaneously, the rock face on the right and the distant buildings approach the viewer's position, indicating continuous forward motion.

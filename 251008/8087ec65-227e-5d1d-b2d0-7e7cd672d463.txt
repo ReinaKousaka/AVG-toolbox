@@ -1,0 +1,28 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a train's forward view along curving tracks, flanked by a tall stone retaining wall and forested slope on the left, and a grassy bank leading to a road, river, and distant mountains with a tunnel on the right, under overhead power lines.
+end of description
+As the viewpoint moves forward, the stone wall and catenary poles on the left recede past the viewer, while new sections of the curving track, the distant river, and the road tunnel on the right are progressively revealed and approach closer.
+frame_0000000128-frame_0000000256:
+From the viewer's perspective on train tracks curving right into the distance, a tall stone retaining wall borders a forested hillside immediately to the left, while a parallel road and a blue-green river occupy the space to the right, extending towards distant green mountains and a tunnel entrance.
+end of description
+As the scene progresses, the viewpoint moves forward along the tracks, continuously revealing new sections of the railway, retaining wall, and forested hillside immediately ahead. The road and river to the right, along with the distant mountains and the tunnel entrance, become progressively closer and eventually pass by the viewer's immediate left and right.
+frame_0000000256-frame_0000000384:
+The first frame shows a train's view looking forward along tracks curving right, flanked by a forested embankment with overhead power lines on the left, and a parallel road beside a river on the right leading towards a tunnel in the mid-distance, all beneath mountainous terrain.
+end of description
+As frames progress, the viewpoint moves forward along the tracks, causing foreground objects like the tracks and overhead poles to recede beneath and past the viewer. Concurrently, the dense forest on the left and the parallel road and river on the right also appear to move past the viewer, with the tunnel entrance ahead on the right drawing progressively closer.
+frame_0000000384-frame_0000000512:
+The first frame displays train tracks curving right from the immediate foreground, with a prominent concrete utility pole and overhead lines on the left. To the left of the tracks, a steep, forested slope is visible, while to the right, a paved road parallels the tracks, leading towards a tunnel entrance with a river and distant mountains beyond.
+end of description
+As the frames progress, the viewpoint moves forward along the tracks; the initial utility pole on the left recedes and passes out of view, replaced by another utility pole appearing from the left and drawing closer to the viewer. The train tracks, road, tunnel, river, and the vast mountainous landscape continuously approach and shift their positions relative to the viewer's forward motion.
+frame_0000000512-frame_0000000640:
+The first frame presents a view from a train looking forward along tracks that curve slightly left towards a dark tunnel entrance in the middle distance. To the immediate left is a steep, forested hillside with green grass and utility poles, while to the right, a paved road with white markings runs parallel, also leading into its own tunnel, with a river and distant mountains beyond under a partly cloudy sky.
+end of description
+As the frames progress, the viewpoint moves forward along the tracks, causing the utility poles and forested hillside on the left to approach and recede past the viewer's left side. Both the train tunnel and the parallel road tunnel ahead steadily grow larger, indicating the viewer is advancing towards them.
+frame_0000000640-frame_0000000768:
+The viewpoint is centered on train tracks leading into a tunnel straight ahead in the mid-ground. To the immediate left is a steep grassy slope covered in pine trees, alongside overhead electrical poles and lines. To the right, a road runs parallel, with a river and forested mountains beyond it, some peaks showing snow under a partly cloudy sky.
+end of description
+As the viewpoint moves forward along the tracks, the prominent overhead power pole on the left passes by, and a stone retaining wall becomes visible lining the left side. The tunnel entrance ahead steadily grows larger, indicating continued approach.
+frame_0000000768-frame_0000000896:
+The viewer looks straight ahead down a set of railway tracks towards a dark tunnel entrance in the mid-ground. To the left, a stone retaining wall runs alongside the tracks, rising to a grassy slope topped by dense evergreen trees. To the right, another grassy slope descends to a road with a partially visible river beyond it, and a concrete structure appears further along the road. In the background, forested and snow-capped mountains rise under a partly cloudy sky, with overhead electrical wires stretching into the distance above the tracks.
+end of description
+As the viewpoint moves forward, the tracks lead directly towards the tunnel, which steadily grows larger. The stone retaining wall on the left passes closer to the viewer, revealing more of its texture, while the road and concrete structure to the right also approach and pass by. A railway catenary support structure becomes clearly visible immediately before the tunnel entrance as the scene progresses.

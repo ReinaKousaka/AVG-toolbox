@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The viewpoint is positioned on snow-dusted train tracks that curve gently to the right, flanked by steep, rocky embankments. To the left, a tall utility pole with overhead wires stands amidst bare trees and a section of a chain-link fence, while a darker, craggy cliff face lines the right side of the tracks. An overcast grey sky hangs above this rugged, wintry landscape.
+end of description
+As the viewpoint progresses along the tracks, the initial utility pole and fence on the left recede. The left embankment reveals more sections of chain-link fence, extending further to the left and behind the initial viewpoint. Simultaneously, the rocky cliff face on the right passes by, and a yellow light source, possibly a signal or tunnel entrance, becomes clearer in the distance ahead as the tracks continue their rightward curve.
+frame_0000000128-frame_0000000256:
+The first frame displays a view looking down snow-dusted train tracks curving to the right in the distance, bordered by a dark, rocky embankment with a chain-link fence to the left, and a steeper, tree-covered rocky cliff to the right; overhead wires and a brightly lit utility pole are visible directly ahead under a gloomy sky.
+end of description
+As the viewpoint progresses, the left embankment and fence recede, gradually revealing a large body of water and distant mountains to the left of the tracks. Simultaneously, the utility pole passes on the left, and a tunnel entrance becomes increasingly visible in the far distance, nestled into the rocky cliff face on the right side of the tracks.

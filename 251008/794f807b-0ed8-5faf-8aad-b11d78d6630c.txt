@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+A wet, reddish-brown brick pathway stretches from the foreground into the distance, bordered on the left by a black metal fence separating it from a wet road, and on the right by a raised, rocky embankment adorned with green foliage and sporadic pink flowers. Multiple trees with vibrant green leaves line both sides of the path, with a banner depicting a person in a red jacket prominently displayed on a pole to the far left.
+end of description
+The viewpoint steadily advances along the path, causing the fence, trees, and embankment to recede into the background and gradually revealing more of the wet brick path and the verdant surroundings ahead relative to the initial position. The banner on the left pole also shifts more centrally as the perspective moves forward.
+frame_0000000128-frame_0000000256:
+The first frame shows a wet, reddish-brown brick path curving away into the distance on the right, bordered by a rocky, forested embankment covered in green foliage. To the left, a black metal fence runs alongside a wet road, with several trees planted behind it; a pole with a banner featuring a man's face is prominent in the immediate foreground.
+end of description
+As the scene progresses, the viewer tracks forward along the path. The pole and banner, initially on the far left of the first frame, slowly move further to the left and eventually out of view, while new sections of the path and the adjacent forested embankment, which were previously ahead of the first-frame viewpoint, are continuously revealed.
+frame_0000000256-frame_0000000384:
+The first frame shows a wet, reddish-brown brick path extending forward and curving slightly to the right of the viewer. To the left, a black metal fence runs parallel, separating the path from a wet asphalt road beyond which tree trunks and light green foliage line the far side under a hazy sky; the closest tree trunk behind the fence features yellow and black stripes near its base.
+end of description
+Throughout the subsequent frames, the viewpoint subtly shifts forward and slightly to the right, progressively revealing more of the path ahead. Minor dynamic changes are visible in the fluctuating reflections and puddles on both the path and the road, indicating continuous rainfall without introducing new objects.

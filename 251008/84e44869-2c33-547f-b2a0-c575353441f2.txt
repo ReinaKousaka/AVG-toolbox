@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame captures a wet, uphill paved road curving gently to the left, flanked by lush greenery. In the right foreground, a dark green SUV with a camper shell is parked, partially obscured by a large green bush. To the left, an ivy-covered wall borders a concrete structure and a utility pole, with a convex mirror and a parked black car visible further up the road. In the midground, traditional Korean-style houses with dark tiled roofs are nestled among trees, while distant hills covered in trees stand under an overcast sky.
+end of description
+The dark green SUV, initially parked in the right foreground, steadily reverses down the paved road. It slowly moves away from its initial position, gradually revealing more of its side and back as it recedes from the viewer's immediate right. This continuous backward motion is the sole significant dynamic change observed.
+frame_0000000128-frame_0000000256:
+The first frame displays a wet asphalt road ascending and curving gently to the right, bordered by dense green foliage. On the far right, a dark green pickup truck with a "ROADSHAN" camper shell is partially visible, parked on a driveway. To the left of the road, a gray gate, an ivy-covered wall, and a utility pole with a convex mirror are present.
+end of description
+In the subsequent frames, a side panel on the camper shell of the dark green pickup truck, positioned on the far right, slowly opens outward and then closes again. No other objects or scenes are newly revealed or undergo dynamic changes.
+frame_0000000256-frame_0000000384:
+The first frame depicts a wet, upward-sloping road with a dark green camper van parked to the immediate right and a grey wall with parked cars and a convex mirror to the left; traditional-roofed buildings and abundant greenery line the road further uphill under an overcast sky.
+end of description
+Throughout the subsequent frames, the scene remains static except for the continuous, visible rainfall intensifying, causing visible streaks and splashes on the wet road surface from the same viewpoint.

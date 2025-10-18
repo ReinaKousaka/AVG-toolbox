@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame captures a village scene with a large wooden-shingled house centrally located in the mid-ground, flanked by a white building on the left and a partial view of another wooden building and cobblestone path ascending on the far right. A prominent light-green flowering bush sits in front of the main house, separating it from parked cars to the left foreground, all set against majestic mountains under a clear blue sky.
+end of description
+The subsequent frames reveal a gradual pan to the left and a slight zoom out from the original viewpoint, increasingly showing more of the white building to the left, exposing decorative wooden carvings, small statues, and a person in an orange shirt near its entrance, previously out of view. Concurrently, a small sign marked "211" becomes visible on the white base of the central house, which was initially obscured.
+frame_0000000128-frame_0000000256:
+The first frame displays a paved area leading to two buildings, with a partial dark car on the left and a large blooming bush center-right, all set against mountains and a blue sky. The left building is white with wooden accents, while the right is wood-shingled with a balcony and potted plants.
+end of description
+The camera pans right, slowly revealing more of the right building and the mountain range further to its right relative to the initial view, while the car previously on the far left exits the frame.

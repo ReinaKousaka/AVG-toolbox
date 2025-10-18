@@ -1,0 +1,14 @@
+frame_0000000000-frame_0000000128:
+The viewer faces a narrow asphalt road extending directly ahead, marked by white lines along its edges. To the left, a steep, vibrant green, grass-covered hillside rises, mirroring another on the right that slopes down to a dark body of water. A metal guardrail runs along the road's edge to the right, separating it from the water, all under an overcast sky.
+end of description
+As the frames progress, the viewpoint moves slowly forward along the road. The road, guardrail, water, and hillsides gradually approach the viewer from straight ahead and then recede further into the distance, maintaining their initial relative positions. No new objects or scenes are revealed beyond the vista present in the first frame.
+frame_0000000128-frame_0000000256:
+The first frame depicts a paved road stretching into the distance, flanked on the left by a steep, grassy hillside with exposed rock, and on the right by a dark body of water separated from the road by a metal guardrail. In the background, rolling green mountains frame the scene under an overcast sky, with the road appearing to gently curve leftwards.
+end of description
+The viewpoint continuously moves forward along the road. As the journey progresses, the immediate sections of the guardrail, the adjacent lake, and the left hillside recede from view, while new stretches of the winding road and the consistently green, undulating mountains unfold ahead in the distance.
+frame_0000000256-frame_0000000384:
+The first frame displays a two-lane asphalt road, marked with double white lines, extending from the viewer into the distance and curving gently to the left. To the viewer's immediate left, a steep, verdant hill covered in grass and some rocky outcrops rises. On the right, a metal guardrail separates the road from a dark body of water, beyond which another grass-covered mountain slopes upwards in the mid-ground. Above, a cloudy sky spans the scene.
+
+end of description
+
+As the frames progress, the viewer's perspective moves forward along the road. The immediate segments of the road, the guardrail, and the adjacent hillsides continuously approach and then pass to the sides and rear of the viewer's original position. The distant curve of the road and the mountains beyond it progressively grow larger and closer, unfolding the continuous landscape as the journey advances.

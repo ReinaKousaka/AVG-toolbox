@@ -1,0 +1,28 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a cityscape dominated by a wide river in the foreground, reflecting the surrounding environment under a bright sky. A prominent rust-colored bridge spans the midground, connecting numerous modern skyscrapers lining the left bank with a distinctive cylindrical building and other structures on the right. Further into the background, additional buildings and a construction site with a crane are visible.
+end of description
+Throughout the subsequent frames, the viewpoint remains static with no new objects or scenes revealed. The only dynamic change observed is the subtle shimmering and shifting of reflections on the water's surface in the foreground, caused by minor ripples.
+frame_0000000128-frame_0000000256:
+The first frame presents a wide view across a rippling river, occupying the lower half of the scene. A reddish-brown arched bridge spans horizontally across the midground, above the water. To the left, a series of tall, modern skyscrapers with reflective glass facades rise from the riverbank, and on the right, a distinctive cylindrical building with visible parking levels stands prominently, flanked by other large structures. The background reveals more distant urban buildings under a bright, partly cloudy sky.
+end of description
+There are no dynamic changes, moving objects, or newly revealed scenes in the subsequent frames; the entire video consists of this static image.
+frame_0000000256-frame_0000000384:
+The first frame displays a wide river vista framed by a bustling city. The rippling water occupies the foreground, reflecting the surrounding architecture. A prominent reddish-brown arched bridge spans the midground, connecting the riverbanks which are densely packed with tall, modern skyscrapers on the left and a distinctive cylindrical building with visible parking levels on the right, all beneath a bright blue sky.
+end of description
+The following frames show no dynamic changes; the scene remains static, with no objects moving or new elements being revealed relative to the first-frame viewpoint.
+frame_0000000384-frame_0000000512:
+The first frame shows a wide river in the foreground, reflecting the bright sky and surrounding cityscape. A prominent reddish-brown bridge spans the river in the midground, connecting towering modern skyscrapers on both the left and right banks relative to the viewer. On the right, a distinctive building with rounded, terraced levels is visible, while other buildings extend into the background under a blue sky.
+end of description
+The subsequent frames show no dynamic changes or newly revealed objects; the scene remains static with the same cityscape and river view as in the first frame.
+frame_0000000512-frame_0000000640:
+The first frame presents a vibrant river cityscape under a bright sky, featuring a wide river in the foreground reflecting numerous tall, modern buildings lining both banks. A reddish-brown bridge spans the midground, with further buildings visible beyond it, including a construction crane in the distance.
+end of description
+Subsequent frames reveal no significant dynamic changes or newly revealed objects; the scene remains static with only minor light variations on the water's surface.
+frame_0000000640-frame_0000000768:
+First frame: The view is from a body of water, likely a river, with calm ripples reflecting the sky and surrounding city. Tall modern skyscrapers rise on the left bank, alongside a lighter building, while a distinctive circular building with parking levels occupies the right bank. A prominent rust-colored arch bridge spans the river in the mid-distance, with further city buildings and construction visible beyond it under a bright blue sky.
+end of description
+The subsequent frames remain entirely static, showing no dynamic changes, movement, or newly revealed objects or scenes from the initial viewpoint.
+frame_0000000768-frame_0000000896:
+The first frame presents a city river flanked by tall modern skyscrapers on both sides, with a prominent reddish-brown arch bridge spanning the waterway in the midground and a distinctive cylindrical building to the right. Sunlight reflects brightly off the water and glass facades, while a smaller bridge is visible further back.
+end of description
+In the subsequent frames, subtle dynamic changes occur on the water's surface, as ripples and reflections constantly shift across the river. No new objects or scenes are revealed, with the cityscape remaining static relative to the first-frame viewpoint.

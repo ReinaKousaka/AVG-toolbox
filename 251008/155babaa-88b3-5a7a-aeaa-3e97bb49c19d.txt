@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The initial frame depicts a rain-slicked city street at night, with a bus stop and illuminated ad panels prominently on the left. On the right, a person sits on a long wooden bench against a building with storefronts, while trees and distant buildings line the street ahead.
+end of description
+Throughout the sequence, visible rain intensifies, causing splashes on the wet street near the bus stop. The person on the right bench shifts their posture, and a vehicle with red taillights briefly passes in the distant street from right to left.
+frame_0000000128-frame_0000000256:
+The initial frame depicts a wet, nighttime city street extending forward, featuring an illuminated bus shelter and bare trees on the left, and multiple storefronts along the right, where a person is seated on the sidewalk near a partially shuttered shop entrance.
+end of description
+Subsequently, the corrugated metal shutter of the rightmost storefront completely opens, revealing the shop's interior to the right of the viewer's first-frame position. Following this, the seated person on the right stands up and moves out of view to the right, essentially behind the first-frame viewpoint. As the person departs, a blue bin and a fully extended awning on an adjacent shop become clearer to the viewer's right.
+frame_0000000256-frame_0000000384:
+The first frame displays a wet city sidewalk at night, stretching into the distance. To the viewer's right, a brightly lit building features storefronts, one with an awning, alongside stacked blue crates and a white stand in the foreground. On the left, bare trees, a dark kiosk, and a metal railing border a wet street, where a red object is partially visible in the mid-ground.
+end of description
+As the frames progress, the viewpoint subtly moves forward along the sidewalk. Raindrops and streaks on the camera's lens or a window become more prominent and shift across the upper left and center of the view. The red object on the left clarifies into a fire hydrant, appearing closer, and a new white sign becomes visible on the right-hand building, further along the path.

@@ -1,0 +1,5 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a narrow, rocky path running diagonally from the bottom center towards the middle right, alongside a calm lake that occupies the left half of the view. Distant snow-capped hills with scattered buildings are visible across the lake on the horizon, reflected on the water's surface beneath an overcast sky. A broken tree branch extends from the bottom left foreground over the water, while dense forest, including tall pine trees and varied undergrowth, rises steeply to the right of the path.
+
+end of description
+As the camera moves forward along the path, the broken tree branch in the foreground recedes to the bottom left and eventually moves out of view. New sections of the rocky path and the dense forest floor are continuously revealed directly ahead and to the right of the first-frame viewpoint. A person wearing yellow becomes visible walking further along the path ahead of the initial viewpoint, emerging more clearly around the fourth frame.

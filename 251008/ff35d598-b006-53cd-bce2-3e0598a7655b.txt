@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a multi-lane city street from the perspective of a vehicle, with the dashboard visible at the bottom. A yellow taxi occupies the immediate right foreground. Ahead, tall buildings line both sides of the street, with a treed median on the left, as several vehicles, including more yellow taxis, are visible in the traffic lanes stretching into the distance under a clear blue sky.
+end of description
+The yellow taxi to the immediate right slowly moves forward, revealing more of its side and a colorful advertisement on its roof. Another yellow taxi then pulls into the lane directly to the left of the moving yellow taxi. Subsequently, a white car appears and positions itself behind the taxi on the right. Finally, a motorcycle with a rider moves forward from the far left lane relative to the initial viewpoint, eventually passing the left side of the frame.

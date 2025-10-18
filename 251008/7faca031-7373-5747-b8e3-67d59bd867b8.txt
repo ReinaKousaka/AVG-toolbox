@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame presents an aerial view of a rugged, natural landscape. In the lower-left and central foreground, a dark, angular rocky ridge extends, its craggy face appearing closest to the viewer. To its right and behind this ridge, a vast plain stretches into the distance, characterized by patches of vivid green moss on dark earth, with lighter, cracked ground visible further back and to the left, receding from the rocky ridge.
+end of description
+The camera slowly pans right and slightly upwards, subtly rotating the view of the vast landscape relative to the first-frame viewpoint. This movement gradually reveals more of the mossy, dark earth landscape to the right and slightly behind the foreground rocky ridge, while slightly less of the cracked ground to the far left behind the ridge becomes visible.

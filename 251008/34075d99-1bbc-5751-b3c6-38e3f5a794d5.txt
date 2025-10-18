@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame displays an aerial view of a bustling city under a clear blue sky. In the immediate foreground-left, a brown building labeled "CBD College" has a helipad on its roof. Behind it and to the right, two prominent white buildings with fluted facades stand, while a tall, slender white skyscraper rises in the center-background and a green-blue glass building appears to its right, all set against a sprawling cityscape extending to distant hills.
+end of description
+No dynamic changes or newly revealed objects occur, as the viewpoint and scene remain entirely static across all subsequent frames.

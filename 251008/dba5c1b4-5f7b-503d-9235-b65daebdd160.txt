@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a paved road extending uphill away from the viewer, flanked by a rocky embankment on the right and a green, tree-covered slope on the left, with distant mountains under a blue sky. In the middle ground, two individuals and a dark dog walk away from the viewer on the road.
+end of description
+The camera then moves forward, tracking the people and dog as they recede further into the distance along the road from the initial viewpoint. As the scene progresses, the foreground elements pass by, revealing more of the uphill path ahead and causing shadows from the left-side trees to periodically sweep across the road surface.
+frame_0000000128-frame_0000000256:
+A paved road stretches forward from the viewer, with two people and a dog walking away into the distance towards mountains under a blue sky. To the left, a green valley descends, while a rocky, brush-covered slope with a concrete gutter runs along the immediate right.
+end of description
+Throughout the subsequent frames, the people and dog continue to move further away along the road, while the viewer's perspective subtly advances forward, revealing more of the path and the extending landscape ahead.
+frame_0000000256-frame_0000000384:
+In the first frame, a paved pathway extends from the bottom center into the distance, with a light-colored curb along its left edge. Ahead on the path, two people and a black and white dog walk away from the viewer; the person on the viewer's right wears a dress and a hat, while the other wears a dark top. To the viewer's immediate right, a steep, rocky, and grassy hillside rises, while to the left, a vast expanse of green and dry-grass covered hills stretches into the distance under a bright blue sky with white clouds.
+end of description
+As the frames progress, the viewpoint steadily moves forward along the pathway. The two individuals and their dog remain in the mid-ground, walking ahead, while the rocky hillside on the right and the vegetated terrain on the left continuously pass by, indicating the viewer's forward motion. The distant group of people on the path also gradually approaches the viewer, appearing slightly larger.

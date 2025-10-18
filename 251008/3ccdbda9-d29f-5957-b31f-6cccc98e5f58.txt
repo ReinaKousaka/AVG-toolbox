@@ -1,0 +1,28 @@
+frame_0000000000-frame_0000000128:
+From the viewer's low perspective, stone stairs extend upwards into the distance, flanked by dense green ferns and other vegetation on both the left and right. Two figures walk away from the viewer up these stairs in the midground, surrounded by a lush forest of tall trees that extends to distant, hazy mountains under an overcast sky.
+end of description
+Subsequent frames show minimal dynamic changes, primarily very subtle shifts in the overall viewpoint, suggesting minor camera movement. No new objects or scenes are revealed; the people on the stairs remain in their general midground position, and the surrounding environment remains static.
+frame_0000000128-frame_0000000256:
+A stone staircase extends from the bottom center towards the top of the frame, leading uphill through a dense, green forest. Lush ferns and various other tropical foliage thickly line both sides of the path in the foreground and midground. A person wearing dark clothing is visible on the upper section of the staircase, ascending with their back to the viewer. In the background, the forest continues, with distant mountain peaks faintly visible against a bright sky above the treeline.
+end of description
+In the subsequent frames, the static viewpoint captures the person continuing to ascend the stone staircase, moving steadily further away from the viewer and higher up the path into the distant forest. As the individual progresses upwards, their figure gradually diminishes in size, emphasizing the continuous climb and depth of the pathway. No new objects or scenes are revealed; only the person's ongoing movement is observed.
+frame_0000000256-frame_0000000384:
+The first frame presents a stone staircase ascending into a dense green forest, originating in the immediate foreground and extending into the upper middle distance. Lush foliage, including large ferns and trees, flanks the path on both sides from the foreground to the background. Two figures are seen walking uphill on the staircase in the middle ground, away from the viewer. Distant mountains are faintly visible through the trees in the far background.
+end of description
+In the subsequent frames, the two figures continue to ascend the staircase, moving further away from the first-frame viewpoint along the path as they recede into the distance.
+frame_0000000384-frame_0000000512:
+In the first frame, a wide stone staircase ascends away from the viewer, flanked by dense green foliage and ferns on both sides. A person wearing dark clothing walks up the stairs, positioned centrally in the mid-ground, leading towards a lush forest with tall trees and distant mountains under a hazy sky.
+end of description.
+The camera consistently moves forward, tracking the person as they continue ascending the stairs, which gradually pass beneath the viewer. The surrounding forest and vegetation remain static relative to the path but shift dynamically as the viewpoint progresses up the winding path, revealing more of the steep ascent.
+frame_0000000512-frame_0000000640:
+The first frame shows a wide, upward-sloping concrete staircase directly in front of the viewer, with a yellow marking at its base. Lush green foliage, including ferns, flanks both sides of the staircase from the immediate foreground, extending into a dense forest backdrop. A person in dark clothing is visible in the midground, ascending the stairs towards the upper center of the frame.
+end of description
+Subsequently, the person continues to walk further up the staircase, steadily moving away from the viewer and higher into the frame. The dense green forest and pathway remain consistently in front of the viewer, highlighting the person's continuous ascent deeper into the scene.
+frame_0000000640-frame_0000000768:
+The first frame displays a concrete staircase extending from the immediate foreground, centered, and leading upwards into the distance. Lush green foliage and dense trees densely line both sides of the staircase, stretching from the viewer's left and right sides in the foreground to the distant background. A person in dark clothing is visible ascending the stairs in the midground, positioned directly ahead of the viewer on the path.
+end of description
+In the subsequent frames, the person continues to walk further away from the viewer, progressively climbing the staircase ahead. Their figure appears smaller as they ascend higher up the path. The surrounding forest and the overall scene remain static, with no other dynamic changes or newly revealed objects.
+frame_0000000768-frame_0000000896:
+A stone staircase ascends directly away from the viewer, flanked by dense green foliage and trees on both sides, with a thick forest canopy visible in the background. A person wearing dark clothing and a backpack is seen walking upwards on the stairs in the midground, positioned centrally.
+end of description
+In the subsequent frames, the person continues to move further up the ascending staircase, gradually appearing smaller and more distant relative to the first-frame viewpoint, while the lush green forest environment remains unchanged.

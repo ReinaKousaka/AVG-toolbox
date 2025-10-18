@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a wet, reflective city street at night, flanked by brightly lit shopfronts with neon signs receding into the background. A person holding an umbrella walks away on the left, while a black SUV with illuminated headlights is parked on the right, alongside other pedestrians in the mid-distance.
+end of description
+As the frames progress, the person on the far left continues walking away from the viewer, moving further down the street to the left. Other pedestrians in the mid-ground also advance away from the viewpoint, while the parked SUV on the right remains stationary.
+frame_0000000128-frame_0000000256:
+The first frame shows a wet, rain-slicked city street at night, reflecting numerous neon lights from businesses on both sides. A clothing store with mannequins is on the left, and a dark SUV with illuminated parking lights is parked on the right, close to the viewer. Several pedestrians with umbrellas walk away from the viewer along the street.
+end of description
+As frames progress, the dark SUV's right-side indicator light repeatedly blinks on and off, while it remains parked on the right. Pedestrians continue moving further down the street, with more individuals appearing and walking along the sidewalks towards the background.
+frame_0000000256-frame_0000000384:
+The first frame captures a nighttime city street, wet from rain, with numerous illuminated storefronts and neon signs lining both sides. A dark SUV is parked on the right side of the street, facing away from the viewer, with an amber light illuminated on its front. Several pedestrians, some holding umbrellas, walk along the reflective street and sidewalk in the mid-ground, moving away from the viewer, while buildings with various signs extend into the background.
+end of description
+Throughout the subsequent frames, the amber light on the front right side of the parked SUV repeatedly flashes on and off, indicating a turn signal. Concurrently, pedestrians in the mid-ground and background continue to move further down the street, away from the viewer's initial position.

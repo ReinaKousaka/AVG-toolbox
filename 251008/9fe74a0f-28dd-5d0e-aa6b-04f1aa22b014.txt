@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+A narrow dirt path extends from the bottom center into the distance, flanked by dense green foliage, including ferns and broad-leafed plants, immediately to the viewer's left and right. Tall evergreen trees, with visible trunks, rise into the midground and background on both sides, their canopies meeting a bright sky overhead.
+end of description
+Subsequently, the viewpoint steadily moves forward along the path, causing the initial foreground foliage to recede from the viewer's left and right, while new sections of the path and more distant forest elements progressively come into view ahead.
+frame_0000000128-frame_0000000256:
+A dirt path stretches forward and slightly to the left, flanked by abundant green ferns and undergrowth in the foreground, extending towards a dense forest. Tall, moss-draped evergreen trees rise on both sides, their canopy overhead allowing glimpses of a bright sky above the receding path into the forest.
+end of description
+The viewpoint slowly advances along the path, causing the foreground ferns and ground cover to gradually move from being in front to the sides, then passing behind the viewer's original position. The tall trees and forest environment initially further down the path progressively draw closer and reveal more textural detail as the path is traversed.

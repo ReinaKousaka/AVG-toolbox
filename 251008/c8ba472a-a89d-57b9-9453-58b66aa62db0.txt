@@ -1,0 +1,28 @@
+frame_0000000000-frame_0000000128:
+A paved road with double yellow lines extends forward, gently curving to the right, flanked by tall white snow walls on both sides. Behind these snow walls, dense green coniferous forests line the road under a clear blue sky.
+end of description
+As the viewpoint moves forward along the road, the snow walls on both the left and right progressively recede, revealing more of the forested landscape behind them. The road ahead continues its gentle curve, bringing the distant snowy elements and the deep forest further into view.
+frame_0000000128-frame_0000000256:
+The first frame displays a straight, grey paved road with double yellow lines in the center and a white line on the right shoulder, extending into the distance towards the horizon. High banks of white, layered snow line both sides of the road, serving as walls. Beyond these snow banks, on both the left and right, dense green coniferous forests rise, with the trees on the right appearing closer and taller. A clear, vibrant blue sky dominates the upper portion of the frame, and in the far distance, the road appears to ascend slightly, flanked by the continuing snow walls.
+end of description
+As the viewpoint moves forward along the road, the snow banks and forest on both sides progressively advance from the mid-ground towards and past the viewer. A small, dark, irregular object briefly appears on the road in the lower left foreground before quickly moving out of frame. A slender, dark pole emerges from the mid-distance on the left shoulder, becoming more prominent as it approaches the viewer's position. The overall scene remains consistent, depicting a sunny day with the road cutting through snow-lined evergreen forests.
+frame_0000000256-frame_0000000384:
+The first frame shows a gray asphalt road, marked with a double yellow line, stretching from directly in front of the viewer towards a distant point under a clear blue sky. High, white snow banks line both sides of the road, extending from the lower edges towards the middle ground. Behind these snow banks, dense evergreen trees rise prominently on both the left and right, with some visible trunks on the right, all receding into the distance.
+end of description
+In subsequent frames, the viewpoint steadily advances along the road, causing the snow banks and evergreen forests to gradually recede further away from the initial viewpoint. The scene continuously unfolds forward, revealing more of the straight road ahead and the unchanging snowy, forested landscape as the viewer progresses.
+frame_0000000384-frame_0000000512:
+The first frame displays a paved road with double yellow lines extending into the distance, flanked by tall walls of white snow on both the left and right sides of the viewer. Beyond these snow walls, dense evergreen forests with numerous tall trees line both sides of the road, reaching towards a clear blue sky visible in the upper portion of the frame.
+end of description
+As the frames progress, the viewpoint moves continuously forward along the road, causing the central yellow lines and road surface to advance towards the viewer. The snow walls on the left and right recede, becoming shorter and revealing more of the forest floor before passing out of the immediate foreground. Simultaneously, the evergreen trees closer to the road pass by on either side, while new sections of the forest and distant trees appear ahead in the changing scenery.
+frame_0000000512-frame_0000000640:
+The first frame depicts a paved road with double yellow lines extending directly in front of the viewer into the distance, flanked by tall white snow banks on both the immediate left and right sides. Beyond these snow banks, dense evergreen trees rise, lining both sides of the road and receding into the background, beneath a clear blue sky overhead.
+end of description
+As the frames progress, the viewpoint moves forward along the road. The road surface, double yellow lines, and snow banks initially in the foreground and mid-ground of the first frame appear to move towards and then past the viewer, while the distant trees and road ahead appear to continually approach the viewer, revealing new segments of the snowy forested landscape further down the path.
+frame_0000000640-frame_0000000768:
+The first frame displays a paved road with double yellow lines in the center, extending straight ahead into the distance. Tall snow banks line both sides of the road, immediately to the viewer's left and right, with dense evergreen trees visible beyond them, stretching ahead under a clear blue sky.
+end of description
+As the frames progress, the viewpoint moves forward along the road, causing the initial snow banks and trees on the left and right to recede behind the viewer. Simultaneously, new sections of the road and forest, along with higher snow walls further ahead, are continuously revealed as the journey continues.
+frame_0000000768-frame_0000000896:
+A paved road with double yellow lines extends centrally towards a slight distant curve, flanked by tall white snow banks. Dense green coniferous trees rise behind the snow on both sides under a clear blue sky, with a thin dark pole embedded in the left snow bank near the foreground.
+end of description
+As the viewpoint moves forward along the road, the snow banks and trees on both sides progressively recede, revealing more of the forest and new dark poles appearing further ahead on both sides. A yellow diamond-shaped sign becomes visible in the mid-ground on the right side of the road, indicating an approaching curve.

@@ -1,0 +1,19 @@
+frame_0000000000-frame_0000000128:
+The first frame captures a scenic view of a mountain road on a sunny day, with a paved road featuring a white guardrail on its left extending into the distance, flanked by lush green trees. A large, rocky mountain face rises prominently on the right, while distant green hills are visible to the left under a bright blue sky streaked with white clouds and contrails, and a white vehicle is discernible further down the road.
+end of description
+As the viewpoint progresses along the road, the guardrail on the left recedes out of frame, while the surrounding trees and foliage pass by. The white vehicle, initially distant, grows larger as the viewer approaches its static or slow-moving position ahead. In the later frames, a dark brown building structure becomes visible high on the right side, within the mountain slope, having been revealed from behind earlier foliage.
+frame_0000000128-frame_0000000256:
+The first frame displays a two-lane paved road stretching into the distance, with the viewer positioned centrally. To the left, a white guardrail borders the road, behind which lush green trees and two parked white vans are visible. On the right, a steep, grassy embankment rises, adorned with trees, leading up to a towering grey mountain face in the mid-ground. The sky above is a vibrant blue, marked by wispy clouds and several aircraft contrails.
+
+end of description
+As the sequence progresses, the viewpoint moves forward along the road. The white vans and guardrail recede to the left, and a blue circular road sign and a yellow car are revealed parked further along the road relative to the initial frame. On the right, the grassy slope and distant trees become more prominent as the scene unfolds.
+frame_0000000256-frame_0000000384:
+In the first frame, the viewer is on a paved road extending forward, with a white solid line on the right and broken white lines in the center. To the immediate left, a yellow-green car and a white camper van are parked, followed by more vehicles, alongside a pedestrian sign and dense green trees. To the right, a steep, grassy hillside rises, dotted with evergreen trees, leading to a large grey rocky mountain face in the distance, all under a blue sky with contrails.
+end of description
+A person with a small child appears to the left of the viewer, walking forward along the parked vehicles. Subsequently, the viewer's perspective advances, causing the yellow-green car and the first white camper van to move out of the left side of the frame. Consequently, a red car and a second white camper van, previously further down the road, appear closer and more distinct on the left.
+frame_0000000384-frame_0000000512:
+The first frame shows a paved road curving ahead towards distant mountains under a blue sky. To the viewer's left, a large white camper van is parked closest, followed by other cars and trees, with a body of water glimpsed beyond them, while a grassy slope with pine trees ascends to the right. Far ahead on the road, another white camper van approaches.
+
+end of description
+
+As the viewer moves forward, the parked vehicles on the left are passed and recede behind the first-frame viewpoint, revealing more of the lake on the far left. Concurrently, the distant white camper van approaches and then passes to the first-frame viewpoint's left side.

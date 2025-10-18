@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a train's forward-facing view, with tracks centrally positioned, receding into the distance. Dense green trees and foliage line the left side, extending forward, while the right side features sparser trees and open grassy areas, all beneath a bright sky where overhead power lines and a support pole are visible in the upper left.
+end of description
+As the train moves, the tracks and immediate surroundings continuously approach the viewer from the distance and then pass by on both sides. New sections of the overhead power lines and additional support poles emerge from the far distance on the left, becoming prominent before receding behind the viewer. The previously distant landscape ahead gradually unfolds, revealing more forested terrain as the journey progresses.

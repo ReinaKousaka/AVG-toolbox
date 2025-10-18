@@ -1,0 +1,26 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a bustling indoor market aisle lined with numerous brightly lit food stalls under a high, arched roof. In the immediate foreground, several customers stand with their backs to the viewer, facing a counter laden with various fried foods, while an elderly woman is visible on the far left, and a large concrete pillar with a blue banner stands to the viewer's right.
+end of description
+Throughout the subsequent frames, subtle movements occur among the people: the elderly woman on the far left foreground slightly shifts her head, a man in a blue shirt in the mid-distance moves from left to right across the aisle, and other patrons and vendors in the background subtly adjust their positions, indicating ongoing activity within the market.
+frame_0000000128-frame_0000000256:
+The first frame captures a bustling indoor market aisle, featuring numerous food stalls illuminated by hanging lights under an arched roof. In the immediate foreground, several people stand with their backs to the viewer, observing the food displays, notably a stall with fried items to the left and another to the right, separated by a prominent vertical pillar adorned with Korean text.
+end of description
+As the frames progress, the scene subtly shifts downwards and slightly to the left, revealing more of the foreground crowd. Most notably, a woman in a brown jacket in the mid-foreground, initially looking towards the left, gradually turns her head and upper body to face more towards the viewer's right. Other individuals in the foreground also exhibit minor, subtle movements.
+frame_0000000256-frame_0000000384:
+The first frame displays a bustling indoor market aisle, featuring numerous food stalls illuminated by hanging lights under an arched roof extending into the background. In the foreground, a woman's head is visible, with plates of fried food on a stall immediately to her left, while a tall pillar with Korean text partially obscures a bustling stall with more food and people to her right.
+end of description
+Throughout the frames, the foreground woman subtly shifts her head and shoulders. Simultaneously, people in the midground continually move along the aisle, notably a person walking from left to right behind the foreground woman and to the left of the pillar. Further into the background, other shoppers and vendors adjust their positions, causing the overall crowd composition to subtly change.
+frame_0000000384-frame_0000000512:
+The first frame captures a bustling indoor market aisle, with a large, textured concrete pole prominently positioned on the right foreground, beside which various fried foods rest on a flat grill. To the viewer's immediate left, a vendor is partially visible working at a food stall illuminated by several hanging white lights, while numerous customers occupy the lower center and right foreground, observing the food displays. The market stretches into the midground and background, lined with more stalls and an arching roof structure.
+end of description
+In the subsequent frames, dynamic movement is evident as customers in the midground and background slowly progress along the aisle. Simultaneously, individuals in the right foreground subtly shift their postures, some leaning closer to the stalls or adjusting their gaze, while the vendor on the far left foreground continues their focused work.
+frame_0000000512-frame_0000000640:
+The first frame presents a bustling indoor market scene, viewed from a slightly elevated perspective. To the immediate right, a large, grimy concrete pillar, covered in Korean text and numbers, partially obscures the view of an adjacent market stall. To the left, a vendor in a red and white apron is actively preparing food at a brightly lit counter, with various items and shelves stacked behind her. The central and background areas reveal a long, busy aisle extending into the distance under an arched, exposed-metal ceiling, lined on both sides by numerous food stalls illuminated by multiple hanging lights, teeming with customers and vendors.
+
+end of description
+
+As frames progress, continuous movement animates the market, particularly in the central aisle. A person in a white hoodie and black beanie, initially partially obscured by the right-side pillar, moves further into the central walking space. Simultaneously, a person in a blue shirt crosses behind the mid-ground stalls to the left. The vendor on the immediate left continues her food preparation, placing an additional item onto a plate on her counter.
+frame_0000000640-frame_0000000768:
+The first frame presents a bustling indoor market aisle, featuring a food stall on the left with a vendor, counter, dishes, and hanging lights. A large concrete pillar covered in signage occupies the far right, while the central midground is packed with people, including a person in a white hoodie and black beanie. The market's arched ceiling, visible overhead, extends towards more stalls in the illuminated background.
+end of description
+Over subsequent frames, the perspective subtly advances along the aisle. The person in the white hoodie moves progressively to the right and further into the market, as individuals in the immediate foreground, notably one with short dark hair, also advance, slightly revealing more of the crowded path ahead.

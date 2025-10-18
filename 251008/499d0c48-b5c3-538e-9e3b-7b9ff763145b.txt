@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a bustling outdoor market street, with a silver Hyundai van prominent on the left foreground. A man in a black shirt walks away from the viewer in the mid-ground, while another man in a purple shirt approaches from the right, past market stalls under blue canopies and numerous pedestrians.
+end of description
+As the frames progress, the man in black continues moving further into the street's depth, away from the first-frame viewpoint. Concurrently, the man in purple exits the frame to the right, as a woman in a yellow top and an older man with a cane emerge from the mid-ground right of the first-frame viewpoint, walking towards the viewer, enriching the market scene.
+frame_0000000128-frame_0000000256:
+The first frame displays a bustling market street with a silver minivan parked in the foreground left. A man in a black shirt walks away from the viewer in the mid-ground left-center, while a woman in a yellow jacket walks towards the viewer in the mid-ground right-center. Market stalls with colorful umbrellas, including a prominent blue one, line both sides, and a building with Korean signage ("해태유통") is visible on the far right.
+end of description
+In subsequent frames, the man in black continues walking away, and the woman in yellow proceeds past the central vertical line towards the right, eventually exiting the frame. A new woman holding a white wrapped bouquet emerges from the far right of the frame, moving towards the viewer. Pedestrians in the background and mid-ground continuously shift, entering from the distance and exiting the sides, maintaining a dynamic street scene.

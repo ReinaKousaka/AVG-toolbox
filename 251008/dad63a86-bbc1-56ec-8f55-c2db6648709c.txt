@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a rainy city street at night from a sidewalk perspective, with a glistening wet road on the left featuring moving cars and distant buildings illuminated by neon signs, while a darker building facade lines the right. In the mid-ground, a utility pole, a tree, a parked black SUV, a red fire hydrant, and scattered trash bags are visible on the sidewalk and roadside.
+end of description
+A silver car, initially visible further down the street to the left of the viewpoint, steadily moves forward and further into the distance across subsequent frames. The heavy rainfall persists throughout, causing minor fluctuations in street reflections and water accumulation near the sidewalk elements, but no new objects or scenes are revealed.
+frame_0000000128-frame_0000000256:
+In the first frame, a rainy city street at night is visible, with a prominent brown tree trunk in the foreground slightly left of center. To the right of the tree, a red fire hydrant and a yellow and blue striped bollard are on the immediate foreground sidewalk, along with some white objects near the tree's base. A black SUV is parked on the wet street in the midground, left of the tree, while the illuminated street extends into the background on the left, and a sidewalk lined with smaller trees and buildings stretches into the distance on the right.
+end of description
+As the frames progress, the heavy rain continues consistently on the street and sidewalk. A white car emerges from the far left of the street in the midground and slowly drives towards the right, moving away from the viewer and eventually passing beyond the parked black SUV.
+frame_0000000256-frame_0000000384:
+A rainy night street scene features a black SUV parked on the wet road to the left, with a red fire hydrant near the curb. A tree trunk stands centrally, separating the wet sidewalk on the right from the street on the left, both leading into a city street lined with buildings and illuminated signs in the distance.
+end of description
+As frames progress, the visible intensity of the rain increases, with water streaks becoming more pronounced across the entire scene and reflections on the wet surfaces becoming more vivid. By the later frames, a translucent object, likely an umbrella, begins to enter the upper left portion of the view, partially obscuring the sky and the top of the parked SUV.

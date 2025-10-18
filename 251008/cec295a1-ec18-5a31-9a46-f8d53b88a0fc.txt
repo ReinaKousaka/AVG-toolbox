@@ -1,0 +1,31 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a rugged mountain landscape under a partly cloudy sky. A steep, rocky slope, extensively covered with patches of vibrant green grass, fills the majority of the view, extending from the foreground into the mid-ground. To the immediate left, a large, grey, layered rock formation rises sharply, while to the right, another rocky mountain slope with scattered snow patches is visible further in the background, illuminated by sunlight filtering through the clouds.
+
+end of description
+
+As the frames progress, the viewpoint moves forward and slightly upward, causing the rocky, grassy slope directly in front to recede downwards while a narrow, deep gully previously less visible becomes prominent in the immediate center foreground. Simultaneously, the large cliff face to the left of the viewer in the first frame appears to enlarge and expand within the frame, becoming a more dominant feature. The distant mountain to the right maintains its relative position, though the bright light on its upper slope shifts slightly.
+frame_0000000128-frame_0000000256:
+The first frame presents a deep, narrow rocky gully directly ahead of the viewer, flanked by a massive, steep grey rock face on the left and a more gently sloping, grass-covered rocky terrain on the right, all leading upwards towards a partially cloudy sky with distant sunlight illuminating a ridge in the upper right.
+end of description
+Subsequently, the viewpoint smoothly ascends and moves forward into the gully, progressively revealing more of the mountain pass directly ahead and widening the perspective of the surrounding slopes. The steep rock face on the left recedes further, while the right-hand terrain expands to show additional rocky areas and patches of snow appearing higher up and to the right of the initial view. This continuous movement into the scene unveils a broader expanse of the rugged mountain landscape that was initially beyond the first-frame's foreground.
+frame_0000000256-frame_0000000384:
+In the first frame, a vast mountain landscape is depicted. To the viewer's left, a massive, rugged grey rock face with patches of green grass dominates, extending from the foreground into the midground. Central to the view, a deep crevice or gorge separates this rock face from a rocky, scree-covered slope on the right, also adorned with green vegetation and some white snow patches higher up. Above, a partially cloudy sky with hints of blue stretches across the horizon, with a bright light source visible towards the upper right.
+end of description
+The viewpoint dynamically moves forward and slightly upwards, deepening the perspective into the mountain valley. As the camera advances, the rugged rock face on the left moves further to the viewer's left, revealing more of its immense scale. Simultaneously, the rocky slope on the right shifts rightward, exposing additional stretches of its scree and grassy terrain. This forward movement uncovers previously unseen parts of the gorge and the distant mountain range, which were initially beyond the first-frame's viewpoint, now appearing further ahead and higher up.
+frame_0000000384-frame_0000000512:
+The first frame presents a vast mountainous landscape, dominated by rugged grey rock formations and patches of vibrant green grass across the foreground and midground. A prominent rocky ridge extends across the center, leading towards a higher, less steep, rock-strewn slope on the right with scattered snow patches, all beneath a partly cloudy sky where sunlight emanates from behind a distant peak on the far right.
+end of description
+As the frames progress, the viewpoint subtly moves forward and slightly to the right, causing the intricate details of the craggy mountain face on the left to appear closer and expand relative to the viewer's initial position, while the entire landscape subtly shifts across the frame.
+frame_0000000512-frame_0000000640:
+The first frame presents a grand mountain landscape, with a towering, rugged grey mountain face dominating the left side of the view and a more gradual, scree-covered slope with patches of green grass on the right, both extending from the foreground into the distant background. A sunbeam breaks through partly cloudy skies above the central mountain peaks.
+end of description
+No dynamic changes occur, nor are any new objects or scenes revealed in the subsequent frames, as the viewpoint and scene remain entirely static.
+frame_0000000640-frame_0000000768:
+The first frame displays a vast mountain landscape; a rugged, grey rocky mountain face occupies the near left, while a large scree slope with patches of green grass extends from the bottom-center towards the distant right. Above, a partly cloudy sky shows blue patches to the upper left and a bright sunlight breaking through clouds slightly right of center, illuminating a distant grey mountain ridge with visible snow patches. A shadowed pass runs deep into the scene between the left mountain and the central scree slope.
+end of description
+All subsequent frames are identical to the first frame, therefore no dynamic changes occur, and no new objects or scenes are revealed relative to the initial viewpoint.
+frame_0000000768-frame_0000000896:
+The first frame displays a vast mountain landscape from a low aerial perspective, looking up towards the peaks. To the left, a dark, rugged mountain face dominates, while a lighter grey, jagged mountain range with patches of green vegetation and snow slopes upwards across the center and right. The foreground and middle ground are covered by a scree field of loose rocks, and a bright sun glare illuminates the central mountain peak under a partly cloudy sky.
+
+end of description
+Over the subsequent frames, the camera subtly pans left, causing the prominent dark mountain on the left to shift slightly more towards the frame's center. Concurrently, the distant mountain range on the right of the initial view gradually moves further right, nearing the frame's edge, but no new objects or scenes are revealed.

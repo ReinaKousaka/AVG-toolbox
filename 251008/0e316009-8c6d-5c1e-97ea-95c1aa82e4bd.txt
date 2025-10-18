@@ -1,0 +1,28 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a narrow asphalt road extending forward, curving gently left between two rising hills under a cloudy sky, with a vehicle's white dashboard or hood visible at the bottom. To the viewer's left, a steep, grassy hill with a stone wall at its base parallels the road, while a less steep hill on the right features scattered trees and reddish vegetation.
+end of description
+As the perspective moves forward along the road, the surrounding landscape dynamically shifts closer, with the stone wall on the left and the trees on the right progressively passing by the initial viewpoint, and the overall lighting subtly brightening.
+frame_0000000128-frame_0000000256:
+From the viewer's perspective inside a vehicle, a narrow, wet asphalt road extends forward and slightly right, flanked by a steep, rocky, grassy hillside on the left and a prominent, sparse tree partially obscuring a grassy slope on the right, all under an overcast sky with a distant figure on a ridge to the left.
+end of description
+As the viewpoint moves forward along the road, the large tree on the right recedes and then disappears out of the frame to the right, revealing more of the grassy slope and scattered rocks on that side. Simultaneously, both the steep, rocky hillside on the left and the now-visible rock-strewn slope on the right become larger and closer to the viewer, with the distant figure on the left ridge also growing slightly in size.
+frame_0000000256-frame_0000000384:
+From a vehicle's perspective, a narrow, wet asphalt road extends forward through a valley flanked by steep, rocky, grassy hillsides under a cloudy sky. A stone wall lines the left side of the road, leading up to a distant stone structure with a small figure atop it, while the right side features darker, rocky terrain and distant structures. The white hood of the vehicle is visible at the bottom of the frame.
+end of description
+As the frames progress, the viewpoint moves forward along the road, causing the hillsides and the distant features, including the figure on the stone structure and the mining structures on the right, to appear progressively closer and larger relative to the viewer's initial position. Water droplets on the vehicle's windshield also shift slightly with this forward motion.
+frame_0000000384-frame_0000000512:
+A wet road stretches forward from the viewer's low vantage point, presumably inside a vehicle, flanked by a stone wall on the left and a grassy verge on the right. A steep, partially vegetated hill rises sharply to the left, while a darker, rocky embankment ascends to the right. Far ahead, a lone figure stands atop a stone wall on the left, where the road appears to curve slightly right into the distance under a cloudy sky.
+end of description
+As the viewpoint advances along the road, the surrounding hillsides and the stone walls on both sides become progressively closer. Multiple vehicles become distinctly visible on a higher section of the right-hand embankment, initially obscured but now revealed ahead and to the right of the first-frame position. The lone figure on the left wall also appears larger as the vehicle continues moving forward, maintaining the same weather conditions.
+frame_0000000512-frame_0000000640:
+From the immediate foreground of the viewer's vehicle hood, a wet paved road extends forward, curving slightly. To the left, a steep grassy hill with a lower stone wall parallels the road, while a higher stone wall supports a lone figure standing further along. To the right, a dark, rocky spoil heap rises, featuring a wooden fence and several parked vehicles further back, with a smaller dark structure visible closer to the road on that side. The sky overhead is heavily overcast.
+end of description
+As the viewpoint progresses forward, the entire scene ahead, including the standing figure on the left wall and the parked vehicles on the right, gradually moves closer and appears slightly more defined relative to the initial first-frame viewpoint.
+frame_0000000640-frame_0000000768:
+The first frame shows the view from a vehicle, with raindrops on the lower windshield. A narrow, wet asphalt road stretches forward, flanked by steep terrain. To the left, a multi-tiered dry stone wall supports a grassy slope, with a dark silhouetted figure standing atop it. To the right, a dark rocky slope features a wooden fence along its upper edge, behind which several vehicles are parked, with another small figure visible lower down. The distant sky is overcast.
+end of description
+As the viewer moves forward, the road ahead gradually fills the frame from the bottom, and the stone walls and rocky slopes flanking it recede, indicating forward movement along the path. The silhouetted figure on the left stone wall moves out of the frame to the top left, while the parked vehicles and fence on the right also appear to pass by and move further into the distance.
+frame_0000000768-frame_0000000896:
+The first frame shows the viewer's vehicle hood with raindrops at the bottom, looking forward onto a wet paved road curving slightly left. To the left, a tall, layered stone wall rises, with a dark figure visible atop it in the mid-distance; to the right, a steep, rocky slate slope is topped by a wooden fence and a distant white vehicle.
+end of description
+As the frames progress, the viewpoint steadily moves forward along the road. The massive stone wall on the viewer's left and the rocky slate slope on the right progressively enlarge and draw closer. The white vehicle, initially distant to the top right, also becomes more prominent and approaches as the viewer drives through the pass.

@@ -1,0 +1,10 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a paved road with white lines extending from beneath the viewer, curving gently to the right towards distant rugged mountains under a clear blue sky. A stone retaining wall borders the right side of the road, ascending a rocky, grassy mountain slope, with a similar slope visible to the left. end of description. As the sequence progresses, the viewpoint moves forward along the road; the pavement and white lines recede, while the stone wall and surrounding mountainous terrain pass by, revealing more of the path ahead as the distant mountains gradually draw nearer.
+frame_0000000128-frame_0000000256:
+A narrow asphalt road with continuous white lines extends from the foreground, ascending gently and curving left into the distance. To the right, a steep, rocky hillside rises, featuring a stone wall with an opening in the lower right, while the left side shows a grassy slope leading to distant, snow-capped mountains beneath a clear blue sky.
+end of description
+As the viewpoint moves forward along the road, the stone wall on the right recedes and eventually moves out of frame to the right, revealing more of the rocky hillside. The surrounding rocky and grassy terrain on both sides continuously passes by, indicating steady forward motion towards the distant mountains.
+frame_0000000256-frame_0000000384:
+The first frame displays a paved road with white lines extending from the bottom center towards the distant center-right, bordered by a rocky cliff face on the right and a grassy slope leading to snow-capped mountains on the far left. A clear blue sky dominates the upper half of the frame.
+end of description
+In the following frames, the viewpoint subtly advances forward along the road, causing the immediate road surface, the rocky cliff to the right, and the grassy slope to the left to gradually recede into the background. No new objects or scenes are revealed, only a continuous forward progression within the existing landscape.

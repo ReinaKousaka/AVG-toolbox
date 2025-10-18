@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame captures a snow-dusted stone staircase ascending from the viewer's foreground towards the upper left, flanked by a rough stone wall on the left and a metal handrail on the right. To the right of the handrail, a street with parked cars and multi-story buildings recedes into the distance under an overcast sky.
+end of description
+Subsequent frames show a very subtle forward movement of the viewpoint, as if slowly ascending the stairs. This slight progression brings the lower steps and the adjacent stone wall to the left marginally closer, while simultaneously revealing a sliver more of the street and buildings located to the right of the handrail.

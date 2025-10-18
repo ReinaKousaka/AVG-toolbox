@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a two-lane asphalt road curving gently right in the foreground and left in the distance, with a solid white line on its right edge and a dashed yellow line on the left. To the viewer's immediate right, a silver guardrail runs parallel to the road, with green grass and dry brush beyond it. A rugged, rocky mountain slope rises steeply to the left of the road, while further to the right, a valley with distant hills, autumnal trees, and a small structure is visible. A clear blue sky is overhead.
+end of description
+As the viewpoint moves forward, the road, guardrail, and rocky mountainside on the left continuously recede into the background from the viewer's perspective. Concurrently, the valley and distant hills to the right of the guardrail pass by, revealing more of the winding road and natural landscape ahead. The shadow cast by the sun shifts gradually across the asphalt.
+frame_0000000128-frame_0000000256:
+A paved highway, marked with a solid white line on its right edge and a double yellow line further left, curves to the right, flanked by a silver guardrail. To the left, a steep, rocky mountainside rises, while to the right, a grassy slope descends into a valley where a small building and scattered trees are visible amidst distant hills under a clear blue sky.
+end of description
+As the viewpoint progresses forward along the curving road, the guardrail on the right continues to be revealed, and a dark reflective pole appears behind its initial position. The building in the valley becomes more distinct before receding further into the background, revealing more of the surrounding grassy terrain and distant hills.
+frame_0000000256-frame_0000000384:
+From a low vantage point on a sunny day, the first frame presents a curved asphalt road with a solid white line on its right shoulder, where a silver guardrail extends into the mid-ground. A crouched figure is visible near the guardrail where the road curves, adjacent to a dirt path and dry bushes that give way to distant green and yellow hills on the far right. A steep, rocky mountainside dominates the left background.
+end of description
+As the viewpoint moves forward along the road's shoulder, the crouched figure and the initial section of the guardrail quickly recede and pass behind the viewer. Concurrently, new segments of the curving road, guardrail, and an expansive valley to the right are continuously revealed ahead as the perspective advances.

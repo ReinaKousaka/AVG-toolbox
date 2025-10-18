@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a wet, dark cobblestone street receding into the distance under a dusky evening sky, bordered by yellow lines. Buildings line both sides, with a brightly lit storefront on the right featuring a large vertical poster displaying multiple portraits, while the left side presents darker facades.
+end of description
+As the frames progress, dynamic changes indicate the onset of rain; small ripples and splashes become visible on the wet street's surface, particularly in the illuminated areas. Tiny illuminated water droplets appear to fall through the air, intensifying light reflections on the ground. A 'Rain Everyday' watermark also gradually appears in the bottom left corner of the subsequent frames.
+frame_0000000128-frame_0000000256:
+The first frame displays a narrow, wet brick-patterned street at night, receding into the distance. Buildings with closed shop fronts line both sides, a bright yellow light glows from the immediate left, and a bright white light from the immediate right. Utility poles with overhead wires and distant streetlights are visible further down the street against a dark, cloudy sky.
+end of description
+Across the subsequent frames, the street's surface progressively appears wetter, with reflections of the shop lights becoming more pronounced and defined on the damp ground directly in front of and receding away from the viewer. This subtle dynamic change suggests ongoing or increasing rainfall over the stationary scene.
+frame_0000000256-frame_0000000384:
+The first frame displays a narrow, wet city street extending away from the viewer under a dim, twilight sky, flanked by buildings. On the left, a red building with visible glass doors and windows is prominent in the foreground, while other storefronts line the right, and distant lights faintly illuminate the receding path.
+end of description
+Subsequent frames reveal a dynamic increase in the street's wetness, with rain visibly falling and expanding areas of light reflection, especially in the midground. Puddles form and grow, causing ambient and distant light sources to shimmer and streak more intensely across the entire wet pavement.

@@ -1,0 +1,27 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a wet paved path curving from the lower right towards the center-right distance, bordered on the left by an expansive green lawn dotted with several trees bearing light green leaves, a dense dark evergreen to the far left, and more distant trees under an overcast sky with a faint light horizon.
+end of description
+Across the subsequent frames, the scene remains largely static; only subtle swaying of the trees' light green leaves is observable, suggesting a gentle breeze. No new objects or scenes are introduced, and all elements retain their initial spatial positions relative to the viewer.
+frame_0000000128-frame_0000000256:
+In the first frame, a wet, grey path extends from the viewer's foreground, curving slightly right and receding into the distance. Lush green grass and numerous trees with bright, newly sprouted light green foliage line both sides of the path. A prominent tree trunk is on the far left, while a denser, dark green coniferous tree stands on the right, further back. The background shows more distant trees and an overcast sky.
+end of description
+As the frames progress, the viewpoint slowly moves forward along the path. The trees and foreground grass become relatively closer to the viewer. A silver car gradually emerges into view on the right side of the path, parked in the mid-distance near the base of the dark coniferous tree, becoming fully visible by the ninth frame.
+frame_0000000256-frame_0000000384:
+The first frame presents a wet paved path leading into the mid-distance, bordered by vibrant green grass and numerous trees. A prominent light green leafy tree occupies the left foreground, while a darker evergreen stands to the right, with a silver car visible further back on the right side. end of description
+Subsequently, the silver car, initially positioned to the right of the path in the mid-distance, slowly drives horizontally across the scene from right to left relative to the viewer's fixed perspective. It continues to move into the background until it gradually disappears behind the distant trees on the far left.
+frame_0000000384-frame_0000000512:
+The first frame displays a wet paved path leading away from the viewer into the distance, flanked by vibrant green grass. A large tree with bright green leaves occupies the left foreground, its branches extending over the path, while a darker evergreen tree stands to the right in the mid-ground. Further ahead, a white car is partially visible on a road beyond the path, under an overcast sky.
+end of description
+Throughout the following frames, the bright green leaves of the left foreground tree gently sway. The white car in the mid-distance subtly moves further away along the road, while no new objects or scenes are revealed, and the overall viewpoint remains static.
+frame_0000000512-frame_0000000640:
+The first frame presents a wet, paved pathway stretching from the bottom center towards the middle distance, bordered by vivid green grass on both sides. Overhead to the left, bright green foliage from a tree hangs into the frame, while further left, a cluster of smaller trees and distant parked vehicles are visible. To the right of the path, a tall, dark conifer tree stands prominently, with lighter-green deciduous trees further right and a broad, open area under an overcast sky in the far background.
+end of description
+The viewpoint steadily advances forward along the path, moving closer to the distant scene. Consequently, the immediate foreground elements like the path and flanking grass recede relative to the first-frame viewpoint, while the previously distant open area and structures ahead gradually appear larger and slightly more defined. The trees initially positioned to the left and right of the path move towards the sides, effectively moving past the original viewpoint.
+frame_0000000640-frame_0000000768:
+A wet, paved path stretches from the bottom center into the middle distance, flanked by vibrant green grass and scattered fallen leaves. Various trees with light and dark green foliage are positioned on both sides, with a prominent dark pine tree to the right and smaller bushes to the left. In the background, beyond the trees, a lighter road or open area is visible under a cloudy sky.
+end of description
+A light-colored van or small RV gradually enters the scene from the far right of the first-frame viewpoint, moving horizontally to the left along the distant road behind the right-side trees. It progresses across the mid-background until it fully exits the frame to the left, revealing the empty road again.
+frame_0000000768-frame_0000000896:
+In the first frame, a wet, dark gray path stretches from the bottom center into the middle distance. Lush green grass borders the path on both sides. To the left, smaller trees with bright green leaves are scattered, while a large deciduous tree with light green foliage stands prominently in the center. On the right, two dark coniferous trees are visible. In the mid-ground, a white motorhome is parked on a road behind the central tree, and the overcast sky dominates the background.
+end of description
+A dark-colored car subsequently enters the scene from the far right in the mid-background. It proceeds left along the paved road, passing behind the large coniferous tree on the right. The car continues to move across the frame until it disappears from view to the left.

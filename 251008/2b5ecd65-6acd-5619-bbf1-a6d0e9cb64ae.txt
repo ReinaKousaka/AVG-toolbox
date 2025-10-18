@@ -1,0 +1,10 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a narrow, light brown dirt path curving gently to the right, leading into a dense eucalypt forest. Tall, slender trees with pale trunks and green foliage line both sides, their lower parts obscured by dry brown grass; several small saplings in light green protective sleeves are visible on the sloped ground to the right. An overcast sky peeks through the tree canopy overhead.
+
+end of description
+
+As the sequence progresses, the viewpoint steadily moves forward along the dirt path. The trees and dry grass previously in the foreground shift past the viewer's original position, receding behind and to the sides. The path ahead continuously unwinds and becomes closer, while the distant forest canopy and hills remain consistently in front, just appearing to draw nearer.
+frame_0000000128-frame_0000000256:
+The first frame shows a dirt path extending from the bottom center, curving slightly left into a dense forest. Tall, slender trees with green foliage and light-colored trunks line both sides of the path, with dry, brown grass and undergrowth covering the ground immediately around it. The sky, partially obscured by tree canopies, is visible at the top.
+end of description
+As the frames progress, the viewpoint moves forward along the path, causing the immediate ground cover and nearby tree trunks to shift closer to and past the viewer. Objects like small, light-colored markers to the right of the path become more prominent and then recede out of view, illustrating continuous forward motion through the forest.

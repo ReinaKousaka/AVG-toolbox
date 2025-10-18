@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a wet, dark street scene at night. In the immediate foreground, a reddish-brown wooden railing forms a walkway or steps, extending from the bottom left, across the bottom, and ascending the right side, flanked by dense green foliage on the right. To the left of this railing, a green bus is parked on a wet street, behind which are bare trees and distant buildings. The street, reflecting numerous bright lights, stretches into the midground towards more buildings and dimly lit hills in the dark background.
+end of description
+Following the first frame, a white car appears parked behind and slightly to the right of the stationary green bus on the left. Subsequently, a second green bus emerges from the right side of the frame, moving away from the viewer along the wet road. This bus continues to proceed further into the distance towards the right, with its bright red taillights prominently reflecting on the dark, wet asphalt.
+frame_0000000128-frame_0000000256:
+The first frame displays a wet, dimly lit street at night, featuring a reddish-brown railing in the lower foreground. To the viewer's left, a green bus and several parked cars line the street alongside a dark pole, while reflections of streetlights shimmer on the wet asphalt marked with yellow lines. Further down the street, to the right and slightly uphill from the viewer, another green bus is stationary, its red tail lights glowing. In the background, various buildings and a dark, illuminated hillside are visible.
+end of description
+Subsequently, the leftmost green bus begins to move forward, progressing towards the left of the original frame's position and away from the viewer, as the camera subtly widens its field of view.

@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+First, a bright red car is parked in the left foreground of an upward-sloping narrow road, bordered on the left by a concrete retaining wall with a "No Parking" sign, and on the right by a brown fence. Further up the road, a grey car and a dark car are parked, leading towards a distant tunnel entrance under a clear blue sky.
+end of description
+As the scene progresses, the viewer moves forward along the road. The red car, initially in the foreground, moves past and behind the original viewpoint, progressively exiting the left frame. Simultaneously, the grey car and the distant tunnel entrance appear closer to the original viewpoint's position as the camera advances towards them. The brown fence on the right also moves past and behind the original viewpoint, while a "SEOUL WALKER" watermark appears in the bottom left from the third frame.

@@ -1,0 +1,14 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a view from a mountain road curving right into the distance, flanked by steep, grassy slopes and rocky peaks under a clear blue sky. A black car is partially visible on the bottom left, moving away from the viewer, while a low stone wall lines the road's right edge.
+end of description
+The black car swiftly moves completely out of view to the left of the frame. The viewpoint consistently advances along the road, causing the stone wall on the right to recede behind the viewer and the winding mountain road ahead to appear progressively closer. The initial motion blur visible in the first frame dissipates as the camera moves forward.
+frame_0000000128-frame_0000000256:
+In the first frame, a paved road stretches into the distance, flanked by a low stone wall on the right and a brown guardrail on the left. Beyond the stone wall, a steep, grassy mountain slope ascends, featuring scattered rocks and small trees. To the left of the road and guardrail, additional hairpin turns are visible on the distant hillside, while a towering, jagged rocky mountain peak dominates the upper left background beneath a clear blue sky.
+
+end of description
+
+As the scene progresses, the viewpoint moves forward along the winding road. The stone wall on the right and the guardrail on the left steadily approach and pass the viewer's position. This forward motion continuously reveals new sections of the steep, grassy mountainsides and the intricate series of hairpin turns further ahead, which were previously in the mid-distance relative to the initial viewpoint.
+frame_0000000256-frame_0000000384:
+In the first frame, a paved road stretches from the bottom center towards the upper center, curving gently to the left. A brown guardrail runs along the left side of the road, while a stone wall borders the right. Steep, rocky mountains dominate the left background, and a green, grassy slope with visible switchbacks ascends on the right, all beneath a clear blue sky.
+end of description
+The viewpoint continuously moves forward along the winding mountain road. The immediate foreground road, the stone wall to the viewer's right, and the guardrail to the viewer's left progressively recede and pass behind the first-frame viewpoint. Simultaneously, the distant green mountain slope with its intricate series of switchbacks on the right gradually approaches the viewer, revealing more of the ascending path ahead.

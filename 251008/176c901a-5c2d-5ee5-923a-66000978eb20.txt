@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a wet, dark street at night, flanked by illuminated buildings on both sides, with reflections of lights shimmering on the asphalt road which has a yellow line; a red '약' sign is visible on a building to the far left, and a standing sign with text is on the right sidewalk.
+end of description
+As the video progresses, the viewpoint moves forward down the street, causing the buildings and initial foreground objects to recede and bringing more distant sections of the street into view. Reflections on the wet ground visibly shift, and a manhole cover in the road moves closer to and then past the viewer's position relative to the initial viewpoint. Figures walking further down the street, centrally ahead, become clearer as the camera advances towards them.
+frame_0000000128-frame_0000000256:
+The first frame displays a wet, illuminated street at night receding from the viewer, flanked by buildings with bright storefronts on both sides. A manhole cover is visible on the glossy asphalt road in the mid-foreground, reflecting distant streetlights and the dark sky. A few indistinct figures are seen walking towards the viewer further down the street.
+end of description
+In the following frames, the viewer's perspective subtly advances, causing the previously distant figures to appear closer as they continue walking along the street towards the camera's initial position.
+frame_0000000256-frame_0000000384:
+The first frame depicts a wet, reflective street or alley at night, stretching into the distance from the viewer's immediate foreground. Buildings with illuminated storefronts line both sides, with a particularly bright yellow glow emanating from a shop on the mid-left, and a yellow line marking the right edge of the street. Several people are visible walking away from the viewer in the far distance, under distant streetlights and red-tinged buildings.
+end of description
+As the frames progress, the viewpoint gradually moves forward along the street. The people initially seen in the far distance move closer to the viewer, appearing larger, and a clear road marking spelling "STOP" followed by "NO ENTRY" emerges on the wet pavement in the mid-ground, ahead of its previous position relative to the first-frame viewpoint.

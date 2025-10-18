@@ -1,0 +1,30 @@
+frame_0000000000-frame_0000000128:
+The initial frame presents a winter scene from a vehicle's perspective on a wet, dark asphalt road, curving slightly to the left and receding into the distance. Snow blankets the ground on both sides of the road, where several tall evergreen trees stand on the left, and a larger, snow-covered evergreen partially frames the right side. Behind this tree on the right, a snow-dusted reddish hillside rises, with more distant snow-capped reddish-brown mountains dominating the background under a blue and cloudy sky.
+end of description
+As the frames progress, the viewer moves forward along the road, causing the large evergreen tree on the right to recede and eventually move out of the frame to the viewer's right. This forward motion reveals more of the snow-covered reddish rock formations and sparse vegetation on the right side, which become closer and more prominent. Simultaneously, the evergreen trees on the left side of the road pass by the viewer's left as the road continues its gentle curve into the distance relative to the initial viewpoint.
+frame_0000000128-frame_0000000256:
+The first frame displays a wet, two-lane road receding into the distance, flanked on the left by several tall evergreen trees and on the right by a steep, snow-covered red-rock cliff face. In the mid-ground, a lighter, snow-dusted mountain range is visible, all beneath a partly cloudy blue sky.
+end of description
+As the frames progress, the viewpoint moves forward along the road, causing the foreground trees on the left and the snow-covered cliff on the right to recede. This continuous forward movement reveals more of the winding road ahead and the snowy mountain landscape into the distance.
+frame_0000000256-frame_0000000384:
+The first frame displays a wet, two-lane asphalt road extending into the distance, bordered on the immediate left by a prominent pine tree and on the right by a snow-covered rocky slope with scattered vegetation. In the mid-ground, snow-dusted canyon walls rise, leading to more distant mountains beneath a sky featuring patches of bright blue amidst overcast white clouds. A faint "AdventureEveryDay" watermark appears at the bottom left.
+end of description
+As the viewpoint progresses forward along the road, the large pine tree initially on the immediate left moves further to the viewer's left and out of frame, revealing more of the snowy roadside. Simultaneously, the snow-covered rocky slope on the right also moves further to the viewer's right, exposing more of the adjacent terrain. Concurrently, previously distant vehicles on the road ahead become progressively larger and clearer, indicating their closer proximity within the scene.
+frame_0000000384-frame_0000000512:
+The first frame displays a wet, dark road with double yellow lines extending towards distant snow-dusted mountains, flanked by snow-covered shoulders and scattered pine trees. Reddish-brown rocks are visible along the right shoulder, and two cars approach in the distance on the road under a cloudy sky with a patch of blue to the upper right.
+end of description
+The grey pickup truck approaches from the distance, growing larger as it moves forward on the road. It then passes the viewer closely on the left side of the road, revealing more of the snow-covered cliffs and landscape beyond, as the large pine tree previously on the right moves out of view.
+frame_0000000512-frame_0000000640:
+The viewer is positioned on a wet, two-lane road with a double yellow line, looking forward. To the immediate left, a silver SUV is partially visible, while further ahead on the left shoulder, a dark-colored sedan is parked. The road ahead is flanked by snow-covered banks with scattered evergreen and bare trees, leading towards large, reddish-brown rock formations, partially dusted with snow, under a cloudy sky revealing a patch of blue above the distant mountains.
+end of description
+The silver SUV on the left moves forward and exits the frame to the viewer's left. Subsequently, a red car emerges from the distant curve of the road, appearing behind the stationary dark sedan, and gradually advances along the road towards the viewer's original position.
+frame_0000000640-frame_0000000768:
+The viewer is positioned on a wet asphalt road with double yellow lines, looking ahead into a snowy mountainous landscape. To the left, a dark car is parked partially on the shoulder and road, facing away, while further ahead, a red car approaches in the right lane. Snow-covered banks line both sides of the road, interspersed with green trees and brush. Majestic sandstone cliffs, heavily dusted with snow, dominate the background, under an overcast sky with a patch of bright blue visible in the upper right.
+end of description
+The red car steadily advances towards the viewer from the distant right lane. A dark bird briefly flies into view on the snow-covered bank, moving towards the lower right. As the viewpoint shifts forward, the red car passes to the left of the viewer. Subsequently, both the parked dark car and the receding red car move out of frame, behind the original first-frame viewpoint.
+frame_0000000768-frame_0000000896:
+The first frame displays a wet asphalt road with a double yellow line extending forward, flanked by snow-covered ground and pine trees on both sides. To the left, a tall pine tree and a brown sign are visible, while on the right, another prominent pine tree stands amidst snowy shrubs. Majestic, snow-dusted brown and red cliffs dominate the background, under a sky with grey clouds and patches of bright blue to the upper right.
+
+end of description
+
+As the viewpoint moves forward along the road, the initial foreground elements, like the prominent pine trees and the signpost, gradually recede and move out of view to the sides of the frame. New sections of the snowy roadside and the curving road ahead continuously emerge into the foreground, while the large snow-dusted cliffs in the background remain visible, shifting slightly to reflect the viewer's progression through the scene.

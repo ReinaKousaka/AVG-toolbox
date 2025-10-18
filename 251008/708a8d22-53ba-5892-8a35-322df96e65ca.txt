@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a paved path curving slightly left as it recedes into a dense forest, leading from the bottom center towards the background. Lush green undergrowth, including ferns and bushes, flanks the path on both the immediate left and right, with numerous tall trees forming a verdant canopy overhead and extending into the distant background.
+end of description
+As the frames progress, the viewer moves steadily forward along the path. New sections of the path and the surrounding forest, initially further ahead of the first-frame viewpoint, are continuously revealed. Simultaneously, the immediate foreground elements from the initial frame recede and effectively move behind the original viewpoint. Sunbeams filtering through the canopy on the upper left side of the frame subtly shift and intensify with the forward motion.
+frame_0000000128-frame_0000000256:
+A paved pathway curves gently to the right, leading into a sun-dappled, dense green forest. Lush foliage, including ferns and bushes, borders both sides of the path, with tall trees forming a dense canopy overhead and in the background. Sunlight filters from the upper left, casting bright rays and shadows across the scene, and a fallen log is visible among the ferns on the left.
+end of description
+The viewpoint steadily moves forward along the path, causing the immediate foreground foliage to recede and reveal more of the curving path ahead. The dappled sunlight on the ground and trees subtly shifts as the camera progresses deeper into the forest. No new objects are revealed; the scene simply unfolds further along the existing path.
+frame_0000000256-frame_0000000384:
+The first frame presents a paved path leading into a lush forest, curving gently to the right as it recedes into the background. Dense green foliage, including ferns and bushes, borders both sides of the path, and tall trees form a canopy overhead where sunlight streams through from the upper right. A fallen, moss-covered log rests horizontally among the greenery to the left of the path in the mid-ground.
+end of description
+As the frames progress, the viewpoint subtly advances forward along the path, causing the immediate surroundings to appear slightly closer and shift dynamically, though no new objects or scenes are revealed from the first-frame perspective.

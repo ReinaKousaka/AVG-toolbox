@@ -1,0 +1,10 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a wet asphalt road stretching into the distance, marked by a solid yellow line on both sides and broken white lane lines. To the viewer's right, a curb borders a green hedge, while on the left, a metal barrier precedes green bushes and several trees. Further back on the left, a light brown building with balconies is visible, and in the midground, a streetlamp rises above the road. On the far right, past more trees, a light-colored building with flags, including the South Korean flag, stands under an overcast sky.
+end of description
+As the frames progress, the wet asphalt road exhibits increasingly visible ripples and streaks on its surface, indicating a light rainfall intensifying. Concurrently, the trees lining the left side of the road show subtle swaying movements. A "Rain Everyday" watermark also appears in the upper right corner, subtly shifting its position within the frame.
+frame_0000000128-frame_0000000256:
+The first frame shows a wet asphalt road curving gently to the right, with a white dividing line and yellow shoulder lines, bordered by green bushes on a median to the left and a curb with bushes on the right. In the mid-background, buildings and more trees are visible under an overcast sky. end of description. The scene remains largely static until a dark sedan emerges from the right mid-ground in the final frame, driving across the wet road towards the left.
+frame_0000000256-frame_0000000384:
+The first frame displays a wet asphalt road, curving gently to the right, with a dark gray sedan driving away from the viewer in the left lane. Lush green trees and bushes line both sides of the road, and a light-colored building stands in the background to the left of the road, under an overcast sky.
+end of description
+The dark gray sedan continues to move away from the viewer along the curving road, progressively shifting further right into the distance. As it recedes, a red vehicle ahead of it on the right side of the road becomes more clearly visible, still far down the road from the initial viewpoint, and the sedan's brake lights briefly illuminate.

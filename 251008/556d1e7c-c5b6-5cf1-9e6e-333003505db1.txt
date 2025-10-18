@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a wet, paved street or square under an overcast sky, with a tall street lamp visible in the immediate foreground on the far right. To the far left, a green tarp-covered stall occupies the foreground, leading down the street where more covered stalls appear. Multi-story buildings with various illuminated signs and windows line the right side of the street, extending into the midground and background, while a tall lattice tower stands on the distant horizon to the left.
+end of description
+In the subsequent frames, a person carrying an open umbrella emerges from the right side of the midground, walking leftward along the wet street. Briefly, a dark object, likely an umbrella, enters the top-center of the frame, partially obscuring the view. The individual continues their leftward movement, gradually receding into the distance alongside the street until they eventually disappear from view in the far left background.
+frame_0000000128-frame_0000000256:
+The first frame shows the viewer on a wet, empty city street, looking towards a junction. To the right, multi-story buildings with numerous brightly lit shops and Korean signage line the street, while a narrower street extends into the background on the left, flanked by more buildings and small green stalls, with a large metal tower visible in the distant background.
+end of description
+The scene remains static until a person holding a black umbrella emerges on the right sidewalk in frame seven, walking away from the viewer. This individual continues to move further into the distance along the right side of the street in the subsequent frames.
+frame_0000000256-frame_0000000384:
+The initial frame presents a wet, reflective city street under an overcast sky, with multi-story buildings featuring illuminated signs and green-tarped market stalls on the left, and a large building with storefronts and balconies on the right. In the distant background, a tall, white lattice structure rises above the street.
+end of description
+A pedestrian holding an umbrella walks away from the viewer, progressively moving deeper into the scene along the street, appearing slightly further to the left of their initial midground position.

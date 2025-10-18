@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame captures a picturesque alpine village, featuring a prominent two-story wooden chalet with a white lower facade and dark brown upper levels, situated uphill to the left of a narrow dirt path in the foreground. A low wire fence runs along the left edge of the path, with dry grass covering the hillside leading up to the main house and other distant wooden structures, all set against a towering, partially snow-capped mountain on the far right under a clear blue sky.
+end of description
+The video then exhibits a very subtle, slow pan to the right, causing the prominent chalet to shift slightly leftward in the frame and gradually revealing more of the distant snow-capped mountain face to the right of the initial viewpoint. Concurrently, clouds in the sky drift subtly from left to right.
+frame_0000000128-frame_0000000256:
+A large wooden chalet with a white lower level stands prominently on a grassy slope to the left, with a wire fence in the immediate foreground. To the right, a paved path descends, bordered by a stone wall, leading towards smaller houses and an evergreen tree, all set against a massive, snow-capped mountain on the far right under a blue sky.
+end of description
+As the frames progress, the viewpoint subtly shifts forward and slightly right. The paved path on the right becomes more fully revealed, and a dark car slowly drives into view from the far bottom right, moving up the path, exposing more of the village infrastructure.

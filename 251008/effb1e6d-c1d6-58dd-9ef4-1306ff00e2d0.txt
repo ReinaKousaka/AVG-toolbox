@@ -1,0 +1,18 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a paved road curving sharply to the right, beginning in the foreground and extending towards the mid-right. A low, rustic stone wall borders the left side of the road, curving with it, while a steep, rocky cliff face with sparse greenery rises immediately to the right of the road. Further left, beyond the stone wall, several green trees are visible, and in the distant background, hazy blue mountains stretch across the horizon under a clear blue sky.
+
+end of description
+
+As the viewpoint progresses forward along the road, the scene shifts, revealing more of the curving road ahead. The rocky cliff face on the right appears to move further right and recede, gradually showing less of its initial prominence. Simultaneously, the stone wall and the trees on the left side of the road also shift leftward, passing out of the immediate foreground. The distant mountain range remains visible in the background as the camera rounds the bend.
+frame_0000000128-frame_0000000256:
+A paved road with double yellow lines in the foreground curves right, bordered by a low stone barrier on the left and a reddish-brown rocky cliff face on the right. Beyond the barrier, a line of green trees extends on the left, while distant, hazy blue-grey mountains rise under a clear blue sky in the background.
+end of description
+As the viewpoint moves forward along the road, the rocky cliff and a tall pine tree on the right recede to the viewer's right and behind, revealing more of the steep rock face. Simultaneously, the stone barrier and green trees on the left also move to the viewer's left and behind. The curving road ahead gradually unwraps, with the distant mountain peaks remaining in the background.
+frame_0000000256-frame_0000000384:
+A paved mountain road with double yellow lines curves ahead and to the right, bordered by a stone wall to the left and a steep, rocky slope with evergreen trees to the right. Distant hazy blue mountains lie ahead in the background beneath a clear sky.
+end of description
+The viewpoint advances along the road, causing the immediate roadside to recede. A white car emerges in the distance, ahead and to the right on the curving road, moving progressively closer to the viewer. Deciduous trees with lighter green leaves also become more visible along the right side of the road further into the scene.
+frame_0000000384-frame_0000000512:
+A paved road with double yellow lines curves to the right and into the distance, with a white car visible ahead in the midground. To the viewer's left, a stone retaining wall runs alongside the road, backed by a dense forest of pine trees, behind which hazy mountains rise in the far distance. To the viewer's right, a steep, rocky hillside covered in green deciduous trees borders the road. A clear blue sky dominates the upper half of the frame.
+end of description
+The viewpoint advances along the road, causing the white car ahead to appear progressively closer. As the camera moves forward, new sections of the curving road and the forested mountains, previously further in the distance, become nearer and more clearly visible. The rocky hillside on the right and the stone wall on the left appear to recede as the scene unfolds.

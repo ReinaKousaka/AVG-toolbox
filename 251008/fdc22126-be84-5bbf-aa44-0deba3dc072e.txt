@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a wet asphalt road extending into the distance, flanked by snow-dusted buildings and leading towards imposing snow-capped mountains under a clear blue sky. On the left, a large dark wooden house with multiple white windows is visible, while on the right, a lighter-colored building has a yellow car parked in front of it, facing away from the viewer.
+end of description
+In subsequent frames, the yellow car on the right slowly backs up and moves out of view further to the right relative to the initial viewpoint. Concurrently, the camera subtly shifts forward and slightly rightward, revealing more of the wooden house and a small fence on the left side of the road from the first-frame perspective.

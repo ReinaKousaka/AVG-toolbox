@@ -1,0 +1,13 @@
+frame_0000000000-frame_0000000128:
+The first frame features a dirt hiking path with embedded wooden steps leading uphill and away from the viewer, bordered by thin white ropes on either side. To the left, a distant valley with layered blue mountains recedes into haze, while on the right, a rocky hillside covered in green scrub brush slopes upward. A bright sun is visible in the upper right sky, above snow-capped peaks in the background.
+
+end of description
+The camera slowly moves forward along the path. The wooden steps and ropes on either side progressively move closer to the viewer and then pass beneath, eventually moving to positions behind the initial viewpoint. The immediate foreground terrain continually refreshes as the viewpoint advances, while the distant mountains and sun remain relatively fixed in the background.
+frame_0000000128-frame_0000000256:
+The first frame displays a dirt hiking path with rough steps, bordered by small rocks and low green vegetation, extending from the bottom center into the midground. To the left, distant hazy blue mountain ranges descend into a valley, while a rocky, vegetated slope with snowy peaks rises to the right. A bright sun in the upper right illuminates a clear blue sky.
+end of description
+The camera smoothly advances forward and slightly downward along the path, progressively revealing more of the ground ahead relative to the initial viewpoint. The mountainous landscape subtly shifts, appearing closer and more detailed as the first-frame viewpoint moves into the scene.
+frame_0000000256-frame_0000000384:
+The first frame presents a descending dirt path with log and rock steps, flanked by rocky terrain, sparse green vegetation, and white ropes extending into the midground. In the background, distant blue mountain ranges stretch to the left, with a bright sun above a snow-capped peak on the right, all under a clear sky.
+end of description
+Subsequent frames reveal no dynamic changes, newly revealed objects, or shifts in the scene's composition relative to the initial viewpoint.

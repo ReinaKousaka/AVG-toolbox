@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a wet, reddish-brown brick sidewalk receding from the viewer into a dimly lit city street at night. To the left, a rain-slicked road with distant car lights and streetlights is bordered by trees, while a person holding a yellow umbrella walks away in the midground. On the right, illuminated store facades and prominent vertical signs, including a large pink "STAR MUSIC:MUSICAL" advertisement, line the sidewalk.
+end of description
+In subsequent frames, the individual with the yellow umbrella continuously moves further away from the viewer down the wet sidewalk. Concurrently, the viewpoint subtly shifts rightward, causing the prominent pink sign and other elements on the building to move gradually towards the right edge of the frame relative to their initial positions. This rightward shift progressively reveals more of the building's facade and the "STAR MUSIC COFFEE" sign previously obscured above the pink billboard.
+frame_0000000128-frame_0000000256:
+The first frame depicts a wet, nighttime cityscape viewed from a sidewalk. To the left, a large tree trunk stands in the foreground, adjacent to a rain-slicked asphalt street with distant moving vehicle lights. On the right, a brightly lit "FRONT HEARTS COFFEE" storefront with several advertising stands runs parallel to the viewer, while a person with a yellow umbrella walks away on the red brick sidewalk into the midground.
+end of description
+Subsequently, the person with the yellow umbrella progresses further away from the viewer along the sidewalk. Simultaneously, the advertising stands on the right are sequentially moved deeper into the scene towards the coffee shop entrance, and vehicles on the street to the left continue to drive past.
+frame_0000000256-frame_0000000384:
+The first frame captures a nighttime street scene with a wet, reddish-brown brick sidewalk extending into the distance on the right, paralleled by a reflective asphalt road on the left where cars drive with their headlights on. A large tree stands on the left foreground, near which are orange cones and a traffic sign, while a brightly lit "FROM HEARTS" store sign is prominent on the right.
+end of description
+In subsequent frames, a person holding a bright yellow umbrella appears from the mid-ground on the right sidewalk and walks further into the distance, away from the viewer, as rain continues to fall, creating visible reflections on the glistening surfaces.

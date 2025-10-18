@@ -1,0 +1,14 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a paved road in the bottom foreground curving right, bordered by vibrant green grassy slopes. On the left slope stands a dark wooden building with another structure partially visible further behind it, while a larger dark red building with balconies occupies a higher slope to the right. Distant mountains rise on the left in the background under a bright blue sky with white clouds and the sun.
+
+end of description
+
+As the viewpoint moves forward and pans slightly left, the right-side building disappears out of frame to the right of the initial view. A street light pole emerges into view on the left, advancing along the now extended road, while the leftmost wooden building appears larger and shifts towards the center from its original position. Further left and behind its initial location, a new wooden building with a stone roof becomes visible, alongside a white fence beyond the road's widening bend, as more of the distant mountains are now revealed on the far left of the expanding scene.
+frame_0000000128-frame_0000000256:
+A paved road extends into the distance, bordered on the right by a tall street lamp, a grassy incline, and a large wooden building, and on the left by pine trees and a white fence leading to a stone structure, all set against distant mountains beneath a sunny, cloudy sky.
+end of description
+As the viewer moves forward, the street lamp exits the frame to the right, and the initial wooden building on the right becomes more prominent as the road curves gently right. Simultaneously, the white fence on the left recedes, revealing more of the stone structure, while the mountainous backdrop remains stable.
+frame_0000000256-frame_0000000384:
+A paved road curves gently ahead of the viewer, flanked by a wooden fence and evergreen trees on the left, and a grassy slope leading to a traditional wooden house on the right. Distant green mountains lie under a bright, partly cloudy sky with a sun flare.
+end of description
+As the viewpoint moves forward along the road, the wooden fence on the left is replaced by a stone wall, and the initial wooden house on the right recedes as a street lamp and other buildings with vehicles become visible around the bend further ahead.

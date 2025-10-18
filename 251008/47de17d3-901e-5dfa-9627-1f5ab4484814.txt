@@ -1,0 +1,28 @@
+frame_0000000000-frame_0000000128:
+A paved road with double yellow lines extends from the foreground towards the upper right, flanked by a dirt shoulder and green vegetation on the left, and a narrower shoulder on the right. To the mid-left stands a large green tree, and further along the left shoulder, a red octagonal STOP sign is visible against a backdrop of reddish-brown terrain and a bright blue sky filled with white clouds.
+end of description
+As the scene progresses, the viewer moves forward along the road. The red STOP sign, initially to the mid-left of the first-frame viewpoint, moves closer and gradually disappears off-screen to the left. Subsequently, a yellow diamond-shaped sign emerges and approaches from the distance on the right side of the road, becoming more visible in the later frames.
+frame_0000000128-frame_0000000256:
+The first frame presents a two-lane paved road originating from the bottom center, curving uphill and to the left. It's flanked by a desert landscape featuring reddish-brown earth and scattered green and dry bushes on both sides. Above, a vibrant blue sky is filled with numerous fluffy white clouds. In the mid-distance on the right, a yellow diamond-shaped road sign is visible.
+end of description
+As the scene progresses, the viewer moves forward along the road, causing the entire landscape to advance towards and then recede from the initial viewpoint. The yellow road sign on the right, initially distant, grows larger and clearer, revealing two stacked diamond signs displaying "ROAD NARROWS" and "NEXT 1/2 MILE" as it approaches the viewer's position. Throughout the sequence, the clear blue sky with white clouds consistently shifts in perspective overhead.
+frame_0000000256-frame_0000000384:
+The first frame shows a paved road with double yellow lines extending from the viewer's position, curving towards the left through a desert landscape. A bright blue sky filled with numerous white cumulus clouds dominates the upper half, while reddish-brown earth and green shrubs line both sides of the road, and a "ROAD NARROWS NEXT 1/2 MILE" sign is visible to the far right.
+end of description
+As the frames progress, the viewpoint moves forward along the road, causing the "ROAD NARROWS" sign on the right to recede past the viewer and eventually disappear from the frame. The curving road ahead becomes more prominent as the desert landscape continuously moves past the viewer on both sides.
+frame_0000000384-frame_0000000512:
+The first frame displays a paved road with double yellow lines curving left and slightly uphill, flanked by reddish-brown terrain covered in green scrub and bushes. A bright blue sky filled with numerous fluffy white clouds dominates the upper half of the frame.
+end of description
+Subsequently, the viewpoint moves forward, causing the road and surrounding landscape to advance towards the viewer, progressively revealing more of the path ahead. Concurrently, the clouds subtly shift across the sky, and a watermark, 'AdventuresEveryDay', gradually fades into view in the bottom-left corner relative to the initial frame's position.
+frame_0000000512-frame_0000000640:
+The first frame displays a paved road stretching from the bottom center, curving gently to the right as it recedes into the distance, marked by double yellow lines centrally and a white line along its right edge. Both sides of the road are bordered by sparse green and brown vegetation, interspersed with reddish-brown rocky terrain that extends to a distant horizon. Above, a bright blue sky is filled with numerous fluffy white cumulus clouds.
+end of description
+As the frames progress, the viewpoint moves forward along the road. The road surface and its markings advance towards and beneath the viewer, while the roadside vegetation and reddish-brown rocky terrain gradually pass by on both sides of the frame, revealing new sections of the landscape ahead.
+frame_0000000640-frame_0000000768:
+The first frame displays a two-lane road with double yellow lines curving right through a desert landscape under a vast blue sky filled with white cumulus clouds. Reddish-brown soil and sparse green vegetation flank both sides of the road, with low hills visible in the distance.
+end of description
+As the viewer moves forward along the road, the curve to the right becomes more pronounced. Foreground vegetation and a white roadside marker post, initially to the right of the first-frame viewpoint, pass by and exit the frame, revealing new sections of the arid scenery ahead while the sky and distant hills maintain their relative positions.
+frame_0000000768-frame_0000000896:
+The first frame features a paved asphalt road with a double yellow center line and a white right shoulder line, curving gently to the right and receding into the distance directly in front of the viewer. A vibrant blue sky filled with numerous fluffy white cumulus clouds occupies the upper half of the frame, positioned above the road. Arid landscape with reddish-brown earth and sparse green and brown scrub brush flanks both sides of the road, extending forward to a distant, low horizon line marked by subtle hills and vegetation.
+end of description
+As the frames progress, the viewpoint moves forward along the road. The immediate arid landscape and roadside elements on both the left and right sides continuously shift past the viewer, revealing more of the curving road ahead, while the distant horizon and overhead cloud formations largely maintain their overall spatial positions relative to the scene's progression.

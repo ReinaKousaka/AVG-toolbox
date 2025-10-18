@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a paved road curving to the left, with a rocky mountain face on its left and a metal guardrail bordering a dense evergreen forest on its right, leading towards a rugged, grey mountain peak in the distant background under a clear blue sky. A vertical shadow from an unseen object is cast across the road near the center.
+end of description
+As the viewpoint moves forward along the road, the white dashed lane markers progress from the bottom of the frame upwards and recede into the distance. The rocky mountainside on the left and the forested hillside with its guardrail on the right shift laterally, progressively revealing more of their features as the vehicle advances. The distant rugged mountain also becomes slightly more prominent and less obscured by the foreground elements.
+frame_0000000128-frame_0000000256:
+The first frame depicts a paved road curving left and slightly uphill, with a rocky incline and sparse trees on the left, and a metal guardrail alongside dense evergreen forests on the right, all leading towards a large, jagged grey mountain under a clear blue sky in the background.
+end of description
+As the viewer progresses along the road, the foreground elements such as the road markings, rocky incline, and guardrail move past. A small white building gradually becomes visible in the distant mid-ground, behind the rocky incline on the left, as the curve opens up. Concurrently, a utility pole with wires appears on the right side of the road, past the guardrail.
+frame_0000000256-frame_0000000384:
+The first frame displays a paved road curving gently towards the left, marked by white dashed lines down its center and solid lines on its edges. A rocky cliff face rises immediately to the viewer's left, while a metal guardrail parallels the road on the right, beyond which a dense forest of green coniferous trees descends. In the background, a majestic, light-colored mountain dominates the view under a clear blue sky, with a small white building visible at its distant base to the right of the road.
+end of description
+As the viewpoint progresses, the scene moves forward, causing the road and adjacent scenery to shift closer to the foreground. A red and white marker post, initially a small distant object, gradually becomes more prominent and defined as it approaches from the mid-ground on the right side of the road, behind the guardrail, moving towards the viewer's immediate vicinity.

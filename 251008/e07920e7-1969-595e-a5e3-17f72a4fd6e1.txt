@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+In the first frame, a wet red brick sidewalk extends away from the viewer, with a person holding a white umbrella walking on it. To the left, a metal bicycle rack and guardrail run parallel to the sidewalk, separating it from a wet road where a grey and a red car are visible, bordered by green trees and distant buildings. On the right, a black utility box is attached to a low stone wall adjacent to a white picket fence.
+end of description
+Subsequently, the person with the umbrella continues walking further away from the viewer along the sidewalk. Concurrently, both the grey and red cars on the road also move away from the viewer, receding into the distance.
+frame_0000000128-frame_0000000256:
+The first frame depicts a wet urban sidewalk extending into the distance, with a metal fence and a street (where a red car is seen on the far left) on the left. A person holding a white umbrella walks away from the viewer on the right side of the sidewalk, bordered by a white picket fence and trees under a rainy sky.
+end of description
+Across the following frames, the person with the umbrella continues to walk further away from the viewer along the sidewalk. The red car on the left also progresses further down the street, moving away from the first-frame viewpoint.

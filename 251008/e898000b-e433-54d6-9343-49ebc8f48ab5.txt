@@ -1,0 +1,30 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a narrow, curving residential street lined with houses and fences under a clear blue sky. To the immediate left is part of a house with an external staircase and a concrete block wall topped with a metal fence. On the immediate right, a concrete block wall with a brown metal gate is partially open, behind which a white minivan is parked. Further down the curving street, a small white car is visible in the distance, while power lines crisscross the upper sky.
+end of description
+Throughout the subsequent frames, the small white car, initially visible in the distant curve of the street, gradually moves further away from the viewer, receding down the path until it is nearly out of sight.
+frame_0000000128-frame_0000000256:
+The first frame depicts a narrow residential street looking into the distance, with a gray concrete block wall and metal fence on the left, adjacent to a white building with visible stairs. On the right, a brown accordion-style gate is visible in the foreground, with a white SUV parked behind it, further down the street. A row of tall green trees lines the left side of the street in the middle distance, with utility poles and more houses against a clear blue sky in the background.
+end of description
+Subsequent frames reveal no dynamic changes or newly revealed objects; the scene remains static from the first-frame viewpoint.
+frame_0000000256-frame_0000000384:
+The first frame depicts a narrow paved residential street with a clear blue sky overhead. On the left, a stone wall topped with a brown fence borders lush green foliage and a white building, with a dark green gate visible further along the wall. To the right, several cars are parked parallel to the street, partially obscured by a black metal fence and a beige foldable gate in the immediate foreground.
+end of description
+Over subsequent frames, the white van parked on the right gradually moves forward, revealing more of its rear wheel and bumper as it proceeds further down the street, away from the initial viewpoint.
+frame_0000000384-frame_0000000512:
+The first frame displays a narrow paved road receding into the distance. To the viewer's left, a stone wall with a green metal gate leads to a white wall topped with trimmed evergreen hedges. On the right, a row of parked cars, primarily white, is visible behind a black mesh fence, with residential buildings and utility poles in the far background under a clear sky.
+end of description
+There are no visible dynamic changes or newly revealed objects in the subsequent frames; all frames appear identical to the first.
+frame_0000000512-frame_0000000640:
+The first frame captures a narrow street with a stone wall topped by dense green bushes on the left, and a row of parked cars behind a low black fence on the right, the closest being a white SUV. In the distance, several residential houses are visible under a bright blue sky, with utility poles and wires crisscrossing above.
+end of description
+Subsequent frames show a subtle forward progression of the viewpoint along the street. Foreground elements like the left metal fence and the rear of the white SUV on the right slightly recede or move further out of frame, while distant objects appear marginally closer, though no new objects or scenes are revealed relative to the initial viewpoint.
+frame_0000000640-frame_0000000768:
+The first frame depicts a narrow residential street or alley under a clear blue sky, bordered on the left by a weathered stone wall topped with a dense green hedge and a white gate in the foreground. To the right, a black fence encloses a parking area with multiple cars, while straight ahead, the path continues towards buildings, including a white van parked on the left, with utility poles and wires visible above.
+end of description
+The subsequent frames show a subtle, gradual forward movement of the viewpoint along the path. This slight camera advance incrementally reveals more of the stone wall and hedge on the left, and marginally less of the parked cars on the right relative to the initial position.
+frame_0000000768-frame_0000000896:
+The first frame presents a narrow paved path extending directly towards the viewer, flanked on the left by a concrete wall topped with dense green hedges. To the viewer's right, a black metal fence separates the path from a parking area containing several white vehicles, with one large white van visible further down the path on the left. Houses with various architectural styles are visible behind the hedges and cars, all beneath a clear blue sky crisscrossed by overhead utility wires.
+
+end of description
+
+The subsequent frames show no significant dynamic changes or newly revealed objects; the scene remains virtually static with only imperceptible, minor photographic variations.

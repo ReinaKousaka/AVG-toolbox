@@ -1,0 +1,28 @@
+frame_0000000000-frame_0000000128:
+In the first frame, a wide street stretches from the mid-left towards the background, with a white car and a motorcycle parked on its left. To the right, a bus stop shelter with a bench and an integrated advertising billboard depicting a beach scene stands in the foreground, with two men positioned immediately to its right. A sidewalk on the right, lined with dark bollards, extends towards the midground where a lamppost and several green trees are visible, while buildings with shopfronts line both sides of the street.
+end of description
+The two men standing to the right of the billboard progressively walk out of the frame to the right. Concurrently, a new individual in a blue shirt appears from the background on the right sidewalk, initially further down the street from the first-frame viewpoint. This person then continues to walk forward on the right sidewalk, passing the lamppost and moving closer to the foreground.
+frame_0000000128-frame_0000000256:
+The first frame shows a city street extending into the distance, lined with trees and multi-story buildings housing shops on both sides. On the left side of the street, a white car is parked next to a motorcycle, while the right sidewalk features a row of bollards leading up to a tall street lamp post in the mid-ground. On the far right foreground, a large rotating billboard with a Christmas-themed advertisement is prominently visible.
+end of description
+The billboard on the far right slowly rotates clockwise, revealing its blank side. Subsequently, a man in a red shirt and blue shorts appears from behind the rotating billboard on the right, walking leftward along the sidewalk and passing behind the street lamp post towards the mid-ground.
+frame_0000000256-frame_0000000384:
+In the first frame, a street scene stretches forward with a prominent dark street lamp post in the foreground on the right. To its left, a light-colored sidewalk extends into the midground, lined with dark bollards, while an asphalt road occupies the left half of the frame. In the midground, a white car and a motorcycle are parked on the left side of the road, opposite storefronts and people, while a man in a red shirt and blue shorts walks away from the viewer on the right sidewalk. Trees with abundant green foliage line both sides of the street, and buildings with awnings are visible on either side, receding into the background under a bright sky.
+
+end of description
+
+The man on the right sidewalk continues walking further away from the viewer in subsequent frames. A red car emerges from the lower left of the frame in the fourth image, entering the road to the left of the stationary white car. This red car then proceeds to drive forward, away from the viewer, moving past the initial white car on the left side of the road.
+frame_0000000384-frame_0000000512:
+The first frame depicts a sunny city street with a paved road extending into the background, flanked by sidewalks. On the immediate right, a sidewalk with dark bollards and a prominent tree trunk features a man in a red shirt walking towards the viewer, while an orange car drives away in the left road lane. Buildings with storefronts and lush green trees line both sides of the street, with people visible at outdoor cafe tables under trees further down the right sidewalk.
+end of description
+The orange car gradually moves further into the background on the left side of the road, continuing its path away from the initial viewpoint. Concurrently, the man in the red shirt walks off-frame to the right of the first-frame viewpoint, as another person emerges from behind the right tree and proceeds into the background along the right sidewalk.
+frame_0000000512-frame_0000000640:
+In the first frame, a wide street stretches into the distance, flanked by sidewalks and buildings under a canopy of green trees. In the foreground right, a tree trunk partially obstructs the view of a sidewalk featuring black bollards and outdoor seating with a black umbrella, where several people are seated near shops with awnings. An orange car is visible on the street further down, moving away from the viewer, while a man in a blue shirt walks away on the right sidewalk.
+end of description
+Throughout the subsequent frames, the man in the blue shirt on the right sidewalk continues walking further away from the viewer, and the orange car on the road also recedes into the distance. A new man, wearing a pink shirt and blue shorts, gradually emerges from the right edge of the frame, walking away from the viewer and becoming more visible.
+frame_0000000640-frame_0000000768:
+The first frame displays a sunlit city street with a wide paved road on the left, flanked by a sidewalk on the right. On the right sidewalk, several dark bollards line the edge, followed by a tree with lush green foliage, and two small outdoor tables with stools, one occupied by two people. Beyond these, storefronts with awnings, a prominent yellow sign, and display windows line the right side of the street, while buildings with similar commercial facades and trees extend down the left side. In the distance, a few vehicles are visible on the road.
+
+end of description
+
+Beginning with the third frame, a silver car emerges from the lower-left foreground, traveling away from the viewer on the road. This car continues to move further down the street, passing the initial sidewalk bollards and becoming more completely visible from the rear in the center-left as the sequence progresses.

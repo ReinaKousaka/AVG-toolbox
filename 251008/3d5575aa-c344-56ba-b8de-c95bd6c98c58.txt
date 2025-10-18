@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a paved two-lane road stretching forward from the viewer, curving slightly right into the distance, with a metal guardrail and dense trees to the left leading to a prominent snow-capped mountain. To the right, a stone wall parallels a grassy slope with trees, and another distant mountain is visible beyond. The sky is cloudy overhead.
+end of description
+As the viewer progresses, the immediate roadside elements like the guardrail, stone wall, and trees continuously move towards the bottom of the frame, revealing more of the winding road ahead. The distant mountains and overall landscape slowly shift perspective as forward motion continues.
+frame_0000000128-frame_0000000256:
+The first frame depicts a paved road extending forward, curving gently to the right, with a double yellow line on the left lane and a solid white line on the right shoulder. To the left, a metal guardrail borders the road, beyond which lies a dense forest and snow-capped mountains in the distance under a partly cloudy sky. On the right, a rocky, grass-covered embankment with a stone wall slopes upwards, densely forested with evergreen and deciduous trees.
+end of description
+As the frames progress, the viewpoint advances along the road, causing the immediate roadside elements to shift towards and past the viewer. The guardrail on the left and the rocky embankment with its stone wall on the right appear to move from the mid-ground to the foreground and then out of frame. The distant mountains remain visible as the road ahead unfolds, emphasizing the forward motion through the mountainous landscape.
+frame_0000000256-frame_0000000384:
+The first frame shows a paved road stretching ahead, curving gently to the right, with a metal guardrail running along its left side, backed by dense green trees. Further left, snow-capped mountains are visible in the distance under a cloudy sky, while a steep, forested slope rises immediately to the right of the road.
+end of description
+As the viewpoint progresses forward along the road, the immediate scenery on both sides continuously moves towards and past the viewer. The guardrail and trees on the left and the forested slope on the right recede, with a blue road sign gradually becoming visible further down the road on the right side, emerging from behind the trees.

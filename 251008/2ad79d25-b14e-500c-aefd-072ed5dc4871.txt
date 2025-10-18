@@ -1,0 +1,28 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a road lined on both sides by tall, dense trees forming a canopy overhead, with a utility pole standing prominently to the mid-right. Ahead on the road, a dark SUV approaches the viewer, followed by a lighter vehicle further behind it, while a sunny sky is visible above the tree line.
+end of description
+Throughout the subsequent frames, both the dark SUV and the lighter vehicle behind it steadily advance closer to the viewer. Simultaneously, the surrounding trees and the utility pole on the right appear to progressively approach and enlarge, indicating the viewer's forward motion through the scene.
+frame_0000000128-frame_0000000256:
+A dark SUV is partially visible in the lower-left foreground, to the viewer's left. A light-colored compact SUV is further down the road, centered in the mid-ground, approaching the viewer. The road is flanked by numerous large trees forming an archway overhead, with a prominent tree trunk in the immediate foreground on the right and a utility pole on the mid-ground left. Beyond the trees on the left, a grassy field is visible under a clear sky.
+end of description
+The dark SUV in the foreground rapidly moves out of frame to the left, progressively revealing more of the road and the grassy field to the left of the original viewpoint. Simultaneously, the light-colored compact SUV continues to approach along the road, growing larger as it moves closer until it passes by the viewer's left side.
+frame_0000000256-frame_0000000384:
+The first frame displays a paved road stretching into the distance, framed by large, gnarled trees with dense green foliage on both sides. A portion of a vehicle is visible in the bottom left corner. To the left of the road, a grassy field with a wooden fence runs parallel, while more trees and dense vegetation line the right side, all under a bright, clear sky.
+end of description
+As the frames progress, the viewpoint moves forward along the road. The partial vehicle visible in the bottom left gradually moves out of view. A yellow diamond-shaped sign with a black symbol becomes visible on the right side of the road, previously hidden from the first-frame viewpoint. The trees flanking the road appear to spread further apart, revealing more of the sky and the landscape ahead of the initial viewpoint.
+frame_0000000384-frame_0000000512:
+In the first frame, a paved road gently curves to the right, bordered by green grass and a low wooden fence on both sides, extending from the foreground into the mid-ground. On the left, tall evergreen trees stand beside the fence, while a large, gnarled tree with dense foliage heavily overhangs the road from the right, with a yellow pedestrian crossing sign partially visible behind it.
+end of description
+The viewpoint steadily advances along the road, causing the overhanging tree branches directly above and the trees and fence lines on both sides to recede into the background. As the foreground clears, more of the bright blue sky becomes visible directly ahead. The pedestrian sign on the right also recedes and eventually moves out of view.
+frame_0000000512-frame_0000000640:
+The first frame displays a paved road extending forward into the distance, bordered by wooden split-rail fences on both sides. Overhanging dark tree branches are prominent in the top foreground, while a tall green hedge and dense trees line the left side, and a sloping green lawn with more trees occupies the right, all beneath a bright blue sky.
+end of description
+As the viewpoint advances, the overhanging branches visible in the first frame recede out of view above the viewer. The road and adjacent fences appear to advance towards the viewer, progressively revealing more of the manicured landscape of trees and green lawns that were further ahead in the initial scene.
+frame_0000000640-frame_0000000768:
+A paved path extends directly away from the viewer, bordered by low wooden fences on both sides. To the left, a dense green hedge is visible behind the fence, backed by a line of large evergreen trees, with a prominent tall, gnarled tree on the far left. To the right, a green golf course gently slopes upwards, featuring a few white markers and a distinctive broad evergreen tree in the middle distance. The upper half of the frame is dominated by a clear blue sky.
+end of description
+The viewpoint slowly advances forward along the paved path. Consequently, the fences bordering the path and the dense hedge and trees on the left gradually move towards and then past the viewer's left relative to the initial position. The golf course and trees on the right also progressively shift closer, revealing more of the course's terrain deeper into the scene. Additionally, from the fourth frame onwards, a "© Relaxing Scenes" watermark appears in the bottom-left corner of the screen.
+frame_0000000768-frame_0000000896:
+The first frame shows a paved path receding into the distance, flanked by wooden fences and dense green coniferous trees whose branches overhang the road, with a bare tree prominent in the upper left. A golf course with white markers lies to the right of the path, all under a clear blue sky.
+end of description
+In subsequent frames, the scene undergoes a color correction and brightening process, transforming the initial muted tones into more vibrant colors. This enhances the deep blue of the sky and the rich greens of the trees and golf course, increasing contrast and shadow detail across the static landscape.

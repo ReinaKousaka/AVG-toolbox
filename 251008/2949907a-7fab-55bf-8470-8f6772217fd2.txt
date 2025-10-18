@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+From an aerial viewpoint, a dark river meanders through a dense, lush green rainforest. A small, light blue boat is positioned near the center of the frame, heading away from the viewer towards the upper part of the river, leaving a prominent white wake behind it. The vibrant green foliage of the forest, comprising various tree types, densely lines both banks of the river, occupying most of the scene to the left, right, and bottom.
+end of description
+The boat continues its journey, steadily moving further away from the first-frame viewpoint along the river. Its white wake extends progressively longer behind it, trailing back towards the viewer's original position. The surrounding dense rainforest and river banks remain stationary relative to the initial scene.

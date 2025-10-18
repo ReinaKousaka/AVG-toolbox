@@ -1,0 +1,30 @@
+frame_0000000000-frame_0000000128:
+The viewer faces a narrow, wet alley at night; to the left, a dark building with a bicycle and glowing signs lines the path, while to the right, a brick building, a utility pole dense with signs, orange cones, and a yellow scooter are visible. The alley recedes into the distance, lined with further illuminated signs under a dark, reflective sky.
+end of description
+The camera gradually moves forward along the alley, causing the objects previously on both sides to appear to shift laterally towards the edges of the frame relative to the first-frame viewpoint, progressively revealing more of the illuminated path ahead.
+frame_0000000128-frame_0000000256:
+The first frame depicts a narrow, wet alleyway at night, receding into the distance. To the immediate left, a dark-tiled building with an illuminated rectangular window and a black bicycle leaning against its lower section are visible. A green sign with Japanese text stands upright further down the left wall. The alley's paved ground reflects the light from numerous illuminated vertical signs lining both sides of the path, which also feature Japanese characters. To the right, a utility pole heavily adorned with signs stands next to two orange traffic cones, blue containers, white bags, and a low brick wall topped by small trees.
+end of description
+The camera slowly advances forward into the alleyway. As the perspective progresses, the foreground objects from the first frame, specifically the bicycle on the left and the lower part of the utility pole on the right, gradually move out of the frame towards the bottom left and bottom right edges, respectively. The view deepens into the alley, making the illuminated signs that were previously further down the path appear progressively closer to the moving viewer, while remaining in front of the initial viewpoint. No new scenes or objects are revealed from behind the first-frame viewpoint or to its immediate sides; the scene is continuously traversed forward.
+frame_0000000256-frame_0000000384:
+The first frame shows a wet urban alley at night, receding into the distance under a dark sky, illuminated by numerous streetlights overhead. To the left, buildings with warm glowing windows and multiple vertical signs are visible, with a green sign and part of a bicycle in the immediate foreground. To the right, a tall utility pole with green and white signs stands prominently, behind which are several bins, piled trash bags, and a brick wall topped with green foliage.
+end of description
+As the frames progress, the viewpoint subtly pans to the right and slightly forward, causing the prominent utility pole on the right to shift slightly left relative to the viewer. This movement gradually reveals more of the brick wall, foliage, and trash bins further to the right of the first-frame viewpoint. Concurrently, the bicycle previously visible on the far left of the first frame slowly moves out of view to the left.
+frame_0000000384-frame_0000000512:
+The first frame depicts a narrow, brightly lit street at night, extending into the distance with buildings on either side. Immediately to the left, a green sign and a bright yellow sign are visible against a building with lit windows, while on the right, multiple trash bins and piled garbage bags sit alongside a brick wall and foliage.
+end of description
+Throughout the subsequent frames, the viewer's perspective slowly progresses forward along the street. Consequently, the foreground elements on both sides gradually move further out of frame to the left and right, bringing the more distant street and buildings incrementally closer and slightly larger.
+frame_0000000512-frame_0000000640:
+The first frame depicts a wet, narrow city street at night, illuminated by numerous signs and overhead lights that recede into the distance. To the viewer's immediate left, buildings feature glowing windows and vertical Japanese signs, while to the right, a low brick wall, green bushes, a utility pole with a lit sign, and a pile of trash bags with bins occupy the foreground.
+end of description
+Subsequently, the camera slowly pans to the right, causing the entire scene to subtly shift leftward from the first-frame viewpoint. This movement gradually reveals more of the right side of the street, including additional details of the brick wall and bushes, while simultaneously moving elements on the far left partially out of view.
+frame_0000000640-frame_0000000768:
+First, a narrow, wet alleyway at night recedes into the distance, flanked by buildings with illuminated signs and streetlights. To the immediate left is a building facade with a yellow sign and a purple banner, while a dark pole with a red sign and a low hedge are to the immediate right.
+end of description
+The following frames show a subtle forward movement of the viewpoint into the alley, causing the immediate foreground objects like the purple banner and the dark pole to gradually shift slightly outwards from the center, revealing more of the path ahead relative to the initial perspective.
+frame_0000000768-frame_0000000896:
+The first frame presents a nighttime view of a wet, reflective Japanese street receding into the distance, lined by buildings with numerous signs and air conditioning units. On the immediate left, a purple banner partially obscures a building with a bright yellow restaurant sign and white railings, while on the right, a green hedge and a utility pole with multiple signs are visible, leading to several triangular streetlights overhead.
+
+end of description
+
+The camera subtly pans right and moves slightly backward. This causes the purple banner on the far left to gradually exit the frame, revealing more of the building behind it on the left. Simultaneously, the view on the right expands slightly, showing more of the scene beyond the utility pole relative to the initial frame's right edge.

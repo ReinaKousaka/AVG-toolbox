@@ -1,0 +1,14 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a winding road in the foreground, leading towards the middle distance where it curves right. To the left, a steep mountain slope covered in autumn-colored trees rises prominently, with a small wooden building nestled at its base. On the right, a multi-story building under construction is visible, along with a church steeple peeking from behind another structure, and a large construction crane extending from the upper right, partially obscured by the bright sun and lens flare in the sky. Distant mountains frame the background.
+end of description
+As the viewer moves forward along the road, the construction crane and the building under construction on the right recede and move out of view. The church, initially partially obscured, becomes more prominent on the right side of the road. Further progression reveals a metal guardrail appearing alongside the road to the right and a new residential building coming into view, replacing the construction site. Simultaneously, the forested mountain and the distant peaks on the left shift as the initial small wooden building recedes.
+frame_0000000128-frame_0000000256:
+The first frame shows a paved road extending into the distance, curving slightly right, with a green field and a mountain adorned with autumn trees on the left, and a guardrail leading to a beige building with a white van on the right, all under a bright, sun-drenched sky with distant mountains.
+
+end of description
+
+As the viewpoint moves forward along the road, the beige building and white van on the right recede and exit the frame to the right, making way for an expanding green field and a dark barrier. Concurrently, a power line structure becomes visible on the left mountain, and two red 'no entry' signs appear further down the road, one on each side, as the valley opens up towards the distant mountains ahead.
+frame_0000000256-frame_0000000384:
+The first frame shows a paved road extending towards distant mountains under a bright, sun-drenched blue sky with contrails. Green fields flank both sides, with an autumn forest and power lines to the left and two 'no entry' signs visible near the viewer on either side. A white vehicle is far down the road ahead.
+end of description
+As the viewpoint progresses forward, the 'no entry' signs move out of frame, revealing more of the roadside. Roadside markers appear and pass on the right, and a large white rolled object becomes visible further along the left shoulder, while the distant vehicle slowly moves away.

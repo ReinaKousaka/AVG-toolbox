@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a snow-dusted, muddy road with puddles receding into the distance, flanked by wooden fences and snow-covered fields to the viewer's right and a village with buildings and fences to the viewer's left. A utility pole stands slightly left of the road's center in the midground, with distant mountains and a bright, hazy sun visible in the background.
+end of description
+As the frames progress, the viewpoint moves forward along the road, causing the foreground puddles and dirt to recede towards the background from the initial viewpoint. Simultaneously, the utility pole, village structures, and fences on both sides of the road progressively enlarge and reveal more detail as the camera advances towards them.
+frame_0000000128-frame_0000000256:
+The first frame presents a muddy, snow-edged road leading towards distant snow-capped mountains with a bright sunburst. A wooden utility pole, a small building, and a fence are to the left, paralleled by another fence and snowy ground on the right.
+end of description
+As the viewpoint moves forward along the road, the utility pole and initial small building on the left move out of view. A larger house further ahead on the left and a parked vehicle on the left side of the road are progressively revealed. Finally, birds appear in the upper left sky as the viewer continues moving forward.
+frame_0000000256-frame_0000000384:
+The first frame shows a muddy road with tire tracks extending directly ahead from the viewer, bordered by snow-covered ground. To the left, houses, a wooden fence, and a parked black SUV are visible, with a utility pole further along, while a rustic wooden fence runs along the right side towards a sunlit, hazy mountain range in the background and a bird flying in the upper left sky.
+end of description
+As the viewpoint moves forward, the black SUV on the left drives away and exits the frame, revealing a white car behind it, which then also passes by the left side. The utility pole and other foreground elements on both sides progressively approach and then recede from the viewer's vision as the journey continues.

@@ -1,0 +1,32 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a train track curving gently to the left, receding into a rural landscape under a bright, clear sky with the sun low on the left. To the left are tilled fields with snow patches and a distant house, while to the right, a utility pole with overhead wires stands amidst dry grass, leading to a small building and another house further along the tracks.
+end of description
+As the viewpoint moves forward along the tracks, the utility pole and other structures on the right side pass the viewer. Subsequently, several large, white wrapped hay bales appear on the right side of the tracks, coming into view from the middle distance and getting progressively closer to the viewer's position.
+frame_0000000128-frame_0000000256:
+In the first frame, train tracks curve from the bottom center into the distance, flanked by dry grass and patches of snow. Overhead wires cross the clear blue sky, above a field and distant houses on the left, and white hay bales, a shed, and a house to the right.
+end of description
+As the perspective advances along the tracks, the white hay bales and houses on the right move out of view to the right of the original viewpoint. Concurrently, a tall utility pole with wires emerges from the right side, steadily moving closer to the tracks and eventually passing by to the right of the initial viewpoint. The surrounding landscape, including distant trees and fields, continuously shifts past the viewer.
+frame_0000000256-frame_0000000384:
+The first frame displays railway tracks curving into the distance, centered in the frame, flanked by an upward-sloping field of dry grass with patches of snow on the left and a line of bare-branched trees and utility poles on the right. Overhead wires run across the upper portion, beneath a clear blue sky and a bright low sun on the far left horizon; a red building is visible behind the trees on the right.
+
+end of description
+
+As the scene progresses, the viewer moves forward along the tracks. The trees, utility poles, and the red building on the right recede towards the viewer's right-rear, eventually passing out of frame relative to the initial viewpoint. Concurrently, the fields on the left move towards the viewer's left-rear, revealing new segments of the landscape ahead from the original foreground.
+frame_0000000384-frame_0000000512:
+The first frame presents a forward view along two railway tracks receding into the distance under a clear blue sky, with the sun low on the horizon to the upper left illuminating a muddy field with patches of water on the left, and a dirt path lined with bare trees alongside a hilly landscape on the right.
+end of description
+As the scene progresses, the viewpoint moves forward along the tracks, causing the foreground elements like the muddy field and trees to recede. A utility pole with overhead wires gradually emerges and approaches on the right side of the tracks. Shortly after, a triangular yellow sign with a red border becomes visible on the right, also approaching the viewer.
+frame_0000000512-frame_0000000640:
+The first frame depicts a railway track extending centrally into the distant horizon under a clear sky, with the sun low on the left illuminating a muddy or watery field and bare trees. To the right, a line of white-barked trees and a wooden pole flank the tracks, leading to a gentle hill, while overhead lines crisscross above the viewer.
+
+end of description
+As the viewpoint advances along the tracks, the initial foreground objects, including the pole on the far right and the sunlit terrain on the left, recede and move out of view behind the first-frame position. Distant trees on both sides gradually approach and pass the viewer. Further along, a yellow signal light eventually appears and moves closer on a pole to the right side of the tracks, all while the landscape continuously shifts forward relative to the initial viewpoint.
+frame_0000000640-frame_0000000768:
+From a forward-facing perspective, twin train tracks stretch into the distant horizon, flanked by brown earth and sparse trees. To the left, a partially frozen body of water reflects the sun, while to the right, a field with some snow leads to more trees and a distant wooded hill. A tall utility pole with overhead wires is positioned to the left of the tracks, and a black train signal pole with a yellow light is immediately to the right.
+end of description
+The viewpoint moves forward along the tracks, causing the train signal pole and the utility pole to recede and exit the frame. The tracks then transition onto a bridge structure with railings that extends into the foreground. The scenery on either side, including the river to the left and fields to the right, becomes more prominent as the viewer travels over the bridge. As the journey continues, a new arched structure becomes visible in the distance on the left side of the river.
+frame_0000000768-frame_0000000896:
+A perspective from atop train tracks shows them extending centrally forward over a bridge with metal railings on either side. To the left, a low sun reflects on a partially frozen river running beneath a distant road bridge, while bare trees line the banks. On the right, sparse vegetation transitions to dense forest and distant hills under a clear blue sky, with overhead power lines traversing the scene.
+
+end of description
+As the viewpoint moves forward, a tall metallic overhead wire support structure approaches from the distance on the left side, progressively growing larger before passing the viewer. Simultaneously, a white car, followed by another vehicle, appear and traverse the road bridge situated to the left of the tracks, moving from left to right across the frame.

@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a wet city street at night, seen from a crosswalk directly in front of the viewer. A wide road extends into the distance, flanked by buildings with illuminated signs (e.g., 'BURGER KING' on the left) and trees. Multiple cars with bright headlights are visible further down the wet road, reflecting streetlights and distant green traffic lights.
+end of description
+Subsequently, a white car appears and moves forward on the right side of the road, approaching the viewer's current position. Concurrently, the cars in the middle distance also subtly advance further down the street.
+frame_0000000128-frame_0000000256:
+The first frame depicts a wide, wet city street at night, looking straight down a multi-lane road where streetlights and building signs cast vibrant reflections on the asphalt. A prominent crosswalk is in the immediate foreground, leading to a long stretch of road lined by buildings with illuminated signs and trees. To the left, a white car with bright headlights is visible, while a white SUV/van is positioned to the right of the crosswalk.
+end of description
+In subsequent frames, the white car on the left slowly advances forward, and the white SUV/van on the right also moves ahead, gradually receding further down the street from the first-frame viewpoint. The general traffic flow subtly progresses into the distance, causing the brilliant reflections on the wet road to shift and elongate.
+frame_0000000256-frame_0000000384:
+A wet city street at night extends into the distance from the viewer's position on a zebra crossing. A white minivan is parked on the right side of the road, next to a sidewalk lined with buildings displaying glowing signs and streetlights that reflect on the wet asphalt. Numerous vehicles with illuminated headlights are visible further down the road on the left.
+end of description
+The white minivan on the right slowly moves forward, away from the viewer, progressively revealing more of the sidewalk and a traffic pole. A green pedestrian signal subsequently illuminates on the far right, and a dark-clad figure becomes visible on the sidewalk behind where the minivan was parked.

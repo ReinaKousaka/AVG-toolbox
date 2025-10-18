@@ -1,0 +1,26 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a dirt path stretching from the foreground into a dense forest, lined with numerous tall tree trunks and verdant green foliage. A prominent tree stands to the viewer's immediate left, and another to the right, while the path extends into the background, where it appears to curve slightly right amidst more trees.
+end of description
+In subsequent frames, the viewpoint subtly advances forward along the path, revealing more of the path and trees previously ahead of the initial position. The surrounding trees and foliage to the sides and overhead slowly shift, moving from the midground into the foreground as the viewer progresses deeper into the forest.
+frame_0000000128-frame_0000000256:
+The first frame displays a dirt path receding into a dense forest, flanked by numerous tall tree trunks and lush green foliage on both sides, with the path narrowing into a tree-lined opening in the background. end of description. The following frames depict a continuous forward movement along this path, causing previously midground trees to approach the foreground while new sections of the path and additional distant forest elements are progressively revealed further ahead.
+frame_0000000256-frame_0000000384:
+The first frame displays a dirt path extending straight into a dense wooded area, bordered by numerous tall trees with green foliage forming a thick canopy overhead. A large tree trunk stands prominently to the viewer's immediate right, with another slightly further back on the left, both framing the path ahead.
+end of description
+As the frames progress, the viewpoint steadily moves forward along the path, causing the initial foreground trees to recede and eventually move out of view to the sides. The pathway and additional trees, previously in the mid-ground and background relative to the first-frame viewpoint, now approach the foreground, revealing more of the continuous wooded avenue ahead.
+frame_0000000384-frame_0000000512:
+The first frame displays a dirt path extending from the bottom center into the middle distance, framed by numerous tall trees with green foliage that form a dense canopy overhead. A thick tree trunk is visible on the far left edge, and another on the far right edge, both relatively close to the viewer. The path subtly curves towards the right in the background, leading deeper into the verdant forest. The text 'SEOUL WALKER' is positioned in the bottom left corner.
+end of description
+As the frames progress, the viewpoint steadily moves forward along the path, simulating a walk through the forest. The trees initially on the far left and right appear to recede and pass behind the viewer's initial position. Concurrently, the path and trees previously in the middle and far distance gradually advance towards the viewer, becoming larger and revealing new segments of the path and surrounding greenery further ahead from the original viewpoint.
+frame_0000000512-frame_0000000640:
+The first frame presents a narrow dirt path receding into a dense forest, bordered by numerous tall tree trunks and verdant foliage, with a "SEOUL WALKER" watermark positioned in the bottom-left.
+end of description
+The viewpoint then steadily moves forward along this winding path. As the viewer progresses, the trees and path details initially visible in the mid-ground and background relative to the first frame's viewpoint gradually approach and pass the initial viewpoint's location, continuously revealing new sections of the same forest path further ahead.
+frame_0000000640-frame_0000000768:
+A narrow dirt path stretches into a dense forest, flanked by numerous tall tree trunks and verdant foliage that forms a canopy overhead. Exposed tree roots crisscross the path in the foreground, and a person in light attire is visible walking away in the mid-distance to the right.
+end of description
+As the viewpoint moves steadily forward, the path continuously unfolds, revealing new sections of the forest ahead of the viewer. The foreground trees recede into the mid-distance, and the person initially seen on the right disappears from view as the camera progresses deeper into the woods.
+frame_0000000768-frame_0000000896:
+The first frame depicts a dirt path winding into a forest, flanked by numerous tall trees. In the immediate foreground, two thick tree trunks partially frame the view on the far left and far right, with a faint figure visible walking away down the path in the mid-distance amidst dense green foliage.
+end of description.
+As the viewpoint advances through subsequent frames, the foreground tree trunks move out of sight to the sides, progressively revealing more of the path ahead and the surrounding forest greenery. The distant figure also continues to recede from the initial viewpoint.

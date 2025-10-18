@@ -1,0 +1,11 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a street scene on a bright, partly cloudy day. To the immediate right, the viewer stands beside a stone building with a dark red-framed window, revealing part of a stone wall. A silver sedan is parked on the street to the left of the viewer, facing away and casting a shadow on the adjacent sidewalk. Further ahead on the street, a black car is visible moving away to the left, while a white van is parked on the right-hand side of the road. A continuous line of stone houses with various architectural details extends into the distance on both sides of the street.
+
+end of description
+The viewpoint moves steadily forward along the sidewalk. The black car on the street, initially to the left of the silver sedan, moves further away from the first-frame viewpoint and eventually exits the frame to the far left. A dark brown door on the stone building to the right, previously obscured by the closer part of the building, progressively becomes visible as the viewer advances. The silver sedan and the white van ahead remain in their positions on the street, appearing to shift their relative placement within the frame as the first-frame viewpoint moves forward, revealing more of the street and buildings ahead.
+frame_0000000128-frame_0000000256:
+The first frame displays a street scene with a silver BMW sedan parked on the left mid-ground, its rear facing the viewer. To the right, a stone building wall with a brown window frame borders a sidewalk, which extends past a low stone wall and metal fence, leading to further stone houses. More stone houses line the left side of the street, with a white van visible in the distance under a partly cloudy sky.
+
+end of description
+
+The silver BMW moves forward, progressively exiting the frame to the left and revealing the empty street and sidewalk it occupied. As it departs, a blue object briefly appears inside its window, and a red door on a building further down the right side becomes visible as the viewpoint subtly shifts forward.

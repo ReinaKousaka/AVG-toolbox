@@ -1,0 +1,28 @@
+frame_0000000000-frame_0000000128:
+A silver vehicle's hood occupies the bottom foreground. A paved road stretches into the midground, flanked by a low stone wall on the right and green grass with a white marker post on the left. In the distant midground, two figures are on the road, slightly left of center. The background features verdant mountains on both sides, leading to snow-capped peaks under a clear blue sky.
+end of description
+The vehicle proceeds forward, causing the road, the stone wall to the right, and the grassy field to the left to advance towards the viewer. The two figures ahead on the road progressively approach and enlarge, moving from the midground closer to the viewer's position. A brown cow becomes visible and more distinct in the far left field, relative to the initial viewpoint.
+frame_0000000128-frame_0000000256:
+The first frame captures a view from a vehicle, with its silver hood visible at the bottom. An asphalt road stretches centrally into the distance, flanked by rising green grassy slopes on both sides. To the left, a white roadside post stands, and further back, a small stream meanders down the slope. On the right, a stone retaining wall parallels the road. In the mid-distance, three individuals are walking on the left side of the road, while snow-capped mountains dominate the far background under a clear blue sky.
+end of description
+The three individuals, initially walking on the distant left side of the road, progressively approach the first-frame viewpoint. They continue along the road's left edge, moving closer until they effectively pass the location of the initial viewpoint to its left. By the final frames, these individuals have moved significantly closer and are positioned to the viewer's immediate left, walking away from the first-frame viewpoint.
+frame_0000000256-frame_0000000384:
+The first frame displays a paved road stretching into a mountain valley, flanked by green slopes and distant snow-capped peaks under a clear blue sky. At the bottom, part of a silver vehicle's hood is visible, while two hikers with backpacks walk away on the road's left, and a stone retaining wall borders the right.
+end of description
+As the frames progress, the vehicle moves forward, causing the two hikers to recede and eventually exit the left side of the view. Concurrently, a distant cyclist on the road ahead becomes more prominent as the vehicle approaches them, and the stone retaining wall on the right appears to pass by the viewer's immediate foreground.
+frame_0000000384-frame_0000000512:
+The first frame displays a paved road leading into a valley surrounded by green, snow-capped mountains under a clear sky, viewed from a car's hood, with a single distant cyclist centrally positioned on the road.
+end of description
+A second cyclist emerges further down the road behind the first, and both gradually approach the viewer, eventually riding side-by-side. The cyclists continue advancing, passing to the immediate left of the first-frame viewpoint. As the viewer's perspective advances, both cyclists fully pass to the left and behind the original viewpoint, clearing the road ahead.
+frame_0000000512-frame_0000000640:
+The first frame shows a view from a vehicle, with a silver car hood at the bottom. A paved road stretches forward, framed by green, grassy slopes on the left and right, leading towards snow-capped mountains in the distant background under a clear blue sky. White and orange/red road markers are visible along both sides of the road ahead of the viewer.
+end of description
+As the vehicle progresses, the road markers and immediate grassy surroundings move closer to the viewer and eventually out of the bottom sides of the frame. New road markers appear from further down the road, approaching the viewer. The distant mountains and the overall valley vista remain ahead, gradually revealing more of the path as the viewer moves forward along the road.
+frame_0000000640-frame_0000000768:
+The first frame presents a mountain road from a car's perspective, with a silver hood visible at the bottom. An asphalt road curves gently left into a valley flanked by green, grassy hills and distant snow-capped mountains, with a white and red reflective marker post standing to the right of the road.
+end of description
+As the vehicle moves forward, the road and surrounding landscape dynamically unfold, revealing new sections of the green hills and the road ahead. The initial marker post on the right recedes, while a new white and red marker post appears to the left and a dirt patch becomes visible to the right of the road, all shifting towards the background relative to the moving viewpoint.
+frame_0000000768-frame_0000000896:
+In the first frame, the light grey hood of a vehicle occupies the bottom foreground. A paved road curves gently to the left in the mid-ground, framed by expansive green, grassy mountain slopes on both sides. Distant snow-capped peaks are visible in the far background beneath a clear blue sky, while a dark marker post stands on the left shoulder and a dirt patch with a white fence line is to the right of the road.
+end of description
+The video shows a steady forward movement along the road as the vehicle progresses through the mountainous landscape. The road and its immediate surroundings continuously advance towards the viewer, with the grassy slopes on either side moving past. In frame 8, a triangular warning sign appears on the right side of the road in the mid-distance, relative to the initial viewpoint. This sign subsequently moves closer in frame 9, confirming the vehicle's sustained motion.

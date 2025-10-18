@@ -1,0 +1,14 @@
+frame_0000000000-frame_0000000128:
+In the first frame, a gray boat labeled "HEEN EN WEER 1" is prominent in the foreground to the right, closest to the viewer. To its left and slightly further back, a light-colored house boat with red window frames floats on the water. Dark multi-story buildings with a small green tree line the right canal bank behind the gray boat, while more distant buildings and a large leafy tree are visible on the left bank.
+end of description
+As the camera moves forward, the gray boat shifts out of view to the right, revealing more of the dark canal-side buildings and a smaller brown boat with a red buoy moored further along the right bank. Simultaneously, the house boat on the left side of the canal gradually moves forward relative to the viewer, displaying more of its length.
+frame_0000000128-frame_0000000256:
+The first frame displays a canal with dark, reflective water in the foreground. To the right, a long, light-colored house-boat featuring red-framed windows and an angled red front section is moored. Behind it and further right are multi-story dark buildings with numerous windows. A large, vibrant green-leafed tree stands to the mid-left, under a clear blue sky.
+
+end of description
+
+The camera moves forward along the canal. The house-boat progressively slides out of view to the right, gradually revealing more of the canal bank and the dark buildings that were previously partially obscured by its front section (from the first-frame perspective). The large green tree initially on the left becomes more centered as the view advances, continuously bringing into sight new sections of the canal and further buildings ahead and to the right of the initial scene.
+frame_0000000256-frame_0000000384:
+The first frame captures a low-angle view from a canal, featuring a light-colored houseboat with red-framed windows immediately to the right. Behind the houseboat, historic European buildings with dark facades rise into the background, while a large green tree and a lamppost are visible further left and behind the houseboat.
+end of description.
+As the view progresses, the camera moves forward along the canal, revealing new sections of the houseboat and the buildings behind it, which emerge from the right side of the frame relative to the initial view. Concurrently, the houseboat, initially prominent to the right, along with the tree and lamppost on the far left, gradually slide out of view towards the left, replaced by a stone bridge structure that becomes visible from the far left, extending towards the center.

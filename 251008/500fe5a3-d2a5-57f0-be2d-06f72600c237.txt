@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a paved road curving gently to the right in the midground, marked by a dashed white center line and a solid white line on its right edge. To the viewer's left, a dense forest of green trees appears slightly blurred, with a brown utility pole visible within it. On the right, a concrete retaining wall partially covered by grass and vegetation borders the road, rising to a steep, tree-covered hillside, while a large green mountain peak sits in the background against a blue sky with scattered white clouds.
+end of description
+As the frames progress, the viewpoint moves forward along the road. The blurred trees and the pole on the left pass by the viewer and exit the frame. Simultaneously, the concrete retaining wall on the right recedes, giving way to a more natural, unpaved hillside covered in greenery. The distant mountain ahead gradually shifts slightly to the right as the road's curve becomes more pronounced.
+frame_0000000128-frame_0000000256:
+The first frame shows a paved road, marked with a double solid white line down its center and a single white shoulder line, extending forward and curving slightly to the right, flanked by a grassy verge and dense trees on the left, and a steep, rocky, vegetated embankment on the right. In the distance, a large, green mountain peak rises under a blue sky with scattered white clouds.
+end of description
+The viewpoint advances along the road, causing the road surface, a white pole on the left, and rocky debris on the right shoulder to continuously approach and then pass the viewer's original position. The dense trees and the steep embankment flanking the road also progressively draw closer, revealing new sections of the landscape ahead as the camera traverses the winding path.
+frame_0000000256-frame_0000000384:
+A paved road with a broken white center line and a solid white right shoulder line extends forward, curving left into the distance. To the left, a grassy verge, a yellow pole, and lush green forested hills culminating in a mountain peak dominate the background under a blue, cloudy sky. To the right, a steep, rocky embankment covered in green vegetation rises sharply.
+end of description
+As the frames progress, the viewpoint moves forward along the road, causing the previously described landscape to recede. A concrete retaining wall on the right embankment gradually becomes more prominent and closer to the viewer, while the vegetation along the road's edge blurs with motion as it passes.

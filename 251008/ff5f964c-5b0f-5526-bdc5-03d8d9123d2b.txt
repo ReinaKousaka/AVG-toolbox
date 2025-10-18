@@ -1,0 +1,10 @@
+frame_0000000000-frame_0000000128:
+In the first frame, the viewer is on a paved road with a white dashed center line and solid edge lines. To the left, a metal guardrail runs parallel to the road, with some light-colored buildings beyond it and majestic, tree-covered mountains, some snow-capped, rising in the distance under a clear blue sky. To the right, a narrow sidewalk borders a grassy slope, featuring a prominent large evergreen tree further back, a red triangular warning sign with a pedestrian icon in the mid-ground, and a building with a dark spire visible behind trees.
+
+end of description
+
+As the viewpoint progresses forward along the road, the orange road markings and the red triangular warning sign on the right move towards and then behind the viewer. The large evergreen tree on the right side also moves past the viewer, revealing a yellow diamond-shaped sign further ahead to the right. Concurrently, a white car becomes visible to the left behind the guardrail, approaching the viewer's original position.
+frame_0000000128-frame_0000000256:
+The first frame displays a paved road curving gently to the right, marked by a double white line on the left and a single white line on the right, leading towards a residential area. To the left, a metal guardrail separates the road from a green, grassy slope with distant buildings and majestic, forested mountains featuring snow-capped peaks under a clear blue sky. On the right, a sidewalk runs parallel to a concrete wall densely covered by foliage from large trees overhead, with a yellow diamond-shaped sign positioned on a pole near the viewer.
+end of description
+As the viewpoint moves forward, the yellow diamond sign and the foreground trees on the right recede and pass out of frame. A yellow car briefly appears on the left behind the guardrail before receding and disappearing, while a light-colored building further down the road on the right becomes more prominent. The mountainous background and the road ahead continuously expand into view as the perspective advances.

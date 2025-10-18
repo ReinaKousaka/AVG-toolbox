@@ -1,0 +1,6 @@
+frame_0000000000-frame_0000000128:
+In the first frame, a person on a bicycle, viewed from behind, is positioned in the foreground moving forward along a paved path. To the right, a row of dark bollards extends into the midground. The midground features a wide square with a prominent yellow building and a statue at its center, flanked by large, green-leafed trees. Buildings with red awnings line the left side, while other structures and trees occupy the right, all under bright sunlight.
+
+end of description
+
+The cyclist continues to move away from the viewer, gradually receding into the midground. From frame 5, a new person enters the foreground from the far left, walking towards the right side of the scene, followed by another individual shortly after. These two pedestrians move across the immediate foreground, eventually settling into the left midground, partially obscuring the left side of the path. The background elements, including the buildings, statue, and trees, remain stationary relative to the initial viewpoint.

@@ -1,0 +1,28 @@
+frame_0000000000-frame_0000000128:
+In the first frame, two individuals walk away from the viewer on a paved elevated walkway, flanked by bare-branched trees in concrete planters to their left and right. To the left, behind a tree, a tall streetlamp with a circular light fixture stands, while a planter to the right features a blue mural. The path recedes towards a distant cityscape with numerous buildings under a clear blue sky.
+end of description
+The two individuals continue walking forward, progressively moving further into the distance along the pathway directly ahead. As they walk away from the initial viewpoint, more of the receding path and the urban landscape ahead is revealed.
+frame_0000000128-frame_0000000256:
+A pedestrian walkway occupies the center and lower portion, extending forward from the viewer, with two people in winter coats walking away. To the left and right of the walkway, various concrete planters hold dormant bushes and trees, while a light pole is near the viewer's immediate left and a graffiti planter is to the immediate right. Beyond these, a cityscape of modern buildings fills the background under a clear blue sky.
+end of description
+The camera slowly tracks forward, following the two individuals as they move further away along the path. This motion reveals more of the linear elevated park, with additional planters and distant buildings becoming more prominent within the first-frame's forward view as the camera advances.
+frame_0000000256-frame_0000000384:
+The first frame shows two individuals walking away from the viewer on a light-colored pathway, centrally positioned. To their left and right are numerous large, light-grey concrete planters holding bare-branched trees and sparse shrubs; some yellowish cactus-like plants are partially visible in a planter on the far left foreground. The pathway curves downwards into the midground, with a glass barrier visible along the right side, and a cityscape of various buildings and distant hills forms the background under a bright blue sky.
+end of description
+The two individuals steadily walk further away from the viewer along the pathway, moving deeper into the scene. As they advance, a yellow sign or marker becomes visible on the right side of the path, near a planter, which was initially obscured by the person in the dark coat. The surrounding environment of planters and the distant cityscape remain spatially constant relative to the initial viewpoint.
+frame_0000000384-frame_0000000512:
+The first frame depicts an elevated outdoor walkway under a clear blue sky, with a cityscape visible in the background. In the foreground, concrete planters with sparse, leafless trees are present on both the left and right, flanking a paved pathway. Two individuals walk away from the viewer in the midground: one in a light coat and red scarf, and another in a dark puffer jacket, with a yellow 'wet floor' sign positioned to the right of the latter.
+end of description
+The two people continue walking further along the path, moving away from the viewer's initial position. A small black dog, on a leash, emerges from behind the person in the dark coat, also moving forward. As the viewpoint advances, a red archway-like structure in the far distance to the left and a tall, light-colored pole to the right of the path are progressively revealed further ahead.
+frame_0000000512-frame_0000000640:
+The first frame presents an elevated outdoor pathway with two people walking away from the viewer, one in a light coat and another in a dark puffer jacket. To the viewer's left, a long concrete planter filled with light brown bushes accompanies the path, while to the right, a circular planter, a tall pole, and a mesh fence overlook the city skyline in the background.
+end of description
+As the camera moves forward, the two individuals continue walking away, and the pathway's surface ahead of the first-frame viewpoint progressively reveals yellow-patterned sections. The planters on both sides gradually shift out of the immediate foreground, further to the left and right edges of the view, exposing more of the extending path.
+frame_0000000640-frame_0000000768:
+The first frame depicts an elevated pedestrian walkway flanked by planters with dormant bushes, leading into a cityscape under a blue sky. In the foreground, two individuals, one in a light grey coat (center-right) and another in a dark jacket (far right), walk away from the viewer.
+end of description
+As the sequence progresses, the viewpoint advances along the path. The two people in the foreground continue walking away, gradually receding from the viewer. The large reddish-brown bush on the right moves past, revealing a newly visible metal fence and more of the distant city to its right. Similarly, the bushes on the left also recede as the scene unfolds.
+frame_0000000768-frame_0000000896:
+The first frame shows the back of a person wearing a hat, red scarf, and grey jacket in the foreground-right, facing a paved walkway with a central yellow strip. Circular concrete planters with leafless bushes line both sides of the path, leading to two people walking away in the midground, with distant city buildings, a white tent, and a red cylindrical structure visible under a blue sky.
+end of description
+As the viewpoint moves forward along the walkway, the person in the foreground slowly shifts out of frame to the right, revealing more of the path and additional portions of the cityscape beyond. The two midground walkers recede further into the distance, and the planters initially closest to the viewer appear to move further to the left and right, underscoring the forward progression from the original viewpoint.

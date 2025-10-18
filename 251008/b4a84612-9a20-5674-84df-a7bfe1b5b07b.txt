@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+A wet, downward-sloping asphalt road with a white arrow and cross mark in the foreground leads into the distance under an overcast sky. A white minivan is parked on the left beside an ivy-covered brick wall and a light-colored building, with an orange cone and striped pole further ahead. On the right, a tall green hedge lines the road, where a second white car and distant houses on a hillside are visible further down.
+end of description
+No discernible dynamic changes or newly revealed objects occur in the subsequent frames; the static scene remains identical.
+frame_0000000128-frame_0000000256:
+The first frame features a wet, upward-sloping road with a white minivan parked on the left foreground, beside an ivy-covered brick wall and stone steps. On the right, a tall hedge lines the road, while a distant white car and a person with an umbrella are visible further up the street, with houses and trees in the background under a cloudy sky.
+end of description
+As the video progresses, the white minivan on the left slowly moves forward and slightly right, driving away from the viewer. Concurrently, a second person holding a black umbrella emerges from the right foreground, also walking away from the viewer, while the initial umbrella-holder continues further up the road.
+frame_0000000256-frame_0000000384:
+The first frame depicts a wet, downward-sloping street on an overcast, rainy day. In the immediate foreground to the right, a person walks away from the viewer, holding a black umbrella. To the left, a white minivan is partially visible on the wet asphalt road. The street is flanked by a stone wall covered in ivy on the left and a tall, dense green hedge on the right, both rising uphill. Further down the road, two other individuals with umbrellas walk away, and a white car is visible, while houses and trees occupy the misty background.
+end of description
+The person in the foreground continues to walk forward and slightly to the right, moving away from the first-frame viewpoint along the wet path. The two distant figures with umbrellas also progress further down the road, receding from the viewer's initial perspective. The white van on the left remains in its initial position.

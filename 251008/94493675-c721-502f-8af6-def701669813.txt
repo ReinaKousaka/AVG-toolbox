@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a wooden pedestrian bridge extending forward from the viewer, with metal railings on both sides. To the right, a canal flows alongside, bordered by buildings, while to the left, another elevated pathway and a modern brick building are visible, all under a cloudy sky with more structures receding into the distance.
+end of description
+As the viewpoint progresses through the subsequent frames, the viewer moves steadily forward along the wooden bridge. This motion causes the metal railings, the canal, and the surrounding buildings to gradually shift from appearing directly ahead and to the sides, passing by the viewer's current position.
+frame_0000000128-frame_0000000256:
+The first frame presents a wooden walkway extending into the distance from the bottom-center, bordered by silver metal railings on both sides. To the left, a multi-story brick building stands prominently, with a lower ramp section visible in the near left. To the right, a canal runs parallel, its far bank lined with a variety of buildings, and a partly cloudy sky overhead.
+end of description
+As the frames progress, the viewpoint moves forward along the wooden walkway. The brick building to the left and the row of buildings along the canal on the right, initially ahead and to the sides, gradually recede into the background. Simultaneously, the lower ramp structure on the far left foreground moves towards the mid-ground, revealing more of the main walkway that was previously ahead of the viewer.
+frame_0000000256-frame_0000000384:
+The first frame shows a wooden boardwalk extending directly away from the viewer, flanked by metal railings on both sides. To the viewer's left stands a modern brick building, while a canal runs parallel to the boardwalk on the right, lined by various buildings on its far bank. The sky above is cloudy.
+end of description
+No dynamic changes occur, nor are any new objects or scenes revealed in the subsequent frames, as all images in the sequence are identical to the first-frame viewpoint.

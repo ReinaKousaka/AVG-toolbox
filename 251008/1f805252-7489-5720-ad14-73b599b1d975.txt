@@ -1,0 +1,16 @@
+frame_0000000000-frame_0000000128:
+A dirt path occupies the bottom center, ascending into the mid-ground, flanked by a steep, grassy slope with a fence on the left, and a long white house with a red tiled roof on the right. Tall trees with lush green leaves line both sides of the path, with one prominent trunk in the near left foreground and another to the right of the path. A white bench rests in front of the house on the right, while distant rooftops are faintly visible beyond the fence on the far left, and the background is obscured by fog. An informational overlay is present in the top right corner.
+end of description
+The viewer advances forward along the path, causing the trees on both the left and right sides to recede towards the midground and background relative to the initial viewpoint. The white house on the right, initially somewhat obscured, becomes more fully visible as the viewer passes the foreground trees, revealing more of its length and a thin pole to its right. The distant, hazy landscape behind the fence on the left and beyond the house to the right also gradually becomes slightly clearer, revealing more structures through the receding mist. The numerical overlay in the top right corner updates, indicating progress.
+frame_0000000128-frame_0000000256:
+The viewer is positioned on a gravel path, flanked by a row of tall trees with visible trunks and roots on a grassy slope to the left. To the right, a long, white, single-story building with a prominent red-tiled roof and multiple windows stands, featuring a stone bench near its front. The background is enveloped in mist, and a data overlay indicating "7:00 km" and "Grade 8%" is in the top right.
+
+end of description
+
+As the viewpoint progresses forward along the path, the trees on the left appear closer before passing by, while the white building on the right slightly recedes. A person pushing a stroller, initially a distant figure down the path to the left, emerges from the misty background and slowly approaches the viewer as the displayed distance decreases from 7.00 km to 6.25 km.
+frame_0000000256-frame_0000000384:
+A gravel path extends into a misty distance, framed by a dense canopy of trees on both sides, with a white building and a stone bench to the right, and a grassy slope revealing red rooftops to the left. Two people push a stroller away from the viewer along the path, and an informational overlay is present in the upper right.
+
+end of description
+
+The viewpoint steadily moves forward along the path, causing the two individuals with the stroller to recede further into the distance. Simultaneously, the white building and stone bench on the right gradually shift to the viewer's right and eventually out of the immediate foreground, with the trees lining the path appearing to pass by.

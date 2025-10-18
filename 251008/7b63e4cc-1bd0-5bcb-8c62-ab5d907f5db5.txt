@@ -1,0 +1,30 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a mountain valley view. A dark paved road curves from the bottom center, leading into the midground. To the road's immediate left, a green grassy slope features a wooden post-and-wire fence, while a steep, rock and grass-covered embankment borders the road on the immediate right. Further left, green hillsides dotted with numerous small houses and clusters of trees rise, leading to towering mountains in the background under a blue sky with scattered clouds.
+end of description
+The viewpoint advances along the curving road, causing the fence posts on the left to progressively move past the viewer's left side. Simultaneously, the rocky embankment on the right recedes past the viewer's right, revealing more of the road ahead. The expansive green hills with scattered houses and the distant mountains remain broadly ahead and to the left of the viewer's continuous forward movement.
+frame_0000000128-frame_0000000256:
+The first frame displays a paved road curving towards the upper right, bordered by a wooden fence to the left and a steep, green, vegetated hillside to the right, all leading towards lush green mountains with scattered houses and trees under a partly cloudy sky in the distance.
+end of description
+As the viewpoint moves forward along the road, the fence posts on the left recede, gradually revealing a train track further left, parallel to the road. A dark tunnel entrance becomes visible on the right side of the road, previously hidden behind the initial hillside. Later, a dark vehicle emerges from this tunnel on the right, moving towards the viewer, while a small building with a dark roof, initially behind and above the right hillside, becomes increasingly visible.
+frame_0000000256-frame_0000000384:
+The initial frame reveals a scenic mountainous landscape from a low viewpoint, looking down a paved road that curves right towards a dark tunnel entrance. To the left, a wooden fence parallels verdant hills scattered with buildings and trees, with distant mountains forming the backdrop; on the right, a steep, green hillside features a house perched above the road.
+
+end of description
+
+As the frames progress, the viewpoint advances along the road, causing the wooden fence on the viewer's left to recede towards the rear. The house and vegetated slope, initially positioned on the viewer's right, move closer and then pass rearward, appearing to traverse from the right to the left of the frame. Concurrently, the dark tunnel entrance, previously ahead and to the right, expands significantly as the viewer approaches it.
+frame_0000000384-frame_0000000512:
+The first frame presents a narrow paved road extending into a valley of rolling green hills, dotted with small houses and backed by distant mountains under a cloudy sky. To the left, a fence borders a grassy slope; to the right, a steep embankment features a brown house at its peak, an open garage below, and a winding path ascending to its right. end of description. Subsequently, the viewer's perspective subtly shifts forward and slightly to the right, incrementally revealing more of the steep embankment, the house on its top, and the ascending path located to the right of the paved road.
+frame_0000000512-frame_0000000640:
+In the first frame, a paved road stretches into the midground, curving slightly to the left. To the viewer's immediate left, a wooden fence runs alongside a lush green pasture, which slopes upwards towards a distant valley dotted with houses and trees. To the right, a concrete retaining wall supports a steep, grassy slope covered in dense foliage, behind which a house with a red roof is partially visible, while a wooden-fronted garage/shed with an open entrance is directly adjacent to the road. In the far background, verdant, tree-covered mountains rise under a partly cloudy, blue sky.
+end of description
+There are no dynamic changes or newly revealed objects or scenes in the following frames, as all provided images are identical to the first-frame viewpoint.
+frame_0000000640-frame_0000000768:
+The first frame displays an asphalt road leading into the distance, gently curving left from the bottom center. To the immediate right, a wooden structure resembling a shed or garage with an open entrance is prominent. On the left, a wooden post fence borders a grassy ditch parallel to the road. Beyond the road, lush green hills dotted with small houses, including a distinct white and brown one, extend towards distant, tree-covered mountains under a partly cloudy sky.
+
+end of description
+
+As the perspective advances, the camera moves forward along the road. The wooden structure on the right gradually moves out of frame to the viewer's right. String lights become visible, draped decoratively on the side of the passing wooden structure. Subsequently, a concrete wall partially covered with green vines is revealed on the right, positioned further along the road from the initial wooden structure. The scenic green hills and distant mountains remain ahead in the view.
+frame_0000000768-frame_0000000896:
+The first frame presents a view down an asphalt road curving slightly left, flanked by a concrete wall with vines on the immediate right and a grassy slope with a fence on the left, where a small white house with a red roof is visible in the midground. Behind these, rolling green hills dotted with distant houses and lush mountains rise into a partly cloudy sky.
+end of description
+As the camera moves forward along the road, the concrete wall on the right quickly recedes and moves out of view to the right, revealing more of the steep, tree-covered bank that continues to line the right side of the road. Concurrently, the wooden fence posts on the left pass by and disappear from view, while the small white house on the left remains visible but further back as the path ahead is continuously revealed.

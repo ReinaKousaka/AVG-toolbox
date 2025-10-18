@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a winding dirt path stretching into a dense, verdant forest, flanked by ferns and lush foliage on the left and a prominent moss-covered tree trunk in the midground. To the right, various green bushes line the path, leading towards more distant trees under a bright sky partially visible through the canopy.
+end of description
+As the frames progress, the viewer slowly moves forward along the path. The mossy tree trunk on the left recedes and moves out of frame to the viewer's left, while the path ahead and the surrounding sun-dappled forest interior become more pronounced, revealing more depth within the original scene.
+frame_0000000128-frame_0000000256:
+A winding dirt path curves from the bottom center into a lush, green forest. To the immediate left, dense ferns and undergrowth cover the ground, next to a large, moss and ivy-covered tree trunk. On the right, vibrant green undergrowth and smaller trees line the path, extending towards a slightly more open area. Tall, dark evergreen trees form a dense wall on the left background, while lighter-leaved trees and a hazy sky are visible on the right, with a faint structure discernable in the distant mid-right.
+end of description
+A small dark bird briefly appears perched on a bare branch in the upper mid-right between frames 3 and 4, then disappears. Concurrently, the viewpoint slowly advances along the winding dirt path. The large moss-covered tree on the left moves progressively closer to the viewer and towards the center of the frame. The foreground undergrowth on both sides continuously shifts past, revealing more of the path's curve ahead into the deeper forest.

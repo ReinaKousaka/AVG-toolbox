@@ -1,0 +1,16 @@
+frame_0000000000-frame_0000000128:
+The first frame captures a village street, with a dark brown wooden house and green shutters prominent on the right, extending towards the viewer. To the left, a paved road recedes past a wooden fence and a partial wooden building, leading towards a cluster of traditional houses and a church spire nestled on a lush green hillside backed by forested mountains under a cloudy sky in the distance.
+end of description
+Subsequent frames reveal a slow pan to the left, causing the prominent brown house on the right to gradually recede from view. As the camera shifts, a light-colored wooden building and a large grey industrial container become increasingly visible on the far left, beyond the initial wooden fence. This movement expands the visible scene to the left of the original viewpoint, showing more of the village street and a broader expanse of the green hillside.
+frame_0000000128-frame_0000000256:
+A road leads into a village, flanked by a light-colored wooden house and two grey bins on the left, and a dark brown wooden house with green shutters and a bush on the right, all set against a backdrop of green, tree-covered mountains under a partly cloudy sky.
+end of description
+The camera slowly pulls back and pans slightly to the right, causing both foreground houses to recede and revealing more of the wooden fence on the left and a red vehicle parked further down the road on the right. This movement also widens the overall view, showing more of the village street and the expansive, cloud-dotted blue sky overhead.
+frame_0000000256-frame_0000000384:
+The first frame shows a village road leading into the distance, flanked by a light wooden building and two grey bins on the left, and a dark wooden building on the right, all set against a green hillside covered with more houses and a forested mountain under a cloudy sky.
+end of description
+A red vehicle, initially largely obscured behind the dark wooden building on the right side of the road, gradually moves forward and slightly to the left into the midground in successive frames, becoming fully visible on the right side of the road.
+frame_0000000384-frame_0000000512:
+In the first frame, two gray waste containers sit in the lower-left foreground, partially obscured by a wooden fence, with a building's roof overhang visible above them. To the right, part of a brown building with a red roof is present. A paved road extends into the midground, where a red utility vehicle is parked on the right side of the road, with a white tarp further down on the left. In the background, a green hillside dotted with houses and trees rises, topped by a larger, dark green mountain against a blue, cloudy sky.
+end of description
+The red utility vehicle in the midground progressively moves away from the viewer and to the left of its initial position, continuing further down the road throughout the subsequent frames.

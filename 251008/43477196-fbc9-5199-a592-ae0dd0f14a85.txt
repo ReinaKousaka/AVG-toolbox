@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+In the first frame, a man in a light blue shirt is seen from behind, standing on a tiled outdoor patio beyond two dark door frames, looking towards a cityscape across a body of water, with green foliage in a planter to his left.
+end of description
+The man progressively turns towards the viewer from the patio, first revealing his left profile, then fully facing forward, resting his right hand on the right door frame, and showing a small microphone on his chest. He subsequently raises his left hand in a gesturing motion, then spreads both hands outwards, all while maintaining his position directly in front of the viewer on the patio.
+frame_0000000128-frame_0000000256:
+A man in a teal shirt stands centrally on a tiled patio, facing the viewer with open palms. To his left, green foliage is in a planter beside a metal mesh railing, beyond which lush trees meet a wide river. Across the river, a distant city skyline with numerous skyscrapers, including a prominent slender tower, spans the background under a blue sky, while a reflective glass door is visible to the man's right.
+end of description
+Throughout the subsequent frames, the man remains centrally positioned relative to the first-frame viewpoint, dynamically changing his facial expressions and gesturing with his hands, while the background city skyline and water view remain constant behind him.

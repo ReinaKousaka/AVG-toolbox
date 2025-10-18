@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame captures a sunlit forest scene, dominated by numerous tall tree trunks casting dappled shadows across a dirt path. In the lower right foreground, a prominent moss-covered tree stump with jagged edges is visible, while the forest floor in the midground features fallen logs, exposed roots, and patches of green ferns and moss stretching into the dense background.
+end of description
+The viewpoint slowly advances forward and slightly to the left into the forest. The mossy tree stump in the lower right foreground gradually moves out of the frame to the right. As the camera progresses, new sections of the dirt path and forest floor ahead are revealed, along with additional tree trunks deeper within the woods. The trees initially in the mid-distance appear closer, shifting their relative positions.

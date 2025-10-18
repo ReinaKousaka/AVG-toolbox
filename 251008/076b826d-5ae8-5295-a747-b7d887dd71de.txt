@@ -1,0 +1,14 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a two-lane road with yellow markings leading into the distance, a red-paved bicycle path on the right, and scattered buildings under a cloudy sky. A large tree stands prominently on the far right, partially obscuring a beige house, while a light grey shed and other houses are visible on the left side of the road; a dark car is in the distance, heading towards the viewer.
+end of description
+The dark car progressively draws closer on the road and then passes the viewer on the left. Simultaneously, the large tree on the right recedes, revealing more of the beige house with a bay window and a small trailer parked next to it. A pedestrian is briefly seen walking on the far right sidewalk as the viewpoint effectively moves forward.
+frame_0000000128-frame_0000000256:
+The viewer is on a paved road, looking forward, with a red bike lane marked by dashed yellow lines on the right and a solid yellow line on the left. To the left, red flowers and a hedge are close by, leading to a white house with solar panels and further buildings with distant parked cars. On the right, a large green tree stands prominently near a street lamp, partially obscuring a beige building and a white truck, followed by a dark multi-story building further down the road. Above, a cloudy sky with patches of blue covers the scene, with faint mountains visible on the horizon.
+end of description
+A pedestrian in a black top and light pants emerges from the far right, walking towards the viewer on the sidewalk adjacent to the red bike path. They continue moving left across the frame's right half, passing the street lamp and large tree. Concurrently, a white car appears in the distant center, approaching the viewer on the main road. The pedestrian progresses further, still on the right side of the road, as the white car draws nearer.
+frame_0000000256-frame_0000000384:
+The first frame shows a road with yellow dashed lines in the foreground and midground, splitting into a red-paved bicycle lane on the right and a regular road on the left. To the left, a white residential house with a brown roof and solar panels stands behind a green hedge, with a blue van and a white car visible further down the road. On the right, a dark gray building with red accents, several green trees, a lamppost, and overgrown grass are present.
+
+end of description
+
+A white Mercedes-Benz car initially visible in the midground approaches from the left side of the road, passes the viewer, and disappears behind the initial viewpoint. Subsequently, another white sedan appears further down the road and also approaches on the left, passing the viewer. Simultaneously, the view progresses, showing more of the multi-story building and its signage on the right, while the trees and foreground grass on the right move past.

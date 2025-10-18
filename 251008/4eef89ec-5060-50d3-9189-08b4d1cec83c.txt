@@ -1,0 +1,6 @@
+frame_0000000000-frame_0000000128:
+In the first frame, a vibrant blue lake dominates the mid-to-far ground, with two sailboats, one white and one pink-covered, floating towards the right of the center. To the left foreground, a brown boathouse with a reddish roof sits on a gravelly shore, next to a small boat covered in a blue tarp and a short stone pier extending into the lake. Green and orange-foliaged trees line the lake's left edge, rising into a large, verdant mountain on the far left, while distant mountains are visible across the lake under a bright blue sky with white clouds.
+
+end of description
+
+There are no dynamic changes, newly revealed objects, or scenes in the subsequent frames; all frames are identical to the first.

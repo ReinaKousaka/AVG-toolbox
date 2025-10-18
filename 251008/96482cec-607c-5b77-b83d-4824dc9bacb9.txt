@@ -1,0 +1,16 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a city street with tall buildings on the left, a sidewalk extending into the distance with pedestrians, and a lush park on the right bordered by a row of blue rental bikes. A large tree trunk is centrally located, and cars are visible along the street to the far left, with two women interacting with the bike rack in the foreground on the right.
+end of description
+In the following frames, two men on the sidewalk, initially in the mid-ground, walk steadily towards the viewer's position. Cars on the street to the left of the viewer continue to move, including a yellow taxi driving further away and a silver car remaining stationary. The two women in the foreground on the right subtly shift their stances while remaining near the bike rack.
+frame_0000000128-frame_0000000256:
+In the first frame, two men walk leftwards on the foreground sidewalk, while a central tree and a row of blue "Citibike" rentals line the right side, with a street to the left featuring yellow taxis and distant buildings, and pedestrians walking further ahead.
+end of description
+The two initial men exit the frame to the left as the viewpoint subtly shifts forward, making a cyclist behind the central tree more prominent as he dismounts his black bike. Simultaneously, more people gather around the Citibike station on the right, with a woman in a red top actively interacting with one of the bicycles.
+frame_0000000256-frame_0000000384:
+The first frame shows a bustling city street scene with a Citi Bike docking station to the viewer's right, where a woman in a red top interacts with a bike and a man checks his phone. To the left, a large tree trunk, a fire hydrant, and a cyclist line a sidewalk adjacent to a street with parked and moving cars, backed by multi-story buildings. Directly ahead on the sidewalk, several pedestrians are walking towards a park entrance marked by dense trees on the right.
+end of description
+Throughout the frames, the woman in the red top subtly adjusts her posture while interacting with the bike, and the man to her right shifts his weight slightly. All other visible people and vehicles within the first-frame viewpoint exhibit negligible movement across the subsequent frames.
+frame_0000000384-frame_0000000512:
+The first frame displays a bustling city sidewalk, with a large tree trunk dominating the near left and a woman in a red tank top interacting with blue rental bicycles on the near right. Numerous pedestrians are visible along the midground path, moving towards a distant food cart and a park filled with green trees, while a street with buildings and parked cars runs along the far left.
+end of description
+In subsequent frames, the woman in red on the far right moves further right, eventually exiting the frame from the viewpoint, as two pedestrians in the midground walk forward and away from the viewer along the central path. Concurrently, a man on a bicycle to the mid-left slightly adjusts his posture, and another man in a light blue shirt further down the central path continues to progress forward, moving away into the distance.

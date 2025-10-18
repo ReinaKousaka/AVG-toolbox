@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+In the first frame, a paved two-lane road with a double yellow center line and white shoulder line stretches forward, curving gently to the right in the distance, flanked by dense green forests on both sides. Towering trees with some mossy foliage create an overhead canopy, revealing a bright sky centrally above, and a small bridge structure is faintly visible ahead on the left.
+end of description
+As the viewer progresses, the road's curve becomes more immediate, and the distant bridge structure on the left grows clearer. Subsequently, silver guardrails extend along both sides of the road, and yellow and black striped hazard markers appear, first on the right, then on the left, signaling the approaching turn.
+frame_0000000128-frame_0000000256:
+The first frame depicts a paved road extending into the distance with double yellow center lines, flanked by metal guardrails on the viewer's immediate left and right. Dense forest, displaying green and autumn-colored foliage, rises steeply on both sides, creating a canopy overhead with a bright sky visible centrally towards the distant horizon.
+end of description
+As the viewpoint progresses, the guardrails on both sides gradually recede and disappear, revealing more of the forest floor previously obscured. The continuous movement forward brings new sections of the road and trees, including a prominent mossy branch arching from the right, into the immediate foreground and overhead.

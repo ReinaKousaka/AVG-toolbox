@@ -1,0 +1,27 @@
+frame_0000000000-frame_0000000128:
+The viewer is positioned on a multi-lane highway looking forward, with a dark SUV in the mid-left lane ahead, moving away. A tall, layered rock cliff rises immediately to the left of the road, separated by a concrete barrier. To the right, dry, rocky mountains with sparse vegetation extend into the distance, framing the highway. A clear blue sky occupies the upper portion of the frame.
+end of description
+The dark SUV continues to recede further down the highway, moving ahead of its initial position from the first frame and becoming smaller. The road surface continuously passes beneath the viewer's perspective. As the frames progress, new sections of the highway and more distant desert terrain are revealed ahead of the first-frame's horizon. A small green road sign, previously out of sight, emerges on the right side of the road in the mid-distance and gradually approaches the viewer's initial position.
+frame_0000000128-frame_0000000256:
+A multi-lane highway stretches into the distance, flanked by a tall, layered rocky cliff face on the immediate left and a lower, arid mountain range on the right. A dark SUV drives ahead of the viewer in the right lane, with a bright blue sky overhead.
+end of description
+As the viewpoint moves forward, the SUV ahead gradually recedes further down the highway. A semi-truck, featuring a white cab and orange trailer, emerges from behind the left concrete barrier, initially partially obscured to the viewer's left, then becomes fully visible in the left lane. This truck then drives past the viewer's position, moving from being to the viewer's left and slightly behind, to slightly ahead, as the surrounding mountainous terrain continues to pass by.
+frame_0000000256-frame_0000000384:
+The first frame displays a multi-lane highway stretching ahead, flanked by steep, stratified rocky canyon walls under a clear blue sky. A dark car is in the viewer's lane ahead, while an orange semi-truck is on an adjacent lane to the left, separated by a concrete barrier. Dry, sparsely vegetated terrain borders the right side of the road, leading up to a smaller rocky hillside. end of description.
+As the frames progress, the viewer's perspective moves forward along the highway, causing the orange truck to be overtaken and disappear from view to the left rear. The dark car ahead maintains its position but moves further away. New sections of the rocky mountainsides on both the left and right become visible as the landscape unfolds, with a metal guardrail featuring black and yellow stripes appearing on the right and receding relative to the viewer's continuous forward motion.
+frame_0000000384-frame_0000000512:
+The first frame shows a multi-lane highway stretching ahead, flanked by a towering rocky mountain on the left and a rocky hill on the right. Far down the road, a black car is visible centrally in the right lane, all beneath a clear blue sky.
+end of description
+As the scene progresses, the viewpoint advances along the highway, causing the black car ahead to gradually draw closer. A large blue semi-truck, initially behind and to the left of the black car, newly emerges in the left lane and quickly approaches and passes on the viewer's left, while the white dashed lines on the road continuously advance towards the viewer.
+frame_0000000512-frame_0000000640:
+The first frame displays a multi-lane highway stretching forward, with a concrete barrier and a steep, rugged mountain face to the left, and a metal guardrail and smaller rocky mountains to the right. A blue semi-truck with a white trailer is ahead in the left lane, and several cars are visible further down the highway, all under a clear blue sky.
+end of description
+The blue semi-truck with its white trailer, displaying 'ATS' and 'Clark' logos, dynamically moves from the left side of the frame towards the right, passing the viewer in the adjacent lane. It then exits the frame to the right as the viewer's vehicle continues forward. Other cars ahead on the highway recede into the distance.
+frame_0000000640-frame_0000000768:
+The first frame presents a multi-lane highway extending forward, flanked by massive, rocky, arid mountains under a clear blue sky. A dark car is visible ahead in the same lane, while concrete barriers and a guardrail line the immediate left, and a guardrail parallels the right side.
+end of description
+As the viewer moves forward, the car ahead maintains its relative position while new sections of the distant mountains continuously unfold. A dark tunnel entrance on the left mountain face emerges into view, appearing closer before receding behind the viewer's progression, with sparse vegetation becoming more visible on the right.
+frame_0000000768-frame_0000000896:
+The first frame displays a multi-lane highway cutting through a desert mountain pass under a clear blue sky. Steep, rugged mountains rise on both sides, with a dark gray barrier on the left and a metal guardrail on the right, beyond which is arid terrain and sparse vegetation. A black sedan is visible in the distant right lane, with another vehicle further ahead as the road gently curves.
+end of description
+As the viewer progresses forward, the black sedan ahead gets steadily closer while the mountains and guardrails move past. A new white sign, reading "EMERGENCY PARKING 1/2 MILE," becomes visible ahead and to the right of the initial viewpoint, subsequently moving closer as the viewer passes it.

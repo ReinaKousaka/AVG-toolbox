@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a multi-lane road with a light grey sedan positioned to the viewer's immediate left, an elevated concrete highway structure spanning overhead from the upper left, and a prominent billboard with green traffic lights to the upper right, all leading towards a visible street intersection.
+end of description
+As the scene progresses, the viewer's perspective advances, causing the initial foreground sedan to recede behind the first-frame viewpoint. Simultaneously, the billboard and original traffic lights on the right disappear, while a green highway sign on the left becomes clearer and a motorcycle moves forward in the center lane before turning right, as new traffic lights in the upper center illuminate green.

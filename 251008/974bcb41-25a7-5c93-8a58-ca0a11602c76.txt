@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+A gravel path extends forward and slightly uphill from the viewer, flanked by dense green and brown-orange bracken-like vegetation. The hillside on the left rises steeply, covered in foliage from the immediate foreground, while a body of water with islands is visible in the mid-ground to the right, beyond more vegetation. Distant mountains under a cloudy sky complete the background.
+end of description
+The camera smoothly moves forward along the path. The dense vegetation on both the left and right sides, initially in the foreground, progressively recedes into the mid-ground and further back, revealing more of the path ahead. The distant lake and mountains maintain their spatial position relative to the first-frame viewpoint, appearing slightly closer as the path is traversed.
+frame_0000000128-frame_0000000256:
+A gravel path extends forward from the viewer, bordered by dense green and reddish-brown foliage rising steeply on the left and sloping gently on the right. In the midground to the right, a lake with an island is visible, backed by distant mountains under a cloudy sky.
+end of description
+As the viewer moves continuously forward along the path, the foreground foliage on both sides recedes behind them, while the path ahead is progressively revealed in front. The distant lake and mountains remain to the right, gradually shifting their relative positions within the expanding view from the ongoing forward motion.
+frame_0000000256-frame_0000000384:
+The first frame shows a gravel path stretching from the viewer into the midground, flanked by dense green and reddish-brown ferns and bushes. To the right, a large lake with an island and distant mountains unfolds under a cloudy sky. On the left, a steep, heavily vegetated hillside rises.
+end of description
+As the frames progress, the viewpoint continuously moves forward along the path. The immediate foreground vegetation recedes and passes by, while new sections of the winding path appear directly ahead, and the panoramic lake and mountain vista on the right subtly shifts closer, remaining visible as the scene progresses.

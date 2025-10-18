@@ -1,0 +1,10 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a muddy dirt path extending from the foreground into the middle-distance, surrounded by dense green foliage and trees. A prominent, moss-covered tree trunk stands on the viewer's left, with a wooden log lying across the path directly in front of the viewer. The path ascends gently into a verdant forest, with trees and undergrowth covering the hillsides to the left and right.
+
+end of description
+
+The viewpoint advances steadily along the path. The wooden log initially in the immediate foreground moves beneath the viewer and then recedes out of view behind them. The mossy tree trunk on the viewer's left progressively shifts further back to the left-rear. The surrounding dense green foliage and ferns lining the path on both sides also recede behind the viewer, continuously revealing more of the path further along its original trajectory.
+frame_0000000128-frame_0000000256:
+A muddy dirt path winds uphill through a dense, green forest, with moss-covered trees and thick foliage lining both sides of the trail. The left side features a steep slope with a large mossy tree trunk close to the viewer, while ferns and grass cover the rising ground to the right.
+end of description
+As the viewpoint moves forward along the path, the prominent mossy tree trunk on the far left of the first frame recedes and moves out of view to the left. New segments of the muddy path ahead continually emerge, revealing more of the forest floor and tree trunks further into the distance that were initially unseen. A fallen log progressively becomes visible on the left side of the path, appearing from the mid-ground relative to the first-frame's position and approaching the viewer's original foreground.

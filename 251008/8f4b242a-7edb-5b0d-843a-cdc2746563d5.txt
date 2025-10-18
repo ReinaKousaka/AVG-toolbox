@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+First, the initial frame features a prominent framed picture of a beach cove and a town on cliffs, reflecting ceiling lights, against a blue and white patterned wall. To its left, a plant with green foliage and lime-green pods rests in a clear vase on a white cube stand, mirroring a golden swan-shaped bottle holder containing a bottle on a similar stand to the right, with a wall outlet visible beneath the picture.
+end of description
+Across subsequent frames, the camera slowly tilts upwards and slightly to the right relative to the first-frame viewpoint. This dynamic change causes the plant, the golden swan, their stands, and the wall outlet to gradually descend out of view from the bottom of the frame. Simultaneously, the reflections of the light sources within the central picture shift upwards and spread horizontally as the camera's angle changes.

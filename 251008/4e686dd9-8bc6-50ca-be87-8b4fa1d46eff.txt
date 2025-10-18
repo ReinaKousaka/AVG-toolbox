@@ -1,0 +1,6 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a view of a dirt forest path covered in wet, reddish-brown fallen leaves, extending from the bottom-center towards the upper-center, gently curving uphill. To the viewer's left, a large fallen log lies diagonally from the lower-left foreground towards the mid-left. Numerous bare-branched trees line both sides of the path, receding into the background, with a prominent tree trunk situated to the viewer's mid-right. The ground everywhere is covered in fallen leaves, and exposed roots and rocks are visible on the path.
+
+end of description
+
+As the scene progresses, the viewpoint moves forward along the path. The fallen log to the left and the prominent tree to the right gradually recede towards the respective edges of the frame and out of view, revealing new sections of the leaf-covered forest floor and more trees further ahead along the path. The path ahead of the initial viewpoint continuously becomes the new foreground as the camera advances.

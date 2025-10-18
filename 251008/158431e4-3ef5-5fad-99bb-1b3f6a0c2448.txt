@@ -1,0 +1,28 @@
+frame_0000000000-frame_0000000128:
+In the first frame, a vast, rugged mountain landscape is depicted under a bright blue sky with scattered white clouds in the upper left. A dark, rocky slope fills the immediate foreground, angling upwards from the lower left towards the mid-right, while behind it, a towering, jagged mountain range with sharp peaks and deep crevices dominates the mid-ground and background.
+
+end of description
+The viewpoint gradually tilts upwards and pans subtly to the right across subsequent frames, causing the foreground rocky slope to progressively move out of the bottom left. This movement reveals more of the intricate, textured rock face of the massive mountain range, bringing its towering presence and rugged details into greater focus relative to the initial view.
+frame_0000000128-frame_0000000256:
+A vast, rugged mountain face dominates the first frame, positioned directly in front of the viewer, extending from the bottom to the top and across its width. The face consists of grey and brown rock formations, with the upper portion showcasing jagged peaks against a clear blue sky that occupies the upper half of the frame. Several white, fluffy clouds are visible in the upper left quadrant, situated above the mountain peaks and further behind them.
+end of description
+The camera slowly pans to the right, causing the mountain landscape to shift horizontally across the view. The less steep, textured mountain face on the left of the initial frame gradually moves out of the view. Simultaneously, a more extensive and steeper section of the rock face, initially positioned to the right of the first-frame viewpoint, is progressively revealed. A prominent, vertical dark shadow line, first seen partially on the far right, moves further into the center of the frame, exposing additional rugged, sunlit, and shadowed rock formations from the far right.
+frame_0000000256-frame_0000000384:
+A massive, rugged mountain face dominates the foreground and midground, extending from the bottom to the top and across the width of the frame, textured with shades of brown and grey rock under sunlight. Above its jagged peaks, a deep blue sky with two white clouds is visible in the upper left and upper center, while a distinct bird-like shadow is cast on the lower right portion of the mountain face.
+end of description
+The camera continuously pans right, revealing new sections of the mountain face entering from the right and pushing the initially visible parts of the mountain leftward out of the frame relative to the first-frame viewpoint. Concurrently, the bird-like shadow on the mountain face gradually descends and exits the frame to the lower right relative to the initial viewpoint. The overall perspective shifts to reveal more of the mountain's expanse to the right, while the sky and clouds in the upper portion remain largely consistent but also shift slightly leftwards with the moving mountain.
+frame_0000000384-frame_0000000512:
+The first frame captures an imposing, craggy mountain face, textured with brown and grey rock, rising directly in front of the viewer and occupying the majority of the lower and central image. Above this vast rock wall, a clear blue sky is visible, featuring a large white cloud in the upper left and a smaller cloud nearer the top center.
+end of description
+As the sequence progresses, the viewpoint subtly shifts forward and slightly to the right, gradually revealing more of the expansive, rugged mountain face on the right side of the frame. Existing mountain features consequently appear to move subtly to the left within the frame, maintaining the high, upward perspective against the consistent blue sky and cloud formation.
+frame_0000000512-frame_0000000640:
+The first frame shows a massive, rugged mountain face directly in front of the viewer, extending upwards and across the entire scene. The brown and grey rocky peaks rise towards the upper right, with parts illuminated by sunlight and others in deep shadow, while a bright blue sky with sparse white clouds is visible in the upper left, behind the mountain.
+end of description
+As the frames progress, the viewpoint slowly ascends and shifts slightly to the right, maintaining the mountain face directly ahead. This movement reveals more of the upper and right portions of the mountain, causing the initial sky in the upper left to recede from view and the lower left section of the mountain to also move out of frame.
+frame_0000000640-frame_0000000768:
+The first frame reveals a vast, rugged mountain face, predominantly brown and grey rock with jagged peaks, occupying most of the view from bottom to top against a deep blue sky in the upper left and right, dotted with two white clouds.
+end of description.
+Over the subsequent frames, the lighting subtly changes; existing shadows on the mountain face progressively lengthen and shift downwards and to the left, relative to the static rock formations. This dynamic change reveals deeper contours and textures of the mountain as if the sun is moving across the sky, without introducing any new objects or scenes.
+frame_0000000768-frame_0000000896:
+The first frame presents a rugged mountain range directly in front of the viewer, dominating the scene with its craggy peaks and shadowed slopes under a deep blue sky featuring two small white clouds in the upper left and center. end of description.
+As the frames progress, the viewpoint appears to subtly pan to the right, gradually revealing more of the mountain face to the right of the initial view while the leftmost sections recede. Concurrently, the clouds in the sky shift relative to the mountain, confirming the camera's slight rightward motion.

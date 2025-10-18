@@ -1,0 +1,29 @@
+frame_0000000000-frame_0000000128:
+A white SUV is visible from behind, centered in the mid-ground on a winding dirt road. To the viewer's left, the road curves around a steep, rocky mountain slope, partially lined with concrete barriers. Directly to the viewer's right, a rugged, layered rock face rises steeply upwards, while a bright blue sky with scattered clouds is visible above.
+end of description
+As the viewer's vehicle moves forward, the immediate foreground road continuously changes as it passes beneath, and new sections of the rocky mountain face to the right and the winding road and slope to the left are progressively revealed ahead and then recede behind the viewer. The white SUV maintains its relative position ahead, suggesting it's also moving forward along this mountain pass.
+frame_0000000128-frame_0000000256:
+The first frame displays a rugged mountain landscape with a clear blue sky and scattered white clouds. A white SUV, seen from the rear, is situated slightly right of center on a winding dirt road that recedes into the distance. To the left of the road, a series of low concrete barriers mark the edge, while to the right, a steep mountain wall of reddish-grey rock rises abruptly. Further up and to the left, the mountain slopes are covered with patches of green vegetation and rocky outcrops, with more distant mountain ranges visible on the far left horizon.
+
+end of description
+
+The white SUV slowly moves forward along the dirt road, continuing to curve slightly to the left and receding further into the scene relative to the first-frame viewpoint. The surrounding mountain cliffs, the dirt road, and the concrete barriers remain static as the vehicle progresses. No new objects or scenes are revealed as the SUV drives deeper into the established landscape.
+frame_0000000256-frame_0000000384:
+A white SUV is visible from the rear, driving away from the viewer on a winding dirt road. To the left, concrete barriers line the road as it curves around a steep, rocky mountainside, with distant peaks visible under a clear blue sky. On the right, a rugged, rocky mountain face rises sharply beside the road.
+end of description
+As the viewpoint moves forward with the white SUV, the dirt road continuously unfolds ahead, revealing new segments of the path that were previously beyond the first-frame's visible horizon. The rugged mountain slopes and concrete barriers lining the road progressively shift towards the viewer's sides and then behind, revealing new sections of the mountainous terrain to the left and right of the advancing vehicle.
+frame_0000000384-frame_0000000512:
+The first frame presents a white car from the rear, slightly right of center, on a winding dirt mountain road. Immediately to the right, a steep, rocky mountain face rises, while the left side of the road features concrete barriers and rock cairns leading to a more distant rocky slope under a blue sky.
+end of description
+In the following frames, the white car drives forward and away from the viewer, receding along the winding road which curves further to the left, causing the car to appear smaller and move deeper into the mountainous terrain ahead.
+frame_0000000512-frame_0000000640:
+A white SUV, viewed from the rear, sits on a dirt road that curves left and ascends, with a steep rocky mountain face immediately to the right and a scree slope with concrete barriers to the left. In the background to the left, another white vehicle is faintly visible on the distant road amidst rugged mountains under a blue sky with scattered clouds. end of description
+Over the subsequent frames, the camera subtly pulls back and shifts slightly rightward, causing the foreground white SUV to recede and appear slightly smaller, moving marginally right in the frame. This minor zoom-out broadens the view of the expansive mountainous landscape surrounding the initial position.
+frame_0000000640-frame_0000000768:
+The first frame captures a white SUV on a winding mountain road, which stretches from the lower center towards the upper left, flanked by a steep, rocky mountain on the right and concrete barriers on the left. Distant mountains rise in the background under a blue sky.
+end of description
+The white SUV then proceeds forward along the winding road, moving further away from the viewer and revealing more of the road surface in front of the first-frame viewpoint as it drives deeper into the mountainous terrain.
+frame_0000000768-frame_0000000896:
+A white SUV is seen from behind, driving away from the viewer on a winding dirt road in the mid-ground. To the right, a steep, reddish rocky cliff rises immediately, while a rugged mountain slope with sparse vegetation ascends on the left side of the road, featuring concrete barriers further along. A clear blue sky with some clouds tops the scene, with distant grey mountains visible in the upper left.
+end of description
+The white SUV proceeds further along the road, moving away from the viewer's initial position, and its brake lights briefly flash. As the camera follows, the muddy patch on the dirt road ahead of the car becomes more visible, and new details of the immediate right-hand cliff face are revealed from the continually advancing viewpoint.

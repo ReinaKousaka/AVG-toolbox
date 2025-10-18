@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a spacious, striped paved outdoor area in the foreground, leading towards a modern building with a reflective glass facade dominating the right side. Below the building's windows, a cafe area is visible with a white awning, a row of potted reddish-brown evergreen trees, and transparent plastic enclosures covering outdoor seating. A distant cityscape with buildings and greenery occupies the left background, while a stair railing is partially visible in the immediate bottom-right foreground.
+end of description
+As the frames progress, the viewpoint subtly shifts forward and slightly to the left relative to the first-frame viewpoint. This dynamic movement reveals more of the paved area and the cafe's entrance, which becomes more prominent to the left, along with a slightly expanded view of the distant cityscape on the far left.

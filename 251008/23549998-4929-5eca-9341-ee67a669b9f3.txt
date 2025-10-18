@@ -1,0 +1,28 @@
+frame_0000000000-frame_0000000128:
+The first frame features the front half of a silver car prominently in the immediate left foreground, with a historic stone church building and a black fence visible behind it and further left. A cobblestone street stretches ahead into the distance, flanked by parked cars on the left and a row of multi-story buildings on the right, one partially obscured by white sheeting.
+end of description
+As the frames advance, the silver car on the immediate left moves progressively further away from the viewer along the street. This movement gradually reveals more of the church's stone facade and the black fence, previously partially obscured on the viewer's left. No entirely new objects or scenes emerge from behind the initial viewpoint.
+frame_0000000128-frame_0000000256:
+A cobblestone street recedes into the distance under a clear blue sky. To the left, a large stone building with an iron fence and a bare tree partially hides a line of parked cars, with a white station wagon closest to the viewer in the mid-ground. On the right, a row of multi-story buildings, the nearest enveloped in white sheeting, lines the street.
+end of description
+The viewer moves forward along the street. As a result, the white station wagon progresses from the mid-ground towards the foreground and eventually passes to the left of the viewer. The buildings on both sides gradually recede behind the viewer, revealing new sections of the street and cars further ahead from the original viewpoint.
+frame_0000000256-frame_0000000384:
+The first frame shows a cobblestone street receding into the distance, bordered by buildings under a clear blue sky. On the left, a white station wagon is parked prominently in the foreground, followed by two darker cars, all adjacent to a black metal fence that runs along a large stone church with an arched window. To the right, a multi-story pale blue building stands, beyond which a structure shrouded in white scaffolding extends further down the street.
+end of description
+The camera slowly moves forward along the cobblestone street. As it advances, the white station wagon progressively shifts out of the immediate foreground and appears further left, revealing more of the church facade and its fence. The other parked cars also gradually become more distant as the viewpoint continues down the street.
+frame_0000000384-frame_0000000512:
+A narrow cobblestone street extends into the distance under a clear blue sky, flanked by historic buildings. On the left, a white car and a dark grey SUV are parked beside a large stone building with a prominent arched window and a metal fence. To the right, a light-colored building with multiple windows is partially obscured by a white tarp in the foreground.
+end of description
+As the frames progress, the viewpoint subtly moves forward down the street. The parked white car and dark grey SUV gradually move towards the left of the frame, revealing more of their rear as the viewer passes them. The distant buildings and street also slightly shift and enlarge, indicating a slow, continuous forward progression.
+frame_0000000512-frame_0000000640:
+The first frame depicts a cobblestone street stretching into the distance, bordered on the left by a large stone building, a bare tree, and a dark grey SUV parked closest to the viewer, while the right features a line of pastel-colored buildings and a yellow curb line. Further down the street on the left, another dark grey sedan is visible.
+end of description
+As the viewpoint progresses forward, the dark grey SUV on the left appears to recede, gradually revealing more of the stone building and a fence behind it relative to its initial position. Simultaneously, a circular manhole cover emerges in the cobblestone street, appearing to the right of the viewer's forward path, where it was initially obscured.
+frame_0000000640-frame_0000000768:
+The first frame presents a cobblestone street leading into the distance, flanked by buildings under a clear sky. To the immediate left, a dark car is partially visible, parked beside a large stone building with a fence, while another dark car is further down the street. On the right, a row of multi-story buildings and a yellow curb line the road.
+end of description
+As the viewpoint slowly shifts forward and slightly right, the car nearest to the viewer gradually exits the frame to the left, revealing more of the cobblestone and the base of the adjacent stone building. Concurrently, a manhole cover on the right side of the street becomes more prominently centered in the foreground.
+frame_0000000768-frame_0000000896:
+A cobblestone street stretches forward from the viewer, flanked by a tall stone building with a metal fence on the left and a row of light-colored multi-story buildings on the right, where a yellow curb line is visible along the street's edge. A dark grey SUV is parked on the left side of the street, in front of a leafless tree and a light-colored building with a red roof, while other cars are seen further down the street under a clear blue sky.
+end of description
+The viewer moves slightly forward through the frames, causing the cobblestone street to appear closer and objects like the manhole cover on the far right to shift out of view. The parked dark grey SUV on the left becomes slightly larger relative to the frame as the perspective subtly changes. Simultaneously, shadows on the street from the buildings and tree gradually shift and lengthen, altering the sunlit patches on the cobblestones as the scene progresses.

@@ -1,0 +1,20 @@
+frame_0000000000-frame_0000000128:
+The first frame captures a forward view along parallel train tracks, which recede into the distance and curve gently to the right at the horizon. Lush green forests line both sides of the tracks, framing a bright, clear blue sky visible directly ahead above the treeline.
+end of description
+As the frames progress, the viewpoint moves forward along the tracks, causing the surrounding trees and ground on both sides to continually shift from the foreground towards and past the viewer's initial position. The curve ahead gradually approaches and straightens as the journey continues, revealing a continuous stretch of the same dense forest environment.
+frame_0000000128-frame_0000000256:
+The first frame depicts a straight view down a set of train tracks, consisting of two rails embedded in a gravel bed, extending from the bottom center towards a slight curve in the distant top center. Dense green trees and lush vegetation heavily line both sides of the tracks, forming a tunnel-like canopy, with a clear blue sky visible directly above the distant treeline.
+end of description
+The viewpoint steadily moves forward along the train tracks. The lush green trees and vegetation flanking both sides appear to pass by as the viewer progresses further into the forest, with the tracks continuously receding into the distance ahead, maintaining the initial spatial relationship to the viewer's path.
+frame_0000000256-frame_0000000384:
+The first frame displays a set of train tracks, made of two parallel metal rails on a gravel bed, extending from the foreground towards the converging point in the distant center. Dense green trees line both sides of the tracks, forming a corridor under a clear blue sky, with some faint reflections visible in the bottom right.
+end of description
+As the frames progress, the viewpoint moves forward along the tracks, revealing a continuous stretch of railway embedded in gravel, bordered by dense green trees on both sides. The scene progresses steadily, with the initial foreground receding and new sections of the same wooded environment coming into view from the front, maintaining the clear blue sky overhead.
+frame_0000000384-frame_0000000512:
+Railroad tracks extend from the viewer's foreground into the distance, flanked by dense green trees and bushes on both the left and right sides, converging under a clear blue sky at the top center. A faint reflection or glare is visible on the far right edge.
+end of description
+As the frames progress, the viewpoint moves forward along the tracks, continuously revealing new sections of the railway and its surrounding vegetation from the distant background towards and past the viewer. The trees lining the path appear to sweep by on either side, deepening the perspective of the receding track ahead.
+frame_0000000512-frame_0000000640:
+The first frame shows a straight-ahead view down a set of train tracks, which run from the bottom-center foreground into the distant background. Dense green trees flank the tracks on both the left and right, creating a tunnel-like effect, with a clear blue sky visible directly above the tracks in the far distance. Green grassy embankments are visible immediately adjacent to the tracks on both sides, while a faint reflection partially obscures the lower right foreground.
+end of description
+As the frames progress, the viewpoint moves continuously forward along the train tracks. The tracks emerge from the foreground and recede into the background, while the dense green trees on either side move towards and then past the viewer, revealing more of the wooded corridor ahead. The distant tracks curve slightly to the right, maintaining the forward motion perspective.

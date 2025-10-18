@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a narrow dirt trail winding upwards through a dense forest. To the viewer's immediate front and right, the path is covered with numerous light-colored, moss-dappled rocks. Tall evergreen trees dominate the midground and background, rising steeply on both sides of the path, with a thick undergrowth of ferns and moss covering the embankment to the right, and the bright, overcast sky visible above the tree canopy.
+end of description
+No dynamic changes or newly revealed objects are observed in the subsequent frames; all frames are identical to the first-frame viewpoint.
+frame_0000000128-frame_0000000256:
+The first frame displays a dirt trail, littered with light-colored rocks, stretching upwards and slightly to the right in the foreground. To the right of the path, a steep, mossy slope covered in vibrant green ferns rises sharply, while to the left, more moss-covered ground and fallen logs lead into a dense forest. Numerous tall evergreen trees densely populate the midground and background, their tops reaching towards a bright, overcast sky.
+end of description
+In subsequent frames, the viewpoint subtly shifts slightly forward and upward, suggesting a slow ascent along the path. This motion causes the tall trees in the background to appear marginally taller relative to the frame's bottom edge, while foreground elements remain largely in place but are seen from a slightly altered perspective.

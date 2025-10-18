@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a vivid red wall occupying most of the left and center of the image. Centered on the wall is a red wooden door with vertical bars, secured by a padlock, and framed by light brown stone. A long, vertical white plaque with black calligraphy hangs to the left of the door, and another similar plaque hangs to its right. Above the door, a small dark rectangular plaque is visible. To the right of the door and plaques, a tall, light brown stone tablet rests on a stone base, and further right, a dark brick archway, topped with a tiled roof and a white horizontal plaque, opens onto a cobblestone path.
+end of description
+There are no dynamic changes or newly revealed objects in the subsequent frames; all frames in the sequence are identical to the first.

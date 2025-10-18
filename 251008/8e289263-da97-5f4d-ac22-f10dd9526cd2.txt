@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a wet urban street with a red-painted lane on the right and yellow markings on the left. A silver car is parked on the left, just past the viewer's immediate foreground, while a white van is further down the street toward the horizon on the right. On the right, brick buildings with Korean signs and a partial yellow-blue awning rise, contrasting with the tree-lined left side featuring other parked vehicles, utility poles, and distant multi-story buildings.
+end of description.
+Over the subsequent frames, the white van on the right side of the street slowly moves further away, receding into the distant background.
+frame_0000000128-frame_0000000256:
+The first frame shows a wet city street after rain, with a red-painted lane centrally positioned in front of the viewer, bordered by yellow double lines on the left. To the left, a silver sedan faces the viewer, parked on wet asphalt, with several other vehicles and a large green tree further behind it. On the right, a brick building with storefronts and signs extends along the street, and a white van is parked further down the road.
+end of description
+A black car gradually appears from the right side of the frame, emerging from behind the brick building. It proceeds to park or maneuver into a spot further down the street on the right, becoming fully visible to the right of the central red lane by the final frames.
+frame_0000000256-frame_0000000384:
+The first frame displays a wet urban intersection with a red pedestrian crossing and yellow road markings in the foreground, flanked by a silver sedan on the left and a dark brick building with Korean signs on the right. Further down the left street, a black SUV, a white car, and a white van are visible, while a white pickup truck is positioned in the distance down the right street.
+end of description
+A black sedan, initially positioned on the right side of the street facing left, begins to execute a left turn onto the main road. It progressively crosses the red pedestrian area and yellow road markings, slowly advancing towards and eventually past the stationary silver sedan on the left side of the frame.

@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame captures a narrow, winding dirt path ascending gently through a dense evergreen forest, with numerous tall tree trunks lining both sides. Exposed tree roots crisscross the path and the ascending terrain to the viewer's immediate right, while the left side features a downward slope of more evergreens, all illuminated by dappled sunlight filtering from the blue sky above and to the upper left.
+end of description
+The viewpoint steadily moves forward along the dirt path, causing the immediate trees and rooted terrain to the viewer's left and right to recede behind. The path ahead continuously unfolds, revealing more of the sun-dappled forest floor and dense tree line further along the trail as the viewer progresses deeper into the woods.
+frame_0000000128-frame_0000000256:
+A dirt path with exposed tree roots leads uphill and slightly right through a dense evergreen forest. A large tree trunk stands prominently on the immediate left, while the right side of the path is bordered by a vegetated slope and more exposed roots, with sunlight filtering through the distant canopy.
+end of description
+The viewpoint moves steadily forward along the winding path, causing the large tree on the left to recede and revealing more of the root-covered terrain ahead, as the dense forest continues to flank both sides.

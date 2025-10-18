@@ -1,0 +1,20 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a wet asphalt street curving slightly to the left, with a textured stone wall and a grey rectangular sign on the viewer's left, and an ornate, light-yellow building with multiple windows and closed brown shutters on the viewer's right. Further ahead and to the right is another building with a balcony, while in the distance on the left, a yellow building with a prominent red and white Swiss flag is visible, alongside parked cars and green trees under an overcast sky.
+end of description
+As the frames progress, the viewpoint moves forward along the street, causing the stone wall and the grey sign on the left to gradually approach and move partly out of the lower-left frame. Concurrently, the yellow building on the right draws nearer, revealing more of its facade and lower details. The entire scene, including the distant buildings and parked cars, becomes slightly larger and clearer as the viewer advances along the wet, reflective road.
+frame_0000000128-frame_0000000256:
+The first frame depicts a wet, reflective street leading away from the viewer, bordered on the left by a stone wall topped with greenery and a gray sign, and on the right by multi-story buildings with brown shutters and balconies, extending towards distant structures, one prominently featuring a large red and white flag.
+end of description
+As the camera moves forward, the street visually widens from the first-frame's perspective, with the stone wall on the left and buildings on the right progressively receding further. A person briefly emerges from behind a building on the left, walking away down the street before disappearing from view further into the distance from the initial viewpoint.
+frame_0000000256-frame_0000000384:
+First, the viewer is on a wet, paved road flanked by a tall, dark stone wall on the left and buildings on the right. In the foreground right, a light-colored building with a restaurant and an outdoor terrace stands adjacent to stairs leading to a darker building. Further down the street, a yellow building displaying a red and white flag, parked cars, and distant trees are visible under an overcast sky.
+end of description
+Following frames show a subtle camera movement backward, causing the immediate surroundings to slightly expand and recede relative to the viewer. This marginal zoom-out broadens the view of the existing street and buildings without revealing any entirely new objects or scenes beyond the first frame's context.
+frame_0000000384-frame_0000000512:
+The first frame displays a wet, dark asphalt road extending into the distance, reflecting an overcast sky. To the left, a tall, mossy stone wall runs along the foreground, leading to a light yellow building in the mid-distance adorned with a large red Swiss flag banner. On the right, a two-story building features a pale green upper facade with red-framed windows and a balcony with an orange awning, while its beige lower facade has a fenced patio area next to the street. In the far distance, between the buildings, trees and parked cars are visible.
+end of description
+A person, clad in dark clothing and possibly a brown jacket, emerges from the far distance on the left side of the street. They walk along the wet road, staying primarily on the right side, progressively moving closer to the viewer throughout the subsequent frames.
+frame_0000000512-frame_0000000640:
+The first frame presents a wet, reflective street stretching into the distance, bordered by a mossy stone wall on the immediate left and a multi-story building with a fenced lower level and an upper balcony on the right. Further ahead, a yellow building displaying a Swiss flag stands on the left, with parked cars and distant figures visible further down the street.
+end of description
+The viewpoint steadily advances along the street; consequently, the stone wall on the left slowly moves out of frame to the viewer's left. Objects previously in the mid-distance, such as the yellow building, parked cars, and pedestrians, steadily approach the viewer, becoming larger and more distinct as the scene unfolds.

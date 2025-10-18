@@ -1,0 +1,11 @@
+frame_0000000000-frame_0000000128:
+The initial frame depicts an aerial view of a lush mountain valley. A red train crosses a multi-arched stone viaduct in the midground, spanning between a dense forest on the right slope and vibrant green fields to the left. Distant mountains define the background. end of description
+The red train dynamically moves from the right across the stone viaduct towards the upper left, progressing steadily through the frames while remaining spatially positioned within the midground. No other significant changes in scenery or camera perspective are observed.
+frame_0000000128-frame_0000000256:
+An aerial view captures a vibrant green valley flanked by dark forested mountains under a pale blue sky. In the foreground, a prominent multi-arched stone viaduct stretches from the middle-right towards the viewer's left, carrying a red train. Below the viaduct and extending to the left, bright green undulating meadows are dotted with clusters of tall coniferous trees, with a few dark-roofed buildings visible on the far left.
+end of description
+The red train dynamically progresses across the viaduct from the viewer's right to left. Its front cars gradually emerge from behind the forested hillside on the right, traverse the arched bridge in the middle-right, and then disappear behind the dense trees to the left of the bridge. The surrounding mountainous landscape and fields remain static as the train continues its journey further into the valley.
+frame_0000000256-frame_0000000384:
+The first frame depicts a picturesque mountain valley with bright green rolling fields in the midground, extending left to small buildings and distant mountains. In the foreground, a cluster of evergreen trees is situated at the bottom right. A red train is visible on the right, traversing a stone bridge and curving left along a track on a steep, tree-covered hillside. The sky above is hazy blue, and the text 'ENJOY RELAXATION' is displayed in the top left corner.
+end of description
+In the subsequent frames, the red train continuously moves from right to left along the track situated on the hillside. The train, initially seen on the bridge, progressively moves further to the left, revealing more of its red carriages as it emerges from behind the trees and proceeds deeper into the valley in the right midground.

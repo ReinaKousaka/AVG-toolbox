@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a scenic village nestled in a valley, flanked by lush green, tree-covered hills under a clear blue sky. In the foreground to the right, a light-colored building with a tiled roof and a small bell tower is visible, while a winding road and bare trees occupy the midground center. Part of another building appears on the far left foreground.
+end of description
+The subsequent frames depict a continuous, subtle zoom-out, gradually expanding the field of view to reveal slightly more of the surrounding landscape. This movement reveals additional distant foliage and a small lamp further to the right of the first-frame viewpoint, while the central elements become marginally smaller.

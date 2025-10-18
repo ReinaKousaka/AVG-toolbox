@@ -1,0 +1,28 @@
+frame_0000000000-frame_0000000128:
+In the first frame, two people are present; one is partially visible on the far left, and another woman in a purple shirt holding a white garment walks away from the viewer on a paved road that leads into a valley with green grassy hills and distant mountains. To the left of the road are fenced green fields with wooden structures and forests, while to the right, a stone wall borders a garden and a large building with flower-adorned balconies, backed by dense forest.
+end of description
+Chronologically, the two individuals quickly move out of view to the left, revealing more of the grassy field and fence alongside the road. As the viewpoint progresses forward, the building on the right and the mountainous landscape remain visible in the distance.
+frame_0000000128-frame_0000000256:
+A paved road extends from the viewer into a valley, flanked by a grassy field with a wooden hut and a fence on the left, and a stone wall and part of a house on the right, all set against a backdrop of distant mountains and a cloudy sky.
+end of description
+As the camera moves forward, the initial house on the right recedes from view, revealing more of its white facade and two garage doors behind it, alongside a cobbled driveway to its right. Simultaneously, the grassy field and wooden hut on the left draw closer to the viewer, with the fence lines appearing to pass by.
+frame_0000000256-frame_0000000384:
+A paved road extends from the viewer into a lush green valley, bordered on the immediate right by cobbled ground leading to a building, and on the left by a fenced field containing two distant wooden structures. Majestic mountains rise on the far left, while dense evergreen forests cover the right slopes under a partly cloudy sky.
+end of description
+The viewpoint progresses forward along the road; the building on the immediate right recedes from view as a small bushy tree further along the right approaches and then passes the viewer. Simultaneously, the fence posts on the left move closer and out of frame, revealing more of the expansive green field beyond.
+frame_0000000384-frame_0000000512:
+The first frame displays a paved road stretching from the bottom center, curving gently right and receding into the distance, flanked by vibrant green grassy fields and intermittent fence posts. On the left, two small wooden sheds and a more distant building are visible, while a larger building with a dark roof stands on a grassy slope to the right, all set against a backdrop of dense forests and towering mountains under a partly cloudy sky.
+end of description
+As the frames progress, the viewpoint advances along the road; foreground elements like the initial fence posts and a small tree on the far right recede and move out of view. Concurrently, newly revealed fence posts and sections of the grassy fields emerge closer to the viewer, with a drainage grate becoming visible on the right side of the road, all relative to the initial viewpoint.
+frame_0000000512-frame_0000000640:
+The first frame features a paved road curving through a vibrant green alpine valley, bordered by lush grassy slopes with fence posts and a concrete barrier on the right. In the midground, a rustic brown wooden building is visible on the left, and a house with a white facade and dark roof sits on the right hillside, both backed by dense evergreen forests leading to distant grey mountains under a bright, partly cloudy sky.
+end of description
+The subsequent frames depict a slow forward movement along the road; foreground objects like the road surface, grass, and fence posts recede from the viewer's initial position. Simultaneously, the midground house on the right and the buildings on the left steadily approach the viewer, enlarging within the frame as the scene progresses forward.
+frame_0000000640-frame_0000000768:
+A narrow paved road stretches from the bottom center, curving gently left into the distance, flanked by vibrant green grassy fields. A simple fence with wooden posts and white wires delineates the fields on both sides, with a concrete barrier along the right roadside. In the mid-ground, to the right, a white house with a dark roof is situated on the rising hillside, backed by a dense treeline of evergreen trees. Further left in the distance, another building and distant grey mountains are visible under a partly cloudy sky.
+end of description
+The viewer moves forward along the paved road, causing the immediate foreground to shift and the fence posts and grass to progressively pass by, moving towards the bottom and sides of the frame. The house on the right hillside and the distant building appear slightly closer as the perspective advances. The overall landscape, including the mountains and sky, maintains its relative position, indicating a steady forward progression.
+frame_0000000768-frame_0000000896:
+A paved road stretches directly away from the viewer, slightly curving left in the distance, flanked by vibrant green grassy fields. These fields are bordered by simple wire fences on wooden posts. To the right, a white house with a dark roof and a balcony is situated on a grassy incline, while further left, a distant mountain range rises majestically under a partly cloudy sky. In the midground, a smaller dark wooden structure is visible to the far left, and a paved path branches off to the right from the main road.
+end of description
+The viewer moves forward along the main paved road. The house on the right, initially in the midground, grows larger and shifts towards the foreground-right, revealing more of its facade and the adjacent driveway. Concurrently, the fork in the road also approaches the viewer, making the right branch more pronounced.

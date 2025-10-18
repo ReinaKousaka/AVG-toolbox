@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame captures a rainy street scene: in the foreground left, a grey pole and black railing stand, with a purple scooter parked against them. To the left, a wet asphalt road features a white SUV moving away to the left, followed by a red bus further in the distance, while a sidewalk on the right side of the view displays a row of green bushes backed by trees and tall buildings in the misty background.
+end of description
+As the frames progress, the white SUV continues its movement further to the left on the road, eventually passing out of view, and the purple scooter also slides out of the frame to the left. Subsequently, an orange traffic cone appears next to the tree trunk, further along the sidewalk on the right, as other vehicles like a dark sedan enter and traverse the wet road, all observed from the initial fixed viewpoint amidst the continuous heavy rain.

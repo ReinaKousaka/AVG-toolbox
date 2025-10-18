@@ -1,0 +1,14 @@
+frame_0000000000-frame_0000000128:
+The viewer is positioned at the bow of a white boat, which occupies the foreground with an orange bench on its front-right and a central pole extending upwards. Beyond the boat, a vast expanse of turquoise water fills the midground, leading to forested mountains flanking the background on both the left and right sides. In the distant center, a small village is nestled amongst the green slopes.
+end of description
+The boat steadily moves forward, causing the surrounding mountainous landscape and the distant village to gradually recede and pass to the sides relative to the initial viewpoint. Concurrently, a person swimming emerges in the mid-right of the water and slowly shifts towards the left within the frame as the boat progresses.
+frame_0000000128-frame_0000000256:
+In the first frame, the viewer is positioned on the bow of a boat, which occupies the lower central part of the image, showcasing its white and grey structure along with some orange objects and a central mast flying a yellow and red flag. Ahead of the boat, a vast expanse of turquoise water stretches towards the horizon. To the immediate right, a steep, rocky cliff face covered in green trees borders the water, with two small dark figures visible on the water near it. In the background, green, forested mountains rise, with clouds clinging to their peaks, and a small village is nestled at their base across the water on the left side of the frame. The sky above is overcast and bright.
+
+end of description
+
+The two small dark figures on the turquoise water to the right of the boat gradually move further to the right and slightly away from the first-frame viewpoint across the sequence. Subtle ripples and reflections continuously shift across the water's surface, indicating minor movement. No new objects are revealed, and the boat's structure and the distant mountainous landscape with the village remain stationary relative to the viewer's fixed position.
+frame_0000000256-frame_0000000384:
+The first frame prominently features the bow of a boat in the foreground, extending from the bottom-left towards the center-right, with a mast and a yellow-orange flag positioned on its left side. A vast expanse of turquoise water occupies the midground, bordered on the right by a rocky cliff face covered with trees. Two individuals on paddleboards are visible in the mid-right area of the water, moving away from the viewer. In the background, distant, lush green mountains rise, with a small village nestled among trees to the far left.
+end of description
+In the subsequent frames, the two paddleboarders on the water slowly move further to the right and slightly away from the first-frame viewpoint. No new objects are revealed, and the boat carrying the viewer remains largely stationary relative to its initial position.

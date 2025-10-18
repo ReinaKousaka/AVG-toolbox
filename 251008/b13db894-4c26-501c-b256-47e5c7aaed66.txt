@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+A two-lane gray asphalt road with white double solid lines curves gently to the left in the foreground, flanked by lush green grass and dense green trees on both sides; further ahead on the right, two black and white chevron signs indicate the curve, with towering, tree-covered mountains dominating the background under a cloudy sky.
+end of description
+As the viewpoint advances along the road, the foreground grass and initial trees recede past the viewer. The two chevron signs on the right move closer then pass by, and a third identical sign is revealed further down the road to their right. The curve ahead becomes more apparent, and the distant mountain slopes and tree-lines gradually shift, revealing more of the landscape beyond.
+frame_0000000128-frame_0000000256:
+A paved road, curving slightly to the left, extends from the foreground, flanked by lush green grass fields. On the right, three black and white chevron signs, indicating a left turn, are positioned along the roadside, while a large, leafy tree stands prominently on the mid-left. Dense green mountains covered in trees rise on both sides in the background, under an overcast sky.
+end of description
+As the viewpoint progresses, the chevron signs on the right sequentially exit the frame to the right. The large tree on the left moves rearward and eventually out of the frame. Simultaneously, new black and white roadside markers appear and pass by on both sides of the road. The road's curve is navigated, revealing more of the forested valley in the distance.
+frame_0000000256-frame_0000000384:
+The first frame depicts a two-lane asphalt road, edged by white lines and a central dashed line, curving left through a valley. Lush green trees cover the steep mountainsides bordering the road on the left, while a wide grassy field with three rectangular signs occupies the right. Distant forested mountains rise under a cloudy sky, with a white post visible near the road on the far left.
+end of description
+As the perspective moves forward, the immediate roadside elements recede behind the original viewpoint. The road continues to curve, bringing the previously distant signs closer on the right and revealing more of the winding asphalt and the valley landscape further ahead.

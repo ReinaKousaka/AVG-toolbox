@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+An aerial view presents an ancient semi-circular theater centrally, flanked by dense green foliage on its upper-left and dry, sparse land elsewhere. A dirt road originates from the lower-left, passing the theater's base, while another runs vertically along the right, near a red-roofed building in the lower-right, with "GREECE" and "HELLAS" text in the bottom corners.
+end of description
+Subsequently, the camera slowly zooms out and pans slightly upwards and to the left relative to the initial viewpoint, making the theater appear smaller. This motion progressively reveals more of the surrounding dry landscape and roads to the original frame's left and upper areas, causing the red-roofed building to move further towards the bottom-right.

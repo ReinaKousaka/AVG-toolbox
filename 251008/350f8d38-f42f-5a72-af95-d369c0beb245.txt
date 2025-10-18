@@ -1,0 +1,32 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a desert highway extending directly forward, flanked by a metal guardrail on the viewer's right and barren, rocky mountains rising on both sides. A red U-turn prohibition sign stands prominently to the far left of the road, and a distant white vehicle is barely visible straight ahead between the mountains, all beneath a clear blue sky.
+
+end of description
+
+As the viewpoint progresses forward along the highway, the U-turn sign on the left recedes and moves out of frame to the viewer's left. The distant white vehicle ahead gradually approaches, slightly shifts right relative to the road, and then recedes, as the road continues curving slightly right through the mountainous terrain.
+frame_0000000128-frame_0000000256:
+The first frame shows a multi-lane asphalt road extending from the bottom center, curving slightly right into the middle distance, beneath a clear blue sky. A metal guardrail runs along the immediate right side of the road, beyond which a rocky, arid hillside with reddish formations rises steeply. To the left of the road, dry scrubland leads to a less prominent hill with similar reddish rock formations in the far distance.
+end of description
+As the viewpoint moves forward along the road, the immediate landscape, including the road surface and the guardrail on the right, appears to move towards and then past the viewer. A large white truck or trailer, initially partially obscured, becomes increasingly visible on the far left side of the road, moving closer from the distance before being passed by the viewer. The barren hillsides on both sides of the road also continuously shift relative to the changing perspective.
+frame_0000000256-frame_0000000384:
+The viewer is positioned on a multi-lane asphalt road that curves gently to the right under a clear blue sky. To the right, a metal guardrail runs parallel to the road, beyond which a dry, rocky hillside covered in sparse, light-brown vegetation rises. To the left, dry, grassy terrain extends towards distant, reddish-brown hills.
+end of description
+As the camera moves forward, the road's surface, the guardrail, and the adjacent hillside on the right steadily advance towards and then recede past the viewer's position. A small, dark pole with a white top becomes visible to the right of the guardrail and approaches the viewer. The distant hills on the left maintain their relative positions but slowly shift perspective as the viewpoint progresses along the road.
+frame_0000000384-frame_0000000512:
+The foreground features a two-lane paved road, curving gently to the left, with a broken white line in the center and solid white lines marking the shoulders. To the right, a metal guardrail runs alongside the road, backed by a large, arid rocky hill covered in sparse tan vegetation, extending from the midground into the background. To the left, a similar arid landscape with smaller, reddish hills is visible in the distance, all beneath a clear, bright blue sky.
+end of description
+As the viewpoint moves forward, the guardrail on the right recedes and eventually disappears out of frame, while the road's surface and markings progressively shift closer to the viewer. A dark vehicle emerges in the distant left, slowly appearing to approach the first-frame viewpoint as the arid landscape and hills on both sides also move closer.
+frame_0000000512-frame_0000000640:
+The first frame shows a two-lane paved road extending from the bottom center, curving slightly left into the middle distance. To the immediate right, a large, dry, rocky hill rises with sparse vegetation and a visible cliff face, while a similar but flatter landscape with reddish hills in the far distance occupies the left. A clear blue sky dominates the upper half of the frame, and a yellow diamond-shaped curve warning sign is visible in the middle distance on the right, with another far in the distance on the left.
+end of description
+As the viewpoint progresses forward along the road, the initial yellow curve sign on the right moves closer, passing on the right side. Simultaneously, the distant yellow sign on the left side also approaches, becoming clearer. The road continues its leftward curve as the vehicle moves through the dry, rocky landscape, making the previously distant features more prominent and eventually passing them.
+frame_0000000640-frame_0000000768:
+The first frame shows a clear blue sky dominating the upper half, with a two-lane highway occupying the foreground and extending into the middle distance, curving slightly to the right. To the viewer's right, a rugged, arid mountain face rises, partially obscured by dry vegetation, with a yellow diamond-shaped curve warning sign positioned roadside. To the viewer's left, a more distant, lower range of arid hills with sparse vegetation is visible, also featuring a similar yellow curve warning sign further along the road.
+
+end of description
+
+As the frames progress, the viewpoint moves forward along the highway, causing the road surface to recede beneath the viewer and the surrounding landscape to appear closer. Both yellow diamond-shaped curve warning signs, one to the right and one to the left of the road, grow larger and move towards the viewer, revealing the numerical speed limit "55" beneath their curved arrow symbols by the final frames. The mountains and hills on either side also become slightly more prominent and detailed as the camera approaches them.
+frame_0000000768-frame_0000000896:
+The first frame displays a two-lane highway extending into the distance under a clear blue sky, flanked by arid, rocky mountain ranges. A yellow road sign indicating a left curve with a 55 mph limit is positioned on the left side of the road, while a similar sign indicating a right curve with a 55 mph limit is on the right, both relatively close to the viewer.
+end of description
+As the viewpoint moves forward along the highway, the initial road signs on both the left and right sides progressively recede and move out of view. The rocky landscapes on both sides move closer and then pass by, revealing more of the arid environment ahead. A small white vehicle eventually appears far ahead and to the left of the highway as the journey continues.

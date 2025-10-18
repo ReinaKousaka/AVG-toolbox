@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a street scene with a white car's front in the immediate foreground, facing away from the viewer. Pink cherry blossom trees line both sides of the road, with a silver SUV parked further down on the right and houses beyond them. A tall, thin structure rises centrally in the background against a bright blue sky.
+end of description
+Subsequently, the foreground white car moves forward and slightly to the left relative to the first-frame viewpoint, gradually revealing more of the street and a red car previously obscured further down the road on the left.

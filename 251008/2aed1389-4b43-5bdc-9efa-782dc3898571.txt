@@ -1,0 +1,9 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a sunny urban street scene with cobblestones and historic buildings under a canopy of green tree leaves. In the foreground to the right, a black motorcycle is parked near a large wooden planter containing a green bush with a red and white chevron sign. To the left foreground, a group of four people (two men, two women) walks towards the viewer. In the midground, a "no entry" sign is visible on the right, and a solitary person walks further down the street on the right.
+end of description
+Throughout the subsequent frames, the group of four people in the foreground steadily advances closer to the viewer and moves towards the far left of the frame, eventually exiting the scene. Simultaneously, the person walking in the mid-distance on the right side of the street continues walking further to the right, disappearing from view. As this distant walker moves past, two white outdoor chairs are gradually revealed behind the bush on the right side of the street, to the right of the first-frame viewpoint.
+frame_0000000128-frame_0000000256:
+The first frame captures a city street under green foliage, with a large bushy plant in a wooden planter prominently positioned in the foreground right. A man in a green shirt and a woman in black sunglasses walk from the mid-left foreground across a cobblestone path, passing a dark pole slightly right of center, towards a yellow building with arched entrances situated in the mid-ground left.
+
+end of description
+As frames progress, the man and woman move from the mid-left foreground further left and out of view. The scene subtly shifts, revealing more of the yellow building's leftmost facade and a new wooden planter beyond the first-frame's left edge, while additional pedestrians emerge deeper into the street to the right, beyond the initial visible crowd.

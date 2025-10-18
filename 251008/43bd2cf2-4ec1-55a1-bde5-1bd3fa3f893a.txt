@@ -1,0 +1,30 @@
+frame_0000000000-frame_0000000128:
+A wet paved path in the foreground leads to a set of wet stone stairs ascending into the mid-ground, flanked by varied shrubbery and several bare trees and street lamps. In the background, light-colored buildings are visible on the left and a grassy hill with another large building appears on the right, all under an overcast sky.
+end of description
+As the frames progress, the viewpoint slowly moves forward and slightly upward towards the stairs. The stairs and the flanking vegetation grow larger and more detailed in the foreground and mid-ground, filling more of the frame. Simultaneously, the paved path at the bottom recedes, and a black chain-link fence on the left, previously partially obscured by trees, becomes more visible and prominent.
+frame_0000000128-frame_0000000256:
+The first frame displays a wet, dark concrete staircase ascending uphill and away from the viewer, bordered by green and reddish shrubbery on either side. Bare trees with dark trunks and branches frame the path, with residential buildings visible to the far left behind a fence, and a tall, light-colored building centrally positioned further back beyond the stairs. To the right of the stairs stands a black lamppost, with a square sign further right, and a grassy slope completing the right foreground.
+end of description
+As the frames progress, the viewpoint slowly moves forward and slightly upward, ascending the stairs. This motion makes the stairs appear larger and closer, while the flanking shrubbery and the lamppost previously to the right of the stairs subtly shift further to the sides and recede in perspective relative to the advancing camera.
+frame_0000000256-frame_0000000384:
+The first frame displays a wet concrete staircase centered, leading upwards away from the viewer, flanked by green and reddish foliage, and bare-branched trees. To the right of the stairs, a black lamppost stands prominently, with a park bench visible further up, while a black chain-link fence runs along the left. In the background, a light-colored multi-story building and other structures are visible beneath an overcast sky.
+end of description
+The scene gradually recedes from the initial viewpoint across the subsequent frames. This subtle backward movement reveals slightly more of the wet ground directly in front of the lowest step and expands the overall field of view to encompass more of the surrounding park and buildings in the distance. No new objects are introduced; only the perspective shifts slightly backward.
+frame_0000000384-frame_0000000512:
+The first frame presents a wet, concrete staircase leading upwards into a park path, flanked by bare trees and sparse winter vegetation; in the mid-distance to the right, a park bench is visible, while distant buildings and an overcast sky occupy the background.
+end of description
+In the following frames, the viewpoint slowly recedes backward from the staircase, revealing more of the wet ground directly in front of the bottom step. This backward motion also causes the distant path and buildings to appear slightly higher and smaller within the frame, indicating a continuous pull-back from the initial position.
+frame_0000000512-frame_0000000640:
+The first frame presents a wet, grey concrete pathway leading away from the viewer, featuring three visible steps in the foreground. Large tree trunks flank the path on both sides, with a black chain-link fence and residential buildings visible to the left, and a park bench, street lamp, and grassy area to the right. The background reveals more buildings and bare trees under an overcast sky.
+end of description
+The viewpoint steadily advances forward and upward, moving closer to the park bench on the right and revealing more of the path beyond the initial steps. As the camera progresses, the three steps in the foreground recede, and the wet concrete path ahead becomes the primary ground beneath the viewer, while the surrounding trees and buildings remain spatially consistent, only appearing closer in the frame.
+frame_0000000640-frame_0000000768:
+The first frame displays a wet concrete path extending away from the viewer, ascending three steps and then curving right into the midground. To the immediate left is a tree trunk, a short brown post, and lush foliage, with a black fence and multi-story buildings further back. On the right, another tree trunk with exposed roots anchors a black park bench, next to a muddy grassy area leading to more trees, a lamppost, and distant buildings.
+
+end of description
+
+The viewer progressively moves forward along the wet concrete path, causing the three steps ahead and the curving path beyond to steadily approach and enlarge. Objects initially in the foreground, like the lower portions of the tree trunks and the park bench to the right, recede from the bottom of the frame and appear to be passed. Simultaneously, the buildings and the distant grassy park area with the lamppost become more prominent and closer to the viewer's perspective. By the final frame, the viewpoint has advanced to be directly at the base of the first step.
+frame_0000000768-frame_0000000896:
+The first frame shows a wet, concrete path with three visible steps directly in front of the viewer, leading away. To the viewer's immediate left and right are muddy patches with some sparse green plants and a single wooden stake on the left. Beyond the steps, the path curves gently to the right, flanked by a dense patch of brown winter foliage and a fence on the left, and a grassy lawn with a lamppost and a branching dirt path on the right. In the background, several multi-story buildings, including brick and white structures, are visible through bare trees under an overcast sky.
+end of description
+The viewpoint slowly advances forward along the concrete path. The initial three steps recede further into the distance, and the immediate foreground ground and plants on both sides of the path gradually shift downwards and outwards, revealing more of the path ahead. The distant buildings and the lamppost on the right appear to slowly draw closer within the frame.

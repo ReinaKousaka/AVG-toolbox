@@ -1,0 +1,10 @@
+frame_0000000000-frame_0000000128:
+The first frame captures a rainy urban night scene, with a wet asphalt road in the foreground reflecting bright streetlights and vehicle illumination. In the midground, a white car with glowing red taillights is parked or stopped on the right side of the road, while trees line the left, and distant buildings with glowing signs are visible in the background.
+end of description
+Across subsequent frames, heavy rain visibly falls, creating constant ripples and splashes on the wet road, enhancing the shimmering reflections of all lights. The white car and a person with an umbrella on the far-right sidewalk remain largely static relative to the viewer, while other distant vehicle lights show subtle shifts.
+frame_0000000128-frame_0000000256:
+The first frame depicts a rainy city night scene with a wet road reflecting numerous urban lights. A white car, displaying bright red taillights, is stationary in the middle-right lane, facing away from the viewer, while buildings, streetlights, and trees line both sides of the road in the midground, with an overhead blue sign visible to the upper right. end of description. In subsequent frames, the rain continues to fall, creating dynamic ripples and shimmering reflections on the wet asphalt. Beginning in frame 7, a large black van enters from the lower-left foreground, moving away from the viewer, driving past the stationary white car. It proceeds further into the distance, displacing water from the road as it moves.
+frame_0000000256-frame_0000000384:
+The first frame displays a rainy night city street from a sidewalk viewpoint, with wet asphalt reflecting numerous red and white vehicle and streetlight illuminations. A dark van with bright red taillights is centrally positioned in the left lane, facing away, while a lighter car with red taillights is further down the right lane, with buildings and street signs visible along the road.
+end of description
+Subsequently, a new dark car enters the leftmost lane from the far left, gradually moving towards the viewer over the frames, as the steady rain continues to create shimmering reflections on the road.

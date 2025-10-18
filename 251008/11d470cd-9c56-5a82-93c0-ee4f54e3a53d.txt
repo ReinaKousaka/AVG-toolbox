@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame presents an aerial view looking down into a football stadium. A large white stadium roof occupies the foreground, while beyond it, a green grass pitch with white markings is encircled by multi-tiered stands featuring red and blue seating, with the word 'SPARTA' displayed prominently in orange at the far end. In the background, a sprawling city with numerous buildings and trees extends under an overcast sky.
+end of description
+As the frames progress, the camera subtly pulls back and slightly higher from the initial viewpoint. This minimal change causes the entire stadium, including the foreground roof and pitch, to appear fractionally smaller, subtly widening the visible scope of the surrounding city in the background without revealing entirely new structural elements.

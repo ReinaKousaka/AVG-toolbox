@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a narrow paved road curving gently left, leading into the distance between a steep, rocky, tree-covered hillside on the right and a lower, vegetated slope bordered by a concrete barrier on the left, all set against a backdrop of green mountains under a bright blue sky with scattered clouds.
+end of description
+As the scene progresses, the viewpoint moves forward along the road; a utility pole with overhead wires gradually appears from the upper left of the first-frame viewpoint, casting a distinct shadow across the road surface. Simultaneously, the rocky hillside on the right recedes, revealing more grassy terrain and a small tree further along the road from the original viewpoint.
+frame_0000000128-frame_0000000256:
+The first frame shows a paved road curving gently to the left ahead of the viewer, bordered by a low stone wall and a steep, densely forested mountain slope on the left. To the right, a grassy embankment with prominent rocks, sparse trees, and a wire fence rises alongside the road, all beneath a clear blue sky crisscrossed by power lines.
+end of description
+As the viewpoint progresses forward, the large rock formation on the right side of the road gradually moves out of the frame to the viewer's immediate right, revealing more of the grassy slope and fence. A small triangular road sign, initially visible on the left side of the road further ahead, approaches and then passes out of view to the viewer's left. The road ahead continues its leftward curve, with the forested mountains and blue sky maintaining their background position relative to the initial viewpoint.
+frame_0000000256-frame_0000000384:
+The first frame captures a paved road gently curving left and ascending, leading into the distance. To the viewer's left, a steep, heavily forested mountain dominates the background, with a concrete barrier running alongside the road's edge. On the right, a grassy hill slopes upwards, featuring a wire fence with wooden posts, a slender tree, and two utility poles, all under a clear blue sky dotted with white clouds.
+end of description
+As the viewer moves forward along the road, the initial scene shifts, revealing dynamic changes. The concrete barrier on the left continues to recede, while the grassy hill on the right reveals a newly visible stone retaining wall that gradually emerges and then passes by. The prominent tree and utility poles on the right move progressively further into the upper background until they are no longer visible.

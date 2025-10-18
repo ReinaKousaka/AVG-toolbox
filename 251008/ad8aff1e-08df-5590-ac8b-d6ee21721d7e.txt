@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a city street from a low vantage point, with a wide crosswalk in the immediate foreground. Tall buildings flank both sides of the road, receding into the distance under a bright sky, with a prominent tree and a green truck parked on the left street side, and a pedestrian crossing on the right.
+end of description
+The pedestrian on the right continues to walk forward and rightward across the crosswalk, eventually moving out of the frame to the right. Shadows on the street progressively lengthen and shift from the left side of the road further towards the center. Additional pedestrians and activity become visible further down the right sidewalk.
+frame_0000000128-frame_0000000256:
+The viewer is positioned on a city street, looking straight ahead down a road lined with tall buildings under a partly cloudy sky. To the immediate left is a bright green truck and a large tree, followed by other parked cars and buildings, while to the right are parked cars, storefronts including one with a blue awning, and pedestrians on a sidewalk. Far ahead, the street converges towards distant buildings and moving vehicles.
+end of description
+As the viewpoint advances, the green truck and other initial parked vehicles and storefronts on both sides progressively move out of frame, eventually becoming positioned behind the viewer. Simultaneously, new portions of the street, sidewalk, buildings, and additional vehicles further down the road are continuously revealed ahead of the viewer.
+frame_0000000256-frame_0000000384:
+The first frame displays a wide city street extending into the distance, bordered by multi-story buildings with storefronts and parked vehicles (light grey sedan and dark van on the left, white SUV and dark sedans on the right). In the mid-ground, a red city bus is on the left and a black truck on the right; further into the distance, an ornate building and construction crane are visible under a partly cloudy sky.
+end of description
+A black sedan on the left moves forward, approaching and then passing the viewer's position, as a blue and white cement mixer truck emerges from the left mid-ground and crosses the intersection. Simultaneously, the red city bus on the left advances towards the viewer, and a brown UPS truck on the right, previously partially obscured, becomes fully visible while also moving forward, with a white USPS vehicle appearing further down the left.

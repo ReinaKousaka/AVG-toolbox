@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+A two-lane asphalt road with yellow double-center lines and a white right shoulder line extends directly forward into the distance under a clear blue sky. To the left, distant red rock cliffs rise above a green, vegetated area, while a rocky, scrub-covered hillside with a yellow right-turn sign sits on the right.
+end of description
+As the viewpoint moves forward along the road, the yellow sign on the right, which is revealed to also have a '55 MPH' panel beneath the turn arrow, approaches and then passes out of frame to the right, while the surrounding hills and cliffs recede into the background.
+frame_0000000128-frame_0000000256:
+In the first frame, a two-lane paved road, marked with double yellow lines on the left and a single white line on the right, extends from the immediate foreground towards the distant horizon, curving gently to the right. To the left, a green valley lies beneath towering reddish-brown rock formations in the mid-ground and background. To the right, a dry, brush-covered slope rises to a rocky, treed hill, all beneath a clear blue sky.
+end of description
+In subsequent frames, the viewpoint continuously moves forward along the road, causing the road, foreground vegetation, and distant landscape features to advance towards and past the viewer, relative to their initial positions. No new objects or scenes are revealed; instead, the existing desert canyon environment simply progresses as the viewer travels through it.
+frame_0000000256-frame_0000000384:
+The first frame displays a two-lane asphalt road stretching ahead of the viewer, featuring double yellow center lines and a white right shoulder line. To the left lies a vegetated valley floor leading to distant red rock cliffs, while a rocky, shrub-covered hillside rises to the right, all beneath a clear blue sky.
+end of description
+As the frames progress, the viewpoint moves forward along the road. The road and immediate roadside vegetation (originally in the foreground relative to the first-frame viewpoint) continuously recede towards the viewer, revealing new sections of the highway. The rocky hillside on the right and the valley with red cliffs on the left move past the viewer, with the distant mountains subtly shifting as the road gently curves ahead.

@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a dark, wet street at night, with heavy rain falling visibly across the foreground and midground. To the left, a white fence with a decorative metal railing recedes into the distance, while a utility pole with a striped sign is prominently positioned on the right. Dark cars are parked further down the street on the right, illuminated by distant streetlights in the background.
+end of description
+In the subsequent frames, the continuous heavy rain remains the sole dynamic element, with visible streaks of water moving downwards in front of the viewer, reflecting the ongoing downpour without revealing any new objects or significant changes to the scene's composition.
+frame_0000000128-frame_0000000256:
+The first frame displays a dark, rainy street scene at night. In the foreground, a wet asphalt road with yellow dashed lines leads away from the viewer. To the left, a white decorative metal fence and a building are visible, while to the right, a black Mini Cooper with a white roof is parked, partially obscured by a yellow barrier and foliage. In the midground, the street continues with more parked cars and buildings lining both sides, illuminated by distant streetlights. Heavy rain streaks diagonally across the entire frame.
+end of description
+Throughout the subsequent frames, the heavy rain continues to fall consistently across the entire scene, maintaining the same spatial position relative to the static first-frame viewpoint. The street remains wet and reflective, and the ambient lighting from streetlights and building windows stays unchanged. No new objects or scenes are revealed in the sequence.
+frame_0000000256-frame_0000000384:
+The first frame displays a dark, rainy street at night, looking down a narrow alley bordered by buildings and parked cars. Yellow dashed lines mark the wet road, with a fence and low building visible to the left, while several cars are parked beside a multi-story building with illuminated windows to the right. A distant street lamp illuminates the falling rain and the wet pavement ahead.
+end of description
+Throughout the following frames, the heavy rain dynamically continues to fall across the entire scene, creating visible splashes and ripples on the wet road surface, intensifying the downpour without revealing any new objects or altering the viewpoint.

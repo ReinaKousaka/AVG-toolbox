@@ -1,0 +1,11 @@
+frame_0000000000-frame_0000000128:
+A wet, dark gray asphalt path curves gently leftward in the foreground and midground, flanked by brown woven fences with lighter horizontal poles. Tall, slender green bamboo stalks densely line both sides beyond these fences, rising towards a bright, overcast sky visible above.
+end of description
+The camera moves steadily forward along the path. The winding route unfolds, revealing more of the path ahead as it curves left then slightly right. The dense bamboo forest and fences on both sides continuously recede into the distance relative to the advancing viewpoint.
+frame_0000000128-frame_0000000256:
+A wet, paved path curves gently right and recedes into the distance, flanked by low, dark brown fences. Beyond these, dense, tall green bamboo groves line both sides, extending upwards, with a lighter green forested area visible in the distant background under an overcast sky. end of description
+The viewpoint slowly moves forward along the path. The sections of the fences and bamboo groves that were initially closest on the left and right move past the viewer and recede behind, revealing new sections of the path and the dense bamboo forest further ahead relative to the initial position. The distant forested area slowly approaches as the camera progresses along the curving path.
+frame_0000000256-frame_0000000384:
+A wet, paved path curves gently to the left and recedes into the distance, flanked on both sides by low, dark brown barriers. Beyond these barriers, dense, tall green bamboo trees rise towards a light, misty sky.
+end of description
+The subsequent frames show no dynamic changes; the scene remains static with all objects retaining their original positions relative to the first-frame viewpoint.

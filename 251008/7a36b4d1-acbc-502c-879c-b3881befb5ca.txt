@@ -1,0 +1,29 @@
+frame_0000000000-frame_0000000128:
+First, the frame displays a narrow urban street stretching away from the viewer, lined with tall buildings adorned with numerous signs, with a white van visible further down the street. To the immediate right, the back of a person in a light blue shirt walks away, while to the left, two orange trash cans, vending machines, and various advertisement posters are situated.
+end of description
+Subsequently, the person on the right walks further down the street and continues moving towards and then past the right edge of the frame, gradually disappearing from view relative to the static viewpoint. No other significant changes or newly revealed objects occur.
+frame_0000000128-frame_0000000256:
+The first frame depicts a narrow city street extending forward, flanked by multi-story buildings with various signs and storefronts, including vending machines and a prominent panda-faced banner on the immediate left. A white van is parked further down the street on the right.
+end of description
+As the frames progress, the viewpoint slowly moves forward along the street. Objects initially on the immediate left, like the vending machines and the panda banner, progressively shift towards the far left and partially out of view relative to their initial positions. Concurrently, the street pavement in the center foreground expands, and architectural details of buildings on both sides become more distinct as the viewer approaches them, while the white van remains stationary ahead on the right.
+frame_0000000256-frame_0000000384:
+The first frame presents a narrow city street flanked by multi-story buildings dense with colorful signs and banners on both sides, receding into the distance under a clear blue sky. In the immediate foreground to the left are white banners with Japanese writing, a brown woven bag, and a wooden menu stand, while a white van is parked further down the street on the right.
+end of description
+As the frames progress, the viewpoint moves forward along the street, revealing more of the storefronts and signs previously partially obscured on both sides. The banners, bag, and menu stand on the immediate left recede out of frame as the viewer advances. Concurrently, the white van parked on the right side of the street gradually appears larger and closer, indicating the consistent forward motion of the camera.
+frame_0000000384-frame_0000000512:
+The first frame depicts a narrow urban street lined with multi-story buildings under a clear sky. To the left, a building displays a large metallic vent, white lanterns, and a red rooster sign above an awning, with an A-frame food sign prominent in the bottom-left foreground. On the right, a yellow-facade building features a "JAZZ CLUB ARIES" sign and a red storefront, with a white van parked further down the street in the mid-ground.
+
+end of description
+As the viewpoint subtly moves forward, the foreground A-frame sign gradually exits the bottom-left of the frame, revealing more of the building wall below the lanterns. Simultaneously, the white lanterns and red rooster sign on the left slightly shift upwards and left relative to their initial positions, while the Jazz Club sign on the right recedes further into the distance, indicating a slow forward progression.
+frame_0000000512-frame_0000000640:
+The first frame captures a narrow Japanese street lined by tall buildings and numerous vibrant signs under a clear blue sky. A dark building with white lanterns and an awning dominates the immediate left, while a silver minivan is parked mid-street to the right.
+end of description
+As the camera subtly moves forward and slightly right, the dark entrance on the left fully reveals a parked motorcycle/bicycle previously obscured within it. Concurrently, more posters and intricate details on the building to the right of the stationary minivan become visible.
+frame_0000000640-frame_0000000768:
+First, the first frame shows a sunlit, narrow urban street receding into the distance, bordered by multi-story commercial buildings on both sides. To the left, a maroon-facade building features an open entrance and signs, while a silver van is parked on the right next to a white building with air conditioning units and a 'SHOW' sign. Overhead utility wires crisscross the sky above the street, where a pedestrian walks away in the far distance on the left.
+end of description
+In the subsequent frames, the pedestrian observed in the distance on the street's left side continues to walk away from the viewer, gradually receding further until they are no longer visible by frame five. All other visible objects, including the parked silver van and the surrounding buildings, remain stationary relative to their positions in the first frame. The license plate of the parked van, however, inexplicably changes from '67-42' to '77-42' between frame five and frame six.
+frame_0000000768-frame_0000000896:
+The viewer looks down a paved, sunlit urban street lined with multi-story buildings. To the immediate left is a dark red-paneled building with "STEAK C INING" text and an outdoor menu stand. On the right, a silver van is parked facing away, next to a white building. Further down the street, buildings on both sides display numerous commercial signs, with utility poles and wires overhead, and a small green tree stands on the right mid-ground. The street recedes into the distance under a clear blue sky.
+end of description
+The silver van, initially parked to the immediate right of the viewer, begins to move forward. It gradually shifts further to the right, increasingly revealing the pavement and the white building behind its original position. By the final frame, the van has almost entirely moved out of sight to the right of the first-frame viewpoint.

@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+In the first frame, a dirt path extends from the foreground right into the distance, flanked by tall green grass on the left. A low stone wall runs parallel to the path on the left, leading towards distant green hills under a partially cloudy sky. To the right of the path, a grassy hillside with exposed rock formations rises.
+end of description
+As the frames progress, the viewpoint moves forward along the path, causing the foreground grass on the left and the path itself to move past the viewer, while the stone wall and the rocky hillside to the right progressively appear closer.
+frame_0000000128-frame_0000000256:
+A dirt path extends from the bottom right, curving slightly upwards towards the center-middle, flanked by tall green grass in the left foreground and a grassy hillside on the right. A low stone wall runs horizontally across the mid-ground, behind which lies a rocky landscape with numerous grey boulders on a green slope to the left. In the background, rolling green hills are visible beneath a partly cloudy sky.
+end of description
+The viewpoint slowly advances forward along the path, causing the immediate foreground grass and path elements to move past and recede. As the camera progresses, new sections of the stone wall and the rocky hillside on the left are revealed. The overall perspective gradually shifts to reveal more of the path stretching ahead, while the distant background hills remain relatively stable.
+frame_0000000256-frame_0000000384:
+The first frame displays a rugged landscape featuring a narrow dirt path in the foreground and mid-right, bordered by tall green grass dominating the foreground and center-left. A dry-stone wall stretches across the midground, separating the path area from a rocky, grassy hillside on the left with numerous large grey boulders. In the background, rolling green hills rise beneath a partly cloudy sky.
+end of description
+As the viewpoint moves forward along the path, the foreground grass parts and shifts, revealing more of the muddy ground and path directly beneath the first-frame's perspective. The dry-stone wall, initially in the midground, and the rocky hillside to its left, progressively advance towards the first-frame viewpoint and then recede slightly as the camera moves past them. The dirt path becomes more textured with rocks and mud, extending from the bottom right closer to the first-frame's initial position, while the distant hills subtly shift in perspective.

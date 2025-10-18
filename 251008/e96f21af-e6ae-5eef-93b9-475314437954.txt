@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a paved road extending from the viewer's immediate foreground towards a gentle rightward curve in the mid-ground. To the left, a steep, grassy bank is densely covered with evergreen trees, ascending into the background, while the right side features a grassy slope with scattered evergreens. A bright, mostly white sky dominates the upper portion, and faint distant mountains are visible beyond the treeline in the far background.
+
+end of description
+
+As the sequence progresses, the viewpoint moves forward along the road, causing the immediate roadside vegetation to recede from the original perspective. Concurrently, the landscape to the right and in the distance opens up, revealing more prominent, darker mountain ranges and a clearer sky with defined clouds further to the right of the initial distant mountain position.
+frame_0000000128-frame_0000000256:
+The first frame displays a narrow paved road receding into the distance, curving left, flanked by a steep, tree-covered grassy hillside on the left and a descending grassy slope with evergreen trees on the right, overlooking distant mountains under a partly cloudy sky. end of description. The viewpoint advances forward along the road; the road surface and adjacent landscapes continuously move towards and past the viewer. A small, dark grey roadside marker becomes visible on the right side of the road, emerging from the mid-distance and gradually moving closer until it passes just to the right of the viewer's position.
+frame_0000000256-frame_0000000384:
+A paved road stretches from the bottom center, curving gently left into the middle distance, bordered by steep, forested grassy slopes on both sides. To the left, a dense evergreen forest lines the road, while on the right, scattered trees ascend a grassy hill towards a distant mountain peak and cloudy sky.
+end of description
+The sequence captures continuous forward motion along this mountain road. The road surface and the immediate surrounding grassy slopes and trees on both sides steadily move towards and then past the viewer, progressively revealing new segments of the winding path and receding forest further ahead relative to the initial viewpoint.

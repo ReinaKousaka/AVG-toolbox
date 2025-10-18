@@ -1,0 +1,9 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a forward view down double railroad tracks, curving right into the distance. To the left, a sloped embankment with sparse trees is visible, while a dense green forest lines the right, featuring a utility pole in the mid-ground; a bridge or tunnel entrance is visible in the background, beneath cloudy skies and distant mountains.
+
+end of description
+The train moves forward, causing the utility pole on the right to rapidly approach and pass out of view to the viewer's right. The tracks and adjacent forested landscape rush past, while the distant bridge/tunnel entrance grows progressively larger as the train approaches it. The overhead wires also appear to move swiftly above the viewer.
+frame_0000000128-frame_0000000256:
+The first frame shows train tracks stretching from the viewer's immediate foreground into the distance, curving slightly right towards a stone bridge with an arched opening. To the left, a cleared bank of earth and sparse green vegetation leads up to a line of pine trees and a tall pole with overhead wires, while to the right, a lush bank densely covered with ferns rises, with a metal safety barrier along its edge. Beyond the bridge and surrounding the scene are dense green forests and rolling hills under a partly cloudy sky.
+end of description
+As the viewer moves forward along the tracks, the foreground elements such as the tracks, the left pole with its catenary wires, and the surrounding vegetated banks rapidly approach and move past on both sides. The stone bridge in the mid-distance progressively looms larger and closer, eventually filling the central view as the train proceeds towards its archway. The landscape beyond the bridge, initially distant, becomes more defined as the viewer approaches the tunnel entrance created by the bridge.

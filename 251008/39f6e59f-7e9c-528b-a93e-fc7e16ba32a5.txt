@@ -1,0 +1,28 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a verdant park pathway, with a wooden walkway and a black railing positioned on the left, leading away from the viewer. A group of people, primarily seen from behind and carrying backpacks, walks along this left walkway, receding into the mid-ground. To the right of the walkway, a paved path stretches into the distance, bordered on its immediate left by a dark lamp post and on its right by a dense green hedge; lush trees and foliage dominate the background and upper frame.
+end of description
+As the frames progress, the group of people on the left walkway consistently moves forward, gradually receding further into the background along their original path. Subtle changes in shadow patterns are visible on the central paved path, but no new objects or scenes appear in relation to the initial viewpoint.
+frame_0000000128-frame_0000000256:
+The first frame shows a paved path descending towards the viewer's center, bordered by dense green bushes on both sides and a canopy of trees in the background. To the left, a raised wooden boardwalk with a dark railing runs parallel, on which a line of hikers with backpacks are walking away from the viewer. A dark pole stands in the left midground between the boardwalk and the main path.
+end of description
+The viewpoint continuously moves forward and slightly down the path. The paved path extends further ahead, progressively revealing more of its surface closer to the viewer. The group of hikers on the left boardwalk moves further into the distance, remaining to the left of the viewer's forward direction. The surrounding green foliage on both sides of the path appears to shift closer as the viewpoint advances within the same natural setting.
+frame_0000000256-frame_0000000384:
+The first frame shows a sun-dappled, light-colored path receding into a lush green, tree-lined park. A dark grey pole stands in the far left foreground, partially obscuring a wooden railing with faint figures and dense green bushes that border the path. On the right, abundant green foliage and ferns line the path as it curves into the verdant background.
+end of description
+The camera subtly moves forward along the path, causing the foreground elements to appear slightly closer. A "SEOUL" watermark briefly appears in the bottom-left corner relative to the first-frame viewpoint in frames 7 and 9.
+frame_0000000384-frame_0000000512:
+The first frame presents a view down a winding paved path, extending from the foreground center into the verdant background. Lush green trees and dense foliage line both sides of the path, forming a natural arch overhead. To the immediate left, rocks and dry earth are visible, transitioning into a thick wall of bushes and trees. On the right, ferns and trimmed hedges run parallel to the path, backed by more towering trees, all under dappled sunlight.
+end of description
+As the frames progress, the viewpoint slowly moves forward along the path, deepening the perspective into the leafy tunnel. The path ahead gradually unfolds, revealing more of its gentle curve and the dense, vibrant green foliage bordering it on both sides, while the initially visible foreground recedes.
+frame_0000000512-frame_0000000640:
+A light-colored paved path stretches from the bottom center towards the background, receding into a dense forest. To the viewer's immediate left, the path is bordered by dry earth and low green bushes, with larger rocks visible further left and a wall of lush green trees rising above. On the viewer's right, the path is flanked by manicured green hedges, beyond which a variety of green foliage and trees extend into the midground. The entire scene is enveloped by verdant greenery, with a bright sky barely visible through the thick tree canopy at the top, and a 'SEOUL WALKER' watermark in the bottom-left corner.
+end of description
+Throughout the subsequent frames, the scene remains entirely static with no dynamic changes or newly revealed objects. The first-frame viewpoint is maintained without any movement or alteration.
+frame_0000000640-frame_0000000768:
+The first frame displays a verdant park path stretching from the bottom center into the distance, subtly curving leftward. Lush green foliage, including trees and dense shrubs, borders both sides, with a low stack of rocks visible behind bushes on the immediate left. A neatly trimmed hedge runs parallel to the path on the right, and a bright sky peeks through the upper background canopy.
+end of description
+Subsequent frames reveal subtle dynamic changes as leaves and branches throughout the scene, primarily those on the left and right, gently sway. The first-frame viewpoint remains static, showing no newly revealed objects or scenes, with only minor shifts in shadows and light due to the foliage movement.
+frame_0000000768-frame_0000000896:
+A dirt path stretches from the foreground into the distance, gently curving left, surrounded by lush green trees and shrubs. To the viewer's left, a low stone wall and dense green bushes ascend to a treed hillside, while to the right, a neatly trimmed green hedge runs parallel, backed by more trees. A faint lamppost stands in the wooded distance, slightly left of the path's center.
+end of description
+Subtle movement in the foliage of the trees and shrubs, particularly those to the right, indicates a gentle breeze. No new objects or scenes are revealed; all elements remain spatially consistent with the first-frame viewpoint.

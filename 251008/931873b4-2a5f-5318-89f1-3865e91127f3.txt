@@ -1,0 +1,6 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a downward-sloping dirt path with wooden steps in the foreground, flanked by a large tree trunk on the left and a grey boulder on the right. A small red ball rests on the path in the middle ground, which continues into a dense forest populated by numerous trees with green foliage and scattered rocks extending into the background.
+
+end of description
+
+Subsequent frames reveal subtle camera movement, causing slight shifts in the perspective of foreground elements such as the tree trunk and the steps. This also leads to minor variations in the visibility of a bright area, likely water or sky, through the trees in the distant far-left background.

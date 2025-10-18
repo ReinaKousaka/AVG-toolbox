@@ -1,0 +1,29 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a wooden boardwalk curving slightly to the right in the foreground, bordered by a dense, green hillside on the left. To the right of the boardwalk, a calm body of water features a small boat docked further along, with indistinct figures visible on a wooden path across the water, all set against a backdrop of tree-covered hills.
+end of description
+The viewpoint slowly advances along the wooden boardwalk, revealing more of the path ahead. As the camera progresses, a person in a bright yellow top becomes distinctly visible among the figures further along the wooden path across the water. The surrounding lush vegetation on the left and distant hills remain prominent, with the boat staying stationary relative to the water. The overall scene gently unfolds as the viewer moves forward along the picturesque waterway.
+frame_0000000128-frame_0000000256:
+The first frame features a wooden boardwalk curving from the bottom left towards the right, bordered by wooden railings on both sides. To the right, a greenish-brown body of water flows alongside the path, beyond which lies a muddy bank with sparse, bare trees and a distant arched stone bridge. A densely forested hillside occupies the left, while distant green hills are visible under an overcast sky on the right, with a few people walking ahead on the boardwalk.
+
+end of description
+As the viewpoint advances along the boardwalk, the foreground railing continuously moves past the viewer. The people originally ahead on the boardwalk gradually move further away and eventually out of frame to the right. Concurrently, the small boat and distant bridge also recede further into the midground as the perspective shifts forward.
+frame_0000000256-frame_0000000384:
+A wooden boardwalk with railings on both sides curves from the foreground into the midground. To its left are dense green trees, and to its right is a body of brownish-green water. In the midground, beyond the water, stand sparse bare trees and a small wooden bridge, with lush green mountains and an overcast sky in the background.
+end of description
+The camera smoothly moves forward along the boardwalk, causing the foreground railing on the right and the dense foliage on the left to progressively move closer to the viewer. Meanwhile, the distant landscape with the bridge recedes slightly in perspective, and no new objects are revealed.
+frame_0000000384-frame_0000000512:
+A wooden boardwalk with railings extends from the bottom center, curving slightly right into the middle distance. To the left of the boardwalk are dense green bushes and trees, while to its right lies a body of water with a muddy bank visible on the far side. In the middle-right background, a small wooden arch bridge spans water beyond bare trees, and forested mountains rise in the far distance under an overcast sky.
+end of description
+The viewer steadily moves forward along the wooden boardwalk. As the camera advances, the immediate sections of the boardwalk and railings pass by, receding behind the viewer. Concurrently, new segments of the path, the lush green vegetation to the left, and the water to the right become progressively visible in the foreground.
+frame_0000000512-frame_0000000640:
+A wooden boardwalk, flanked by brown railings with square posts, curves gently to the right and recedes into the distance. Lush green foliage lines the left side, while murky water occupies the space to the right of the boardwalk. In the middle ground, a smaller wooden bridge is visible across the water amidst bare trees, with forested mountains rising under an overcast sky in the far background.
+end of description
+The viewpoint steadily moves forward along the wooden boardwalk. As the camera advances, the green foliage on the left and the wooden railings on both sides progressively move past the viewer. This movement reveals more of the curving path ahead and brings the distant landscape, including the small bridge, slightly closer.
+frame_0000000640-frame_0000000768:
+The first frame presents a wooden boardwalk curving gently to the right, extending from the viewer into a natural landscape. Lush green foliage lines the left side, while a muddy body of water is visible to its right. Beyond the boardwalk, a dense thicket of bare trees and a small arched wooden bridge appear in the midground, with forested hills rising in the background under an overcast sky.
+end of description
+As the camera moves forward, the boardwalk recedes, progressively revealing more of the water and bringing the bare trees and the bridge, previously further ahead, closer into view. The lush foliage on the viewer's left also slowly passes by as the scene progresses.
+frame_0000000768-frame_0000000896:
+The first frame presents a wooden boardwalk extending from the viewer into the mid-distance, flanked by a robust wooden railing on the right and dense green foliage along a partial railing on the left. To the right of the boardwalk, a murky brown body of water is visible, beyond which a thicket of mostly bare trees and shrubs occupies the midground. A small, arched wooden bridge is discernible in the distant center-right, with a dense green forest covering hillsides in the background under an overcast sky.
+end of description
+The camera slowly moves forward along the boardwalk. A person in a bright yellow jacket, followed by another individual, appears walking towards the viewer on the boardwalk in the mid-left portion of the frame. These individuals continue to approach, becoming more distinct as the camera progresses along the wooden path.

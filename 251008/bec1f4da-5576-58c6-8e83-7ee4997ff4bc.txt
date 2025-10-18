@@ -1,0 +1,14 @@
+frame_0000000000-frame_0000000128:
+In the first frame, a paved road extends from the bottom center towards the middle distance, bordered by dry, golden grass and bare trees on both sides. A small stone bridge is visible directly ahead on the road. Dominating the background on the left are large, rugged mountains, with a strip of dark green forest at their base, all under a clear blue sky. The shadow of a person holding a device is cast on the lower right side of the road, relative to the viewer's position.
+end of description
+As the frames progress, the viewpoint slowly moves forward along the road, causing the stone bridge and the surrounding landscape to appear progressively closer to the viewer. The mountains in the background and the trees in the midground grow subtly larger as the camera advances. No new objects are revealed; instead, existing elements of the scene gradually fill more of the frame, maintaining their positions relative to the first-frame viewpoint.
+frame_0000000128-frame_0000000256:
+The first frame presents a gravel road extending forward into the midground, where it passes between two stone gate pillars. Dry grassy fields and sparse, bare trees flank the road, with a large range of rugged mountains dominating the distant background under a clear blue sky. In the bottom right foreground, a shadow of a person holding a device is cast.
+end of description
+As the frames progress, the viewpoint subtly moves forward along the road, causing the stone gate and distant mountains to appear marginally closer. Simultaneously, the camera operator's shadow in the bottom right corner gradually expands and shifts slightly to the left. The frosty appearance on the grass to the left of the road also diminishes slightly over time.
+frame_0000000256-frame_0000000384:
+The first frame presents a paved road extending into the distance, with a frosted area on its left foreground and a human-like shadow on the bottom right. In the midground, the road passes between two dry-stone walls, leading to a green field lined with evergreen trees, all set against imposing, rugged mountains under a clear blue sky in the background.
+
+end of description
+
+The viewpoint steadily advances along the road, causing the frosted area to recede and eventually disappear from the bottom left of the frame. The two stone walls approach the viewer, then move past to the immediate sides and eventually behind the initial midground position. As the camera progresses, the background mountains and evergreen trees become slightly larger, indicating the viewer's forward movement towards them.

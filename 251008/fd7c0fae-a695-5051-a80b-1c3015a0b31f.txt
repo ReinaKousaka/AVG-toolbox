@@ -1,0 +1,14 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a wide river flowing away from the viewer under a blue sky adorned with scattered white clouds. To the viewer's left, a distant bank lined with stones hosts a treeline with buildings visible behind it. To the viewer's right, a closer, elevated bank covered in dense green foliage and trees displays exposed roots and fallen branches along its stony shoreline.
+
+end of description
+
+Across the subsequent frames, the primary dynamic changes occur on the river's surface in front of the viewer, where ripples and waves continuously shift and flow away. Additionally, the scattered white clouds in the distant sky above the viewer exhibit minor, almost imperceptible, changes in their shapes and positions. No new objects or scenes are revealed from the first-frame viewpoint.
+frame_0000000128-frame_0000000256:
+The viewer is positioned at water level on a wide, flowing river that extends forward into the distance. To the left, a distant bank features several buildings with brown roofs amidst green trees. To the right, a closer, rocky bank is densely covered with trees and foliage. Above, a bright blue sky with scattered white clouds forms the background.
+end of description
+The river's surface continuously shows dynamic ripples and waves as it flows forward from the viewer. From frame 6 through 9, a distinct circular ripple pattern actively forms and then dissipates in the water directly ahead and slightly to the right of the first-frame viewpoint, suggesting a splash or object entering the water.
+frame_0000000256-frame_0000000384:
+The first frame captures a wide, choppy river extending from the foreground into the distance, flanked by a distant bank on the left with buildings and trees, and a densely treed shoreline on the right. Overhead, a blue sky is dotted with scattered white clouds.
+end of description
+Across the following frames, the primary dynamic change is the continuous movement and shifting patterns of ripples and currents on the water's surface, flowing past the viewer, while the distant landscape remains static with no newly revealed objects.

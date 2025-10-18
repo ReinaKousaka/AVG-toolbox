@@ -1,0 +1,29 @@
+frame_0000000000-frame_0000000128:
+A paved road with double yellow center lines and a white right shoulder line curves gently to the right, receding into the distance. Tall, dense evergreen trees flank both sides of the road, forming a forest under a cloudy sky; a green, grassy bank slopes upwards on the left, while a flatter grassy verge with some bare tree trunks lies to the right.
+end of description
+As the viewpoint progresses forward along the road, the immediate surroundings of trees and verges shift closer and then recede to the sides. The road's curve ahead maintains its prominence but dynamically changes perspective as the viewer traverses the forested landscape. No new objects or scenes are revealed; rather, the existing environment of the winding road through the dense forest is continually explored from a new vantage point.
+frame_0000000128-frame_0000000256:
+The first frame displays a paved road with double yellow lines on its left and a white shoulder line on its right, gently curving to the left through a dense forest under an overcast sky. To the viewer's left, a green, vegetated slope borders the road, while to the right, a dirt shoulder precedes a mix of tall evergreen and visibly dead or burnt trees that extend into the background.
+end of description
+As the viewpoint moves forward along the road, previously distant sections of the winding asphalt and the surrounding forest continuously approach and pass by, revealing new portions of the dense treeline that were further ahead in the initial frame, shifting into the foreground.
+frame_0000000256-frame_0000000384:
+The first frame shows a paved two-lane road with double yellow center lines and a white shoulder line on the right, extending forward and gently curving left into a dense forest of tall green conifer trees under an overcast sky. To the left, a green, vegetated embankment slopes upwards, while to the right, sparse, dark tree trunks with some green undergrowth line the roadside.
+
+end of description
+As the viewpoint moves forward along the road, the left embankment and dense green forest remain prominent, while the sparse, dark trees on the right are gradually replaced by thicker green foliage and yellow flowers further along the road. The road continues to curve more pronouncedly to the left, revealing new sections of the forest and, eventually, a yellow cautionary road sign appearing further ahead on the right side.
+frame_0000000384-frame_0000000512:
+The first frame displays a paved road curving slightly to the right in the distance, stretching from the foreground towards the viewer's forward direction. Double yellow lines mark the center of the road, with a white line defining its right edge. Dense evergreen forests flank both sides, with tall conifers forming a canopy against a cloudy sky. The terrain on the left slopes upwards, heavily wooded with green undergrowth, while a yellow diamond-shaped curve warning sign is visible in the distant right forest.
+end of description
+As the viewpoint steadily moves forward, the initial scenery recedes while new sections of the curving road and the dense forest continuously emerge from the front. The yellow curve warning sign on the right approaches the viewer, becoming larger and clearer. Concurrently, the forested slope on the left side of the road becomes more pronounced and detailed as the camera advances.
+frame_0000000512-frame_0000000640:
+The viewer looks forward down a paved road with double yellow lines, flanked by a steep, vegetated embankment to the left and a dense forest to the right, under a cloudy sky. A yellow T-intersection sign is visible ahead on the right side of the road.
+end of description
+The scene moves forward, causing the road sign to steadily approach from the right mid-ground and then move out of view to the right, while the forested surroundings and embankment on both sides continuously scroll past, revealing more of the winding road ahead.
+frame_0000000640-frame_0000000768:
+The first frame displays a paved road extending from the bottom center into the distant, slightly uphill horizon, marked by a double yellow line and a white shoulder line. To the viewer's left, a steep hillside covered in dense green and yellow-green foliage rises, revealing a small, partially obscured brown sign, while tall evergreen trees and a flatter, grassy area occupy the right side, all beneath a cloudy sky.
+end of description
+As the viewpoint advances, the road gently curves left, causing the foreground trees to recede and the hillside on the left to show more exposed rocky surfaces. Concurrently, a new brown directional sign, previously beyond the first-frame's visible horizon, emerges and approaches on the right.
+frame_0000000768-frame_0000000896:
+The first frame depicts a paved road stretching from the foreground into the distance, bordered by dense, tall evergreen trees on both the left and right. A sloping, forested embankment is visible to the left, while a brown dirt shoulder and a prominent reddish-brown sign bearing an arrow are positioned on the right side of the road, mid-distance from the viewer.
+end of description
+As the perspective moves forward, the surrounding trees approach and then recede out of view laterally. The sign on the right draws nearer, revealing "Yosemite West" text along with hotel and directional symbols, before eventually disappearing to the right.

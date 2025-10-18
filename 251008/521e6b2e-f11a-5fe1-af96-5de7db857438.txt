@@ -1,0 +1,16 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a paved pathway extending forward from the viewer, bordered by a green park on the left and a modern building on the right, leading towards a city skyline in the distance. Ahead and slightly to the left, a man in blue and a woman in athletic wear jog away, while two men walk ahead and to the right, one carrying a satchel and the other a backpack.
+end of description
+Over subsequent frames, the jogging and walking figures consistently recede further along the path from the initial viewpoint, becoming smaller. The implied forward movement of the camera continuously reveals more of the pathway and the expanding park area to the left. Eventually, a person pushing a stroller becomes visible in the distance, further ahead on the path relative to the first-frame viewpoint, beyond the other figures.
+frame_0000000128-frame_0000000256:
+The first frame shows a paved pathway receding into the distance, bordered on the left by a grassy park with trees and on the right by a light-colored building wall. Two men, seen from behind, walk away from the viewer in the mid-ground, while further down the path, a person pushes a stroller and other figures are visible against a city skyline in the background.
+end of description
+Throughout the subsequent frames, all pedestrians, including the two men in the mid-ground and the distant stroller-pusher, consistently move forward and away from the first-frame viewpoint along the path. Concurrently, a prominent building sign located on the wall to the right of the first-frame viewpoint gradually comes into full view, revealing "CITY VINEYARD" in green text with orange graphical elements.
+frame_0000000256-frame_0000000384:
+The first frame shows two men walking away on a checkered pavement in the foreground-right, one with a brown satchel and the other a black backpack. To their left, further down the path, a woman pushes a baby stroller towards the viewer. In the background, a cityscape of tall buildings rises under a clear sky, flanked by green trees on the left and a building wall with blue tiling on the immediate right.
+end of description
+As the frames progress, the two men in the foreground continue walking away towards the distant cityscape. The woman pushing the stroller moves closer to the viewer's left, eventually passing by. Other pedestrians in the midground also continue their movement along the paved path.
+frame_0000000384-frame_0000000512:
+First, the initial frame presents an urban outdoor pathway with a city skyline in the background. In the foreground, two men walk away from the viewer, one with a messenger bag and the other a backpack, while a woman pushing a baby stroller is visible to the far left, on her phone. Numerous other people are scattered along the midground path, some walking away, others approaching, with trees and a "CITY" sign visible on the right.
+end of description
+Dynamically, the foreground figures continue moving further away from the first-frame viewpoint, and the woman with the stroller eventually exits the frame to the left. Runners repeatedly appear from the left midground, moving closer to the viewer before exiting the frame to the left, while background figures largely proceed away along the pathway.

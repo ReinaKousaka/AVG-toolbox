@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a narrow dirt path receding uphill into a dense evergreen forest, flanked by vibrant green undergrowth on both sides, extending from the foreground into the background. A large tree trunk stands prominently close to the viewer on the far right, with other tall trees lining the path further into the midground and background.
+end of description
+As the frames progress, the viewpoint steadily moves forward along the path, causing the foreground objects, including the path and immediate undergrowth, to recede from their initial positions. The tree trunk previously on the far right moves out of view to the right as the camera advances, revealing more of the forest floor and path further ahead into the scene.

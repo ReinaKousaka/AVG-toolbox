@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+A white SUV is parked foreground-left on a wet street alongside a sidewalk lined with trees, while a multi-lane road extending into the distance occupies the midground and right. Numerous vehicles, including a white sedan, a black car, and a truck, are present on the road, with tall buildings visible in the background against an overcast sky.
+end of description
+In subsequent frames, the white sedan and the black car on the right lane progressively move forward, further into the distance away from the viewer. Concurrently, the truck and other vehicles in the central and left lanes also inch forward, receding further from the initial viewpoint along the wet road.
+frame_0000000128-frame_0000000256:
+In the first frame, a white SUV is prominently parked on the wet pavement to the left of the viewer, with its front facing slightly right. To its right, a wet multi-lane road extends into the background, where several cars including a white sedan, a black sedan, and a white truck are visible. A line of green trees borders the road on both sides, while tall residential buildings are discernible in the distant left background under an overcast sky.
+end of description
+Throughout the subsequent frames, the stationary white SUV remains in the immediate foreground. All vehicles on the road, including the white sedan on the far right and the black sedan and white truck in the center-left, gradually advance forward from the background towards the midground. The overall scene, including the wet road, trees, and distant buildings, remains consistent from the first-frame viewpoint.
+frame_0000000256-frame_0000000384:
+The first frame shows the front portion of a white SUV parked in the foreground, right, on a wet street. Beyond it, a multi-lane road stretches into the midground and background, occupied by moving and stationary vehicles, with a white sedan receding to the right and a black one parked. To the left is a tree-lined sidewalk, and in the background, an intersection with red traffic lights and distant city buildings are visible under an overcast sky.
+end of description
+Throughout the subsequent frames, the white SUV in the foreground gradually moves backward and to the left, revealing more of the wet road and traffic previously obscured behind it. As the SUV recedes, a large white and blue truck becomes visible in the midground, moving toward the distant intersection.

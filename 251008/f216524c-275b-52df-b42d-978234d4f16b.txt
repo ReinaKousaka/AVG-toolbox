@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a winter village scene with a paved road leading away from the viewer into the distance, flanked by snow banks and bare trees on the left, and a steeper, snow-covered embankment with houses and evergreen trees on the right. Two people, one pushing a stroller, are walking away from the viewer on the road in the midground, under a clear blue sky.
+end of description
+In the subsequent frames, the two individuals and the stroller consistently move further away from the viewer along the road, continuing their path into the village. They remain visible on the road, receding into the distance relative to their initial position in the first frame.
+frame_0000000128-frame_0000000256:
+The first frame captures a winter village scene with a paved road leading from the lower left into the distance. Two women, one in black closer to the viewer and one in mint green pushing a black baby stroller, walk away from the viewer on the left side of the road. To the right of the road, a snow-covered embankment with patches of brown grass rises, behind which stand colorful houses with snow-covered roofs, various trees, and a utility pole, all beneath a clear blue sky.
+end of description
+The two women and the stroller progressively walk further away from the viewer and towards the left side of the frame. As they move, the previously obscured sections of the snowy road and shoulder become visible behind them. They continue moving forward, eventually exiting the frame entirely to the left, leaving an unobstructed view of the road and the houses beyond their original position.

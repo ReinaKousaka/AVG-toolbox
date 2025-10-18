@@ -1,0 +1,6 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a two-lane paved road stretching from the bottom center into the distance, curving slightly to the left. It has double yellow lines in the center and a white solid line on the right shoulder. To the right and left of the road, dry, reddish-brown desert terrain with sparse vegetation and small bushes extends towards distant red rock cliffs that dominate the background under a clear blue sky. A yellow chevron sign, indicating a left curve, stands on the right side of the road in the midground.
+
+end of description
+
+As the viewer moves forward along the road, the initial foreground elements, including the nearer road sections and dry vegetation, progressively move behind the first-frame viewpoint. The yellow chevron sign on the right, initially in the midground, approaches and passes the viewer's original position, eventually receding behind it. Simultaneously, new segments of the curving road and expansive desert landscape, bordered by the same distant red cliffs, are continuously revealed ahead and to the left of the original viewpoint, extending the visible path.

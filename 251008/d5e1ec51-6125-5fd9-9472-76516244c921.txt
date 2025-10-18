@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a two-lane asphalt road with double yellow lines curving right in the foreground, with a silver pickup truck visible to the left on the shoulder, partially obscured by tall pine trees. A steep, dry hillside rises immediately to the right of the road, while numerous evergreen and bare trees, along with a hazy mountain range, recede into the distance under a clear blue sky.
+end of description
+As the sequence progresses, the viewpoint moves forward along the curving road. The pickup truck recedes to the viewer's left and out of the frame, revealing more of the road ahead and the ascending hillside to the right of the original path, while the distant landscape remains visible ahead.
+frame_0000000128-frame_0000000256:
+The first frame captures a paved road with double yellow lines, curving ahead to the right, bordered by a steep, dirt embankment with sparse greenery and numerous bare trees on its right side. To the left, a large tree trunk stands near the viewer, with various green coniferous trees and distant hazy mountains visible beyond it, all under a clear blue sky.
+end of description
+As the camera proceeds forward, the prominent tree trunk from the first frame quickly moves to the left of the initial viewpoint, while the winding road and the steep embankment ahead of the original perspective continuously progress beneath and to the right of the viewer. New sections of the forest and distant landscape that were further ahead of the first-frame's vista are progressively revealed to the left.

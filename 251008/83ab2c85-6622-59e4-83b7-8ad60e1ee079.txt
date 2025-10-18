@@ -1,0 +1,20 @@
+frame_0000000000-frame_0000000128:
+First, a train track stretches directly ahead, curving left into the distance, flanked by green vegetation and fences on both sides. A dense forested hillside rises to the right and in the background, while a body of water is glimpsed to the left beyond some trees under an overcast sky.
+end of description
+As the viewer moves forward along the tracks, the adjacent vegetation and fences continually pass on the left and right, appearing closer as they approach the first-frame viewpoint. The body of water on the left becomes more consistently visible, drawing closer, while the dense forest on the right similarly approaches and moves past. Overhead power lines and their supporting poles also enter and exit the scene, receding behind the initial viewpoint.
+frame_0000000128-frame_0000000256:
+The first frame presents a view looking forward along train tracks that curve gently to the left in the foreground. To the left of the tracks, a body of water and lush green banks are visible, while to the right, a green, tree-covered hillside rises, punctuated by several utility poles parallel to the tracks. In the background, a dense forest cloaks a large mountain under an overcast sky.
+end of description
+As the viewpoint moves forward along the tracks, the immediate foreground objects like the water on the left and a prominent utility pole on the right pass by, receding behind the viewer. The curved tracks ahead appear to draw closer, and the distant mountain on the far left becomes more prominent as foreground trees shift. A subtle opening of a tunnel entrance becomes slightly clearer in the far distance along the left curve of the tracks.
+frame_0000000256-frame_0000000384:
+The first frame shows train tracks curving left into the distance, bordered by a steep, green-bushed hillside on the right with a utility pole, and dense green trees on the left leading to a distant mountain peak under an overcast sky.
+end of description
+As the viewpoint moves forward along the tracks, a body of water becomes increasingly visible alongside the tracks to the left, replacing some initial foliage. More utility poles pass on the right, and a fallen log appears further up the grassy hillside, revealing a continuous, green mountainous landscape ahead.
+frame_0000000384-frame_0000000512:
+The viewer looks forward down train tracks that gently curve left into a valley, flanked by grassy embankments. To the left, a river and forest lie beneath a steep mountain, while a heavily wooded hillside rises to the right, all under an overcast sky with overhead power lines.
+end of description
+As the train progresses, the tracks extend ahead while the immediate foreground shifts backward. On the left, a grey concrete retaining wall becomes apparent, and a wider section of the river and denser trees become increasingly visible. Simultaneously, a dark stone wall emerges on the right as the train advances further into the mountainous valley.
+frame_0000000512-frame_0000000640:
+The first frame presents a view looking straight down train tracks that recede into a mountainous valley under an overcast sky. To the left, a tranquil body of water is bordered by evergreen trees, with a large, verdant mountain ascending in the distance. On the right, a steep, green, rocky embankment runs parallel to the tracks, featuring a utility pole with overhead lines prominently positioned closer to the viewer.
+end of description
+As the scene progresses, the viewpoint moves forward along the train tracks. The utility pole on the right side exits the frame to the viewer's right, while a section of light-colored wooden fencing appears and extends along the right embankment, moving from the middle distance towards the viewer before receding. All landscape elements on both sides continuously shift backward and outward from the central view. The distant bright opening of a tunnel at the end of the tracks steadily approaches the viewer.

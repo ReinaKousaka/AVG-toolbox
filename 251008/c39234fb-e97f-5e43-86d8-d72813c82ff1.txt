@@ -1,0 +1,16 @@
+frame_0000000000-frame_0000000128:
+A nighttime city street extends into the distance on the left, flanked by tall, brightly lit buildings and billboards, while a prominent "Subway" entrance with glowing line letters (A, Q, R, C, E, W) dominates the midground to the right, adjacent to a dark descending staircase.
+end of description
+Subsequently, the glowing subway line letters, positioned to the right of the entrance, sequentially turn off from right to left (W, then E, C, R, Q, and finally A), leaving all letters unlit by the final frame.
+frame_0000000128-frame_0000000256:
+The first frame captures a nighttime city street from a sidewalk perspective, featuring a building on the right with a partially visible red "Subway" sign and glass entrance, alongside a dark staircase ascending into the mid-ground. In the foreground to the left, yellow and green rectangular planters and a black trash bin line the sidewalk. Across the street on the left, illuminated signs like "ALDO" and "TUSSAUDS" adorn tall buildings, with a few pedestrians visible further ahead on the sidewalk.
+end of description
+Throughout the subsequent frames, the red neon "Subway" sign to the right dynamically illuminates its wavy border in a sequential pattern. Meanwhile, the few pedestrians visible on the sidewalk ahead slowly continue walking away from the first-frame viewpoint.
+frame_0000000256-frame_0000000384:
+A nighttime city street features brightly lit buildings on the left with signs like 'ALDO' and 'TUSSAUDS,' contrasting with a dark building on the right housing an ornate staircase. In the foreground, two recycling bins are present left of center, and colorful street barriers separate the sidewalk from the road. Two pedestrians are visible in the middle distance, walking away from the viewer on the sidewalk.
+end of description
+The two pedestrians continue moving further from the viewer, eventually joined by a third person to their left. Simultaneously, a white van appears on the street from the left, gradually traveling behind the pedestrians and exiting to the right.
+frame_0000000384-frame_0000000512:
+The first frame displays a night city street scene with three dark recycling bins in the foreground left, the leftmost having a yellow base, and a light blue barrier further right. Two individuals are standing on the sidewalk in the midground center, facing towards the viewer's right, while an ornate dark staircase with illuminated globes ascends on the far right. Buildings featuring brightly lit billboards, including 'ALDO' and 'Heal with,' line the street on the left, receding into the distant city lights.
+end of description
+In subsequent frames, the individual on the right of the two midground figures progressively extends their right arm outwards, appearing to gesture or point towards the viewer's left background. Simultaneously, a yellow block emerges slightly from behind the leftmost recycling bin in the foreground left, and the 'Tussauds' sign on a billboard in the far background becomes more distinctly visible.

@@ -1,0 +1,6 @@
+frame_0000000000-frame_0000000128:
+The first frame, viewed from a train, presents a snow-covered landscape with dark tracks curving gently right, receding under a cloudy sky. A vivid orange-red sunset strip glows on the distant horizon, flanked by leafless trees on the left and dark evergreens on the right, while blurry dark structures and thin overhead wires occupy the immediate bottom foreground and upper sky, respectively.
+
+end of description
+
+As the train moves forward, these blurry foreground elements recede, revealing more of the snow-covered tracks and landscape. A small gray signal box appears to the left of the tracks, gradually approaching and passing the original viewpoint, followed by a tall utility pole emerging from the right side of the tracks, also moving past the initial vantage point as the snowy scenery continuously flows by.

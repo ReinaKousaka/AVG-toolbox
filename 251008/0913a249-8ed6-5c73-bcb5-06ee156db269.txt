@@ -1,0 +1,14 @@
+frame_0000000000-frame_0000000128:
+A two-lane road with white lane markings stretches into the distance, appearing to curve slightly right. To the viewer's left is a steep, rocky cliff with sparse vegetation, while to the right, a dense conifer forest covers a gentler slope, with a reddish-brown patch near the road. In the far distance, more tree-covered mountains are visible under a bright blue sky with scattered white clouds.
+end of description
+The subsequent frames depict a continuous forward motion along the road, with the white lines, rocky cliff, and forested slopes moving progressively closer and then past the viewer. No new objects or scenes are revealed, only a smooth progression through the existing mountainous landscape.
+frame_0000000128-frame_0000000256:
+The first frame captures a mountain road stretching into the distance, centered before the viewer, with a rugged rock face and trees on the left and a dense forest on the right, under a blue sky with clouds. Distant mountains and a small village are visible straight ahead in the valley.
+end of description
+As the frames advance, the viewpoint moves forward along the road, causing the white lane markings, the rock face to the left, and the forest on the right to continuously recede from the distance and pass by the viewer's respective sides. The gravel shoulder on the right also slides past the viewpoint, while the distant mountains and village ahead appear slightly closer.
+frame_0000000256-frame_0000000384:
+The first frame displays a paved road stretching into the distance from the viewer's perspective, with white dashed lines indicating lanes. To the viewer's immediate left, a steep, rocky mountain face covered in scattered trees rises, while to the right, a heavily forested slope and a gravel shoulder parallel the road. Far ahead in the valley between these mountains, a small village is visible under a blue sky dotted with white clouds.
+
+end of description
+
+As the frames progress, the viewpoint moves forward along the road; the white dashed lines continuously advance and pass beneath the viewer. The mountainous terrain on both sides appears to approach and then recede past the viewer's position. A protective wire mesh or netting becomes more discernible along the lower section of the rocky mountain slope on the left, which was less prominent initially. The distant village also appears slightly closer and more detailed as the camera moves through the valley.

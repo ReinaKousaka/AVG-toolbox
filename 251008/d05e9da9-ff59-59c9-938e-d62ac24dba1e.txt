@@ -1,0 +1,18 @@
+frame_0000000000-frame_0000000128:
+The first frame captures a street scene featuring a bus stop shelter with a transparent roof in the mid-left, extending into the distance. In the foreground, a person in a black coat with a shopping bag walks away in the mid-left, slightly behind another person in a green jacket and jeans in the mid-right, both on a sidewalk flanked by storefronts to the right and a street with cars to the left.
+
+end of description
+As the frames progress, the viewpoint moves forward along the sidewalk; the bus stop shelter recedes, and the two foreground individuals move further away. This movement reveals more of the storefronts to the right, notably unveiling a white classical statue in front of the Saxton & Saxton Fine Jewelry shop, located right of the initial position.
+frame_0000000128-frame_0000000256:
+The first frame presents a street view from a sidewalk. A glass and metal awning or shelter is partially visible on the left, next to light blue picnic tables and a black trash can. A street with several cars driving away from the viewer extends into the background on the left. On the right, vibrant storefronts line the street, including one with a colorful geometric facade and a jewelry store featuring a "SAKORA & SAATCHI" sign. In the midground, a person in a black coat with a shopping bag and a man in a green jacket walk away from the viewer.
+
+end of description
+As the frames progress, the two individuals in the midground continue walking away, receding further into the scene. Concurrently, two women emerge from behind the initial pedestrians on the left side of the sidewalk, walking towards the viewer. The woman in the black puffer coat with blue hair, initially partly hidden by the trash can, becomes fully visible, followed by a second woman in a brown puffer coat, both advancing towards the viewer from the left.
+frame_0000000256-frame_0000000384:
+The first frame depicts a city sidewalk with people walking. To the viewer's right, a colorful building with display windows and a red sign stands next to a man in a green jacket walking away. On the sidewalk, a woman with blue hair, a blonde woman, and another woman in a black coat holding a bag are visible, moving towards or past the viewer, with a street and buildings lining the left side.
+end of description
+As the sequence progresses, the two women walking towards the viewer exit the frame to the viewer's left, while the woman in the black coat and the man in the green jacket continue walking away down the sidewalk. A black trash bin is revealed on the far left, positioned closer to the viewer than the initial streetscape. The viewpoint subtly tracks forward along the sidewalk.
+frame_0000000384-frame_0000000512:
+The first frame presents the back of a bald man in a green jacket walking away from the viewer on a sidewalk, adjacent to a shop window with a colorful geometric pattern on its right side. To the man's left, a street contains moving cars, a light blue picnic table, and distant storefronts beneath an overcast sky.
+end of description
+The man and a companion continue moving forward (away from the viewer). A "BLACK FRIDAY 25% OFF" sign is then revealed inside the shop window to the right. Subsequently, a woman in a white jacket, holding a bag, emerges from the right foreground and walks towards the viewer, soon followed by another person also moving in the viewer's direction.

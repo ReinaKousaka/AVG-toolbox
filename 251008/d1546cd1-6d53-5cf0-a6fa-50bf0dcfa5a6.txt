@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a wet outdoor path and sidewalk leading into the distance under overcast skies. To the viewer's left, an asphalt path is bordered by lush bushes with white and pink flowers, and several green-leafed trees, with a multi-lane road and guardrail visible beyond. To the viewer's right, a grey brick sidewalk runs parallel to a building featuring glass panels over a stone base, with a blue barrier further ahead along the path.
+end of description
+In the subsequent frames, the primary dynamic change is the vigorous swaying and shaking of the green leaves on the trees, indicating strong wind and rain. The static viewpoint reveals no new objects or scenes; only the movement of the foliage persists across the sequence.
+frame_0000000128-frame_0000000256:
+The first frame depicts a wet paved sidewalk on the right, bordered by a building with a multi-paneled wall and a blue barrier, extending into the distance. To the left, a wet road with a guardrail runs parallel, separated by a median featuring green bushes, some with flowers, and trees, with distant buildings under an overcast sky.
+end of description
+The viewpoint progresses forward along the sidewalk, causing the initial foreground foliage to recede from the frame. On the wet road to the left, vehicles are seen moving and changing positions, while the details of the building wall on the right progressively reveal more of its structure as the scene advances.
+frame_0000000256-frame_0000000384:
+The first frame shows a wet, rainy urban street scene. In the foreground, a grey tiled sidewalk extends forward on the right, bordered by a decorative blue and white barrier adjacent to a large white and grey building. To the left of the sidewalk, a darker asphalt path runs parallel, separated from a multi-lane road by a wooden guardrail. Distant cars are visible on the wet road, while a large tree with green foliage stands prominently on the far left. In the background, hills covered in trees and several tall buildings rise under an overcast sky.
+end of description.
+As the frames progress, the camera slowly pans to the right, revealing more of the large white and grey building and the decorative barrier along the right side relative to the initial viewpoint. The distant cars on the road to the left continue to move slightly as they drive past. A new, ornate stone pillar and a section of an additional structure are gradually revealed to the right of the blue and white barrier, extending the building's presence within the frame.

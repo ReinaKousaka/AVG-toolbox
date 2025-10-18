@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a rainy street scene with a wet red-brown sidewalk on the right, where a person holding a white umbrella walks away from the viewer. To the left, a metal barrier with a bike rack separates the sidewalk from a wet road, where a white car and a red car are visible in the distance, and lush green trees line the street. On the far right, a white picket fence with some blue sections runs alongside the sidewalk, with a dark utility box partially visible in the foreground.
+end of description
+In subsequent frames, the person holding the white umbrella continues walking further away from the viewer along the sidewalk, progressively diminishing in size. Simultaneously, both the white and red cars on the road also proceed further into the distance, moving away from the viewer's original position. The rainy weather conditions remain consistent throughout the sequence.
+frame_0000000128-frame_0000000256:
+The first frame depicts a wet, brick-paved sidewalk on the left, bordered by a black metal railing that separates it from a wet road where an orange car is moving away. A line of trees runs along the left, obscuring buildings in the misty distance. On the right, a reddish-brown path parallels the sidewalk, where a person with long dark hair, holding a white umbrella, walks away from the viewer, beside a white picket fence backed by a low wall and dense green foliage.
+end of description
+In the subsequent frames, the person with the umbrella continues to walk further away from the first-frame viewpoint along the reddish-brown path, progressively receding into the distance.

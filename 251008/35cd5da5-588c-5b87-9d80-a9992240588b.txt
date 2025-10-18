@@ -1,0 +1,14 @@
+frame_0000000000-frame_0000000128:
+A dirt path ascends from the bottom center into a verdant forest, flanked by dense green foliage and tall trees on both sides. To the left, a thick stand of slender trees and undergrowth fills the mid-ground, while on the right, a grassy slope rises, also covered in trees, with some fallen branches scattered on the ground.
+end of description
+The viewpoint steadily advances forward along the path. As the camera moves, previously distant sections of the path and surrounding forest come closer, and new parts of the trail and a greater extent of the forest floor, including additional fallen branches, are continuously revealed directly in front of the viewer and along both sides of the path, progressively replacing the initial foreground elements.
+frame_0000000128-frame_0000000256:
+The first frame displays a dirt path extending from the viewer into a forest. On the left, fallen tree branches and logs lie amidst dense undergrowth and tall, bare-trunked trees, while on the right, a grassy slope ascends with additional trees and debris. The path continues towards the background, framed by abundant greenery under a light sky.
+
+end of description
+
+As the frames progress, the viewpoint moves forward along the dirt path. The trees and overgrown vegetation on both sides of the path, including the fallen logs on the left and the rising grassy slope on the right, shift dynamically closer to the viewer before moving past, revealing new sections of the forest ahead.
+frame_0000000256-frame_0000000384:
+The first frame displays a narrow dirt path receding into the distance, bordered by tall green and yellowish grass. To the left, several slender tree trunks ascend vertically from a dense forest, with a fallen log partially visible in the lower left foreground. To the right, an upward-sloping bank is covered in similar vegetation and some visible felled timber higher up.
+end of description
+As the frames progress, the viewpoint moves forward along the path. The fallen log on the left gradually shifts out of view behind and to the left, while the trees and grassy banks on both sides appear to move closer and then recede, indicating continuous forward motion.

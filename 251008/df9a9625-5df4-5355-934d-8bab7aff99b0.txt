@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a wet urban street on an overcast day, with a reddish asphalt crosswalk in the foreground. A yellow bus is visible on the left side of the road, facing away from the viewer, with a lush green, tree-covered embankment behind it. To the right, a street extends into the distance, flanked by buildings, parked cars, and a person holding a red umbrella on the sidewalk.
+end of description
+In the subsequent frames, the yellow bus slowly moves forward and slightly to the left, gradually revealing more of the wet asphalt road it previously partially obscured in the midground. The other cars, buildings, and the person with the umbrella remain stationary to the right, maintaining the consistent rainy day scene.
+frame_0000000128-frame_0000000256:
+The first frame presents a wet urban street with a red bike lane and a crosswalk in the foreground. To the left, a lush green hillside with trees ascends, while on the right, a paved sidewalk leads to brick residential buildings and a white parked car, with a red market umbrella visible further down the street. In the background, an array of city buildings, including tall structures, rises under a cloudy sky.
+end of description
+Subsequently, a person carrying the red market umbrella walks along the right sidewalk, moving away from the viewer, while the parked white car remains stationary. No new objects are revealed, but subtle movements are observed in distant vehicles and tree foliage as the wet street conditions persist.
+frame_0000000256-frame_0000000384:
+The first frame captures a wet street with a prominent pedestrian crossing in the foreground, flanked by a verdant, tree-covered hillside to the left and a sidewalk leading to buildings and a parked white car on the right. The street recedes into the distance, revealing more urban structures under an overcast sky, with a red umbrella further down the street on the right.
+end of description
+In the following frames, a transparent umbrella, covered with raindrops, periodically enters the upper portion of the view, positioned directly above and in front of the viewer, partially obscuring the street and distant buildings. This dynamic change introduces the visual effect of looking through a rain-dappled surface, which then disappears and reappears intermittently.

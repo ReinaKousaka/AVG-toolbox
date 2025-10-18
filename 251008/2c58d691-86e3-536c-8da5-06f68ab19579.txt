@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame captures a rainy night city street from a sidewalk perspective, featuring a blue bus with illuminated red taillights stopped on the wet road to the viewer's right. Buildings with glowing windows line the distant background, reflecting in the puddles alongside a visible red traffic light further left.
+end of description
+As frames progress, a small blue car appears on the road to the left of the stationary bus, moving forward. Subsequently, a white car appears behind the blue car, and both vehicles continue to move past the bus towards the right, exiting the frame from the initial viewpoint. A red fire hydrant also becomes visible on a pole closer to the viewer on the right sidewalk.
+frame_0000000128-frame_0000000256:
+The first frame depicts a rainy city street at night, with a dark, ornate street light pole and a red fire hydrant in the right foreground on wet pavement. A blue hatchback and a white sedan are stopped on the reflective wet street in the midground, facing away, while illuminated city buildings and a blue bus are visible in the background.
+end of description
+Chronologically, the blue hatchback's red brake lights switch off, replaced by a greenish glow as it prepares to move. Concurrently, a person holding an umbrella emerges from the far right background, slowly walking leftward on the sidewalk towards the viewer's position. The red traffic lights reflected on the wet asphalt also subtly shift.
+frame_0000000256-frame_0000000384:
+The first frame depicts a rainy city street at night, with a prominent ornate lamppost situated in the center-right foreground. To the viewer's left, a blue car is partially visible, while a silver car is further back on the wet, reflective road. A pedestrian with an umbrella walks from the right side of the street across a crosswalk, heading towards the viewer's left, with city buildings and a red traffic light visible in the background.
+end of description
+The blue car on the viewer's left moves further right, eventually exiting the frame. Concurrently, the silver car, positioned center-left, slowly advances forward and slightly right across the intersection. The pedestrian, originally walking from the right mid-ground towards the viewer's left, continues their path across the street, passing in front of the advancing silver car.

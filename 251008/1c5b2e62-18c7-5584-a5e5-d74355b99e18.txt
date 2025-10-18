@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame captures a sunlit paved street flanked by multi-story buildings. To the left stands a peach-hued building with ground-level shops and a statue on its steps, while a grey building displaying "HOTEL DONATZ" is to the right, with a dark SUV partially visible in the bottom right foreground.
+end of description
+As the viewpoint advances down the street, the dark SUV and the statue on the left recede from view. The street markings and building details on both sides become clearer, revealing an orange cone emerging on the right sidewalk further ahead, and shifting the relative prominence of the 'HOTEL DONATZ' sign as the viewer moves past its initial position.

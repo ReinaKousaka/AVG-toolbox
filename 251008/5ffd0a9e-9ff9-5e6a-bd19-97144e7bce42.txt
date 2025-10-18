@@ -1,0 +1,10 @@
+frame_0000000000-frame_0000000128:
+In the first frame, a man in a dark coat, holding an open black umbrella, walks away from the viewer on a wet street. A silver car is parked to his left, and a traditional patterned stone wall lines the right side of the frame, with utility poles extending into the rainy background.
+end of description
+The man with the umbrella steadily moves further away from the viewer to the left and then exits the scene. Throughout the subsequent frames, the heavy rain persists, reflecting on the wet street, but no new objects or scenes are revealed relative to the initial viewpoint.
+frame_0000000128-frame_0000000256:
+The first frame depicts a wet street at dusk, with a silver car partially visible on the far left. To the right, a utility pole stands beside a stone wall, and a figure in light clothing is seen behind the pole next to the wall. Further down the street, another light-colored car and a traditional building are visible under the falling rain. end of description. The figure on the right quickly moves out of view. Subsequently, a person holding an umbrella emerges from the distant street on the left, walks towards the viewer, and then turns left, exiting the scene to the left. Simultaneously, a row of green potted plants with yellow bushes becomes visible along the right side of the street, extending from where the first figure was positioned, as the entire scene darkens further into night.
+frame_0000000256-frame_0000000384:
+The first frame captures a dark, wet street scene with a traditional Korean-style building on the far left, behind a parked silver car. On the right, three potted evergreen shrubs in bright green planters line the asphalt road which recedes towards a streetlamp in the mid-ground.
+end of description
+Across the subsequent frames, visible streaks of rain intensify, especially within the light cone of the mid-ground streetlamp, indicating a continuous downpour. No new objects or scenes are revealed, and all elements maintain their spatial positions relative to the initial viewpoint.

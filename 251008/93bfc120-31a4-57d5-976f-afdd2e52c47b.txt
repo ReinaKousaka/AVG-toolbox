@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a narrow gorge with a concrete path along the left rock wall, bordered by a vibrant green railing that extends into the mid-ground. To the right of the railing, a turbulent white river flows between the path and a steep, moss-covered rock wall on the right, receding towards a bright opening in the distance.
+end of description
+As the frames progress, the viewpoint subtly shifts forward and slightly right, revealing more of the path's length and the textured gorge walls. The green railing and the river continue to extend further into the receding perspective, indicating a slow forward movement along the pathway.
+frame_0000000128-frame_0000000256:
+The first frame displays a narrow, moss-covered gorge featuring a dirt path on the left and a green railing to its right, alongside a rushing white river winding through dark, steep rock walls.
+end of description
+Subsequent frames show the viewpoint steadily moving forward along the path, causing all visible elements of the gorge, including the path, railing, and river, to progressively approach the viewer, with the river's turbulent water exhibiting continuous flow.
+frame_0000000256-frame_0000000384:
+The first frame presents a narrow, green-clad gorge, with a dirt path extending from the bottom left towards the distance. A bright green metal railing borders the path on its right, leading away from the viewer, while a steep, mossy rock wall descends to a white-water river flowing away into the canyon's depths. A towering, dark rocky cliff face occupies the right side of the view, with glimpses of lighter sky and green foliage visible at the distant canyon opening.
+end of description
+As the frames progress, the viewpoint slowly advances along the path, revealing more of the trail and the railing ahead. The surrounding rocky walls and the river below incrementally reveal more of the gorge further into the distance, maintaining their relative positions from the first-frame viewpoint.

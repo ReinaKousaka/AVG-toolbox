@@ -1,0 +1,14 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a rainy, nighttime city street with a wet, paved sidewalk extending from the viewer. On the left, there's a glowing vertical sign, a 7-Eleven store entrance with its sign, and a red structure in front. In the mid-ground to the right, a person walks away holding a white umbrella, while further back on the right, another person walks with a dark umbrella. Two green-wheeled bicycles are parked on the far right, and buildings with lit windows line the background.
+end of description
+Both individuals holding umbrellas steadily walk away from the viewer, moving deeper into the background on the right side of the street. The person with the white umbrella, initially in the mid-ground, gradually recedes, while the person with the dark umbrella, already further back, also progresses towards the far distance. The scene otherwise remains consistent, with rain continuing to fall and reflecting off the wet pavement, and the parked bicycles on the far right remaining stationary.
+frame_0000000128-frame_0000000256:
+The first frame depicts a wet, illuminated city street at night, with storefronts like a 7-Eleven (partially obscured by a shutter) and "LOTTERIA" lining the left. On the right, two green bicycles are parked near a tree, and a distant gas station-like structure is visible in the background. Two people holding umbrellas walk away from the viewer in the mid-right, along the rain-slicked pavement reflecting overhead lights.
+end of description
+In subsequent frames, the two individuals holding umbrellas continue to walk further away from the viewer into the background along the street. The rain persists, with visible streaks across the scene, and no new objects or scenes are revealed, only the progressive movement of the pedestrians.
+frame_0000000256-frame_0000000384:
+The first frame displays a wet, illuminated city street at night. A paved pedestrian area extends from the viewer into the distance, flanked by buildings. On the left, brightly lit storefronts, including 'LOTTERIA' and a prominent red kiosk, line the street. To the right, a large tree trunk stands beside a green and white bicycle, with more buildings, streetlights, and a gas station-like canopy further down the street. A person holding an umbrella walks away from the viewer, towards the center-right of the frame.
+
+end of description
+
+The person with the umbrella continues to walk further away from the viewer, shifting towards the right background. A light-colored pickup truck newly appears from the right side of the frame, driving into the mid-ground of the street. Concurrently, a distant traffic light on the right transitions to red.

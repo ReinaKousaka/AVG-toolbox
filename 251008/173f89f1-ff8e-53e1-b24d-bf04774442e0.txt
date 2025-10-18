@@ -1,0 +1,14 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a large, multi-tiered wooden temple structure, featuring exposed beams and traditional Japanese roofing, ascending a hillside from the middle-left to the right, beneath a pale, cloudy sky. Lush green trees and foliage populate the hillside around the temple, extending into the foreground where a stone wall with partially visible figures occupies the bottom left.
+end of description
+Across the following frames, the viewpoint subtly pans upwards and incrementally to the right. This motion causes the foreground's stone wall and partially visible figures to gradually descend and move out of sight. Concurrently, more of the temple's upper structure and the sky directly above it, revealing increasing patches of blue and white clouds, become visible within the frame.
+frame_0000000128-frame_0000000256:
+The first frame displays a multi-tiered traditional Japanese temple, constructed from dark wood with ornate golden-accented roofs, situated prominently uphill and slightly to the right of the viewer's center, partially enveloped by vibrant green trees in the mid-ground. A low, zigzagging wooden fence runs across the lower foreground, bordering a grassy slope that leads up to the temple under a bright, cloudy sky.
+end of description
+As the frames progress, the viewpoint subtly pans rightward and appears to move slightly closer, causing the temple structure to become more centered and slightly larger in the frame. This shift gradually reveals more of the temple's right side and the ascending slope from the first-frame viewpoint, while the foreground trees and fence shift marginally to the left relative to the frame's center.
+frame_0000000256-frame_0000000384:
+A multi-tiered wooden temple with prominent curved roofs stands elevated on a lush green hillside in the background, partially obscured by green trees and foliage in the mid-ground. A horizontal wooden fence is visible in the foreground, with a larger tree positioned in the mid-right relative to the viewer.
+
+end of description
+
+As the frames progress, the viewpoint subtly shifts to the right, revealing more of the temple's intricate wooden scaffolding and the hillside on its right side, which was previously hidden by the large tree. The prominent tree in the mid-right slowly exits the frame to the right, and the wooden fence in the foreground also moves right, exposing more of its structure to the left.

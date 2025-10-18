@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a street scene with a group of people walking away from the viewer on a paved path, a grey SUV driving parallel left of them, and a building facade with a 'MENU' board on the far right. To the left, green trees line the road, while in the midground, traditional buildings stand before a towering cliff with a prominent waterfall and a Swiss flag, beyond which snow-capped mountains rise in the distance.
+end of description
+As the frames progress, the viewpoint moves forward, following the people and the SUV as they continue walking/driving further away. The 'MENU' board on the right slowly recedes out of the frame as the camera advances into the scene, revealing more of the street and the buildings ahead that were initially partially obscured by the foreground elements.
+frame_0000000128-frame_0000000256:
+In the foreground, a group of people walk away from the viewer down a paved road in the center, with a wooden 'MENU' sign on the far right sidewalk. In the midground, the road continues, bordered by a green guardrail and lush trees on the left, and a multi-story building with a red Swiss flag on the right. Further down, traditional wooden chalets and parked cars line the road. The background is dominated by a towering cliff face with a waterfall, and a snow-capped mountain peak is visible to the far left under an overcast sky.
+end of description
+The group of people in the foreground continue walking away, moving further down the road from the initial viewpoint. Concurrently, the 'MENU' sign on the right recedes out of the frame as the viewpoint advances forward along the road. More of the building on the right is progressively revealed, appearing closer to the viewer.

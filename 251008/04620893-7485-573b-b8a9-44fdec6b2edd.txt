@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+A wet, dark grey paved road curves to the left, receding into the distance. Dense green trees and undergrowth line both sides of the road, forming a forest tunnel, with a strong sun glare present in the upper left of the frame.
+end of description
+As the viewpoint moves forward along the road, a yellow solid line appears on the road surface, extending into the curve ahead. The trees and undergrowth on both sides become more distinct, revealing more brown foliage and disturbed earth on the right bank. Further along, a smaller paved road branches off to the left, uphill from the main road, and utility poles with wires become visible on the upper left side, revealing a more settled area within the forest.
+frame_0000000128-frame_0000000256:
+The first frame displays a wet, two-lane asphalt road with a solid yellow center line curving slightly left into the distance. Dense evergreen trees and utility wires line the left side, while a steep, heavily vegetated hillside borders the right, with sunlight beaming through trees at the upper right. A small blue building is faintly visible in the far distance on the left side of the road.
+end of description
+As the frames progress, the viewpoint moves forward along the road, causing the immediate road surface and yellow line to shift closer. On the right, a black barrier and a metal fence gradually emerge on the hillside, previously hidden further ahead. The small blue building to the left of the road also appears larger and more distinct as the viewer approaches.

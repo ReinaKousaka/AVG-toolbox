@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a grey asphalt road extending into the distance, flanked by red rock cliffs on both sides and sparse vegetation, under a clear blue sky. A double yellow line is visible on the left side of the road, and a white line on the right, with a yellow diamond-shaped sign partially obscured by green bushes on the far right mid-ground.
+end of description
+As the viewpoint progresses forward along the road, the distant yellow sign on the right becomes progressively larger and clearer, shifting from the mid-ground towards the foreground relative to the initial frame. Simultaneously, the cliffs and roadside foliage on both sides advance and pass by the viewer as the vehicle moves forward.
+frame_0000000128-frame_0000000256:
+The first frame displays a paved road stretching into the distance, featuring a solid white line on the right and double yellow lines on the left. To the viewer's left, a rugged reddish-brown cliff face rises, with a railroad track running along its base. On the right, green bushes and dry grass line the road, partially concealing a yellow diamond-shaped sign in the midground. The scene is set under a clear blue sky, framed by imposing red cliffs on both sides.
+end of description
+As the frames advance, the viewpoint moves forward along the road. The previously partially obscured yellow sign to the right comes into full view, revealing 'FALLING ROCK' text as the viewer approaches it. The sign then recedes to the right and eventually passes out of sight, while the surrounding red cliffs and green vegetation continue to move past on either side.
+frame_0000000256-frame_0000000384:
+A paved road, marked with a double yellow line on the left and a white center line, stretches forward, curving gently left into the distance. To the far left, a massive reddish-brown rock cliff rises, while to the right, green and beige shrubbery lines the shoulder, with a similar distant cliff visible beyond, all under a clear blue sky.
+end of description
+As the viewer progresses, the road's texture and markings move closer and pass beneath, and the distant landscape steadily approaches. A small black object emerges further into view in the bottom left, while a white signpost appears on the right side of the road, initially far ahead but progressively moving closer relative to the first-frame viewpoint.

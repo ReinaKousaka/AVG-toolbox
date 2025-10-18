@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a rainy city street with a wet sidewalk on the left, displaying stacked red chairs and green umbrellas, leading back to trees and buildings. A prominent streetlight pole stands in the mid-ground, while a dark grey Hyundai with illuminated headlights approaches on the wet road to its right, with a white car partially visible further right.
+end of description
+The dark grey Hyundai car then proceeds to move from right to left, passing the streetlight pole and advancing closer to the viewer. Simultaneously, the white car, initially further right and behind the Hyundai, also progresses leftward, becoming more fully visible alongside the Hyundai. Throughout the frames, the heavy rain continues to fall, causing visible splashes on the soaked road surface.
+frame_0000000128-frame_0000000256:
+In the first frame, a dark gray Hyundai sedan is prominently visible on the right foreground, angled slightly left, with its headlights on and reflecting on the wet street. A utility pole stands directly in front of the car's bumper, while a line of trees extends along the sidewalk in the midground, receding into the distance. To the left, a wet sidewalk features red chairs under awnings, leading past buildings with various shops. Across the street on the right, more buildings with illuminated signs are visible, and a second car is partially seen moving away in the distance.
+end of description
+The dark gray Hyundai sedan in the right foreground slowly moves forward and to the left across the frame. As it progresses, its rear half becomes more visible, and the utility pole initially in front of it becomes more exposed on the right. Simultaneously, the partially visible car on the far right also continues moving forward, further receding into the distance.
+frame_0000000256-frame_0000000384:
+The first frame shows a wet city street seen from a sidewalk, flanked by buildings with storefronts and a continuous row of trees receding into the distance. To the immediate right, the rear of a dark car with an illuminated tail light is partially visible, positioned next to a prominent tree trunk.
+end of description
+Over subsequent frames, the dark car on the right moves progressively forward and away from the viewer, slowly exiting the frame to the far right, revealing more of the wet street and its markings. The rainy urban scene, with reflections from oncoming vehicle headlights visible in the distance, otherwise remains consistent.

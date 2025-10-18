@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a wide shot of a dirt path winding through a sunlit pine forest under a clear blue sky. A large tree trunk stands prominently to the viewer's mid-left, while several other pine trees are closer on the right, casting long shadows across the path and the dry, grassy ground. Dense foliage and more distant trees line both sides of the path as it recedes into the background.
+end of description
+As the frames progress, the viewpoint steadily moves forward along the path, causing the foreground trees and ground on either side to recede past the viewer. Objects originally in the distance advance, revealing new sections of the path and forest deeper into the scene as the immediate surroundings shift.
+frame_0000000128-frame_0000000256:
+The first frame shows a narrow dirt path receding from the viewer into a sunlit forest. On either side of the path, dry grasses, sparse bushes, and scattered green trees with tall pine trees are visible, extending into the midground. A clear blue sky occupies the upper portion, though a faint, ghosted overlay of light green foliage is subtly present in the upper right quadrant.
+end of description
+As the frames progress, the initial ghosting effect quickly resolves, revealing a crisper view of the path and surrounding forest. The viewpoint moves steadily forward along the dirt trail, causing the previously near brush and trees to pass by on either side. New sections of the path and deeper parts of the pine forest, formerly ahead of the viewer, are continuously revealed and approached.

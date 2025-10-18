@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a paved road curving slightly right into the midground, bordered by buildings and parked vehicles. To the left, a multi-story chalet with wooden balconies sits on a grassy slope, with a white SUV and a grey car parked nearby along the road. On the right, a row of parked cars faces away from the viewer on a paved lot, beyond which a majestic snow-capped mountain dominates the distant background under a clear blue sky.
+end of description
+In subsequent frames, cars parked on the right side of the road progressively depart, driving away from the viewer and moving towards the right of the initial frame's view. A black car is first to leave, revealing a white hatchback behind it, which then also drives away. Finally, a grey SUV that was initially behind the hatchback departs, leaving the right-side parking area completely empty from the first-frame viewpoint.

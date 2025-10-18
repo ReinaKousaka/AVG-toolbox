@@ -1,0 +1,9 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a scenic view of an alpine village with a road in the foreground. In the immediate foreground, a paved road or driveway occupies the bottom center, curving rightward, with a low stone wall on its left and a small grassy patch containing a faint sign on the far left. To the right, a parking area holds two white cars, with a bare-branched tree situated behind them. The midground showcases several buildings nestled on a vibrant green hillside, including a multi-story building on the left and a modern structure with a dark roof near the center, with a prominent white inclined ramp ascending the hill behind it. In the background, a large mountain range, adorned with autumn foliage and snow-capped peaks under a bright blue sky with some clouds, dominates the horizon.
+
+end of description
+A white bicycle with pink accents slides into the bottom-left of the scene from the far left edge, replacing a small white sign previously located there. The bicycle comes to a rest in the grassy area on the bottom-left, where it remains stationary for the subsequent frames.
+frame_0000000128-frame_0000000256:
+The first frame displays an asphalt road in the foreground, leading towards a modern building with a dark-pitched roof and wide steps in the mid-ground. To the left, a multi-story white building is partially visible, while to the right, a bare-branched tree and green bushes obscure a portion of a white car. Behind the buildings, lush green hills dotted with houses ascend towards a snow-capped mountain peak on the left, all beneath a clear blue sky.
+end of description
+From the initial viewpoint, the camera subtly zooms out and pans slightly to the left. A white car and a darker vehicle behind it become more completely visible on the right, where they were previously partially obscured by bushes. A red and white no-parking sign on a pole is newly revealed behind the bare tree on the right.

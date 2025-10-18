@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+In the first frame, a dark, ornate metal pole stands prominently in the foreground to the viewer's left, while a wet sidewalk extends into the midground with a bright yellow curb line. Two people, a man and a woman, walk away from the viewer under a black umbrella on this sidewalk, alongside a building with large windows on the right and a city street with distant car lights reflecting on the wet pavement to the left.
+end of description
+Throughout the subsequent frames, the couple steadily walks further away from the viewer, moving deeper into the urban night scene while remaining centered in the shot. The streetlights and distant car lights continue to reflect vividly on the glistening, rain-soaked road, maintaining the same overall street perspective relative to the fixed viewer's position.
+frame_0000000128-frame_0000000256:
+The first frame depicts two individuals, one holding a black umbrella, walking away from the viewer on a wet sidewalk to the right. A rain-slicked street, reflecting distant vehicle and building lights, extends into the background on the left, with more buildings and streetlights lining both sides.
+end of description
+As the scene progresses, the two individuals move further away from the first-frame viewpoint along the right sidewalk, becoming smaller. Their forward movement reveals more of the sidewalk and a street pole with signage on the right, while reflections on the wet road surface dynamically shift.
+frame_0000000256-frame_0000000384:
+A dark, rainy city street at night shows a wet main road on the left reflecting bright lights, bordered by trees and distant buildings. On the right, a wet sidewalk features two people walking away from the viewer under a shared umbrella, with storefronts and a utility pole along the mid-right.
+end of description
+The camera slowly pans left, revealing more of the scene to the viewer's right of the initial view, including additional buildings and part of the sidewalk. Concurrently, the two individuals continue walking further away on the sidewalk as the stationary utility pole shifts left across the frame, and distant traffic lights ahead change colors.

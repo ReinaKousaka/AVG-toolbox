@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame captures a snow-covered village path leading towards a distant, majestic snow-covered mountain densely forested with evergreen trees under a bright blue sky with scattered clouds. On the left, a prominent multi-story wooden building with red shutters and balconies stands, while a closer wooden building with green shutters is partially visible on the right, alongside a wooden fence.
+end of description
+As the frames progress, one or two people appear and move on the second-story balcony of the large wooden building to the viewer's left, visible interacting and leaning over the railing.
+frame_0000000128-frame_0000000256:
+The first frame captures a snow-covered village under a bright blue sky, centered on a prominent multi-story chalet with wooden balconies and red shutters to the left, standing behind a snow-dusted wall and street lamp. A snow-covered path leads into the midground between various wooden buildings, with a dark wooden structure visible on the far right. In the background, evergreen-covered and snow-capped mountains rise majestically under white clouds.
+end of description
+The subsequent frames depict a subtle, continuous outward zoom, gradually making the entire scene, including the central chalet and distant mountains, appear slightly smaller and further from the viewer's initial position. Concurrently, the white clouds in the blue sky exhibit minor movement.

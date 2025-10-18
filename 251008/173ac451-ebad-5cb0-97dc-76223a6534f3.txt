@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a sunny scene with a sandy path in the foreground, bordered by a concrete curb on the left and a grassy mound to the right, all under a clear blue sky. To the far left, a partial green/turquoise pole and metal barrier are visible, while a paved walkway further left is lined with numerous palm trees, revealing buildings, an American flag, distant people, and the ocean beyond.
+
+end of description
+
+The camera subtly advances forward and slightly to the right across the subsequent frames. This motion gradually moves the leftmost pole and barrier out of view, while revealing more of the sandy path and the boardwalk's activity to the left. Concurrently, a prominent light blue building with red umbrellas on its roof emerges more fully on the far right, beyond the grassy mound, as the viewpoint shifts.
+frame_0000000128-frame_0000000256:
+First, a concrete path curves from the lower left towards the mid-distance, with a low concrete bench and decorative sphere in the foreground-left. A grassy mound occupies the foreground-right. Numerous tall palm trees line the path on the left and extend into the midground, with more trees and distant buildings visible to the right under a clear blue sky, and people walking further along the path. end of description. As the viewer moves forward, the concrete bench exits the frame to the lower left, and the background objects, including buildings and distant palm trees, gradually shift left relative to the evolving viewpoint. A cable car structure is newly revealed in the upper mid-ground, traversing from the right side towards the left across the frames. The path simultaneously opens up as the viewpoint progresses, revealing more of the area to the path's right.

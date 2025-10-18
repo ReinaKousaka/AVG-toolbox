@@ -1,0 +1,14 @@
+frame_0000000000-frame_0000000128:
+A snowy urban night scene depicts a narrow river flanked by paths and illuminated city buildings. In the mid-center, a glowing, conical orange art installation, partially snow-covered, floats on a yellow platform; a snow-covered path with pedestrians and an orange archway are to the left, while a metal handrail and walkway are on the right.
+end of description
+As the viewpoint slowly pans right and retreats slightly, the glowing art installation moves out of the center towards the left of the frame. Simultaneously, a small, snow-covered pedestrian bridge, previously beyond the right edge of the first-frame's view, becomes fully visible, extending across the river. The distant orange archway and the far-left path gradually recede further from view.
+frame_0000000128-frame_0000000256:
+In the first frame, a snow-covered pedestrian bridge with silver railings extends from the bottom-center towards the mid-ground, crossing a narrow, dark stream bordered by snow-dusted rocky banks. To the left, a tall, conical white sculpture, emitting a red glow, rests on a rectangular yellow floating platform in the stream. Beyond the bridge, a stone wall stretches across the mid-ground, featuring two yellow rectangular objects and a dark sign; behind it, a street and illuminated tall city buildings rise under a dark, snowy night sky.
+
+end of description
+
+The camera slowly moves forward along the snow-covered bridge and pans slightly to the right, maintaining the initial viewpoint's height. The conical sculpture, initially to the left of the viewer, gradually moves further to the left and completely exits the frame. As the perspective shifts, more of the rocky bank and the river's edge to the right of the first-frame viewpoint become visible. The yellow signs on the far wall, initially centered beyond the bridge, progressively shift towards the left as the camera's path continues.
+frame_0000000256-frame_0000000384:
+A snow-covered pedestrian bridge with metal railings extends from the viewer towards a stone wall in the midground, with a stream and snow-dusted rocks visible on either side. The stone wall displays various signs and is flanked by orange cones, while behind it, a black railing, leafless trees, and an illuminated building fill the background.
+end of description
+As the frames progress, the camera subtly moves forward, causing the bridge, the stone wall, and its signs to appear incrementally closer to the viewer. Consequently, objects such as the orange cones and the background building also appear slightly larger and closer as the viewpoint advances.

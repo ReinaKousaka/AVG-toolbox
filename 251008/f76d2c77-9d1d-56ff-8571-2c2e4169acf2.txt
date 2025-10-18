@@ -1,0 +1,14 @@
+frame_0000000000-frame_0000000128:
+The first frame shows the viewer on a bridge's pedestrian pathway, with a metal railing running along the left and a multi-lane road separated by a concrete barrier to the right. Three people walk away from the viewer in the distance on the path, while massive cable-stayed bridge towers and cables rise towards an overcast sky, with a city skyline visible in the background on both sides. Traffic signals and a gate structure are also present on the road to the right.
+end of description
+A dark car enters the road to the right in the second frame, driving towards the viewer and then passing by on the right in subsequent frames. Simultaneously, the three pedestrians continue moving further away from the viewer on the path, and other vehicles, including a white truck, appear and move in the far distance on the road to the right.
+frame_0000000128-frame_0000000256:
+The first frame depicts a grey pedestrian walkway on the left, bordered by a metal railing, and a red-brown cycling path on the right, both extending away from the viewer. Two people walk on the pedestrian path in the midground, while a large light-blue bridge pylon stands to their right. A multi-lane road with overhead traffic signals runs parallel on the far right, and a distant city skyline is visible under an overcast sky on the horizon.
+
+end of description
+
+As the scene progresses, the viewpoint moves forward along the bridge. The two people on the walkway recede further into the distance, while the bridge pylon, overhead signals, and a red and white striped barrier on the right edge of the path all grow slightly larger and closer to the viewer. A black bollard with a white top also becomes visible on the pedestrian path ahead in the midground, progressively getting closer.
+frame_0000000256-frame_0000000384:
+The first frame captures a damp, grey pedestrian path in the foreground, bordered by a metal railing on the left and a darker red/brown path with white markings and a barrier on the right. In the midground, two large cable-stayed bridge towers, one slightly left and one right, rise towards a grey sky, with several pedestrians walking away from the viewer towards them. A traffic light pole stands near the center of the path, and red and white striped barrier poles are visible further right, with a distant city skyline on the left horizon.
+end of description
+As the frames progress, the viewpoint moves forward on the path, bringing more of the bridge structure ahead into view. A cyclist, initially distant on the right path relative to the first frame, gradually approaches the viewer. The red and white striped barrier poles on the right also become more prominent as the viewer gets closer.

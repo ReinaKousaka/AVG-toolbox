@@ -1,0 +1,28 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a gravel path extending from the bottom center into the middle distance, bordered on both sides by lush green grasses and undergrowth. To the left of the path, a line of tall, slender trees with light trunks stands before a field of lighter, dry reeds, with a dense coniferous forest visible further left in the distance. To the right of the path, dense green bushes and trees form a thick wooded area, while the path itself disappears into a cluster of trees in the far background under a clear sky.
+
+end of description
+
+No dynamic changes, newly revealed objects, or significant movement are discernible in the subsequent frames; the scene remains static relative to the first-frame viewpoint.
+frame_0000000128-frame_0000000256:
+The first frame depicts a narrow dirt path extending centrally into a lush green forest, flanked by low bushes closest to the viewer. Tall, slender trees with green foliage line both sides of the path further back, with a field of light reeds and dense evergreen trees visible to the far left. end of description Across the subsequent frames, the viewpoint subtly advances forward along the path; the immediate foreground elements move closer to the viewer, and the distant part of the path gradually recedes further into the scene, revealing no new objects.
+frame_0000000256-frame_0000000384:
+A narrow, unpaved path extends centrally from the foreground into the distance, flanked by lush green grass and dense undergrowth. To the left, a tall tree stands in the mid-ground, beyond which lies a field of pale reeds and a coniferous forest in the background. On the right, several tall trees line the path, surrounded by thick green foliage, with a darker area resembling a ditch in the lower foreground. The path eventually disappears into dense trees under a bright, overcast sky.
+end of description
+The camera steadily moves forward along the path. As the viewpoint advances, objects initially in the mid-ground of the first frame, such as the prominent tree on the left and the surrounding undergrowth, move closer, then pass by and eventually exit the frame to the left and right, relative to the first-frame's fixed point. Concurrently, new segments of the path and the dense forest environment, which were previously further down the path from the first-frame viewpoint, are continuously revealed and move into the central view. The field of pale reeds to the left also gradually recedes and moves out of view as the camera proceeds deeper into the wooded area.
+frame_0000000384-frame_0000000512:
+A narrow dirt path extends from the bottom center towards the top center, receding into the distance. Lush green grass and various plants densely line both sides of the path, with tall trees featuring green foliage standing prominently on both the left and right sides. To the far left, a field of lighter grasses or reeds is visible, backed by a dense forest of darker evergreen trees, while a mossy fallen log lies partially on the right. The sky, mostly clear, is visible above the treeline.
+end of description
+The viewpoint slowly progresses forward along the path. As the camera moves, the foreground vegetation and the bases of the trees on either side gradually recede backward from the initial viewpoint, making the path ahead appear slightly closer and extending further into the distance.
+frame_0000000512-frame_0000000640:
+A gravel path leads centrally into the distance, flanked by green grass and low plants, which are bordered by tall trees with visible trunks on both the left and right. Beyond, a dense forest and lighter dried grasses fill the background under a soft sky.
+end of description
+As the frames progress, the viewpoint moves forward along the path, causing the initial foreground plants and path segments to recede from the first-frame viewpoint. Simultaneously, previously distant trees and the path ahead appear to approach and grow larger relative to the initial viewing position, revealing more details of the immediate path ahead.
+frame_0000000640-frame_0000000768:
+A gravel path extends into the distance, flanked by green grass and wild foliage, with tall trees on both the left and right sides and a dense forest in the background under a partially cloudy sky.
+end of description
+The viewpoint moves forward along the path. The trees flanking the path appear closer and more detailed, with their trunks and surrounding undergrowth becoming more prominent. A long, light-colored fallen log or branch gradually becomes more visible on the right side of the path, advancing into the lower right foreground.
+frame_0000000768-frame_0000000896:
+A gravel path extends from the foreground into the mid-distance, flanked by green and dry grasses. To the left, two large tree trunks rise vertically, with lighter-colored vegetation beyond them. To the right, a fallen tree trunk lies horizontally amidst dense green bushes, with another tall tree visible further right. The path curves slightly left in the mid-distance, leading into a dense area of trees and foliage under a pale sky.
+end of description
+As the viewer moves forward, the initial foreground and midground objects progressively shift closer and eventually move out of the frame to the left and right. The two large trees on the left and the fallen tree on the right recede from view. The path continues to unfold ahead, revealing more of its winding course deeper into the wooded area where it was previously obscured by dense foliage in the first frame's mid-distance. The surrounding trees and sky maintain their general positions relative to the overall environment.

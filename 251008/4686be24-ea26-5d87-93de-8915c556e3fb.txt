@@ -1,0 +1,15 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a narrow sandy path winding through a dense tropical setting. To the left, a bungalow with a thatched roof and brown walls is partially visible, obscured by a palm tree trunk, while another prominent palm tree trunk stands on the right, framing the path. Lush green foliage, predominantly ferns, covers the ground, and numerous palm trees with green fronds fill the background, reaching high into the bright sky.
+end of description
+The camera subtly performs a slow zoom-in and a slight pan to the right. The bungalow on the left gradually becomes more prominent and appears slightly closer relative to the first-frame viewpoint, revealing more of its side. Concurrently, the palm tree on the far left slowly moves out of the frame as the scene shifts slightly right.
+frame_0000000128-frame_0000000256:
+The first frame captures a tropical resort pathway lined with lush green foliage, featuring a bungalow with a thatched roof and brown wooden walls on the mid-left. A dirt path curves from the foreground center towards another thatched-roof building in the background center, flanked by numerous tall palm trees, especially on the right, under a bright sky.
+end of description
+As the frames progress, the viewpoint subtly pulls back and pans slightly to the left. This movement reveals more of the bungalow's left side and expands the foreground view of the path, while also shifting the palm trees on the right further right to show more green lawn and foliage beside them, effectively widening the overall scene from the first-frame viewpoint.
+frame_0000000256-frame_0000000384:
+The first frame displays a light-colored path curving into the midground, bordered by dense green foliage. To the far left, part of a thatched-roof building is visible, while another similar structure appears further along the path, nestled among abundant tall palm trees that fill the right side and background.
+end of description
+The following frames show an extremely subtle, slow forward movement of the viewpoint, causing the path and foliage to appear incrementally closer. No new objects or scenes are revealed, maintaining the initial tranquil tropical vista with minor perspective shifts.
+frame_0000000384-frame_0000000512:
+The first frame presents a winding light-colored path leading into a dense tropical scene, with a thatched-roof building visible in the mid-distance to the left of the path, partially obscured by lush green foliage. Numerous tall palm trees dominate the midground and background, and a large tree trunk occupies the foreground right, while a dark thatched structure is partially visible in the foreground left. end of description
+Over the subsequent frames, the viewpoint subtly shifts forward and right along the path. The dark thatched structure on the far left gradually recedes from view, as does some of the foreground foliage. Consequently, the thatched-roof building in the midground becomes slightly more visible. The dense canopy of palm trees and the vibrant green undergrowth across the scene remain constant elements as the perspective slightly rotates.

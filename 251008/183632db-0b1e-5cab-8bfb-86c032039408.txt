@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a scenic mountain ridge at sunrise, featuring a dry stone wall and a fence on the left that recede into the distance alongside a dirt trail leading forward. To the right, the land slopes downwards towards a distant, hazy valley, while a prominent peak dominates the mid-ground under a clear blue sky.
+end of description
+Subsequent frames depict a slow forward progression along the path, causing the dry stone wall and fence posts to gradually recede to the left and slightly behind the initial viewpoint. As the camera advances, more of the winding path directly ahead is revealed, with the distant hills and valley maintaining their relative positions but shifting slightly in perspective due to the forward movement.
+frame_0000000128-frame_0000000256:
+The first frame shows an undulating grassy terrain with a dirt path leading from the foreground towards a prominent rounded hill in the midground. To the viewer's left, a low stone wall with wooden fence posts extends into the distance, running alongside the path. In the background, a misty valley stretches out to the right, under a clear blue sky.
+end of description
+The viewpoint steadily moves forward along the dirt path, causing the immediate foreground grass and bushes to pass underneath and revealing more of the path's upward incline. The stone wall and fence posts on the left gradually recede and shift towards the upper-left of the frame as the camera advances. This continuous forward motion reveals increasingly more of the terrain and the path ahead.
+frame_0000000256-frame_0000000384:
+The first frame displays a rugged, grassy hilltop under a clear blue sky with a faint golden glow near the horizon, indicating sunrise or sunset. In the foreground to the left, dry, tall grass is visible. A dirt path extends from the lower center-left, winding towards the mid-ground right. To the mid-ground left, a small, rocky hill is topped with a low stone wall and several weathered wooden posts, while another larger, tree-covered hill dominates the central background. Farther in the distance to the right, hazy valleys and hills stretch out.
+end of description
+As the video progresses, the viewpoint moves steadily forward and slightly downward along the dirt path. The grassy hillside on the left, with its stone wall and posts, slowly recedes while the path's immediate texture and rocks directly ahead become clearer. The entire landscape subtly shifts closer, revealing more of the immediate foreground terrain.

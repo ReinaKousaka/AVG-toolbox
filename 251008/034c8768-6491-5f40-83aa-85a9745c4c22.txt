@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a cracked asphalt road curving left in the foreground, bordered by dry grass on the right and a brown hedge on the left, which partially obscures a light-colored building with a reddish roof. A dark grey shed occupies the bottom right corner. In the midground, a snowy field with bare trees and an excavator is visible before a large mountain range adorned with evergreen forests and snow-capped peaks in the background.
+end of description
+As the frames progress, the dark grey shed moves out of view to the right, fully revealing the excavator now positioned further to the right of the first-frame's central view. Concurrently, a light blue car becomes increasingly visible, parked further to the left of the road and behind the hedge, relative to the initial viewpoint of the building.
+frame_0000000128-frame_0000000256:
+In the first frame, a cracked, paved road curves from the foreground towards the mid-ground on the left. To the left of the road, a stone building and a house with a reddish roof are visible, with a blue car parked nearby. A large grassy field with patches of dry vegetation occupies the right side of the foreground and mid-ground. Beyond the field, a snow-dusted area features both bare deciduous trees and dark evergreen pines, leading up to a massive, snow-capped mountain range in the background.
+end of description
+There are no perceptible dynamic changes or newly revealed objects across the subsequent frames; the scene remains static.

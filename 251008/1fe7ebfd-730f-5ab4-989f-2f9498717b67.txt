@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame shows an aerial view dominated by a dense grove of palm trees in the foreground and mid-ground. A winding dirt path cuts through the vegetation from the mid-left towards the upper-right, while a rocky, reddish hillside with sparse greenery forms the background.
+end of description
+Over the subsequent frames, the camera very subtly pans upwards and slightly left, revealing a fraction more of the rocky hillside in the upper-left background that was previously at the frame's edge. Consequently, the dense palm trees and dirt path in the foreground and mid-ground subtly shift downwards and to the right relative to the camera's original centering, with no new objects emerging.

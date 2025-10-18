@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a paved road curving gently left into the distance, with a stone wall and a large tree on a steep grassy slope to the viewer's left, and a similar slope with sparse trees and a marker post to the viewer's right, all beneath a bright blue sky with a sun flare.
+end of description
+As the viewpoint moves forward along the road, the stone wall and large tree, initially on the first-frame's left, move towards the first-frame's background-left before disappearing. Simultaneously, new segments of the winding road and additional tree-covered mountain slopes, which were previously further ahead in the initial frame's perspective, become visible as the viewer approaches them.
+frame_0000000128-frame_0000000256:
+The first frame shows a paved road curving slightly uphill into the distance, flanked by steep, grassy hillsides dotted with trees on both the left and right. A clear blue sky with a sun flare dominates the upper right, and a white and red striped marker pole stands on the right side of the road in the mid-distance.
+end of description
+As the scene progresses, the viewpoint moves forward along the road, causing the marker pole on the right to approach and then move past the viewer. Subsequently, a light-colored car becomes visible, parked on the left side of the road ahead, beyond the initial curve, appearing further into the scene relative to the first-frame viewpoint.
+frame_0000000256-frame_0000000384:
+The first frame shows a paved mountain road, curving slightly to the left, extending from the foreground into the mid-ground. A white car is visible, parked on the left side of the road in the mid-ground, facing away from the viewer. Steep, green grassy mountainsides, dotted with trees, flank both sides of the road and form the background, beneath a bright blue sky with sun glare in the upper right. A white and red striped road marker stands on the right side of the road in the foreground.
+end of description
+In subsequent frames, the white car, initially stationary in the mid-ground, begins to move, driving towards the viewer along the road. It steadily approaches, growing larger as it travels from the distant mid-ground towards the closer foreground relative to the first-frame viewpoint. As it nears, the car's details become more apparent, revealing it to be a white convertible.

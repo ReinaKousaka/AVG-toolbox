@@ -1,0 +1,14 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a rainy city street from a sidewalk viewpoint, with a wet sidewalk, hedges, and a fence on the left, and a black railing separating it from the wet asphalt road on the right. Further down the road, a blue bus is visible in the middle lane, with a silver car in the rightmost lane to the viewer's mid-right.
+end of description
+The silver car to the viewer's mid-right moves forward and exits the frame. Simultaneously, a pedestrian holding an umbrella appears on the left sidewalk in the mid-distance, walking towards the viewer and steadily approaching.
+frame_0000000128-frame_0000000256:
+The first frame displays a rainy city street scene from a ground-level perspective. To the left, a wet sidewalk with tactile paving borders a hedge and white fence, behind which trees rise. In the midground on the left, a person with an umbrella walks away from the viewer past a lamppost with colorful banners. A metal barrier runs along the right side of the wet asphalt road, where a blue bus is visible in the midground, also moving away from the viewer, with a bus stop and buildings beyond it. Tall residential and commercial buildings line the background under a cloudy sky.
+end of description
+Subsequently, the person with the umbrella consistently moves further away on the left sidewalk. Simultaneously, the blue bus continues driving away down the road on the right. A white car emerges further ahead on the wet road, also receding into the distance.
+frame_0000000256-frame_0000000384:
+The first frame shows a wet street scene on an overcast day. To the right in the foreground, a metal guardrail runs parallel to the viewer, with a light pole bearing colorful banners partially obscuring the view. To the left, a person with a black umbrella walks away from the viewer on a sidewalk with yellow tactile paving, bordered by a green hedge and white fence. In the midground, a wet multi-lane road stretches into the distance, with a white car driving away from the viewer on the far right lane. Tall buildings line both sides of the road in the background.
+
+end of description
+
+The person with the black umbrella continues walking away from the viewer along the sidewalk to the left. A blue bus, initially far down the road on the right, drives closer to the viewer and then proceeds further away. The camera slightly pans left and zooms out, revealing more of the wet sidewalk and street to the left and center, while the foreground pole and banners shift slightly out of frame to the right.

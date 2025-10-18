@@ -1,0 +1,29 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a paved road extending from the viewer into a verdant mountain valley under a blue sky with scattered clouds. To the viewer's immediate left, a tall, rocky cliff features a prominent waterfall cascading into a green field. On the right, a steep, grassy hillside rises, dotted with several traditional wooden buildings and distant power lines, while majestic mountains form the backdrop across the horizon.
+
+end of description
+As the frames progress, the viewpoint moves forward along the road. The waterfall and the left field gradually appear closer and begin to shift towards the viewer's right, while the grassy hillside and buildings on the right move closer and shift towards the viewer's left, indicating they are being passed. Fence posts on both sides advance into the immediate foreground, revealing more of the road ahead and objects further into the valley.
+frame_0000000128-frame_0000000256:
+A paved road stretches from the foreground into the mid-distance, flanked by a wide green field to the left and a grassy slope to the right. On the far left, a majestic waterfall cascades down a dark, rocky cliff face, while distant snow-capped mountains are visible in the center-left background. Several houses with dark roofs and light walls are nestled on the right hillside in the mid-distance, beneath a dense green mountain face adorned with power lines. The sky overhead is a clear blue with scattered white clouds.
+end of description
+The scene remains largely static across the subsequent frames, with no new objects or significant dynamic changes in the landscape or structures. The only subtle movement observed is the slow drift of the white clouds across the blue sky.
+frame_0000000256-frame_0000000384:
+A paved road extends from the bottom center towards the distant mountains, flanked by mowed green fields on the left and a steep, grassy hillside on the right, which hosts several traditional houses and power lines. On the far left, a significant waterfall plunges down a dark cliff, while in the mid-distance, flat-topped mountains are visible beyond the valley, all beneath a blue sky with scattered white clouds.
+end of description
+A red-bordered triangular warning sign, indicating a narrowing road, gradually appears from behind the grassy hill on the right side of the frame, moving closer to the viewer. As the frames progress, the sign becomes more prominent on the right before moving out of view towards the right, signifying the viewer passing it.
+frame_0000000384-frame_0000000512:
+A straight asphalt road extends directly away from the viewer, flanked by lush green grass fields that rise gently on the right. In the midground, a light brown house with a dark roof stands to the left of the road, and a red-brown house is visible on the rising grassy slope to the right, with a small tree positioned between them further ahead. Towering green mountains frame the scene on both sides, with a distant flat-topped mountain appearing on the left and a power line tower on the right mountain slope, all beneath a blue sky dotted with white clouds.
+end of description
+The viewpoint steadily moves forward along the road. Consequently, the houses and distant mountains appear to gradually approach the viewer, while the foreground grass on both sides recedes. A thin, dark brown wooden fence post emerges into view on the lower left side, moving from the left into the immediate foreground.
+frame_0000000512-frame_0000000640:
+The first frame depicts a paved road extending straight ahead from the viewer, flanked by lush green grassy slopes on both sides. To the forward-left, a stone house with a brown roof stands amidst the grass, while a larger red-sided house with a brown roof is visible further ahead on the right slope. A green tree is situated between these two houses. In the background, towering green mountains rise on both sides of the valley, with a waterfall cascading down a cliff face on the far left. The sky is bright blue with scattered white clouds.
+end of description
+There are no perceptible dynamic changes or newly revealed objects across the subsequent frames; the scene remains static throughout the sequence.
+frame_0000000640-frame_0000000768:
+A paved road stretches centrally towards distant mountains under a blue sky with scattered clouds. To the left, a tall waterfall cascades near a rustic wooden and stone house nestled on a green expanse, while a vibrant green tree stands behind it. To the right, a multi-story brown house with green shutters is positioned on a steep, grassy slope.
+end of description
+The subsequent frames depict no dynamic changes or newly revealed objects; the scene remains entirely static and identical to the first frame from the initial viewpoint.
+frame_0000000768-frame_0000000896:
+A paved road stretches from the bottom center, flanked by green grass, leading uphill into a valley. To the left, a rustic barn with a brown roof and stone foundation is prominent, with a smaller red-roofed house partially visible behind it and a steep rocky mountain in the far background. To the right, a multi-story house with red and white facades and green shutters sits on a grassy slope. A green tree stands between the barn and the road, while a distant black car is visible on the road ahead, all beneath a blue sky with scattered clouds.
+end of description
+As the viewpoint moves forward, the barn on the left and the house on the right grow larger and shift towards the frame's edges, while the green tree moves closer and higher. The distant red-roofed house behind the barn becomes more visible, and a black and white striped bollard appears on the right side of the road. The stationary black car ahead gradually enlarges as the viewer approaches its position further up the road.

@@ -1,0 +1,14 @@
+frame_0000000000-frame_0000000128:
+In the first frame, a grey asphalt road with prominent yellow chevron markings directly in front of the viewer leads into the midground, where a red truck with a loaded cargo bed drives away, flanked by green verges, a white fence, and small trees on the left, and a large tree partially obscuring a building and a sign on the right, all under an overcast sky with distant, mist-shrouded mountains.
+end of description
+The red truck continuously recedes as the viewer moves forward along the road. The initial yellow chevron markings disappear from the foreground, replaced by a continuous yellow center line on the expanding road. The large tree and small building on the right gradually move out of frame, revealing a concrete road barrier along the right edge. The winding road stretches further into the distance, with the misty mountains remaining visible in the background.
+frame_0000000128-frame_0000000256:
+The first frame displays a paved road stretching into the distance under an overcast sky, with mountains shrouded in mist visible in the background. A red-orange truck is positioned ahead in the midground, moving away from the viewer on the right side of the yellow center line. Dense green trees and foliage line both sides of the road, with a light-colored concrete barrier running along the far right edge and a similar barrier structure visible on the far left.
+
+end of description
+
+The viewer moves forward along the road, causing the truck ahead to gradually appear closer. The white barrier on the far left of the first frame reveals itself as a metal guardrail, with a murky brown river becoming visible below it to the left of the original viewpoint. Concurrently, the concrete barrier on the right transitions into a metal guardrail as the viewer advances onto a bridge, maintaining its position relative to the first frame's right side.
+frame_0000000256-frame_0000000384:
+The first frame depicts a paved road with a yellow center line and white transverse markings, flanked by metal guardrails, stretching towards a small red flatbed truck in the midground, with dense green trees and foliage on both sides, and distant, cloud-covered mountains under an overcast sky.
+end of description
+As the perspective moves forward, the initial guardrails and roadside foliage appear to move past the viewer's original position. Further down the road, a tall utility pole and a yellow left-curve warning sign are revealed on the right side. Simultaneously, on the left, more of a light green and blue building with a sloped roof becomes visible beyond the foreground foliage, while the small truck continues to recede in the distance.

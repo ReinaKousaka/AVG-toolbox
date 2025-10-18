@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+A dirt path extends forward through a dense forest, flanked by towering redwood trees and lush green ferns. A large tree trunk is positioned to the immediate right of the viewer, with another substantial trunk slightly further left, and a fallen log visible ahead on the right side of the path.
+end of description
+As the viewpoint slowly moves forward along the path, the foreground trees and foliage recede. The fallen log on the right side gradually approaches, passes, and moves out of the frame to the right relative to the initial viewpoint, continuously revealing more of the winding path and dense forest deeper into the scene ahead of the original position.
+frame_0000000128-frame_0000000256:
+A dirt path leads into a dense redwood forest under an overcast sky, flanked by tall trees and lush green foliage, with a prominent tree trunk on the far right and another to the left. A fallen log lies to the right of the path in the mid-ground.
+end of description
+The viewpoint subtly pans to the right throughout the subsequent frames, causing the path to gradually shift leftward relative to the frame's center. This reveals more of the dense trees and undergrowth on the right side, while the elements on the left become slightly less prominent.

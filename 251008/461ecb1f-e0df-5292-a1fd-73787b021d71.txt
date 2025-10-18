@@ -1,0 +1,9 @@
+frame_0000000000-frame_0000000128:
+A paved road curves gently forward to the right, bordered by a rocky cliff face with pine trees and white marker posts on the left, and a pine-covered grassy slope with similar posts on the right. Distant mountains and a valley are visible far ahead on the right under a blue sky with scattered clouds.
+end of description
+As the viewpoint moves forward along the road, the immediate sections of the rocky cliff, trees, and marker posts on both sides continuously shift past the viewer, moving to the left and right, and then behind the initial first-frame viewpoint. New segments of the road and the surrounding mountainous landscape are progressively revealed ahead of the viewer.
+frame_0000000128-frame_0000000256:
+The first frame presents a paved road stretching from the bottom center, curving slightly right into the distance, flanked by steep, grassy hillsides covered in dense evergreen trees. A bright blue sky with a few wispy clouds dominates the upper portion, and distant mountains are visible to the far right. Small white marker posts are scattered along both edges of the road in the middle ground.
+
+end of description
+As the frames progress, the viewer moves forward along the road; the grassy verges and trees lining the path appear to rush towards and then past the viewer. The white marker posts on the right side of the road approach, revealing a distinct red reflective band on their tops before receding behind the viewer. The distant mountains and background trees subtly shift further to the right, indicating continuous travel through the scenic mountain pass.

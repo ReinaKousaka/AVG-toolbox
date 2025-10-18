@@ -1,0 +1,30 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a building facade combining red and white sections, with a prominent red section to the right featuring a black double door, a decorative wrought iron sign bearing a Yin-Yang symbol, and a planter filled with yellow and red flowers. To the left, a brick pillar partially obstructs a blue railing, with green trees visible in the far background.
+end of description
+In subsequent frames, a light-colored tile with a fish design is newly revealed on the left side of the brick pillar, approximately halfway up its height.
+frame_0000000128-frame_0000000256:
+The first frame displays a street-level view of a vibrant red building facade on the right, featuring a black double door entrance with a "WELLNESS ZONE" sign above it and a planter with yellow flowers to its immediate right. To the left of this entrance, a white-paneled section framed in black sits below a grey brick wall, adjacent to another red building section with a black door and window, all lining a concrete sidewalk. In the background, trees and a body of water are visible on the far left.
+end of description
+Over the subsequent frames, the viewpoint subtly shifts to the right, causing the initial rightmost building entrance to gradually move out of view to the right. Simultaneously, a blue lamppost and more of the distant treeline and body of water are revealed, emerging from the left side of the first-frame's initial view.
+frame_0000000256-frame_0000000384:
+The first frame captures a concrete sidewalk leading into the distance, with a multi-story building featuring a prominent red section and large windows on the right, alongside a white-paneled structure attached to its right. To the left, a blue wavy railing borders a waterway, beyond which are green trees, a blue lamppost, and distant buildings under an overcast sky.
+end of description
+As the frames progress, the viewpoint subtly shifts rightward, gradually revealing more of the red building and the white-paneled structure further to its right, relative to the initial perspective. This shift simultaneously moves the blue railing and the waterway on the left further towards the frame's left edge, bringing more of the building on the right into central focus.
+frame_0000000384-frame_0000000512:
+The first frame shows a concrete pedestrian walkway on the right, bordered by a vibrant red building with a black door and large window directly to the viewer's right. To the left, a blue and white railing runs alongside a canal reflecting distant buildings and lush green trees. A prominent blue lamppost stands in the midground left, fronting a large evergreen tree, while black outdoor seating is visible near the building on the right.
+end of description
+In the following frames, a white stand, initially positioned to the right of the black door on the red building, is pulled across the doorway towards the left. It gradually moves behind the red building's wall, eventually disappearing from view.
+frame_0000000512-frame_0000000640:
+The viewer is looking down a concrete walkway with a blue and white railing running along its left side, bordering a dark body of water that extends into the midground. Beyond the water, to the left, are lush green trees and some distant buildings. In the center midground, a large evergreen tree stands prominently behind a tall blue lamppost. To the right of the walkway, a multi-story building features a bright red facade in the foreground and midground, with black double doors and stacked black outdoor chairs and tables to the left of the doors. A white and gray upper section of the building rises above the red portion.
+end of description
+Across the subsequent frames, the scene remains largely static, with no newly revealed objects. The only discernible dynamic changes are minor: subtle shifts in the cloud patterns overhead, gentle ripples on the water surface to the left, and barely perceptible swaying of the tree leaves in the midground, suggesting a light breeze.
+frame_0000000640-frame_0000000768:
+The first frame shows a canal scene under a cloudy sky. To the viewer's left, a blue metal railing curves along the canal's edge, alongside which a blue street lamp stands. Further left across the canal, lush green trees and distant buildings are visible. Centrally, a large, dense evergreen tree rises behind a low brick wall that separates the sidewalk from the canal. To the right, a light-colored building with a red vertical accent features stacked outdoor tables and chairs.
+
+end of description
+
+No significant dynamic changes or newly revealed objects occur in the subsequent frames; the scene remains static from the first-frame viewpoint.
+frame_0000000768-frame_0000000896:
+In the first frame, a concrete path extends from the viewer into the distance. To the immediate left, a blue railing with a white top borders a body of water, alongside a blue lamppost. To the viewer's right, a light-colored building wall with dark-framed windows and stacked black tables and chairs is positioned closer to the viewer. In the mid-ground, a large evergreen tree with a wide canopy stands across the water, behind a short brick wall separating the path from the water. Further in the background, more buildings and green trees are visible across the water under an overcast sky.
+end of description
+As the frames progress, the scene reveals more content to the right of the initial viewpoint. The stack of chairs and tables, originally on the viewer's immediate right, gradually shift left and move out of the frame. Simultaneously, new sections of the building previously beyond the first frame's right edge become visible, revealing a white sign labeled "HILL'S" above the windows. The blue lamppost and the large evergreen tree, initially to the left of center, also progressively shift further to the left relative to the expanded view, indicating a steady rightward pan from the original perspective.

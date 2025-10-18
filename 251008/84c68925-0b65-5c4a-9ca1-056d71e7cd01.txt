@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+Two white cars are parked on the left side of a city street, adjacent to a storefront with a large glass display and a red sign featuring Chinese characters (including '水果' - fruit). A crosswalk with white stripes spans the mid-ground, where several pedestrians are walking towards the left, accompanied by a white hatchback and a person on an electric scooter to the right. Multi-story buildings line both sides of the street, receding into the background under a bright sky.
+end of description
+The pedestrians on the crosswalk (mid-ground, center) continue walking towards the left, nearly clearing the frame. Concurrently, the white hatchback (mid-ground, center) advances slightly onto the crosswalk. The person on the electric scooter (mid-ground, right) moves further right and out of view. Other vehicles in the background also exhibit minor shifts in position as they proceed down the street.
+frame_0000000128-frame_0000000256:
+The first frame displays a street scene with a white Honda Civic parked on the left, and a white Volkswagen Scirocco stopped at a crosswalk directly ahead. Two pedestrians are crossing from the right to the left side of the street, in front of the Scirocco, while buildings with various shops line both sides of the street, receding into the background.
+end of description
+The two pedestrians continue walking further left and slightly away from the viewer across the crosswalk. Simultaneously, a black scooter with a rider, initially positioned behind the Scirocco on its right, moves forward and begins to turn left, passing the Scirocco, as another scooter further back also advances.

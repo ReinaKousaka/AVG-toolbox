@@ -1,0 +1,28 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a sunlit cobblestone street extending away from the viewer into the distance. To the left, a building houses an outdoor café with patrons, while a grander building with an arched entrance lines the right. In the background, people walk and cars are parked, with a distant historical structure under a bright sky.
+end of description
+In subsequent frames, a pair of individuals in the street's mid-ground steadily walk further away from the viewer. Simultaneously, another person on the right sidewalk progresses further down the street, with subtle shifts in illumination and shadows observable on the cobblestones.
+frame_0000000128-frame_0000000256:
+The first frame presents a sunny, cobblestone street with buildings lining both sides; a cafe with outdoor seating and patrons occupies the left, while an ornate stone building with two trash bins is on the right. Pedestrians cast long shadows as they walk towards the bright sun in the distant background, where cars and more structures are visible.
+end of description
+Throughout the following frames, the pedestrians in the mid-ground move further away from the viewer down the street, causing their shadows to subtly shift and lengthen on the cobblestones.
+frame_0000000256-frame_0000000384:
+In the first frame, a cobblestone street stretches away from the viewer. To the left, a building houses a cafe with outdoor seating and several bicycles parked near it. To the right, two trash bins (one green, one grey) stand beside a building with an arched entrance. Many pedestrians populate the midground on the street, walking in various directions, while parked cars are visible further down. The bright sun is high in the clear blue sky, and distant buildings and trees form the background.
+end of description
+Throughout the subsequent frames, the scene remains generally static from the first-frame viewpoint, but pedestrians on the cobblestone street continue to move, some walking closer to the viewer from the midground, while others recede further into the distance. People are seen crossing from the left side of the street towards the right and vice versa, maintaining their positions relative to the street itself.
+frame_0000000384-frame_0000000512:
+The first frame displays a sunny, cobblestone street bordered by a cafe with outdoor seating on the left and a stone building featuring an arched entrance on the right. Several pedestrians are walking towards the viewer along the street, with parked cars and distant buildings visible further ahead under a bright sky.
+end of description
+In subsequent frames, the individual on the right sidewalk steadily progresses closer to the viewer, passing the building's arched entrance. Concurrently, the pair of pedestrians on the middle-left also walk nearer to the viewer, their shadows extending behind them on the cobblestones.
+frame_0000000512-frame_0000000640:
+The first frame shows a bright cobblestone street receding into the distance, flanked by buildings under a clear blue sky with prominent sun glare. An outdoor cafe with seated patrons is on the left, next to a building with a visible street lamp and a distant church steeple, while the right side features a building with an arched entrance and a green cross sign further down.
+end of description
+Throughout the subsequent frames, a couple walks from the foreground on the left towards the background, passing the cafe. Simultaneously, a person in a light jacket moves from the mid-ground on the left towards the viewer, and a bird briefly flies across the mid-ground sky.
+frame_0000000640-frame_0000000768:
+The first frame displays a sun-drenched cobblestone street extending forward from the viewer, flanked by a rustic building on the immediate right with an archway and a green cross pharmacy sign ahead, and a restaurant area to the immediate left with people, tables, and a white awning. Further left, a stone monument with a cross stands, beyond which parked cars line a distant street, with bare trees and distant buildings visible under a bright blue sky featuring a prominent sun in the upper-right. A street lamp is visible overhead in the top-left.
+end of description
+A person in a brown coat walks forward on the cobblestone path from the left-midground towards the center, moving away from the viewer. Other pedestrians on both sides of the street exhibit slight movements in their positions ahead of the viewer. Additionally, a bird flies across the bright blue sky from the upper-left to the upper-right, remaining high above the scene.
+frame_0000000768-frame_0000000896:
+The first frame depicts a sunny, wide cobblestone pathway leading into the distance, flanked by a low stone wall with people sitting and standing on the left, and a multi-story stone building on the right. A white monument with a cross, a white tent, and parked cars are visible beyond the wall on the left, while the building on the right features an arched entrance and a green pharmacy sign further along its facade. The bright sun is high in the clear blue sky, illuminating the path where several individuals are static in the midground, with distant city structures framing the horizon.
+end of description
+Subsequently, a person in dark clothing, followed closely by another in a light brown coat, begins walking from the midground towards the viewer along the left side of the cobblestone path, gradually progressing to the foreground and exiting the bottom of the frame.

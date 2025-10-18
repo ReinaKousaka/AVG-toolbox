@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+Two train tracks stretch centrally into the distance, flanked on the left by a graffiti-covered concrete wall and a reddish-orange building, and on the right by a steep, tree-covered hillside. Overhead catenary wires and poles frame the sky, with distant mountains visible ahead in the background.
+end of description
+As the viewpoint moves forward, the reddish-orange building and graffiti wall on the left recede, giving way to a longer, beige industrial building and then a parking area with multiple vehicles, including trucks and a silver car, to the left of the tracks. Simultaneously, new segments of overhead wires and supporting poles appear directly above and to the left, while the tree-covered hillside on the right continues to pass by. In the far distance, a white train gradually emerges from around a curve, approaching along the tracks.
+frame_0000000128-frame_0000000256:
+The first frame shows a train track view curving right into the distance, with two tracks leading ahead. To the left, industrial buildings and parked vehicles are visible, while a steep, forested hill with a stone retaining wall borders the right side. Overhead power lines and gantries span the clear sky, and a white train with a red nose is faintly visible on the far track around the distant bend.
+end of description
+As the viewer moves forward through subsequent frames, the immediate buildings and hillside on either side recede behind, revealing new sections of the landscape. The distant train on the adjacent track steadily approaches the viewer from the right of the central path, growing larger and more defined with each frame. It eventually passes to the right of the viewer's position, heading in the opposite direction.

@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame displays an asphalt road leading into the distance, bordered by a grassy verge on the left and a tall green hedge on the right. To the immediate right, behind the hedge, is a building with a visible balcony, and further down the road on the left, a small building is partially obscured by trees. Majestic mountains dominate the background, set against a clear blue sky.
+end of description
+As the viewpoint advances along the road, the building on the right moves out of frame, fully revealing a blue trampoline safety net behind the receding hedge. Simultaneously, additional structures and a wooden bench become clearer and more prominent on the left side of the road. The distant mountains remain in the background but appear slightly closer and more defined as the scene progresses.
+frame_0000000128-frame_0000000256:
+The first frame displays a paved road curving left into the distance, flanked by lush green grass on the left leading to houses and a small bridge, and a neatly trimmed green hedge on the right, behind which stand tall evergreen trees. Majestic, tree-covered mountains dominate the distant background under a bright blue sky.
+end of description
+As the frames advance, the viewpoint moves forward along the road. The hedge on the right gradually passes the viewer, revealing a tall, slender pole behind it that then also moves towards the right edge of the frame. Simultaneously, the buildings and bridge on the left appear closer to the viewer's new position as the scene progresses.

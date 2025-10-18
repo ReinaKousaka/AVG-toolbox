@@ -1,0 +1,16 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a paved road extending forward from the viewer, featuring a double yellow line on the left and a white line on the right, with a small portion of the viewer's vehicle visible at the bottom left. To the viewer's immediate left, a massive reddish-orange rock cliff rises alongside the road, while to the right, a strip of green bushes and some dry grass separate the road from a partially visible river. Far in the distance along the road, a lone cyclist is visible, with more dark cliffs forming a canyon wall to the right under a clear blue sky.
+
+end of description
+
+As the viewer moves forward, the road, the red cliff face on the left, and the green bushes and river on the right continuously recede behind the viewer's initial position, revealing new sections of the canyon scenery ahead. The distant cyclist on the road steadily approaches the first-frame viewpoint as the journey progresses.
+frame_0000000128-frame_0000000256:
+The first frame displays a straight, paved road with double yellow lines on the left and a white line on the right, extending towards a distant person on a bicycle. A massive red rock cliff wall rises immediately to the viewer's left, while the right side features sparse green bushes, glimpses of a river, and more distant red rock mountains under a clear blue sky.
+
+end of description
+
+As the frames progress, the viewpoint advances along the road, causing the cracks and lines on the road surface, the details of the cliff face, and the vegetation on the right to move past the viewer. Simultaneously, the person on the bicycle in the distance steadily grows larger and closer, indicating the viewer's continuous forward motion along the route.
+frame_0000000256-frame_0000000384:
+A long, straight asphalt road extends into the distance under a clear blue sky. A massive red rock cliff lines the left side, while sparse vegetation borders a river on the right. A lone cyclist is visible far ahead on the road.
+end of description
+As the frames progress, the viewpoint moves forward along the road, causing the cracked asphalt and painted lines to continually advance towards and past the viewer. The distant cyclist gradually appears closer, while the red cliff face and riverine vegetation steadily shift their positions as the landscape unfolds ahead.

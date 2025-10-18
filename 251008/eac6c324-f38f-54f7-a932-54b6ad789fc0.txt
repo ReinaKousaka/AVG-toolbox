@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+First, the first frame presents an aerial view of a lush garden featuring a central green lawn, a stepping stone path on the left, and dense green trees across the top and left edges. On the right, a tall evergreen tree overlooks planted beds, while a white cube-like structure and a spherical bush are partially visible in the bottom right foreground.
+end of description
+The subsequent frames show the camera slowly zooming out and shifting slightly right, revealing more of the overall scene. This movement makes the white cube-like structure and spherical bush appear smaller and further away at the bottom right, while progressively revealing more of a building structure located behind the tall evergreen tree to the right of the garden's initial expanse.

@@ -1,0 +1,14 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a wet, dark asphalt road with a white line on its right edge, curving gently left into the midground. A steep, moss-covered rocky incline rises to the right, while a metal guardrail and green trees line the road to the left, all beneath an overcast sky partially obscured by overhead branches.
+end of description
+As the frames progress, the viewpoint steadily moves forward along the road. This continuously reveals further segments of the wet asphalt road, the metal guardrail to the left, and the rocky incline to the right, all of which were previously more distant from the initial viewpoint.
+frame_0000000128-frame_0000000256:
+The first frame shows a winding asphalt road extending directly forward from the viewer, with a metal guardrail and dense green trees on the left, and a steep, rocky, grass-covered hillside ascending on the right, all under a bright sky.
+end of description
+Subsequent frames depict continuous forward motion, causing the initial visible sections of the guardrail and hillside to progressively move behind the viewer's evolving position. The road continues to curve, revealing new segments of the same guardrail and dense trees to the left, and the rocky, green hillside to the right, all continuously located in front of the viewer.
+frame_0000000256-frame_0000000384:
+The first frame displays a dark asphalt road stretching forward and gently curving to the left. A steep, rocky embankment densely covered with green trees and vegetation rises immediately to the right of the road, while a metal guardrail lines the left edge, beyond which more trees and distant lighter foliage are visible under a bright sky.
+
+end of description
+
+As the frames progress, the viewpoint moves forward along the road, causing the immediate environment to shift closer and then recede past the viewer. The road, the rocky embankment on the right, and the guardrail and trees on the left continuously advance, indicating forward motion. The gentle curve to the left gradually becomes more pronounced as the path ahead is continuously revealed.

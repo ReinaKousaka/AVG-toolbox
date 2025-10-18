@@ -1,0 +1,18 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a street scene with white zebra crossings in the immediate foreground. To the left, a silver SUV and a yellow pickup truck are parked next to a green median strip, while a white sedan occupies the middle lane ahead, and another white sedan is further in the right lane. On the far right, a person on a blue scooter is visible, all set against a backdrop of numerous tall residential buildings and a clear blue sky, with a navigation overlay in the top-left corner.
+end of description
+As the frames progress, the viewpoint moves forward, causing the zebra crossings and the vehicles on the left to be passed and move out of the frame behind the viewer. The green median strip on the left also recedes and eventually moves out of frame to the left. The white sedans ahead in the road maintain their positions in front of the viewer but appear progressively closer, while the scooter on the right moves forward and eventually out of the right side of the frame.
+frame_0000000128-frame_0000000256:
+The first frame shows a multi-lane road stretching into the distance, flanked by green bushes to the left and trees with parked cars to the right, all set against a dense cityscape of tall apartment buildings under a blue sky; a navigation overlay is visible in the top-left.
+end of description
+Across subsequent frames, the viewer moves forward along the road, causing the silver car, white car, and moped ahead to recede relative to the initial viewpoint. The roadside greenery and trees continuously pass by to the viewer's sides, and the navigation overlay in the top left corner displays a steadily decreasing distance, indicating ongoing motion.
+frame_0000000256-frame_0000000384:
+The first frame displays a multi-lane city road from a moving vehicle's perspective, with a silver sedan directly ahead in the same lane and a person on a blue delivery scooter to the right. To the left, a green median with dense bushes and trees separates traffic, while on the right, parked cars line a sidewalk fronting commercial buildings and more trees. Numerous tall residential high-rises fill the background under a bright sky, and a navigation map overlay occupies the top-left corner.
+end of description
+As the frames progress, the viewer's perspective moves forward; the silver car and the blue scooter both advance and gradually recede down the road. The navigation overlay updates, with the indicated distance decreasing (e.g., from 305m to 210m), reflecting the continuous forward movement of the viewpoint and revealing more of the road and buildings ahead.
+frame_0000000384-frame_0000000512:
+The first frame presents a straight multi-lane road with a silver sedan immediately ahead in the left lane, and a person on a scooter visible further down the right lane, alongside several parked cars on the far right. To the left, lush bushes and trees line the road with a directional signpost in the upper left, while the background is dominated by numerous tall residential buildings under a clear sky.
+
+end of description
+
+As the frames progress, the viewer moves forward, causing the silver sedan directly ahead and the scooter to the right to gradually recede further into the distance relative to the initial viewpoint. Simultaneously, the green roadside elements and parked cars to the left and right shift progressively backward and out of view, indicating the viewer's continuous advancement along the road.

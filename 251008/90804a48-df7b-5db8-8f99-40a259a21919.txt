@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+In the first frame, a wooden boardwalk stretches from the bottom-center towards the midground, curving gently to the right and disappearing into a lush green forest. To the viewer's immediate left, a large tree trunk covered in green moss is prominent, with smaller plants at its base. Dense green foliage, ferns, and moss-covered ground extend throughout the scene, flanking the boardwalk on both sides and filling the background with numerous tall trees under a verdant canopy.
+end of description
+The camera gradually moves forward along the boardwalk, causing previously midground elements like the curving path and trees to appear closer and larger relative to the initial viewpoint. Around frame 7, a dissolve effect signifies a more substantial advancement along the path. In the final frames, the viewer's position has significantly progressed, bringing the large mossy tree from the first frame's left into closer proximity. The boardwalk now extends further into the forest from a new foreground position, revealing more of the path that was initially in the deeper midground.
+frame_0000000128-frame_0000000256:
+The first frame displays a verdant forest scene with a wooden boardwalk path beginning in the foreground center and winding into the distance, curving right and then left. A large tree trunk with textured bark is prominently visible in the foreground to the left, while dense green foliage, ferns, and numerous tall trees fill the mid-ground and background surrounding the path.
+end of description
+No dynamic changes or newly revealed objects occur in the subsequent frames; the scene remains static.

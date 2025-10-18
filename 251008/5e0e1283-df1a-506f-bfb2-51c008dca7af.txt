@@ -1,0 +1,22 @@
+frame_0000000000-frame_0000000128:
+The view is from the front of a train on tracks curving gently to the right, with a dark object visible in the bottom left corner where "Vmax 95KM/h" is displayed. To the immediate left are dense evergreen and deciduous trees and a utility pole, with a river and distant green mountains beyond; to the right, a steep, tree-covered embankment rises under a cloudy sky.
+
+end of description
+
+As the train moves forward, the tracks recede while a series of utility poles and overhead wires continually pass by on the left side of the track. The river on the left becomes increasingly visible as the train rounds the bend, with the forested hillside to the right also shifting to reveal new sections of terrain.
+frame_0000000128-frame_0000000256:
+The first frame shows a view from the front of a train, looking down curving tracks that lead from the bottom center towards the top right. To the left of the tracks is a wide, fast-flowing river, beyond which are dense green trees and rolling mountains under an overcast sky. To the right, a steep, grassy hillside covered with some trees rises alongside the tracks, while several utility poles with overhead wires run parallel to the left side of the tracks, receding into the distance. A "Vmax: 95KM/h" overlay is visible in the bottom-left corner.
+end of description
+As the train moves forward along the curving tracks, the objects in the landscape dynamically shift relative to the viewer. Utility poles initially in the mid-ground on the left side of the tracks progressively approach, pass the viewer, and then recede, with new poles appearing in the distance ahead. The river on the left and the forested hillside on the right continually recede from the viewer's perspective, revealing new sections of the landscape along the track's curve ahead.
+frame_0000000256-frame_0000000384:
+In the foreground, train tracks run from the bottom center, curving right into the distance, flanked by ballast stones. To the left, a wide river with rapids flows alongside a forested bank, beyond which distant green mountains rise under an overcast sky. On the right, a steep, grassy embankment with dense trees parallels the tracks, and a utility pole stands near the tracks on the left, extending wires overhead.
+end of description
+As the train moves forward, the scene continuously progresses *ahead of the viewer* along the curving tracks. The utility pole, initially on the left, advances *closer to the viewer* and eventually passes *to the viewer's left*. New sections of the river, its forested banks, and the grassy embankment on the right are revealed *further along the path in front of the viewer* as the train travels along the tracks.
+frame_0000000384-frame_0000000512:
+The first frame presents a view down a train track, curving gently to the right, with a river and green forested banks to its left, and a steep, tree-covered hillside rising to its right, all beneath an overcast sky with distant mountains. An overhead power line stretches across the top, and a utility pole stands beside the tracks on the right.
+end of description
+As the frames advance, the viewpoint moves forward along the train tracks. The utility pole rapidly approaches and passes the viewer on the right, while the trees and riverbank on the left, and the forested hillside on the right, continuously move past, revealing new sections of the landscape ahead.
+frame_0000000512-frame_0000000640:
+The first frame presents a straight-ahead view down a set of train tracks, laid on a gravel bed, which curve gently to the right in the mid-distance. To the immediate left, a calm river or lake runs parallel to the tracks, bordered by dense green trees and distant mountains under an overcast sky, with some small buildings visible along the far riverbank. On the right, a steep, green embankment covered in trees and some cleared patches ascends upwards, while overhead power lines stretch across the top of the frame, and a speed indicator "Vmax: 95KM/h" is present at the bottom-left.
+end of description
+As the viewpoint moves forward along the tracks, the landscape on both sides continuously reveals new sections ahead of the viewer. The river on the left and the steep, forested embankment on the right move past, with details like felled trees on the slope becoming clearer. Overhead power poles emerge on the left side of the tracks, advancing towards the viewer as the journey progresses.

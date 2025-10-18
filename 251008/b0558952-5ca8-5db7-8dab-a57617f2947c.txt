@@ -1,0 +1,9 @@
+frame_0000000000-frame_0000000128:
+The first frame captures a low-angle view of a forest path. In the immediate foreground, a large fallen tree trunk with exposed lighter wood on its left stretches horizontally from the bottom left towards the center, while a moss-covered live tree trunk is prominent on the far left. A winding dirt path extends into the midground on the right of the fallen log, flanked by green and yellow foliage, leading into a dense forest with tall trees under a bright sky in the background.
+
+end of description
+As the frames progress, the viewpoint moves forward along the path. The prominent fallen tree trunk from the foreground steadily recedes and shifts to the left side of the frame, revealing more of the winding dirt path ahead. The dense forest, including tall evergreen trees and additional fallen logs previously further along the path to the right, becomes progressively closer and more detailed as the camera advances into the scene.
+frame_0000000128-frame_0000000256:
+A vast forest scene is presented with a large, fallen tree trunk lying diagonally across the lower-left to mid-right foreground. To its immediate right, a narrow dirt path extends into the distance. Dense green and some yellow-leafed trees line both sides of the path, with a steep, tree-covered hillside visible in the far background to the left and a light sky overhead. Another moss-covered fallen log lies to the right, further along the path.
+end of description
+The camera moves forward along the dirt path. The large fallen tree trunk, initially dominating the lower-left foreground, gradually recedes and moves further to the left of the viewer's perspective. Concurrently, the narrow dirt path becomes more central in the frame, and the dense forest and hillside in the background appear to draw closer. The smaller fallen log to the right also approaches and shifts slightly leftward in relation to the frame as the viewpoint advances.

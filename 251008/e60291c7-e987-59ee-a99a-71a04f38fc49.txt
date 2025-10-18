@@ -1,0 +1,6 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a city street. In the foreground, tram tracks run horizontally, with a grey Brinks truck parked on the left and the rear of a white car moving away on the right. In the midground, a bus stop shelter is visible behind the Brinks truck, followed by a white ornamental tree and a street lamp pole. Further right, a row of bicycle rentals lines the sidewalk where two people are standing. The background features several tall, modern glass buildings, with sunlight reflecting brightly and flags flying on poles to the right.
+
+end of description
+
+The Brinks truck, initially on the far left, slowly moves forward and away from the viewer, receding to the left. The white car on the right drives out of frame, with other vehicles subsequently appearing and also moving away. Additional pedestrians emerge from behind the street lamp and walk along the sidewalk, moving further away from the viewer. The overall viewpoint advances forward, causing objects in the foreground to recede and revealing more of the background street and buildings.

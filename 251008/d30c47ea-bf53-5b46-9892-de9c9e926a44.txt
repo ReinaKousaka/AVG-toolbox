@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+In the first frame, numerous bright green palm fronds dominate the foreground, with some appearing blurred at the top and bottom. Behind these, a dense cluster of more defined palm trees fills the midground, situated within a valley flanked by steep, rocky mountainsides that recede into a hazy, overcast sky in the background.
+end of description
+The viewpoint gradually recedes and rises, moving away from the initial foreground palms and revealing a wider expanse of the valley filled with many palm trees, a path winding through them, and the surrounding mountains. Concurrently, the word "MASPALOMAS" appears and solidifies in the upper-left of the view. The scene then dramatically shifts to a completely new location, presenting an aerial view of a sunset over a mountain range, with a few pine trees and a small figure visible on a ridge, replacing the previous valley scene.
+frame_0000000128-frame_0000000256:
+The first frame presents a panoramic view of a rugged, mountainous landscape at sunset. In the midground, dark rocky terrain features three scattered pine trees, with a small silhouetted figure standing on an outcrop slightly left of center. A range of mountains fills the background, silhouetted against a bright orange and yellow sunset where the sun is visible to the right, and the text "MASPALOMAS" appears in the upper left.
+end of description
+Subsequent frames maintain the same viewpoint and static scene. The only dynamic change observed is the text in the upper left of the frame; "MASPALOMAS" fades out, and "PLAYA INGLES" then fades in at the exact same spatial position relative to the first-frame viewpoint.

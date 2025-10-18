@@ -1,0 +1,19 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a paved road extending into the distance, with sidewalks on either side. To the left, a large coniferous tree partially obstructs a bright pink house, visible behind a white balustrade fence. On the right, a street lamp stands tall amidst dense green hedges and palm-like trees, while tree-covered hills and distant mountains rise under a clear blue sky in the background.
+
+end of description
+As the viewpoint advances along the road, the large tree on the left recedes from the upper-left, and the street lamp on the right moves further right and out of the frame. The pink house becomes more prominent on the left, and a red fire hydrant emerges on the sidewalk ahead of its fence.
+frame_0000000128-frame_0000000256:
+The first frame presents a paved road curving gently to the left, with a red stripe marking its right edge, leading towards a village. To the immediate left, a vibrant pink house is visible, fronted by a white balustrade and a dense green hedge. On the right, a beige house with a dark roof and a prominent palm tree are seen. In the mid-distance, a cluster of smaller houses appears, set against a backdrop of imposing, tree-covered mountains under a clear blue sky.
+end of description
+As the viewpoint moves forward, the pink house on the left and the beige house with the palm tree on the right progressively recede and move out of the frame. More of the green hedge to the left and a building behind the initial beige house on the right are revealed. The central road continues to open up, and the distant cluster of houses and the base of the mountains become closer and more detailed within the frame.
+frame_0000000256-frame_0000000384:
+A grey asphalt road with a faded white centerline stretches into the distance, flanked by sidewalks featuring red-orange painted curbs. To the left, a tall green hedge obscures part of a white house, while to the right, a lower green hedge with red flowers borders a light brown house with a dark roof, and another white house beyond it. In the middle distance, a tall conifer tree with a streetlamp stands near an apparent intersection, with various other houses and green foliage visible amongst the slopes of large, forested mountains in the background under a clear blue sky.
+end of description
+The viewpoint moves forward along the road, causing the flanking hedges and houses on both sides to approach and enlarge. The white house on the left becomes more visible, revealing red shutters, as the central streetlamp and tall tree grow in size. A white traffic cone then appears in the middle of the road ahead. Further forward, a pedestrian crosswalk marked by white triangles emerges on the asphalt. A previously distant bridge or overpass in the background also becomes more distinct.
+frame_0000000384-frame_0000000512:
+A paved road, marked with white yield triangles, extends uphill towards distant forested mountains under a clear blue sky, flanked by a white house with a green hedge on the left and a tall evergreen tree, streetlamp, and another house with red flowers on the right, with a bridge structure visible in the far mid-ground.
+
+end of description
+
+As the viewpoint advances, the foreground road markings, including the yield triangles, recede and disappear from view, moving away from the viewer's original position. Dark bollards with yellow tops, initially visible in the mid-distance, subsequently emerge ahead of the first-frame viewpoint and then pass to its immediate left and right. Concurrently, shadows from the large evergreen tree on the right progressively lengthen, spreading across the road as the camera moves further up the street.

@@ -1,0 +1,18 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a bustling night market street at night, filled with illuminated stalls and numerous people. In the foreground, a blue trash can stands to the left, while a market stall displaying jewelry and various goods fills the right side. A man in a black shirt and a woman in brown shorts walk away from the viewer down the middle, as another woman in a black dress and green mask approaches on the far left.
+end of description
+Dynamically, the approaching woman moves left past the trash can and exits the frame relative to the first-frame viewpoint, while the man and woman ahead progress further away into the market. Concurrently, a person in a yellow reflective vest appears from the left, passing behind the trash can, as the viewer's perspective subtly advances deeper into the lively street scene.
+frame_0000000128-frame_0000000256:
+The first frame displays a lively night market street. In the foreground, a black trash can is on the bottom left, and a brightly lit jewelry vendor stall is on the right, attended by a woman. Numerous people walk away from the viewer through the midground, while buildings and more market stalls line both sides of the street into the background, illuminated by overhead streetlights and colorful string lights.
+end of description
+Subsequently, the individuals in the midground continue walking further away from the viewer down the street. A man wearing a yellow high-visibility vest and holding a stick then appears in the midground, moving from left to right past the group on the left side of the path.
+frame_0000000256-frame_0000000384:
+The first frame presents a bustling night market scene from a pedestrian's perspective, looking down a street flanked by buildings and stalls under a dark sky. In the immediate foreground, a woman in a light purple shirt leans over a right-side stall, adjusting her top, while to her left, a man in a black shirt stands with his back to the viewer. Further left, a man in a yellow safety vest walks away, pulling a red bucket, with a colorful display of goods nearby. The midground and background are densely populated with people browsing and walking, numerous stalls, and buildings illuminated by string lights and overhead streetlights.
+
+end of description
+
+Over the subsequent frames, the man in the black shirt slowly shifts his posture, turning his head to the left and placing his hands on his hips. Concurrently, the woman in the light purple top continues to adjust her clothing at the right-side stall, changing her lean and stance. The man in the yellow vest also gradually moves further to the left and away from the initial viewpoint.
+frame_0000000384-frame_0000000512:
+The first frame captures a vibrant night market street, populated by numerous people walking between stalls that line both sides of the path, stretching from the foreground into the background. Overhead, string lights illuminate the scene, flanked by buildings; in the immediate foreground, the backs of a person in a black t-shirt are to the viewer's left, and a partially visible person in a purple top is to the right.
+end of description
+As the frames progress, the bustling crowd shifts; people move forward, past the viewer, and further into the market from the original viewpoint. A woman in a black dress on the mid-right of the first frame steadily moves forward towards the viewer's right. Concurrently, a shooting game stall with a person holding a rifle becomes more distinct on the far left of the mid-ground, offering a new detail to the evolving market scene.

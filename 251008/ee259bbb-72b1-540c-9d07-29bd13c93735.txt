@@ -1,0 +1,28 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a paved road curving left into the distance, with a guardrail bordering water on the left and a prominent streetlamp. To the right, diverse buildings, including a white commercial structure, are nestled against lush green hills under a clear blue sky.
+end of description
+As the viewpoint progresses forward along the road, the initial streetlamp and guardrail move left out of frame, revealing a new utility pole and more distant buildings ahead on the right. Further along and to the far left relative to the first-frame viewpoint, a large grey building by the water becomes visible, while a white car slowly appears in the distant roadway, approaching the viewer.
+frame_0000000128-frame_0000000256:
+In the first frame, a wide asphalt road stretches into the distance, with a long shadow from the viewer's position cast on its left lane. To the left, a concrete barrier and guardrail separate the road from the sea, beyond which a large building complex and distant mountains are visible. On the right, various multi-story buildings and houses line the road, backed by a lush green, tree-covered mountain, with utility poles and wires running parallel overhead.
+end of description
+As the viewpoint moves forward along the road, the buildings and utility poles on the right, and the sea barrier on the left, shift closer and then recede past the viewer. A white car, initially ahead in the distance, approaches and then passes the viewer on the left, while pedestrians appear walking ahead on the left side of the road, becoming more visible as they are approached.
+frame_0000000256-frame_0000000384:
+From the first-person perspective, a coastal road with yellow '50' markings stretches ahead under a clear blue sky; to the right are residential buildings backed by a green hill and utility poles, while to the left, a fence overlooks the sea, where two people walk away and a distant large building is visible.
+end of description
+As the viewer moves forward, the two pedestrians on the left recede further along the coastline and eventually disappear from view. The '50' road marking passes underneath the viewer, and the white car ahead on the road slowly approaches, revealing more of the winding coastal route.
+frame_0000000384-frame_0000000512:
+The first frame shows a coastal road extending forward, with two distant cars visible on it. To the left, a fenced walkway borders the sea, beyond which a large building stands. On the right, residential buildings and utility poles line a green hillside under a clear sky.
+end of description
+A traffic light becomes visible mid-road, changing from red to green as a person jogs from the far left along the walkway. Concurrently, a silver car approaches from the right, entering the road, while the initial distant cars continue moving forward.
+frame_0000000512-frame_0000000640:
+In the first frame, a road with a crosswalk extends forward from the viewer, bordered by a jogging person and a fence overlooking the ocean on the left. A white car approaches a green traffic light on a pole in the distance, while houses line a green hillside to the right.
+end of description
+The jogger moves off-screen to the right as the white car approaches, passes the crosswalk, and recedes further down the road from the original viewpoint. Simultaneously, the viewer's position advances, bringing the utility pole, now revealing a speed limit '50' sign, and the houses on the right progressively closer.
+frame_0000000640-frame_0000000768:
+The first frame displays a multi-lane asphalt road extending forward from the viewer, marked with white lines. To the left, a metal fence separates the road from the ocean, with large rocks at the water's edge and a multi-story building visible further along the coast. On the right, a forested hillside slopes upwards, while several buildings, utility poles with wires, and a white car in the distant right lane line the road, all beneath a clear blue sky.
+end of description
+The viewpoint continuously moves forward along the road, causing the red circular sign on the left, initially in the mid-distance, to approach and then pass out of view. Concurrently, the buildings, utility poles, and palm trees along the right side and central distance draw closer, appearing larger, before receding into the background. The white car ahead maintains its relative distance as the surrounding landscape shifts past the viewer.
+frame_0000000768-frame_0000000896:
+The first frame presents a two-lane road stretching forward from the viewer. To the left, a concrete barrier borders the ocean with distant land, beyond which a large building, a prominent red and white structure, and a line of palm trees frame a distant white car. On the right, light-blue buildings and utility poles stand before a steep, tree-covered hillside under a clear blue sky.
+end of description
+As the viewpoint moves forward, the concrete barrier and buildings on the right move past the viewer, while the distant white car, palm trees, and the prominent red and white structure on the left gradually approach.

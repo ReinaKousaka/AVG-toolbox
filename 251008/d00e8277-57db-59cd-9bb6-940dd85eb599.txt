@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+A cobblestone square extends from the foreground, centering on a dark tiered fountain in the midground. To the left stands a pink building with an ivy-covered doorway and a white scooter parked beside it, while a brown stone building with colorful shutters and a decorated Christmas tree is to the right, adjacent to a white car parked on the far right.
+end of description
+The white car, initially parked to the far right of the first-frame viewpoint, steadily drives out of the scene to the right. Simultaneously, the camera subtly pans to the left, gradually revealing more of the street extending away from the viewer on the far left, beyond the scooter.

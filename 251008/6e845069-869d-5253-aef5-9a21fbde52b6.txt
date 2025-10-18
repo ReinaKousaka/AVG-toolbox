@@ -1,0 +1,14 @@
+frame_0000000000-frame_0000000128:
+The first frame captures a rain-slicked city street at night, with prominent white crosswalk stripes and faint red lines directly in front of the viewer, reflecting the bright green traffic light centrally positioned overhead and various building lights. Tall illuminated buildings line both sides of the wide road stretching into the background, populated by numerous streetlights, parked white vehicles on the left, and distant moving traffic.
+
+end of description
+
+As the frames progress, heavy rain visibly intensifies, falling from the upper left and right, creating splashes on the foreground's wet asphalt. Concurrently, the white car initially on the far left of the scene begins to move slowly forward and slightly right relative to its first-frame position, while the street reflections continuously ripple and shimmer.
+frame_0000000128-frame_0000000256:
+The first frame displays a wide, wet city street at night from a low vantage point, with white crosswalk stripes in the foreground and a prominent green traffic light ahead reflecting brightly on the glossy asphalt. Buildings with numerous illuminated signs line both sides of the street in the midground and background, alongside streetlights and parked cars visible on the left.
+end of description
+As frames progress, a red light briefly appears to the left of the main green traffic light, creating a distinct red reflection alongside the green on the wet road. The reflections subtly fluctuate, and a white car visible on the far left of the street appears to slowly move forward.
+frame_0000000256-frame_0000000384:
+The first frame displays a night-time urban street scene, heavily wet from rain, with vibrant reflections. In the foreground, a dark, wet road extends away from the viewer, marked by white crosswalk lines directly in front and red lines further down, reflecting numerous lights. To the left, a multi-lane road leads into the distance, lined with streetlights and showing parked cars and distant vehicles. In the center, traffic lights are suspended over the road, with a prominent green light, and a red light slightly to its left. To the right, another road section is visible with orange and white construction barriers. Tall, dark buildings with illuminated windows and signs form the background on both the left and right sides.
+end of description
+There are no dynamic changes or newly revealed objects or scenes observed across the subsequent frames; all provided images are identical to the first frame.

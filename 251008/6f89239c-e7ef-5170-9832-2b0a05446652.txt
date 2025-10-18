@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame captures a canal view with dark water in the foreground, bordered by a brick embankment. Above this, a bustling street features people sitting and walking, bicycles parked, and leafy trees, all set before a long row of traditional colorful canal houses under a clear blue sky, with a yellow flag hanging to the left.
+end of description
+Subsequently, the viewpoint slightly pans forward and right relative to the initial position, revealing the people on the street continue to walk from left to right, and the person in the beige jacket moves further right. Concurrently, the yellow flag on the far left gently sways.
+frame_0000000128-frame_0000000256:
+The first frame displays a low brick wall in the foreground, with a lively promenade beyond it featuring pedestrians, benches, streetlights, and two green trees. Behind this, a row of colorful, multi-storied buildings with gabled roofs lines the background under a blue sky.
+end of description.
+From this stationary viewpoint, a man carrying a yellow flag on a pole walks from the right-center towards the left across the promenade, gradually revealing more buildings and another tree on the far left. Other pedestrians also move leftward, with new individuals appearing from the right side of the promenade and continuing their movement to the left.

@@ -1,0 +1,24 @@
+frame_0000000000-frame_0000000128:
+A snow-covered path leads into a dense forest on the right, bordered by a stone wall, while a prominent bare tree heavy with snow stands on the left behind a lower snowy wall and green plants. Beyond the tree, a wide snow-covered area extends to more distant trees under an overcast sky.
+end of description
+The viewpoint slowly moves forward and zooms in, making the central snow-covered tree and the path to its right appear larger and closer. Simultaneously, a dynamic, semi-transparent, reddish-brown abstract shape emerges and expands from the upper-right, partially obscuring the forest in later frames.
+frame_0000000128-frame_0000000256:
+The first frame depicts a serene winter landscape. A prominent, snow-covered deciduous tree with intricate bare branches and some green foliage at its base occupies the foreground on the left. A partially obscured light brown path or road runs to the left in the midground, while a snow-laden path curves from the lower right towards the center, bordered by a stone wall on its right. In the background, a dense forest of snow-covered trees extends under a gloomy sky.
+end of description
+Throughout the subsequent frames, light snow continues to fall consistently across the scene. Small amounts of snow periodically dislodge and fall from the bare branches of the foreground tree, particularly from the upper right sections, adding a subtle dynamic element to the otherwise static viewpoint.
+frame_0000000256-frame_0000000384:
+The first frame depicts a serene winter landscape with a bare tree, its branches heavily laden with snow, prominently centered in the mid-foreground. To its lower left, a cluster of green foliage is visible, while a winding snow-covered path extends from the center-right into the background, flanked by a dark, stone wall on its right. A dense, snow-covered forest fills the background under an overcast sky.
+end of description
+Subsequent frames reveal a continuous, gentle snowfall drifting downwards throughout the entire scene, with all other objects and their spatial positions remaining static relative to the first-frame viewpoint.
+frame_0000000384-frame_0000000512:
+The first frame presents a snowy winter landscape with a prominent, heavily snow-laden bare tree in the center-left foreground, its branches extending towards the viewer. A snow-covered path leads into the distance on the center-right, bordered by a dark green bush, while a dense, snow-dusted forest occupies the background.
+end of description
+In the subsequent frames, a gentle snowfall becomes apparent, with numerous small white flakes visibly descending through the tree branches and against the background. No new objects or changes in spatial position relative to the first-frame viewpoint are introduced; the scene remains static except for the falling snow.
+frame_0000000512-frame_0000000640:
+In the first frame, snow-covered bare tree branches extend horizontally across the mid-upper foreground, partially obscuring a wintry scene. Below them, to the left, green foliage, possibly bamboo, rises from the snow, and a snow-dusted tree trunk stands centrally. The midground features a wide snow-covered path or clearing extending towards a dense, snow-laden forest in the background, with a dark, low stone wall partially visible under snow on the right side of the path.
+end of description
+As the frames progress, the viewpoint slowly pans to the right. The snow-covered branches in the immediate foreground gradually shift out of view towards the left, revealing more of the snow-covered path and the stone wall previously to the right. Additional sections of the snow-laden forest on the right side of the frame become visible, broadening the vista. The previously central snow-dusted tree remains, but the scene opens up significantly to the right, showing more of the snowy ground and forest.
+frame_0000000640-frame_0000000768:
+In the first frame, a snow-covered winter scene unfolds. To the immediate left foreground stands a bare-branched tree heavily laden with snow, with some green foliage at its base, next to a low, snow-covered stone planter box. A chain is attached to this box, extending horizontally towards the right. To the right, a snow-dusted stone wall runs diagonally into the midground, bordering a wide, snow-covered field to its left. In the background and to the far right, a dense forest of tall, snow-dusted trees fills the horizon under an overcast sky.
+end of description
+As the camera moves forward and pans right, an asphalt road gradually appears to the right of the stone wall, extending into the distance, while the chain attached to the foreground structure lengthens. A snow-covered building emerges in the distant left field, previously obscured. Simultaneously, a snow-covered embankment becomes visible further to the right of the road, now revealing two distinct lanes.

@@ -1,0 +1,23 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a stone path or staircase winding gently upwards and into the distance, occupying the central portion of the view, starting from the bottom center. This path is flanked on both sides by numerous thin-trunked trees with light bark and green foliage, forming a dense, tunnel-like canopy overhead and along the sides. Lush green undergrowth covers the ground beside the path, extending uphill on the left, and a slender dark metal pole or railing segment is positioned on the right side of the path in the midground.
+end of description
+The viewer steadily advances forward along the stone path. As the perspective shifts, more of the path ahead is revealed, appearing straighter as the previously visible winding sections recede behind the current viewpoint. The surrounding trees and dense foliage progressively move past the viewer's position, and the dark metal pole on the right side of the path moves closer into the foreground before passing out of the immediate view.
+frame_0000000128-frame_0000000256:
+The first frame displays a concrete path, resembling a series of steps, extending centrally into the distance and gently curving to the left, bordered by numerous slender tree trunks and dense green foliage on both sides.
+end of description
+As the viewpoint advances along the path, foreground elements from the initial frame recede behind the original position, progressively revealing new segments of the path and additional tree-lined scenery further ahead along the same trajectory.
+frame_0000000256-frame_0000000384:
+The first frame depicts a narrow, grey paved path leading uphill into a dense forest, starting from the bottom center and extending towards a stepped section in the middle distance. Tall, slender tree trunks line both sides of the path, forming a corridor, while abundant green foliage and undergrowth fill the space to the left and right, and recede into the background. A sparse canopy of branches and leaves is visible overhead, with a small patch of bright sky showing through at the top center.
+end of description
+The camera moves forward along the path, causing the foreground path and adjacent trees to move closer and exit the bottom of the frame, while the stepped section of the path in the distance gradually approaches. In the second frame, a slight blur or haze briefly covers the scene before clearing as the forward motion continues. The dense forest canopy and undergrowth continuously reveal more of their extent further ahead as the viewer progresses deeper into the environment.
+frame_0000000384-frame_0000000512:
+The first frame shows a grey, paved path extending from the foreground into the distance, curving gently to the left and ascending with visible steps. Dense forest flanks both sides of the path, characterized by numerous slender, light-colored tree trunks and abundant green foliage on branches and as undergrowth.
+end of description
+The camera moves forward along the path. A black trash can, initially seen in the mid-ground to the left of the first-frame path, gradually approaches the viewer, eventually moving to the lower left and out of the scene. As the camera progresses, previously distant sections of the winding path and deeper forest areas become newly revealed ahead of the first-frame viewpoint.
+frame_0000000512-frame_0000000640:
+The first frame shows a concrete path leading away from the viewer, curving slightly to the left in the mid-ground, then straightening and ascending with visible steps further into the distance. Numerous slender tree trunks with sparse green foliage line both sides of the path, creating a dense forest enclosure, with undergrowth covering the forest floor immediately to the left and right.
+end of description
+Throughout the subsequent frames, there are no discernible dynamic changes, object movements, or newly revealed scenes; the perspective remains fixed on the static forest path and surrounding trees.
+frame_0000000640-frame_0000000768:
+The first frame displays a concrete path with two visible steps in the foreground, extending away from the viewer into the distance and gently curving right. Numerous tall, thin trees with sparse green foliage line both sides of the path, creating a tunnel effect, while a large grey stone is visible to the left of the path in the foreground. The ground on either side is covered in dry leaves, with sunlight dappling the path. end of description
+As the frames progress, the viewpoint subtly moves forward along the path; the initial foreground steps and the large stone on the left gradually recede behind the viewer's starting position, revealing more of the winding path and distant trees ahead.

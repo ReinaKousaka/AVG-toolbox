@@ -1,0 +1,14 @@
+frame_0000000000-frame_0000000128:
+The viewer is on a paved road with a double yellow line and white shoulders, flanked by silver guardrails extending into the distance on both sides. To the left, a large rocky canyon wall rises steeply, contrasting with green foliage and distant hills on the right, as the road recedes into a valley. A clear blue sky with a bright sun flare in the upper left dominates the background.
+end of description
+Across the subsequent frames, the scene exhibits a very subtle forward movement of the viewpoint along the road, causing the initial landscape to gradually recede further away from the viewer.
+frame_0000000128-frame_0000000256:
+The first frame presents a paved road extending into the distance, marked with double yellow lines on the left and a white line on the right, flanked by metal guardrails on both sides. To the left, a reddish-brown rocky cliff rises with sparse green vegetation, while the right side features green trees and bushes beyond the guardrail, all beneath a clear blue sky with the sun visible in the upper-left.
+
+end of description
+
+As the viewpoint progresses forward, the road, guardrails, and entire landscape continuously move from the foreground towards the background relative to the initial position. Chronologically, an orange marker appears on the right side behind the guardrail, followed by a small white sign affixed to the cliff face on the left. Subsequently, a dark utility pole emerges on the right near the guardrail, and vibrant yellow flowering bushes become visible further along the right side as the journey continues.
+frame_0000000256-frame_0000000384:
+The first frame depicts a two-lane road extending into the distance under a clear blue sky with a bright sun overhead. Rocky cliffs line the left side, while green trees and yellow brush border the right, with silver guardrails visible on both sides in the foreground.
+end of description
+As the viewpoint moves forward, the guardrails recede from view, and a white diamond-shaped sign with a black arrow appears on the left side of the road. Concurrently, two orange and white striped construction barrels become visible on the right shoulder, gradually moving closer and growing larger relative to the viewer.

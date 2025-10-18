@@ -1,0 +1,9 @@
+frame_0000000000-frame_0000000128:
+The first frame captures a paved road leading into a mountainous valley, with a wooden house featuring garages straight ahead in the midground, flanked by dense autumn trees. To the left of the road are a wooden fence and a rounded bush, while a concrete wall and a grassy slope with another partially visible house are to the right, all set against towering grey mountains and distant snow-capped peaks under a cloudy sky.
+end of description.
+In the following frames, a light-colored car progressively appears from behind the concrete wall on the right side of the road, driving towards the viewer and stopping further into the frame on the right, partially revealing its front and side.
+frame_0000000128-frame_0000000256:
+The first frame presents a picturesque mountain village scene with a paved road ascending towards a brown wooden house featuring two garage doors and windows, centrally positioned in the midground. To the left, a wooden fence and green hedge run alongside the road, while a tall evergreen tree stands left of the house. On the right, a silver car is partially visible next to a grassy bank, with a steep, tree-covered slope exhibiting autumn colors and another house further up. Towering, snow-capped grey mountains dominate the background to the left, and a massive sheer rock face rises prominently to the right, all beneath an overcast sky.
+
+end of description
+The following frames show a subtle camera adjustment, appearing to pan slightly to the right and zoom out. This movement progressively reveals more of the silver car's front on the right side of the road, which was partially out of frame initially. Simultaneously, the wooden fence in the foreground extends further into view on the left, slightly widening the overall perspective of the valley. The relative positions of the central house and the tall evergreen tree also shift marginally against the backdrop of the distant mountains and rock face.

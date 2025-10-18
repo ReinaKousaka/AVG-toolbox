@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame presents an urban street scene featuring green bushes and a metal fence on the lower left, above which a red no-entry sign is mounted on a pole. In the mid-ground right, a person in a dark jacket and backpack is hunched over a black bicycle parked next to a white and a blue vending machine, with a small residential building visible across a paved street behind them. To the far right, a large white building with a yellow parking sign and distant tall apartment buildings complete the background.
+end of description
+Throughout the subsequent frames, the person in the mid-ground subtly shifts their posture, progressively bending further down towards the bicycle's front basket, appearing to adjust or retrieve something. Their head lowers and their right arm moves slightly, indicating interaction with the bike, while all other elements of the scene remain static relative to the first-frame viewpoint.

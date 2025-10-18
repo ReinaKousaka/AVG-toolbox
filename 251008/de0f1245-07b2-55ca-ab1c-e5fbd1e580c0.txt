@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a festive night scene with a large, multi-colored Christmas tree, topped with a red star, in the midground-right, flanked by two nutcracker figures and a white fence. Tall city buildings with illuminated windows and purple accent lighting frame the scene, with one on the right featuring an "All-American Christmas" banner. A bustling street extends leftward into the distance, filled with traffic and a dense crowd of people occupying the foreground and midground.
+end of description
+No significant dynamic changes or newly revealed objects occur in the subsequent frames.
+frame_0000000128-frame_0000000256:
+In the foreground, a diverse crowd of people occupies the lower half of the frame, moving from left to right, behind a light-colored car partially visible on the bottom right. A large, brightly lit Christmas tree with blue and white lights and a red star on top stands centrally on the right, enclosed by a white picket fence, with two giant Nutcracker figures near its base. Behind the crowd and to the left, a busy street with moving cars and traffic lights extends into the distance, flanked by tall city buildings with illuminated windows under a dark night sky.
+end of description
+The scene remains largely consistent from the first-frame viewpoint. The crowd in the foreground and midground continuously moves, with individuals walking towards the right and out of view. Cars proceed along the street on the left, their headlights illuminating the path, as the decorative blue and white lights on the Christmas tree and the adjacent illuminated trees subtly shimmer and flicker, creating a dynamic festive ambiance.
+frame_0000000256-frame_0000000384:
+The first frame presents a nighttime city street scene centered around a towering, brightly lit Christmas tree with a red star, flanked by nutcracker figures and a white picket fence to the viewer's right. Behind it and to the left, illuminated tall buildings frame the scene, with a busy street and moving cars visible to the far left, and a crowd of people filling the foreground.
+end of description
+In subsequent frames, the crowd in the foreground moves from left to right as the camera subtly shifts rightward, causing the street sign on the far left to move slightly out of frame and revealing more of the "Radio City Music Hall" sign to the right of its initial position.

@@ -1,0 +1,11 @@
+frame_0000000000-frame_0000000128:
+A paved road curves towards a parking area nestled between rocky, green mountains under a clear blue sky. A "50" speed limit sign and a person walking are visible on the left alongside a wooden guardrail, while a light-colored van and other vehicles are parked to the right. end of description
+As the viewpoint advances, the speed limit sign and the person on the left pass by. The light-colored van from the parking area then turns onto the road from the right, as another person also moves towards the road from the right of the first-frame viewpoint.
+frame_0000000128-frame_0000000256:
+The first frame captures a paved road extending into the distance, curving slightly to the left, bordered by a wooden fence and grassy slope on the left. To the right of the road is a parking area filled with several vehicles, including a beige camper van on the far right, with a person standing beside the fence on the mid-left. In the background, rocky, green-patched mountains rise under a clear blue sky.
+end of description
+As the frames progress, the beige camper van on the far right moves leftward across the parking lot and exits the frame to the far left, while the person on the mid-left also gradually moves out of frame to the left. Simultaneously, a red and white striped pole becomes clearly visible on the mid-left, previously obscured, and a red camper van appears more distinctly among the parked cars to the right. An irregular shadow also appears and moves across the road directly ahead of the viewer's initial position.
+frame_0000000256-frame_0000000384:
+In the first frame, a paved road ascends between two rocky, grass-covered hills under a clear blue sky. To the left, a wooden log barrier precedes a red and white striped pole, while on the right, a paved turnout reveals a partially visible red and white camper van, a person, and a sign.
+end of description
+As the camera moves forward, the camper van, person, and sign recede and quickly disappear from the right side of the frame. Subsequently, a small stone building with a red roof and another red and white striped barrier pole emerge further along the road to the right.

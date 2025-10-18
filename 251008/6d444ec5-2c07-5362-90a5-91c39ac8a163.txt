@@ -1,0 +1,14 @@
+frame_0000000000-frame_0000000128:
+In the first frame, a wet, dark city street at night is seen from a sidewalk perspective. A prominent dark utility pole stands in the right foreground, while a black SUV with glowing red taillights is centrally positioned on the wet road, moving away from the viewer. To the left, several cars are parked alongside a building with illuminated windows and signs, and a silver car is partially visible. Further down the street on the right, a person holding a red umbrella walks away, and streetlights illuminate heavy rain falling on the road lined with trees.
+end of description
+In subsequent frames, the black SUV continues to slowly move forward and slightly to the right, maintaining its position in the midground relative to the viewer. The person with the red umbrella on the right gradually moves further away along the sidewalk. The traffic light to the right of the utility pole transitions from red to green, and the heavy rain persists throughout the scene.
+frame_0000000128-frame_0000000256:
+The first frame depicts a rainy city street at night, with a dark pole dominating the center-right. To its left, a dark SUV with illuminated taillights drives away on the wet asphalt road containing a crosswalk, while to its right, a wet sidewalk features two people under umbrellas, streetlights, and trees, all receding into the distance under the dark sky.
+end of description
+The dark SUV on the left continues moving forward and exits the frame to the far left. Concurrently, a new dark car enters from the far left, following the SUV, and another dark car appears on the far right, parked along the sidewalk as the rain persists.
+frame_0000000256-frame_0000000384:
+The first frame presents a nighttime street scene in heavy rain, viewed from a low perspective on the right sidewalk. To the immediate left, a portion of a black car's front wheel and bumper is visible on a wet road featuring white zebra crossing stripes and a yellow dividing line. A tall, dark pole stands centrally in the mid-ground, separating the road from the right-side sidewalk where trees, a red traffic light, and a white canopy over a table are situated. Farther right, a black SUV is parked, partially obscuring individuals under the canopy, while the background reveals a long, wet street lined with distant streetlights, building lights, and reflections.
+
+end of description
+
+Heavy rain consistently falls throughout the frames, appearing to intensify with more visible streaking in the mid-ground during frames 2-4 before slightly subsiding. A person holding a red umbrella emerges from the mid-right sidewalk and walks deeper into the scene, passing behind the parked black SUV on the right. Another individual briefly walks from left to right behind the white canopy on the far right sidewalk, also moving away from the viewer.

@@ -1,0 +1,28 @@
+frame_0000000000-frame_0000000128:
+The first frame displays an asphalt road extending directly ahead, with a solid white line on the right edge and a double broken white line in the center, and the viewer's vehicle partially visible at the bottom. Dense green trees line both sides of the road, rising up grassy verges, while a clear blue sky fills the upper portion and distant mountains are visible on the horizon straight ahead.
+end of description
+As the viewer proceeds forward along the road, the immediate surroundings of trees, grassy verges, and the road itself recede to the sides. White roadside markers progressively appear in the distance on both the left and right, drawing closer and then passing by the viewer's position. A blue road sign slowly becomes visible on the left side of the road, advancing towards the viewer.
+frame_0000000128-frame_0000000256:
+The first frame depicts a paved road extending into the distance under a clear blue sky, bordered by dense green trees on either side and distant mountains ahead, with a car's hood visible at the bottom.
+end of description
+As the viewer progresses, white reflective marker posts appear along the road's shoulders. A person on a blue motorcycle emerges far ahead on the road, steadily approaching the viewer's position. The motorcycle then passes to the left of the viewer, becoming fully visible before receding behind the first-frame viewpoint.
+frame_0000000256-frame_0000000384:
+In the first frame, a blue motorcycle with a rider is visible to the viewer's left, partially ahead. A straight two-lane road, marked by white lines and lined with green verges and reflective posts, recedes into the distance between tree-covered hills and distant mountains under a clear sky.
+end of description
+The motorcycle swiftly overtakes the viewer's position, moving from the left-midground to the left foreground before exiting the frame. Concurrently, the viewer's vehicle moves forward, causing the road and roadside scenery, including the posts and a blue sign on the right, to continuously advance towards and then past the viewer.
+frame_0000000384-frame_0000000512:
+The first frame shows a paved road, marked with white lines, stretching into the distance from the viewer's immediate foreground. Grassy hillsides with scattered trees ascend on both the left and right, with mountains rising further back on either side, all under a clear blue sky.
+end of description
+As the frames advance, the perspective moves forward along the road. The initial roadside features, including white and red-and-white road markers and trees lining the edges, pass from ahead to the sides and eventually behind the viewer. Further down the road, a cluster of buildings, including a white house, becomes progressively clearer and closer, appearing to the left of the road ahead. The distant mountains remain visible ahead, slowly becoming more defined with the forward movement.
+frame_0000000512-frame_0000000640:
+The first frame captures a road leading into the distance, framed by grassy slopes and tree-covered mountains on the left and right, under a clear blue sky. Ahead, two buildings with brown roofs are visible among trees, situated between the road and the distant mountains.
+end of description
+As the scene progresses, the viewer's perspective moves forward along the road. Roadside markers on both the left and right sides of the road, initially ahead, become more prominent and then pass the viewer. Simultaneously, the buildings ahead grow larger, and overhead power lines, initially distant, are revealed to span across the sky closer to the viewer.
+frame_0000000640-frame_0000000768:
+The first frame displays a two-lane road stretching directly ahead, bordered by green fields and steep, tree-covered mountains on both sides, forming a valley under a clear blue sky. On the left, a white house with a brown roof is visible in the field, while on the right, a wooden barn is partially obscured by a fence and green-wrapped hay bales.
+end of description
+As the frames progress, the viewer moves forward along the road, causing the house and barn to recede into the distance relative to the first-frame viewpoint. A large power line tower gradually emerges from behind the mountains on the left side of the road, moving closer and becoming fully visible. Simultaneously, the green hay bales on the right side pass by and new sections of the roadside appear ahead.
+frame_0000000768-frame_0000000896:
+The first frame captures a view from inside a vehicle, with its dashboard visible across the bottom. A two-lane paved road extends directly ahead into the distance, marked by solid and dashed white lines, flanked by green grassy shoulders and fields. To the viewer's left, a white house with a brown roof is situated in a green field, backed by a towering, mostly verdant mountain. To the right, a densely forested mountain slopes upwards, with a line of trees closer to the road, and a wooden fence along the roadside. Far down the road, a red truck is visible, almost at the vanishing point, all under a clear blue sky.
+end of description
+As the vehicle advances, the road, the red truck in the distance, and the surrounding scenery continuously approach the viewer's perspective. A motorcycle emerges from the far end of the road in the left lane, drawing closer with each frame until it prominently passes the viewer on the left side. Simultaneously, objects like the house, trees, and fence posts on either side of the road move from the middle ground, towards, and then behind the viewer.

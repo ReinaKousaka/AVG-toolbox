@@ -1,0 +1,30 @@
+frame_0000000000-frame_0000000128:
+In the first frame, a road stretches forward, marked by yellow pedestrian crossings in the foreground. To the immediate left, the front wheel and bumper of a black car (the viewer's vehicle) are visible. A white Mercedes-Benz hatchback is prominent slightly ahead and to the left of the viewer, followed by a line of vehicles extending into the distance. On the left, a sidewalk runs alongside multi-story buildings with balconies, while on the right, a paved sidewalk features two parked motorcycles, temporary barriers, and a concrete pillar adorned with rainbow graffiti beneath a large concrete overpass structure.
+end of description
+As the viewpoint advances, the viewer's vehicle moves forward, passing the white Mercedes-Benz on the left, which eventually recedes to the rear left of the frame. Simultaneously, a dark gray Audi, initially behind the Mercedes, moves past it, aligning itself within the viewer's immediate left lane. The parked motorcycles and barriers on the right, along with the buildings on the left, progressively move out of frame as the camera continues along the street.
+frame_0000000128-frame_0000000256:
+In the first frame, a gray Audi sedan moves away from the viewer on the left side of a street, adjacent to a building with green shutters. To the right, a cobblestone sidewalk with a white utility box and barriers leads under a concrete overpass, where cars are parked and a rainbow graffiti is visible on a pillar.
+
+end of description
+
+As the frames progress, the viewer's perspective moves forward along the street. The initial gray Audi sedan moves out of view to the left, revealing a black SUV that approaches from behind it. Concurrently, the white utility box and barriers on the immediate right recede and move out of frame, while more parked cars, including a black SUV, a silver sedan, and a black compact car, become fully visible further down the cobblestone parking area under the overpass.
+frame_0000000256-frame_0000000384:
+The first frame displays a street with a multi-story building on the left, where a black SUV is moving forward, and a cobblestone parking area under an elevated concrete overpass on the right, containing several stationary cars.
+end of description
+Over subsequent frames, the black SUV continues moving away from the viewer's initial position. Simultaneously, a gray SUV, initially further down the left lane, approaches and then moves past the first-frame viewpoint, momentarily revealing its opened front passenger door before it closes again.
+frame_0000000384-frame_0000000512:
+The first frame displays a street scene featuring a multi-story building and a grey SUV on the left, a road extending forward with other vehicles, and a concrete overpass structure on the right. Under the overpass, a black car is parked alongside a blue parking sign and a meter, with trees covering a hill in the background on the left.
+end of description
+The grey SUV on the left moves forward and eventually out of frame, with a person's arm briefly visible from its window. Concurrently, the black car on the right has its trunk opened, revealing its interior. A small black Smart car then appears on the left, driving forward from behind the initial grey SUV's position. The viewpoint itself advances, bringing the parking meter and the black car on the right closer, also revealing a bicycle parked where the grey SUV was previously.
+frame_0000000512-frame_0000000640:
+A partial grey car is in the viewer's immediate foreground on the left, next to a white SUV on a road lined with parked cars and a tree-covered hillside. To the right, a graffiti-covered concrete wall and an overpass run parallel to the road, which curves into the distance under an overcast sky.
+end of description
+As the viewer's vehicle moves forward, the white SUV initially ahead on the left also starts moving, gradually passing the viewer. This movement further reveals the red car previously parked further down the left side of the road.
+frame_0000000640-frame_0000000768:
+A red Mercedes-Benz coupe occupies the foreground to the left of a paved road with a white dashed line, extending into the mid-ground where a line of cars is visible. To the left, a lush green hillside with dense trees rises, while a multi-story concrete building with windows runs parallel to the road on the right, with a tall blue parking sign positioned between them.
+end of description
+In the subsequent frames, the red Mercedes-Benz moves further left and away from the viewer. Concurrently, a silver SUV, initially positioned behind the Mercedes, advances forward and closer to the viewer from the left, with the entire line of traffic progressing relative to the first-frame viewpoint.
+frame_0000000768-frame_0000000896:
+In the first frame, a white car's front-left quarter is visible in the immediate foreground, to the viewer's left. Ahead and slightly to its right is a silver SUV on the road, with several other cars visible further down the curving road. To the far left, a sloped embankment with dense green trees rises, featuring a light pole and a red 'no parking' sign. On the right, a tall blue sign with a white 'P' stands next to a multi-story concrete building with exposed staircases and an underground entrance below a sidewalk.
+end of description
+The white car in the immediate foreground moves forward and left, progressively revealing its full white body and rear license plate (ZH 583224). A dark gray minivan emerges from behind the white car on the left, moving forward into the space previously occupied by the silver SUV. The silver SUV, originally visible ahead and left of the blue sign, recedes from view as the foreground vehicles advance. The blue parking sign and the concrete building on the right remain stationary relative to the first-frame viewpoint, but a "no right turn" sign below the blue sign becomes more prominent.

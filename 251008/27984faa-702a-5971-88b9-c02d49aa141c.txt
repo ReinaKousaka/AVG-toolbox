@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a stone staircase ascending away from the viewer, bordered by dense green foliage and trees. In the midground, an adult in a light jacket and a child with a yellow backpack walk up the steps, while hazy mountains are faintly visible in the far background.
+end of description
+Throughout the subsequent frames, the camera steadily tracks forward, ascending the stairs behind the two individuals who continue their walk further into the path. This continuous movement reveals new sections of the stone steps and immediate surrounding greenery previously out of view in the foreground.
+frame_0000000128-frame_0000000256:
+The first frame shows a stone staircase ascending uphill directly in front of the viewer, flanked by dense green foliage and trees on both sides. In the midground, two individuals are walking up these stairs, moving away from the viewer: a taller person in a light-colored jacket is followed closely by a smaller person with a backpack. The left side features lush undergrowth and a prominent tree trunk near the viewer, while the right side has a steep embankment covered in vines and roots. Distant mountains are faintly visible through the trees in the far background under an overcast sky.
+end of description
+As the frames progress, the two individuals continue to walk further up the stone staircase and away from the viewer, ascending higher into the forested path. They gradually move deeper into the scene, remaining in the central portion of the frame relative to the initial viewpoint, becoming slightly smaller as they gain distance and elevation.
+frame_0000000256-frame_0000000384:
+In the first frame, the viewer is positioned at the base of a stone staircase that ascends forward and slightly left into a dense, verdant forest, flanked by steep slopes and abundant foliage. Two individuals, a person in a light jacket leading another with a backpack, walk up the stairs in the mid-ground, moving away from the viewer, with distant mountains faintly visible through trees on the far left.
+end of description
+Throughout subsequent frames, the viewer's perspective gradually moves forward and upward along the staircase, revealing more of the path directly ahead from the initial viewpoint. Concurrently, the two individuals continue their ascent, moving further away and higher up the stairs relative to the first-frame's position, as the surrounding forest environment remains consistently to the left and right.

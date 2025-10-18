@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a modern living room featuring a large beige sectional sofa on the left, a round coffee table in the center, and expansive glass doors opening to an outdoor patio on the far left, while a fireplace and a wall-mounted TV showing a group of people are on the right wall.
+end of description
+Across subsequent frames, the content on the TV on the right wall dynamically changes, transitioning from a group of people to a man in a suit, then a woman in a red jacket, and finally a woman in a pink shirt. Concurrently, the viewpoint subtly shifts right, revealing a dark doorway leading to a hallway and a staircase railing, previously unseen and located to the right and slightly behind the white armchair.

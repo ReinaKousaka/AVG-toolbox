@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+From the viewer's perspective, a paved path stretches from the immediate foreground towards the middle distance, flanked by lush green grass. A row of trees with full canopies lines the path on the viewer's left, with a small gazebo visible behind them further in the mid-distance. To the right, more green grass fills the foreground and mid-ground, leading to a multi-story building and a red train visible at the path's end. Beyond these, rolling green hills and cloud-covered mountains dominate the background under an overcast sky.
+end of description
+Throughout the subsequent frames, the scene remains largely static, maintaining the same first-frame viewpoint. The only perceptible dynamic change is the subtle swaying of the leaves and branches of the trees on both sides of the path, suggesting a gentle breeze. No new objects are revealed, nor does the overall scene change or shift spatially relative to the initial viewpoint.
+frame_0000000128-frame_0000000256:
+The first frame presents a straight paved path receding into the distance, flanked by lush green grass. On the left, several trees line the path, with a wooden gazebo nestled further back amidst more foliage. To the right, a light-colored building and red-roofed structures are visible in the mid-ground, against green hills and a cloudy sky in the background.
+end of description
+As frames progress, the viewpoint moves forward along the path; objects initially further away, like the distant buildings and a wooden pole visible beside the left path edge, grow larger and more prominent relative to the first-frame perspective as the scene is approached.
+frame_0000000256-frame_0000000384:
+A paved road extends from the viewer into a verdant landscape, flanked by green grass and trees. On the left, a large tree and a wooden post are visible, while a lamppost stands on the right side of the road, with a light-colored building beyond it. Further ahead, a red building complex is nestled against rolling green hills under a cloudy sky.
+end of description
+As the frames progress, the viewpoint moves forward along the road. Foreground elements like the grass, trees on the left, and the lamppost on the right gradually recede and enlarge as the viewer approaches them. Simultaneously, the red building complex and the adjacent light-colored building appear closer and larger in the distance. A wooden gazebo on the far left, initially partially obscured behind the prominent tree, becomes increasingly distinctly visible.

@@ -1,0 +1,30 @@
+frame_0000000000-frame_0000000128:
+In the first frame, a brick-patterned sidewalk extends from the foreground towards the background, flanked by buildings on both sides. On the left, a tall building with large glass windows and brick walls displays red banners, while two people walk away from the viewer on the sidewalk. To the right, a tree trunk is prominently visible in the foreground, with an ornate streetlamp and several parked cars further down the street, separated by a black chain barrier and orange cones. Numerous trees with sparse leaves and more distant buildings line the street under an overcast sky.
+
+end of description
+
+The two individuals on the left sidewalk continue walking further away from the viewer, moving deeper into the scene. Other pedestrians in the mid-ground also proceed further down the sidewalk. The parked white car on the right side of the street remains stationary, and no new objects or scenes are revealed as the perspective slightly shifts.
+frame_0000000128-frame_0000000256:
+A brick-patterned sidewalk extends away from the viewer, bordered on the left by brick buildings with large storefront windows and on the immediate right by a tree trunk. Two people walk away from the viewer on the left sidewalk, past an ornate streetlamp, with a street full of parked cars and more buildings visible further ahead on the right.
+end of description
+The two individuals on the left sidewalk continue moving further away from the viewer. Concurrently, a new person emerges from behind the right-side tree, walking leftwards across the street, further down the block from the viewer.
+frame_0000000256-frame_0000000384:
+The first frame presents a city street scene with a prominent brick building and large display windows on the left foreground, extending along a brick sidewalk where two people walk away from the viewer. To the right, a decorative black lamppost stands beside a street lined with parked cars, and beyond it, buildings stretch into the distance under bare-branched trees, while a person with a dog on a leash walks away on the far right.
+end of description
+The person on the far right foreground continues walking forward, and as they progress, the dog and leash are no longer visible, replaced by a walking cane held in their right hand. Simultaneously, the two individuals on the midground sidewalk steadily move further down the street away from the viewer. A silver car parked on the far side of the street near the lamppost also subtly advances into the distance.
+frame_0000000384-frame_0000000512:
+The first frame displays a city street with a brick building and large storefront windows on the left, where two women walk away from the viewer. On the right, a black streetlamp stands beside a man walking with a stick, beyond a chain barrier separating the sidewalk from the street. The background shows more buildings, bare trees, and a street with parked and moving cars under a bright sky.
+end of description
+As the frames progress, the two women on the left and the man with the walking stick on the right continue walking further away from the first-frame viewpoint down the street. Simultaneously, a dark SUV, initially positioned on the street behind the man, moves forward from left to right, passing him and proceeding further into the distance to the right.
+frame_0000000512-frame_0000000640:
+The first frame presents a city street scene from a pedestrian's perspective, featuring a dark lamppost in the foreground right and a brick sidewalk on the left where three people walk away from the viewer. A street with cars and buildings on both sides, adorned with trees, stretches into the distance, all under a bright sky.
+end of description
+In subsequent frames, all three individuals on the sidewalk continue moving forward, deeper into the scene away from the viewer. The person on the far right is then seen utilizing a walking stick as they progress, while vehicles on the street also advance further away relative to the first-frame viewpoint.
+frame_0000000640-frame_0000000768:
+The first frame captures a city street scene, with a brick sidewalk extending forward from the viewer, bordered by a multi-story brick building with glass storefronts on the left and a street with parked cars on the right. Three people are visible walking away from the viewer on the sidewalk: a person in a black coat with a white bag on the far left, a person in a blue jacket and black hat in the middle, and a person with a walking stick further right.
+end of description.
+In subsequent frames, all individuals move forward; the person in the black coat and the one in the blue jacket slow down, while a fourth person in a black jacket emerges from behind the blue-jacketed individual, positioned to their left and now facing towards the left storefronts, seemingly taking a photo. The person with the walking stick continues walking ahead and further to the right on the sidewalk.
+frame_0000000768-frame_0000000896:
+The first frame captures a city street scene with a brick sidewalk on the left, where three pedestrians walk away from the viewer past storefronts, one displaying a red "JOHN FLUEVOG" banner. Across the street to the right, cars are parked alongside buildings and trees extending into the background, all beneath a light blue sky.
+end of description
+In the subsequent frames, the three individuals on the sidewalk consistently move forward, progressively increasing their distance from the viewer and deeper into the scene. This reveals more of the patterned brick sidewalk and the lower facade of the buildings directly ahead of their initial first-frame positions.

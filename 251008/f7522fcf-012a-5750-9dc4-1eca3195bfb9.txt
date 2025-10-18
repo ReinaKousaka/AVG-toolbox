@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+From an aerial perspective, a vibrant blue-green lake occupies the left side of the frame, meeting a narrow shoreline. A two-lane road runs parallel to the shore, diagonally from the bottom-center towards the top-left, bordered by green and autumn-colored trees. To the right of the road, a dense forest with various shades of green and autumnal foliage covers a rising slope. Two parked cars are visible on the left side of the road, towards the top-left, with small boats nestled closer to the water's edge.
+end of description
+In the following frames, a blue vehicle enters the scene from the mid-right portion of the road. It then proceeds to drive along the road, moving towards the top-left of the frame, while the two previously parked cars remain stationary. No other significant objects appear or disappear, and the surrounding landscape remains static relative to the first-frame viewpoint.
+frame_0000000128-frame_0000000256:
+From an aerial perspective, a vibrant blue-green lake occupies the left, bordering a narrow strip of green land alongside a two-lane asphalt road with white markings that extends into the background. To the right of the road, a dense, verdant forest with some autumnal hints covers the remainder of the scene, while a dark car is parked roadside in the mid-ground.
+end of description
+Throughout the subsequent frames, the dark car, initially parked on the left side of the road in the mid-ground, begins to move chronologically forward, traveling along the road towards the background. This motion continues, causing the car to progressively appear further into the distance relative to its initial position, eventually approaching the bend in the road in the upper background.
+frame_0000000256-frame_0000000384:
+From an elevated viewpoint, a large body of vibrant blue-green water lies to the left, with distant white boats and buildings visible along its far shore. A paved road runs centrally, parallel to the water, where a dark blue car is parked on the shoulder; to the road's right is a dense forest displaying green and autumnal foliage, including a smaller path branching off closer to the viewer.
+end of description
+Subsequently, the dark blue car dynamically moves away from the viewer along the main road, traveling towards the upper-left background of the first-frame viewpoint, steadily increasing its distance.

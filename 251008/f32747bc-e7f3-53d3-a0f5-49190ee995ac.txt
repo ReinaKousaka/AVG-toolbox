@@ -1,0 +1,7 @@
+frame_0000000000-frame_0000000128:
+In the first frame, a red triangular 'SLOW' sign with a pedestrian symbol and Korean text is prominently positioned in the foreground left. Adjacent to it, a wet asphalt road stretches into the distance on the left, featuring a white car moving away from the viewer; a row of green trees borders the road, separating it from a paved sidewalk with a yellow tactile strip on the right. Further right, a tall, textured sound barrier wall runs parallel to the sidewalk under an overcast sky. end of description
+Subsequently, a black car appears on the road to the left, moving away from the viewer, followed by a large white box truck that initially approaches before receding into the distance. Lastly, another black car and then a white pickup truck emerge on the road, both moving away from the viewer towards the background.
+frame_0000000128-frame_0000000256:
+The first frame displays a wet asphalt road on the left, where a light-colored pickup truck drives away from the viewer, generating water spray. This road is bordered by a line of green trees, which separates it from a damp concrete sidewalk on the right, featuring a yellow tactile strip, and abutting a tall, textured sound barrier wall.
+end of description
+After the initial truck continues moving away, a dark sedan, then a blue tarp-covered pickup truck, and finally a dark SUV successively appear from the left on the wet road, each moving away from the first-frame viewpoint further down the road.

@@ -1,0 +1,16 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a winter landscape with a snow-covered slope filling the right foreground. A dark, narrow path extends from the bottom center, curving slightly left, bordered by snow-covered ground and small trees. Further left, a horizontal road is visible, beyond which stand several buildings and more trees, with large, dark mountains shrouded in clouds forming the distant background.
+end of description
+In the subsequent frames, a white car appears on the road in the mid-ground, entering from the left side of the frame. The car then slowly travels from left to right across the road, passing in front of the snow-dusted trees. It continues its movement until it exits the frame to the right. No other dynamic changes or new objects are revealed.
+frame_0000000128-frame_0000000256:
+The first frame presents a snow-covered mountain landscape under an overcast sky, with a dark, wet path winding from the foreground center into the midground. To the left of this path, a row of snow-dusted trees recedes into the distance, beyond which lies a wider snow-covered expanse with scattered vegetation, a distant road or river, and some light-colored structures. To the immediate right, a steep, snow-laden slope rises, while in the background, cloudy, snow-capped mountains dominate the horizon.
+end of description
+The viewpoint subtly advances forward along the path. As the camera moves, the small tree initially in the bottom left foreground gradually shifts out of view towards the bottom left, effectively moving further behind the advancing viewpoint. Concurrently, more sections of the path directly ahead and subsequent trees lining its left edge are progressively revealed and appear closer, entering the foreground of the evolving scene. The distant mountains and the snow-covered slope on the right remain largely fixed in their background positions relative to the first-frame viewpoint.
+frame_0000000256-frame_0000000384:
+In the first frame, a snow-dusted path curves from the lower left towards the upper right, bordered by snow-covered trees on its left and a steep, snow-laden grassy slope on its right. Beyond the trees to the left, a snow-covered field and distant buildings are visible, while mist-shrouded, forested mountains dominate the background under an overcast sky.
+end of description
+There are no dynamic changes or newly revealed objects or scenes across the subsequent frames, as all images in the sequence are identical.
+frame_0000000384-frame_0000000512:
+The first frame presents a snow-covered landscape: a wet path extends into the distance, bordered by a steep, snow-covered slope on the right and a row of trees and snowy ground with foreground bushes and a dark pole on the left, with distant buildings and misty mountains in the background under an overcast sky.
+end of description
+In subsequent frames, the viewpoint subtly shifts forward and slightly left, causing the foreground bushes and the dark pole to move further out of frame to the bottom-left, revealing more of the path and snowy ground previously partially obscured from the initial position.

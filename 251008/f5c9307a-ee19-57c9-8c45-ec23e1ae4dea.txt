@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a bustling street with numerous pedestrians walking in the mid-ground and background, flanked by multi-story buildings on either side. On the left, restaurants with awnings and outdoor seating are in the foreground, where a waiter is visible serving patrons, while on the right, shops, including one labeled 'GLACIER SPORT', line the street under overhead flags and a distant mountain range against a blue sky.
+end of description
+Across the following frames, pedestrians continuously move along the street, both towards and away from the viewer, while the waiter on the left slowly advances towards the viewer, attending to outdoor tables. No new objects or scenes are revealed, with the camera's viewpoint remaining largely static, only capturing the flow of people within the established street environment.

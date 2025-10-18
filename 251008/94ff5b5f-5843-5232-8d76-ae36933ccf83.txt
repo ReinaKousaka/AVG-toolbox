@@ -1,0 +1,14 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a rocky uphill trail in the foreground, bordered by scree and a small green shrub to the left, leading towards a large, craggy mountain peak in the center-left background. Several hikers are visible along the winding path in the midground, with distant peaks and a tree-filled valley appearing to the far right, all under a cloudy sky.
+end of description
+As the camera moves forward along the path, the green shrub initially to the left of the foreground trail passes closer to the left and then exits the frame. The hikers ahead on the winding path appear progressively closer, while the towering mountain and distant ranges remain consistently in front of the advancing viewpoint.
+frame_0000000128-frame_0000000256:
+The first frame presents a panoramic view of a rugged mountain landscape under a sky with scattered clouds. In the foreground, a winding dirt path, flanked by rocky terrain and a small patch of green bushes to the lower left, leads upward and away from the viewer. The midground features a lone hiker on this path, followed by a small group of hikers further ahead, all moving away from the viewer. Dominating the left half is a towering, rocky mountain peak with steep, scree-covered slopes. To the right, a deep, forested valley with a visible river or road stretches into the distance, bordered by distant, snow-dusted mountain ranges under darker clouds.
+
+end of description
+
+The camera subtly pans right, progressively revealing a wider view of the deep valley with its river or road far below and additional snow-capped peaks beyond the initial right edge of the frame. Concurrently, the path in the foreground becomes more pronounced in its curve to the right, extending further down the slope, as the hikers continue their progression further away from the viewer's initial position along the trail.
+frame_0000000256-frame_0000000384:
+The first frame presents a winding dirt trail in the immediate foreground, leading upwards and left along a rocky mountain slope. Several hikers are visible ascending this trail in the mid-left distance. To the right, a vast forested valley with a winding river or road lies far below, framed by distant snow-capped mountains under a partly cloudy sky.
+end of description
+Subsequent frames reveal a gradual camera adjustment that slightly widens the view, making the prominent mountain peak on the far left appear taller and more defined as it extends upwards and slightly left from its initial visible area. The trail and the hikers on it appear to recede slightly further into the mid-left distance as the perspective subtly shifts.

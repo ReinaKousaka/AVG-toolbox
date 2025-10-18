@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a two-lane road extending directly in front of the viewer, flanked by green foliage on the left and a towering red rock cliff on the right, under a clear blue sky, with a white car visible far ahead in the distance on the road.
+end of description
+As the viewpoint moves forward, the initial white car approaches and then passes to the left of the viewer in the opposing lane. Subsequently, a blue SUV appears further ahead where the first car was, approaching and also passing to the viewer's left. A third white car then becomes visible in the far distance ahead, following the same road.

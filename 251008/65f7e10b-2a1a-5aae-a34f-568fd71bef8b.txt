@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a dirt path extending from the bottom center into a dense forest, flanked closely by lush green ferns in the foreground. Taller trees with green and some autumnal foliage fill the midground and background, with dappled sunlight filtering through the canopy.
+end of description
+As the frames progress, the viewpoint moves continuously forward along the path, revealing deeper sections of the forest. The foreground ferns and foliage recede to the sides, while the trees ahead become closer and more detailed, indicating a steady advance into the woodland.
+frame_0000000128-frame_0000000256:
+The first frame presents a narrow dirt path receding into a dense forest, bordered by lush green ferns and undergrowth in the foreground and midground on both sides. Tall trees, some with moss-covered trunks, stand vertically along the path, extending into the background, with a dappled canopy visible above.
+end of description
+The viewpoint steadily moves forward along the path. The ferns and foliage initially in the foreground shift to the sides and eventually behind the viewer's immediate field of vision. Concurrently, the path ahead and the trees originally in the midground become closer and larger, revealing their details directly in front of the advancing viewpoint as the scene progresses.
+frame_0000000256-frame_0000000384:
+The viewer is positioned at the start of a winding dirt path that recedes into a dense forest. In the foreground, lush green ferns and undergrowth thickly line both sides of the path, continuing into the midground where tall tree trunks, one heavily moss-covered on the right, rise vertically. The path curves slightly left as it disappears into the background, where filtered sunlight illuminates a less dense section of trees.
+end of description
+There are no dynamic changes or newly revealed objects in the subsequent frames; the scene remains entirely static, depicting the identical forest path throughout.

@@ -1,0 +1,10 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a first-person view of a dirt path cutting through a bright green grassy field. Directly ahead on the path is a runner in a yellow shirt, followed by several other runners receding into the distant center, framed by a dense line of trees to the right and a tree-covered hill in the far left background, all beneath a blue sky with white clouds.
+end of description
+The viewer continuously moves forward along the path. A small white flag with a green stripe initially appears ahead on the path to the left of the viewer, then moves past the viewer to their immediate left foreground. As the viewer progresses, the distance indicator on the far left updates from 1.4 km to 1.5 km, while the runners ahead maintain their relative positions further down the path from the initial viewpoint.
+frame_0000000128-frame_0000000256:
+The first frame shows a first-person view of a person running on a narrow dirt path through a wide green grassy field under a bright blue sky with scattered white clouds. Ahead, another person in a yellow shirt and black shorts runs along the path, followed further ahead by a third person in a pink top. To the left, the field slopes gently upwards towards a distant treeline, while to the right, a denser treeline runs parallel to the path. On-screen overlays display running metrics on the bottom left and bottom right corners.
+
+end of description
+
+The runner in the yellow shirt and the runner in pink consistently move further ahead on the path relative to the first-frame viewpoint, as the on-screen pace and speed metrics dynamically update. Subsequently, a new runner, dressed in black, appears from the far left of the original frame's view, traversing the grassy field to the left of the path. This new runner gradually moves forward and slightly towards the center path, getting closer to the runner in yellow while remaining to the left of the path from the initial perspective.

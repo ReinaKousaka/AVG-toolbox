@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The viewer observes a wet, brick-paved path receding into the distance, flanked by dense green bushes on both sides. To the left, a low brick wall runs parallel to the path, backed by tall trees, while more trees and foliage are visible to the right under an overcast sky.
+end of description
+Throughout the subsequent frames, the primary dynamic change is the continuous rainfall visible across the scene, causing numerous ripples and splashes in the puddles on the path in front of the viewer. This precipitation also subtly affects the foliage on either side of the path, demonstrating the ongoing wet weather conditions.
+frame_0000000128-frame_0000000256:
+The first frame depicts a wet, brick-paved path stretching into the distance, with visible raindrops. To the viewer's left, a low brick wall fronts dense green bushes and a wooden bench, while tall trees rise further behind; on the right, cultivated green bushes and a young staked tree line the path. A red traffic light is faintly visible in the far distance.
+end of description
+Initially, raindrops are prominent on the path but then slightly intensify before gradually subsiding. Concurrently, a person holding a white umbrella emerges in the distant midground on the right side of the path, slowly walking towards the viewer, and the distant traffic light transitions from red to green.
+frame_0000000256-frame_0000000384:
+The first frame depicts a wet, brick-paved pathway receding into the distance, covered in puddles reflecting the overcast sky. To the viewer's immediate left, a dark wooden bench sits next to a low brick wall topped with a fence, behind which numerous tall trees rise. On the right side of the path, green manicured hedges line the way, with larger trees interspersed behind them. In the far distance, a person holding a white umbrella is walking away from the viewer up the path, with a streetlight and a green traffic light also visible further ahead.
+end of description
+Subsequent frames show continuous rainfall, with visible ripples and splashes forming in the puddles on the wet path. The person with the white umbrella slowly recedes further into the distance, moving away from the viewer along the path.

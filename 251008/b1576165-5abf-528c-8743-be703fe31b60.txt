@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+In the first frame, grey, jagged rocks fill the foreground, forming the near bank of a river or stream that flows from right to left in the midground. A waterfall or rapids on the right side of the stream creates foamy white water, while the water further left is dark. More dark, rugged rocks constitute the far bank and background cliffs, and a tree branch with bright orange and yellow autumn leaves extends into the upper left.
+end of description
+Throughout the subsequent frames, the scene remains static with no new objects or changes in spatial position; only the water in the river continues to flow and ripple.
+frame_0000000128-frame_0000000256:
+First, in the immediate foreground, large grey rocks with patches of green moss occupy the lower half of the frame. Beyond them, a river flows from right to left, featuring turbulent white rapids on the right side and dark, bubbling water extending towards the left. Overhanging from the top left are trees with vibrant orange and yellow autumn leaves, while the far bank behind the river consists of dark grey rocks.
+end of description
+Subsequently, the camera slowly pans to the left, gradually revealing more of the dark, turbulent river and a deeper crevice previously unseen to the immediate left of the initial viewpoint. This pan causes the foreground rocks and the white rapids on the right to shift further right relative to their positions in the first frame.

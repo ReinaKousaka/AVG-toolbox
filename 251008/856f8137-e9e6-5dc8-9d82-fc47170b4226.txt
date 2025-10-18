@@ -1,0 +1,28 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a wet wooden boardwalk stretching into a misty forest, flanked by a rope net railing on both sides. To the viewer's left, a steep, forested hillside with sparse trees and some red structures is visible, while to the right, tall, slender trees recede into the fog. The overall atmosphere is dim and damp, with an overcast sky.
+end of description
+As the frames progress, the viewpoint moves forward along the boardwalk, revealing more of the path and the surrounding forest. A red fire extinguisher attached to the right-side railing gradually comes into view from the right, becoming more prominent closer to the viewer. The misty background appears to shift as the viewer advances into the forest.
+frame_0000000128-frame_0000000256:
+A wet wooden boardwalk extends from the bottom center into the misty distance, flanked by barriers. On the left, a mesh net barrier borders a steep, forested slope where a small green sign is visible; on the right, an open-roped barrier features a red fire extinguisher hanging mid-length. Tall trees line both sides of the path, disappearing into the dense fog, while "SEOUL WALKER" is watermarked in the bottom left.
+end of description
+The camera subtly zooms into the scene. Consequently, the red fire extinguisher on the right barrier and the green sign on the left slope both incrementally move closer to the viewer's relative position and appear slightly larger.
+frame_0000000256-frame_0000000384:
+The first frame presents a wet, dark brown wooden walkway stretching directly away from the viewer into a misty forest. Flanking the path are rope netting railings with wooden posts, leading into a dense arrangement of tall evergreen trees that fade into the overcast, hazy sky.
+end of description
+Subsequent frames depict a continuous forward movement along the walkway. This action gradually brings previously distant sections of the path and the surrounding misty forest closer to the viewer's initial first-frame viewpoint, steadily revealing more of the path ahead.
+frame_0000000384-frame_0000000512:
+A wet wooden boardwalk, flanked by low rope and net railings, extends from the foreground into the misty forest, disappearing into the distant fog. Tall, slender trees with bare branches line both sides of the path and fill the background, which is shrouded in a dense, grey mist under an overcast sky. A "SEOUL WALKER" watermark is present in the bottom left corner.
+end of description
+No dynamic changes or new objects are observed in the subsequent frames; the scene remains static from the first-frame viewpoint throughout the sequence.
+frame_0000000512-frame_0000000640:
+The first frame presents an elevated wooden walkway, wet and reflective, extending from the viewer's immediate foreground into a misty forest in the distance. Rope-and-net railings, supported by wooden posts, border both sides of the walkway. Tall, dark tree trunks stand densely on either side of the path, gradually fading into a fog-shrouded background.
+end of description
+No dynamic changes or newly revealed objects occur across the subsequent frames, as all images are identical, depicting the same static scene of the misty forest walkway.
+frame_0000000640-frame_0000000768:
+A wet, dark wooden boardwalk extends directly from the viewer into a misty forest. It is flanked by railings made of wooden posts and a light-colored net, with a red 'no entry' sign visible on the left railing in the foreground. Tall, slender pine trees with dark trunks and green foliage line both sides of the boardwalk, receding into a dense, fog-obscured background where the boardwalk appears to lead to a distant wooden gate.
+end of description
+No dynamic changes or newly revealed objects or scenes are observed in the following frames, as the camera's viewpoint remains entirely stationary.
+frame_0000000768-frame_0000000896:
+The first frame displays a wet wooden boardwalk stretching forward into a misty forest, flanked by tall tree trunks and rope mesh railings on both sides. The dense forest recedes into a thick fog in the distance, while the ground covered with green foliage slopes downward to the left of the elevated boardwalk.
+end of description
+As the frames progress, the viewpoint slowly moves forward along the boardwalk, creating a subtle tracking shot. This movement gradually brings the surrounding trees closer to the viewer, enhancing their detail against the persistent misty backdrop.

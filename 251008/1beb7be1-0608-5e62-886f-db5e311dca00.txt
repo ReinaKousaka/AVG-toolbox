@@ -1,0 +1,10 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts an asphalt road curving to the left, with a dashed white line running along its center from the viewer's foreground into the midground. A steep, rocky, grassy mountain slope ascends immediately to the viewer's right, while a more distant, jagged mountain range rises to the left under a partly cloudy sky.
+end of description
+As the frames progress, the viewpoint moves forward along the curving road, causing the road and its white line to shift leftward in the frame. The rocky slope on the right moves past the viewer, revealing more of the path ahead, while the distant mountains on the left gradually approach and slightly change perspective relative to the initial viewpoint.
+frame_0000000128-frame_0000000256:
+The viewer is centered on a paved road with a white dashed line, winding uphill and curving gently to the left. To the left, a verdant hillside transitions into a dramatic, jagged grey mountain range in the mid-distance, while a steep, grassy slope rises immediately to the right of the road. The sky above is partially cloudy, revealing patches of blue.
+end of description
+The following frames depict continuous forward movement along the road, causing the immediate grassy slopes on both sides to shift and blur slightly as the viewer advances. The mountain range in the distant background progressively appears larger and more detailed, indicating an approach towards it. The curving road slowly reveals more of its path ahead without introducing any entirely new objects or scenes beyond the initial frame's scope.
+frame_0000000256-frame_0000000384:
+The viewer is on a paved mountain road, with a solid white line to the immediate left and a dashed white centerline ahead, curving towards a steep, grassy and rocky incline on the right and a gentler slope leading to rugged mountains in the distance on the left under a cloudy sky. end of description. The viewpoint smoothly advances forward along the road, causing the white lines to continuously move closer and pass beneath, while new sections of the road and the surrounding mountainous terrain directly ahead are progressively revealed.

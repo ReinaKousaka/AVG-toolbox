@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a paved road extending into the distance, with a cobblestone path featuring wooden planters and outdoor seating on the right. To the left, two people walk away from the viewer on a sidewalk, past a parked white car and multi-story buildings, all set against a backdrop of large trees and a distant mountain.
+end of description
+In subsequent frames, the two people and the white car on the left move further away. The distant red building becomes clearer, prominently displaying a Swiss flag on its facade, while the planters and outdoor seating on the right appear to move slightly closer and further into the frame relative to the initial viewpoint.
+frame_0000000128-frame_0000000256:
+The first frame shows a paved road on the left, where a white car is parked, bordered by multi-story buildings and lush green mountains in the far background. To the viewer's right is a wide paved plaza with decorative planters containing white and pink flowers in the immediate foreground, extending into a park area with trees and benches. Across the road, in the midground, a gas station with red and white signage is visible.
+end of description
+The following frames depict a subtle camera pan to the right, gradually revealing more of the park area and additional trees that were previously just to the right of the viewer's initial field of view. Simultaneously, a person on a bicycle emerges from the far left of the original frame's viewpoint, moving across the road from left to right, passing in front of the gas station.

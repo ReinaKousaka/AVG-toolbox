@@ -1,0 +1,13 @@
+frame_0000000000-frame_0000000128:
+A paved road with double yellow lines ascends towards the background, flanked by a stone wall covered in green foliage on the left and a series of stone steps with a green railing on the right. A building is partially visible on the far left, while a white building with windows is situated above the steps on the right, beneath a blue sky. Several people are visible walking uphill on the road in the mid-ground.
+end of description
+The viewer's perspective moves forward and upward along the stone steps, revealing more of the stone wall and green railing to the immediate right of the first-frame viewpoint. As the camera ascends, the upper sections of the white building become more prominent above and to the right of the initial position. Concurrently, the paved road and the left-side wall appear to recede downwards and to the left relative to the advancing viewpoint.
+frame_0000000128-frame_0000000256:
+The first frame shows the viewer at the base of a stone staircase ascending towards the upper center, with a green metal railing on the left and a rustic stone wall on the right. To the far left, a paved road and a tree-covered embankment ascend parallel to the stairs, while higher up on the right, a white building and a black street lamp stand above the stairs, where several figures are visible in the distance.
+
+end of description
+As the frames progress, the viewpoint slowly ascends the staircase, causing the immediate foreground steps and lower railing to disappear from view. The road on the left extends further into the scene, and a small green utility box is newly revealed on the stone wall to the right of the stairs, positioned below the white building. The top of the stairs, along with the distant figures and upper landing, become progressively closer and more defined, showing more of the scene previously above the initial view.
+frame_0000000256-frame_0000000384:
+The first frame shows a stone staircase ascending uphill in the foreground and center, flanked on the left by a green metal railing and an asphalt road, and on the right by a stone wall leading to a white building with a green shed. Several people are visible further up the stairs under a bright blue sky.
+end of description
+The camera gradually moves forward and slightly upward along the stone staircase. As the viewpoint advances, the foreground steps and the lower part of the green railing move out of the frame, revealing more of the higher steps and bringing the stone wall, white building, and the people ahead into closer view.

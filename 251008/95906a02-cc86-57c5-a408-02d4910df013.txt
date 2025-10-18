@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+A paved road with white lane markings extends directly in front of the viewer, receding into the distance under an overcast sky. To the left, a steep, rocky, moss-covered embankment with trees above it borders the road, while to the right, a grassy verge with several cylindrical stone bollards separates the road from a dense forest.
+end of description
+The scene progresses as if the viewer is moving forward along the road; the rocky embankment and the grassy verge with bollards pass by on either side. A dark pickup truck emerges in the mid-ground on the left side of the road, approaching the viewer. It then moves into the immediate foreground, passing to the left of the viewer.
+frame_0000000128-frame_0000000256:
+In the first frame, the viewer is positioned on a paved road that curves slightly to the right, extending into the distance under an overcast sky. A black pickup truck is partially visible in the lower-left foreground, moving away from the viewer on the road, which has a solid white line on its right edge and a double yellow (partially visible white) line separating lanes. To the left, a steep, rocky hillside covered in dense green trees rises, while to the right, a grassy verge with spaced-out grey concrete bollards leads to a thick forest of evergreen trees.
+end of description
+The black pickup truck recedes further away from the viewer along the road, becoming smaller and revealing its full rear profile, including the license plate area. As the truck proceeds, a stone retaining wall becomes increasingly visible along the base of the rocky hillside to the left of the road. The perspective shifts slightly, revealing more of the winding road ahead.
+frame_0000000256-frame_0000000384:
+The first frame depicts a paved two-lane road extending into the distance, with a dark van driving away from the viewer in the right lane. To the left, a grassy slope meets a stone retaining wall, behind which a dense forest of evergreen trees covers a steep hillside. On the right, a grassy verge with several grey stone bollards lines the road, backed by more evergreen trees, all under an overcast sky.
+end of description
+As the frames advance, the van continues driving forward, maintaining its relative distance to the viewer, indicating the camera is also moving. The road gently curves right, gradually revealing more of the rocky terrain on the left hillside behind the stone wall. Concurrently, the grassy verge and stone bollards on the right recede into the distance, showing additional forest foliage.

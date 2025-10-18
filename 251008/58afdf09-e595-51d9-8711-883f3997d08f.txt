@@ -1,0 +1,16 @@
+frame_0000000000-frame_0000000128:
+In the first frame, train tracks extend from the viewer's foreground into the distance, curving to the right. Dark, rocky embankments with patches of snow flank the tracks on both the immediate left and right, obscuring parts of a forested landscape. Overhead power lines run above the tracks, supported by poles visible further along the curve, with a clear blue sky above a distant tree line of bare deciduous and evergreen trees.
+end of description
+As the viewpoint moves forward along the tracks, the rocky embankments on both sides gradually recede, revealing more of the surrounding forest. The patches of snow diminish, and the ground cover transitions to brown earth and gravel. More overhead power line supports become visible as the train progresses into the curve, expanding the view of the wooded hillsides on both sides relative to the initial confined passage.
+frame_0000000128-frame_0000000256:
+The first frame displays a train's forward view along tracks that curve gently to the right into the distance. To the immediate left, patches of snow are visible on dark ground, bordering a dense coniferous forest, while to the right, a gravel embankment ascends towards a mix of bare deciduous and evergreen trees. Overhead power lines, supported by poles, span the scene against a clear blue sky.
+end of description
+As the train moves forward, the tracks continuously extend beneath the viewer, with the foreground snow and sections of the embankment receding and passing to the sides. The overhead power poles and lines, including a yellow warning sign on a pole initially visible further down the track on the left, progressively draw closer, pass by, and reveal more of the curving forested path ahead.
+frame_0000000256-frame_0000000384:
+The first frame presents a straight-ahead view of train tracks curving gently to the right, extending into the distance, with gravel ballast forming the immediate foreground. To the left, a rocky embankment densely populated with evergreen trees rises, featuring a utility pole carrying overhead wires and a yellow diamond sign pointing right, while to the right, a slope covered in bare-branched deciduous trees leads up to a distant forest under a clear blue sky.
+end of description
+As the train moves forward, the utility pole and yellow sign on the left progressively move closer to the viewer before passing out of sight. The forested embankments and rocky terrain on both sides continuously shift, with new sections of the curving landscape being revealed from the mid-ground, indicating a steady forward motion along the tracks.
+frame_0000000384-frame_0000000512:
+The first frame presents a straight-on view of railway tracks extending into the distance, bordered by a dark, rocky embankment with dense evergreen trees and an electrical utility pole on the left, and a lighter embankment featuring bare deciduous trees and a visible body of water further right, all beneath a clear blue sky.
+end of description
+The scene then dynamically moves forward, showing the tracks continuously receding beneath the viewer. The rocky wall and utility pole on the left pass by to the viewer's immediate left, while the distant water and trees on the right are progressively revealed closer to the viewer as the viewpoint advances through the landscape.

@@ -1,0 +1,14 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a wet, cobbled street at night, with tram tracks stretching into the distance, reflecting colorful neon lights from storefronts like "FEBO" on the left and "LE JAC" above "Jack's Casino" on the right. Numerous pedestrians populate the sidewalks and street, generally moving away from the viewer, while a tall tower is faintly visible in the far distance.
+
+end of description
+
+Subsequent frames reveal continuous pedestrian movement; individuals on both sidewalks and in the street subtly shift their positions, advancing further into the scene or moving closer to the viewer. The person initially partially visible on the far left of the first frame steps further into view, walking forward relative to the viewer. Overall, the street remains bustling, with reflections on the wet surface shimmering as lights and people change positions.
+frame_0000000128-frame_0000000256:
+The first frame displays a bustling city street at night, where wet cobblestones brilliantly reflect the colorful neon lights from storefronts lining both sides of the thoroughfare. Tram tracks run down the middle, leading towards a distant illuminated tower visible in the background. Pedestrians are present on the sidewalks to the left and right, and down the center, including a woman in a light jacket on the far left and another in a dark coat centrally located, both walking away from the viewer.
+end of description
+Throughout the sequence, these pedestrians, notably the two women, continue to move further away along the street, maintaining their paths relative to the first-frame viewpoint as other distant figures also progress.
+frame_0000000256-frame_0000000384:
+The first frame displays a wet, cobblestone street at night, illuminated by vibrant neon signs from shops lining both sides, casting colorful reflections onto the street's surface where tram tracks run towards a distant church spire visible against the dark sky. Pedestrians are scattered throughout: a woman walks towards the viewer on the left, another walks away centrally, and a group approaches on the right, all amidst other figures and bicycles further down the street.
+end of description
+As frames progress, the woman on the left continues walking closer to the viewer, the central woman moves further away, and the group on the right steadily approaches from their initial first-frame positions. These subtle shifts in the pedestrians' movements and slight changes in the wet ground's reflections are the primary dynamic elements across the sequence.

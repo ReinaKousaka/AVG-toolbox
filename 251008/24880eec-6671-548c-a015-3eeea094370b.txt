@@ -1,0 +1,14 @@
+frame_0000000000-frame_0000000128:
+The first frame captures a traditional wooden house with green shutters and white lower walls to the left, bordering a paved path that ascends uphill, partially obscured by a wooden railing and some red flowers in the foreground. To the right of the path is a grassy slope with yellow flowers, while more distant wooden houses dot the background hills under a cloudy blue sky.
+end of description
+As the viewer progresses forward along the path, the house on the immediate left reveals a balcony with outdoor furniture, while the grassy slope to the immediate right and the path directly ahead also draw nearer. The distant background houses remain ahead in their original relative positions, appearing slightly larger as the viewpoint advances.
+frame_0000000128-frame_0000000256:
+To the viewer's left, a wooden house with green shutters and a balcony stands beside a wooden fence that borders a dirt path. The path ascends into the midground, where a red and white 'X' shaped sign is visible on its right, leading towards a larger house on a distant green, tree-lined slope. A large green tree is centrally located in the midground, with a blue sky and white clouds overhead.
+
+end of description
+
+As the viewpoint progresses along the path, the initial house recedes, revealing more of its facade and a patio area with tables and chairs to the left. The dirt path and the red and white 'X' sign move closer, bringing the second house on the higher slope into sharper view as the scene unfolds.
+frame_0000000256-frame_0000000384:
+The first frame captures a view down a dirt path leading past a dark wooden house on the immediate left with a green-shuttered window and an adjacent patio featuring a table, chairs, and a purple umbrella, bordered by a wooden fence, while a red and white X-sign stands to the right of the path, which ascends a grassy hill towards a large tree and two distant houses under a blue, cloudy sky.
+end of description
+As the frames progress, the viewpoint moves forward and slightly pans right, causing the wooden house on the left to recede while revealing more of the patio and newly visible small, conical green shrubs along its edge. The dirt path and wooden fence extend further into view, uncovering a small potted plant on a fence post. The grassy field to the right and the ascending stairs become more prominent, revealing subtle railroad tracks on the grass. The distant houses on the hill remain in the background, though their relative position slightly shifts with the camera's movement.

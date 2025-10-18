@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+From the viewer's perspective, a dirt path extends forward through a desert landscape towards a distant mountain range under a clear blue sky. Desert scrub and patches of yellow flowers populate the terrain on both sides of the path, with a shadow visible on the ground at the bottom-center, closest to the viewer.
+end of description
+In subsequent frames, the viewpoint moves continuously forward along the path; objects initially further down the path in the first frame approach the foreground and then pass out of view to the sides. New sections of the path and desert floor continuously appear in the immediate foreground, directly ahead of the initial viewpoint, while the distant mountains remain relatively static.
+frame_0000000128-frame_0000000256:
+The first frame shows a clear blue sky dominating the top half over a desert landscape featuring a dirt path that extends from the bottom center into the mid-distance, curving gently to the right. Sparse green bushes and dry yellow-brown grasses line the path and stretch into the distance, with reddish-brown mountains visible on the distant horizon. A dark shadow appears at the very bottom center.
+end of description
+As the viewer moves forward, the path continuously unfolds directly ahead from the initial viewpoint, while the foreground bushes to the left and right are progressively passed and recede behind the original perspective. The distant mountains remain consistently visible ahead on the horizon.
+frame_0000000256-frame_0000000384:
+A wide dirt path begins at the bottom center and recedes into the distance, flanked by dry grassy ground and sparse green desert shrubs. A large green bush stands to the immediate left foreground, and a smaller one to the right, slightly further back. Distant reddish-brown mountains line the horizon under a vast clear blue sky, while a dark shadow is partially visible at the bottom center.
+end of description
+The viewpoint moves steadily forward along the dirt path. The initial foreground bush on the left and the smaller bush on the right gradually shift out of view to the left and right respectively, revealing more of the path and additional desert vegetation further along. A tall, spiky plant becomes visible to the far left as the scene progresses, maintaining the forward motion towards the distant mountains.

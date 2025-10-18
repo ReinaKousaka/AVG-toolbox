@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a narrow, uphill asphalt road bordered by a green, vegetated embankment with a utility pole to the left, and a stone wall with a wooden shed and bins to the right, all under an overcast sky. A red-roofed house is visible in the far distance along the road.
+end of description
+As the frames progress, the viewpoint moves steadily forward along the road. Objects like the utility pole, embankment, stone wall, and shed gradually recede from the immediate foreground, while the distant red-roofed house progressively appears closer as the camera advances up the incline.
+frame_0000000128-frame_0000000256:
+The viewer is positioned on a damp, paved road extending into the distance under an overcast sky. To the left, a steep, verdant bank rises, lined by a low stone wall and featuring a utility pole on its lower edge. To the right, a dry-stacked stone wall runs parallel to the road, with sparse greenery and rocks on a narrow verge between it and the asphalt. A building with a reddish-brown roof is visible in the distance, framed by bare-branched trees.
+end of description
+The perspective subtly advances forward along the road, causing foreground details like road patches to shift towards the bottom of the frame and disappear. Both the utility pole on the left and the stone wall on the right gradually recede towards their respective sides as the viewpoint progresses. Consequently, the distant house with the reddish roof appears incrementally closer and slightly larger, revealing more detail as the viewer moves forward.
+frame_0000000256-frame_0000000384:
+A paved road extends into the distance from the viewer, bordered on the immediate left by a utility pole and a dense, green hedgerow with trees above, and on the right by a low stone wall with sparse plants. In the far distance, a building with an orange roof is partially visible slightly to the right of the road's center.
+end of description
+As the viewpoint progresses forward along the road, the utility pole and hedgerow on the left move relatively to the viewer's left and backward, while the stone wall and vegetation on the right also recede to the right and backward. The orange-roofed building, initially distant, becomes progressively closer, and a wooden gate, previously less distinct, emerges clearly on the right within the stone wall.

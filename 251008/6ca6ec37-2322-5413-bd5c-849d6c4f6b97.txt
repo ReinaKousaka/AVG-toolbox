@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a person on a bicycle in the mid-left foreground, moving forward on a road where a black SUV and a blue/red truck are behind them. To the left stands a yellow building with balconies, while a sidewalk on the right features pedestrians and shops with red awnings, all framed by distant mountains in the background.
+end of description
+The cyclist, SUV, and truck all move forward, with the SUV eventually exiting the frame ahead of the viewer. A white car with a colorful design then emerges from behind the truck in the mid-left and drives past the viewer. Meanwhile, pedestrians continue moving forward on the right sidewalk.
+frame_0000000128-frame_0000000256:
+A street scene is presented from a forward-looking viewpoint. A light blue and red truck is parked on the left side of the road, facing away from the viewer, with a yellow building featuring flags and balconies behind it and a green mountain in the distant background. On the right, a sidewalk lined with storefronts, trees, and two orange bollards extends into the distance, with people walking along it.
+end of description.
+As the perspective shifts forward, the orange bollards on the right move out of the frame. A red fire hydrant-like object, previously located further ahead on the right sidewalk, becomes fully visible. Additionally, a small white paraglider is newly revealed high in the distant sky, above the mountain range on the left.

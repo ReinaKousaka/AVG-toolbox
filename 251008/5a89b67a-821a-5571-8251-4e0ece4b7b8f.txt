@@ -1,0 +1,10 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a scenic view from a train, with green grassy fields in the foreground and mid-ground. A dirt path leads left towards hillside houses, while train tracks run parallel to the viewer on the right, past a building with an excavator, and distant snow-capped mountains rise under a clear blue sky.
+
+end of description
+
+As the viewer moves forward, a red and white striped barrier briefly appears and rapidly passes from the mid-right. The building and excavator in the mid-ground gradually reveal more of their structure as they recede towards the mid-left, while the distant houses and mountains shift further left in the background.
+frame_0000000128-frame_0000000256:
+In the first frame, a partial wooden house occupies the immediate foreground on the left. A vast green grassy slope fills the midground, ascending towards multiple traditional houses nestled on a hillside under a blue, cloudy sky, while a dark mountain range looms in the far background on the right, with train tracks visible along the bottom right edge.
+end of description
+As the scene progresses, the foreground house on the left moves out of frame. Simultaneously, the viewpoint advances forward, revealing more of the hillside to the right, where additional houses, a substantial stone wall, and several dark rectangular solar panels progressively emerge from the right side, becoming more centrally positioned relative to the initial viewpoint.

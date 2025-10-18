@@ -1,0 +1,13 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a churchyard with a leaf-strewn path in the foreground leading towards a large, green-leafed tree and a stone church beyond it. Grey headstones are scattered across the grassy ground to the left and right of the path. The midground features the church, with a tall tower partially obscured by the tree to the left and a main building with arched windows and dark green bushes near an entrance to the right, while stone buildings and a tree-covered hillside occupy the background.
+
+end of description
+Across the subsequent frames, a subtle forward movement of the viewpoint makes the central tree and church appear incrementally larger and closer. The foreground headstones slightly shift their positions, revealing more of the path and the graveyard as if the viewer is slowly approaching the church.
+frame_0000000128-frame_0000000256:
+The first frame displays a leaf-strewn dirt path in the foreground, flanked by numerous weathered gravestones on both the left and right. In the midground, a large tree with a thick trunk and green-yellow leaves partially obscures a stone church situated directly behind it and to its right. To the left of the tree and church, several stone houses are visible amidst distant trees, while the background consists of the upper portions of the church, treed hills, and an overcast sky.
+end of description
+As the frames progress, the viewpoint slowly moves forward along the path towards the church. Foreground gravestones shift backward and slightly out of view, revealing more of the path and grassy areas previously obscured. The large tree and the stone church behind it appear slightly closer and larger as the viewer approaches. Gravestones further along the path become more prominent in the immediate vicinity as the perspective advances.
+frame_0000000256-frame_0000000384:
+The first frame features a large, gnarled tree with green-yellow foliage dominating the center-right foreground, its branches extending upwards and to the left. Behind the tree and slightly to its left stands an old stone church with a prominent tower, while gravestones are scattered across the autumn leaf-covered grass on either side of a dirt path leading towards the church. To the far left, a cluster of stone houses and distant trees are visible under a cloudy sky.
+end of description
+Subsequent frames show very slight camera movement causing minor perspective shifts of the gravestones and tree leaves. The most significant dynamic change occurs in later frames (7-9) where white text appears overlaid at the bottom center of the screen, positioned directly in front of the viewer, which expands to three lines reading a "shout out" message.

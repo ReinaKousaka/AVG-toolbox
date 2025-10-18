@@ -1,0 +1,23 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a dark gray pickup truck occupying the immediate foreground on the right, partially obscuring white crosswalk lines. To its left, a blue SUV with a roof cargo box is parked on the street, behind which is a public park featuring a large red arched structure, trees, and people. A tall, light brown building stands in the background to the left, with a brick-colored building on the far right.
+end of description.
+The dark gray pickup truck moves forward and exits the frame to the right, revealing a red fire hydrant in the midground and a pedestrian walking on the newly visible sidewalk further right. As the truck clears, a red stop sign also becomes fully visible further down the street on the right.
+frame_0000000128-frame_0000000256:
+The first frame presents an urban street scene featuring a large, bright red, angular archway structure spanning over a plaza in the midground, with steps leading down to it from the center foreground. To the left, a blue SUV with a roof rack is partially visible on the street, and behind it stands a multi-story building marked "Bush Hotel." In the center foreground, a red fire hydrant is on the curb, while a person in a light pink jacket walks on the sidewalk to the right. The background features more buildings and trees, with a street on the right lined with parked cars and a red stop sign visible.
+
+end of description
+
+The primary dynamic change across the frames is a person in a light pink jacket walking forward on the right sidewalk, gradually moving from the mid-right toward the foreground on the right, progressively occupying more of the lower right quadrant. No other significant objects or scenes are newly revealed, and the overall viewpoint remains static.
+frame_0000000256-frame_0000000384:
+The first frame presents a street view with a blue car partially visible on the far left, a red fire hydrant prominent on the mid-foreground sidewalk, and a tree trunk with signs on the left. A large, angular red archway dominates the midground, spanning over a recessed park area featuring steps, bushes, trees adorned with red and yellow lanterns, and a few people moving within. Behind the arch, to the left, a light-yellow building labeled 'BUSH HOTEL' is visible, while a pedestrian in a pink jacket walks along the sidewalk on the right.
+end of description
+The pedestrian in the pink jacket on the right sidewalk moves progressively closer towards the viewer. Meanwhile, the individuals in the recessed park area also exhibit minor movements throughout the subsequent frames.
+frame_0000000384-frame_0000000512:
+The first frame features a red fire hydrant in the immediate foreground, centered on a light-colored sidewalk that extends left and right. Above, a prominent red, perforated archway spans the midground, with concrete steps beneath it leading down into a park area. Within the park, bare trees adorned with red and yellow lanterns are visible, along with a traditional red-roofed building slightly to the right of the steps, and several individuals are present. A large yellow building occupies the background on the left, while a utility pole stands on the far right.
+
+end of description.
+As the frames progress, the camera subtly pans to the right. Concurrently, the red fire hydrant in the foreground transforms or is replaced by a shorter, red, spiked, circular object. The individuals previously seen within the midground park area move deeper into the scene, further away from the viewer.
+frame_0000000512-frame_0000000640:
+The first frame features a red geometric archway extending overhead and to the right, framing a scene that includes a paved path leading to concrete steps descending into a park area. Flanking the steps are low concrete planters with bare bushes, and a red decorative bollard is visible in the bottom-left foreground. Beyond the steps, in the midground park, are bare trees adorned with red and yellow lanterns, a traditional-style building with an orange tiled roof, and two people walking towards the left, while a large tan building occupies the background to the left.
+end of description
+In the subsequent frames, the camera's viewpoint remains static as the two individuals in the midground park, initially positioned to the left of the traditional building, gradually walk further left and away from the viewer, eventually disappearing off the far left side of the frame.

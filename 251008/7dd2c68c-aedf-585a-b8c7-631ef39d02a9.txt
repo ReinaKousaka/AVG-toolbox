@@ -1,0 +1,26 @@
+frame_0000000000-frame_0000000128:
+In the first frame, a winding asphalt road, marked with white lines, curves from the lower center-right towards the upper left, with a lush green grassy slope to its immediate right. To the far left, a vast blue lake is visible, bordered by green mountains on its opposite side and a metal railing along the road's edge near the viewer. In the distant background, majestic, jagged mountains rise centrally under a bright blue sky dotted with scattered white clouds. In the foreground-left, a tall grey pole displays yellow directional signs and a white sign reading "Seerestaurant Schwybogen P 800m VALSER." On the mid-right slope, two houses with trees and shrubs are nestled.
+
+end of description
+
+The viewpoint steadily moves forward and slightly right, rounding the curve of the road. The pole and signs in the first-frame foreground quickly exit the frame to the left, and the metal railing along the lake recedes. As the camera progresses, the green grassy slope to the right of the initial road becomes more central, revealing more of the steep, tree-covered hillside and a larger, light-colored house further up the slope on the far right of the first-frame view. The distant mountains shift to the left, becoming slightly less prominent as the foreground landscape expands.
+frame_0000000128-frame_0000000256:
+The first frame shows a paved road curving sharply to the right in the foreground, bordered by a vibrant green grassy slope on its left. In the mid-ground, a brown wooden house is visible to the left, partially obscured by trees, while a larger white building with green shutters stands on the uphill right side. Distant mountains rise on the far left horizon, under a bright blue sky dotted with scattered clouds.
+end of description
+As the perspective advances, the viewer moves forward along the road, which gradually appears straighter than the initial sharp curve. The grassy slope on the left side recedes, and the white building on the right becomes more fully revealed, exposing a stone retaining wall directly uphill from the road. Shadows noticeably lengthen and shift across the road from the right, consistently progressing from the initial viewpoint.
+frame_0000000256-frame_0000000384:
+The first frame displays a paved road stretching forward, flanked on the left by a grassy hillside with a traditional house and distant mountains above a body of water. On the right, a stone retaining wall rises, topped by a wooden fence with red flowers, green foliage, and a yellow flag, all beneath a clear blue sky.
+
+end of description
+
+As the camera moves forward, objects on both sides of the road (the house and hillside to the left, and the wall/fence on the right) progressively appear larger, moving past and out of the frame towards the sides relative to the initial viewpoint. This continuous forward motion reveals more of the expansive lake and distant mountains to the mid-left, and new sections of the stone wall and fence adorned with additional red and yellow flowers unfolding further along the road to the right.
+frame_0000000384-frame_0000000512:
+The first frame displays a paved road extending from the foreground into the distance under a clear blue sky. To the left, a grassy slope gives way to a traditional wooden house, partially obscured by trees and featuring scaffolding, with another house visible further down the road. On the right, a steep stone retaining wall adorned with yellow flowers and green foliage runs parallel to the road, topped by a wooden fence, while shadows stretch across the road surface.
+
+end of description
+
+As the viewpoint progresses forward along the road, the initial elements like the house on the left and the stone retaining wall on the right recede into the distance. New sections of the retaining wall and fence emerge from the right, revealing more of the steep, green hillside behind them. Further along on the right, a dark concrete wall with a 'no parking' sign becomes visible, along with a manhole cover on the road surface, as the distant buildings draw slightly nearer.
+frame_0000000512-frame_0000000640:
+The first frame shows a paved road extending straight ahead, flanked by a large leafy green tree on the immediate left and a concrete retaining wall with a 'no parking' sign on the immediate right. Further along the road, houses with brown roofs are visible on both sides, nestled among greenery, with a steep, grassy hillside ascending to the right, under a clear blue sky.
+end of description
+As the viewpoint moves forward, the large tree on the left recedes, revealing scaffolding covering a light-yellow house, while the retaining wall on the right continues. A wooden fence and small garden area become more prominent on the left, and a mailbox appears near the fence. On the right, the concrete wall transitions into a patterned paver section, as more of the village houses come into view ahead.

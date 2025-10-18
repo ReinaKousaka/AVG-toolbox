@@ -1,0 +1,26 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a snow-covered scene with a path leading centrally towards a brick building with a vibrant green door in the midground. To the left foreground, an ivy-clad tree stands by a wooden fence, while a low, snow-dusted planter with a small sign is visible in the right foreground. Beyond the planter, a wide snowy area extends rightward into the midground, featuring distant benches and a brown informational sign, all under a partially cloudy sky.
+end of description. Over the progression of frames, no major dynamic action occurs, but the indistinct dark objects within the right foreground planter gradually become clearer, resolving into four identifiable terracotta-colored pots or bricks lined up.
+frame_0000000128-frame_0000000256:
+The first frame shows a snow-covered path extending towards a small brick building with a vibrant green door in the mid-background. To the left, a large tree with ivy and a wooden fence run along the path, with a dark bin-like object visible near a stone wall. In the foreground right, a raised garden bed with terracotta pots sits partially covered in snow, adjacent to a wider snow-dusted area with scattered bare trees and a distant brown sign. end of description
+All subsequent frames depict an identical static scene with no dynamic changes or newly revealed objects.
+frame_0000000256-frame_0000000384:
+The first frame displays a snow-dusted path leading towards a small brick building with a bright green door and two windows in the midground, flanked by bare trees and vegetation. A stone wall runs along the left side of the path, with a dark, covered object attached to it, while snow-dusted ground and wooden posts occupy the right foreground.
+end of description
+In subsequent frames, the camera imperceptibly moves forward and slightly to the left as the dark object attached to the left stone wall slowly swings open and inward, revealing more of the wall behind it.
+frame_0000000384-frame_0000000512:
+First, a snow-dusted path leads away from the viewer, flanked by a low stone wall on the left, partially obscuring a dark bin, and wooden barrier posts on the right. In the midground, a brick building with a green door is nestled against a tree-covered slope to the left, while an information board stands to the right, with bare trees filling the background under a blue sky.
+end of description
+Subsequently, the dark bin, initially partly hidden behind the stone wall to the left of the path, progressively slides forward and right, becoming fully visible and revealing "Litter" text and a dog icon on its front as it approaches the viewer's left foreground.
+frame_0000000512-frame_0000000640:
+In the first frame, a snow-dusted path extends from the viewer into the midground, with a black litter bin against a stone wall on the far left and a wooden barrier post on the far right. A paved road or path, partially covered in snow, stretches horizontally across the midground, with a low wooden fence behind it. In the background, a small brick building with a green door stands on the left, flanked by an information board to its right, all situated on a snow-dusted bank lined with bare trees under a partly cloudy blue sky.
+end of description
+Chronologically, the wooden barrier on the right side of the foreground steadily lowers, rotating downwards and moving further away from the viewer across the subsequent frames.
+frame_0000000640-frame_0000000768:
+The first frame displays a winter landscape with a snow-dusted ground leading to a darker, wet-looking path horizontally across the mid-foreground. To the far right, a partial grey barrier extends into the scene. A small, red-brick building with a vibrant green door and two large windows stands on a snow-speckled, vegetation-covered bank in the midground, slightly to the left of the center. To the building's right on the bank, a dark information board is visible, while bare trees line the background against a blue sky with scattered clouds, and a wooden bench appears on the far right behind the bank.
+end of description
+All subsequent frames are identical to the first; there are no dynamic changes or newly revealed objects or scenes.
+frame_0000000768-frame_0000000896:
+In the first frame, a snow-dusted, icy path or road spans the foreground, extending horizontally from left to right. Behind this, a low wooden fence with metal posts runs across the midground. Directly beyond the fence, a snow-covered mound of dormant, reddish-brown vegetation rises, upon which a small, brick building with a green door and two white-framed windows is situated slightly to the left of center. To the right of the building, a wooden information board stands on posts on the same elevated ground. In the background, a dense line of bare-branched trees stretches across the entire scene, under a partly cloudy blue sky.
+end of description
+No dynamic changes, newly revealed objects, or scenes are observed across the subsequent frames, as all images appear identical to the first frame.

@@ -1,0 +1,24 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a dirt path covered in fallen leaves, extending from the foreground towards the middle distance and curving slightly to the left, bordered by dense autumn trees with sparse orange and yellow foliage. To the right, a wide, turbulent river flows past more trees, with distant mountains visible beyond them.
+end of description
+As the camera moves forward along the path, new sections of the path and river ahead are continuously revealed, while the initially visible trees and river sections recede behind the viewer. The dense tree line on the left gradually reveals more of the forest's depth. Concurrently, the river on the right appears to stretch further into the background, and the distant mountains become slightly more prominent.
+frame_0000000128-frame_0000000256:
+A dirt path covered in fallen leaves extends from the bottom center into the distance, flanked by dense trees, some displaying sparse autumn colors and others bare. To the right of the path, a swift river is visible through the tree trunks and branches, with mountains rising in the far distance on the right, under a partially visible bright sky.
+end of description
+The viewpoint steadily moves forward along the path. As the camera advances, the trees on the left and right sides draw closer and then recede past the viewer, revealing more of the forest environment further along to the left. The river and the mountains to the right of the first-frame viewpoint remain visible in the distance, their perspective slowly shifting with the forward progression.
+frame_0000000256-frame_0000000384:
+The first frame depicts a leaf-strewn dirt path extending from the viewer into the distance, flanked on the left by dense deciduous trees with some autumn foliage and on the right by a wide, flowing river partially obscured by bare trees. In the background, a large mountain rises beyond the river under an overcast sky.
+end of description
+The camera moves forward along the path. As the viewpoint advances, a white vehicle gradually comes into view, parked among the trees to the left side of the path, revealing itself further ahead from the first frame's original position.
+frame_0000000384-frame_0000000512:
+The first frame presents a dirt path extending from the bottom center into the distance, bordered by trees on both sides. To the left, a dense line of trees with autumnal foliage partially obscures a light-colored vehicle in the far left background. To the right, a river with visible currents flows alongside the path, framed by trees with bare branches, while mountains rise in the distant background.
+end of description
+As the frames progress, the viewpoint steadily moves forward along the path. The light-colored vehicle on the far left becomes increasingly visible from behind the trees, clarifying its presence relative to its initial obscured position. Concurrently, more of the river's flow and its distant bank to the right are revealed as the scene advances.
+frame_0000000512-frame_0000000640:
+The first frame presents a dirt path covered in autumn leaves extending away from the viewer, flanked by dense trees with some fall colors on the left, and a river bordered by bare trees and an embankment on the right. A partially visible white vehicle is behind the trees to the far left, and a mountain range fills the distant background.
+end of description
+Subsequently, the viewpoint slowly progresses forward along the path. As the camera advances, the white vehicle, initially visible to the far left, moves further to the left and is increasingly obscured by the trees that were closer to the viewer in the first frame. The path ahead and the river on the right appear to draw slightly closer, their banks moving towards the center of the frame as the first-frame viewpoint advances through the scene.
+frame_0000000640-frame_0000000768:
+The first frame displays a dirt path extending forward, bordered by a dense forest of autumn-colored trees on the left and a river with white rapids to the right, beyond which a mountain range is visible in the distance under a partly cloudy sky.
+end of description
+As the frames progress, the viewpoint moves steadily forward along the path. A white vehicle and a picnic table are gradually revealed and become clearer on the left side, previously obscured deeper within the forest. The river and distant mountains remain visible on the right and ahead respectively, maintaining their spatial positions relative to the first-frame viewpoint.

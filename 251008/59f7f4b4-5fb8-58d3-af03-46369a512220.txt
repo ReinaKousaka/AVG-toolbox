@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+In the first frame, a wet urban street with a yellow and white striped crosswalk dominates the foreground, leading to a road curving right. To the viewer's right, a partially visible white car is parked behind a light blue/silver car, while a green hedge, potted plants, and orange traffic cones line the left sidewalk, backed by trees and a grey building with a '10 km/h' speed limit sign.
+end of description
+Chronologically, the light blue/silver car then the white car move forward and out of view to the right, revealing the empty parking spots. Subsequently, a yellow taxi becomes visible in the far distance to the right, also moving away from the viewpoint.
+frame_0000000128-frame_0000000256:
+A wet asphalt road with a yellow centerline curves from the bottom left towards the background right. To the left, a concrete sidewalk borders a low green hedge, behind which a row of trees lines a grey building. A red and white '10km' sign is positioned above the hedge on the left. On the right side of the road, four potted green plants alternate with four orange traffic cones, leading into the distance where a light orange building and parked cars are visible.
+end of description
+Throughout the subsequent frames, the scene remains static except for increasingly visible vertical streaks of rain falling across the frame, becoming more pronounced against the road and distant building, indicating continuous rainfall.
+frame_0000000256-frame_0000000384:
+In the first frame, a wet asphalt road stretches from the foreground into the distance, marked by a continuous yellow line along its right edge. To the left of the road, a gray sidewalk runs parallel, backed by a low green hedge. A row of five potted green bushes, each with an orange traffic cone and a red-on-white sign behind it, lines the left side of the road extending into the mid-distance. Behind the hedge and sidewalk on the left, a large, light-colored building is partially visible, obscured by a line of tall green trees. In the far distance to the right, a peach-colored building with green trim stands, and a white car is visible near a yellow and black striped barrier slightly to the left of it.
+end of description
+There are no dynamic changes or newly revealed objects or scenes across the subsequent frames; the entire composition remains static.

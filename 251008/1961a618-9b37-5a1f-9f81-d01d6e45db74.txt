@@ -1,0 +1,26 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a city sidewalk and street with people walking and cars driving. In the foreground, a man in a suit walks left, while a man on a phone and a woman with a bag approach the viewer, and another man with a backpack stands near a CVS store on the right, with a person bending behind him.
+end of description
+Throughout the subsequent frames, the people on the sidewalk continue to move, with the man in the suit progressing further left into the street and the approaching pair walking past the viewer's immediate position. Concurrently, the backpacked man turns towards the street, lifts his phone, and the person in yellow behind him stands up before moving out of frame to the right, behind the backpacked man.
+frame_0000000128-frame_0000000256:
+On a city sidewalk, a man in a white cap and black backpack holds a phone mid-right, while another man in a dark suit walks away left towards a street with traffic and buildings beyond; a public kiosk is visible further down the sidewalk on the left.
+end of description
+Subsequently, the man in the dark suit continues walking left and away, as the man in the white cap shifts further right and away from the first-frame viewpoint. A person in a bright green shirt, bent over against the building wall to the right of the original viewpoint, is progressively revealed, with a white item and a red can appearing on the ground beside them.
+frame_0000000256-frame_0000000384:
+In the first frame, a city sidewalk scene unfolds with a person in a dark suit walking away from the viewer towards the mid-left, past a busy street with cars and distant buildings on the left. To the immediate right, a person in a neon yellow shirt is bent over near a dark building with glass storefronts, with red bottles and a white cloth on the ground beside them.
+end of description
+In subsequent frames, the person in the dark suit continues to walk further away from the viewer along the sidewalk. The individual in the yellow shirt to the right maintains their bent-over posture, and the street traffic visible to the left also displays subtle movement.
+frame_0000000384-frame_0000000512:
+A person in a dark suit walks away from the viewer on the left side of a city sidewalk, adjacent to a street with vehicles and a light pole. To the person's right, the sidewalk extends forward past a bus shelter with a blue advertisement, leading to distant buildings and other pedestrians, while a building with a visible CVS sign runs along the right.
+end of description
+The person in the dark suit continues walking forward, moving further from the viewer and slightly to the left from the first-frame viewpoint, progressively revealing more of the bus shelter and the sidewalk behind them. Cars on the street to the left also appear to shift or new ones become visible as the foreground person advances.
+frame_0000000512-frame_0000000640:
+The first frame captures a street scene with a man in a dark suit seen from behind, walking away from the viewer on the left foreground. To his left, a bus stop shelter with an advertisement, followed by a closed street-level entrance and a street pole with signs, extends into the mid-ground. On the right, a building wall with large windows parallels the sidewalk, leading towards other pedestrians and distant buildings down the street, all under a clear sky.
+end of description
+In subsequent frames, the man in the suit continues walking forward relative to the first-frame viewpoint, progressively moving out of the frame towards the left. The rest of the urban street scene remains largely unchanged.
+frame_0000000640-frame_0000000768:
+The first frame shows a concrete city sidewalk stretching into the distance, flanked by buildings. To the right, a dark facade displays a 'CVS pharmacy' sign in a window, while on the left, a structure with a roll-down door is adjacent to a subway entrance with green railings and a lamppost; several pedestrians walk away further down the street.
+end of description
+As the viewpoint subtly advances forward, more of the street to the left of the subway entrance becomes visible. Subsequently, a black scooter or motorcycle emerges on this street and moves across the mid-ground from left to right, while the distant pedestrians continue to recede.
+frame_0000000768-frame_0000000896:
+The first frame depicts a city sidewalk extending forward, bordered on the right by a building facade featuring a red CVS Pharmacy sign in a window. To the left, a dark metal subway entrance railing sits alongside a street with parked cars and a person on a scooter moving away, while a pedestrian walks further down the sidewalk, with tall buildings lining the distant street under a clear sky. end of description. Subsequently, the scooter moves further down the street to the left and out of view, as new cars emerge and pass. The initial pedestrian continues walking forward, and a cyclist along with additional pedestrians become visible further ahead on the sidewalk.

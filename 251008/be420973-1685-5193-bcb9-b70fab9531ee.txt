@@ -1,0 +1,11 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a village street extending into the distance towards tree-covered mountains under a bright blue sky. Traditional multi-story wooden buildings line both sides; a prominent timber-framed shop on the left displays merchandise under a striped awning, while on the right, pedestrians walk along a sidewalk beside another wooden building. A dark car is visible on the street further down from the viewer.
+end of description
+In subsequent frames, the dark car on the street moves continuously further away from the viewer. Concurrently, the group of pedestrians on the right sidewalk also progresses further into the distance, away from the viewer's position. A light-colored SUV emerges on the street behind the dark car, also moving away from the viewer.
+frame_0000000128-frame_0000000256:
+The first frame displays a narrow village street with multi-story wooden buildings lining both sides, featuring storefronts and balconies. A black SUV and a blue car are on the road, with pedestrians visible on the right sidewalk, all set against a backdrop of a forested mountain and a clear blue sky.
+end of description
+As the sequence progresses, the black SUV moves significantly closer to the viewer, becoming larger and revealing its front license plate. Concurrently, the blue car further down the street also advances forward, while the pedestrians on the right sidewalk continue walking from right to left across the frame. No new scenes or objects are revealed; the primary change is the movement of existing vehicles and people relative to the static viewpoint.
+frame_0000000256-frame_0000000384:
+The first frame captures a charming street lined with multi-story wooden buildings on both the left and right, under a bright blue sky with distant mountains in the background. In the foreground, a dark blue SUV is partially visible on the lower left, while a lighter blue car drives away in the midground on the road. On the right sidewalk, two people stand near a shop. end of description.
+As the frames progress, the foreground dark blue SUV moves forward and exits the scene to the upper left, revealing colorful sleds on display on the sidewalk where it was parked. Concurrently, the midground blue car continues driving further away from the viewer down the street.

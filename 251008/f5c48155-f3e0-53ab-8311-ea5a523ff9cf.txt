@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+A street scene shows concrete steps and a metal handrail in the foreground right, leading to a paved area with yellow "BUS" markings. Across this area, several multi-story buildings with balconies adorned with pink flowers line the background, overlooked by distant green mountains under a blue, cloudy sky. A white van is parked mid-ground near the buildings, and a few pedestrians walk on the left side of the paved area.
+end of description
+Subsequently, the parked white van drives towards the right, moving past the buildings and exiting the frame. Concurrently, a yellow bus appears from the far left of the paved bus stop, proceeding right as people continue walking across the mid-ground.

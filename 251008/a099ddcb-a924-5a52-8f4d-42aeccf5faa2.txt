@@ -1,0 +1,28 @@
+frame_0000000000-frame_0000000128:
+In the first frame, the viewer is positioned above a set of train tracks extending into the distance. To the immediate right, another set of parallel tracks runs alongside an elevated platform, behind which stands a large dark building and a lighter brown building. To the left, a gravel area with a small fence, lampposts, and a parking lot filled with cars recedes into the background, beneath a treed, sloped hill. Overhead, power lines and support structures span across the tracks under an overcast sky.
+end of description
+As the viewpoint moves forward along the tracks, the gravel area, fence, and parking lot on the left recede to the left-rear relative to the initial position. Simultaneously, the buildings and platform on the right move towards the right-rear, continuously revealing new sections of the tracks and the urban landscape ahead.
+frame_0000000128-frame_0000000256:
+The first frame presents a view looking down railway tracks, which extend centrally into the distance under an overcast sky. To the left, a gravel area leads to a small shed, a parking lot with cars behind a fence, and a sloped hill with trees and houses. To the right, multiple parallel tracks, a train platform, and multi-story buildings with storefronts are visible, with catenary lines spanning overhead.
+end of description
+The viewpoint consistently moves forward along the central tracks. Catenary poles and overhead lines continuously approach and pass the viewer, while the buildings on the right and the parking lot/hillside on the left recede towards the frame's edges, revealing more of the onward railway environment.
+frame_0000000256-frame_0000000384:
+The first frame depicts a railway perspective with two sets of tracks stretching into the distance under an overcast sky, flanked by overhead lines, poles, a parking lot with cars and a hillside on the left, and a station platform with multi-story buildings on the right.
+end of description
+The viewpoint steadily advances along the central tracks, causing elements on the left, such as the parking lot and its cars, and structures on the right, like the platform and buildings, to shift backwards and gradually exit the frame. Simultaneously, new portions of the parking area, additional vehicles, and further sections of the platform and building facades continuously emerge from the distant foreground, moving towards and then past the viewer.
+frame_0000000384-frame_0000000512:
+The first frame presents a view down two sets of train tracks curving slightly right, flanked on the left by a parking lot filled with cars and a tree-covered hill with houses, and on the right by a platform alongside a multi-story brick building with scaffolding. Overhead power lines span the tracks, and a yellow signal post is visible near the right track in the foreground.
+end of description
+As the frames progress, the viewpoint steadily moves forward along the tracks. Consequently, the yellow signal post to the right and the cars in the parking lot to the left move progressively closer and then out of the frame towards the bottom, shifting from their initial positions relative to the viewer. The surrounding landscape and buildings on both sides continually advance, revealing new sections of the track and drawing previously distant structures nearer to the original first-frame viewpoint.
+frame_0000000512-frame_0000000640:
+The first frame presents two train tracks extending forward and curving right, flanked by an overhead line support pole on the immediate left. To the left, a parking lot with numerous cars and houses on a hill is visible, while to the right, a train platform runs alongside multi-story buildings, one featuring scaffolding, all under overhead electrical lines and an overcast sky.
+end of description
+As the frames progress, the viewpoint moves forward along the tracks. The parking lot, buildings, and other static elements recede to the sides and behind the initial viewpoint, revealing new sections of the trackside environment and another overhead line support pole ahead.
+frame_0000000640-frame_0000000768:
+The first frame depicts a train track view with two sets of tracks curving rightward into the distance, bordered by a gravel path. To the left, a parking lot with numerous cars and a snowy hillside with houses is visible, while to the right, a train platform parallels the tracks, alongside a large building featuring both dark and wooden facades.
+end of description
+As the viewpoint advances along the tracks, the cars in the parking lot and the building on the right progressively move past and behind the initial viewpoint. The distant railway infrastructure and landscape ahead become increasingly prominent and closer to the viewer.
+frame_0000000768-frame_0000000896:
+The first frame displays a view directly down two parallel railroad tracks that gently curve to the right in the distance, with overhead power lines and gantries spanning above. Immediately to the left of the tracks lies a parking lot with numerous cars, backed by a snow-dusted hillside dotted with houses and trees, while to the right, a train platform runs alongside multi-story buildings, one appearing to be under construction.
+end of description
+As the frames progress, the viewpoint moves forward along the tracks; the parking lot, cars, and hillside scenery on the left recede and eventually exit the scene to the viewer's left. Simultaneously, the train platform and buildings on the right recede and move past the first-frame viewpoint to the right, as the distant track curvature and structures approach.

@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a wet, reflective city pavement stretching into the distance under an overcast sky. To the left, a modern building with a glass-enclosed entrance recedes, while to the right, a line of orange and clear-plastic covered market stalls, along with two white containers in the foreground, extends away. Several pedestrians, holding white, brown, and bright green umbrellas, walk into the mid-ground along the street, with tall city buildings and vehicles visible further down.
+end of description
+As the frames progress, the pedestrians with umbrellas continue to move further away from the viewer into the distance. The person with the bright green umbrella, initially in the mid-ground right, traverses past the stationary orange market stall on the right, progressively receding into the far distance along the street.
+frame_0000000128-frame_0000000256:
+A wet city street extends forward from the viewer, lined by buildings on the left with storefronts and, on the right, an overhead shelter and an orange-tarped stall. Pedestrians with white, beige, and bright green umbrellas walk away from the viewer in the mid-ground, past a silver car in the street.
+end of description
+As frames progress, pedestrians with white, beige, and bright green umbrellas continue moving forward, further down the street from the viewer. A new person with a dark umbrella emerges from the right mid-ground, also walking away from the first-frame viewpoint. The silver car in the street additionally moves slightly forward.
+frame_0000000256-frame_0000000384:
+The first frame depicts a rainy urban street. To the immediate left, a large, closed storefront with white panels is visible. On the right, a tall, orange tarp-covered structure, likely a market stall, occupies the foreground. A wet, reflective street stretches into the distance, flanked by buildings displaying Korean signs, including "PIZZA PASTA" and "CU". Several people holding white, beige, and green umbrellas are walking away from the viewer down the street, with a silver van parked mid-distance on the right.
+end of description
+The camera's perspective subtly shifts forward. People holding umbrellas continue walking away into the distance, while vehicles, including the silver van and a dark bus, slowly move further down the street on the right side. A manhole cover on the wet pavement becomes more prominent in the center-left foreground.

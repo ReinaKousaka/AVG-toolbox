@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+A two-lane road curves gently to the right in the foreground, featuring a white car visible further down the road. To the left, a forested mountainside displaying autumn colors borders the road, while a dense evergreen forest with interspersed yellow foliage flanks the right, where a yellow animal crossing sign stands. A clear blue sky with some scattered clouds is overhead, and distant mountains loom on the far left.
+end of description
+As the viewpoint moves forward along the road, the yellow animal crossing sign on the right recedes towards the right edge of the frame, eventually passing behind the first-frame viewpoint. The white car in the distance maintains its relative position as new sections of the curving road and surrounding autumnal and evergreen forests are revealed ahead.
+frame_0000000128-frame_0000000256:
+The first frame shows a paved road curving gently to the right, leading into the distance. To the left, a low wall or guardrail borders the road, beyond which are trees with yellow autumn leaves and a large mountain range in the far distance; a light-colored car is visible in the distant left lane. To the right, an uphill slope is densely covered with evergreen trees and some deciduous trees with yellow foliage, all under a clear blue sky.
+end of description
+As the frames progress, the viewer moves forward along the road. The light-colored car ahead recedes further into the distance. More of the roadside vegetation and the curving road itself are continuously revealed directly in front of the viewer, while the initial trees and mountains to the left and right shift past the viewpoint.

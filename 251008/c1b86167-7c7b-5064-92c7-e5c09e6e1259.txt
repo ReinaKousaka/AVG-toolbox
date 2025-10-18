@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+A bearded man stands center-frame with arms outstretched on a paved street, a sidewalk visible to his left and part of a yellow and black van to his right. Behind him, modern multi-story buildings line the street: a dark grey one with garage doors on the left, and a lighter one with balconies in the center, separated by a line of trees from more buildings and parked cars further right.
+end of description
+The man dynamically changes his arm poses from outstretched to pointing his right arm right, then upwards, and finally extending it directly towards the viewer. He then lowers his arm and glances left, all while remaining in the same central position relative to the first-frame viewpoint with no other changes to the surrounding scene.

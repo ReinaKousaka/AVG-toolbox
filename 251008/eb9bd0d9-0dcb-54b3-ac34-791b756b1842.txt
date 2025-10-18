@@ -1,0 +1,29 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a train track curving right through a mountain valley, with a parallel road and guardrail to the left, distant snow-capped peaks, and a steep, rocky hillside with utility poles to the right.
+end of description
+The viewpoint continuously moves forward along the tracks. Objects on both sides, including the road, guardrail, hillside, and utility poles, appear to approach the viewer and then recede, revealing new sections of the valley and trackside environment as the train progresses.
+frame_0000000128-frame_0000000256:
+The first frame displays train tracks curving to the right in the center, bordered by a guardrailed road on the left and a rocky mountain face on the right, with a prominent utility pole positioned next to the tracks on the right, all set against distant snow-capped mountains.
+
+end of description
+
+As the train moves forward, objects initially present in the mid-ground of the first frame, such as the utility pole and portions of the guardrail and road, recede towards the sides and eventually move behind the original viewpoint. Concurrently, new segments of the rocky mountain face to the right and the road on the left, previously unseen further up the valley from the initial position, continuously emerge into view from ahead. The distant snow-capped mountains, initially in the far background, gradually become relatively closer as the train progresses deeper into the valley past the first-frame's position.
+frame_0000000256-frame_0000000384:
+The first frame displays a forward view along train tracks curving slightly left into a mountainous valley, flanked by a massive rocky slope on the immediate right and a road running alongside a body of water on the left, with distant red buildings and snow-capped peaks in the background.
+end of description
+As the viewpoint advances along the tracks, the rocky terrain and utility poles on the right progressively recede. A prominent light-barked tree emerges from the right mid-ground and passes the viewer, while the road, water, and distant buildings on the left continuously shift further into the background relative to the forward-moving perspective.
+frame_0000000384-frame_0000000512:
+The first frame presents a forward view along railway tracks that curve gently left into a valley. To the immediate left, a paved road with a guardrail runs parallel, bordered by a dark body of water, distant bare trees, and a small red building, all against a backdrop of snow-capped mountains. On the right, a rugged, rocky mountainside rises steeply, paralleling the tracks. Overhead, power lines stretch towards the distant horizon under a bright, overcast sky, flanked by more snow-dusted mountains in the far background.
+end of description
+As the frames progress, the viewpoint moves forward along the train tracks. The foreground tracks from the initial frame recede, while the road and guardrail on the left advance towards and past the viewer, revealing new stretches of the road and valley on the left ahead. Simultaneously, the rocky mountainside on the right also moves past, exposing more of its rugged features and a tall power pole, initially further down the track on the right, which gradually approaches and then passes the viewer with its overhead lines. The overall perspective shifts as the train travels deeper into the mountain pass.
+frame_0000000512-frame_0000000640:
+The first frame shows a train track stretching into the distance, framed by a paved road with a guardrail to the left and a steep, rocky mountainside to the right, with a small settlement visible mid-ground left, all set within a valley beneath towering, snow-capped mountains.
+end of description
+The viewpoint dynamically moves forward along the tracks, causing the parallel road, guardrail, and rocky terrain to continuously recede into the background. New sections of power poles emerge from the front-midground and pass by to the sides, while the distant mountains remain stationary, revealing more of the winding track ahead.
+frame_0000000640-frame_0000000768:
+The first frame displays a railway track receding into the distance, curving slightly right, flanked by a rocky embankment on the right and a parallel paved road with a guardrail on the left, beyond which lies a river, bare trees, and buildings, all against a backdrop of snow-capped mountains.
+end of description
+As the viewpoint advances, immediate rocky terrain on both sides, particularly a large rock on the left foreground and an overhead power pole on the right, progressively move out of frame to the sides and behind the viewer. The red building, originally on the left mid-ground, and the curve in the tracks ahead become more prominent as the train approaches them, while the distant snow-capped mountains on both sides appear to envelop the scene.
+frame_0000000768-frame_0000000896:
+From a train's perspective, tracks lead centrally into a valley flanked by a paved road and fence to the left, and a rocky hillside with a yellow '354' sign to the right, all beneath snow-dusted mountains in the distance and a cluster of buildings ahead. end of description.
+As the viewpoint moves forward, the immediate foreground scenery shifts, revealing new sections of the tracks and road. The rocky embankment on the right, including the '354' sign, gradually recedes and exits the frame to the right. Overhead wires and utility poles appear closer on the left, while the distant buildings and snow-capped mountains steadily approach.

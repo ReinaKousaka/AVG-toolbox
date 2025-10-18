@@ -1,0 +1,33 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a vast mountainous landscape under a clear blue sky. A vibrant green grassy hillside dominates the foreground and midground, sloping upwards from the lower left towards the mid-right, where it is deeply cut by a steep, barren grey gully. Clusters of dark green pine trees are visible on the lower-left slope and scattered along the upper edge of the gully, while distant forested valleys and snow-capped peaks are visible in the far background to the left.
+
+end of description
+No dynamic changes or newly revealed objects occur in the subsequent frames; the scene remains static from the initial viewpoint.
+frame_0000000128-frame_0000000256:
+The first frame displays a vibrant alpine landscape under a clear blue sky, dominated by a steep, grass-covered hillside with a prominent grey-brown rock erosion extending from the mid-ground to the right, and clusters of dark green coniferous trees on the left and upper slopes. In the background, distant, forested mountains rise against the horizon.
+
+end of description
+
+Across the subsequent frames, the camera subtly zooms out and slightly pans upwards, causing the entire landscape to appear marginally smaller and revealing more of the clear blue sky above and the lower grassy slope in the foreground.
+frame_0000000256-frame_0000000384:
+The first frame displays a scenic mountain landscape under a clear blue sky. In the foreground and mid-ground, vibrant green grassy hills with scattered conifer trees flank a steep, greyish-brown landslide scar. Distant mountains, some snow-capped, and dark green forests are visible on the horizon to the left.
+end of description
+No dynamic changes or newly revealed objects are observed in the subsequent frames; the scene remains static from the initial viewpoint.
+frame_0000000384-frame_0000000512:
+The initial frame presents a sprawling mountainous landscape under a bright blue sky, with a steep, barren earthy slope dominating the mid-right foreground. Above this slope, a verdant green ridge populated by scattered pine trees and a small fence extends leftward towards distant rolling green hills, a dark forested valley, and majestic snow-capped peaks in the background.
+end of description
+The following frames show a barely perceptible, slow upward tilt or very slight zoom out, subtly expanding the view of the green grassy slopes and the upper edge of the rocky incline directly in front of the viewer, without revealing any entirely new elements relative to the first frame's viewpoint.
+frame_0000000512-frame_0000000640:
+In the first frame, a steep, grayish-brown rocky slope, partially covered by green grass, occupies the right foreground and extends towards the center. To the left of this, a vibrant green grassy hillside rises, featuring a line of fence posts along its crest, where a lone conifer tree stands with a cluster of three more conifers further right. In the distant background, majestic mountains, some with visible snow, emerge above dark green forests. The scene is set under a clear blue sky.
+
+end of description
+
+Over the subsequent frames, the camera executes a very subtle, slow zoom out while simultaneously panning slightly to the left. This gradual movement marginally expands the view, revealing a bit more of the distant mountains and forested valleys on the far left side of the scene.
+frame_0000000640-frame_0000000768:
+In the first frame, a steep, dark, rocky slope covered with sparse green patches dominates the foreground, rising from the bottom edge towards the mid-right. Above this, a lush green grassy hill slopes upwards to the right, featuring a prominent tall coniferous tree centrally located and several others to its right. A fence line runs along the crest of the rocky slope, extending from the mid-left to the mid-right. Further back and to the left, a dense forest fills a valley, bordered by a range of distant mountains with rocky peaks under a clear blue sky in the background.
+end of description
+As the frames progress, the viewpoint shifts slightly to the left and downward, revealing more of the scene towards the left of the original view. The foreground rocky slope gradually moves towards the right out of view, and the grassy hill on the left side expands. A small building, previously concealed behind the initial scene's left edge, becomes visible in the far mid-ground to the left of its original implied position within the valley forest. The fence line also extends further left, revealing more posts as the camera pans.
+frame_0000000768-frame_0000000896:
+A rocky, sparsely vegetated slope with a wooden fence line stretches across the foreground from bottom-left to mid-right. Behind it, a steep, vibrant green grassy hill rises, featuring a tall coniferous tree towards the right-center and a smaller one to its left. In the distance, a dense forest fills a valley to the left, backed by a majestic range of green and grey mountains with some snow-capped peaks under a clear blue sky.
+end of description
+The view slowly pans left and slightly downwards, causing the foreground rocky slope to recede rightward and the tall coniferous tree to shift further right. This movement reveals more of the lush green hillside, with a distinct patch of lighter green vegetation emerging to the left of the tall tree on the slope, while the distant mountain range subtly shifts left.

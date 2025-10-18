@@ -1,0 +1,20 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a wet city street at night, with a dark car partially visible in the foreground left and a black and pink taxi in the midground right, both facing away from the viewer. Illuminated buildings like 'BALTHAZAR' (left) and 'COACH & HORSES' (right) line the sidewalks, where pedestrians are visible.
+end of description
+In subsequent frames, the black and pink taxi moves forward and to the right, progressively exiting the frame. The foreground car and the overall street scene remain largely static as the taxi fully disappears from view by the final frame.
+frame_0000000128-frame_0000000256:
+The first frame depicts a wet, illuminated city street at night, with the asphalt road curving slightly towards the center foreground and marked with yellow and white lines. On the left, a sidewalk features several pedestrians walking away from the viewer, alongside a building with a red 'BALTHAZAR' banner and an ornate lamp. In the mid-ground, a black taxi with its headlights on is positioned slightly right of center, while other vehicles and illuminated buildings line the street into the distant darkness.
+end of description
+The black taxi in the mid-ground begins moving forward towards the viewer and turns right, its headlights brightening significantly. Concurrently, a pedestrian emerges from the right side of the frame and begins crossing the street directly in front of the taxi, moving towards the left. As the taxi continues its rightward turn and draws closer to the viewer, another person becomes visible appearing to exit or enter its right side, while pedestrians on the left sidewalk continue moving away from the viewer.
+frame_0000000256-frame_0000000384:
+The first frame captures a wet city street at night, illuminated by numerous building and streetlights. A black taxi with advertising is prominent in the right foreground, angled left, while a pedestrian crosses a zebra crossing from left to right in the midground. Several people stand on the left sidewalk, and another car with headlights is visible further down the street on the left.
+end of description
+The black taxi swiftly moves from the right foreground towards the left background, exiting the frame. Concurrently, the initial pedestrian finishes crossing to the right sidewalk, and a new pedestrian then appears from the right to begin crossing the street towards the viewer's left on the zebra crossing.
+frame_0000000384-frame_0000000512:
+The first frame shows a wet, illuminated night street with a blonde person in a dark coat walking across a central zebra crossing from left to right. To the far left stands a yellow pedestrian signal pole, while a dark grey car with headlights approaches from the mid-distance, moving towards the viewer's left; on the right, a white building with a lit pub occupies the foreground pavement, where another pedestrian walks. Buildings line the street into the dark background, illuminated by shop and streetlights.
+end of description
+Chronologically, the central blonde pedestrian continues moving to the right across the crossing, and the dark grey car advances closer to the viewer, moving further into the foreground. Other distant pedestrians also move further along the street.
+frame_0000000512-frame_0000000640:
+The first frame displays a dark, wet city street at night, with a small grey car in the foreground, slightly right of center, facing the viewer with its headlights on. Behind it, a dark sedan with illuminated headlights approaches a pedestrian crossing further down the street, flanked by illuminated buildings and a Belisha beacon on the left.
+end of description
+The grey car moves swiftly towards the bottom right, exiting the frame. Concurrently, the dark sedan advances over the pedestrian crossing, its headlights casting reflections on the wet road, while more pedestrians and a row of bicycles become clearly visible on the right-side pavement as the sedan moves forward.

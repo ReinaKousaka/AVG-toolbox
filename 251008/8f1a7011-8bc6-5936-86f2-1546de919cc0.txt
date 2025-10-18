@@ -1,0 +1,15 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a wet sidewalk extending forward, with a white construction wall bearing a large colorful graphic on the viewer's right. To the viewer's left, a wet road runs parallel, featuring a guardrail, trees, and a yellow bus parked in the mid-ground, all leading towards two tunnel entrances in the distance under a grey sky. end of description
+In subsequent frames, the yellow bus, initially parked on the left side of the road, slowly pulls forward and moves away from the viewer, eventually entering the nearer tunnel to the left until it is largely out of sight.
+frame_0000000128-frame_0000000256:
+In the first frame, a wet paved road and sidewalk stretch away from the viewer. To the viewer's immediate right, a sidewalk with yellow tactile paving extends into the distance, bordered by a large white billboard with Korean text. To the viewer's left, a multi-lane road with a white guardrail leads towards two prominent tunnel entrances, with a yellow bus parked near the left tunnel entrance, partially obscured by trees and a utility pole in the central-left foreground. The scene is overcast with green hills in the background.
+
+end of description
+
+As frames progress, the yellow bus moves forward and slightly to the right relative to its initial position, eventually revealing its rear license plate "G1230." Simultaneously, cars on the road to the left continue moving away from the viewer into the tunnel, while the camera slowly pans slightly to the left, revealing more of the left tunnel entrance and less of the billboard on the far right of the scene. The wet conditions and overcast sky remain constant throughout.
+frame_0000000256-frame_0000000384:
+The first frame presents a wet asphalt road on the left, leading to an arched tunnel entrance in the background, with a guardrail and a dark pole visible in the foreground. Parallel to the road on the right is a paved sidewalk with tactile strips, bordered by a translucent wall and small trees. A yellow bus is parked on the road's shoulder, partially obscured by these trees, with a second, similar tunnel visible further down the road to the right.
+
+end of description
+
+Beginning from the second frame, the yellow bus gradually moves forward, away from the viewer along the right side of the road. As it progresses towards the distant tunnel, more of its rear becomes visible, ultimately revealing its license plate and full tail lights by the final frames.

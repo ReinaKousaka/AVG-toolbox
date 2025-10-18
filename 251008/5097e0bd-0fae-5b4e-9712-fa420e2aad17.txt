@@ -1,0 +1,30 @@
+frame_0000000000-frame_0000000128:
+In the first frame, a paved road curves gently uphill and to the right from the immediate foreground. To the viewer's left, a tall, dark rock wall runs alongside the road, and to the right, a wooden guardrail parallels the road. Beyond the guardrail, a vibrant green hillside slopes down towards a picturesque village with numerous houses nestled by a body of water in the midground. Majestic, tree-covered mountains rise in the background, with distant snow-capped peaks visible under a partly cloudy sky.
+
+end of description
+
+As the frames progress, the viewpoint moves forward along the curving road. The rock wall on the left and the wooden guardrail on the right appear to advance closer, revealing more of their textures. The village and distant mountains subtly shift their perspective, moving further into the background relative to the advancing viewpoint.
+frame_0000000128-frame_0000000256:
+The first frame presents a paved road curving right, flanked by a tall, dark rock wall with steps leading up on the left and a wooden guardrail on the right, atop a grassy slope. In the midground to the right, a colorful village is nestled against steep, tree-covered mountains, with a blue-green lake and snow-capped peaks visible in the far background.
+end of description
+As the viewpoint moves forward along the road, the rock wall on the left and the wooden guardrail on the right progressively reveal more of their length ahead of the initial position. Concurrently, the steps on the left recede out of view, and the village and lake in the mid-to-far ground appear to approach the first-frame viewpoint.
+frame_0000000256-frame_0000000384:
+The first frame shows the viewer on a wet asphalt road curving to the right, with a tall concrete retaining wall covered in moss and grass immediately to the left. To the right, a wooden fence lines a grassy slope leading down to a village of colorful houses, with a large lake and majestic mountains, some with snowy peaks, visible in the distant background.
+end of description
+As the frames progress, the viewpoint moves forward along the curving road, causing the concrete wall on the left to pass by dynamically. Objects to the right, including the village, lake, and mountains, shift their relative positions and a drain cover becomes visible on the road surface to the right.
+frame_0000000384-frame_0000000512:
+The first frame displays a narrow paved road curving gently to the right, flanked by a tall, dark grey rock face with sparse green vegetation on the left. To the right, a wooden guardrail overlooks a vibrant village with colorful houses nestled beside a serene blue lake, all set against a backdrop of majestic mountains with snowy peaks under a partly cloudy sky.
+end of description
+As the frames progress, the viewpoint slowly moves forward along the road, causing the prominent rock face on the left to gradually recede. This forward motion also makes the village and the distant lake appear incrementally closer to the viewer, with no entirely new objects or scenes being revealed.
+frame_0000000512-frame_0000000640:
+The first frame displays a narrow paved road curving gently to the right, bordered on the left by a tall, rough rock wall, partially overgrown with green foliage. To the right of the road, a wooden railing separates it from a downward slope leading to a village composed of numerous colorful houses. Beyond the village, a serene blue lake stretches towards majestic snow-capped mountains under a partly cloudy sky, with densely forested mountains framing the background on both sides.
+end of description
+The scene initially remains static for the first few frames. In subsequent frames, a person emerges, standing on the right side of the road, positioned near the wooden railing and looking out towards the lake and village. This individual remains relatively stationary in this newly revealed position in front of the village houses.
+frame_0000000640-frame_0000000768:
+In the first frame, a dark rock wall occupies the immediate foreground to the left of the viewer. An asphalt road curves gently to the right, extending into the mid-ground, bordered on its right by a low wooden fence. Beyond the fence, a man in a black shirt and tan pants leans against the railing, facing away from the viewer towards a picturesque village with colorful houses nestled by a tranquil lake. Majestic mountains, some snow-capped, rise dramatically in the background behind the lake, while a lush green hillside with scattered trees and power lines frames the upper-left.
+end of description
+The man initially standing on the right side of the road, leaning on the fence, shifts his posture slightly before disappearing entirely by the sixth frame. Subsequently, a triangular metal structure becomes visible on the grassy hillside to the left, behind the former position of the man, becoming more centered and appearing closer as the viewpoint advances slightly forward.
+frame_0000000768-frame_0000000896:
+The first frame displays a wet asphalt road curving gently left in the foreground, bordered on the left by a steep, grassy hillside with a wire fence. A wooden guardrail extends along the right side of the road, behind which a village with multi-colored houses and parked cars is visible to the viewer's right. In the background, a serene lake is nestled against towering green mountains, with distant snow-capped peaks under a partly cloudy sky.
+end of description
+As the viewpoint progresses forward along the road, the grassy hillside on the left appears to move closer, gradually revealing a low stone retaining wall behind the fence. A circular drain cover emerges on the left side of the road in the foreground, becoming fully visible by the ninth frame. The village, lake, and distant mountains subtly recede in the background, maintaining their relative positions as the forward motion continues.

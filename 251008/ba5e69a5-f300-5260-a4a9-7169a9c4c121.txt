@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a snow-covered path leading away from the viewer, bordered on the left by a snow bank, a dark fence, and dense leafless bushes extending to a building with a brown roof. To the right, three bare trees stand on a snow-covered verge, parallel to a multi-lane road also covered in snow, with distant buildings visible beyond. Overhead, streetlights cast a yellow glow on the continuously falling snow against a dark blue sky.
+end of description
+Across the following frames, the scene remains static; however, the continuous snowfall is distinctly visible as white specks drifting downwards and slightly to the left across the entire scene, particularly brightened by the streetlights. There are no newly revealed objects or changes in the spatial arrangement of the existing elements.
+frame_0000000128-frame_0000000256:
+The first frame depicts a snow-covered path extending forward, bordered on the left by a hedge alongside a building and on the right by a snow-dusted verge and a multi-lane road. Bare trees line the right side, while streetlights illuminate falling snow under a twilight sky, with buildings visible in the distant background.
+end of description
+In subsequent frames, a white SUV emerges from the right side of the road, moving leftward away from the viewer. The vehicle travels across the middle distance of the road, continuing its trajectory until it exits the frame to the far left.
+frame_0000000256-frame_0000000384:
+The first frame depicts a snow-covered street scene at dusk or night. A snowy sidewalk extends from the foreground into the distance, bordered on the left by a dark hedge and a building, and on the right by a snow-covered verge with bare trees and a street sign. Beyond the verge, a snow-covered road recedes, with a car displaying red taillights visible in the mid-distance. Streetlights illuminate the path, and snowflakes are actively falling.
+end of description
+The car with red taillights on the right side of the road moves further away from the viewer, gradually diminishing in size. A new, dark vehicle with prominent red taillights then emerges on the right side of the road, also traveling away from the viewer behind the initial car. Throughout the frames, snow continues to fall consistently across the entire scene.

@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a wet paved pathway extending forward, bordered by a white line on its right. To the viewer's left, a red brick and green fence runs into the distance, behind which tall green trees line the path. To the right, a curb with shrubs separates the path from a wet street with vehicles, including a red car and a bus visible further ahead, under more trees and a utility pole, while rain visibly falls.
+end of description
+Throughout subsequent frames, vehicles on the wet street to the right move forward and away from the first-frame viewpoint; a white car and a black SUV proceed down the street. The light green bus also continues moving further into the distance along the street to the right. The visible heavy rain consistently continues across all frames.
+frame_0000000128-frame_0000000256:
+The first frame depicts a rainy street scene with a wet paved sidewalk extending into a misty distance, bordered on the left by a brick and green fence and on the right by a curb, bushes, and trees alongside a wet road with vehicles.
+end of description
+Throughout the subsequent frames, heavy rain continuously falls. Vehicles move along the wet road to the viewer's right, with a green and white bus appearing in the mid-distance and traveling rightwards. A traffic light above the road in the distance changes to green. Simultaneously, a piece of white debris on the pavement, positioned to the left of the central white line, subtly shifts its position.

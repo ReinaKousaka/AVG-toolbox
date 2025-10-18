@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame displays an aerial view of a densely populated city, with countless buildings featuring varied rooftops spanning from the foreground to the distant horizon. A main road runs diagonally from the bottom-left, occupied by cars and bordering a green field in the lower-right, while a prominent multi-story building stands in the mid-left.
+end of description
+The viewpoint then slowly pans to the right and slightly pulls back, progressively unveiling more of the extensive cityscape and new structures that were previously out of frame to the right, further into the background. Concurrently, vehicles on the main road move forward, exiting towards the right.

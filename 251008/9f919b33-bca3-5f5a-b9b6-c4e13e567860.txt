@@ -1,0 +1,28 @@
+frame_0000000000-frame_0000000128:
+In the first frame, a residential street scene is depicted under an overcast sky. To the immediate left, a reddish SUV is partially obscured by a white car cover, parked in front of a multi-story house with stone-textured siding. A red rectangular post stands in front of the covered car. A paved sidewalk extends from the foreground into the midground, with two bicycles parked near a utility pole to the right of the house entrance. Further to the right of the sidewalk, a small planter with a low stone wall holds a bush, bordering a narrow asphalt road that curves slightly into the distance, lined by trees and more houses.
+end of description
+No dynamic changes, newly revealed objects, or scene alterations are observed across the subsequent frames; all frames remain identical to the first-frame viewpoint.
+frame_0000000128-frame_0000000256:
+In the first frame, a white tarp-covered car occupies the left foreground, positioned next to a two-story building whose entrance is flanked by two bicycles and a lamp post. A utility pole with a green sign stands centrally on a narrow sidewalk, which borders a low stone planter filled with greenery to its right, leading towards a curving street with distant buildings and large trees under an overcast sky.
+end of description
+As the frames progress, the viewpoint shifts forward and slightly right, causing the white car to move out of view to the left. The bicycles and lamp post on the left appear closer, and the stone planter on the right reveals a newly visible colorful mosaic pattern on its top surface as the camera advances along the sidewalk.
+frame_0000000256-frame_0000000384:
+The first frame displays two white bicycles parked near a lamppost on the left, next to a dark grey building partially obscured by a wooden fence. A utility pole with a green sign stands on a sidewalk extending towards a street on the right, bordered by foliage and a low concrete wall.
+end of description
+As the frames progress, the viewpoint moves forward and slightly right. The lamppost and bicycles exit the lower-left of the first-frame's view, while the utility pole becomes more central. New sections of the dark grey building, including a white gate now visible to the left of the utility pole's initial position, and additional text on the green sign are revealed.
+frame_0000000384-frame_0000000512:
+The first frame features a wooden utility pole with a green "School Zone" sign in the immediate foreground left, bordering a paved sidewalk extending into the midground. To the left are multi-story buildings, some dark grey and others light, with a black car partially visible beneath one; green foliage and distant buildings appear to the right and in the background under an overcast sky.
+end of description
+In subsequent frames, the camera's viewpoint shifts forward and slightly right, causing the utility pole with the green sign to exit the frame to the far left. This movement reveals more of the paved sidewalk and the multi-story buildings on its left, while the urban landscape ahead and to the right remains consistent relative to the initial viewpoint.
+frame_0000000512-frame_0000000640:
+The first frame depicts a paved sidewalk extending forward from the viewer, with a green bush, white fence, and a dark gray building to the immediate left, followed by a light gray building housing a black car partially underneath. To the right, a road parallels the sidewalk, featuring a utility pole, trees, distant buildings, and people walking further down under an overcast sky.
+end of description
+As the viewpoint advances forward, the white fence on the left recedes out of frame, revealing more of the dark gray building's facade, including an air conditioning unit and a new black mailbox attached to it, while the perspective shifts slightly right.
+frame_0000000640-frame_0000000768:
+In the first frame, a multi-story building with white and dark textured facades occupies the left side, featuring a black mailbox on a front pillar and a black car parked beneath its overhang, partially obscured by green plants. To the right, a paved sidewalk extends into the midground, alongside a utility pole and trees, leading towards a distant road where a black van is parked and other buildings are visible under a cloudy sky. Two pedestrians walk on the mid-right sidewalk, moving away from the viewer.
+end of description
+As frames progress, the black van positioned on the distant road to the right of the sidewalk slowly moves leftwards, eventually driving out of the frame. Concurrently, the two pedestrians on the sidewalk in the mid-right continue their walk further down the street, moving away from the viewer.
+frame_0000000768-frame_0000000896:
+The first frame displays a modern building to the left with white and dark grey siding, featuring a recessed car park where a black minivan is visible. A small plant and a utility box are on the building's facade, while a brick-paved sidewalk extends to the right, alongside a utility pole with wires. Two people, one pushing a blue cart, are walking away from the viewer on the sidewalk, with trees and another building complex visible further down the street under an overcast sky.
+end of description
+In the following frames, the two individuals on the sidewalk continue to move further away from the viewer, proceeding along the sidewalk to the right of their initial position near the utility pole. They consistently advance down the street, passing the point where the utility pole was originally positioned relative to the viewer, while all other elements like the building, minivan, and distant background remain static.

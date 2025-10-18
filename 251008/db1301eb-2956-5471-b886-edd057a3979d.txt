@@ -1,0 +1,29 @@
+frame_0000000000-frame_0000000128:
+A two-lane road curves to the left in the foreground, with a solid yellow line on its left edge and double white lines on the right, alongside a concrete barrier. Several blue chevron signs pointing left are positioned along the right side of the barrier, receding into the distance against a steep, densely forested hillside. In the background, more tree-covered mountains rise under a bright sky, with a large rock face visible on the upper right. end of description.
+As the viewer moves forward along the curving road, the chevron signs pass by to the left. The distant mountainous landscape on the left becomes progressively clearer, revealing a prominent rocky peak as the scene opens up to the left of the initial viewpoint.
+frame_0000000128-frame_0000000256:
+The first frame displays a paved road curving to the left in the foreground, featuring a yellow centerline and a white line marking the right edge, alongside a concrete barrier. Several blue and white chevron signs are visible on poles behind the barrier to the right, receding into the mid-ground, while dense green, tree-covered mountains flank both sides of the road, extending into the background beneath a blue sky with scattered clouds.
+end of description
+As the viewpoint moves forward, the chevron signs on the right appear closer before moving out of view. A black car emerges in the distant left side of the curving road from the third frame, steadily approaching the viewer. Simultaneously, overhead power lines become visible across the upper-left and central frame, extending across the mountainous landscape as the scene progresses.
+frame_0000000256-frame_0000000384:
+The first frame displays a winding asphalt road, with a yellow solid line and white dashed line, leading into a mountain pass. Lush green, tree-covered mountains rise on both sides, with a steep slope immediately to the viewer's left and a concrete barrier bordering the road on the right. A dark SUV is visible on the left lane, approaching from a distance, while a utility pole with two blue chevron-left signs stands on the right, behind the barrier, with power lines stretched across the upper midground. In the distant center-right, a prominent rocky mountain face is visible under a partly cloudy sky.
+
+end of description
+
+As the frames advance, the light green SUV moves steadily closer to the viewer on the left lane. The utility pole and both blue chevron signs, initially on the right, progressively move towards and then pass beyond the viewer's right side. Concurrently, new white horizontal road markings become visible on the road surface ahead, and a yellow sign briefly appears further down the road on the far right. The overall perspective indicates the viewer is moving forward along the mountain road.
+frame_0000000384-frame_0000000512:
+The first frame captures a scenic mountain road winding into a verdant valley, with a light green SUV partially visible on the road to the viewer's lower left. Steep, tree-covered rock faces flank the road, featuring a prominent concrete barrier on the right and distant peaks under a cloudy sky in the background, all beneath a diagonal overhead wire.
+end of description
+Subsequently, the SUV exits the frame to the left of the original viewpoint as the camera moves forward along the road. This progression reveals more of the winding road ahead and the deepening valley, with the initial rock face and barrier receding further into the left and right sides of the view respectively, and the overhead wire shifting left relative to the advancing perspective.
+frame_0000000512-frame_0000000640:
+The first frame displays a paved road stretching into the distance, with a steep, green-vegetated cliff face visible to the viewer's left. To the viewer's right, a concrete barrier topped with a metal guardrail runs alongside the road, beyond which dense green foliage and forested mountains rise under a partly cloudy sky, with a dark cable spanning the upper right.
+end of description
+As the viewpoint moves forward along the road, the cliff face and guardrail recede past the initial first-frame position. A small red vehicle, initially far ahead in the distance on the road, gradually approaches the first-frame viewpoint.
+frame_0000000640-frame_0000000768:
+The first frame displays a paved road stretching into the distance, bordered on the left by a large rock face and on the right by a lush green hillside with a metal guardrail. In the far distance, a small red vehicle is discernible on the road, beneath towering green mountains and a blue sky, with a black cable crossing the upper right.
+end of description
+The sequence then shows the viewer moving forward, causing the road, rock face, guardrail, and adjacent foliage to approach and recede from view to the sides. Simultaneously, the distant red vehicle progressively nears the viewer, growing larger with each frame, while the background mountains and sky remain relatively constant.
+frame_0000000768-frame_0000000896:
+The first frame displays a paved road stretching away from the viewer, marked by a yellow dashed center line. To the left, a steep, heavily vegetated mountain slope with some exposed rock runs alongside the road, while a metal guardrail and dense green foliage line the right, with a utility pole further ahead. In the far distance on the road, a small red SUV is visible, heading towards the viewer, all set against a backdrop of forested mountains and a blue sky with scattered clouds.
+end of description
+As the frames progress, the viewer's perspective moves forward along the road, making the red SUV appear increasingly closer, approaching from its initial distant position. Simultaneously, the green mountain slopes on both sides and the guardrail on the right move past the viewer, indicating continuous forward motion through the mountain pass.

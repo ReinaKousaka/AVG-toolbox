@@ -1,0 +1,6 @@
+frame_0000000000-frame_0000000128:
+A paved road stretches centrally from the viewer into a deep valley, bordered by low stone walls and expansive green grassy fields on both sides. Towering, tree-covered mountains frame the valley, with a steeper peak on the left and a more distant, snow-capped range visible at the valley's end. A small wooden house is nestled among trees to the right of the road in the middle distance, all under a blue sky with scattered clouds.
+end of description
+The viewpoint slowly moves forward along the paved road, progressing deeper into the valley towards the distant mountains.
+frame_0000000128-frame_0000000256:
+The first frame presents a paved road extending into a mountain valley, bordered by low stone walls and vibrant green grassy fields. Steep mountains covered in trees rise on the left, while a rocky face rises on the right, with a small wooden cabin visible among trees on the right. Distant snow-capped peaks line the horizon under a blue, partly cloudy sky. end of description. As the viewpoint moves continuously forward along the road, the stone walls originally in the foreground progressively recede past the initial viewpoint's position, towards the sides and behind it. The grassy fields and the cabin on the right, initially in the mid-distance, gradually appear closer as the camera approaches and then passes them.

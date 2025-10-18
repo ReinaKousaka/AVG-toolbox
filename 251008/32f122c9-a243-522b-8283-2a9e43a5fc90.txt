@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a wide aerial view of rolling forested mountains bathed in warm, low-angle sunlight, suggesting autumn. A large, dark shadow occupies the bottom right foreground, cast by an unseen structure or deeper valley closer to the viewer. Across the midground, multiple undulating hills are densely covered with a mix of evergreen and deciduous trees displaying vibrant green, yellow, and orange fall foliage, with a faint, lighter winding path or road visible horizontally across them. The background reveals more distant forested mountains receding into the horizon, beneath a clear, light blue sky.
+end of description
+The following frames show the exact same static scene without any dynamic changes. No objects move, nor are any new elements or scenes revealed, as the viewpoint and lighting remain constant throughout.
+frame_0000000128-frame_0000000256:
+The first frame displays an expansive aerial view of undulating, forested hills stretching from the mid-ground towards a hazy background, beneath a light blue sky. The hills are densely covered with a mosaic of green and vibrant yellow-orange autumnal trees. A large, dark shadow dominates the lower right and central foreground of the scene, partially obscuring the hills. A "ProArtInc" watermark is located in the bottom left corner.
+end of description
+Across the following frames, the prominent dark shadow, initially covering the lower right and central foreground hills, gradually recedes and diminishes. This progressive movement shifts the shadow towards the viewer's right, revealing more of the sunlit, densely forested hills that were previously obscured. The underlying terrain and autumnal foliage remain spatially fixed relative to the viewer, but the changing light reveals greater detail of the existing landscape.
+frame_0000000256-frame_0000000384:
+The first frame displays a vast, aerial view of rolling mountain ranges covered extensively in a dense forest, exhibiting a mix of green, golden yellow, and orange foliage, indicative of autumn. The immediate foreground and midground slopes are heavily forested, with deeper shadows visible on the lower right and central-right slopes. Further back, more mountains with similar tree coverage extend towards the horizon, where a pale blue sky is visible at the very top.
+end of description
+There are no dynamic changes or newly revealed objects or scenes in the subsequent frames; all frames are identical to the first.

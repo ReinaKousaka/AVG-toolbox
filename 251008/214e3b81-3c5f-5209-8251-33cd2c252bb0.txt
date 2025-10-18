@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a brightly lit airport terminal hallway, featuring a moving walkway on the left with two individuals and an 'M 25' gate sign. A wide central walkway extends forward, bordered on the right by a seating area with orange chairs and a red carpet where people are seated, and large windows revealing the outdoors. An overhead ribbed metal ceiling is filled with many rectangular lights.
+end of description
+As the viewpoint advances through the terminal, the people and 'M 25' sign on the left moving walkway move forward and eventually out of frame. Concurrently, a sign '26' and a distinct red and white airplane tail become increasingly visible through the right windows, further along the terminal from the initial position.
+frame_0000000128-frame_0000000256:
+The initial frame presents a spacious airport terminal corridor extending into the background. A moving walkway occupies the foreground-to-midground on the left, where a person is partially visible, while further along are signs for "25" and "DEALS." To the right, a seating area with orange and red chairs, occupied by several people, includes a trash can in the foreground, and large windows revealing an overcast sky beyond.
+end of description
+As the camera slowly advances through the corridor, objects like the person on the walkway, the "25" sign, and the foreground seating area recede and eventually move out of frame, shifting left and right from the original viewpoint. Concurrently, new sections of the terminal are revealed further ahead, including signs for "26" and "27" and a vertical screen displaying a new red advertisement, all emerging from the distant center of the first frame.

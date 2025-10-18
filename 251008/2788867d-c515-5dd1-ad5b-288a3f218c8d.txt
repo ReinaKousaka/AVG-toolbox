@@ -1,0 +1,16 @@
+frame_0000000000-frame_0000000128:
+The first frame captures an autumn village within a valley, featuring a white church with a tall dark spire in the mid-ground left, a winding road with parked cars centrally, and a river in the foreground left. Behind these, a towering rock face dominates the background right, while distant snow-capped mountains are visible far to the left.
+end of description
+Subsequently, the viewpoint slowly pulls back and pans right, gradually revealing more of the expansive valley. This motion progressively exposes a prominent waterfall on the rock face further to the right of the initial view and extends the visible length of the winding road, along with additional village buildings. The scene widens significantly, causing the church to shift further left relative to the expanding frame.
+frame_0000000128-frame_0000000256:
+The first frame presents an aerial view of a vibrant autumn village nestled in a deep valley. In the mid-left foreground stands a white church with a dark, tall steeple featuring a clock. Numerous trees with brilliant yellow and orange foliage surround the church and dot the landscape, including traditional brown buildings to the viewer's right and in the midground, with a paved area and vehicles between them. Behind the village, a massive, steep rock face, partially adorned with autumn trees and a slender waterfall, dominates the background, with distant snow-capped mountains visible to the far left under a clear blue sky.
+
+end of description
+
+The camera slowly pans upwards and slightly to the left from the initial viewpoint. This movement progressively reveals the very top of the church's steeple and a wider expanse of the clear blue sky directly above the village. Concurrently, more of the distant snow-capped mountains to the far left of the initial scene become visible, expanding the breathtaking mountain backdrop.
+frame_0000000256-frame_0000000384:
+The first frame presents a picturesque autumn scene of a Swiss village. A white church with a dark spire and a prominent clock face occupies the left foreground, while a village square and multiple traditional houses extend into the mid-ground. Behind these, a massive mountain cliff, adorned with vibrant yellow and orange trees and a slender waterfall on its right, dominates the background, with distant snow-capped peaks faintly visible to the far left.
+
+end of description
+
+Following a subtle pan and zoom, Frame 5 transitions to an artistically filtered view of the same autumn village, slightly further right and zoomed out from the initial viewpoint. Subsequently, a dramatically different summer scene unfolds, revealing a paved path leading away from the viewer into a lush green valley. This new viewpoint is significantly further back and lower than the first-frame's position, with village houses now appearing smaller and deeper in the mid-ground, while more waterfalls cascade down the now-verdant mountain cliffs that frame the distant valley.

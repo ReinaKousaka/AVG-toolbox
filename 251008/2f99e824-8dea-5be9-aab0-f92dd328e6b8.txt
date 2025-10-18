@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+In the first frame, a wide dirt path extends into a dense forest, curving slightly to the left. To the left of the path, a steep embankment is thickly covered with bright green ferns. To the right, a large, textured redwood tree trunk, partially covered in moss, stands prominently in the foreground, with another tall tree leaning diagonally behind it to the right. Numerous other towering trees with green canopies fill the background, reaching towards a bright sky.
+end of description
+The viewpoint slowly moves forward and slightly to the right, along the dirt path. The large redwood tree on the right gradually fills more of the frame, moving slightly closer and revealing more of its immense height. As the camera advances, the path and the dense fern-covered slope on the left, along with the forest receding into the distance, become more apparent from a slightly altered perspective.
+frame_0000000128-frame_0000000256:
+The first frame displays a forest scene with a narrow dirt path curving into the distance. A massive tree trunk, covered in textured bark and green moss, dominates the right foreground, extending upwards and out of view. Lush green ferns and dense undergrowth carpet the ground to the left of the path, while numerous tall trees with green foliage rise in the midground and background, illuminated by a bright sky overhead.
+end of description
+Subsequent frames reveal a subtle forward movement of the viewpoint along the path. The large tree trunk on the right slowly recedes slightly, and more of the path ahead becomes visible as the camera gradually progresses. No new objects or scenes are introduced.

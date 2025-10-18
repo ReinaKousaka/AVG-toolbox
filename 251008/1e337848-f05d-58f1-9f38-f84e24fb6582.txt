@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+In the first frame, a white van is in the right foreground with its rear visible, its right blinker active, positioned on tram tracks. To its left, a white station wagon sits stationary on a yellow-striped pedestrian crosswalk, its rear facing the viewer slightly to the left. Beyond the vehicles, a street is flanked by multi-story buildings under a blue, cloudy sky crisscrossed by overhead lines.
+end of description
+Following this, the van's right blinker turns off and remains off. Subsequently, two pedestrians emerge from the far left of the frame, stepping onto the crosswalk behind the white station wagon and walking towards the right across the street.
+frame_0000000128-frame_0000000256:
+A white van occupies the foreground right, while a white station wagon is stopped on a yellow-striped crosswalk in the midground center-left. Two pedestrians walk leftward across the street behind the station wagon, with a large beige building dominating the background left and other buildings receding right under a cloudy blue sky.
+end of description
+The two pedestrians continue walking left across the crosswalk, gradually exiting the frame from the far left. Both the white station wagon and the white van remain stationary in their original positions throughout the sequence.
+frame_0000000256-frame_0000000384:
+In the first frame, a white van partially obstructs the view on the right foreground, facing away from the viewer on a paved road with a white yield marking. To the left, a white station wagon is positioned on a yellow-striped crosswalk, also facing away. Behind the crosswalk and the station wagon, a multi-story building with numerous windows and balconies dominates the background, with a traffic light and a blue street sign visible at an intersection to the left of the building. A construction site with banners and graffiti is visible on the far left, partially obscured by trees.
+end of description
+The white station wagon on the left proceeds forward, clearing the crosswalk and moving out of view. Concurrently, the white van in the foreground begins to move forward, slowly receding from the viewer's immediate right. As the vehicles move, several pedestrians appear from the left, walking across the crosswalk towards the building, and a red tram becomes visible in the far right background, moving leftwards across the street.

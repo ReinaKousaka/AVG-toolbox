@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+A wooden boardwalk with dark railings extends from the foreground into the distance, curving slightly to the right, enveloped by dense green foliage on both sides. Sunlight filters through the overhead canopy, illuminating the path ahead in the upper-midground.
+end of description
+As the viewpoint moves forward along the boardwalk, the surrounding vegetation scrolls past, revealing more of the path ahead. The sun's glare, initially partially obscured, gradually becomes more intense and visible towards the upper-left, illuminating the path with increasing brightness and reflecting on the damp boardwalk surface.
+frame_0000000128-frame_0000000256:
+A wooden boardwalk, with railings on both sides, extends directly forward and gently curves to the right in the distance, bordered by dense green trees and foliage on either side; sunlight prominently shines through the canopy ahead and to the left.
+end of description
+The camera moves forward along the boardwalk, steadily advancing. As the viewpoint progresses, the surrounding trees and foliage on both sides become relatively closer and then recede, revealing more of the path ahead that continues to curve to the right from the initial position. The sun's position relative to the viewer remains largely constant, though its rays filter differently through the moving foliage.
+frame_0000000256-frame_0000000384:
+The first frame shows a wooden boardwalk extending into the distance, curving gently to the right, flanked by dark wooden railings and lush green foliage on both sides. The bright sun is visible on the upper left, casting light over the scene and illuminating distant trees against a clear blue sky.
+end of description
+As the viewpoint moves forward along the boardwalk, the curve to the right gradually becomes more prominent, with the surrounding foliage passing closer on either side. The perspective of the sun on the upper left shifts, reflecting the continuous progression along the path and deeper into the wooded area.

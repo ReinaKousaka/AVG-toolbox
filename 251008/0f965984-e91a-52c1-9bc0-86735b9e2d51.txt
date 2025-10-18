@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+A train track extends from the viewer, curving slightly rightward into the distance, flanked by a dense evergreen forest on the left and a body of water on the right. A utility pole with wires stands prominently in the mid-left, while beyond the water, green hills and mist-shrouded mountains recede into the background under an overcast sky.
+end of description
+As the viewpoint progresses along the track, objects initially to the front-left, such as the forest and the utility pole, appear to move dynamically past the original first-frame viewpoint. Concurrently, the curving track ahead and the lake with its bordering vegetation on the right move towards and then past the initial fixed viewpoint, revealing more of the continuously shifting landscape.
+frame_0000000128-frame_0000000256:
+The first frame shows train tracks directly in front of the viewer, receding into the distance, flanked by green foliage on both sides. To the immediate left, a dark vertical pole is partially visible, and further back, a grassy hillside with a solitary tree dominates; to the right, a body of water borders the tracks. In the background, distant mountains with some cloud cover rise, featuring a few small structures on the right hillside, under an overcast sky.
+end of description
+As the train moves forward, the immediate foreground foliage and the dark pole on the left recede and eventually exit the frame. A yellow warning sign on a pole, initially far down the tracks to the right, gradually approaches the viewer. Subsequently, another vertical pole with overhead lines also emerges from the distant right side, progressively getting closer.

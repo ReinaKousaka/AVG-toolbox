@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a wet street with a prominent yellow and white striped crosswalk in the foreground, leading towards a silver SUV parked on the left near storefronts. A person holding a pink umbrella is visible on the far-left sidewalk, while a red brick building lines the right, with distant residential buildings and trees in the background.
+end of description
+Throughout the subsequent frames, the person with the pink umbrella, initially on the far-left sidewalk relative to the viewer, is no longer visible. The silver SUV remains stationary on the left side of the wet street, maintaining its position relative to the first-frame viewpoint.
+frame_0000000128-frame_0000000256:
+The first frame shows a wet urban street with a prominent yellow and white crosswalk in the foreground. To the left, a silver car is parked in front of multiple shops, while a brick building and a slanting pole occupy the right side. In the midground, the street recedes towards a small yellow-roofed structure amidst greenery, with tall buildings visible in the distant background under an overcast sky.
+end of description
+Throughout the subsequent frames, subtle movement is noticeable in the tree leaves on the right side of the street, suggesting wind. In the latter half of the sequence, a person holding a black umbrella appears on the right sidewalk, in the midground, walking away from the viewer towards the background.
+frame_0000000256-frame_0000000384:
+First, a wet asphalt street with double yellow lines on the left and a single yellow line bordering a sidewalk on the right stretches away from the viewer. A silver car is parked on the left curb, in front of a row of brick buildings housing shops, while a reddish-brown brick building stands immediately to the viewer's right. Further down the right side, a concrete sidewalk runs alongside a low wall with green bushes and trees, beyond which tall buildings rise in the background under a grey sky. A lone pedestrian, holding a dark umbrella, is seen walking away from the viewer in the mid-ground, towards the center of the street.
+end of description
+In the subsequent frames, the pedestrian continues to move further away from the viewer, progressing steadily down the wet street.

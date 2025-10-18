@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a wet street at night, with a road and a fence on the left, and a stone sidewalk on the right featuring two bollards, a blue bag, and two electric scooters near a traditional building with a tiled roof. A streetlamp illuminates the scene from the right, while bright headlights are visible approaching from the distant center of the road.
+end of description
+A dark car with illuminated headlights subsequently drives from the midground towards the viewer on the left side of the road, creating splashes before passing the viewpoint and exiting the frame to the left.
+frame_0000000128-frame_0000000256:
+The first frame shows a wet, dark street at night, with a paved sidewalk on the right leading to a traditional building, featuring two white electric scooters and a blue plastic bag in the foreground, while a wall with yellow bicycle racks runs along the left under a distant streetlamp. end of description. In subsequent frames, a small red container becomes visible next to a second blue bag further down the right sidewalk. Simultaneously, a bright light source, likely vehicle headlights, emerges from the distant mid-right of the road, steadily intensifying and moving towards the viewer, casting strong reflections on the wet asphalt.
+frame_0000000256-frame_0000000384:
+The first frame depicts a wet street at night or dusk, viewed from a low perspective on a sidewalk. To the immediate right, parts of a building facade with a striped utility box and dark vertical pipes are visible, while slightly forward on the sidewalk are a black bollard, a blue plastic bag, and an orange bucket. A glistening asphalt road, marked with a solid yellow line on the left and double yellow lines extending from the mid-left into the distance, occupies the central view. On the far left, a concrete retaining wall topped with a metal fence and rows of yellow decorative elements runs parallel to the road, ascending towards a hillside background densely packed with illuminated buildings under a dark, overcast sky.
+
+end of description
+
+A white vehicle with bright headlights emerges from the far distance on the wet asphalt road, positioned to the right of the central yellow lines, and steadily approaches the viewer. It progressively moves closer, growing larger and casting prominent reflections on the glistening road surface until it occupies the central foreground, still on the road to the left of the right-side sidewalk.

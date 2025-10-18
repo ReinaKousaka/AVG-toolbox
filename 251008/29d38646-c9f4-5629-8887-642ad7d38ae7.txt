@@ -1,0 +1,10 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a bustling street scene at dusk, looking down a road flanked by buildings. On the left, lighter-colored buildings house establishments with outdoor seating under white umbrellas, while on the right, darker, older buildings with bay windows feature similar outdoor dining areas, both sides illuminated by streetlights and overhead string lights. In the foreground, two men walk away from the viewer down the center of the street, which has white lane markings.
+end of description
+As the frames progress, the two men and other pedestrians continue to walk further down the street, receding from the viewer's perspective. The overall street scene remains static, with no new objects or scenes introduced, only the continuous movement of people.
+frame_0000000128-frame_0000000256:
+The first frame depicts a pedestrian-filled street extending away from the viewer under a twilight sky, adorned with string lights overhead. On the left, several light-colored buildings host outdoor dining areas with umbrellas and patrons, accompanied by a street lamp in the foreground. To the right, a prominent green multi-story building with bay windows features outdoor restaurant seating under awnings and string lights. Numerous pedestrians walk down the center of the street, receding into the distance amidst distant buildings and trees.
+
+end of description
+
+In the subsequent frames, a couple on the left side of the street, initially in the mid-ground, progressively walks closer towards the viewer. Simultaneously, the two people previously walking away in the center of the street continue to move further into the distance. All other visible objects and buildings remain spatially fixed relative to the first-frame viewpoint.

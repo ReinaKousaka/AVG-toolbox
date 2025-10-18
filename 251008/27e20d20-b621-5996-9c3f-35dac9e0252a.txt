@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a snow-covered railway track leading into a mountain valley, with a line of snow-laden trees on the left and a gentle snowy incline with some distant structures on the right. Several utility poles supporting overhead lines are visible alongside the tracks, and a small dark building sits between the tracks in the midground, all set against a backdrop of majestic, sunlit snow-capped mountains under a clear blue sky.
+end of description
+As the sequence progresses, the viewpoint moves forward along the tracks, causing the trees and an initial utility pole on the left to pass by the viewer. Subsequently, a red and white striped 'X' railway marker pole emerges on the left side, advancing into the foreground. Throughout the movement, the distant mountains remain largely static in the background.
+frame_0000000128-frame_0000000256:
+The first frame depicts a snow-covered train track curving gently left into a vast valley, flanked by snowy, sparse trees on the left and dense coniferous forest on the right, all under towering, sunlit, snow-capped mountains and a clear blue sky; partial red and white striped poles are visible in the immediate foreground on both sides.
+end of description
+As the viewpoint moves forward along the tracks, the immediate foreground poles quickly recede out of view. The curving tracks ahead become more prominent, revealing an expanding view of the valley further ahead of the original viewpoint. A wire fence appears to the left, while deeper into the valley, more distant structures and a bridge emerge. Overhead wires and support poles continuously pass overhead and to the sides, moving from ahead to behind the initial viewpoint.

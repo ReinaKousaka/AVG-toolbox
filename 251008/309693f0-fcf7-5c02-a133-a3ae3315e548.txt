@@ -1,0 +1,30 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a paved road curving slightly to the left, receding into the distance, bordered by a green mesh fence and vegetation on the left, and a grey stone-patterned retaining wall on the right. A steep, rocky, and heavily vegetated mountain rises on the right, extending into the background where a larger, forested mountain fills the upper left under a cloudy sky.
+end of description
+As the viewer moves forward, the road, retaining wall, and the steep mountain on the right gradually advance, revealing new sections of the path and terrain directly ahead of the initial viewpoint. Simultaneously, the green fence and pole with vines on the left recede behind the first-frame viewpoint, showcasing the continued progression along the mountain road. The expansive forested mountain in the background remains consistently ahead and to the left of the viewer's initial perspective throughout the movement.
+frame_0000000128-frame_0000000256:
+The first frame presents a paved road extending into the distance, curving gently left. To the left, a green mesh fence and a low stone wall border a steep, tree-covered mountain, while a concrete block retaining wall lines the right, ascending to a rocky, vegetated slope; overhead, wires and foliage hang from the upper left.
+end of description
+As the frames progress, the viewpoint moves forward along the road, causing the foreground elements to recede past the viewer and continuously revealing more of the winding road, the retaining walls, and the verdant mountain slopes ahead relative to the initial first-frame position.
+frame_0000000256-frame_0000000384:
+A paved road, curving slightly to the left, extends from the viewer into the middle ground, bordered by constructed elements. To the left, a low stone wall supports a dirt bank topped with a green mesh fence, beyond which a tree-covered mountain slope with exposed rock rises. To the right, a patterned concrete retaining wall borders a very steep, rocky cliff face with sparse vegetation. An overcast sky is visible above the mountains in the background.
+
+end of description
+
+The viewpoint steadily moves forward along the road, causing the immediate foreground to recede. The concrete retaining wall on the right and the stone wall with the green fence on the left become longer and more detailed as the camera approaches new sections of them. Features on the rocky cliff and the forested mountain slope gradually unfold and become clearer as the viewer passes them, demonstrating continuous forward motion through the landscape.
+frame_0000000384-frame_0000000512:
+A paved road extends from the viewer towards the center-left distance, bordered on the left by a low stone wall, a dirt embankment, and a green mesh fence, leading up to a forested mountain range. To the right of the road is a steep, rocky cliff face with some vegetation, and rubble at its base, while a distant, tree-covered mountain dominates the far background under a cloudy sky.
+end of description
+As the frames progress, the viewpoint steadily moves forward along the winding road. The stone wall, green fence, and rocky cliff on the right progressively recede past the viewer's initial position. The road ahead and the mountain landscape continuously unfold, revealing new sections of the path and the surrounding terrain that were further in the distance from the first frame.
+frame_0000000512-frame_0000000640:
+The first frame displays a wet asphalt road extending forward from the bottom center, bordered on the left by a low stone retaining wall, a green mesh fence, and a tree-covered mountain slope, and on the right by a steep, rocky cliff face, all under an overcast sky.
+end of description
+The viewpoint slowly moves forward, revealing more of the winding road ahead as the initial foreground elements like the stone wall, green fence, and the rocky cliff on the right gradually shift past the viewer's original position towards the sides and behind.
+frame_0000000640-frame_0000000768:
+In the first frame, the viewer is positioned on a paved road that curves gently to the left and extends into the distance. To the immediate right, a steep, craggy rock face rises prominently. To the left of the road, a low stone wall runs parallel, beyond which lies an expanse of disturbed earth partially covered by a green net or fence, followed by a heavily forested mountain slope receding into the background. Above, a cloudy sky is visible, with a power line stretching across the upper left.
+end of description
+As the frames progress, the viewpoint moves forward along the road. The rocky cliff face on the right recedes, revealing more of the road ahead and expanding the view of the mountain range to the left. Simultaneously, the stone wall and green fencing on the left shift further back and eventually move out of the frame's lower left, revealing more of the adjacent terrain.
+frame_0000000768-frame_0000000896:
+The first frame presents a wet asphalt road curving right from the viewer's immediate foreground. To the left, a low stone wall borders a grassy area with green netting, backed by a distant, tree-covered mountain. On the right, a steep rocky cliff face borders the road, with another large, foliage-covered mountain dominating the background under an overcast sky.
+end of description
+As the frames progress, the viewpoint moves forward along the road, causing the concrete retaining wall on the right, initially further ahead, to approach and become more detailed. Simultaneously, a pile of rocks and red-and-yellow striped safety poles, previously seen further down the road on the right, also approach and become more clearly defined.

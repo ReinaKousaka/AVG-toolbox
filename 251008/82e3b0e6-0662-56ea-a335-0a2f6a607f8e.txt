@@ -1,0 +1,28 @@
+frame_0000000000-frame_0000000128:
+A narrow, rocky dirt path extends from the viewer into a mountain valley, flanked by a fast-flowing stream on the left and a grassy, rocky slope with scattered white flowers on the right. In the background, a snow-capped mountain peak rises between heavy, low-hanging clouds.
+end of description
+The subsequent frames depict a subtle forward camera movement along the path, causing the foreground elements to shift slightly, while the stream's water visibly flows past the viewer's left side.
+frame_0000000128-frame_0000000256:
+A dirt path, centrally located, extends from the viewer into the distance. To the viewer's left, a rocky stream flows towards the foreground, bordered by a green, grassy slope interspersed with rocks. To the viewer's right, a steep, rocky, grass-covered slope rises prominently. In the background, distant mountains, partially snow-covered, are shrouded in heavy clouds under an overcast sky.
+end of description
+The camera moves slowly forward along the path. Consequently, new sections of the path are continuously revealed *further in front* of the viewer, while the stream on the left and the rocky slope on the right appear to recede *past* the viewer, unveiling new details of the landscape *further ahead*. The distant, cloud-enshrouded mountains remain generally *in front* of the viewer throughout the progression.
+frame_0000000256-frame_0000000384:
+A narrow gravel path extends from the viewer's immediate right foreground into the mid-distance, paralleled on the left by a rocky, fast-flowing river. To the river's left are green grassy slopes, while a craggy rock face rises to the viewer's far right; in the distant background, a snow-capped mountain peak is partially obscured by an overcast, cloudy sky.
+end of description
+The camera slowly tracks forward along the path, progressively revealing new sections of the winding trail ahead and additional stretches of the rocky river to its left. The distant mountain and cloud formations remain relatively stationary as the foreground moves past the viewer.
+frame_0000000384-frame_0000000512:
+The first frame presents a rugged mountain trail leading away from the viewer, with a rocky stream flowing parallel to its left and large boulders bordering its right. Overcast skies hang above distant, snow-dusted peaks partially obscured by clouds in the background.
+end of description
+The view progresses forward along the dirt path; objects like boulders and vegetation on the right move past the viewer, and the stream continues flowing to the left. A new rock marked with red and white trail indicators emerges on the right side of the path and slides out of view as the camera advances.
+frame_0000000512-frame_0000000640:
+A rugged, narrow dirt path occupies the center-right, curving slightly left as it recedes towards the mid-ground, flanked by green grass and scattered rocks. To the left, a swift, rocky river flows from the mid-ground towards the bottom-left foreground. On the right, a steep, grassy slope covered with boulders rises; a prominent rock with a faded orange and white trail marker is visible in the bottom-right foreground. In the far background, a snow-capped mountain peak, partially obscured by low clouds, rises above a green hillside to the left, all under an overcast sky.
+end of description
+The viewpoint slowly advances along the rocky path. The prominent marked rock in the first frame recedes towards the bottom-right and eventually moves out of view, as new sections of the path and surrounding vegetation are revealed ahead. More of the river's rocky course becomes visible to the left, while the grassy slopes to the right also shift with the forward movement. The distant mountain and clouds remain in view, appearing slightly closer as the viewer progresses.
+frame_0000000640-frame_0000000768:
+The first frame depicts a mountainous landscape featuring a narrow, rocky dirt path extending from the bottom right towards the middle ground. To the left of the path, a clear, fast-flowing stream cascades over rocks from the mid-distance towards the bottom left. Lush green, rocky slopes covered in sparse vegetation frame both the path and the stream, leading up to a distant, snow-capped mountain peak partially enveloped by heavy gray clouds under an overcast sky.
+end of description
+Subsequent frames show no discernible dynamic changes; all visible objects, including the stream, vegetation, and clouds, remain static relative to the initial viewpoint, presenting what appears to be a still image.
+frame_0000000768-frame_0000000896:
+The first frame presents a rugged mountain valley under an overcast sky, with a rocky dirt path leading into the mid-distance on the right, and a rushing river with white rapids and scattered boulders to the left. Lush green, rocky hillsides rise on both sides, culminating in distant, cloud-shrouded peaks with visible snow patches in the background.
+end of description.
+Across subsequent frames, the scene remains largely consistent; however, there is a subtle forward camera movement, causing the foreground path and adjacent vegetation to incrementally appear closer to the initial first-frame viewpoint, gradually revealing more of the trail deeper into the valley.

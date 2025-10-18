@@ -1,0 +1,32 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a nighttime urban scene from a sidewalk, with a street containing parked cars and distant traffic to the viewer's left, illuminated by streetlights. Immediately to the viewer's left stands a large tree trunk, beside which a person in a pink shirt and dark shorts is facing slightly away from the viewer. To the viewer's right, a row of closed storefronts with metal roll-down gates are visible, along with an "INDOOR OUTDOOR GARDENER" sign overhead.
+end of description
+The person initially by the tree, remaining to the left of the viewer's central line, subtly turns and then begins walking forward along the sidewalk, moving further away from the viewer. As they proceed, their left arm swings distinctly backward.
+frame_0000000128-frame_0000000256:
+The first frame displays a nighttime street scene with a man in a pink shirt and dark shorts standing on the left sidewalk by a tree, positioned mostly with his back to the viewer, facing slightly right. To his left is a street with parked cars and distant traffic, while on the right, a building with a large corrugated metal security gate and a black scooter occupies the mid-ground.
+end of description
+Subsequently, the man turns his body to face the viewer, holding a green object in his hand, before beginning to walk left and slightly forward relative to the initial viewpoint. A small black and white dog, previously unobserved, appears walking on a leash next to the man on the left sidewalk as they both proceed further left and exit the scene.
+frame_0000000256-frame_0000000384:
+In the first frame, the viewer is on a nighttime sidewalk. To the immediate left and slightly forward, a person wearing a pink shirt is visible from the waist down, holding a leash attached to a small, dark dog walking ahead. To the right, a black scooter is parked on the sidewalk next to storefronts, some with closed metal grates. A street lined with parked cars and illuminated buildings extends into the background on the left side of the frame.
+end of description
+In subsequent frames, the person and dog move forward along the sidewalk and exit the frame to the viewer's lower left. Concurrently, the viewer's perspective shifts forward, revealing more of the sidewalk, street, and storefronts ahead, while the parked scooter on the right remains stationary. The overall scene of a night city street with distant buildings and parked cars remains consistent.
+frame_0000000384-frame_0000000512:
+In the first frame, a black scooter is parked in the foreground to the viewer's right on a concrete sidewalk, which extends into the distance. To the immediate right, storefronts with wooden doors and some closed metal grates line the street. To the left of the sidewalk, a street runs parallel, featuring a row of parked cars (including a white SUV, a dark SUV with two bicycles next to it, and other vehicles further back) under illuminated trees. A street sign on a pole is visible in the background-center, with more buildings and streetlights fading into the distance under a dark night sky.
+
+end of description
+
+Subsequently, a large white bus, initially visible far in the background on the street to the left, begins to approach. It gradually moves closer and to the left of the viewpoint, passing the parked cars. The bus, with "B38" visible on its front, continues its trajectory across the mid-ground and eventually moves almost entirely out of the frame to the far left, beyond the initial visible area of the street.
+frame_0000000512-frame_0000000640:
+The first frame shows a nighttime street scene from a ground-level perspective. On the right, a sidewalk extends into the distance, bordered by building facades with wooden paneling on the immediate right and a series of closed storefronts, some with metal security gates. A black A-frame sign and a chair are on the sidewalk further down on the right. To the left of the sidewalk is a street with parked cars, including a black SUV, and two bicycles leaning on the sidewalk near the SUV. A public bus is moving from left to right across the street, partially visible. In the background, streetlights illuminate trees and more buildings lining the street, with a blue bus stop sign visible on a pole on the left.
+end of description
+Throughout the following frames, the bus on the street continues to move from left to right, progressively obscuring more of its length as it travels further across the first-frame viewpoint. The parked cars, bicycles, and the buildings on both sides of the street remain stationary relative to the first-frame viewpoint. Subtle lighting variations occur across the scene.
+frame_0000000640-frame_0000000768:
+The first frame depicts a nighttime street scene from a pedestrian's perspective on a sidewalk. To the viewer's immediate right is a storefront with a metallic roll-down security gate, accompanied by a chalkboard sign and chairs. To the left, a paved street runs parallel, lined with numerous parked cars, including a black SUV, and a bicycle leaning on the curb in the mid-foreground, with a bus stop sign further down. Buildings with illuminated storefronts and streetlights recede into the dark distance on both sides under a night sky.
+end of description
+As the frames progress, the viewpoint subtly advances forward along the sidewalk, causing the entire scene to shift slightly. The storefront on the right moves slightly further right and partially out of view, while more of the sidewalk and street ahead become visible. Objects like the bicycle and parked cars on the left appear to move closer and slightly further left relative to their initial positions, indicating a slow forward progression down the street.
+frame_0000000768-frame_0000000896:
+The first frame captures a nighttime street view from a sidewalk, featuring a bicycle parked on the left foreground beside a row of cars, and streetlights illuminating distant buildings and trees further left. Storefronts with various signs, including "Little Lord" and "AVF", line the right side of the path, where a "Psychic" A-frame sign and a dark folding chair are positioned near the viewer's mid-ground.
+
+end of description
+
+Throughout the subsequent frames, the dark folding chair and the associated "Psychic" A-frame sign on the right side of the sidewalk gradually shift further away from the viewer and move slightly towards the right edge of the frame.

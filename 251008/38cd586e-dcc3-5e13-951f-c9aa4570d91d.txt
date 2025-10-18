@@ -1,0 +1,10 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a paved road extending forward, flanked by dense trees and a guardrail on the left. On the right, green foliage covers a slope leading up to a white house with a red roof in the mid-distance, with a smaller red building behind it, and mountains under a cloudy blue sky in the background.
+end of description
+As the viewpoint moves forward, the foreground trees and guardrail on the left recede, and the green vegetation on the right sweeps past. The white house and the initial red building on the right approach closer and appear larger. Concurrently, a new, larger red house with a red roof and a fence line become progressively visible further up the slope on the right side.
+frame_0000000128-frame_0000000256:
+The first frame shows a paved road curving slightly left, with a metal guardrail and dense green trees to the viewer's left, and a grassy embankment rising to a white house and a red house to the viewer's right, all set against distant mountains and a blue, cloudy sky. end of description. As the sequence progresses, the viewpoint moves forward along the road, causing the road to recede and the surrounding landscape to shift closer and laterally, revealing a wooden fence along the hillside on the right, and a utility pole appearing to the left, beyond the guardrail.
+frame_0000000256-frame_0000000384:
+The initial frame displays a paved road curving left, with a silver guardrail and dense green trees to its left, and a grassy hillside to its right. A two-story white house is situated on the right hillside, with a smaller red building visible further right and behind it, all beneath a blue sky with scattered clouds and distant mountains.
+end of description
+As the perspective moves forward along the road, the white house and red building initially on the right recede as they are passed. Concurrently, the guardrail on the left extends towards the viewer, and a utility pole, initially further ahead on the left, approaches and then passes the viewer's immediate left. The shadows on the road also dynamically shift with the continuous forward motion.

@@ -1,0 +1,10 @@
+frame_0000000000-frame_0000000128:
+The first frame shows an open-plan lounge area with a high, peaked thatched roof and dark wooden floors. In the foreground, a low sofa with light cushions and pillows faces the viewer, featuring a dark round coffee table with green fruits in a bowl and a glass cloche on a lighter mat. To the mid-left, a light-colored rectangular cushion rests on the floor next to two dark wooden stools and a small wooden table with a white pot; further back, a dark wooden chair and another table are visible beside a dark canoe-like object. A large, slatted wooden room divider extends across the midground from left to right, obscuring a central area. Beyond the divider to the right, an outdoor patio with a table and chairs is visible, along with another wooden canoe-like object; lush green foliage is seen through openings to the background left.
+
+end of description
+
+The subsequent frames depict a slow, subtle forward zoom or pan into the scene, causing all visible objects to appear marginally larger and the overall field of view to narrow slightly. This continuous movement, originating from the first-frame viewpoint, subtly brings the viewer closer to the foreground objects without revealing any new items or altering the relative positions of existing elements.
+frame_0000000128-frame_0000000256:
+A spacious, open-air room features a thatched roof and dark wooden floor, with a large horizontal stick screen standing centrally. In the foreground, a bowl of green fruit rests on a low table with a light cushion behind it, while a wooden slatted chair is positioned to the viewer's mid-left; beyond the screen, more seating with red cushions is visible to the right.
+end of description
+The camera slowly pans right, causing the foreground fruit bowl and the mid-left wooden chair to gradually exit the frame to the viewer's left. Concurrently, the outdoor seating, initially seen to the right of the screen, becomes more prominent and shifts towards the center-right of the frame. A small wooden stool, previously outside the initial frame to the far right, is newly revealed in the mid-ground next to the screen.

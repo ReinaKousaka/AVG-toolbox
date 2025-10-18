@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+A person holding a blue umbrella walks left across a wet street in the mid-left foreground, while a blue fire hydrant stands in the far right foreground. A sidewalk extends centrally into the distance, lined by parked cars on the left and a grassy verge with more cars on the right. Yellow traffic signs are attached to a bare tree, with a large building and a street sign pole featuring 'Nelson' and 'Bute St.' signs visible in the mid-right.
+end of description
+The person with the blue umbrella continues moving left across the street, eventually exiting the frame from the viewer's left. Concurrently, a traffic light, located above the 'Bute St.' sign in the mid-right, changes to green.
+frame_0000000128-frame_0000000256:
+The first frame presents a wet street on the left with a silver sedan parked in the mid-ground, followed by other vehicles and a park area beyond a green fence. A sidewalk runs along the right, adjacent to a large, bare-branched tree in the center foreground, which displays three yellow road signs (children playing, speed bumps, 30 km/h). To the right of the sidewalk, several cars are parked on a slight embankment in front of a dark multi-story building, partially visible through surrounding trees in the background.
+end of description
+No dynamic changes or newly revealed objects occur across the subsequent frames; the scene remains static with no movement observed.
+frame_0000000256-frame_0000000384:
+The first frame displays a street scene featuring a bare-branched tree slightly left of center, with three yellow road signs attached to a pole beside it. To the left, a wet asphalt road has a silver sedan and other cars parked along it, while to the right, a wet sidewalk runs parallel to the street, bordered by bushes and a dark building with more parked cars.
+end of description
+Throughout the subsequent frames, the scene remains static with no dynamic changes; all visible objects, including the cars and background buildings, maintain their initial spatial positions relative to the viewer, and no new objects or scenes are revealed.

@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+First, the viewer observes a two-lane road curving right, featuring a silver guardrail and a white-and-red reflective post on the left, backed by dense foliage, and a steep, tree-covered hillside rising on the right, all beneath a clear blue sky.
+end of description.
+As the perspective advances, the guardrail, reflective post, and left-side foliage move past the viewer's initial position, while a sign on a pole emerges further along the road to the left, still ahead of the original viewpoint, with the forested hillside on the right remaining a constant presence relative to the path.
+frame_0000000128-frame_0000000256:
+The first frame displays a paved road curving gently to the right, with a silver guardrail and dense green foliage bordering the left side, where a utility pole and a white sign are visible. To the right, a large, lush green hill covered in trees dominates the landscape, all under a clear blue sky.
+end of description
+As the viewpoint moves forward, the guardrail and utility pole on the left recede towards the frame's left edge, while the white sign, revealing "SLOW VEHICLE BAY 1 KM" text, and a distinctive fern tree emerge from the left foliage, shifting further left within the initial view. The road continues to curve as the forested hill to the right remains in place.
+frame_0000000256-frame_0000000384:
+The viewer is positioned on a paved road that gently curves to the right into the distance. To the immediate left, a green grassy shoulder is bordered by dense green foliage, with a large fern frond partially visible in the upper left corner. To the right, a steep, heavily wooded hillside covered in lush green trees runs alongside the road, with a utility pole structure visible near its peak. A clear blue sky with sparse white clouds occupies the upper portion of the frame.
+end of description
+As the scene progresses, the viewer moves forward along the road. The fern frond on the upper left gradually moves out of view, and a white delineator post on the left shoulder passes the viewer. Further ahead, a yellow diamond-shaped road sign, indicating a curve, becomes visible and grows larger on the left side of the road as the viewer approaches it. All elements on the roadside continuously recede towards the bottom of the frame, indicating persistent forward motion.

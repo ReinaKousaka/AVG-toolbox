@@ -1,0 +1,30 @@
+frame_0000000000-frame_0000000128:
+The first frame captures a vast desert landscape under a blue sky scattered with clouds. A towering, horizontally layered rock formation, displaying alternating bands of light grey and reddish-brown, dominates the left side from the foreground towards the mid-ground. The immediate foreground and mid-ground are covered in reddish-brown dirt with sparse dry grass, stretching towards distant, similar layered rock hills across the horizon, beneath faint lines in the upper right sky.
+end of description
+The following frames depict a subtle forward movement of the viewpoint through the desert. The foreground ground and dry grass gradually shift towards the bottom and right of the frame, indicating progression. Concurrently, the large, layered rock formation on the left slightly recedes as the camera advances.
+frame_0000000128-frame_0000000256:
+The first frame depicts a wide desert vista featuring a massive, layered rock formation dominating the left side, characterized by horizontal white, tan, and reddish-brown bands. The foreground consists of reddish-brown dirt with sparse dry brush, leading into a mid-ground expanse of similar terrain, while distant reddish-brown layered hills stretch across the horizon under a blue sky with scattered clouds and faint power lines visible in the upper right.
+end of description
+As the frames progress, the viewpoint moves forward; the foreground dirt and brush shift towards the bottom of the frame, revealing more of the path ahead. Consequently, mid-ground dry brush clumps approach and then exit the frame downwards, and the layered rock formation on the left slowly appears to move slightly further back and out of the immediate foreground to the left.
+frame_0000000256-frame_0000000384:
+In the first frame, a vast desert landscape is visible. A large, layered rock formation with white, grey, and reddish-brown bands dominates the left side, extending into the background. A reddish-brown dirt path occupies the foreground and middle ground, bordered by sparse dry brush. In the distance, smaller reddish-brown hills and rock formations are seen under a blue sky with scattered clouds, while several thin lines stretch across the upper right sky.
+end of description
+The viewpoint subtly shifts forward and slightly to the right across the frames. As this occurs, a slender, dark pole progressively emerges from behind the large rock formation on the left into the middle ground. Concurrently, the foreground dirt path appears to subtly widen towards the right, and the dry brush on the right recedes slightly.
+frame_0000000384-frame_0000000512:
+In the first frame, a vast desert landscape is visible. To the left, a large, stratified rock formation with reddish-brown and light gray layers rises from the foreground towards the midground. The foreground consists of reddish-brown dirt and sparse, dry brush. A dirt path extends from the center-left into the distance, leading towards a utility pole visible in the midground, which has multiple power lines stretching diagonally across the sky. In the background, rolling hills and mesas with similar rock formations are visible under a partly cloudy, blue sky.
+
+end of description
+
+A small, dark, elongated object (likely a snake or stick) appears in the lower-center foreground in the second frame and moves towards the bottom-right, disappearing by the sixth frame. Simultaneously, the camera appears to slowly pan slightly to the right and subtly advance forward, gradually revealing more of the arid ground and sparse vegetation to the right of the path relative to the initial viewpoint. The overall landscape and objects in the midground and background remain stationary throughout the sequence.
+frame_0000000512-frame_0000000640:
+A wide desert landscape unfolds under a blue sky with scattered clouds. To the viewer's immediate left, a large, horizontally striped rock formation with white, gray, and reddish-brown layers rises. A reddish-brown dirt path extends from the foreground, leading towards the center-right of the frame, past sparse dry vegetation. In the mid-ground, a utility pole with overhead lines stands left of the path, while numerous distant, similarly striped rock formations delineate the horizon.
+end of description
+The subsequent frames in the sequence are identical to the first frame, displaying no dynamic changes or newly revealed objects or scenes.
+frame_0000000640-frame_0000000768:
+The first frame shows a wide, reddish-brown dirt path leading into the mid-ground, flanked by terrain. To the left, a large, stratified rock formation with white and reddish-brown layers rises, extending from the foreground upwards and towards the distant horizon. Sparse, dry brush dots the lower right foreground and mid-ground. In the mid-distance, a utility pole stands slightly left of center, with power lines stretching horizontally across the upper mid-ground. The background features more layered hills and mountains under a partly cloudy blue sky.
+end of description
+The viewpoint steadily moves forward along the dirt path. The layered rock formation on the immediate left and the dry brush in the foreground gradually recede and pass out of view as the camera advances. Simultaneously, new patches of reddish soil and small rocks are revealed directly in front of the viewer as the ground continuously shifts. The distant utility pole and the undulating red and white hills across the horizon progressively appear closer as the journey continues.
+frame_0000000768-frame_0000000896:
+The first frame presents a reddish-brown dirt path stretching into the distance from the viewer's foreground, flanked by sparse dry brush. Layered rock formations, striped red and light gray, rise prominently to the viewer's left, with lower red formations visible in the far right and distant center. A utility pole with power lines is positioned in the left-midground, while the cloudy sky above features blue patches.
+end of description
+Throughout the subsequent frames, the scene remains static with no dynamic changes or newly revealed objects from the initial viewpoint.

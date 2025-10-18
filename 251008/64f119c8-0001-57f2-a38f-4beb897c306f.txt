@@ -1,0 +1,6 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a busy city street at night. On the right, a group of people walk on the sidewalk past the viewer, with a "PROFUMERIA" sign illuminated above them. An electric scooter is parked on the sidewalk slightly closer to the viewer. On the left, a white Smart car with pink accents drives towards the viewer on the road, with several other cars and motorcycles driving further down the street away from the viewer. Tall buildings line both sides of the street, illuminated by numerous lights, extending into the background under a dark sky.
+
+end of description
+
+As the frames progress, the white Smart car moves past the viewer towards the background, and multiple cars and motorcycles drive past in both directions. The people on the right sidewalk walk past the first-frame viewpoint, revealing additional pedestrians emerging from the right, further down the sidewalk. The electric scooter on the sidewalk remains largely stationary relative to the viewer, while the flow of traffic and pedestrians continues to change.

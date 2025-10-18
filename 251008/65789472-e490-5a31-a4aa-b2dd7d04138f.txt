@@ -1,0 +1,27 @@
+frame_0000000000-frame_0000000128:
+The first frame captures a city street scene with a black and white zebra crossing stretching across the foreground, upon which multiple people walk away from the viewer. To the left in the middle ground, a dark green umbrella shades a circular digital display showing "D-033 14:11:15", flanked by numerous white tents where more people are gathered. A dense cityscape of tall buildings forms the background under an overcast sky.
+end of description
+As the frames progress, the pedestrians on the zebra crossing and among the tents continue to move forward, further away from the initial viewpoint. Simultaneously, the digital display on the left updates its time, indicating a lapse in real-time.
+frame_0000000128-frame_0000000256:
+The initial frame displays a lively city plaza, viewed from slightly above a pedestrian crossing where several people walk away from the viewer. To the left, a digital display showing "D-033 14:10:17" stands under an umbrella, adjacent to numerous white tents in the midground filled with people. A backdrop of tall city buildings completes the scene. end of description. Over the subsequent frames, the individuals initially in the foreground continue moving further into the midground. Concurrently, the digital clock to the left updates chronologically from 14:10:17 to 14:10:25, while other people across the midground subtly shift their positions.
+frame_0000000256-frame_0000000384:
+The first frame depicts a bustling urban plaza with numerous pedestrians walking away from the viewer across a foreground featuring black bollards and a yellow tactile strip. White event tents, greenery, parked motorcycles, and a large curved '100' display populate the midground, set against towering city buildings and an overcast sky in the background.
+end of description
+Throughout the subsequent frames, pedestrians in the foreground and midground continue their movement, with the man carrying the child briefly touching the child's face and a person in a light blue vest becoming more visible moving right from the midground. The scene otherwise remains consistent, only showing ongoing pedestrian traffic within the established plaza.
+frame_0000000384-frame_0000000512:
+The first frame shows a paved outdoor path bustling with people walking away from the viewer, notably a person carrying a child in red and another in a blue vest with a stick on the right, with white peaked tents and trees populating the midground and city buildings filling the background.
+end of description
+As the frames progress, the viewpoint steadily moves forward along the path, causing the foreground people to gradually recede and eventually exit the frame. The white tents and trees in the midground appear closer, revealing more of the path and additional people further ahead relative to the initial viewpoint, while the distant city buildings remain largely in place.
+frame_0000000512-frame_0000000640:
+The first frame presents a bustling urban outdoor event with several people walking away from the viewer in the foreground, including an adult carrying a child in a red shirt centrally, flanked by other pedestrians. To the viewer's left, white tents, parked scooters, and a tree are visible, while tall city buildings, traffic, and more people occupy the midground and background to the right. end of description. As the video progresses, the foreground individuals continue moving forward, and a woman in a striped shirt and shorts to the viewer's far left turns to face the tents, revealing her full figure. The background cityscape and event elements subtly shift as the viewpoint gradually advances, introducing more pedestrian activity further right.
+frame_0000000640-frame_0000000768:
+The first frame captures a lively outdoor event with numerous pedestrians amidst city buildings. In the immediate foreground, a woman in a striped shirt stands left, next to a planter and a tree, while a man carrying a child on his shoulders and other people walk away from the viewer in the center. White tents displaying posters line the midground left, with an A-frame sign on the right, all set against a backdrop of tall urban structures.
+
+end of description
+
+As the frames advance, the camera moves forward and slightly right, causing the foreground woman to exit left and the central group of people to recede further into the distance. This dynamic reveals more of the bustling path and additional tents deeper into the festival area.
+frame_0000000768-frame_0000000896:
+The first frame displays a bustling outdoor event with people moving away from the viewer; in the foreground, a child sits on a person's shoulders, held by another individual, while a group heads towards a large white tent on the left displaying festival information. More white tents and crowds fill the midground against a backdrop of numerous tall city buildings.
+
+end of description
+Over subsequent frames, the viewpoint slightly advances, causing foreground figures to recede and revealing a prominent series of active water fountains in the midground, previously hidden. The festival tents and distant city architecture remain fixed, providing a continuous urban backdrop.

@@ -1,0 +1,18 @@
+frame_0000000000-frame_0000000128:
+In the first frame, a person wearing a blue jacket and backpack stands on a sidewalk, facing away from the viewer, slightly right of center, holding a bag. To the viewer's immediate left is a blue building with a "Food Court" sign and an "OPUS OPEN EVERYDAY" A-frame sign on the sidewalk; across the wide street in front, a grand red brick building with columns and yellow umbrellas dominates the right, while modern glass buildings rise in the distance to the left.
+end of description
+As the frames progress, the person walks forward along the sidewalk, moving further away from the first-frame viewpoint and slightly towards the left. The camera perspective subtly advances, causing the blue building and the A-frame sign to appear to move past the left side of the frame. By the final frame, the person has almost completely exited the view, having moved significantly forward and further left from their initial position.
+frame_0000000128-frame_0000000256:
+A broad city street scene is presented, featuring a sidewalk on the left where a partial blue vertical sign reading "Food Court & Sho" is prominent, and a person sits near a utility pole in the mid-ground. To the right, a multi-lane roadway extends into the distance, flanked by a grand red brick building with columns and several businesses with awnings, while modern glass buildings rise in the background.
+end of description
+As the frames progress, the camera subtly zooms in and shifts slightly upwards and to the right relative to the initial viewpoint. This movement reveals a new red horizontal sign reading "BC LIQUOR" positioned above the blue banner on the building to the left, which itself becomes less visible. Concurrently, a white bus and other vehicles are observed moving further down the street in the distant background.
+frame_0000000256-frame_0000000384:
+In the first frame, a concrete sidewalk is visible in the foreground, leading towards the background. To the left, a building with "BC LIQUORSTORE" signage and large glass windows runs parallel to the viewer, with a person sitting on the ground beside a dark pole in the center-left foreground. Further along the left sidewalk, two people are standing, and another person is walking away from the viewer. In the midground, an asphalt road with white markings stretches into the distance, with a white bus and other vehicles visible. To the right, a large red brick building with white columns lines the street, adorned with banners overhead, and modern glass skyscrapers rise in the background.
+
+end of description
+
+A new "It's cold in here" advertisement appears on the left-side liquor store window. On the left sidewalk, a pedestrian walks past two other individuals, moving further away from the viewer. Concurrently, the white bus and other vehicles in the midground continue to move further down the road, away from the first-frame viewpoint.
+frame_0000000384-frame_0000000512:
+In the first frame, a city sidewalk occupies the left foreground, bordered by a 'LIQUORSTORE' building, while a multi-lane road runs across the mid-ground, leading past a large red brick building on the right and modern skyscrapers on the left; a person sits on the sidewalk leaning against a pole, and three individuals walk away from the viewer, with a blue bus driving away on the road.
+end of description
+Subsequently, the bus continues moving further away down the street. The group of three walking individuals dwindles to two, who then proceed past the sitting person, as a new individual appears further behind them on the sidewalk, all continuously moving away from the first-frame viewpoint.

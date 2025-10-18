@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a large, modern two-story house with a light-colored, textured facade and a metal roof, positioned centrally and receding into the mid-ground. Solar panels are visible on the roof above the main entrance, which is accessed via a series of light-colored steps flanked by landscaped garden beds in the foreground. To the left of the house, an attached garage with two doors is visible, with a paved driveway curving from the bottom-left foreground towards it. Dense green foliage and trees form a natural backdrop behind and above the house, extending to the top of the frame, while manicured hedges line the bottom-left and bottom-center foreground.
+end of description
+There are no dynamic changes or newly revealed objects or scenes across the subsequent frames; the video sequence remains entirely static.

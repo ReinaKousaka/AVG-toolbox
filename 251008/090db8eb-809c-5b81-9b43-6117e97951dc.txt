@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame presents an aerial view of vibrant green rice terraces bathed in golden light, extending from the foreground to the distant background. Numerous terraced fields, curving and segmented by paths, dominate the midground and foreground, featuring several small huts with dark roofs scattered throughout, including one with a red roof towards the mid-left and a cluster of two near the bottom-center. More green fields and distant foliage are visible towards the top and left of the frame.
+end of description
+No dynamic changes or newly revealed objects are observed in the subsequent frames; the scene remains static throughout the sequence.
+frame_0000000128-frame_0000000256:
+The first frame presents an aerial view of extensive, vibrant green rice terraces, with small, dark-roofed huts interspersed across the stepped landscape and palm trees visible in the lower-left, all bathed in bright sunlight creating distinct shadows.
+end of description
+Subsequently, the camera gradually zooms out and slightly pans upward, revealing a broader expanse of the terraced fields and additional green foliage beyond the initial boundaries, particularly towards the bottom-left and top-right of the original view. The sunlight's illumination remains consistent across the scene. A small logo appears in the bottom-left corner in the latter part of the sequence.
+frame_0000000256-frame_0000000384:
+The first frame shows an aerial view of expansive, vibrant green rice terraces under bright sunlight, with numerous small, brown-roofed huts dotted throughout the fields and a cluster of palm trees in the lower-left and central areas.
+end of description
+The viewpoint slowly rotates to the right, causing the entire terraced landscape, including the huts and palm trees, to gradually shift towards the left across the frame. This movement reveals slightly more of the rice fields and scattered structures that were initially positioned further to the right of the first frame's central view.

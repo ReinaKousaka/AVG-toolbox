@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a wide landscape featuring a yellow-green field in the immediate foreground, transitioning to a vibrant green grassy hill with a small figure and a traditional house on the right, and other houses visible on the left. Towering mountains, some forested, others rocky, rise in the background under a blue sky dotted with white clouds.
+end of description
+As the viewpoint subtly shifts forward and slightly upward, a dark wooden post emerges from the bottom right, previously out of frame relative to the initial view. Subsequently, a shadow resembling a hand or drone component becomes visible in the bottom-center, also newly revealed from below the first-frame's perspective, moving towards the right.

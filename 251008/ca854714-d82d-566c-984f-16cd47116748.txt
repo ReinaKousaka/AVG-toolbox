@@ -1,0 +1,6 @@
+frame_0000000000-frame_0000000128:
+In the first frame, several individuals are visible in the foreground: a person in a plaid shirt and a man in a black cap stand to the viewer's left, a woman holding a child is in the center-left, and another woman in a dark fur coat is in the center-right, looking up. Behind them, a metal railing runs horizontally, separating them from a dense crowd of people in the midground, beyond which a long row of American flags on tall poles stretches across the entire width of the scene. To the far left, a building entrance with a green ribbon decoration is visible, and to the far right, a dark multi-figure statue on a base is present, with city buildings forming the backdrop.
+
+end of description
+
+The people in the immediate foreground gradually move leftward across the frame, with the woman in the plaid shirt and the man in the black cap almost entirely exiting the frame to the left. The dense crowd in the midground behind the railing continuously shifts and flows with individuals moving in various directions, though the overall scene composition, including the flags, buildings, and statue, remains constant. No entirely new objects or scenes are revealed, only the dynamic changes in the positions of people.

@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+A paved road extends into the distance, bordered on the left by a wooden fence and evergreen trees, and on the right by a grassy field, a rustic wooden shed, and two multi-story houses, all set against towering rocky mountains with distant snow-capped peaks under a partly cloudy sky.
+end of description
+The viewpoint then moves slightly forward, causing the road to appear closer, revealing more foreground grass, and shifting the wooden shed and houses on the right closer and slightly left relative to their initial positions as the objects on the left recede.
+frame_0000000128-frame_0000000256:
+A paved road extends straight ahead from the viewer, flanked by a wooden barrier and trees on the left and a grassy area with a wooden post and blue pipe on the right. In the midground, several traditional wooden buildings line the right side of the road, including one with a carport containing multiple cars, and a small log cabin with a grass roof. Towering, snow-capped mountains frame the background, with a bright, partly cloudy sky overhead.
+end of description
+The camera smoothly moves forward along the road, causing the blue pipe and wooden post to recede and eventually disappear from the bottom right of the frame. As the viewpoint advances, the small log cabin on the right moves further right, revealing more of the main building beside it, while the overall perspective shifts closer to the central buildings and distant mountains.

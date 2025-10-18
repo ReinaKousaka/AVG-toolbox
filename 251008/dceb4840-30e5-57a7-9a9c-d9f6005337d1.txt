@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The initial frame presents an asphalt parking lot marked with white lines, featuring two red and white striped bollards in the foreground. A large beige multi-story building with a flat roof is prominent on the right, alongside a lower extension, while a red and white building with a pitched roof and parked cars is further left, with trees scattered and a cloudy sky overhead.
+end of description
+As the view progresses forward, the bollards recede, and both the beige and red and white buildings appear closer and larger relative to their initial positions. A new light-colored building emerges on the far left, and a red logo and basketball hoop become visible on the beige building's wall.

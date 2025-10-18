@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a paved road extending into the distance with a dark car ahead. To the viewer's left, snow-covered ground leads to distant snow-capped mountains, while to the right, a rocky, grassy hillside rises; both sides are marked by thin white poles under a blue sky with scattered clouds.
+end of description
+The dark car, initially visible on the road ahead, approaches the viewer, becoming larger, and then swiftly passes to the left of the viewpoint. Concurrently, the roadside poles, snowy landscape to the left, and grassy hillside to the right move past the viewer, revealing more of the road ahead and the receding scenery.
+frame_0000000128-frame_0000000256:
+The first frame displays a gray asphalt road extending uphill and curving slightly right into the distance, flanked by a broad snowfield on the left revealing distant snow-capped mountains, and a rocky, grassy slope on the right, under a clear blue sky with white clouds. Tall white snow markers are visible along both sides of the road, receding from the viewer's immediate position.
+end of description
+As the viewpoint moves forward along the road, the snow marker on the left and the rocks on the right steadily approach and then pass to the viewer's left and right sides respectively, continuously revealing new stretches of road, snow, and rocky terrain further ahead of the initial position. The distant mountains and sky maintain their relative positions in the background as the forward motion continues.
+frame_0000000256-frame_0000000384:
+A two-lane road recedes into the distance under a bright blue sky with white clouds. To the left, a vast snowfield stretches towards distant snow-capped mountains, while a steep, rocky, green-and-brown grassy hillside with marker poles rises immediately to the right of the road.
+end of description
+As the frames progress, the viewpoint moves forward along the road; the foreground road, snowfield, and hillside elements shift towards and past the viewer, while new sections of the same landscape continuously emerge from the distant horizon.

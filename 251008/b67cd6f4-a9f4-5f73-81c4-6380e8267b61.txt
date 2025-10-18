@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a two-story building with a brown shingled upper facade and a white lower section, positioned slightly right of center. Three windows with bright green shutters are visible: one closed on the upper floor, and two open on the lower floor, with a bird feeder between them. In the foreground, a garden area with sparse vegetation and a dark wooden bench occupies the lower right, while a small tree is on the left. Another building with a chimney is partially visible to the far left, behind the main structure.
+end of description
+There are no dynamic changes, newly revealed objects, or scene alterations in the subsequent frames; the entire sequence remains static.
+frame_0000000128-frame_0000000256:
+A large house with a brown wooden shingle facade and a white lower wall stands in the midground to the right, featuring windows with white frames and open bright green shutters; a dark animal-like statue rests on the lower left window sill. To its left, another wooden building is visible in the background, while in the foreground, a concrete planter, a small leafy tree, and sparse vegetation occupy the left and bottom areas.
+end of description
+In the third frame, the dark animal-like statue on the lower left window sill is dynamically replaced by a small, wooden birdhouse, which then remains in the same position for the remainder of the video sequence.
+frame_0000000256-frame_0000000384:
+The first frame captures a narrow street bordered by traditional wooden buildings. To the viewer's immediate left, a dark stone barrier is present, while a small leafy tree stands slightly right of center, in front of a white building foundation. The right side is dominated by a multistory building with reddish wooden shingles, multiple windows with white frames and green shutters, and a birdhouse on a window sill.
+end of description
+Subsequent frames show a subtle camera pan to the left, gradually revealing more of the street and buildings previously to the left of the initial viewpoint. A bicycle, not visible initially, appears in the midground, now positioned to the left of the small tree and leaning against a building corner on the paved path.

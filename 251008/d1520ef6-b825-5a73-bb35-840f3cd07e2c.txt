@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a dense, verdant forest with a narrow dirt path curving through lush green foliage in the foreground and mid-ground. To the right, a dark stream flows, bordered by towering trees with thick canopies dominating the background, with only a sliver of pale sky visible at the top center.
+end of description
+The following frames show extremely subtle upward and rightward camera movement, slightly altering the perspective of the existing dense foliage and forest while introducing no new objects or scenes relative to the initial viewpoint.
+frame_0000000128-frame_0000000256:
+The first frame presents a dense, vibrant green forest from a slightly elevated perspective. A narrow, muddy path curves leftward in the foreground, amidst abundant foliage including ferns, while a dark stream flows from the middle ground to the right, partially hidden by lush vegetation and large trees with dark trunks forming a rich canopy above.
+end of description
+The subsequent frames maintain the identical static scene, with no discernible dynamic changes, newly revealed objects, or shifts in spatial positions relative to the first-frame viewpoint.
+frame_0000000256-frame_0000000384:
+The first frame displays a dense, verdant forest with a narrow, dark stream winding from the middle-right foreground into the background, slightly left of center. A fallen log lies horizontally across the stream in the mid-ground, surrounded by a profusion of green foliage, including ferns and leafy plants, while towering trees with thick canopies fill the upper and background areas.
+end of description
+In the subsequent frames, the scene remains entirely static, with no visible dynamic changes, movement in the foliage or water, or newly revealed objects or scenes relative to the first-frame viewpoint. The composition, lighting, and all visible elements are identical across the entire sequence of images.

@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a paved path leading into the middle distance, bordered by a trimmed green hedge on the left and a low stone wall on the right. In the midground, a large grey stone church with tall arched windows and a prominent red door is visible, positioned slightly to the right of the path, with a graveyard and several stone crosses to its left. Lush green trees frame the entire scene on both sides and behind the church, beneath a bright, overcast sky.
+end of description
+The camera gradually pans slightly left and subtly zooms in, causing the church to appear larger and more central, revealing more intricate details of its architecture and the steeple. This movement brings a greater portion of the graveyard and its large stone crosses into view on the left, effectively widening the perspective towards the church and its immediate surroundings.
+frame_0000000128-frame_0000000256:
+The first frame displays a stone church with a tall spire on the right-center, flanked by a dirt path to its right and a graveyard with multiple headstones and a large cross marker to its left, all set amidst lush green trees and bushes under a bright sky.
+end of description
+Subsequent frames feature a continuous slow pan to the right, gradually shifting the church further towards the frame's center. This movement reveals more of the graveyard to the left, including additional headstones, and slightly expands the view of the path beside the church. As the pan progresses, the trees on the far right become less dominant, and a clock face on the church's spire, previously obscured, becomes visible in the later frames.
+frame_0000000256-frame_0000000384:
+The first frame presents a large, weathered stone church with a tall steeple and Gothic windows prominently to the viewer's front-left, featuring two distinct red doors near its base. To the church's immediate left, a patch of overgrown bushes partially obscures several gravestones, while a gravel path extends from the foreground center-right towards a thick forest of trees on the viewer's right.
+end of description
+Across subsequent frames, the viewpoint gradually shifts right, causing the entire church structure to recede further left relative to the initial frame's center. This shift progressively reveals more of the gravel path and the dense treeline to the right of the church, while a foreground tree branch slightly sways in the mid-right.

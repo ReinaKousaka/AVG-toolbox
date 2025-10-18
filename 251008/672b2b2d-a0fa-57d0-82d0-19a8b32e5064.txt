@@ -1,0 +1,32 @@
+frame_0000000000-frame_0000000128:
+The viewer stands on a sidewalk with steps and a building on the right, facing a street lined with trees and a grassy median. Distant tall buildings rise in the background, and a red bus is partially visible on the far right of the street, behind the trees.
+end of description
+Subsequently, a blue bus and then a white car appear from the right on the street, moving left across the frame. The blue bus leads, followed by the white car and the previously seen red bus, all progressing across the view from right to left relative to the first-frame viewpoint.
+frame_0000000128-frame_0000000256:
+The first frame shows an urban street scene with a paved sidewalk and a building featuring glass storefronts and entrance steps on the right. To the left, a road with multiple lanes is visible, bordered by a grassy median, where two buses (one red, one blue) and a white car are present, with several tall buildings in the background.
+end of description
+As the frames progress, the red and blue buses continue moving forward and left, receding into the distance. A white car and a light-colored SUV sequentially appear from the left and drive across the road in the mid-ground, moving to the right of the first-frame viewpoint.
+frame_0000000256-frame_0000000384:
+The first frame presents a city sidewalk viewpoint, featuring a building facade with large display windows and steps on the immediate right, with concrete sidewalk tiles and yellow tactile paving extending towards the viewer. To the left, a grassy median and two trees separate the sidewalk from a multi-lane road where a white car, a silver van, and a distant blue bus are visible, all against a backdrop of tall city buildings.
+end of description
+Subsequently, the white car on the far left and the silver van in the midground both move forward along the road, with the silver van eventually exiting the frame to the left. The distant blue bus is replaced by a green bus that also drives forward, and minor shifts in background vehicles occur while the overall viewpoint remains relatively static.
+frame_0000000384-frame_0000000512:
+The first frame shows a city street scene with a paved sidewalk extending directly forward from the viewer. To the left of the sidewalk is a strip of grass with two prominent trees, beyond which lies a multi-lane road. Across the road in the midground, a green bus is partially visible behind orange and white construction barriers marking a pedestrian crossing, while tall city buildings rise in the distant background. To the viewer's immediate right, a modern building facade with large reflective windows reveals yellow chairs inside, resting on a grey tiled base.
+
+end of description
+As the frames progress, the viewpoint moves forward along the sidewalk. The trees initially to the viewer's left gradually shift further left and eventually out of frame. Concurrently, the building facade to the right reveals more of its surface, including a new poster displayed on its wall. The pedestrian crossing and construction barriers across the road ahead appear progressively closer and more defined, indicating the viewer's approach.
+frame_0000000512-frame_0000000640:
+The first frame displays a street scene with a paved sidewalk featuring yellow tactile paving on the right, bordered by a strip of grass and a road to the left. Two tree trunks stand vertically on the left side, with the closer one in the far left foreground and another further back. On the immediate right, a modern building's facade shows large glass windows, with a "SALAD" advertisement and a hint of a yellow chair visible inside through a reflection. In the midground, a green bus travels along the left lane of the road, which also features a pedestrian crosswalk and a concrete barrier with orange and white markings. The background is filled with various city buildings and green foliage under a clear sky.
+
+end of description
+
+The viewpoint steadily moves forward along the sidewalk. The green bus, initially positioned in the mid-left, continues to move further left and recedes into the distance relative to the first-frame viewpoint. Simultaneously, the storefront on the immediate right, with its visible interior, recedes behind the viewer as metallic roller shutters progressively cover the window and extend further into the right side of the frame. The triangular yield sign attached to the tree trunk on the left grows larger as the camera approaches it, and the crosswalk also draws nearer.
+frame_0000000640-frame_0000000768:
+The viewer stands on a sidewalk with a yellow tactile strip, bordered by a building with a closed metal shutter and steps to the right, and a tree, grassy patch, and an adjacent road to the left. Ahead, two black bollards flank a crosswalk leading to a main street with orange-and-white barriers, city buildings, a distant green bus, and a 'Yield' sign attached to a pole.
+end of description
+The camera smoothly moves forward along the sidewalk, causing the tree on the left and the building on the right to appear closer and larger, shifting slightly outwards from the frame's center. As the viewpoint advances, more of the sidewalk's immediate texture and the building's facade further down its length are progressively revealed.
+frame_0000000768-frame_0000000896:
+The first frame displays a city street from a sidewalk perspective. To the viewer's immediate left, a large tree trunk stands beside a pole holding a red triangular 'YIELD' sign and another sign above it. On the right, a building facade with horizontal metallic shutters and a set of stairs ascends towards the right. In the mid-ground, a crosswalk with white stripes spans a road marked with a red bike lane, beyond which orange and white barriers separate lanes. In the background, various multi-story city buildings rise under a clear sky.
+
+end of description
+The camera smoothly pans to the right, progressively shifting the tree and its signs out of view to the far left. Simultaneously, the building on the right becomes increasingly prominent, revealing more of its gray columns and less of the shutters as the scene pivots. This movement causes the road and the distant cityscape to also shift towards the left of the original first-frame viewpoint.

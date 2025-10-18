@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a wide-angle view of a sunny town intersection. A black car rests on yellow zebra crossings in front of the viewer, adjacent to a small traffic island with a black and yellow pole on the left-front. Across the road stand several white-painted buildings, with a prominent one featuring shops at its base, while a bridge railing and a pedestrian walking leftwards are visible on the far right.
+end of description
+Following frames show the black car moving forward and turning left, gradually disappearing towards the left of the initial viewpoint. Concurrently, the pedestrian on the far right walks further left across the bridge, eventually exiting the scene to the left.

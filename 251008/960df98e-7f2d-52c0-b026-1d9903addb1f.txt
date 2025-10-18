@@ -1,0 +1,28 @@
+frame_0000000000-frame_0000000128:
+A paved road stretches into the distance under a blue, cloudy sky. To the left, a green mesh fence borders a grassy area with trees and a distant white vehicle, while on the right, a two-story grey house with a parked silver minivan in its driveway is prominent, along with a utility pole in the mid-ground.
+end of description
+The camera subtly moves forward and slightly to the right. This movement gradually reveals more of the grey house's front facade to the right, including a brown entrance door and a metal fence, which were less visible from the initial viewpoint. Additionally, a small patch of green vegetation and an orange marker on the far right become more distinct.
+frame_0000000128-frame_0000000256:
+The first frame depicts a residential street scene, with a gray minivan parked on a concrete pad in the mid-right foreground, in front of a two-story brown house. To the left of this house is a small white shed, and further left, a light brown house borders the curving asphalt road. Utility poles and wires traverse the upper left, leading towards a background of additional houses and trees, all under a cloudy sky.
+end of description
+The subsequent frames illustrate a slow pan to the right, progressively revealing more of the street and distant houses extending into the right portion of the scene relative to the first frame's viewpoint.
+frame_0000000256-frame_0000000384:
+A two-story house with brown tiling is visible on the left, partially obscured by a grey car parked in front of its lower-left corner. A metal fence and gate enclose the house's front yard, behind which bicycles are visible. A narrow paved path, bordered by a green hedge, extends from the foreground towards the background on the right, flanked by utility poles and wires, with other houses and trees in the distance under a cloudy sky.
+end of description
+As the frames progress, the viewpoint moves forward along the path. The grey car progressively exits the frame to the left, revealing more of the house's entrance and the metal fence which now dominates the mid-left. The house recedes further into the background on the left, while the paved alleyway and the green hedge on the right extend more prominently into the foreground.
+frame_0000000384-frame_0000000512:
+The first frame depicts a narrow residential street extending into the distance under a cloudy sky. To the immediate left, a brown-sided house stands behind a metal fence and a green hedge, with a blue bicycle visible behind the fence. Directly to the right, a white-sided house with a visible pine tree is situated behind a low wall and hedge.
+end of description
+As the frames progress, the viewpoint advances down the street. The bicycle initially prominent on the left foreground moves out of view to the left and behind the viewer's updated position, while the houses on both sides recede further, revealing more of the street that was previously in the distant background. A white pole and a utility pole, initially in the mid-ground, become progressively closer and more central in the field of view.
+frame_0000000512-frame_0000000640:
+The first frame depicts a narrow asphalt path extending into the distance, lined by green hedges, fences, and residential buildings on both sides, with a streetlight pole on the left and utility wires overhead under an overcast sky.
+end of description
+The viewer proceeds forward down the alleyway, causing the initial hedges and building fronts to move past to the sides and eventually behind the first-frame viewpoint. Progressively, new sections of the path, additional houses, and more greenery located further ahead from the original viewpoint are continuously revealed as the scene unfolds.
+frame_0000000640-frame_0000000768:
+A narrow asphalt path extends forward between green hedges; to the left, a light pole, metal fence, and lush trees border a building, while to the right, utility poles and several two-story houses with fences line the route under a cloudy sky.
+end of description
+The frames depict a subtle forward movement down the path, making distant elements appear marginally closer and pushing the surrounding structures and vegetation slightly outwards from the center of the first-frame viewpoint.
+frame_0000000768-frame_0000000896:
+The first frame shows a narrow asphalt path extending into the distance, flanked by green hedges. To the left are a metal fence and dense trees, while residential houses and a prominent utility pole line the right side of the path.
+end of description
+As the frames progress, the viewpoint moves forward along the path, causing the hedges and houses flanking the path to recede from the viewer's initial foreground towards the background. Simultaneously, the section of the path and houses originally seen in the distance approach the first-frame viewpoint, revealing more of the path ahead.

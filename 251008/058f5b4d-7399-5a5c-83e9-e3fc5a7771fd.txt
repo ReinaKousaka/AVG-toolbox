@@ -1,0 +1,28 @@
+frame_0000000000-frame_0000000128:
+A wet asphalt road curves gently to the left in the foreground and midground, bordered on its left by a yellow barrier atop a steep, green slope. To the viewer's right, a massive, rugged cliff face rises vertically, displaying intricate rock textures in shades of grey, brown, and yellow, interspersed with clinging green vegetation. Above, a dull white sky meets distant mountains shrouded in mist on the far left.
+end of description
+As the frames advance, the viewpoint moves steadily forward along the curving road, continuously revealing more of the wet asphalt and the extended yellow barrier on the viewer's left. The towering, textured cliff face to the right gradually unfolds its full extent and detail, with varying rock patterns and clinging greenery moving past. The distant misty mountains on the initial far left become slightly more obscured by the foreground as the progression continues, but no new objects or scenes emerge.
+frame_0000000128-frame_0000000256:
+The first frame shows a paved road curving gently left and uphill, viewed from a forward perspective. To the viewer's immediate right, a towering, textured rock cliff rises steeply, dominating the frame. On the left, a yellow guardrail runs alongside the road, beyond which sparse green foliage gives way to a misty, overcast sky and a distant, obscured landscape.
+end of description
+As the camera moves forward, the road ahead and new sections of the towering cliff face on the viewer's right are continuously revealed. The yellow guardrail on the left extends further, while the misty landscape beyond it remains largely consistent ahead and to the left.
+frame_0000000256-frame_0000000384:
+The first frame presents a grey, wet road curving gently into a misty distance, bordered by a towering, textured rock face covered in green foliage on the right. To the left of the road, a yellow barrier lines the edge, beyond which dense green trees give way to a vast, cloudy expanse under an overcast sky.
+end of description
+As the frames progress, the viewpoint moves forward along the winding road, causing the rock face on the right and the yellow barrier with adjacent trees on the left to continuously shift from the mid-ground towards the foreground and eventually out of view. This reveals new segments of the road and the imposing cliff wall directly ahead, while the misty mountain in the far distance slowly recedes as the journey continues.
+frame_0000000384-frame_0000000512:
+The first frame displays a paved road curving slightly to the left, with a yellow and green barrier on its left side and a towering, rocky cliff face covered in green vegetation immediately to the right. An overcast sky dominates the upper left, while distant mountains are visible through a light mist in the background.
+end of description
+As the frames progress, the viewpoint moves forward along the road, revealing new sections of the barrier on the left and the detailed, rocky texture of the cliff face on the right, which is closer to the viewer. Patches of yellow flowers on the cliff become more prominent then recede as the scene advances.
+frame_0000000512-frame_0000000640:
+The first frame shows a narrow, winding road curving slightly to the right, extending from the viewer into the mid-ground. To the right of the road is a massive, textured stone cliff face covered in patches of green vegetation, rising steeply upwards. On the left, a yellow safety barrier runs alongside the road, beyond which are some trees and a distant, hazy mountain peak partially obscured by mist, all under an overcast sky that dominates the upper left portion of the frame.
+end of description
+As the perspective moves forward, the road, the yellow guardrail on the left, and the rocky cliff face on the right advance towards and then recede past the viewer. Continually new sections of the cliff, adorned with sparse green foliage, are revealed directly ahead on the right. A distinct dark opening or recess becomes visible within the lower part of the cliff wall on the right as the journey progresses.
+frame_0000000640-frame_0000000768:
+The viewer is on a wet asphalt road curving left ahead, bordered by a yellow barrier and a small tree on the left, and a tall, vegetated rocky cliff face with an opening and graffiti on the right. A misty green mountain is visible in the distance under an overcast sky.
+end of description
+As the viewpoint moves forward, the road, yellow barrier, and small tree on the left recede behind the viewer, revealing more of the curving road ahead. The rocky cliff face to the right moves past, showing new sections of rock and vegetation further along the path, while the initial opening and graffiti move behind the viewer. The misty mountain ahead appears closer as the scene continuously progresses forward along the winding road.
+frame_0000000768-frame_0000000896:
+A wet, paved road curves slightly to the left, bordered by a yellow-orange barrier on the viewer's immediate left and a steep, dark rocky cliff on the right, adorned with sparse green vegetation. Ahead, the road continues to curve, leading towards a distant, mist-shrouded mountain with a small white sign visible on the road, all under an overcast sky.
+end of description
+The viewpoint subtly moves forward along the road, causing the yellow barrier on the left and the rocky cliff on the right to gradually recede from the foreground. This progressive movement reveals slightly more of the curved road ahead towards the distant, misty mountain, but no new objects or scenes are introduced.

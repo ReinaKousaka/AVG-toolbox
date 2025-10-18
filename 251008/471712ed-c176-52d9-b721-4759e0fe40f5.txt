@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame captures a narrow paved street in a residential area, flanked by buildings; a light-colored structure with a 'no parking' sign and potted plants stands on the left, while a darker traditional building with parked bicycles and gardening items occupies the right. The street recedes into the background, where a few pedestrians are visible under a clear sky.
+end of description
+The viewer then moves continuously forward down the street. Consequently, objects initially in the immediate foreground, like the sign and bicycles, progressively shift to the sides and then out of view behind the original viewpoint. The buildings on either side appear to expand, and the pedestrians in the distance draw nearer.
+frame_0000000128-frame_0000000256:
+The first frame displays a narrow street stretching into the distance under a clear blue sky, bordered by buildings and foliage. To the immediate left, a light-colored building with large windows features a stone planter filled with potted plants, while a dense green tree and a stone wall occupy the immediate right. Further down the street, two people walk away from the viewer, amidst more traditional Japanese architecture lining both sides of the road.
+end of description
+As the camera moves forward along the street, the initial building on the left and the large tree on the right recede, moving out of view to the sides. Consequently, previously unseen sections of the street and additional traditional buildings further ahead (relative to the original viewpoint) are revealed, while the two distant figures approach closer to the camera's new position.
+frame_0000000256-frame_0000000384:
+The first frame shows a narrow street, with a beige building featuring a white garage door prominent on the left and a large green tree on the foreground right. Traditional wooden buildings line both sides of the street further down, where two individuals in dark clothing and masks walk towards the viewer, with other people visible in the distant background.
+end of description
+In subsequent frames, the two individuals in masks walk closer to the viewer, passing them on the right side and eventually exiting the frame. As the viewpoint moves forward, a dog briefly appears lying on the left sidewalk, and a flower pot with vibrant flowers and a mailbox are progressively revealed on the left and right sides of the street, respectively.

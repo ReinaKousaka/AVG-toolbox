@@ -1,0 +1,16 @@
+frame_0000000000-frame_0000000128:
+A paved path stretches directly from the viewer towards an old, grey stone archway with a gabled roof and closed black metal gates ahead. To the left is green grass and trees, while a dense green hedge borders the path to the right; a smaller stone archway with gates stands left of the main one.
+end of description
+The following frames depict a continuous forward motion, causing the archway, gates, and surrounding foliage directly in front to progressively appear larger and closer relative to the first-frame viewpoint. No new objects or scenes become visible from behind or to the sides; the perspective simply advances through the existing scene.
+frame_0000000128-frame_0000000256:
+The viewer is positioned before a historic stone archway, featuring a prominent central arch and a smaller, auxiliary arch to its left, both secured by black metal gates. A paved path leads from the immediate foreground directly towards and under the main arch, bordered by green grass and lush trees on the left, and a tall, dense hedge on the right. Beyond the gates, more distant trees and a small white sign are discernible.
+end of description
+No dynamic changes or newly revealed objects or scenes are observed across the subsequent frames; the scene remains entirely static from the initial viewpoint.
+frame_0000000256-frame_0000000384:
+The first frame displays a paved path leading to a large stone archway with a closed black metal gate centrally positioned. To the left, a smaller stone archway with another black metal gate is partially obscured by green foliage, while a dense green hedge runs along the right side of the path. Through the main archway, distant trees and a white sign are visible.
+end of description
+In the subsequent frames, the right panel of the central black metal gate steadily swings inward and to the left, progressively opening. By the final frame, this gate is fully open, revealing more of the path and dense trees beyond, straight ahead from the initial viewpoint.
+frame_0000000384-frame_0000000512:
+The viewer faces a stone archway structure featuring two openings; a large central arch, blocked by a closed black metal gate, leads to a paved path and dense green trees. To the viewer's left, a smaller, slightly recessed arch reveals more greenery beyond its partially open black metal gate, while stone pillars separate the arches and foliage frames the structure with scattered leaves on the foreground path.
+end of description
+As the sequence progresses, the central black metal gate steadily swings open to its right, further unveiling the paved path and trees beyond the initial viewpoint. Concurrently, a yellow outdoor lantern is revealed to be mounted above the left archway, becoming more prominent as the perspective subtly shifts forward and to the left.

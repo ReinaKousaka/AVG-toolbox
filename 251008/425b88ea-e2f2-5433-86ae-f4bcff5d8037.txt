@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a wet, rainy street scene. A large tree trunk occupies the foreground on the left, next to a brown sidewalk that extends into the distance. Parallel to the sidewalk on the right is a green path, alongside which runs a dense green hedge and taller trees. To the left of the sidewalk, a wet road with white markings is visible, bordered by a metal fence and a building in the far left background. A person holding a blue umbrella walks away from the viewer on the green path in the midground, with a green bus and red cars visible further down the road.
+end of description
+Throughout the sequence, rain continues to fall consistently, with visible splashes on the wet surfaces. The person holding the umbrella slowly walks further away from the viewer, receding into the distance along the green path. In the final frames, the umbrella is revealed to be multi-colored with blue, yellow, and red sections as it moves further away. Additionally, a "Rain Everyday" watermark appears in the bottom left corner of the last frame, overlaying the tree trunk.
+frame_0000000128-frame_0000000256:
+A rainy outdoor scene shows a wet asphalt road on the left with cars in the mid-distance, and a wet brick sidewalk on the right leading away from the viewer, where a person with a blue umbrella walks. Several trees line the sidewalk, and a dense hedge borders a tree-covered slope further right, while buildings are visible in the far left background.
+end of description
+The rain persists as the person with the blue umbrella continues walking further into the distance on the sidewalk. A yellow bus emerges from the viewer's left onto the road in the mid-ground and travels right, passing the viewer and exiting the frame.
+frame_0000000256-frame_0000000384:
+A wet sidewalk and green bike path are to the viewer's right, bordered by a hedge and trees, while a rainy road with traffic lanes stretches to the left. A yellow bus is on the road in the middle distance, moving away, with a green bus behind it, and a person with a blue umbrella walks further down the distant sidewalk away from the viewer.
+end of description
+Over the following frames, the yellow bus on the road and the umbrella-carrying person on the distant sidewalk both continue to move further away from the viewer. A black car then appears from the immediate left, driving along the road past the foreground trees and eventually passing the yellow bus as it also moves away from the viewer.

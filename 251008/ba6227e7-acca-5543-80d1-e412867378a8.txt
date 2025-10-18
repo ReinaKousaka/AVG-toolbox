@@ -1,0 +1,10 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a vibrant city street at dusk, with a large, illuminated Christmas tree prominently positioned in the left-center foreground, backed by a grand building topped with a distinctive green roof. To the right, towering skyscrapers line a busy street where cars with headlights glow, while pedestrians fill the immediate foreground, and a red traffic light hangs overhead to the viewer's upper left.
+end of description
+In the following frames, while the cityscape remains constant, pedestrians dynamically move across the foreground from left to right and towards the viewer. Concurrently, vehicles on the right-center street progress forward, with new cars continually entering and existing ones moving deeper into the scene relative to the first-frame viewpoint.
+frame_0000000128-frame_0000000256:
+The first frame displays a bustling city street scene at twilight, with numerous pedestrians crossing towards the viewer in the immediate foreground. To the mid-left, a large, brightly lit Christmas tree adorned with a star stands prominently before a modern building with vertical illuminated panels, backed by a classic multi-story building with many lit windows and a 'Georgia St' street sign overhead. To the mid-right, a busy street extends away from the viewer, filled with cars whose headlights glow, flanked by tall, modern glass buildings and an HBSC sign, with traffic lights showing green further down the street.
+
+end of description
+
+Throughout the subsequent frames, pedestrians in the foreground continuously move across the intersection, while vehicles on the street to the right slowly proceed away from the viewer. From the sixth frame onwards, a small, dark-colored dog on a leash becomes visible on the far left sidewalk, walking rightward relative to the first-frame viewpoint, behind the initial group of pedestrians. The traffic light colors and building illuminations remain constant across all frames.

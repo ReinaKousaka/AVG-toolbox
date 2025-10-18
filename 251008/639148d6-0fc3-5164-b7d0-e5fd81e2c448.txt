@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a narrow, paved street lined by multi-story buildings; a cafe with white umbrellas, outdoor seating, and potted plants occupies the right foreground, while a shop with a red awning showcasing goods stands to the left foreground. Numerous people walk and stand along the street, which recedes into the distance between the building facades under an overcast sky.
+end of description
+As the frames progress, the viewpoint moves slowly forward along the street, bringing the shop facades, people walking ahead, and architectural details previously further away into clearer view, effectively revealing more of the street's depth.
+frame_0000000128-frame_0000000256:
+A narrow, pedestrian-filled street lined with multi-story buildings stretches forward, featuring shops with red awnings and outdoor seating on the right, and other storefronts on the left, under an overcast sky. Several people are browsing merchandise on the far left foreground, while others walk away from the viewer down the center of the street.
+end of description
+As the viewpoint advances, the individuals on the left and the outdoor seating on the right move past, revealing more of the shop facades and the street further into the alley. People previously in the mid-distance become closer, and the street's curve to the right becomes more pronounced, showing deeper into the urban passage.

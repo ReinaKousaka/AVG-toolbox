@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+A gravel path extends forward into a dense green forest, flanked by undergrowth and fallen logs, gently curving left in the distance.
+end of description
+The viewpoint steadily advances along this path; the foreground vegetation and logs move towards and then behind the viewer. New sections of the forest and path continuously emerge from ahead, with previously distant trees appearing closer and passing by on both sides.
+frame_0000000128-frame_0000000256:
+A gravel path, covered with scattered leaves, stretches from the immediate foreground into the mid-ground, curving gently to the left and disappearing into the dense forest ahead. Tall, slender tree trunks with green foliage line both sides of the path, extending upwards to form a canopy, while lush green undergrowth and several fallen logs are scattered on the ground to the left and right of the path. A large broken branch or fallen tree arches diagonally from the right mid-ground across the undergrowth.
+end of description
+As the frames progress, the viewpoint advances along the gravel path, causing the foreground elements like the initial path section and nearby fallen logs to recede behind the viewer's original position. Simultaneously, the more distant parts of the path and the encompassing forest gradually draw closer, continuously revealing new sections of the path that were previously further ahead from the first-frame viewpoint.
+frame_0000000256-frame_0000000384:
+The first frame displays a gravel path extending into the distance, centrally positioned from the foreground, flanked by dense green undergrowth and numerous tall trees with green foliage on both the left and right sides. Several fallen branches or logs are visible among the undergrowth, notably one low on the left foreground and others sprawling on the right midground.
+end of description
+As the frames progress, the viewpoint moves forward along the path, causing the foreground elements like the gravel path and immediate undergrowth to shift towards and past the viewer. The trees lining the path on both sides gradually transition from the midground into the foreground as the viewer approaches them. The fallen branches on the right side also become more prominent and closer to the viewer's immediate surroundings.

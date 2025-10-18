@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The initial frame displays a nighttime cityscape with a paved walkway on the left featuring several pedestrians moving rightwards. To their right, a grassy median with trees adorned in red string lights and a prominent streetlamp separates the path from a multi-lane street, where numerous cars with visible headlights and taillights traverse the scene. Distant city lights and white monuments are visible further down the illuminated thoroughfare.
+end of description
+Subsequently, the scene slightly pans right and zooms out, revealing more of the street as pedestrians continue walking rightwards along the path and eventually exit the left side of the frame. Concurrently, vehicles on the street actively drive past, including a black car that moves leftwards through the midground before turning away from the viewer.

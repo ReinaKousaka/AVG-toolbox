@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a park scene featuring a dirt path splitting into two in the mid-ground, framed by a barren wooden trellis on the left and a similar structure partially visible on the far right. A group of four people walks away from the viewer on the right path, heading towards numerous evergreen trees and a bright sky in the background.
+end of description
+As the sequence progresses, the viewpoint moves slightly forward, causing the wooden trellis on the left to enlarge while the group of people recedes further into the distance along the right path. This subtle forward motion also reveals more of the immediate foreground and slightly shifts the relative scale of the central pine tree, maintaining the same overall scene.
+frame_0000000128-frame_0000000256:
+In the first frame, a large, gnarled pine tree stands prominently in the center-midground. To the left, a wooden trellis structure without leaves extends from the foreground, alongside a dirt path. To the right, a paved path with a low railing features several people walking away from the viewer, next to a stream and a rustic wooden structure with a thatched roof. More trees fill the midground, and a tree-covered mountain is visible in the far background on the right.
+end of description
+The viewpoint slowly advances, causing the central pine tree to progressively enlarge and shift slightly left in the frame. The group of people on the paved path to the right continue walking away, gradually moving further into the distance and eventually out of view. Simultaneously, the rustic wooden structure on the right becomes more detailed as the viewer approaches, while the trellis on the left also moves past.

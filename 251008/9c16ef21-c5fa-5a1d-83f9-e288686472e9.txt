@@ -1,0 +1,10 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a panoramic view of a lush green mountain landscape under a blue sky, with a steep grassy slope dominating the foreground where sheep graze. A winding dirt road leads towards a rustic wooden barn situated mid-ground, nestled against a densely forested mountain rising sharply behind it, while a rocky peak is visible on the upper right.
+end of description
+The camera subtly pulls back and slightly elevates, revealing more of the expansive green pasture in the immediate foreground and making the mid-ground barn and road appear slightly further away and smaller relative to the viewer. This continuous movement gently widens the overall perspective of the valley and mountains. A few sheep are observed to slowly shift their positions on the grassy slope throughout the sequence.
+frame_0000000128-frame_0000000256:
+In the first frame, a vast green grassy slope occupies the foreground and mid-ground, traversed diagonally by a narrow paved road leading from the bottom-left to the upper-right. To the right of the road, a brown wooden barn with a dark roof is visible, while several light-colored animals graze on the grass, primarily to the left of the barn and along the road. Beyond the slope, a dense evergreen forest covers the left mountain, transitioning to a rocky face in the upper-center, with a deeper valley discernible further back and to the left.
+
+end of description
+
+The viewpoint gradually ascends and shifts slightly to the left. This camera movement reveals more of the expansive, forested valley and distant mountains stretching out to the left and below the initial scene. Consequently, the road, barn, and grazing animals recede towards the bottom-right of the frame, appearing smaller as the overall perspective broadens to showcase more of the surrounding mountainous landscape.

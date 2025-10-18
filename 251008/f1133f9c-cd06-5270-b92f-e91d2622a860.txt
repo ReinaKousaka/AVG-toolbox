@@ -1,0 +1,13 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a row of light-colored stone houses with blue doors and sash windows standing behind a low stone wall adorned with green and reddish foliage, across a paved road. A black estate car is parked on the left foreground, while green foliage partially obscures the far right, all under a bright blue sky.
+end of description
+A white/silver SUV dynamically enters from the far right edge of the first-frame viewpoint in later frames, proceeding along the road further into the right midground of the scene, eventually stopping opposite the stone houses.
+frame_0000000128-frame_0000000256:
+The first frame displays a sunlit village street with a silver SUV parked facing away from the viewer in the foreground on the right. To the left, a row of traditional stone houses with blue doors and white windows stretches into the midground, bordered by a low stone wall covered in various plants and flowers, while an asphalt road occupies the center.
+end of description
+As the sequence progresses, the viewpoint slowly shifts forward and slightly to the left, causing the silver SUV to gradually recede towards the far right of the frame, moving away from its initial position. Concurrently, the row of stone houses and the vibrant garden wall on the left become progressively closer and more detailed, revealing further sections of their facades and plantings that were previously less prominent from the first-frame viewpoint. This forward motion also brings more of the road and a distant stone building on the right into clearer view.
+frame_0000000256-frame_0000000384:
+The first frame displays a sunlit village street, curving gently uphill, bordered by stone houses and walls. On the left, a stone wall supports lush plants before several houses with blue doors and windows. To the right, the rear of a silver car is visible, partly obscuring a stone house, with a low stone wall holding potted plants further along the road.
+
+end of description
+As frames progress, the silver car on the far right slowly moves out of view, gradually revealing more of the stone house's front and the ornate black metal fence and additional potted plants lining the wall immediately behind the car's initial position. The remainder of the picturesque village scene remains static.

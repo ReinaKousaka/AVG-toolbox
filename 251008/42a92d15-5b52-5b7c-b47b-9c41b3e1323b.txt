@@ -1,0 +1,18 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a winding asphalt road, visible directly ahead and curving to the right, with patches of snow along both edges. A rocky, brown hillside with sparse trees rises immediately to the left, while a metal guardrail parallels the road on the right. Distant blue mountains are visible beyond the road, under a light sky.
+end of description
+As the scene progresses, the viewer moves forward along the road, causing the foreground road segments, snow, rocky hillside on the left, and the guardrail on the right to continuously recede and move past the viewpoint. The winding road gradually reveals more of its path ahead, with the distant mountainous landscape remaining broadly in the forward view as the journey unfolds.
+frame_0000000128-frame_0000000256:
+The first frame displays a winding asphalt road, marked with a solid white line on its left edge and a dashed center line, curving rightwards towards the middle distance. To the immediate left, a steep, rocky embankment covered in patches of snow rises upwards, topped by bare trees, while a metal guardrail runs along the right road edge, also bordered by snow. Beyond the guardrail, a snow-dusted forest descends into a wide valley, with forested mountains visible in the far background under a bright, hazy sky.
+end of description
+As the frames advance, the viewpoint moves forward into the scene, navigating the road's curve. The snowy embankment on the left and the guardrail on the right dynamically shift their positions relative to the viewer, appearing to draw closer and then slightly recede as the vehicle proceeds. The white road markings steadily move from the foreground towards the bottom and sides of the frame, indicating continuous forward motion into the initially described landscape.
+frame_0000000256-frame_0000000384:
+The first frame displays a winding asphalt road, marked with a white dashed center line, stretching forward between snow-covered verges. To the viewer's immediate left, a steep, rocky hillside covered in sparse trees and snow rises, while on the right, a metal guardrail borders the road, beyond which a forested valley with distant snow-dusted mountains extends under a partly cloudy sky.
+
+end of description
+
+As the frames progress, the viewpoint moves forward along the road; the rocky hillside on the left and the guardrail on the right gradually recede behind the viewer. Trees previously in the mid-ground on the right, including a distinct bare-branched tree, approach the viewer and become larger in the frame, eventually passing to the viewer's right as the road curves. The distant mountains remain in the background, their perspective subtly shifting.
+frame_0000000384-frame_0000000512:
+In the first frame, a paved two-lane road with a dashed white centerline extends from the viewer into the distance, gently curving right. Snow lines both edges of the road. To the viewer's immediate left, a rugged, brown rocky cliff face rises steeply, topped by dark green pine trees and bare deciduous trees. To the right of the road, a metal guardrail runs parallel, behind which lies a snow-covered slope populated by bare trees and some evergreens, with more distant, forested hills visible under a bright blue sky with scattered clouds.
+end of description
+As the viewpoint moves forward along the road, the section of the road, the rocky cliff on the left, and the guardrail on the right, initially further ahead, gradually approach and pass the viewer. The gentle right curve continues to unfold, progressively revealing more of the forested hillside and distant landscape that were initially further into the scene.

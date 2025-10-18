@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a snow-covered street winding between buildings under an overcast sky. To the left, a row of businesses with red and black awnings features outdoor tables and chairs, partially covered in snow, and planters with small evergreen trees. On the right, buildings including one labeled "LA MORAINE" also have snow-dusted roofs and covered outdoor seating areas. In the distance, a dark car and several pedestrians are visible further down the street.
+end of description
+In the following frames, the dark car and the pedestrians on the right side of the street, initially visible in the distance, slowly progress further away from the viewer. No new objects or scenes are revealed; the primary dynamic change is the subtle movement of these elements further down the street.

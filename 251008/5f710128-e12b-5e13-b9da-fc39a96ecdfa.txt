@@ -1,0 +1,10 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a rainy night cityscape with a prominent yellow advertising banner on the far right, next to which a black car is parked. Two individuals, one with a red umbrella and another with a white, walk away from the viewer on the wet sidewalk, past trees, traffic cones, and electric scooters, with a busy, illuminated street scene in the background.
+
+end of description
+
+The yellow advertising banner on the far right gradually slides out of frame, progressively revealing more of the parked black car. Concurrently, the two individuals with umbrellas continue walking away from the viewer down the wet sidewalk, moving further into the distance. On the far left, the motorcycle also recedes, while the entire street scene subtly pans right.
+frame_0000000128-frame_0000000256:
+The first frame depicts a rainy urban night, with wet streets and sidewalks reflecting various lights. On the near left sidewalk, a blue scooter stands between two orange traffic cones, while two pedestrians holding umbrellas walk away from the viewer, past a tree and streetlights, with a black car visible on the far right and illuminated buildings beyond.
+end of description
+As frames progress, the two pedestrians continue walking further away on the sidewalk, and vehicle reflections dynamically shift on the wet road. A person on a scooter/motorcycle, appearing in a yellow coat, becomes visible on the far left road and moves further away from the viewer, joined by additional passing car lights.

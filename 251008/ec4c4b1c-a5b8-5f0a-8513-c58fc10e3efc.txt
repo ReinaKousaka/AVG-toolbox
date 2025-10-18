@@ -1,0 +1,10 @@
+frame_0000000000-frame_0000000128:
+A paved path extends from the viewer's foreground into the distance, slightly curving right, bordered by reddish dirt and dry grass. To the viewer's left, a brush-filled embankment descends, leading to a cluster of trees, some with vibrant yellow leaves, backed by towering red-orange canyon walls. On the right, a large, dark green tree stands prominently in the mid-ground, with similar dry vegetation ascending behind it. Massive red rock formations dominate the background and horizon under a clear blue sky.
+end of description
+The camera advances along the path, causing the paved surface to continuously move underneath the viewer's perspective. The large green tree on the right side of the path moves past the viewer, gradually exiting towards the right frame edge. Concurrently, the cluster of yellow-leaved trees to the left appears closer before receding leftward. As the viewer progresses deeper into the valley, the red rock faces on both sides become more prominent, revealing new sections of the canyon. The distant mountain peaks remain visible, though their relative position shifts subtly as the foreground environment changes.
+frame_0000000128-frame_0000000256:
+A paved path extends from the foreground center into the mid-distance, flanked by reddish dirt and abundant green and yellow-leafed vegetation, including a prominent yellow tree to the left. Towering red rock mountains form the backdrop across the left and center, under a clear blue sky.
+
+end of description
+
+The viewpoint steadily advances along the path, causing foreground foliage, such as the large green tree on the far right, to move out of frame, while the yellow tree on the left and the surrounding landscape appear closer. As the viewer progresses, new segments of the path and further details of the distant red rock formations are gradually revealed straight ahead.

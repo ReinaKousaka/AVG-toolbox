@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+A paved path and grass bank, along with a large bare-branched tree, occupy the left foreground. To the right, a tranquil canal reflects the clear blue sky and distant buildings, including a stone house and several farm structures on a green hill with a wooden fence. A small dark bird rests on the grass bank adjacent to the canal, and a utility pole stands prominently between the house and farm buildings.
+end of description
+The small dark bird on the left grass bank gradually moves right, then enters the canal water in subsequent frames. It then steadily swims across the canal towards the viewer's right, moving from the left side of the house reflection to past the canal's center line.
+frame_0000000128-frame_0000000256:
+The first frame captures a scenic canal path under a clear blue sky. To the viewer's immediate left, a large tree trunk and bare branches rise, alongside a green bushy hedge. A paved towpath extends from the lower left foreground into the distance, running parallel to a calm canal where a duck swims in the mid-left. On the far bank, a light-colored stone house is prominent, with several farm-like buildings and a green fenced field to its right, and a utility pole standing upright. Distant trees and hills are visible in the far background to the left.
+end of description
+As the frames progress, the viewpoint slowly shifts forward along the paved path. The duck swims continuously away from the viewer in the canal, moving towards the background. The foreground tree on the left gradually recedes and moves out of the frame as the camera advances.
+frame_0000000256-frame_0000000384:
+In the foreground left, a tree trunk and bare branches frame a paved path receding into the distance, bordered by a green hedge. To the right of the path, a serene canal reflects a stone house and other buildings situated on a grassy field across the water, under a bright blue sky with a distant telephone pole on the right.
+end of description
+The viewpoint advances along the path, causing the initial foreground tree to exit the left frame. A wooden signpost, previously hidden by the hedge, becomes visible on the left side of the path, growing clearer as the viewer proceeds. The canal, house, and background elements remain ahead, appearing progressively closer and shifting slightly rightward relative to their initial positions.

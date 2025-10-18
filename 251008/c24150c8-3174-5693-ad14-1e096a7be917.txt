@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+A black SUV is positioned centrally on a wet street, angled slightly right and moving away from the viewer. To the viewer's right, a green sidewalk borders a building with an awning and a sign, where two orange traffic cones are visible in the foreground. To the left, a multi-story building with a yellow banner stands, while a yellow bus is discernible further down the road in the background.
+end of description
+The black SUV drives further away, its brake lights briefly flashing, as the foreground orange cones shift slightly closer to the viewer. Concurrently, a yellow bus enters the scene from the left background, moving towards the viewer behind the SUV, followed by a smaller dark car which also appears from the left, passing the bus and continuing towards the viewer.
+frame_0000000128-frame_0000000256:
+In the first frame, a wet city street extends uphill with buildings on both sides. A grey car is in the left foreground and a black SUV in the right lane, both moving away from the viewer; a yellow bus is visible further down the road behind the SUV. To the far right, an orange traffic cone stands beside a cafe with outdoor seating, while a larger building is to the left.
+end of description
+Subsequently, the grey car and black SUV continue moving away, eventually exiting the frame. A white truck then emerges from behind the yellow bus, proceeding forward in the left lane, eventually passing the initial position of the grey car as the bus also continues its movement further away from the viewer.
+frame_0000000256-frame_0000000384:
+The first frame displays a wet, uphill street with yellow and white pedestrian stripes in the immediate foreground. A white truck is on the left side of the road, while a yellow bus and a dark car are visible further up the road, and a white car is parked on the right sidewalk with a scooter leaning beside it next to a building.
+end of description
+The white truck on the left and the yellow bus further up the road both move uphill and out of view. The dark car also proceeds uphill and exits the frame, followed by a newly revealed white car that likewise moves uphill and disappears from the scene, while the parked white car and scooter on the right remain stationary.

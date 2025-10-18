@@ -1,0 +1,6 @@
+frame_0000000000-frame_0000000128:
+In the first frame, a paved pathway curves into the mid-ground on the left, bordered by a metal railing and green foliage, with a red and white fire hydrant in the bottom-center. To the right of the path, a large expanse of vibrant green grass fills the foreground and mid-ground. Beyond these, a cluster of traditional wooden houses with reddish-brown roofs are visible, nestled close to the turquoise waters of a lake that stretches across the middle and background. Majestic green mountains rise steeply from the far side of the lake, extending to the horizon under a clear blue sky dotted with white clouds. On the far right, a person in a white hat and pink top walks away from the viewer on an adjacent paved road.
+
+end of description
+
+The camera slowly moves forward, causing the fire hydrant in the bottom-center and the path on the left to recede slightly further into the mid-ground relative to the initial viewpoint. Simultaneously, the person on the far right continues walking further away from the first-frame viewpoint along the road. The overall effect is a subtle forward progression through the scene, maintaining the panoramic view of the lake, houses, and mountains in the distance.

@@ -1,0 +1,18 @@
+frame_0000000000-frame_0000000128:
+The initial frame presents a long, two-story stone building across the background, featuring numerous windows and doors. In the midground, a white pickup truck towing a trailer laden with metal debris is parked on the road's shoulder, with a person standing near its front wheel.
+end of description
+As the frames progress, the person by the truck walks left along the road's edge, moving further away from the truck and towards the left side of the scene, eventually exiting the frame to the viewer's left.
+frame_0000000128-frame_0000000256:
+A two-lane asphalt road with white markings occupies the lower portion of the frame, curving leftward. A white pickup truck is parked on the right side of the road, adjacent to a large, multi-story stone building that spans the background. This building features multiple white-framed windows, and to its far left, trees and another distant structure are partially visible under an overcast sky.
+end of description
+A small white van, initially barely visible behind the parked pickup truck on the right, slowly moves further right and out of the frame. Subsequently, a black SUV emerges from the far left of the scene, driving towards the right along the road and eventually passing the stationary white pickup truck.
+frame_0000000256-frame_0000000384:
+The first frame displays a street scene with an overcast sky. To the viewer's right, the front portion of a white SUV is parked, while a black SUV approaches from the middle-left, driving on the road towards the viewer. A long, light-colored stone building with multiple windows dominates the right side and background, beyond which a silver car is parked on a distant side street to the left. Further left, a sidewalk with a yellow pole and some trees are visible in the background.
+end of description
+The black SUV steadily drives forward, moving closer to the viewer from the center-left. It then proceeds to pass the viewpoint, continuing its trajectory towards the far right of the frame. The white SUV on the right remains stationary throughout the sequence, with no other significant changes in the background.
+frame_0000000384-frame_0000000512:
+The first frame displays a street scene with a dark SUV partially visible in the bottom right foreground, closest to the viewer. To its left, a wet asphalt road extends into the distance, bordered by a sidewalk on the far left. A large, weathered stone building with numerous white-framed windows lines the right side of the street, while smaller stone buildings and a large evergreen tree are visible further down the street on the left, with a silver car parked there.
+end of description
+In the subsequent frames, the dark SUV rapidly moves forward and out of view to the right, clearing the foreground where it was initially positioned. No other objects or scenes change dynamically relative to the first-frame viewpoint; all buildings, trees, and the distant parked car remain stationary.
+frame_0000000512-frame_0000000640:
+The first frame displays a street scene with a paved road curving to the left. On the right, a large multi-story stone building with white-framed windows extends into the distance, featuring an "Abbey House" sign. To the left, a sidewalk and sparse vegetation lead to a yellow "St. Ann Lane" sign, followed by more stone buildings and a parked silver SUV in the midground, with tall trees visible behind. end of description. In the subsequent frames, a white car appears in the far distance on the left side of the road and steadily moves closer towards the viewer, becoming larger as it progresses into the midground.

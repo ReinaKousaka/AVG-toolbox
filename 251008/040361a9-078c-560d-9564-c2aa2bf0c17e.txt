@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a reddish-brown wooden church with a steeple on the left, situated on a stone platform where a person sits on a bench. A gravel path curves from the foreground's bottom-center towards the mid-right, flanked by bright green grass on the left and a stone wall topped with a wooden fence on the right. Behind the wall and fence, evergreen trees ascend, leading to a densely forested hillside in the background under a partly cloudy sky.
+end of description
+Over the subsequent frames, the camera performs a very subtle, slow pan to the right with a slight zoom out, incrementally revealing more of the path and the wooden fence on the scene's right side. No other dynamic changes occur, as the person on the bench remains motionless throughout.
+frame_0000000128-frame_0000000256:
+A red-roofed church with a small steeple stands prominently on the left, with a person sitting on a bench in front, resting on a stone foundation. A gravel path curves from the foreground towards the middle-right, flanked by a stone wall and a partial wooden fence, with lush pine trees and a street lamp behind them. A forested mountain slope rises in the background under a partly cloudy sky.
+end of description
+The camera subtly pans to the left, expanding the view of the church to reveal more of its front facade and an additional two people joining the first on the bench, positioned further left. As the view shifts, the wooden fence and stone wall on the right recede entirely from the frame.

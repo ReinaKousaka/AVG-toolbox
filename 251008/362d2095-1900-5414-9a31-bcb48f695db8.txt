@@ -1,0 +1,6 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a scenic valley with a paved road extending into the distance from the bottom center. To the viewer's left, a wooden fence borders a lush green grassy field, with a towering grey rock face beyond it. On the right, a small wooden cafe building with pink umbrellas and outdoor seating is visible, with several people present, and a black car parked further right. In the midground, a large green tree stands, while steep, tree-covered mountains rise on the right, all beneath a bright blue sky with white clouds.
+
+end of description
+
+The camera slowly moves forward, bringing the wooden fence and grassy field on the viewer's left closer and making them more prominent. Concurrently, the cafe building, outdoor seating, and people on the right begin to recede and shift towards the right edge of the frame. The black car parked on the far right gradually moves out of the frame as the viewpoint advances.

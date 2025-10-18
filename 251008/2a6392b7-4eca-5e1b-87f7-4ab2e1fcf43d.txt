@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame captures an art gallery room, showcasing a dark round table with a bronze sculpture and a book centrally placed on an ornate rug, surrounded by white walls adorned with numerous paintings of various subjects. A man in a suit stands to the right of the table, his right arm raised, gesturing towards the paintings, with a doorway leading to another room visible on the far left.
+end of description
+Across subsequent frames, the man dynamically changes his hand gestures and body posture, moving from a raised arm to various two-handed gestures, occasionally pointing towards the paintings on either side. He consistently remains in the same general spatial position relative to the first-frame viewpoint, with no new objects or scenes revealed throughout the sequence.

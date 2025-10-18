@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame shows an uphill residential street with a '30' speed limit painted on the asphalt. To the left are a wooden fence, green foliage, a light green house, and a streetlight, along with a colorful banner near the bottom-left, while a grassy slope and white buildings line the right under a blue, cloudy sky.
+end of description
+As the view progresses, the colorful banner on the lower left of the first frame recedes from view, and a no-parking sign, previously hidden behind the front-left streetlight, becomes fully visible on its pole. Further ahead and to the left of the original viewpoint, a red house and a grey trash bin are revealed on the sidewalk, as the '30' marking on the road moves behind the first frame's original position, replaced by dashed white lines appearing in front.
+frame_0000000128-frame_0000000256:
+The first frame displays a paved road extending forward and slightly right, flanked by a light green shingled building with a grey bin on the left, and a white building on a grassy slope to the right. Further ahead, a red building and a silver car are visible on the left, while a white car and more buildings line the curving uphill road under a blue, cloudy sky.
+end of description
+As the viewpoint moves forward, the grey bin and wooden fence recede and exit the frame to the left, revealing a yellow excavator adjacent to the green building. The red building and silver car on the left come into closer view, along with a 'no entry' sign, as they recede past the initial position. Simultaneously, the white building on the right recedes as a '30' speed limit is marked on the road ahead, where the white car continues to move forward and slightly to the right.

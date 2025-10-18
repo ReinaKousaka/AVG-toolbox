@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+A white SUV is prominently in the foreground, approaching the viewer on a winding mountain road with a green guardrail bordering the left side, flanked by dense trees and distant hills under a cloudy sky. Trailing behind the white SUV are a blue and white sedan, followed by a red car and another light-colored vehicle, all proceeding towards the viewer.
+end of description
+The white SUV quickly moves past the viewer towards the left of its initial position. Subsequently, the blue and white sedan, initially positioned behind the SUV, approaches and then also moves past the viewer to the left, followed by the red car which similarly proceeds forward and exits the frame to the left of the original viewpoint.

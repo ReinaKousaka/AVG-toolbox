@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a rainy city street with a wet brick sidewalk on the right, featuring a building with signs, green benches, and orange lanterns, while a wet asphalt street to the left contains a crosswalk, a partially visible black car, and two parked motorcycles (one with a yellow delivery box), with trees and distant buildings including a yellow bus in the background.
+end of description
+Subsequently, the black car on the street gradually moves forward, passing the viewer's initial position to the right. Concurrently, the yellow bus visible in the background also inches forward along the street.
+frame_0000000128-frame_0000000256:
+A red and white scooter with a yellow delivery box is parked on the wet crosswalk in the foreground left, next to a brick sidewalk lined with trees leading towards distant buildings. On the far side of the wet street, buildings with shops are visible, and a yellow bus proceeds in the mid-distance.
+end of description
+The scooter moves forward and to the left from its initial position, away from the viewer on the wet street. A white car appears from the left, driving right in the mid-distance on the street, while the distant bus also continues its movement. The bicycle leaning against the building on the right side of the sidewalk appears to fall over.
+frame_0000000256-frame_0000000384:
+The first frame depicts a rainy urban street scene with a large tree trunk on the immediate left. A red scooter with a yellow delivery box is parked on the wet street near the left, while a brick sidewalk extends towards the right, bordered by more trees, buildings, and a black bicycle leaning against a facade adorned with orange lanterns. A yellow bus and a white car are visible moving away from the viewer on the street.
+end of description
+The scooter then drives away to the left and exits the frame. Concurrently, the bus and white car continue moving further down the street, revealing another vehicle appearing behind the white car, all moving away from the initial viewpoint.

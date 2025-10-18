@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a street view, with a reddish-brown building featuring "URBAN OUTFITTERS" signage and multiple display windows extending along the brick sidewalk to the viewer's left. To the viewer's right, an asphalt street with a yellow line holds a white pickup truck and a dark SUV parked further down. In the midground, a tall street light stands, with additional buildings and trees receding into the background on both sides of the street.
+end of description
+As the scene progresses, the viewpoint moves forward along the sidewalk. The Urban Outfitters building and the initially visible parked cars recede to the left and behind the original first-frame viewpoint. Concurrently, new sections of the street and buildings further down are revealed in front of the first-frame viewpoint, including a white van appearing on the far right, closer than the previously parked vehicles.

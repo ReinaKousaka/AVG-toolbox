@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a grey asphalt road curving gently to the right, extending from the viewer's foreground into the midground, marked by a dashed white center line and solid white edge lines. To the left, a steep, grass-covered hillside densely populated with green foliage and several large trees slopes upwards. To the right, a narrow grassy verge leads into a dense wall of dark green trees forming a tunnel over the road ahead. A patch of blue sky with white clouds is visible at the top.
+end of description
+As the frames progress, the viewpoint moves forward along the road, causing the immediate surroundings to continuously shift and recede behind the viewer. The dense green foliage on the left hillside and the thick forest to the right approach and then pass to the sides, revealing more of the winding path ahead. The road markings appear from the front and recede under the viewer, emphasizing the forward motion.
+frame_0000000128-frame_0000000256:
+The first frame depicts a paved road curving gently to the right, receding into the distance. To the left, a grassy, fern-covered hill slopes upwards with several large trees, while dense green foliage forms a dark border on the right. Forested hills loom in the background under a bright sky.
+end of description
+As the frames progress, the viewpoint moves forward along the road, causing the immediate roadside vegetation and the curved path ahead to approach and pass the viewer. This continuous motion gradually reveals more of the winding road and the dense, green forest and hills directly in front of the viewer, extending the existing landscape.
+frame_0000000256-frame_0000000384:
+The first frame shows a paved road extending into the distance, gently curving to the left, flanked by a grassy hillside with trees to the viewer's left and dense green foliage with trees to the right. Beyond, a large forested hill occupies the background under a light blue, partly cloudy sky.
+end of description
+As the camera moves forward along the road, the immediate roadside vegetation and white lane markings appear to recede and exit the frame, while new sections of the road and its forested borders are continuously revealed directly ahead and to the sides. The background forested hill remains visible, but new portions of the terrain leading up to it are progressively exposed.

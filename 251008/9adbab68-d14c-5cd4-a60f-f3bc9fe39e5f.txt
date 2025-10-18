@@ -1,0 +1,28 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a two-lane asphalt road with a double yellow center line, extending into the distance from the viewer. To the immediate left, a metal guardrail parallels the road, beyond which rises a steep, scrub-covered hillside. On the right, a massive, jagged rock face in shades of orange and brown dominates the immediate landscape. In the far distance, the road curves slightly right between hazy, tree-covered mountains, with a small white car visible far ahead, beneath a blue sky with scattered white clouds.
+end of description
+The camera moves forward along the road. The white car, initially distant ahead, steadily approaches and grows larger. Simultaneously, the guardrail to the left and the rock face to the right recede from the viewer's immediate foreground, progressively revealing more of the curving road and the deeper canyon ahead, all while maintaining their left and right spatial relationship to the moving viewpoint.
+frame_0000000128-frame_0000000256:
+The first frame captures a view from a vehicle on a mountain road, which curves right, with a double yellow line and a guardrail on the left. Ahead, a white pickup truck approaches on the opposing lane, flanked by a steep reddish-brown rock face on the right and a tree-covered mountain on the left, under a cloudy blue sky. end of description. The white pickup truck rapidly approaches, becoming larger as it moves closer to the front-left of the viewer. It then continues past the viewer's immediate left, ultimately exiting the frame to the left, while the surrounding mountainous landscape remains spatially consistent.
+frame_0000000256-frame_0000000384:
+The first frame displays a grey asphalt road with double yellow lines extending into the distance, flanked by a metal guardrail and tree-covered mountains to the left, and a reddish-brown rocky cliff face immediately to the right. Above, a partly cloudy blue sky crowns the mountainous canyon scene.
+end of description
+As the camera proceeds forward, the road and its adjacent features, including the guardrail and the imposing cliff, continuously move closer to and past the viewer, progressively unveiling new sections of the winding highway through the dynamic mountain landscape.
+frame_0000000384-frame_0000000512:
+A paved road with a white line on the right and double yellow lines in the center stretches from the viewer into the distance, curving slightly right. To the left, a metal guardrail runs alongside a steep, heavily forested mountain slope. On the right, an imposing, orange-brown rocky cliff face rises steeply, with a dirt shoulder between it and the road. In the background, forested mountains continue, leading towards a partly cloudy sky.
+
+end of description
+
+As the viewpoint moves forward, the road continues to curve to the right, and the guardrail and forested mountain on the left recede behind the viewer. Simultaneously, the rugged, orange-brown cliff face on the right appears to move past the viewer's right side, revealing more of its surface. A yellow diamond-shaped sign, indicating a winding road and "30 MPH," emerges from the right side of the road, attached to the cliff face, becoming fully visible by the final frame.
+frame_0000000512-frame_0000000640:
+The first frame shows a paved two-lane mountain road extending into the distance, flanked by a metal guardrail on the left and a rocky slope on the right. A yellow 'winding road 30 MPH' sign stands on the right shoulder, close to the viewer, with distant tree-covered mountains on both sides under a partially cloudy sky.
+end of description
+As the viewpoint advances along the road in subsequent frames, the yellow sign on the right recedes into the distance and then moves out of frame. The rocky mountainside on the right becomes progressively closer and more detailed, while the guardrail on the left also recedes, illustrating continuous progression along the winding highway.
+frame_0000000640-frame_0000000768:
+The first frame captures a paved mountain road, marked with double yellow lines and a white shoulder, curving gently left into the distance. To the right, a steep, rocky mountain face with scattered evergreens rises, while a metal guardrail and a forested slope define the left, all beneath a partly cloudy sky.
+end of description
+As the viewpoint progresses forward along the original path, the road, guardrail, and immediate mountain features continuously approach and pass, revealing new segments of the winding route through the valley.
+frame_0000000768-frame_0000000896:
+The viewer is positioned on a paved road, looking forward as it curves gently to the left, marked by double yellow center lines and a white right shoulder line. A metal guardrail extends along the left side of the road, with steep, tree-covered mountains rising immediately beyond it and receding into the distance. To the right, a rugged, rocky mountainside with scattered vegetation ascends steeply, while above, a bright blue sky with white clouds is visible.
+end of description
+As the frames progress, the viewer's perspective moves forward along the road, advancing deeper into the mountain pass. The guardrail, road surface, and sections of the mountainsides on both the left and right move dynamically past the viewer, continuously revealing new, previously obscured segments of the valley ahead relative to the initial viewpoint.

@@ -1,0 +1,28 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a wet, grey street receding into the distance, flanked by melting snow piles on both sides. To the left, several light-colored buildings with visible power lines line the street, while on the right, a prominent grey pole stands in the mid-ground, partially obscuring a brown-roofed shelter and more snow. In the far distance, a white van is visible amidst other buildings.
+end of description
+As the frames progress, the camera subtly zooms in and pans slightly to the right, revealing more of the right-side sidewalk and the shelter structure. A pedestrian emerges from behind the shelter on the right, walking further into the distant scene along the sidewalk. The numbers '03' become visible on the grey pole on the right as the viewpoint shifts.
+frame_0000000128-frame_0000000256:
+In the first frame, a wet city street recedes into the distance under an overcast sky. In the immediate foreground to the right, a dark pole with a yellow '03' sign is visible next to a bus stop shelter, which has a brown roof and is partially surrounded by large snow piles. On the wet asphalt road, puddles reflect the scene, and a white lane line marks the left side. A person in dark attire and a white mask walks on the sidewalk in the midground, slightly left of center, approaching the viewer, while a white van moves further away on the road in the midground. Various buildings line both sides of the street, extending into the background.
+end of description
+As frames progress, the person on the sidewalk consistently moves closer to the viewer and slightly shifts towards the right of the first-frame viewpoint. Concurrently, the white van on the street recedes further into the distance, moving away from the viewer along the road.
+frame_0000000256-frame_0000000384:
+The first frame displays a winter city street, with a wet asphalt road extending away from the viewer on the left, reflecting the sky. A brown bus stop shelter post is in the immediate foreground on the right, beside a substantial mound of snow covering the sidewalk. Further down the street, a person wearing a dark coat and mask walks on the sidewalk, while a white box truck drives away from the viewer on the road. Tall buildings line both sides of the street, and a white van is partially visible behind the snow mound on the right.
+end of description
+Following frames show the person on the sidewalk continuing to walk further away from the viewer, and the white truck also receding into the distance down the street. The large snow mound on the immediate right progressively melts and recedes, revealing more of the white van previously partially obscured behind it. The overall viewpoint subtly moves forward, causing foreground elements to shift slightly while the midground becomes more central.
+frame_0000000384-frame_0000000512:
+The first frame captures a snowy urban street scene featuring a prominent brown pole in the foreground to the right of center. To the left, a white truck drives away on a wet road, while a masked person walks towards the viewer on the adjacent sidewalk, next to a large snowdrift lining the midground right. Various buildings occupy the background, including one with columns and yellow flags to the right.
+end of description
+Subsequently, the white truck continues receding further to the left down the street. The masked person walks past the foreground pole and then proceeds off-screen to the right of the initial viewpoint. Simultaneously, the yellow flags on the distant building subtly wave.
+frame_0000000512-frame_0000000640:
+In the first frame, a vertical reddish-brown post occupies the right foreground, partially obscuring a person walking on the sidewalk to its left; a large snow pile extends along the right side of the sidewalk, while a wet street with buildings and vehicles stretches into the background on the left.
+end of description
+The previously obscured person, now clearly visible wearing a black jacket and white mask, progressively emerges from behind the post and walks leftwards on the sidewalk. This individual then continues to advance towards the viewer, passing the initial post and becoming fully visible and larger in the frame as they approach.
+frame_0000000640-frame_0000000768:
+A person in a black jacket, dark beanie, and white mask walks from the right foreground towards the viewer, on a sidewalk next to a lamppost. To the left, a wet street with distant cars extends into the urban landscape, while large snow piles are visible on the right sidewalk and across the street, flanked by buildings.
+end of description
+The person continues walking, passing the viewer's immediate right and exiting the frame to the left, progressively revealing more of the large snow pile and the building behind it on the right side. The wet street, distant cars, and cityscape in the background remain stationary relative to the first-frame viewpoint.
+frame_0000000768-frame_0000000896:
+The first frame displays a winter city street with a gray utility pole dominating the lower-left and a large snow mound on the lower-right. A wet street recedes into the distance on the left, lined by multi-story buildings, while a snowy sidewalk and more buildings with columns on the right feature two walking pedestrians and a wall-mounted map.
+end of description
+The camera then moves forward, causing the utility pole to shift leftward and reveal its '02' marking. Concurrently, the foreground snow mound relatively shrinks, and more of the wet street and a white truck traveling leftward become visible as the pedestrians on the right continue their distant walk.

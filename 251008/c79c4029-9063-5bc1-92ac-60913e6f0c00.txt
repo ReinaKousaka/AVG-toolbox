@@ -1,0 +1,26 @@
+frame_0000000000-frame_0000000128:
+In the first frame, a grey asphalt road originates from the bottom center and curves slightly left into the mid-ground, flanked by extensive green grass fields. Scattered houses are visible among the fields on both sides of the road, while towering mountains, some forested and others rocky, frame the scene on the left and right, leading to distant jagged peaks under a clear blue sky.
+end of description
+The following frames show no dynamic changes; the scene remains static with no newly revealed objects or shifts in spatial positions from the initial viewpoint.
+frame_0000000128-frame_0000000256:
+The first frame features a paved road extending from the foreground into the middle distance, bordered by expansive, vibrant green grassy fields on both sides. In the midground, several houses are nestled within these fields, notably a reddish-brown house situated slightly to the right of the road, with other brown-roofed structures further to the left and right. Towering, tree-covered mountains dominate the left and distant background, under a bright blue sky dotted with white clouds, with additional mountainous terrain visible in the far distance.
+end of description
+The subsequent frames reveal no dynamic changes or newly revealed objects; the picturesque mountain valley scene remains static throughout the sequence.
+frame_0000000256-frame_0000000384:
+The first frame presents a narrow, paved road extending away from the viewer, flanked by lush green fields that stretch into a verdant valley. To the left, several traditional wooden buildings are nestled at the base of a forested mountain, while a distinct red-roofed house stands further along the road on the right. Towering mountains, partially covered in trees and with rocky peaks, frame the valley on both sides under a clear blue sky dotted with scattered white clouds.
+end of description
+No dynamic changes, newly revealed objects, or shifts in spatial positions relative to the first-frame viewpoint are observed in the subsequent frames; the scene remains static.
+frame_0000000384-frame_0000000512:
+A narrow paved road extends from the foreground, gently curving towards the left into the mid-distance, flanked by vibrant green grassy fields. To the left, a large brown barn is visible further back, with smaller buildings and trees behind it, nestled against a steep, forest-covered mountain. In the mid-ground, slightly right of the road's curve, a prominent red-roofed house is situated amidst trees, with additional buildings scattered across the green valley floor. Majestic, partially forested and rocky mountains frame the scene on both sides, with a bright blue sky and scattered white clouds overhead. A small grey marker stands in the left field, near the road.
+end of description
+There are no dynamic changes or newly revealed objects in the subsequent frames; all frames provided are identical to the first.
+frame_0000000512-frame_0000000640:
+First, the frame displays a scenic valley with a paved road extending centrally into the distance, flanked by vast green fields. A dark rectangular utility box stands to the mid-left of the road, while a prominent red-roofed house is visible further ahead, slightly right of the road's curve. Majestic, tree-covered mountains with rugged peaks dominate the left and background, enclosing the scene under a clear blue sky, with other buildings scattered in the mid-ground. end of description. As the frames progress, the viewpoint moves forward along the road, causing the utility box, initially to the mid-left, to shift towards the foreground and then out of view to the viewer's left, indicating the viewer's passage past it. The distant houses and mountains are subtly approached, remaining ahead in the scene.
+frame_0000000640-frame_0000000768:
+In the first frame, a paved road stretches from the viewer into the middle ground, flanked by expansive, vibrant green grassy fields. To the left, several brown wooden buildings are situated in the distance, backed by a forested, steep mountain face. To the right, a two-story house with a brown exterior and red shutters stands, with more green fields and distant buildings extending towards the right edge. Towering, rocky mountains with patches of greenery dominate the background under a blue sky with scattered white clouds.
+end of description
+There are no dynamic changes or newly revealed objects or scenes in the subsequent frames; the entire sequence remains static, showing the identical landscape.
+frame_0000000768-frame_0000000896:
+The first frame features a paved road extending from the viewer into the mid-distance, flanked by vibrant green grassy fields. To the right, a wooden house with red shutters is visible behind a fence, while several other wooden buildings are scattered on the left. Majestic green mountains rise in the background under a bright blue sky with white clouds.
+end of description
+There are no dynamic changes or newly revealed objects in the subsequent frames, as all provided frames are identical to the first, maintaining the same viewpoint and scene.

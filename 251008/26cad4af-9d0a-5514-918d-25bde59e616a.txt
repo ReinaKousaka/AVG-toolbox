@@ -1,0 +1,13 @@
+frame_0000000000-frame_0000000128:
+A large green grassy area, dappled with sunlight and shadows, dominates the first frame. To the immediate left, a tree trunk stands tall with its leafy canopy extending into the upper-left, partially obscuring the sky. In the mid-ground to the right, an ornate dark metal bench rests on a small paved area, nestled amongst dense green bushes and wild plants. Further in the background, visible through a clearing, are several light-colored houses, set against a backdrop of more distant trees and a bright sky.
+end of description
+The viewpoint steadily moves forward into the scene, causing all visible objects to appear closer and larger relative to their initial positions. The tree on the left expands, shifting further to the left of the frame. The grassy expanse ahead is progressively traversed, and the houses in the background become more prominent and central as the camera advances.
+frame_0000000128-frame_0000000256:
+The first frame depicts a sunny garden featuring a wide grassy lawn in the foreground and midground. To the far left, a tree trunk and its leafy branches partially obscure the view, while a decorative metal bench rests on a path to the right. In the background, a raised garden bed precedes a row of houses backed by a wooded hill under a bright sky.
+
+end of description
+The camera subtly moves forward through the subsequent frames, causing the foreground elements like the tree on the left and the bench on the right to shift slightly out of frame as the row of houses in the background appears to incrementally enlarge, indicating a gentle approach towards them.
+frame_0000000256-frame_0000000384:
+The first frame displays a garden with a lawn (partially dry in the middle) extending into the mid-ground, where a raised flower bed sits before a row of houses and a tree-covered hill in the distant background. A decorative metal bench is partially visible in the right foreground.
+end of description
+As the frames progress, the viewpoint slowly moves forward and subtly pans right from its initial position. This movement causes the metal bench, initially in the right foreground, to gradually recede out of view to the right. Simultaneously, the background houses appear slightly larger and more central as the perspective approaches them.

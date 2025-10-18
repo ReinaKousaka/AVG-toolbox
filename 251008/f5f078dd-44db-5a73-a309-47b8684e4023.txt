@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a rain-soaked city street at night, reflecting vibrant lights from buildings and streetlights. In the mid-ground, several brightly illuminated bus shelters line the sidewalk, occupied by pedestrians, including one holding an umbrella to the far left. A large, dark building with horizontal stripes forms the background, further illuminated by a prominent streetlight.
+end of description
+In the following frames, a large vehicle, likely a bus, dynamically appears from the right side, moving leftward across the wet road in the mid-ground. Its headlights and reflections are clearly visible as it passes the bus shelters, briefly obscuring some pedestrians, before exiting the scene to the far left. Throughout, the rain continues to fall, creating visible streaks and ripples on the street.

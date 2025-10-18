@@ -1,0 +1,29 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a view down train tracks curving slightly left, flanked by an autumn-colored, rocky hillside with a yellow triangular sign to the left and an embankment sloping to a dirt road and body of water on the right, with an overhead line pole prominent in the mid-ground.
+end of description
+As the train moves, the tracks continually recede beneath, while the hillside, sign, embankment, and water progressively pass by to the left and right respectively, revealing new sections of the winding landscape and overhead line infrastructure ahead relative to the initial viewpoint.
+frame_0000000128-frame_0000000256:
+The first frame displays train tracks curving slightly to the right, extending from the viewer into the distant landscape. Rocky hillsides covered in sparse trees, many with autumn colors, flank both sides of the tracks, leading towards a narrow passage in the background. A utility pole with overhead lines is visible on the right side of the tracks in the mid-ground, all under a bright, overcast sky.
+
+end of description
+As the perspective advances along the tracks, the utility pole and the initial sections of the rocky hillsides on both sides move past the original viewpoint. Subsequently, fresh portions of the steep, netted rock face emerge on the left, while the vegetated hillside on the right continues to unveil itself further along the curving path. The overall scene continuously shifts, revealing new stretches of the track and its mountainous surroundings ahead.
+frame_0000000256-frame_0000000384:
+The first frame presents a train track extending forward and gently curving left into the distance, bordered by steep, dark rock walls on both sides. Trees with golden-yellow foliage are visible atop the left rock wall, while the right features green vegetation and more trees. A utility pole with overhead wires stands to the right of the tracks, receding into the mid-distance against an overcast sky.
+end of description
+As the frames progress, the viewpoint moves forward along the tracks, causing the rock walls and their accompanying vegetation on both sides to recede from the foreground towards the background, revealing more of the track's leftward curve. The utility pole on the right side moves from its initial mid-ground position towards the foreground, eventually exiting the frame to the viewer's right.
+frame_0000000384-frame_0000000512:
+The first frame shows a first-person view down train tracks, which curve gently to the left and recede into the distance between tall, dark rock walls on the immediate left and right. An overcast sky is visible straight ahead, and a utility pole with overhead lines stands further along the right rock wall.
+end of description
+As the viewpoint moves forward, the surrounding rock walls progressively recede, revealing more of the landscape beyond. The right rock wall eventually lowers, allowing a body of water and distant land with autumnal trees to become increasingly visible to the right of the tracks and straight ahead as the curve develops. The utility pole passes out of view to the right.
+frame_0000000512-frame_0000000640:
+The first frame displays train tracks curving slightly to the left, centrally positioned, flanked by a steep, rocky cliff on the immediate left and a lower, rocky embankment with sparse trees on the right. Beyond the right embankment, a wide body of water extends towards distant hills under an overcast sky, with electrical poles visible along the track.
+end of description
+As the camera moves forward, the rocky cliff and embankment on either side recede, revealing more of the steep, vegetated hillside to the left and the expansive body of water to the right. A dark tunnel entrance, previously obscured, becomes increasingly visible and larger ahead on the left as the viewer approaches it. Electrical poles continuously pass by, and a small square object briefly appears on the tracks directly below the viewer before disappearing.
+frame_0000000640-frame_0000000768:
+The first frame shows a view from a train traveling on tracks that stretch centrally into the distance towards a tunnel entrance. To the left is a rocky, tree-covered hillside, and to the right, a body of water with a road and a yellow sign, all under an overcast sky with overhead power lines.
+end of description
+As the train moves forward, the tracks, hillside on the left, and waterside scenery on the right progressively advance towards and past the viewer, continuously revealing new sections of the landscape. The tunnel entrance directly ahead appears to grow larger and closer. The initial yellow sign on the right approaches, passes the original first-frame viewpoint, and recedes behind the viewer, as new yellow signs appear further down the tracks and begin their approach.
+frame_0000000768-frame_0000000896:
+The first frame displays a train's forward view along tracks receding into a distant tunnel. A steep, forested hillside with autumn foliage borders the tracks on the left, while a turquoise lake, a road, and sparse trees are on the right, with distant mountains across the water. Overhead, power lines and a utility pole are present.
+end of description
+As the scene progresses, the viewer moves forward along the tracks towards the tunnel. The initial foreground elements on both sides, including the hillside on the left and the lake and road on the right, dynamically advance towards and then recede past the original viewpoint, continuously revealing new sections of the landscape ahead. The overhead power lines and pole also move closer, passing by the first-frame's lateral positions.

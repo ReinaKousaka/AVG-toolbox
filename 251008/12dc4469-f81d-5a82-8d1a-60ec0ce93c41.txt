@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+A paved road leads forward, flanked by vibrant green grassy slopes and a large dark-roofed house on the right. In the mid-distance, other smaller houses dot the green hillsides, while a snow-capped mountain range dominates the far background under a cloudy sky.
+end of description
+As the viewpoint advances along the road, the house and a small bush initially to the right become more prominent before moving towards the viewer and then out of frame to the sides. The distant green hills and snow-capped mountains remain ahead, slightly increasing in relative size as the forward motion continues.
+frame_0000000128-frame_0000000256:
+A paved road curves slightly left from the bottom center, flanked by bright green grassy hills on the left and a long green hedge in the mid-ground on the right, in front of a large traditional house with a dark roof. In the middle distance, small buildings dot the green valleys, leading to majestic snow-capped mountains under a cloudy sky in the far background.
+end of description
+The viewpoint slowly moves forward along the paved road, causing the green hedge and the house to the viewer's right to gradually move past and out of frame. This progression reveals more of the winding road ahead and the expansive green valley and distant mountains previously partially obscured by the foreground elements.
+frame_0000000256-frame_0000000384:
+The first frame features a paved road extending into the midground from the bottom center, bordered by a steep, vibrant green grassy slope to the left and a dense green hedge to the right, behind which the dark roof and upper story of a house are partially visible on the far right. Further ahead on the left, a small white building with a reddish roof is seen. Beyond these, a valley dotted with numerous small houses on lush green hillsides leads to a massive, snow-capped mountain dominating the distant background under a cloudy sky.
+end of description
+As the viewpoint moves forward along the road, the house on the right becomes more fully visible, revealing its front facade with white-framed windows and dark wooden shutters. A black car briefly appears parked on the right side of the road in the mid-distance, then recedes as the viewer advances. The small white building on the left also moves past the viewer's immediate left, while the overall mountainous landscape in the distance remains ahead, gradually appearing closer and more expansive.

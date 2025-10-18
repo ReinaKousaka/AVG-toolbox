@@ -1,0 +1,28 @@
+frame_0000000000-frame_0000000128:
+A white Audi SUV is centrally positioned ahead of the viewer on a paved road, with a metal guardrail to the left and a rocky incline to the right. On the left roadside, two people walk past blue and red banners, while further ahead on the right, a cement mixer truck is parked behind a temporary green structure and another dark car. Surrounding the road are steep, tree-covered mountains under a partly cloudy sky.
+end of description
+The white Audi SUV and the pedestrians on the left exhibit a subtle forward movement along the road in subsequent frames, indicating a slow progression of the scene without introducing any new objects or dramatic changes from the first-frame viewpoint.
+frame_0000000128-frame_0000000256:
+In the first frame, a white Audi SUV is stationary at the center-right of the foreground, facing away from the viewer on a road curving left into a mountain valley. To the left, several people walk alongside a guardrail, with banners and a yellow cylindrical barrier visible behind them. Further ahead on the right, a white cement mixer truck and a dark SUV are parked. Green, tree-covered mountains dominate the background on both sides of the road under a partly cloudy sky.
+end of description
+As the frames progress, the viewpoint remains static while the people positioned to the left of the Audi SUV slowly walk forward and away from the viewer. Concurrently, the yellow cylindrical object near the guardrail appears to be rolled slightly forward by one of the walking individuals. All vehicles and stationary structures in the mid-ground and background, including the mountains, remain static throughout the sequence.
+frame_0000000256-frame_0000000384:
+The viewer is positioned behind a white Audi SUV, visible in the lower-center of the frame, facing forward on a road that curves slightly to the right. To the left, a guardrail runs parallel, behind which stand several people near a red banner and a yellow barrel. Ahead, a white cement mixer truck is stopped on the road, partially obscuring green containers on the left, while a dark SUV is parked further ahead on the right, all against a backdrop of steep, tree-covered mountains to the left and a rocky embankment to the right under a cloudy sky.
+end of description
+The primary dynamic change involves the white Audi SUV's brake lights, repeatedly illuminating and dimming in front of the viewer. Concurrently, the cement mixer truck ahead subtly inches forward, maintaining its general position relative to the Audi and the surrounding environment.
+frame_0000000384-frame_0000000512:
+A white Audi SUV is directly in front of the viewer on a mountain road, with a white concrete mixer truck positioned ahead and to the left of the Audi. To the viewer's far left are green construction barriers and people, while two dark SUVs are parked on a dirt shoulder to the right of the Audi, all framed by steep, tree-covered mountains under a partly cloudy sky.
+end of description
+The concrete mixer truck, initially to the left and slightly ahead of the Audi, steadily moves closer to the viewer and further left, progressively passing the stationary white Audi. Its front cab moves from being level with the Audi's front bumper to being entirely past its left side, as the vehicles behind the Audi remain static relative to the first-frame viewpoint.
+frame_0000000512-frame_0000000640:
+In the first frame, a large white cement mixer truck occupies the left half of the unpaved road, angled slightly away from the viewer. To its right, closer to the viewer and slightly off-center, is a white Audi SUV, also facing away, with another dark SUV partially obscured behind it. The road extends into the midground, flanked by a metal guardrail on the far left and a steep, rocky mountain on the right. In the background, two larger mountains rise, the left one forested and the right more barren, with a glimpse of red-roofed buildings between them under a partly cloudy sky.
+end of description
+The cement mixer truck and the white Audi SUV move forward, away from the viewer, gradually increasing the distance between them. As they proceed, a green construction fence with red warnings, previously mostly obscured behind the vehicles in the mid-ground, becomes more prominently visible to the left and right of the Audi. The truck shifts slightly further left, while the Audi maintains its central path on the gravel road.
+frame_0000000640-frame_0000000768:
+The first frame displays a large concrete mixer truck on the left, partially obscuring a green construction barrier. Ahead on a dusty road, a white Audi SUV is seen from behind, with a rocky hillside rising sharply to the right. In the distance, mountains with some red-roofed buildings are visible under a partly cloudy sky.
+end of description
+As the viewpoint moves forward on the road, the concrete mixer truck progressively exits the frame to the left, revealing more of the green construction barrier. The white Audi SUV continues ahead, and new sections of the rocky hillside on the right and the distant mountain landscape become visible from the first-frame viewpoint.
+frame_0000000768-frame_0000000896:
+The first frame shows a white Audi SUV from the rear, situated on a rocky dirt road between a green construction fence to its left and a steep, rocky embankment to its right. Mountains are visible in the background, with utility lines overhead against a cloudy sky.
+end of description
+The white Audi SUV slowly drives forward, moving away from the viewer. As it advances, a dark SUV is gradually revealed behind it, also moving forward and maintaining its position relative to the first-frame viewpoint along the same road.

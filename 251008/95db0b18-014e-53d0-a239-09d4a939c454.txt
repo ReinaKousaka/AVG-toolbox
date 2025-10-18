@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a vast cemetery stretching into the distance, characterized by numerous white, rectangular tombstones arranged in orderly rows across a vibrant green grassy field. In the midground, several trees are visible, with a cluster slightly left of center and a solitary tree further right, set against a bright blue sky dotted with scattered white clouds. Distant hills form the horizon line, and shadows from objects outside the frame are cast upon the grass in the lower foreground.
+end of description
+From the third frame, a large, dark-needled tree branch begins to emerge into the upper-left quadrant of the scene, progressively moving further into the frame from the upper-left corner relative to the initial viewpoint. This newly revealed branch continues to extend downwards and rightward across subsequent frames, increasingly obscuring portions of the sky and distant tombstones in the upper-left area.

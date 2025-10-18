@@ -1,0 +1,13 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a wet, paved path extending from the foreground into a misty distance, flanked by lush green bushes. On the left, a row of trees lines the path with a grassy area beyond, while on the right, a low brick wall topped with green fencing parallels the path, featuring a street light pole mid-ground. Yellow tactile paving strips run down the center of the path, and a person holding an umbrella is visible walking away from the viewer in the far distance, as rain falls throughout the scene.
+end of description
+Throughout the following frames, the person with the umbrella continues to walk further away from the viewer down the central path. A second individual, also carrying an umbrella and possibly riding a bicycle, emerges behind the first person, further down the path, also moving away from the viewer. The heavy rain persists, creating more visible splashes and increasing the wetness on the path surface, especially to the right. Both figures progressively recede further into the misty distance along the path.
+frame_0000000128-frame_0000000256:
+The first frame displays a wet, rain-swept road receding into a misty distance, flanked by a paved path on the left with a dark bench and a brick wall with green fencing on the right. Lush green foliage lines both sides, while heavy rainfall creates visible ripples on the road's surface, and a faint figure on a scooter is discernible far down the road to the left.
+end of description
+In subsequent frames, the heavy rain persists, maintaining its intensity across the scene. The distant figure on the scooter gradually moves further away from the viewer, becoming increasingly obscured by the rain and mist as it recedes into the background.
+frame_0000000256-frame_0000000384:
+The first frame displays a wet paved pathway, featuring two yellow stripes along its right side, receding into a misty distance. Green bushes border both sides of the path, with a red brick wall topped by a green metal fence on the far right. In the mid-distance on the left, a dark park bench and a person with an umbrella walking away are visible under continuous rainfall.
+
+end of description.
+Throughout the subsequent frames, the heavy rain causes water to rapidly accumulate on the pathway's right side, forming a progressively deeper and wider puddle that extends closer to the viewer. The person with the umbrella continues walking further down the path, and a small brownish object, likely debris, appears floating on the wet central path, slowly drifting slightly towards the viewer.

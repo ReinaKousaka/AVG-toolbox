@@ -1,0 +1,28 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a two-lane road stretching into the distance from the viewer's perspective, with double yellow lines separating the lanes and a white line on the right shoulder. To the left, there's green grass, a fence, a utility pole, and a forest of bare deciduous and green evergreen trees. To the right, green grass, a fence, evergreen trees, a yellow diamond-shaped road sign indicating a left turn ahead, and a distant white structure are visible. Ahead on the road, three dark cars are driving away from the viewer, while the background reveals a clear blue sky with white clouds and distant mountains, some with snow, on the horizon.
+end of description
+The viewpoint continuously moves forward along the road. The utility pole on the left progresses past the viewer and exits the frame to the left. Concurrently, a silver SUV enters the left lane, moving towards the viewer, and passes on the viewer's left side. The yellow road sign on the right becomes progressively closer and larger, while the vehicles ahead move further into the distance.
+frame_0000000128-frame_0000000256:
+The first frame displays a paved road extending into the distance, with the viewer positioned on it. In the left lane, a black SUV is closest, followed by a red Jeep, while a dark sedan is visible further ahead in the right lane. Pine and deciduous trees line both sides of the road, with distant mountains visible to the far right under a blue sky dotted with white clouds.
+end of description
+The black SUV moves forward, passing to the viewer's left and eventually out of view. Subsequently, the red Jeep moves from behind the black SUV's initial position and also proceeds past the viewer to the left. The dark sedan continuously progresses forward in the distance relative to its first-frame position, becoming the only visible vehicle as the closer cars disappear from view.
+frame_0000000256-frame_0000000384:
+The first frame displays a straight paved road, marked with a white line on the right and double yellow on the left, extending towards distant mountains visible under a blue sky with scattered white clouds. Dense green pine forests line both sides of the road, with some bare deciduous trees on the left, and a small black car is visible far ahead, centered in the distance.
+end of description
+As the viewer moves forward, the black car ahead gradually approaches, and previously unseen portions of the roadside, including utility poles and rocky terrain on the left, and fences with structures on the right, continuously enter the frame from the foreground and move past the viewer's sides.
+frame_0000000384-frame_0000000512:
+The first frame depicts a two-lane road extending into the distance under a clear blue sky with white clouds. Dense evergreen forests flank both sides, with distant mountains visible straight ahead. A dark car travels ahead on the road, and a brown guardrail with yellow markers lines the immediate right.
+end of description
+As the viewpoint moves forward, the dark car proceeds further ahead, and a red car appears behind it, both moving away from the first-frame viewpoint. A utility pole on the left and the guardrail on the right become more prominent before receding past the viewer, revealing new sections of the roadside and forest.
+frame_0000000512-frame_0000000640:
+The first frame depicts a two-lane asphalt road extending directly away from the viewer, bordered by tall green pine trees and some bare deciduous trees on both sides; a red SUV is ahead in the left lane, followed by a darker vehicle, and a brown guardrail lines the right shoulder.
+end of description
+As the viewpoint moves forward, the red SUV gradually drives away and then out of the frame ahead of the viewer by the fourth frame. The roadside trees and landscape on both sides shift backward relative to the viewer, revealing new sections of the road and more distant trees ahead.
+frame_0000000640-frame_0000000768:
+First, a two-lane road stretches forward into the distance under a blue sky dotted with white clouds. Green trees line both sides of the road, with a utility pole and a partial view of a building visible on the far left, and a brown guardrail running along the far right. A dark vehicle is centered far ahead on the road, with distant hills discernible beyond the trees.
+end of description
+As the frames progress, the viewer moves forward along the road, causing the roadside trees, utility pole, and building on the left, and the guardrail on the right, to move towards and then past the viewer's sides. The distant dark vehicle slowly appears to approach, remaining ahead of the viewer.
+frame_0000000768-frame_0000000896:
+The first frame shows a paved road extending forward, flanked by dense evergreen forests on both sides under a blue sky with white clouds. To the left, a white building and signage are visible behind a grassy shoulder, while a metal guardrail runs along the right. A dark vehicle appears far in the distance on the road, with hazy mountains on the horizon.
+end of description
+As the viewer moves forward, the road, guardrail, and surrounding trees advance, gradually revealing more of the close-up foliage and widening the perspective. The signage and white building on the left progressively move out of view to the left, while the distant dark vehicle slowly approaches or remains ahead in the far distance.

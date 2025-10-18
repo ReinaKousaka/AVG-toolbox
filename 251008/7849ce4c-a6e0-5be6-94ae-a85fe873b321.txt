@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a pedestrian street flanked by colorful buildings under an overcast sky; to the left, a restaurant with red umbrellas and patrons occupies the foreground, while to the right, an ornate building with shop windows is visible, and further down the cobbled street, a crowd walks away from the viewer.
+end of description
+Subsequently, the view subtly widens, revealing slightly more of the buildings' lower facades to the immediate left and right of the original frame's edges. Concurrently, the crowd of people continues moving forward, receding further into the distance along the street.

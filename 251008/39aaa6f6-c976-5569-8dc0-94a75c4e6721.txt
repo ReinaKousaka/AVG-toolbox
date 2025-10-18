@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+In the first frame, green grass occupies the foreground, leading to a gravel driveway that separates a stone building complex on the left from a barn on the right. A stone wall and small wooden gate are to the viewer's left, with a larger wooden gate across the driveway leading to a red-fronted building and a partially visible dark car. The stone barn on the right features an elevated green door and stone steps, separated from the driveway by a wooden fence, all set against a background of bare trees under an overcast sky.
+end of description
+No dynamic changes or newly revealed objects are observed in the subsequent frames; the scene remains entirely static.

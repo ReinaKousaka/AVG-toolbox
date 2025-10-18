@@ -1,0 +1,14 @@
+frame_0000000000-frame_0000000128:
+A narrow market street extends into the distance, flanked by numerous stalls displaying merchandise like shoes, bags, and clothing under awnings on both sides. In the foreground, a man in a dark blue shirt and jeans walks towards the viewer on the right, holding a camera, while slightly behind and to his left, a woman in a white outfit is also walking towards the viewer. Many other pedestrians are visible in the mid-ground and background, moving along the street, with an elevated structure and distant buildings visible above the market.
+end of description
+The man in the dark blue shirt and the woman in white walk past the viewer towards the right, gradually exiting the frame and revealing more of the market stalls on the right side of the street that were previously obscured. Other pedestrians further down the street continue to move away from the viewer, maintaining their relative positions within the wider market scene.
+frame_0000000128-frame_0000000256:
+The first frame depicts a vibrant market street flanked by stalls, selling various goods on the left and food items on the right, extending into the background under awnings. Pedestrians fill the paved walkway, while an elevated train track and tall buildings are visible overhead in the distance.
+end of description
+In subsequent frames, a central group of pedestrians, including a woman in a purple dress and a man in a black shirt, steadily walks from the distant middle ground towards the viewer, growing larger and revealing more details of their appearance. Other market-goers also shift positions, moving within the scene but without revealing new areas beyond the initial viewpoint.
+frame_0000000256-frame_0000000384:
+The first frame shows a bustling outdoor market alley. On the viewer's immediate left, a long stall with a pink counter displays numerous small items and hanging bags, covered by an orange awning. To the right, another stall under a red awning features various products and glowing lanterns. In the midground, a woman in a blue dress and a man in a black shirt walk towards the viewer on the right side of the aisle, while other pedestrians move throughout the marketplace leading towards elevated train tracks in the background.
+
+end of description
+
+The woman in the blue dress and the man in the black shirt on the midground right move forward, gradually exiting the frame to the right. A woman in a black top and jeans, previously behind them, advances towards the viewer on the right side of the aisle. Further back on the right, two young men, one in a black "Sunday" jacket and another with crossed arms, become more prominent as they walk towards the viewer. Other pedestrians in the background continue their movement, either approaching or receding from the first-frame viewpoint.

@@ -1,0 +1,15 @@
+frame_0000000000-frame_0000000128:
+In the first frame, a cobblestone road stretches across the foreground, with a black car visible on the left side, facing away from the viewer. To the immediate left of the car, tall buildings rise, with a large tree further back. A canal flows into the mid-distance, spanned by a bridge in the center-right where numerous bicycles are parked along a railing. More traditional buildings line both sides of the canal, receding into the background under a twilight sky.
+end of description
+As the frames progress, the black car on the left drives forward, moving away from the viewer. Simultaneously, the camera view shifts slightly to the right, revealing more parked bicycles on the bridge to the right and expanding the visible length of the canal.
+frame_0000000128-frame_0000000256:
+The first frame shows a cobblestone bridge in the foreground, with a dark metal railing lined with numerous parked bicycles. Beyond the railing, a canal extends into the distance, flanked by rows of classic European buildings with pitched roofs and green trees under an overcast sky with hints of a sunset. end of description
+There are no discernible dynamic changes or newly revealed objects in the subsequent frames; the scene remains static.
+frame_0000000256-frame_0000000384:
+The first frame presents a picturesque canal scene from a bridge, featuring a brick road and a metal railing crowded with parked bicycles in the foreground. Beyond, a tranquil canal extends into the distance, flanked by tree-lined streets and historic, multi-story buildings under a soft, cloudy sky.
+end of description
+Subsequently, a black convertible car dynamically enters the scene from the bottom-left, moving across the foreground from left to right. It steadily drives past the viewer, its headlights illuminating the path ahead, progressively revealing more of its body in front of the railing and bicycles. By the final frames, the car, with its top appearing closed, continues its progression, eventually exiting the view to the right.
+frame_0000000384-frame_0000000512:
+A black convertible car occupies the right foreground, situated on a brick-paved surface. To its left, a canal extends towards the horizon, lined by a metal railing adorned with numerous parked bicycles, while more bikes and trees fringe the left bank. A long row of traditional buildings with gabled roofs stretches along the canal's far bank, under a cloudy sky displaying soft twilight hues.
+end of description.
+The black convertible car moves past the viewer, progressively exiting the frame towards the left. This reveals more of the street's brick pavement in the foreground and previously obscured parked bicycles positioned to the right of the car's initial position against the railing. The canal, buildings, and trees in the background remain stationary, emphasizing the car's motion from the first-frame viewpoint.

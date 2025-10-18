@@ -1,0 +1,30 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a waterfront promenade with a wide paved path extending into the distance under a clear blue sky. To the immediate left is a partially visible green utility vehicle, and beyond it, a black railing borders a river with a distant cityscape. On the right, a dense green hedge parallels the path, backed by trees and tall buildings.
+end of description
+The viewpoint then moves forward along the promenade, causing the green vehicle to exit the frame to the left and revealing more of the path ahead as the person on the left continues walking further into the distance.
+frame_0000000128-frame_0000000256:
+The first frame displays a paved walkway with a hexagonal pattern extending from the foreground into the midground. To the left, a black metal fence runs parallel to the path, separating it from a wide river on which a distant city skyline is visible. A person in a grey top and dark pants walks away from the viewer on the left side of the path near the fence. On the right, a green bush and a tree with bare branches are in the foreground, followed by lampposts and tall buildings lining the path, all under a clear blue sky.
+end of description
+As the viewpoint advances forward along the path, the person walking on the left moves further away, eventually exiting the frame towards the front-left. The paved path extends forward, revealing new sections ahead of the original foreground, while the green bush and bare tree in the first frame's foreground shift further to the right and partially out of view to the front-right. New portions of the black fence and additional lampposts along the path appear further into the mid-left and mid-right, respectively, from areas previously beyond the first frame's visible extent. The distant cityscape across the river remains visible, shifting subtly to the left in the background relative to the moving camera.
+frame_0000000256-frame_0000000384:
+The first frame depicts a wide, hexagonal-paved sidewalk extending into the distance. To the left, a black metal fence runs alongside a large body of water, beyond which a distant cityscape is visible. On the right, a large brown building with numerous windows stands, with a tall, lighter-colored building further behind it, and a black lamppost on a stone base is in the midground closer to the viewer.
+end of description
+As the camera moves forward, the black lamppost and the large brown building on the right progressively recede past the viewer's right. A person on a skateboard appears in the distance on the sidewalk and moves closer towards the viewer's initial position, passing by other pedestrians. Simultaneously, a red life preserver attached to the fence on the left also approaches the viewer.
+frame_0000000384-frame_0000000512:
+The first frame displays a wide hexagonal-patterned paved walkway extending into the distance under a clear blue sky, bordered on the left by a black metal railing overlooking a body of water and a distant city skyline. To the right, a row of trees and tall buildings line the path, with a dark pole displaying green signs and stone steps visible in the foreground. A person in a blue jacket and mask walks away from the viewer on the walkway near the railing, with other distant figures also present.
+end of description
+The individual wearing a blue jacket and mask on the left side of the walkway moves progressively further away from the viewer into the distance; in later frames, this person is also wearing a red hat. Other distant figures also subtly advance along the path.
+frame_0000000512-frame_0000000640:
+The first frame depicts a wide paved promenade with hexagonal patterns in the foreground. A black metal fence on the left borders a body of water with a distant cityscape, while a person in a blue jacket and mask walks towards the viewer. On the right, multi-story buildings, trees, a green sign, and another person walking away line the path.
+end of description
+The person on the left continues walking towards the viewer, revealing a prominent red life preserver on the fence to the viewer's mid-left, before exiting the frame to the immediate left. Concurrently, the person on the right steadily moves further away from the viewer down the path.
+frame_0000000640-frame_0000000768:
+The first frame showcases a wide hexagonal cobblestone promenade, with a circular manhole cover visible in the foreground to the right of center, extending towards a distant city skyline across a body of water on the left, separated by a black fence featuring an orange lifebuoy. On the right side of the promenade, a masked person walks towards the viewer, passing a green informational sign, with bare trees and two tall buildings standing behind them.
+end of description
+Chronologically, the masked person continues to walk closer to the viewer, eventually exiting the scene to the right of the initial frame's viewpoint. A shadow, appearing on the ground near the green sign, also progresses rightward and disappears, while the manhole cover subtly shifts left relative to its initial position.
+frame_0000000768-frame_0000000896:
+The first frame depicts a hexagonal paved walkway stretching into the distance under a clear blue sky, with a black fence and a body of water on the left, featuring an orange lifebuoy and a distant city skyline. To the right, tall buildings and sparse autumn trees line the path, with a blank, dark green information sign prominently placed in the foreground.
+
+end of description
+
+Over the following frames, this information sign, remaining in its fixed position to the right of the viewer, dynamically populates with text. First, a list of destinations appears, then a 'BATTERY PARK CITY' logo emerges at the top. Subsequently, a 'Subway' heading with an arrow is fully revealed at the sign's peak, completing the display.

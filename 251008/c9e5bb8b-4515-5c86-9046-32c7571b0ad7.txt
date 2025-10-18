@@ -1,0 +1,29 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a sunny park scene under a clear blue sky. A paved path curves towards the left foreground, adjacent to a grassy area where a dirt path ascends into a dense cluster of tall evergreen trees dominating the center and right. To the far left, distant pedestrians are visible on a wider path next to water and a city skyline, while the right foreground features a low concrete block wall and a cylindrical structure.
+end of description
+In subsequent frames, the viewpoint subtly moves forward and pans slightly left. The group of pedestrians on the distant path to the left moves further away from the viewer. Additionally, a second street lamp becomes visible in the far left background, and the distant city buildings expand their presence on the left horizon.
+frame_0000000128-frame_0000000256:
+The first frame displays a sunny park scene with a paved path on the left foreground, where a lamppost stands and several people walk and cycle towards the midground. Behind them, modern high-rise buildings and an elevated bridge structure are visible, with distant mountains under a clear blue sky. To the right, a grassy slope leads up to a dense cluster of tall evergreen trees, beneath which a dirt path winds upwards into the foliage.
+end of description
+As the frames progress, the viewpoint shifts subtly forward and slightly left. The tall, white high-rise building on the far left becomes more prominent and extends further into the frame from the left edge. Concurrently, the paved path ahead widens slightly, revealing more of the ground in front of the viewer, and the people on the path appear to move closer. The dense tree line on the right remains largely in its spatial position relative to the advancing viewpoint.
+frame_0000000256-frame_0000000384:
+The first frame depicts a paved path extending from the foreground, flanked by modern high-rise buildings on the left, including a prominent curved structure, and a dense line of tall evergreen trees on the right, with a clear blue sky and distant mountains in the background. A lamppost stands in the mid-left, a group of people walk on the path in the midground, and a dirt trail winds through the trees to the right.
+end of description
+Subsequently, a cyclist emerges from the mid-left and moves towards the viewer's foreground position. Meanwhile, the group of people and another cyclist in the midground continue to progress forward along the path, receding slightly from the initial viewpoint towards the background.
+frame_0000000384-frame_0000000512:
+The first frame presents a sunny urban landscape with a wide paved path curving to the right, bordered by green grass and tall evergreen trees on the right, and lower buildings leading to several modern high-rise towers on the left. In the mid-ground, a group of pedestrians walks away along the path, while a cyclist is positioned on the far left, moving towards the viewer. Distant mountains are visible in the background beneath a clear blue sky.
+
+end of description
+As the frames progress, the cyclist on the path to the left moves forward, passing closer to and then beyond the first-frame viewpoint, while the group of pedestrians in the mid-ground continues to recede further away along the path. No new objects or scenes are revealed relative to the initial viewpoint.
+frame_0000000512-frame_0000000640:
+The first frame presents a paved path extending away from the viewer, flanked by a modern grey building and streetlamps on the left, and a grassy area with tall evergreen trees and bushes on the right. A cyclist in a blue jacket and yellow helmet rides away on the path's left, while a group of people walk away in the midground center. In the background, numerous tall, light-colored buildings and distant mountains are visible under a clear blue sky.
+end of description
+As frames progress, the cyclist moves further away to the left on the path, eventually exiting the frame. Concurrently, the group of walkers continues to move further away from the viewer along the center of the path.
+frame_0000000640-frame_0000000768:
+In the first frame, the viewer is positioned on a paved path with a black lamppost in the immediate left foreground, alongside a grey-and-white building and several tall, white residential skyscrapers in the mid-left distance. To the right, a line of dark evergreen trees and smaller green bushes borders a grassy area, while a bridge and distant mountains are visible under a clear blue sky in the far background. On the path, two individuals walk towards the viewer in the mid-ground, simultaneously with three other people walking away further down the path.
+end of description
+As the frames progress, the two individuals previously walking towards the viewer continue to approach, eventually moving into the immediate foreground and passing slightly to the viewer's left, while the three people walking away recede further into the distance. All background elements, including buildings, trees, and mountains, remain static relative to the initial viewpoint throughout the sequence.
+frame_0000000768-frame_0000000896:
+First, a paved path under a clear blue sky stretches into the distance, lined by tall green trees on the right. In the foreground, four people are on the path—two approaching on the left and two receding on the right—while modern high-rise buildings and distant mountains define the background.
+end of description
+The two individuals walking towards the viewer on the left continue to advance, eventually passing out of view to the viewer's immediate left. Simultaneously, the two people receding on the right continue their walk further down the path, appearing smaller as they move into the distance. No new objects or scenes become visible; only the relative positions of these individuals change within the established landscape.

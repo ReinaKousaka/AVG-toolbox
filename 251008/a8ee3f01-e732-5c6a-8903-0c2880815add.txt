@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+An aerial view reveals a vibrant coastal town nestled against green hills to the left and center. A sandy beach with sunbathers and an inflatable water park occupies the foreground bay, with a rocky outcrop prominent directly in front. White buildings extend across the hillside into the mid-ground, while the clear, turquoise-to-deep-blue sea dominates the right, featuring boats and a distant horizon. A winding road with cars is visible along the lower left edge.
+end of description
+There are no dynamic changes or newly revealed objects across the subsequent frames; all frames remain identical to the first.

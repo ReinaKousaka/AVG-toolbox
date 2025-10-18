@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a sun-dappled forest path stretching forward, curving slightly right, with dense, moss-covered trees and undergrowth flanking both sides. A thin rope or pipe runs along the left edge of the path, receding into the distance in front of the viewer.
+end of description
+Subsequent frames show the viewpoint slowly advancing along the path; objects previously in the immediate foreground move behind the viewer, while the path ahead and more distant trees continuously become closer and more prominent. The sun's dappled light shifts across the forest floor and canopy in front of the viewer, progressively revealing new sections of the same forest landscape ahead.
+frame_0000000128-frame_0000000256:
+The first frame shows a narrow, winding path extending from the viewer into a dense, moss-laden forest, flanked by tall trees and lush undergrowth on both sides, with sunlight filtering through the canopy in the upper middle distance. A light-colored rope lies along the path's left edge, extending from the foreground into the midground.
+end of description
+As the frames progress, the viewpoint moves forward along the path; previously distant trees and the rope's end appear closer, while the path continuously extends further ahead into new parts of the forest, all relative to the initial scene.
+frame_0000000256-frame_0000000384:
+A paved path stretches from the bottom center into the middle distance, curving gently to the right, flanked by dense forest. Numerous large, moss-covered tree trunks stand prominently to the viewer's left, while rich undergrowth and ferns line the right side of the path and extend into the distance. Dappled sunlight filters through the overhead canopy, illuminating sections of the path and foliage in the background.
+end of description
+The subsequent frames reveal no dynamic changes in the scene nor any newly revealed objects or distinct scenes relative to the first-frame viewpoint, as the environment remains static.

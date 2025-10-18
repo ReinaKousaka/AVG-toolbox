@@ -1,0 +1,18 @@
+frame_0000000000-frame_0000000128:
+First, the viewer observes a cobblestone alley in a mountain village, with multi-story wooden buildings featuring red flower boxes lining the left, extending into the background where mountains meet a partly cloudy sky. To the immediate right, a wooden fence with red flowers stands before a dark wooden building, with a prominent sun flare visible in the upper right.
+end of description
+Subsequently, the view subtly pans left, causing the sun flare to vanish and the wooden fence on the immediate right to recede from the frame. This shift gradually reveals a tall, dark wooden barrel-like object positioned behind where the fence was on the right. Simultaneously, more of the lighter-colored building on the far left comes into view, including a ground-level entrance, while the distant mountains appear to shift slightly further right in the background.
+frame_0000000128-frame_0000000256:
+The first frame presents a narrow cobblestone street receding uphill, bordered by traditional multi-story buildings. On the left, a light gray stucco building stands in the foreground, followed by dark wooden structures with balconies adorned with red flowers. The right side features dark wooden buildings, with a wooden fence and a large barrel prominently positioned in the foreground, alongside red flowers in a planter. end of description. Subsequently, the viewpoint subtly widens, and a bright sun flare originates from the upper right, causing the shadows on the cobblestone street to shift and lengthen towards the viewer.
+frame_0000000256-frame_0000000384:
+The first frame displays a narrow, cobblestone street winding into the distance, bordered by old buildings under a bright blue sky with scattered clouds and a sun flare in the upper right. To the left, a light gray, textured building with a small window is visible, while to the right, a dark wooden building features a planter filled with vibrant red flowers and green foliage. Further down the street, multiple multi-story dark wooden buildings, many with balconies or windows adorned with red flowers, line the path.
+end of description
+No dynamic changes, newly revealed objects, or scene alterations are observed in the subsequent frames; all images remain identical to the first-frame viewpoint.
+frame_0000000384-frame_0000000512:
+The first frame captures a narrow cobblestone street winding between rustic wooden buildings and a close grey stucco wall on the left, under a bright blue sky. Traditional wooden chalets, adorned with red flower boxes, line both sides of the path, receding into the distance, with a darker wooden structure featuring more red flowers prominent on the near right.
+end of description
+Subsequent frames show a very subtle forward dolly movement along the cobblestone path, making the entire street scene appear to draw marginally closer to the viewer.
+frame_0000000512-frame_0000000640:
+A narrow, cobbled village path stretches into the distance, flanked by multi-story dark wooden buildings with light stone bases, all adorned with red flowers on balconies and window boxes, beneath a blue sky with white clouds. To the viewer's immediate left, a textured stone wall partially frames the scene, while a more weathered dark wooden building stands prominently to the immediate right.
+end of description
+Subsequently, the camera subtly pans right and slightly zooms out from the first-frame viewpoint. This action reveals more of the dark wooden building to the right, as the previously partially obscured foreground structure on the far right of the first frame gradually moves out of view.

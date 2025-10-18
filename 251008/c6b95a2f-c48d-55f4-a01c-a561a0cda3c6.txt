@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame features a yellow awning covering an outdoor seating area on the right, fronted by green bushes and a low wall. To the left, a street contains a red bus partially visible and pedestrians on a sidewalk, with buildings further back. Majestic mountains, including a prominent waterfall and a snow-capped peak, form the background.
+end of description
+As the viewpoint moves forward, the red bus to the left of the first-frame viewpoint recedes and disappears. Pedestrians on the sidewalk, also to the left, walk past the initial viewpoint. Concurrently, the outdoor seating area and bushes, initially to the right, are progressively passed by the camera, becoming further behind the original viewpoint, while the distant waterfall and mountains remain in front.

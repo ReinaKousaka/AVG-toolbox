@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame features a cyclist in a red jersey and black shorts, wearing a red helmet, positioned directly in front of the viewer and moving away on a paved road. The road extends forward from the viewer, bordered on both sides by dense green foliage and trees, including palm trees on the right, all beneath a bright blue sky with scattered clouds; a utility pole stands in the mid-background to the right of the road.
+end of description
+As the frames progress, the cyclist and camera advance along the road, causing the initial utility pole and surrounding vegetation to recede further into the distance relative to the first-frame viewpoint. The road ahead gradually curves to the right, and the on-screen distance marker changes from "9km" to "10km", reflecting continued movement away from the initial position.

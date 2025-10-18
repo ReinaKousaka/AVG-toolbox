@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+A large black SUV is prominent in the bottom-left foreground, facing right, while pedestrians cross a striped crosswalk horizontally mid-frame towards the right. A black sedan is stopped to the right of the pedestrians, with a grand ornate building centrally dominating the background, flanked by tall skyscrapers to its left and a white tent structure to its right.
+end of description.
+The black SUV proceeds to turn right, moving away from the viewer and revealing more of the street where a yellow taxi advances on the far left. Concurrently, the pedestrians complete their crossing, dispersing further to the right.
+frame_0000000128-frame_0000000256:
+In the foreground of the first frame, a black SUV is captured mid-turn towards the right on a city street, marked by prominent crosswalk lines; a person carrying a suitcase crosses the street to its left. In the midground, a yellow taxi and other pedestrians are visible, while an ornate brick building with a dome and arched windows dominates the central background, flanked by skyscrapers and a white tent to its right.
+end of description
+As the frames progress, the black SUV completes its turn, moving further to the right, and the pedestrian continues walking further across the street, away from the viewer. A dark red SUV then enters the frame from the far left, moving right in the foreground, partially obscuring the yellow taxi.

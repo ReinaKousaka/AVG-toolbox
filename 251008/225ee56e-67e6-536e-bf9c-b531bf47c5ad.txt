@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The initial frame captures a busy urban intersection, featuring two dark utility boxes in the foreground left. A wide pedestrian crosswalk, marked with white stripes and a red bicycle lane, dominates the mid-ground, teeming with people. In the background, modern buildings with storefronts like "NAMUYOUNGAKADEMY" stand opposite a street containing multiple blue buses and other vehicles.
+end of description
+Throughout subsequent frames, pedestrians steadily move across the crosswalk and sidewalks, while a police officer emerges and walks from the mid-ground right. A black car on the far left also advances, maintaining the dynamic street scene.

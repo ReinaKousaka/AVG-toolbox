@@ -1,0 +1,10 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a city street extending forward, flanked by multi-story buildings and parked cars. In the immediate foreground, a paved road with double yellow lines leads into the distance. To the left, a dark vehicle, a white van, and a white sedan are parked, while on the right, a white minivan, a dark sedan, a silver SUV, and part of a white car are visible. Tall buildings line both sides of the street, with trees interspersed along the sidewalks, and in the distant background, several skyscrapers rise under a light sky.
+
+end of description
+
+As the viewpoint progresses forward, the parked cars on both sides recede, and the buildings lining the street become closer and more prominent, revealing an intersection directly ahead with a "STOP" marking on the road. A black SUV emerges from the right, entering the intersection and moving left-to-right from the viewer's perspective. Concurrently, a pedestrian walks across the crosswalk from the right sidewalk towards the left. Further into the intersection on the right, an orange flatbed truck and a parked motorcycle become more clearly visible.
+frame_0000000128-frame_0000000256:
+The viewer is positioned at a street intersection with "STOP" painted on the asphalt directly in front. Buildings line both sides of the street, and a tall, distinctive curved skyscraper is visible in the background-center. A black SUV is on the left, while a pedestrian is crossing from the right foreground towards the left, with an orange truck and a grey car behind the pedestrian on the right, next to a stop sign.
+end of description
+The pedestrian continues crossing from the right foreground to the left, moving closer to the viewer and towards the left edge of the frame. The grey car, initially positioned to the right and slightly behind the pedestrian, drives forward, turning left through the intersection. The black SUV on the left remains stationary throughout these frames.

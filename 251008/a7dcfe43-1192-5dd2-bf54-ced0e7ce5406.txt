@@ -1,0 +1,10 @@
+frame_0000000000-frame_0000000128:
+The first frame captures an outdoor scene with a person in a pink sweater and a backpack in the foreground, center, holding a phone. To their right, another person photographs a large, white cherry blossom tree in the midground, behind which a person in green sits on a planter by a lamppost. On the midground left, a blue-roofed turret and a group of people are visible, with a green roller coaster structure and distant buildings in the background.
+end of description
+The person in the foreground wearing pink slowly turns to their right and moves slightly away from the viewer, while the person taking a photo on the far right also shifts rightward. Simultaneously, the group of people in the midground continues moving downwards and away, and the person previously sitting by the lamppost stands up and turns to face the camera.
+frame_0000000128-frame_0000000256:
+The first frame depicts a wide outdoor path sloping downwards, flanked by a light-colored building with a blue turret on the left where a person in red leans, and a large cherry blossom tree on the right where a woman sits on a stone pillar. In the foreground-left, a person uses a phone, while a group of people in colorful tops populate the midground path, with a green roller coaster track and distant buildings visible in the background.
+
+end of description
+
+Throughout the following frames, the group of people in the midground actively move further down the path, while the woman on the right pillar shifts her sitting posture. Concurrently, another person behind the woman on the far foreground-left becomes more visible.

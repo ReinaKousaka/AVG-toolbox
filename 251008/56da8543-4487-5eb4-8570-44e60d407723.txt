@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a wide scenic view from a rocky, reddish-brown dirt trail that stretches from the foreground on the right into the mid-ground, where a person in a blue shirt is visible walking away from the viewer. To the left, the terrain slopes sharply down into a vast valley covered in green vegetation, with distant structures nestled amongst it. Beyond the valley, striking red rock mountains and mesas dominate the background under a clear, bright blue sky.
+end of description
+The person in the blue shirt continues to walk further up the path, moving away from the viewer. In later frames, a black dog appears, walking on the path slightly behind the person, also moving in the same direction, further into the mid-ground. The scenic landscape and general camera perspective remain constant.
+frame_0000000128-frame_0000000256:
+The viewer is positioned on a reddish dirt hiking path that curves uphill towards the mid-right, flanked by sparse green shrubs and trees. To the left, a steep slope of red rock descends into a vast, green valley featuring scattered buildings, leading to distant majestic red rock formations and mountains under a clear blue sky. Ahead on the path, a person in a blue shirt walks away from the viewer, accompanied by a dark dog on a leash.
+end of description
+The person and dog consistently move further along the path, receding into the distance with each consecutive frame, while the surrounding landscape remains largely static relative to the first-frame viewpoint.

@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame features two large tree trunks and a green scooter handle prominently on the left, a wet street with a yellow dividing line leading into the distance, and a silver car with headlights on approaching in the center; buildings and more trees line both sides of the street under falling rain.
+end of description
+The silver car in the middle of the street gradually moves closer to the viewer. Subsequently, a blue pickup truck emerges from the midground on the right side of the street, moving towards the viewer and then passing the silver car. The silver car continues past the viewer, exiting the frame to the left, while the blue truck proceeds down the street, moving further away into the distance.
+frame_0000000128-frame_0000000256:
+The first frame shows a wet city street on a rainy day, with a large tree trunk prominently on the left foreground next to a sidewalk where a dark grey SUV is parked. A row of trees lines the left side of the street, and on the right, buildings with shops are visible, while a blue pickup truck drives away from the viewer in the mid-ground.
+end of description
+The blue pickup truck continues to move further down the street, away from the viewer. Subsequently, a white SUV enters the frame from the right side of the street, also moving away from the viewer, and proceeds to overtake the blue pickup truck. Further down the street, a red vehicle becomes visible behind the blue pickup truck.
+frame_0000000256-frame_0000000384:
+The first frame displays a wet city street receding into the distance, with a dark SUV parked on a tree-lined sidewalk to the viewer's left, backed by a blue and yellow wall. To the right, storefront buildings border the glistening asphalt road, which features yellow dividing lines and a prominent white horizontal marking in the foreground. Further down the road, a red car and a white SUV with illuminated brake lights are visible, moving away from the viewer.
+end of description
+A dark sedan emerges from the right foreground, driving away from the viewer swiftly down the wet street and passing the initial white road marking. This sedan continues to recede, moving past the general area where the red and white cars were initially seen further in the distance.

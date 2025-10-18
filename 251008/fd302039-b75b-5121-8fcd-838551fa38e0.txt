@@ -1,0 +1,29 @@
+frame_0000000000-frame_0000000128:
+A narrow, stone-paved alley stretches into the distance under a blue sky, flanked by buildings. To the immediate left are a utility box, a storefront with a blue circular sign, and a wooden display rack of items, while on the right, a building with a green awning displays hats and other goods, with people walking further down the alley.
+end of description
+As the camera moves forward into the alley, the immediate left utility box gradually exits the frame. The storefronts on both sides, including the blue-signed one on the left, become progressively larger and more detailed as the viewpoint approaches them, while the distant people recede further.
+frame_0000000128-frame_0000000256:
+The first frame depicts a narrow, paved alleyway extending into the distance, flanked by buildings on both sides under a clear blue sky. On the left, a store displays hats and bags on a wooden rack in the foreground, with a dark green ":D PLACE" sign and a red character display further down the path. To the right, a building with a green awning and posters on its wall is visible, with a wooden bench further back along the alley.
+end of description
+Throughout the following frames, two people initially walking together in the mid-ground of the alley gradually move further into the distance, away from the viewer. By the final frames, these individuals have completely exited the visible alley, having continued their path beyond the frame's extent into the background.
+frame_0000000256-frame_0000000384:
+A narrow, stone-paved alley leads into the distance between two-story buildings under a clear blue sky. To the viewer's left, a green ":D PLACE" sign hangs above a hat display, alongside a red cartoon figure and other signs, while the right features a grey brick wall with posters, a wooden bench, and a dark cabinet, with two people visible further down the alley.
+end of description
+As the frames progress, the viewpoint moves forward into the alley, causing foreground objects like the green sign, red figure, bench, and cabinet to move outward to the sides and out of frame. This movement reveals new sections of the buildings deeper *into* the alley, and the two people in the background recede even further *from* the initial viewpoint.
+frame_0000000384-frame_0000000512:
+The first frame depicts a narrow urban street stretching into the distance under a clear sky. A red character-like object dominates the immediate left, in front of a building with a dark door and Korean signs, while a dark utility box and chair are foreground right, opposite various shops and two distant figures.
+end of description
+As the frames progress, the viewpoint subtly moves forward and right, causing the red object to exit the left frame. This reveals more of the left building's facade, including an address "150-1" and yellow flowers, while existing signs shift left and buildings on the right also move slightly left relative to the advancing perspective.
+frame_0000000512-frame_0000000640:
+The first frame shows a narrow, paved alley under a clear blue sky, flanked by buildings. On the left are a dark sign, a bright blue '사주 타로' neon sign, and two sandwich board signs; on the right, a pink building with a dark door and a red-striped awning are visible, with people walking further into the distance.
+end of description
+The viewpoint then steadily advances through the alley. Buildings and signs initially on the left and right sides gradually recede behind the viewer's original position as new sections of the alley ahead are progressively revealed. The people originally in the background continue walking further away from the first-frame viewpoint.
+frame_0000000640-frame_0000000768:
+The first frame depicts a narrow, paved alley receding into the distance under a clear blue sky. In the immediate foreground to the left, a tall, vibrant yellow sign with Korean text and colorful images is partially visible, in front of a light-colored building with horizontal siding and a green balcony railing. To the right, a light pink building with a red and white striped awning stands closer to the viewer, followed by a reddish-brown brick building and a yellow building further down the alley. Two individuals are walking away from the viewer in the midground of the alley, towards a traditional-style roof visible in the far distance.
+
+end of description
+As the frames progress, the viewpoint subtly moves forward into the alley. The prominent yellow-red sign in the immediate foreground gradually shifts out of view to the left, revealing more of the light-colored building behind it. Concurrently, the two individuals in the midground continue walking further away, becoming smaller and more distant within the alley relative to the initial viewpoint.
+frame_0000000768-frame_0000000896:
+The first frame displays a narrow, paved street receding into the distance under a clear blue sky. On the left, a white two-story building with horizontal siding features windows and a green-roofed balcony structure, while a concrete base runs along its bottom. To the right, a brick-patterned building with a green awning and a sign is visible, followed by a lighter yellow building; a wooden fence-like structure occupies the immediate right foreground. Two people walk away from the viewer down the middle of the street, heading towards an arched entrance and more buildings in the far distance.
+end of description
+The camera smoothly moves forward, advancing along the paved street. As the viewpoint progresses, the two pedestrians continue walking further away from the viewer's current position, and the buildings on both sides of the street appear to shift towards the edges of the frame, revealing more of the street ahead. The previously distant arched entrance and structures become progressively closer and larger, unfolding new details of the path ahead of the initial first-frame viewpoint.

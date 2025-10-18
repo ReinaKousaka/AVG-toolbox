@@ -1,0 +1,31 @@
+frame_0000000000-frame_0000000128:
+First, in the right foreground of the first frame, several people are gathered around the open rear of a white van, with one man in a grey hoodie and another person in a blue hat clearly visible along with boxes. A silver sedan is parked on the mid-left, while a street extends into the background, flanked by multi-story buildings and distant vehicles. end of description. Progressing through the frames, the group of people on the right slowly moves away, revealing a previously obscured bright yellow sports car parked behind them, perpendicular to the street, as the rest of the scene remains largely consistent.
+frame_0000000128-frame_0000000256:
+In the first frame, a paved street extends into the distance, bordered by multi-story brick buildings under a clear sky; a mountain is visible in the far background. On the near-left, a silver sedan is parked, facing away, while a white hatchback is approaching slightly left of the street's center. On the mid-right, a yellow convertible sports car with a red top is parked, facing left, with a black sedan behind it; a white wall bounds this area. A person's back and shoulder, wearing a blue top, are partially visible in the near-right foreground.
+end of description
+The white hatchback continuously approaches the viewer from the mid-left, growing larger in the frame. It then passes the viewer on the immediate left, obscuring more of the street as its rear disappears out of view. All other vehicles and background elements remain stationary relative to the first-frame viewpoint.
+frame_0000000256-frame_0000000384:
+The first frame presents an urban street scene with a silver sedan partially in the bottom left foreground and a yellow convertible sports car with a red top parked on the right, ahead of two black sedans on an elevated lot. The street recedes between brick buildings, revealing distant mountains, with two pedestrians walking away on the left side.
+
+end of description
+
+Over the subsequent frames, the two pedestrians on the left side of the street progressively walk further away, receding into the distance. All parked vehicles, including the prominent yellow sports car and the foreground silver sedan, remain unchanged in their spatial positions relative to the viewer.
+frame_0000000384-frame_0000000512:
+The first frame captures a narrow city street stretching forward and slightly uphill, bordered by multi-story brick buildings. To the viewer's immediate left, a silver sedan's front half is parked, while a yellow sports car's front quarter is visible on the right. Further down the left side, a white SUV and another silver car are parked, beyond which two pedestrians, one on a scooter, are moving away. A white arrow is painted on the street, which is dappled with shadows, and distant mountains are visible above the background buildings.
+
+end of description
+In the subsequent frames, the two pedestrians on the left side of the street steadily move further away from the viewer, progressing past the white arrow on the road and continuing down the street.
+frame_0000000512-frame_0000000640:
+The first frame shows a narrow urban street lined with multi-story buildings, mostly brick on the left and lighter tones on the right, receding uphill towards a distant green mountain. In the foreground, a silver car partial view is at the bottom left, a white SUV is parked further up on the left curb, and a utility pole with a blue street sign stands on the right, near a concrete ramp. Two pedestrians, wearing masks, are in the mid-left on the sidewalk, walking away from the viewer, past a parked silver sedan and a white arrow painted on the asphalt road.
+end of description
+The primary dynamic change involves the two pedestrians walking away from the viewer, further up the street on the left side. They steadily move deeper into the scene, gradually receding from their initial mid-left position. Their movement causes them to appear smaller and further past the street arrow in later frames.
+frame_0000000640-frame_0000000768:
+The initial frame captures a street scene looking ahead, flanked by multi-story buildings and featuring a distant mountain peak. On the left side, a white SUV and a silver sedan are parked, with two masked women walking on the pavement towards the viewer. A prominent utility pole with a blue street sign stands on the right, where cardboard boxes also rest on the pavement next to a low wall. The asphalt road in the foreground displays a white arrow pointing forward and yellow crosswalk stripes.
+
+end of description
+
+As the frames progress, the two masked women on the left pavement walk steadily towards the viewer's original position. They gradually move closer, with the woman in the plaid coat advancing further left and closer to the foreground. The second woman, wearing a dark coat and yellow scarf, follows, also nearing the initial viewpoint. All other elements, such as the parked cars, buildings, and the utility pole on the right, maintain their static spatial relationship to the first-frame viewpoint.
+frame_0000000768-frame_0000000896:
+The first frame displays a narrow city street, looking ahead. On the left, two women walk away from the viewer, passing a parked silver car, while a tall utility pole with black and yellow stripes occupies the foreground on the right. Multi-story buildings of brick and stone line both sides of the street, with a yellow and white striped crosswalk in the mid-foreground, and a distant mountain peak visible at the street's end.
+end of description
+As the frames progress, the two women on the left continue walking away from the first-frame viewpoint, eventually moving out of sight to the left. The scene otherwise remains consistent, with the buildings, utility pole, and distant mountain staying in their relative positions, giving the impression of the viewer slowly advancing along the street.

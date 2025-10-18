@@ -1,0 +1,22 @@
+frame_0000000000-frame_0000000128:
+The first frame captures a twilight street scene with numerous pedestrians on a wet, reflective pavement. On the right, brightly lit storefronts with glowing signs and orange lanterns extend into the distance, while a tall building and a utility pole bearing a 'no parking' sign stand on the left.
+
+end of description
+
+The camera remains static as people move through the bustling street. A group of three women, initially in the mid-left, progressively walks closer to the viewer, while other pedestrians throughout the midground shift their positions, moving further down the street or closer, altering the crowd's immediate composition. No new objects or scenes are revealed, only the constant flow of foot traffic.
+frame_0000000128-frame_0000000256:
+A bustling urban street scene at dusk is visible, with a paved path extending into the distance, filled with numerous pedestrians. Tall buildings line both sides; to the immediate left, a pole with a 'no right turn' sign stands, and two women are in the left foreground, one partially visible closer to the viewer. On the right, illuminated storefronts and a large vertical sign are prominent.
+end of description
+As the frames progress, the two women in the immediate left foreground move past the viewer to the left. Other pedestrians throughout the mid-ground and background continuously walk in various directions, changing their positions relative to the first-frame viewpoint. A light-colored car becomes newly visible, moving from the mid-background towards the viewer on the left side of the street.
+frame_0000000256-frame_0000000384:
+In the first frame, two women walk towards the viewer in the immediate foreground, slightly left of center, on a bustling city street. The street extends away, flanked by a tall modern building on the left and bright storefronts with numerous pedestrians walking into the distance on the right, under a dim, overcast sky.
+end of description
+Over subsequent frames, the two foreground women move past the viewer and exit the frame to the left, revealing more of the patterned ground and yellow scooters/bollards previously behind them on the street's left edge. Concurrently, the white car, initially parked further down the street on the left, slowly advances forward, and other pedestrians continue to move away from the viewer further down the street.
+frame_0000000384-frame_0000000512:
+The first frame displays a street scene at dusk, looking down a bustling urban road. In the foreground, a colorful patterned sidewalk leads into a busy pedestrian area populated by numerous people in winter coats and face masks, moving both towards and away from the viewer. To the left, a tall, modern building with many windows reflects light, and further down, a white car is parked alongside some yellow circular objects and a grey structure. On the right, a row of brightly lit storefronts with large display windows features various signs, including a prominent pink 'SALE' sign with red balloons. The street extends into the background, flanked by more buildings and illuminated signs, all under a cloudy sky with utility poles and wires overhead.
+end of description
+As the frames progress, the viewer's perspective slowly advances down the street. Pedestrians ahead move closer or pass by, while those walking towards the viewer on the brightly lit right side draw near. The prominent pink 'SALE' sign on the right becomes increasingly central and detailed, revealing more Korean text and pricing information as the viewpoint moves forward.
+frame_0000000512-frame_0000000640:
+The first frame depicts a bustling city street at dusk, filled with numerous pedestrians in winter attire, mostly moving away from or across the viewer. A woman in a light coat and white mask is visible in the left foreground. Tall buildings with illuminated signs line both sides of the street, including a prominent pink/purple "OPEN AGIT" sign on the far right. Overhead wires are visible against the twilight sky, which is in the background above the street.
+end of description
+As the frames progress, the viewpoint subtly moves forward, causing the foreground woman to shift further left and eventually out of frame. The dense crowd of pedestrians constantly flows, with individuals entering from the background and sides, and exiting towards the foreground or sides, continuously refreshing the bustling street scene relative to the initial perspective.

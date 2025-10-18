@@ -1,0 +1,23 @@
+frame_0000000000-frame_0000000128:
+In the first frame, golden-leaved tree branches overhang the upper left, while a reddish bush sits in the lower left foreground of a dirt path scattered with leaves. A large bronze statue on a pedestal is in the mid-ground center-right, with several people and benches visible further back overlooking a body of water and a white building under a clear blue sky. A person in a dark jacket walks towards the viewer on the path, slightly right of center. end of description. This person continues walking forward, progressively nearing the viewer from the mid-ground right. They then move past the viewer's right side and exit the frame.
+frame_0000000128-frame_0000000256:
+The first frame presents a wide dirt path with long shadows in the foreground, leading to a prominent bronze statue depicting multiple figures on a stone base in the midground. Behind the statue, a large white cruise ship spans the horizon under a clear blue sky, flanked by autumn trees; yellow leaves from an overhead branch are visible in the top-left.
+end of description
+As frames progress, the viewpoint subtly moves forward and slightly right, causing the ground shadows to shift. Concurrently, several people become more distinctly visible and move from left to right behind the statue, along a low fence in the mid-background, with some appearing to gather near benches previously partially obscured.
+frame_0000000256-frame_0000000384:
+The initial frame shows a shadowed, dirt-covered ground, leading to a bronze statue on a stone pedestal situated to the viewer's right. Behind a low dark fence, a path features several people walking, with a large white cruise ship and trees displaying autumn foliage visible in the background against a clear blue sky, illuminated by sun glare from the upper right.
+
+end of description
+
+In the following frames, the main change is the movement of pedestrians along the path behind the fence, gradually progressing from the left side of the scene towards the right. All other visible objects, including the statue, ship, and trees, maintain their fixed spatial positions relative to the initial first-frame viewpoint.
+frame_0000000384-frame_0000000512:
+In the first frame, a dirt path with shadows extends from the foreground towards the mid-ground. To the right in the mid-ground stands a dark, multi-figured statue on a lighter base. Behind a horizontal path in the mid-ground, a large white and blue cruise ship is docked in the background on the left, while dense trees with autumn leaves fill the background on the right. The sun, partially obscured by branches, shines brightly in the upper right corner of the clear blue sky. On the path, several people are visible, including some near two benches, with a green scooter near the far left edge.
+end of description. The camera subtly pans left throughout the sequence, causing the large cruise ship in the background to shift further left relative to the frame, while the statue in the mid-ground appears to move slightly right. Concurrently, people on the mid-ground path, including one pushing a stroller and another in a pink top, continue walking from left to right, as does the scooter near the left edge.
+frame_0000000512-frame_0000000640:
+In the first frame, a dark bronze statue on a stone pedestal is prominent in the foreground right. A paved path with dappled light extends from the left, featuring several people and a stroller, with a large white and blue cruise ship docked in the midground behind them. Autumnal trees frame the scene on both sides, with the sun glaring from the far right against a clear blue sky.
+end of description
+There are no dynamic changes, nor are any new objects or scenes revealed in the subsequent frames; all elements remain static relative to their first-frame positions.
+frame_0000000640-frame_0000000768:
+The first frame captures a dark statue on a pedestal in the right foreground, a wide dirt path leading towards a white and blue ferry boat docked on the distant left, with people walking near a low hedge bordering the water; autumnal trees and a clear blue sky complete the background.
+end of description
+As the camera slowly pans right, the foreground statue moves further right and the sun begins to emerge from behind its upper structure, becoming a prominent light source in the upper right. Simultaneously, the people on the path to the left of the initial viewpoint continue walking further left, eventually disappearing from view, while the distant ferry remains stationary.

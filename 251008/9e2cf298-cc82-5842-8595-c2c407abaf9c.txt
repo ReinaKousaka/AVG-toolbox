@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a rainy urban night scene, with a wet sidewalk and a street light pole visible in the foreground on the left. In the midground, a black SUV is parked beside a tree on the sidewalk, accompanied by a red fire hydrant and bollard, while a wide, reflective wet street with distant moving cars and illuminated buildings stretches across the left.
+end of description
+As the frames progress, the black SUV on the midground sidewalk slowly backs up from its initial position. Concurrently, vehicles on the wet street to the midground left continue to move, with a light-colored car appearing and traversing the scene past the street pole. The heavy rainfall persists throughout, emphasizing the reflections on the road and building surfaces.
+frame_0000000128-frame_0000000256:
+The first frame shows a rainy city street at night, with a prominent tree trunk in the left foreground. A black SUV is parked slightly behind the tree, partially on the wet street and sidewalk, adjacent to a red fire hydrant and a yellow-and-black bollard in the right foreground. To the right, a wet sidewalk stretches into the distance alongside a warmly lit building, while the left background features illuminated buildings and streetlights reflecting on the road.
+end of description
+A white car dynamically enters from the far left on the street, moving rightward behind the stationary black SUV before exiting the frame to the right. Subsequently, another dark vehicle appears in the distant left on the street, slowly progressing forward.
+frame_0000000256-frame_0000000384:
+The first frame shows a rainy night scene on a city street. To the left, a black SUV is parked on a wet street beside a red fire hydrant on the curb, with other cars and illuminated buildings further down. A tree stands in the midground, separating the street from a wet sidewalk on the right, which runs alongside a building with warm-lit windows and potted greenery.
+end of description
+Throughout the frames, the intensity and visibility of the falling rain noticeably increase, causing more prominent streaks of water across the scene. The wet street and sidewalk reflect the city lights more intensely as water accumulates. All stationary objects, including the parked SUV, trees, and buildings, remain in their initial positions relative to the first-frame viewpoint.

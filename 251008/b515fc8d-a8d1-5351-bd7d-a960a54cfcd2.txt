@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a wet, illuminated nighttime scene with a paved walkway on the left, bordered by a reddish-brown wooden fence extending into the distance. To the right of the walkway, bare trees and a green metal fence separate it from a curving asphalt road, which is wet and reflective under a bright street light, revealing a car's red taillights in the mid-ground. A yellow chevron sign is attached to one of the trees.
+end of description
+As the frames progress, the viewpoint slowly moves forward along the walkway, revealing more of the path and road ahead. The initial trees, fences, and street light gradually shift towards the left and right sides of the frame as they are passed. The car with red taillights recedes further down the road and eventually moves out of view to the right of the original frame's position.
+frame_0000000128-frame_0000000256:
+The first frame shows a wet, paved pathway curving from the foreground towards the left mid-distance. A brown wooden fence borders the pathway on the left, while a large tree trunk stands prominently on the right, partially obscuring a green metal fence and a curving, wet asphalt road beyond it. A yellow chevron sign is visible behind the tree trunk, and the background consists of numerous bare trees and distant faint lights.
+end of description
+As the viewpoint progresses forward, the large tree trunk on the right slowly moves out of frame, revealing more of the green fence and the wet, curving road. A street light pole becomes increasingly visible from behind the receding tree, and more of the distant buildings and lights emerge into view from behind the background trees. The wooden fence on the left also extends further into the foreground as the camera continues to move along the pathway.
+frame_0000000256-frame_0000000384:
+The first frame displays a wet, curving concrete pathway bordered by a reddish-brown wooden railing on the left and a green metal fence on the right, which separates it from a dark, wet road. Bare trees with sparse branches line the left, while a bright streetlamp illuminates the right midground, revealing faint yellow road signs and distant buildings with lit windows beyond the road.
+end of description
+As the frames progress, multiple vehicle headlights become visible in the distance on the wet road to the right, moving steadily towards the viewer's right side.

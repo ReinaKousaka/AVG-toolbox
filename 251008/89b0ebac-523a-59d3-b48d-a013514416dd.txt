@@ -1,0 +1,6 @@
+frame_0000000000-frame_0000000128:
+The first frame displays an aerial view of a vibrant coastal city, predominantly built with red-tiled roofs, stretching from the lower-left to the upper-right. A serpentine canal with numerous boats docked along its banks meanders through the city on the left side, while the right side features a denser urban grid bordering a large body of water filled with many linear structures, possibly aquaculture beds. In the background, further landmasses with settlements are visible across the water, meeting a light blue horizon.
+
+end of description
+
+The subsequent frames show no dynamic changes in the scene's objects or camera position. However, a "HDR_PRO" watermark briefly appears in the bottom-left corner from the second frame, becoming fainter by the fourth, and completely disappearing by the fifth frame.

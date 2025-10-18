@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+A narrow, dark cobblestone street stretches into the distance, bordered by multi-story buildings illuminated by warm light. A black SUV with a roof rack occupies the lower right foreground, while doorways and windows line the left side. Two distant figures walk away from the viewer under a single overhead streetlight.
+end of description
+As the viewpoint moves forward, the SUV on the right leaves the frame, revealing more outdoor seating and potted plants along the right sidewalk. The buildings on both sides become more distinct, and the two figures in the distance appear incrementally closer.
+frame_0000000128-frame_0000000256:
+The first frame displays a narrow, cobblestone alleyway at night, illuminated by streetlights. Multi-story buildings flank the street: to the left, a light-colored building shows several doorways, one in the mid-ground adorned with a wreath. To the right, a darker building hosts outdoor seating, barrels, and potted plants, while two figures walk away from the viewer down the center of the street towards a distant street lamp.
+end of description
+As the viewer gradually moves forward, the two figures continue to recede deeper into the alley from the initial viewpoint. Simultaneously, on the left building, a security gate progressively lowers over the main doorway, and a newly revealed security camera above it, along with a 'HOSTARIA DA PIETRO' sign further back, become distinctly visible.

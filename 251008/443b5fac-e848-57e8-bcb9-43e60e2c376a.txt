@@ -1,0 +1,10 @@
+frame_0000000000-frame_0000000128:
+The first frame captures a city street lined with multi-story buildings under a partly cloudy sky. In the foreground, a dense array of parked bicycles occupies the left side of a wide paved path that recedes into the distance. To the immediate left is a dark vertical post, while further left are white and red-roofed buildings; to the right, a light yellow building houses an outdoor cafe with red tables and potted olive trees. In the midground, several historic-looking buildings with a prominent green-spired tower on the left line the street, where a blue bicycle parking sign is also visible.
+
+end of description
+
+The camera subtly pulls back, revealing slightly more of the street, further outdoor cafe seating with patrons on the right, and additional bicycles to the far left. A light-colored car drives away into the distance from the mid-right of the frame. Subtle movements from pedestrians and other cafe patrons can be observed throughout the scene as the frames progress.
+frame_0000000128-frame_0000000256:
+In the first frame, numerous bicycles are parked in racks in the foreground to the left. A wide street extends into the midground center, flanked by multi-story buildings with traditional architecture on the left, and an outdoor cafe with red tables, chairs, and potted olive trees on the right. A blue 'P' and bicycle parking sign is visible in the midground center-left, with distant buildings and mountains receding into the background under a partly cloudy sky.
+end of description
+There are no dynamic changes or newly revealed objects or scenes in the subsequent frames; the video appears to be a static image.

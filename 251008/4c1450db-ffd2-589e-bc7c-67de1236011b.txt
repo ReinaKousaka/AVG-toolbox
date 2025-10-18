@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The viewer observes a wet, dark city street at night, looking down a road flanked by multi-story buildings. A street light is positioned on the left, and a white SUV with visible red taillight reflections is on the road ahead, facing away from the viewer.
+end of description
+In subsequent frames, the white SUV gradually recedes further into the distance along the street, its red taillights and their reflections diminishing in size as it moves away from the first-frame viewpoint.
+frame_0000000128-frame_0000000256:
+The first frame depicts a wet, nighttime city street lined with multi-story buildings, illuminated by streetlights and shop signs on both sides, with a car's red taillights visible receding in the distance and a blue tarp on the left sidewalk.
+end of description
+As the frames progress, rain becomes more apparent as visible streaks across the scene, particularly visible near light sources in front of the viewer. Simultaneously, the car in the distance continues to recede further away from the viewer. Finally, a person briefly appears walking along the left sidewalk, also moving away from the viewer.
+frame_0000000256-frame_0000000384:
+The first frame displays a wet, dimly lit street ascending uphill at night, with visible streaks of falling rain under the streetlights. On the viewer's left, a sidewalk features blue trash bags, illuminated storefronts, and a person holding an umbrella walking uphill. To the right, buildings with glowing windows and an ornate, brightly lit facade line the street, separated from the road by metal barriers. The wet asphalt road, reflecting lights, has a yellow dividing line leading towards the dark background where distant red taillights are visible at the top of the incline.
+end of description
+The person with the umbrella on the left sidewalk steadily walks further uphill, receding into the distance over several frames. Concurrently, the distant red taillights visible at the top of the incline slowly move further uphill and eventually disappear from distinct view. Rain consistently falls throughout the sequence, creating varying streaks and reflections on the wet street and building surfaces.

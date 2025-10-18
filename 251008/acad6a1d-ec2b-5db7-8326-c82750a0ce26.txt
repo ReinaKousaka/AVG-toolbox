@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a train track curving slightly to the right, leading directly towards a dark tunnel entrance positioned centrally in the mid-distance. Rocky, grey mountain slopes sparsely covered with green vegetation frame the scene, with a tall, thin white utility pole visible to the left of the tracks.
+end of description
+As the viewpoint progresses, the train moves forward along the tracks, causing the tunnel entrance to steadily grow larger and closer. A new, more complex utility pole with multiple horizontal crossbars becomes visible further down the track on the right side, relative to the initial view. The "Vmax: 70km/h" text also appears in the bottom-left corner as the journey continues.
+frame_0000000128-frame_0000000256:
+The first frame shows a train's-eye view looking straight ahead down a double set of tracks that curve slightly left into a dark tunnel entrance in the midground. Rocky, mountainous terrain with sparse green vegetation rises on both the left and right sides, with two utility poles visible along the tracks on either side. An overcast sky dominates the background, and 'Vmax: 70km/h' is displayed in the bottom left.
+end of description
+As the train moves forward, the tunnel entrance, initially in the midground, approaches rapidly, growing larger in the viewer's direct path. The utility poles on both sides, and the rocky slopes with vegetation, recede from the midground towards the foreground and then out of frame to the left and right. The train continues its approach, nearing the tunnel's opening, which gradually fills more of the central view.

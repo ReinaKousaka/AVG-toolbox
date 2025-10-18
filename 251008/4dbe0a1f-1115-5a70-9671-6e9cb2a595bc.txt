@@ -1,0 +1,28 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a sunny street scene with a paved sidewalk and a blue kiosk on the left, bordering a road where a white car is visible in the distance. To the right, a grassy park area features palm trees, large leafy trees, a parked bicycle, and people relaxing, with tall buildings and a bike rental station in the mid-ground.
+end of description.
+Subsequently, the white car on the road drives forward and exits the frame to the left as a person carrying a paddleboard walks from the mid-ground right towards the foreground right and then moves out of view. Simultaneously, a light-colored SUV enters the road from the far right and drives left, while another person walks past the stationary bicycle on the right.
+frame_0000000128-frame_0000000256:
+A concrete sidewalk extends from the lower left towards the mid-ground, bordered by a street on the left and a grassy area with trees on the right. A silver minivan drives away on the street, while a bike rental station with two blue bikes sits on the sidewalk. Further along the grassy path on the right, a person carrying a green surfboard walks away from the viewer, positioned near several palm trees and a large banyan tree. Tall buildings rise in the background to the left, under a clear blue sky.
+end of description
+The silver minivan on the left street continuously moves further away from the viewer. The person with the green surfboard on the right also walks progressively further away. Subsequently, a second person, also holding a green surfboard, emerges from behind the large banyan tree on the right, walking away from the viewer. Later, a third person, without a surfboard, appears near the banyan tree on the right, following the path away from the viewer.
+frame_0000000256-frame_0000000384:
+The first frame displays a paved pathway in the foreground. To the left, a road runs parallel, featuring a bike rental station and a traffic light pole; multi-story buildings line the street. On the right, a grassy area with large trees, including a banyan, borders another path where two people carry surfboards, with a red car partially visible further right.
+end of description
+In subsequent frames, the two individuals carrying surfboards move forward along the path on the right, progressively nearing the viewer's first-frame position. Simultaneously, the red car on the far right slowly moves, revealing more of its front as it comes into view from behind the trees.
+frame_0000000384-frame_0000000512:
+The first frame captures a sunny urban sidewalk in the foreground, with an asphalt street to the left featuring a green traffic light pole and a blue bicycle rental station beside multi-story buildings. To the right, a grassy park with large tropical trees, including a prominent banyan, parallels the path where three people carrying surfboards walk away from the viewer towards the visible ocean in the far right background.
+end of description
+In subsequent frames, a white delivery truck with red branding drives from the left foreground past the viewer on the street, followed by a white van. Simultaneously, the three surfboard carriers on the path to the right continue walking further away into the mid-distance.
+frame_0000000512-frame_0000000640:
+A street scene on a sunny day features a green traffic light pole with a solar panel and a 'Biki' bike rental station on the left, beside a road with a white van. A wide paved path extends into the distance on the right, where two people carrying a boogie board and a surfboard walk away from the viewer, alongside a grassy area with palm trees. Centrally, a large Banyan tree with numerous aerial roots dominates, while multi-story buildings line the background on the left and the ocean is visible on the far right.
+end of description
+The white van on the road moves further away from the viewer, simultaneously with the two people on the path continuing their walk into the distance. Subsequently, a dark blue car and then a bus appear on the road, following behind the van as they also move away from the initial viewpoint.
+frame_0000000640-frame_0000000768:
+The first frame presents a paved pathway, with a 'biki' bike rental station and several teal bicycles on the immediate left, beside a road with vehicles and distant city buildings. On the right, a verdant area with large trees opens up to the ocean in the background, as three people walk towards the viewer on the path, two carrying surfboards and one balancing a board on their head.
+end of description
+As frames progress, these three individuals continue advancing directly towards the viewer on the path, gradually increasing in size within the frame. The person closest to the viewer subtly adjusts the orientation of their white surfboard. Simultaneously, the middle person shifts their green-sided surfboard as they approach the original viewpoint.
+frame_0000000768-frame_0000000896:
+In the foreground to the left, a bike rental station holds several light blue bicycles, bordered by a road where a blue car is visible further down; to the right, a wide sidewalk features three women approaching, two carrying surfboards and one with a board on her head. Behind them on the right, a large tree with intricate roots dominates, while distant buildings and a traffic light are visible on the left, with a glimpse of the ocean to the far right.
+end of description
+The three women progressively advance closer to the viewer along the sidewalk. As they near, the woman in the middle lowers the board from her head and begins sliding it along the ground towards the viewer's right, while the other two women with surfboards continue walking closer on her right, beginning to exit the frame towards the bottom right.

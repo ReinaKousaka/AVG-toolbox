@@ -1,0 +1,9 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a paved road curving gently rightward, flanked by a grassy slope and stone wall on the left, leading to a steep, tree-covered mountainside. On the right, a grassy verge follows the road's curve, with distant snow-capped mountains visible under a partly cloudy sky in the background.
+
+end of description
+As the viewpoint advances along the road, roadside features like the white marker post on the right and the stone wall on the left move past the viewer's sides. Subsequently, a dirt path and a small wooden building, initially hidden further to the far right of the first-frame viewpoint, progressively become more prominent and closer on the right side of the road.
+frame_0000000128-frame_0000000256:
+A paved road, marked with a broken white line, curves right and recedes into a mountainous valley. A steep, tree-covered hillside with vibrant green foliage and a stone wall lines the left, while a grassy verge, a winding dirt path, and a small cabin lie to the right, with dark mountains and a distant snow-capped peak beneath a partly cloudy sky.
+end of description
+As the viewer moves forward, the road continuously unfolds ahead, with the initial landscape elements receding past the sides. New sections of the hillside and mountain vista are revealed forward, and two brown cows briefly appear on the far left hillside, moving into view before receding behind the original left-side viewpoint.

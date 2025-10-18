@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a paved road extending towards majestic snow-capped mountains under a clear blue sky, with a silver metal railing and buildings on the left, and a grassy area with trees, a bench, and a small wooden kiosk on the right. A lone individual walks away from the viewer along the road in the middle distance, casting long shadows.
+end of description
+As frames progress, a second person gradually appears further down the road, walking towards the viewer. The two individuals meet and continue walking together along the road, moving closer to the viewer. Simultaneously, a faint plume of smoke or mist emerges and dissipates behind the trees on the right side of the scene.
+frame_0000000128-frame_0000000256:
+In the first frame, a paved road recedes from the viewer towards majestic snow-capped mountains in the background under a bright, sun-flared sky. To the viewer's left, a metal railing runs alongside the road, backed by multi-story buildings and dense trees, while a large green tree occupies the far right foreground. Two people are visible in the mid-ground walking away from the viewer on the road.
+end of description
+Subsequently, these two individuals turn and begin walking directly towards the viewer on the road, progressively occupying more of the foreground and appearing larger with each frame, while the background remains static.
+frame_0000000256-frame_0000000384:
+The first frame shows two women walking on a paved road towards the viewer; one is prominent on the right, and the other slightly behind and to her left. A metal railing extends along the left road edge, with buildings and trees beyond, while snow-capped mountains rise majestically in the distant background, to the right of which train tracks are visible.
+end of description
+As frames progress, the woman on the viewer's right walks past and exits the frame to the immediate right. The second woman then continues her walk towards the viewer, also eventually passing by and exiting the frame to the viewer's right, leaving the road, buildings, and mountainous landscape as the primary scene.

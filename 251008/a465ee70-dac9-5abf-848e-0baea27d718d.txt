@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a wet street on a cloudy day, with golden-yellow ginkgo trees lining the left side of the road under distant mountains. A dark railing runs from the immediate foreground along the right side of the wet asphalt road, where a black car with headlights on is driving towards the viewer, followed by a white SUV further behind. To the far right, a wet stone wall with ascending steps is visible next to a white building, while storefronts line the street behind the trees on the left.
+end of description
+Subsequently, the black car in the foreground moves past the viewer and exits the frame to the bottom-left, while the white SUV and other distant vehicles continue advancing towards the viewer along the wet road.
+frame_0000000128-frame_0000000256:
+The first frame displays a wet street with numerous yellow-leaved trees and buildings lining both sides, all under a cloudy sky. On the left, a silver car is driving away from the viewer on the rain-slicked road, while on the right, a dark metal fence borders a wet sidewalk next to a traditional stone wall.
+end of description
+Subsequently, the silver car continues moving forward and further away from the viewer on the left side of the street. A dark SUV then appears behind the silver car, emerging from the mid-ground and also proceeding forward and away from the viewer along the street.

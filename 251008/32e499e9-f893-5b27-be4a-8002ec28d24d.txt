@@ -1,0 +1,26 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a busy city street at night, with a red bus partially visible on the far left moving right, while a person on a scooter with a blue delivery box crosses the foreground. Behind them on the left, a white sedan is stationary in traffic beside a multi-story building, contrasting with pedestrians walking away on the right sidewalk lined with trees and illuminated storefronts in the midground.
+end of description
+The red bus exits the frame to the right as the scooter continues forward, revealing more of a crosswalk on the street. The initial white sedan moves forward, and a second white car emerges behind it on the left. Concurrently, the pedestrians progress further away on the right sidewalk, revealing a red fire hydrant.
+frame_0000000128-frame_0000000256:
+The first frame captures a busy city street at night, illuminated by building lights, streetlights, and decorative tree lights lining both sidewalks. In the foreground, a white sedan is on the far left, a silver SUV occupies the mid-left, and several pedestrians walk away from the viewer on the right sidewalk, while more vehicles recede into the background.
+
+end of description
+
+As the scene progresses, the white sedan on the far left moves forward and exits the frame to the left, revealing a scooter behind it that proceeds across the crosswalk towards the left. Simultaneously, the silver SUV and subsequent vehicles further down the street move forward away from the viewer, while the foreground pedestrians continue their walk down the street to the right.
+frame_0000000256-frame_0000000384:
+In the first frame, a nighttime street scene is visible with buildings lining both sides. On the left, a light gray minivan is partially visible in the foreground, positioned on a crosswalk, with ornate, brightly lit buildings behind it. In the center, a white minivan and a yellow taxi are on the street, while red construction barriers separate the street from the left sidewalk. On the right foreground, several pedestrians walk towards the viewer, past a parked scooter and commercial storefronts. Trees with hanging spherical lights canopy the street overhead.
+
+end of description
+
+The light gray minivan on the left moves forward out of the frame, revealing more of the crosswalk and a person on an electric delivery scooter appearing from the far left behind the red barriers. Concurrently, the group of pedestrians on the right moves closer to and then past the viewer, with new individuals continually emerging from the distance on the right sidewalk. The white minivan and yellow taxi in the midground proceed slowly, while the delivery scooter rider on the left continues past stationary individuals near the barriers.
+frame_0000000384-frame_0000000512:
+The first frame captures a night scene on a city street, with a white car prominent in the left foreground and a yellow taxi following in the mid-ground. Pedestrians walk along the right sidewalk in the foreground and mid-ground, while buildings line both sides of the street further back, illuminated by streetlights and decorative lights in the overhead trees.
+end of description
+As the frames progress, the white car moves forward and exits the frame to the left, revealing more red construction barriers and a scooter appearing from behind it, moving left. Simultaneously, the yellow taxi and other vehicles in the mid-ground advance along the street towards the background, as pedestrians on the right sidewalk continue walking away from the viewer.
+frame_0000000512-frame_0000000640:
+In the first frame, a night street scene unfolds. In the foreground to the right, a person in a brown and grey jacket walks away from the viewer, with another person partially visible behind them. Slightly ahead and to their left, a person in a grey sweater walks on the sidewalk. On the road to the left, a yellow taxi is driving rightward, somewhat towards the viewer, paralleled by a long line of red and white construction barriers on the far left. Further down the street, a red car and a darker car follow, and a red bus is visible in the distant background, all beneath trees adorned with decorative lights and bordered by illuminated buildings and storefronts.
+
+end of description
+
+Chronologically, the yellow taxi on the left moves progressively further right and slightly away from the viewer. Simultaneously, the person in the grey sweater and the person in the brown and grey jacket on the right continue walking further away from the viewer. The red car and the dark car on the road also advance forward, maintaining their relative positions and moving away from the viewer.

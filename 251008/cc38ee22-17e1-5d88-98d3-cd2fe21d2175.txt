@@ -1,0 +1,14 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a wet, narrow road curving gently uphill. In the foreground to the viewer's right, a white and blue traffic cone is visible. A silver SUV is parked on the right side of the road in the midground, facing away. To the viewer's left, a traditional-style brick wall with a decorative base runs alongside the road, partially obscuring a building with a tiled roof. The background features a steep hill densely covered in green ivy and trees.
+
+end of description
+
+The camera slowly moves forward along the road. The traffic cone in the foreground right gradually exits the frame to the right. As the viewpoint progresses, the stationary SUV on the right appears to recede as the camera passes it. Simultaneously, the traditional brick wall and building on the left become closer and more prominent. The entire scene shifts, revealing more of the paved uphill path ahead.
+frame_0000000128-frame_0000000256:
+In the first frame, a wet asphalt road stretches from the foreground to the midground, transitioning to a cobblestone surface. On the right side of the road, the rear of a silver Lexus SUV is parked, facing away from the viewer. To the left, a traditional stone wall with a tiled roof extends diagonally from the mid-left, with concrete stairs leading up in front of it. The background features a steep hill covered in dense green ivy and foliage, with trees visible at the top.
+end of description
+In the following frames, the silver Lexus SUV smoothly reverses and drives away from the viewer, moving further into the distance along the road.
+frame_0000000256-frame_0000000384:
+The first frame shows a wet, paved street with two manhole covers in the foreground. To the viewer's left, a traditional-style brick wall with a tiled cap extends from foreground to mid-distance. On the right, the rear half of a silver SUV is parked. A large, green ivy-covered wall dominates the background, with additional foliage visible above it.
+end of description
+Subsequently, the silver SUV on the right moves away from the viewer, driving further into the scene and eventually out of view to the left. This movement gradually reveals a concrete retaining wall and more green foliage on the right side of the path, previously obscured by the vehicle.

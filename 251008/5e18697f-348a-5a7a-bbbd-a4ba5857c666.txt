@@ -1,0 +1,6 @@
+frame_0000000000-frame_0000000128:
+In the first frame, a bustling outdoor night market is visible. In the immediate foreground, a person in a beige coat and red beanie stands with their back to the viewer, slightly left of a large, closed grey umbrella positioned centrally. To the right, several people are seated at tables, while to the left, another person sits at a table. In the midground, numerous people mingle around market stalls adorned with festive garlands, and a street lamp with an 'exit' sign points left. Behind these, an old building with illuminated windows stands to the left, and a modern glass building showing colorful posters inside is to the right.
+
+end of description
+
+The camera slowly pans right across the scene. The large central umbrella and the foreground people gradually shift left, revealing more market activity and crowds further to the right of their original first-frame positions. More details of the right-side market stalls and the modern glass building to the far right of the initial view become visible as the perspective expands.

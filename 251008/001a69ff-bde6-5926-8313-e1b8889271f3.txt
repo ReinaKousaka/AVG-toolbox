@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame presents the sprawling ruins of a historic castle, featuring a prominent, partially crumbled reddish-brown stone tower in the right foreground and a deep, grassy ditch bordered by stone walls in the midground left. Beyond these, the background is dominated by the expansive and dilapidated multi-story castle structures, with walls of varying ochre, grey, and red hues, dotted with numerous empty window openings.
+end of description
+From the initial viewpoint, the camera executes a slow, continuous pan to the left, causing the prominent tower in the first frame's right foreground to progressively recede from view towards the right. Simultaneously, more of the castle's extensive ruin complex, previously located further to the left of the first frame's visible area, steadily comes into full view, revealing additional segments of its weathered stone walls and architectural details.
+frame_0000000128-frame_0000000256:
+The first frame displays a sprawling, ancient castle ruin, built from reddish-brown and yellowish stone, dominating the middle and background of the scene. A prominent circular stone tower wall occupies the immediate right foreground, while a green grassy area is visible in the bottom-left, within what appears to be the castle's inner grounds. The weathered structure features numerous empty window openings and crumbling walls, all beneath a pale blue sky.
+end of description
+From the second frame onwards, a faint wisp of white smoke or vapor emerges from behind the upper-left section of the castle. This smoke plume subtly expands and drifts towards the upper-left of the first-frame viewpoint across the subsequent frames.

@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+A dirt path extends from the bottom center, leading uphill through a grassy hillside on the left and a rocky slope on the right. A lone hiker with a backpack walks away from the viewer on the path, while in the distant background, a wide valley with a river is framed by snow-capped mountains under a blue sky.
+end of description
+In the following frames, the camera slowly advances along the path, causing the grassy and rocky slopes to move past the viewer. The hiker continues walking further into the distance, gradually becoming smaller relative to the foreground as the viewpoint progresses forward.
+frame_0000000128-frame_0000000256:
+A mountain hiking trail stretches from the viewer's foreground into the mid-ground, flanked by a steep grassy hillside on the left and a rocky slope on the right. In the distant background, a wide valley with a river meanders between dark green and snow-capped mountains under a partly cloudy sky. Two hikers are visible on the trail in the mid-ground, walking away from the viewer.
+end of description
+As the frames progress, the two hikers continue moving away from the viewer along the trail, progressively advancing further into the mid-ground and becoming slightly smaller relative to their initial first-frame position.

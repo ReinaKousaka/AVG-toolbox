@@ -1,0 +1,14 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a person, viewed from behind, walking away from the viewer on a rocky, unpaved path, utilizing hiking poles and carrying a black shoulder bag. Dense evergreen trees line both sides of the path, with a large, gnarled pine tree rooted on a mound to the right, and a distant mountain face visible through the foliage on the left.
+end of description
+The person continues walking forward along the path, moving deeper into the scene. As they progress, more of the path ahead is revealed, extending further into the evergreen forest, while the gnarled pine tree to the right of the path slowly recedes towards the right edge of the frame relative to the initial viewpoint.
+frame_0000000128-frame_0000000256:
+A person in a black shirt and grey shorts, carrying a dark bag and using trekking poles, walks away from the viewer down a light-colored, rocky path. Dense green pine trees line both sides of the path, with a prominent tree trunk and branches in the upper right foreground, and scattered rocks lie near the path's edges. Distant mountains are faintly visible beyond the trees under a bright sky, further along the path.
+
+end of description
+
+As the sequence progresses, the viewpoint consistently advances forward from its initial first-frame position. The person continues to walk further away along the path, constantly increasing their distance from the original first-frame viewpoint, while the surrounding trees and rocks on either side of the path progressively recede. New sections of the wooded trail that were previously further ahead of the first-frame viewpoint are thus continuously revealed.
+frame_0000000256-frame_0000000384:
+The first frame displays a person walking away from the viewer on a rocky dirt path, which extends into the distance, flanked by dense green pine trees and foliage on both the left and right sides. A prominent white rock rests to the right of the path, while a faint, lighter area, possibly mountains or sky, is visible in the upper background. The person wears a dark shirt, dark shorts, a light-colored cap, and carries a dark bag while utilizing trekking poles.
+end of description
+As the sequence progresses, the viewer moves forward along the path, following the person deeper into the forest. The dense green trees and foliage, initially to the left and right of the first-frame viewpoint, gradually move past and behind the viewer. The large white rock initially positioned to the right of the path recedes further to the right and eventually out of view, revealing more of the path and surrounding forest directly ahead.

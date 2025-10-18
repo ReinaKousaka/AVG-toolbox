@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+A paved road with double yellow lines in the center and a white shoulder line on the right extends forward from the viewer, curving slightly right and uphill into a dense, tree-covered landscape. The bright sun with prominent lens flare is visible in the upper left of the frame, above a verdant hillside to the left, while a steep, heavily wooded incline with diverse foliage shades the right side of the road.
+end of description
+As the viewpoint moves forward, the road and surrounding environment continuously unfold directly ahead. The vehicle progresses along the gently curving, uphill road, revealing new sections of the tree-lined ascent and the dense forest canopy overhead. Elements initially in the foreground recede behind the first-frame viewpoint, replaced by fresh vistas of the winding path and the sun-drenched forested hills.
+frame_0000000128-frame_0000000256:
+The first frame displays a two-lane paved road, marked by a double yellow line and a white shoulder line, extending forward from the viewer into a forested landscape. A bright sun dominates the upper left of a clear blue sky, illuminating distant trees on the left including a bare one, while a steep hillside covered in dense green and autumnal foliage borders the road to the right.
+end of description
+As the frames progress, the viewpoint moves forward along the road, which gradually curves more sharply to the left. A low stone wall becomes visible and extends along the left side of the road, replacing the initial grass and trees in that area relative to the first-frame viewpoint.
+frame_0000000256-frame_0000000384:
+The first frame displays a two-lane asphalt road with double yellow center lines and a white shoulder line, curving left into the distance. A low stone wall runs parallel to the road on the left, backed by a wooded hillside, while a grassy shoulder and dense foliage cover a steep bank on the right. The bright sun is prominent in the upper left, shining through a clear blue sky above the tree line.
+end of description
+As the camera moves forward, the road, the stone wall on the left, and the bushy bank on the right progressively approach and recede past the viewer's original position. The initial curve ahead appears to straighten, revealing more of the road disappearing into a heavily shaded area directly ahead and further in the distance. The surrounding forest canopy to the left and right appears to grow taller and more encompassing relative to the advancing viewpoint.

@@ -1,0 +1,31 @@
+frame_0000000000-frame_0000000128:
+The first frame shows the viewer on a sidewalk adjacent to a multi-story granite building on the right and a street with traffic on the left, separated by a green median and metal railing. A woman walks ahead of the viewer on the sidewalk, while a white truck and several cars move down the street to the left.
+end of description
+The woman continues walking further away from the viewer's initial position, moving deeper into the scene ahead. Simultaneously, the viewer also advances forward, causing the sidewalk, railing on the left, and the building on the right to shift leftward relative to the frame. Vehicles on the road also proceed forward, maintaining their general positions relative to the moving viewpoint.
+frame_0000000128-frame_0000000256:
+The first frame displays an urban street scene with a woman walking away from the viewer on a wide paved sidewalk, bordered on the left by a black metal railing and lush greenery. To the left of the railing, a multi-lane road stretches into the distance, filled with various cars, including a bright green taxi, all moving away from the viewer. On the right, a large building with brown, granite-like cladding and reflective windows lines the sidewalk, extending into the midground where other tall buildings rise in the background.
+end of description
+As the frames progress, the woman continues to walk further away from the viewer along the sidewalk, while cars on the road to the left also advance into the distance. A cyclist and other pedestrians become visible ahead of the woman, moving from the midground towards the viewer's initial position on the sidewalk. The scene otherwise remains consistent with the first-frame viewpoint.
+frame_0000000256-frame_0000000384:
+The first frame depicts a person walking away from the viewer on a city sidewalk, with a multi-lane road and moving cars to the left, bordered by a low barrier and trees. To the right, a modern building with a brown facade extends into the background, where a cyclist and another pedestrian are seen ahead on the sidewalk, amidst other tall city buildings.
+end of description
+As the viewer progresses, the cyclist and initial pedestrian move further away and eventually exit the scene to the right, while a new uniformed person appears further ahead on the right sidewalk. Simultaneously, the cars on the road to the left continue to move away, and the patterned design of the barrier on the left becomes more visible.
+frame_0000000384-frame_0000000512:
+In the first frame, the back of a person with long brown hair occupies the bottom-left foreground, partially obscuring a sidewalk. To the viewer's right, a multi-story building with a brown, textured facade extends vertically. Along the left side of the sidewalk, a decorative railing separates it from a multi-lane road where several cars are visible. In the mid-ground, a man in a blue shirt leans over the railing, and further down the sidewalk to the right, another man in blue walks away from the viewer. Tall modern buildings with numerous windows and green trees dominate the background.
+
+end of description
+The person in the bottom-left foreground of the first frame gradually moves further away from the viewer and exits the frame to the lower-left. This reveals more of the railing and the road to the left of the original person's position. Concurrently, cars on the road continue to move away from the viewer, and the man walking on the right side of the sidewalk proceeds further into the distance. The man leaning over the railing remains relatively stationary along the left side of the sidewalk. The viewpoint slightly advances, causing objects to appear closer.
+frame_0000000512-frame_0000000640:
+A city sidewalk occupies the right side of the first frame, adjacent to a modern building with glass windows and brown panels. A decorative metal fence runs along the sidewalk's left edge, separating it from a multi-lane road where several cars, including a black minivan closest to the viewer, move away to the left. A man in a light blue shirt leans over the fence in the mid-left, while another man in a blue shirt walks further away from the viewer along the sidewalk, with tall city buildings visible in the background.
+end of description
+Throughout the subsequent frames, cars on the road continue to move away from the viewer, and a red bus appears in the mid-left distance, passing the leaning man. The man walking on the sidewalk progresses further away from the viewer along the building, and another pedestrian appears walking behind him.
+frame_0000000640-frame_0000000768:
+The first frame shows the viewer on a paved sidewalk next to a building with brown columns on the right. To the left, a street with a black SUV and a white van is visible, separated by a metal railing and green foliage, with tall city buildings in the distance. A man in a light blue shirt leans over the railing in the mid-ground to the left, while other pedestrians walk further down the sidewalk.
+end of description
+In subsequent frames, vehicles on the street to the left move past the railing from left to right. Concurrently, pedestrians on the sidewalk further ahead walk away from the viewer into the distance.
+frame_0000000768-frame_0000000896:
+The first frame presents a city street scene from a pedestrian's viewpoint. To the viewer's right, a tall building with brown paneled walls stands prominently. A sidewalk extends from the foreground into the distance, with a man in a blue shirt leaning over a decorative metal railing to the left, looking away from the viewer towards the street below. Further along the sidewalk, a woman in a dark dress walks away from the viewer. To the far left, beyond the railing, a multi-lane road features several vehicles, including an orange bus and various cars, moving or stopped, with tall city buildings and lush trees filling the background.
+
+end of description
+
+The man at the railing remains relatively stationary, occasionally lifting his phone to eye level. The woman on the sidewalk continues walking away from the viewer, receding further into the distance. Meanwhile, vehicles on the road, including a red taxi and other cars, steadily move past from right to left, illustrating the continuous flow of city traffic.

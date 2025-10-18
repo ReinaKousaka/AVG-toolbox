@@ -1,0 +1,10 @@
+frame_0000000000-frame_0000000128:
+A narrow dirt path extends directly in front of the viewer, curving gently to the left and receding into the distance. Lush green ferns densely line both sides of the path, forming steep banks that rise towards an overcast sky overhead.
+end of description
+The viewpoint advances steadily forward along the path, causing the ferns previously in the foreground to recede past the viewer while revealing new segments of the path ahead. A small light-colored object, possibly a dog, emerges deeper along the path on the right side as the camera progresses.
+frame_0000000128-frame_0000000256:
+The first frame presents a narrow dirt path receding directly away from the viewer into the distance, flanked by dense walls of lush green ferns on both sides that extend upwards and backwards under an overcast sky. end of description. As the frames progress, the viewer slowly moves forward along the path. The ferns flanking the path appear to move past the viewer to the sides, while new sections of the path ahead are continuously revealed. A small, light-colored object, initially visible as a distant speck on the path ahead, gradually grows larger and clearer as it approaches the viewer's forward position.
+frame_0000000256-frame_0000000384:
+A narrow dirt path stretches uphill in the center foreground and midground, flanked by dense green ferns on both sides extending into the background. A small, light brown animal stands on the path in the midground, facing away, while a cloudy sky looms overhead.
+end of description
+The animal proceeds to walk further up the path, moving away from the viewer and slightly towards the right. It continues forward until it disappears from view beyond the visible incline in the distance. The dense fern landscape and cloudy sky remain unchanged in their positions relative to the first-frame viewpoint.

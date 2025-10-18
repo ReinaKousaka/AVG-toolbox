@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a dirt path stretching from the foreground into the middle distance, flanked by lush green grass. A wire fence runs along the left side of the path, leading towards a large tree on a grassy slope in the mid-ground. A group of people is walking away from the viewer on the path in the mid-ground, with a distant building and rolling, tree-covered hills visible further back. The sun sets behind the hills on the far left, casting an orange glow over the sky and landscape, while "cool down :-)" text appears at the top left.
+end of description
+As the frames progress, the viewpoint steadily moves forward along the path, making the immediate foreground grass and path details become closer and then pass out of view. The group of people on the path recedes further into the distance relative to the initial viewpoint. The fence posts on the left also move closer to the viewer before eventually going out of frame as the perspective advances, maintaining the expansive backdrop of hills and sunset.
+frame_0000000128-frame_0000000256:
+The first frame presents a scenic sunset view over rolling green hills. A grassy path extends from the viewer's foreground into the middle distance, where a small group of people walk away. To the left, a large tree and a sloping hill are bathed in sunlight, while on the right, fence posts with a white wire border the path leading towards a distant building nestled among trees.
+end of description
+As the video progresses, the viewpoint subtly moves forward along the path, maintaining the same general perspective relative to the initial frame. The group of people continue to walk away into the mid-distance, receding slightly further into the scene's depth.

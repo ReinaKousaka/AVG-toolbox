@@ -1,0 +1,20 @@
+frame_0000000000-frame_0000000128:
+The first frame showcases a narrow, cobblestone street at dusk, lined with pale yellow buildings decorated with overhead string lights; two people are partially visible in the immediate front-left, and a festive shop window is at the front-right. Further down the street, shops with display windows, including one with a glowing green cross sign on the mid-right, lead towards distant pedestrians walking away.
+end of description
+As the scene progresses, the viewpoint subtly advances down the street, causing the two foreground people on the left to move out of frame. This movement reveals more of the left-side shop window at number 31. Simultaneously, other pedestrians continue to move further into the background along the street.
+frame_0000000128-frame_0000000256:
+The first frame captures a narrow, cobbled European street at dusk, flanked by multi-story buildings adorned with festive string lights overhead. To the viewer's left, a light-colored building features shop windows, an arched dark doorway, and a bench below; to the right, shops are decorated for Christmas, with a prominent green illuminated pharmacy cross sign high above them. Numerous pedestrians walk away from the viewer down the bustling street. end of description. Across subsequent frames, the camera slowly pans right and slightly tilts up, causing the green pharmacy cross sign to gradually move out of the top right of the frame, disappearing almost entirely before partially reappearing.
+frame_0000000256-frame_0000000384:
+The first frame shows a narrow, cobbled street at dusk, illuminated by warm lights, viewed from a slight elevation looking down the path. To the immediate left is a tall, dark arched doorway, followed by a light yellow building with shopfronts, including one with a glass display and a wooden bench below it. On the right, another building with closed metal shutters is adorned with festive red and white Christmas wreaths and lights. Several pedestrians are walking away from the viewer down the street, including a man pushing a red stroller in the mid-ground. Overhead, string lights are visible further down the street, and the sky above is a dark blue.
+end of description
+The camera subtly zooms out, gradually widening the street view. The group of people, including the man with the red stroller, continuously moves further away from the viewer down the street. Concurrently, new pedestrians appear from the immediate foreground, walking down the street. The shop sign on the left becomes fully visible, reading "PASSION," and the building number "35" appears above the shop entrance.
+frame_0000000384-frame_0000000512:
+The first frame captures a narrow, illuminated cobblestone street at dusk, lined with buildings featuring shops on both sides; the "PASSION" store window is prominent on the left, with two people partially visible in the foreground, while string lights hang overhead and numerous pedestrians walk into the distance.
+end of description
+Throughout the subsequent frames, the two people initially in the foreground on the left slowly shift and move further right, eventually exiting the frame. Concurrently, a couple and other pedestrians in the mid-ground continuously walk away from the viewer down the street, and a small dog briefly appears running in the same direction.
+frame_0000000512-frame_0000000640:
+The first frame depicts a narrow, cobbled street at dusk, lined by illuminated buildings and overhead string lights. In the immediate foreground, a seated person and two standing individuals are on the left near a shop window displaying mannequins, while a large wooden arched door is on the right, with distant pedestrians visible further down the street under a dark sky.
+
+end of description
+
+As frames progress, the viewpoint moves forward along the street. The foreground individuals and initial shop window and door recede and move out of view, revealing new shopfronts and building details further ahead relative to the first-frame viewpoint. The previously distant pedestrians are then approached and passed.

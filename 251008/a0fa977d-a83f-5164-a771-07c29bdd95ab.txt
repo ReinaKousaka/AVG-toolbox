@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+A dirt path winds into the distance ahead, bordered by green grass, with a small tree positioned on the far left. To the right, a steep hillside densely covered with tall pine trees and moss extends, contrasting with a wider valley of deciduous trees visible to the path's left, all under a cloudy sky with patches of blue.
+end of description
+As the frames progress, the viewpoint moves forward along the path; the small tree on the far left passes out of view, and new sections of the curving path and the tree-lined hillside to the right are continuously revealed ahead. The ground vegetation on both sides appears closer before receding to the viewer's sides, indicating forward motion through the landscape. The 'GRADE' overlay also dynamically changes from -5% to -4% by the fifth frame, while other overlaid stats remain consistent.
+frame_0000000128-frame_0000000256:
+The first frame captures a dirt path ahead, curving slightly left, bordered by a green valley and distant hills to the left, and a steep, moss-covered slope with tall pine trees to the right, all beneath a partly cloudy sky with cycling metrics displayed in the top right.
+end of description
+As the viewer advances, the path and immediate surroundings, including new sections of the grassy valley to the left and the wooded slope to the right, continuously reveal themselves ahead of the initial viewpoint. Concurrently, the on-screen 'Grade' value changes from -4% to -3% and the 'Speed' varies between 13 KM/H and 12 KM/H. A small tree stump also appears on the left side of the path in the newly revealed foreground.
+frame_0000000256-frame_0000000384:
+The first frame displays a dirt path extending forward from the viewer, flanked by green grass and sparse vegetation. To the left, a densely forested hillside leads to distant green hills under a partly cloudy sky, while a steep, tree-covered slope with mossy ground rises sharply on the right. A HUD in the top right corner shows 'speed 12 KM/H', 'grade -2%', 'distance 4.1 KM', and a small map.
+end of description
+As the viewpoint progresses forward along the path, the immediate foreground vegetation continuously changes on both sides. Around the sixth frame, a small, light brown animal briefly appears on the left side of the path, forward of the viewer, near the tree line. The displayed grade in the top right HUD also subtly shifts from -2% to -1% by the final frames.

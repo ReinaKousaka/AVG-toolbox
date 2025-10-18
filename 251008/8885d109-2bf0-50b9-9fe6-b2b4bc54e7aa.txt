@@ -1,0 +1,14 @@
+frame_0000000000-frame_0000000128:
+The initial frame depicts a rain-slicked street at night, bordered by buildings with illuminated shopfronts on the left and a taller building with a '30' speed limit sign and '수연마트' on the right, where a traffic cone and ceramic pots sit below a white barrier. The wet street reflects the scattered lights, receding into the dark background.
+
+end of description
+
+As the frames advance, the camera subtly pans upwards. This movement gradually reveals a prominent steeple-like structure topped with a red cross, emerging high above the '수연마트' sign in the mid-right portion of the scene relative to the first-frame viewpoint.
+frame_0000000128-frame_0000000256:
+The first frame displays a wet, reflective street at night, flanked by rows of multi-story buildings housing shops and residences to the viewer's left and right. On the immediate left, a white rectangular object rests on the sidewalk in front of a storefront, while on the right, yellow crates and a brown pot are visible. In the background, a narrow street recedes into the distance, where a white car is faintly visible, and a prominent dark spire with an illuminated red cross rises above the buildings, to the right of the center.
+end of description
+Subsequent frames show continuous rainfall, evidenced by the dynamic patterns of water on the street and the shimmering reflections of lights. The wet surface of the street, extending forward from the viewer's immediate foreground into the distant background, reflects the surrounding lights with fluctuating intensity. This creates an ongoing effect of streaks and ripples across the ground as the rain continues to fall.
+frame_0000000256-frame_0000000384:
+The first frame captures a narrow, wet street at night, receding into the distance under a dark sky. On the left, multi-story buildings with illuminated storefronts and posters are visible, reflecting on the pavement. To the right, a shop with a green awning and stacked yellow crates appears in the foreground, with a '마트' (Mart) sign further down. The wet street, marked with yellow lines, reflects ambient lights. In the background, a white car is parked, distant figures walk, and a prominent church steeple with a glowing red cross stands centrally, beyond a street light and various signs.
+end of description
+Subsequent frames show continuous rainfall, with reflections on the wet street subtly shifting and appearing more pronounced due to the ongoing precipitation in the mid-ground. No new objects or scenes are revealed in any frames. All existing elements, such as the buildings flanking the street, the parked car, the distant figures, and the church steeple, remain stationary relative to their initial positions from the first frame.

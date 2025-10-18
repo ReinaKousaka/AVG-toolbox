@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a room with a beige armchair, ottoman, and floor lamp positioned on the left. Centrally, a wood-burning stove with a metal chimney stands next to a basket of firewood on the wooden floor. To the right, a partially open glass sliding door reveals an outdoor wooden deck with a table, chair, and distant mountains under a bright sky.
+end of description
+The camera slowly pans to the right, gradually revealing more of the outdoor deck's right side, including a prominent cactus, and shifting the view of the building with the tiled roof further left within the frame, as elements on the room's far left recede from view.
+frame_0000000128-frame_0000000256:
+The viewer is inside a dark room looking out through a glass sliding door onto a wooden deck. To the left, a window with a light curtain and a dark structure containing logs are visible; to the right, another curtained window is present. On the deck, a wooden table with a chair sits in front of a tiled-roof building, green vegetation, large rocks, and distant mountains under a blue sky.
+end of description
+The glass sliding door progressively opens from the center-right to the right, revealing more of the sunny outdoor landscape. This movement expands the vista to the right of the initial view, showing more distant mountains and vegetation on the hillside beyond the deck.

@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a person, viewed from behind, holding a black umbrella and walking away from the viewer on a wet, reflective sidewalk. To their left is a rain-drenched street with trees and streetlights, while to their right, a row of illuminated storefronts with signs and outdoor railings line the path.
+end of description
+In subsequent frames, a second person gradually emerges, walking closely beside the first under the same umbrella, both moving further down the street and away from the viewer. They continue their walk along the rain-slicked path, with reflections shifting on the wet pavement as they proceed deeper into the illuminated urban scene.
+frame_0000000128-frame_0000000256:
+The first frame shows a rainy city street at night, viewed from behind two individuals walking away on a wet sidewalk. The person closer to the viewer carries a black umbrella, while the one slightly ahead and to the left holds a pink umbrella. To the left of the sidewalk is a street reflecting city lights and lined with trees and a yellow sign, while to the right are buildings with illuminated windows and prominent glowing signs, including a large blue one featuring food and "7800".
+end of description
+The two individuals steadily proceed forward, moving further away from the viewer along the reflective, rain-soaked sidewalk. The heavy rain consistently falls, evidenced by visible streaks and splashes across the illuminated ground and puddles. The urban environment and its bright, wet reflections remain in view as the scene progresses, with no new objects appearing relative to the initial viewpoint.
+frame_0000000256-frame_0000000384:
+The first frame captures a rainy night street, with two individuals walking away from the viewer on a wet pavement, one with a black umbrella ahead of another with a pink umbrella, alongside a rain-swept street to their left and illuminated buildings lining the right.
+end of description
+As frames progress, both individuals continue walking further away from the viewer. A white SUV on the street to the left of the viewer gradually moves forward, partially obscured by the driving rain. Around the middle frames, the person with the pink umbrella briefly struggles as their umbrella inverts outwards due to the wind before quickly returning to its normal position. Additionally, a blue bag becomes visible on the wet ground to the left of the viewer, near the curb where the second person started.

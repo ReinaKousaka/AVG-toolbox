@@ -1,0 +1,28 @@
+frame_0000000000-frame_0000000128:
+In the first frame, two cyclists on a paved road are positioned in the mid-right foreground, moving away from the viewer. The asphalt road curves towards the left and uphill in the midground, bordered by a metal guardrail on the right and a grassy embankment with yellow flowers on the left. Verdant forested mountainsides rise on both sides, extending into the background under a bright blue sky with scattered white clouds.
+end of description
+The cyclists recede, disappearing off the right side of the frame by the third frame, indicating forward movement of the viewpoint. Subsequently, a white pole with an orange and white striped convex traffic mirror emerges from the right side of the frame, behind the original position of the cyclists, and then moves past the viewer's right as the viewpoint continues along the road. Concurrently, a vehicle or vehicles become visible ahead on the road, turning left in the distance.
+frame_0000000128-frame_0000000256:
+The first frame shows a paved road curving left, with a grassy slope and stone wall on the left, and a silver guardrail on the right, leading into a tree-covered valley. Steep hillsides rise on both sides, with distant mountains under a blue sky with scattered clouds. Ahead on the right, a white car, a wooden fence, and a blue circular sign indicating 'no cycling' are visible.
+end of description
+As the viewer moves forward, the white car, guardrail, wooden fence, and signs recede to the sides. The 'no cycling' sign is replaced by a blue circular 'mandatory bicycle path' sign, and a white bicycle symbol with an arrow becomes clearly visible on the paved path to the right of the guardrail.
+frame_0000000256-frame_0000000384:
+The first frame displays an asphalt road curving gently left through a mountainous valley, bordered by a stone retaining wall on the left and a metal guardrail on the right. Lush green, tree-covered hillsides rise steeply on both sides, with a wooden fence and a blue bicycle sign visible behind the guardrail on the right, all under a blue sky with white clouds.
+end of description
+As the scene progresses, the viewpoint moves forward along the road; the blue bicycle sign on the right recedes and moves out of frame, while a painted bicycle symbol emerges on the road's surface on the right, continuously moving from mid-ground to foreground. The guardrail and retaining wall also extend further into view, shifting their positions relative to the frame edges as the journey continues.
+frame_0000000384-frame_0000000512:
+A paved road curves left into the midground, flanked by a stone retaining wall and dense green trees rising sharply on the left. A metal guardrail and wooden fence line the right, with more foliage beyond, all set against a backdrop of forested mountains under a blue, cloudy sky.
+end of description
+The viewpoint advances along the road, causing the retaining wall, guardrail, and fence to recede from the foreground as new sections are revealed ahead. A white rectangular marker displaying '147' becomes visible on the left, positioned next to the stone wall, as the journey continues.
+frame_0000000512-frame_0000000640:
+The first frame displays a paved road curving gently to the right, extending forward into a valley. To the viewer's immediate left, a stone retaining wall borders the road, rising to meet a steep, densely forested hillside. On the right, a metal guardrail runs parallel to the road, beyond which a wooden fence and another green, tree-covered hillside are visible, all receding towards distant mountains under a blue sky with scattered clouds.
+end of description
+As the frames progress, the viewer's perspective moves forward along the road. The stone retaining wall and the forested hillside to the left, along with the guardrail and hillside to the right, gradually move from the middle ground towards and past the initial first-frame viewpoint. The road surface continually emerges from the distance and passes beneath the viewer, revealing new sections of the road ahead.
+frame_0000000640-frame_0000000768:
+The first frame displays a paved road curving gently to the left and receding into the distance, with the viewer positioned directly above it. To the immediate left, a stone retaining wall supports a steep, forested hillside with tall green trees extending upwards and into the background mountains. On the right, a metal guardrail runs parallel to the road, behind which a wooden fence and another tree-covered hillside ascend towards distant mountains. A clear blue sky with sparse white clouds occupies the upper portion of the frame.
+end of description
+The viewer begins to move forward along the road. From the third frame onwards, a white car becomes visible in the far distance, ahead on the road. This car progressively approaches the viewer in subsequent frames, staying within the road's path ahead.
+frame_0000000768-frame_0000000896:
+The first frame shows the viewer on a paved road that curves slightly to the right, with a stone retaining wall ascending on the immediate left and a metal guardrail alongside a wooden fence on the immediate right. Lush green trees cover the steep hillsides rising on both the left and right in the mid-distance, defining a valley. A bright blue sky with scattered white clouds fills the background.
+end of description
+There are no dynamic changes or newly revealed objects in the subsequent frames; all frames in the sequence are identical to the first.

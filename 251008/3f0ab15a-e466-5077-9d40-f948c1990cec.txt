@@ -1,0 +1,30 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a narrow, cobblestone alleyway bordered by tall, weathered stone walls. An arched stone structure spans the path in the midground, and to the right, a dark arched doorway and barred window are visible on the wall. Faint figures are discernible in the distance beyond the arch.
+end of description
+Throughout the subsequent frames, the viewpoint moves slowly forward into the alley. Consequently, the cobblestone path directly beneath the viewer recedes, while the arched structure and walls ahead appear to gradually enlarge. The previously faint figures deeper within the alley also become slightly clearer as the camera advances.
+frame_0000000128-frame_0000000256:
+The first frame depicts a narrow, cobbled stone alleyway with tall stone and brick walls on both sides, leading under a series of arches into the distance where faint figures are visible. On the right, an arched dark wooden door is visible below a barred arched window.
+end of description
+In the subsequent frames, the dark wooden door on the right progressively opens outwards towards the viewer, revealing a deep, dark interior space behind it, while the alleyway and surrounding structures remain static.
+frame_0000000256-frame_0000000384:
+The first frame displays a narrow, cobblestone alleyway extending directly forward into the distance, flanked by rough stone walls on both the left and right, with a dark wooden door visible on the lower right wall. Multiple brick and stone arches span overhead, creating a tunnel-like passage, and blurry figures are discernible walking in the far distance beyond them.
+end of description
+No dynamic changes or newly revealed objects occur in the subsequent frames, as the scene remains entirely static from the initial viewpoint.
+frame_0000000384-frame_0000000512:
+The first frame shows the viewer standing on a cobblestone path, looking forward into a narrow, stone-walled alley. A large, brick and stone archway frames the immediate foreground, spanning overhead. To the left, a stone wall features a recessed doorway, while to the right, another stone wall displays a dark grated window or door. Further down the path, a second, smaller archway is visible in the distance, beyond which the alley appears to slightly curve, revealing faint figures and some greenery.
+end of description
+There are no dynamic changes or newly revealed objects or scenes in the subsequent frames; the viewpoint and static environment remain identical throughout all frames.
+frame_0000000512-frame_0000000640:
+The first frame depicts a narrow, cobbled alleyway passing under an arched stone ceiling directly above the viewer. To the viewer's left is a rough stone wall with visible brickwork, featuring a recessed arched doorway. To the right, another stone wall with a barred window and a black metal gate extends forward, with a street lantern hanging above further down the path. In the distance, two indistinct figures are visible beneath a second archway, moving away from the viewer.
+end of description
+As the frames progress, the two figures in the distance gradually become slightly larger, indicating they are moving closer to the viewer within the alley. Most notably, in the final frame, a patterned fabric or mat appears on the ground level to the bottom right, positioned against the stone wall beneath the barred window, revealing a new object in the scene.
+frame_0000000640-frame_0000000768:
+The first frame depicts a narrow, arched stone and brick alleyway. A cobblestone path leads forward beneath a prominent stone arch directly overhead, towards a smaller distant arch opening to a brightly lit area where two figures walk away from the viewer. On the immediate left is a dark arched doorway, while on the right, a grated arched entryway and a gridded window with a hanging street lamp are visible.
+end of description
+As the frames progress, the viewpoint moves forward through the initial arch, causing the immediate surroundings to shift and reveal more of the receding passage. The cobblestone path continues to unfold directly beneath the viewer, while the distant figures and the brighter scene beyond the second arch steadily draw closer to the viewer's original position.
+frame_0000000768-frame_0000000896:
+The viewer is positioned under a rugged stone archway, looking down a narrow, stone-paved alleyway. Tall, mortared stone walls, featuring visible brickwork, flank both the left and right sides of the passage, extending into the distance. Further along, a second, smaller stone arch spans the alley, and beyond it, an opening reveals bright light and hints of greenery. A black decorative street lamp is mounted on the right wall between the two arches, while a dark arched doorway with a metal grate is visible to the viewer's immediate right. Two small figures, one in red/pink and another in green, are walking away in the far distance beyond the second arch.
+
+end of description
+
+The camera steadily moves forward through the alley. Consequently, the stone walls and the paved ground beneath recede behind the initial first-frame viewpoint. The second archway and the street lamp, previously in the mid-distance, progressively approach and appear larger relative to the first-frame viewpoint. The two figures in the distance also become larger and more distinct as the viewer closes the gap, even as they continue to move further away from the initial viewpoint's location. The entire scene expands as the first-frame viewpoint advances deeper into the passage.

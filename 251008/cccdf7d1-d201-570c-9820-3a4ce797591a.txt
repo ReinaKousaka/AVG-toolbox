@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+In the first frame, a snow-covered forest path winds forward along a ridge from the viewer's position, flanked by numerous tall pine trees on the right and a frozen, snow-dusted lake to the left, with two large tree trunks partially visible in the immediate left and right foreground. A clear blue sky is visible above the trees.
+end of description
+As the frames progress, the viewpoint slowly advances forward along the snowy path. The initial foreground tree trunks move out of frame to the left and right, revealing new sections of the snow-covered path with footprints and additional pine trees further along the ridge to the viewer's front.
+frame_0000000128-frame_0000000256:
+The first frame shows a snow-covered path receding into the distance, lined by numerous tall, slender pine trees on both sides. Long shadows from the trees stretch across the path, and to the left, a frozen body of water is visible under a clear blue sky.
+end of description
+In the subsequent frames, the viewpoint moves forward along the snow-covered path, deeper into the forest. The pine trees on either side and the frozen water to the left progressively appear closer as the scene advances, maintaining the same relative spatial arrangement but revealing more of the environment further along the path.

@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a wet, patterned sidewalk extending into the distance on the left, flanked by a grassy strip and trees, with buildings partially visible behind them. To the right, a busy, wet road with traffic is visible, separated by a tree and a bus stop sign in the mid-right.
+end of description
+A person in a bright yellow jacket emerges from behind the bus stop sign on the right, revealing a red scooter with a delivery box parked beside the sign. This person then walks along the sidewalk towards the left, moving deeper into the scene, while the scooter remains stationary to the right of the bus stop. Traffic continues on the wet road in the background.
+frame_0000000128-frame_0000000256:
+The first frame depicts a wet urban sidewalk and street under an overcast sky. A patterned sidewalk leads into the distance, bordered on the left by a low stone wall and green trees, where a person in a bright yellow-green jacket walks away from the viewer. To the right, a red scooter with a black delivery box is parked next to a street sign pole featuring a digital display with red text, adjacent to a multi-lane wet road with traffic moving away in the distance.
+end of description
+The person in the yellow-green jacket continues to walk further away from the viewer along the sidewalk. Concurrently, the digital display on the street sign pole changes its background and text color from red/orange to green, subsequently updating its content to show bus route and arrival information.
+frame_0000000256-frame_0000000384:
+The first frame captures a rainy urban street, featuring a red and white scooter and a digital bus sign on a lamppost in the foreground-right. A wet tiled sidewalk, lined with trees and planters, stretches from the left foreground into the background, parallel to a busy wet asphalt road on the right where vehicles drive into the distance.
+end of description
+In subsequent frames, the digital sign on the lamppost to the right-midground dynamically updates its bus schedule, showing changing information or periods of blankness. Simultaneously, vehicles on the wet asphalt road to the right continually move into the distance and past the viewer's midground perspective, with different cars appearing and disappearing as traffic progresses away from the first-frame viewpoint.

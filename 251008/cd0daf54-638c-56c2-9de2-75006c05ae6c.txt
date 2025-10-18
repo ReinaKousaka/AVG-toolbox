@@ -1,0 +1,31 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a winter scene with a wet asphalt road in the foreground, bordered by snow banks to the right. In the midground, snow-covered fields hold scattered buildings and a fence, all set against a vast backdrop of snow-dusted, forested mountains under a clear blue sky, with a visible patch of sunlight on a distant peak.
+end of description
+As the frames advance, the viewer's perspective moves forward and slightly left, progressively revealing a white house with a green roof on the left side of the road. Subsequently, one or more large white and grey buses emerge into view on the far left, parked adjacent to the road, preceding the newly seen house. The central buildings and distant mountains remain relatively stable in position as the foreground shifts past them.
+frame_0000000128-frame_0000000256:
+A wet road leads into a snowy mountain village, featuring a white bus parked to the left next to buildings, while a snow-covered field with a fence, traditional buildings, and a sign lie to the right, all against a backdrop of distant dark, snow-dusted mountains under a clear blue sky.
+end of description
+As the viewpoint moves forward, the white bus on the left reveals more of its front and side text, while the "Gasthaus Post" sign and buildings on the right side of the snowfield also approach the viewer, confirming progression along the road.
+frame_0000000256-frame_0000000384:
+The first frame depicts a winter scene with a road receding into the distance from the viewer's immediate foreground. To the left, a large white and red articulated bus is stopped alongside the road, partially obscuring snow-roofed buildings behind it. On the right, a snow-covered field extends towards distant, snow-dusted mountains under a clear blue sky, separated by a fence line. Further ahead, more buildings with snowy roofs and a streetlamp are visible, nestled among the towering mountains in the background.
+
+end of description
+
+In the following frames, the articulated bus on the left side of the road moves forward, gradually exiting the frame to the left. This dynamic change reveals more of the buildings previously hidden behind the bus, expanding the view of the streetscape to the left of the initial viewpoint. The overall perspective also subtly shifts forward along the road.
+frame_0000000384-frame_0000000512:
+The first frame shows a straight, snow-dusted road with yellow pedestrian crosswalk markings extending into the distance under a clear blue sky. To the left, several snow-covered buildings, including a grey structure with red garage doors, line the road, backed by a rocky mountain face. To the right, a snow-covered field and embankment feature a lamppost with road signs in the mid-ground, with more snow-covered mountains visible further back.
+end of description
+The viewpoint steadily advances along the road. The pedestrian crosswalk markings move from the mid-ground towards the viewer and then out of the bottom of the frame, while the lamppost and buildings on either side appear to draw closer and move towards the edges of the frame, revealing more of the road ahead and the snowy surroundings.
+frame_0000000512-frame_0000000640:
+The first frame displays a snowy village road stretching into the distance under a clear blue sky. In the immediate foreground, yellow pedestrian stripes mark the dark asphalt road, flanked by snow-covered ground. To the viewer's left, a light gray multi-story building with a red garage door and a cream-colored house stand beside the road, backed by a steep mountain face. To the viewer's right, a light yellow house and a street lamp are visible amidst snow and bushes. Further along the road, a red house is seen centrally, with distant snow-capped mountains forming the background.
+
+end of description
+As the viewpoint progresses forward along the road, the yellow pedestrian stripes in the foreground recede from view, and a manhole cover becomes visible on the road ahead. On the viewer's left, the gray building and cream house grow larger, revealing a "Bosch Service" sign on a pole in front of the cream house, which was previously partially obscured. Concurrently, the yellow house on the right moves past the viewer's initial position, and a small red pole emerges further along the snow-covered ground on the right. The overall scene continuously shifts, indicating forward motion through the village.
+frame_0000000640-frame_0000000768:
+The initial frame displays a snow-covered village street with a road extending towards distant mountains under a clear blue sky. On the left, a light-colored building featuring a prominent 'Bosch Service' sign stands near the viewer, while a yellow house partially obscured by snow-dusted bushes and a streetlamp are to the right.
+end of description
+As the viewpoint moves forward, the 'Bosch Service' sign on the left and the streetlamp on the right progressively move out of frame towards the upper edges. The houses flanking both sides of the road appear to enlarge and pass by, with the yellow road markings also advancing and disappearing beneath the viewer, indicating continuous forward motion along the street.
+frame_0000000768-frame_0000000896:
+The first frame displays a snow-lined road extending into the distance, flanked by multi-story buildings and distant snow-capped mountains under a clear blue sky. Immediately to the viewer's left, a light-colored building with balconies is partially visible, followed by a red building; to the right, a yellow building and snow-dusted evergreen shrubs line the road.
+end of description
+As the camera moves forward, the initial foreground buildings on both sides recede from view. The red building on the left and a prominent blue building ahead on the right become fully visible, revealing parked cars in front of them. Further progression exposes a manhole cover in the center of the road and a streetlight extending over the red building from the left.

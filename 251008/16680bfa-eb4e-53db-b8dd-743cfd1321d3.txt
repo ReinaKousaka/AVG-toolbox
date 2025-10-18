@@ -1,0 +1,16 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a wet urban street on a rainy day. To the viewer's left is a road with yellow double lines and a white crosswalk, where distant figures with umbrellas walk. A prominent yellow and black speed bump warning sign stands in the mid-left foreground, with a tree trunk directly below it. The right side of the frame features a wet, reddish-brick sidewalk, bordered by a low brick and white metal fence. Beyond the fence, a building with a large white sign displaying Korean text and a phone number is visible. Multiple trees line both the road and the sidewalk, and other buildings recede into the cloudy background.
+
+end of description
+
+The scene undergoes a subtle camera pan or zoom, causing the speed bump sign and the leftmost tree to gradually shift rightwards across the frames, moving slightly out of the left side of the view. Subsequently, an orange pylon with Korean text, initially partially hidden behind the foreground tree, becomes fully revealed on the sidewalk to the right of the tree. A second, smaller orange cone then appears next to the first pylon on the sidewalk.
+frame_0000000128-frame_0000000256:
+The first frame shows a wet city street and sidewalk on a rainy day, with a large tree trunk on the far left foreground, and an orange traffic cone and 'No Parking' sign on the adjacent brick sidewalk. A wet asphalt road with crosswalk markings extends leftward into the distance, while shops line the right side of the sidewalk, all under overcast skies.
+
+end of description
+
+Subsequent frames reveal a slight camera pan to the left and a zoom out, making more of the large tree trunk on the far left visible and shifting the orange cone and sign further left within the frame. A 'Rain Everyday' watermark also appears in the bottom-left corner from the second frame onward, but no other dynamic changes or newly revealed objects occur.
+frame_0000000256-frame_0000000384:
+The first frame depicts a rain-slicked street scene, featuring a prominent tree trunk slightly left of center in the midground, and a wet, reddish-brown tiled sidewalk extending from the right foreground towards the distance. To the left, a street marked with double yellow lines and a white diamond symbol contains a dark SUV in the left lane and a white car further back, both driving away from the viewer. Buildings with various storefronts line the right side of the street, while pedestrians with umbrellas are visible in the distant left.
+end of description
+The viewpoint subtly pans left and moves forward. The dark SUV, initially in the midground of the first frame, progresses forward and to the left on the street, eventually driving out of view to the left. Concurrently, the white car further along the street ahead continues its movement away from the viewer, as the foreground tree trunk shifts further left in the frame, revealing more of the road to its right.

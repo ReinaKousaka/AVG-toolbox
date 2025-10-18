@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame presents an aerial view of a vibrant coastal town. In the foreground, tranquil turquoise-green water occupies the bottom half, meeting a sandy beach that arcs across the midground. Behind the beach, a distinct line of palm trees precedes a road, beyond which a continuous strip of white buildings with terracotta roofs and awnings lines the shore, transitioning into a densely packed town extending inland towards distant hills under a clear sky.
+end of description
+Throughout the subsequent frames, the camera subtly pans right and slightly tilts downwards, progressively revealing a little more of the sea to the bottom and the coastline further to the right, relative to the first-frame's viewpoint. Simultaneously, minor movements of people on the beach and cars on the road are visible.

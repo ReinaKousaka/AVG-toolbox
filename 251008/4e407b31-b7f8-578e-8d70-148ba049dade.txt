@@ -1,0 +1,14 @@
+frame_0000000000-frame_0000000128:
+The initial frame displays a gravel path stretching forward from the viewer into the distance, bordered on both sides by dense forest under a bright blue sky with scattered clouds. A prominent pine tree stands on the path's left side, while a narrow stream runs along its bottom-right edge. An informational overlay is fixed in the top-right corner.
+
+end of description
+
+As the viewpoint advances, the path and surrounding forest recede past the viewer. The large pine tree on the left moves progressively towards the top-left of the frame, eventually moving out of view, while new branches from the forest appear into the frame from the top-left. The stream continues flowing alongside the path to the right, and the overlay's pace and grade data dynamically update.
+frame_0000000128-frame_0000000256:
+The first frame depicts a dirt road stretching forward under a bright blue sky with clouds, flanked by a large pine tree and green foliage on the left, and a steep, tree-covered hillside with a utility pole and rocky stream on the right, all viewed with a data overlay in the top right showing a 1% grade.
+end of description
+As the camera moves forward, the road surface details shift, and the large pine tree on the left recedes partially from view. The utility pole and rocky area on the right also approach, growing clearer within the frame. Notably, the 'Grade' indicator in the top-right overlay dynamically changes from 1% to 2%, then back to 1%, and finally to 0%.
+frame_0000000256-frame_0000000384:
+The first frame shows a gravel path extending from the bottom center into the middle distance, flanked by lush green grass. To the left of the path, a forest of evergreen trees covers a gently sloping terrain. To the right, a steeper, rocky slope is densely covered with deciduous and evergreen trees, with a small stream or wet area visible at the very bottom right and a utility pole standing prominently in the mid-ground. The path appears to curve slightly to the left in the distance, under a bright blue sky with scattered white clouds. An informational overlay in the upper right corner displays "Pace: 5:55 / km", "GRADE: 0%", and "DISTANCE: 5.0 KM", along with a small map.
+end of description
+As the frames progress, the viewer moves forward along the gravel path. The utility pole, initially in the mid-ground to the right, moves towards the foreground and then exits the frame to the right, casting a shadow on the path. Trees lining both sides of the path appear to move past the viewer, revealing new sections of the forest ahead. A body of water, initially partially obscured behind trees to the left of the path, becomes more discernible in the later frames. Concurrently, the overlay data reflects forward movement and changes in 'Grade' from 0% to 4%, alongside minor 'Pace' adjustments.

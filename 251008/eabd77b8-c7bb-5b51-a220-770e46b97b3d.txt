@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+A tall, multi-story concrete building with numerous small windows on its left facade and a series of stacked balconies with white and gold railings on its right facade dominates the frame, extending from the bottom to the top. Lush green trees flank the building on both the left and right sides, partially obscuring its lower sections, with a smaller bush visible at its base in the foreground.
+end of description
+The camera slowly pans upward, revealing more of the building's upper floors and the bright sky above, while gradually cropping out the lower parts of the building and the foreground foliage. The overall lighting also subtly brightens throughout the sequence.
+frame_0000000128-frame_0000000256:
+A tall, grey, multi-story concrete building stands prominently in the center, featuring a vertical column of balconies on its right facade and multiple windows on its left. Lush green trees flank both sides of the building, partially obscuring its lower sections, set against a clear blue sky.
+end of description
+As the frames progress, the camera slowly pans upwards and slightly to the right, gradually revealing a previously unseen red sign with white characters atop the building's highest point. Simultaneously, the green foliage on both sides moves downwards and out of the frame, exposing more of the clear blue sky around the building's upper structure.

@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a street scene with a white car's front portion occupying the foreground on the right. To the left, a sidewalk features a piece of white debris, running alongside a building with boarded-up windows and a green metal fence. In the midground, a row of parked cars, including a prominent dark blue SUV, lines the street, which is also flanked by evenly spaced trees and extends towards distant buildings under an overcast sky.
+end of description
+In the following frames, a silver hatchback car dynamically appears from the midground right of the street, moving leftward. It passes behind the white car and the dark blue SUV parked on the right side of the street, eventually exiting the frame to the left, while the rest of the street scene remains static.

@@ -1,0 +1,13 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a wet, illuminated city street at night, looking down a thoroughfare lined with buildings featuring bright signs on both sides. On the near left, a white SUV and a black sedan are parked, while a white Mercedes is parked on the near right, and two individuals, one with an umbrella, walk away from the viewer down the reflective street in the midground.
+end of description
+Subsequently, the black sedan on the near left moves forward and slightly to the left, revealing more of its front bumper and headlight as it travels closer to the viewer's immediate left. Concurrently, the two pedestrians in the midground continue walking further away, receding into the background along the street.
+frame_0000000128-frame_0000000256:
+The first frame displays a wet, rain-slicked city street at night, flanked by illuminated storefronts on both sides, with vibrant reflections shimmering on the asphalt. In the foreground, a dark car is on the far left, red plastic chairs and a wooden barrier are on the sidewalk, and a white Mercedes is parked on the right, while a single person with an umbrella walks away from the viewer down the street.
+end of description
+Across the following frames, the initial person holding an umbrella continuously moves further down the street, receding away from the viewer. Later, a second person with an umbrella appears from the distant background, walking towards the viewer along the right side of the street. This second individual steadily approaches the viewer as the first person disappears into the far distance.
+frame_0000000256-frame_0000000384:
+The first frame displays a nighttime street scene, wet from rain, with a reflective pavement extending from the viewer into the distance. Brightly lit storefronts line both sides of the street, with red chairs stacked on the far left. A white car is parked on the right side in the foreground, and several pedestrians with umbrellas walk away from the viewer in the midground, their reflections visible on the wet street.
+
+end of description
+As the frames progress, the pedestrians steadily move further away from the viewer along the wet street, appearing smaller as they recede into the background. The parked white car on the right and the storefronts on the left remain in their initial positions relative to the first-frame viewpoint. No new objects or scenes are revealed; the overall rainy street ambiance persists.

@@ -1,0 +1,14 @@
+frame_0000000000-frame_0000000128:
+The first frame presents an aerial view of a verdant valley, featuring a bright red train crossing a multi-arched stone viaduct from the mid-right towards the far right. Lush green forests densely cover the hillside behind and to the right of the bridge, and a cluster of trees sits on a small rise in the lower-left. Expansive green fields fill the middle-left and recede into a valley formed by distant mountains in the background, with a faint stream visible beneath the bridge at the bottom-right. The text "ENJOY RELAXATION" is positioned in the top-left corner.
+
+end of description
+
+As the frames progress, the viewpoint subtly descends and shifts leftward, causing the expansive green fields to the left of the viaduct to become more prominent and appear closer. Concurrently, the red train continues its movement from right to left across the viaduct, gradually exiting the frame towards the left as the camera's perspective widens.
+frame_0000000128-frame_0000000256:
+The first frame shows a red train crossing a stone arch bridge positioned in the mid-right, while vibrant green hills with scattered trees and distant buildings extend to the left and into a valley flanked by forested mountains in the background.
+end of description
+The train consistently moves from right-to-left across the bridge. Subsequently, it curves along the hillside, gradually disappearing behind the dense foliage as it travels further into the valley to the mid-left of the initial viewpoint.
+frame_0000000256-frame_0000000384:
+The first frame depicts an aerial landscape with bright green fields covering the foreground, left, and center, leading into a valley with distant, dark mountains behind them. To the viewer's mid-right, a dense, forested hillside features a red train emerging from a tunnel onto a curved bridge.
+end of description
+The red train dynamically advances from right to left across the mid-right bridge and along the track, revealing more of its carriages as it proceeds further into the scene.

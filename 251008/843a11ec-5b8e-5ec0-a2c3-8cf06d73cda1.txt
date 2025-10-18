@@ -1,0 +1,14 @@
+frame_0000000000-frame_0000000128:
+The viewer is positioned on a gray asphalt road with white markings, which curves slightly left into a mountain gorge. To the immediate left, a steep, sunlit rocky cliff face with green foliage rises, while a wooden guardrail extends along the right edge, bordering dry scrubland and dark, shadowed cliffs further right. Far in the distance ahead, a small white triangular sign is visible on the right side of the road.
+end of description
+As the scene progresses, the viewpoint moves forward along the road, causing the guardrail, cliffs, and road markings to continuously recede towards the viewer. Simultaneously, the white triangular sign on the right approaches and appears larger.
+frame_0000000128-frame_0000000256:
+The viewer is on a grey asphalt road with white markings, stretching into the distance between towering rocky cliffs; a wooden guardrail lines the road to the right, while green vegetation adorns the sunlit left cliff face and dark foliage covers the shadowy right cliff with a reddish debris pile at its base.
+end of description
+As the frames advance, the viewpoint moves forward, causing the immediate road and guardrail on the right to recede behind the viewer. Simultaneously, the distant curves of the road and the towering mountainous landscape approach the foreground. Subsequently, a new segment of the wooden guardrail, including additional posts, emerges closer to the viewer on the right side.
+frame_0000000256-frame_0000000384:
+The first frame captures a forward-facing view from a vehicle on a two-lane asphalt road, marked with white lines, that recedes into the distance with a gentle curve to the right. To the viewer's left, a steep, light-colored rocky cliff face with some vegetation rises prominently. On the right, a wooden guardrail runs alongside the road, beyond which lies a reddish-brown rocky slope and dark, tree-covered mountains in the mid-ground. The road leads into a narrow valley between imposing, heavily forested mountains directly ahead in the background.
+
+end of description
+
+The viewpoint steadily moves forward along the road, causing the wooden guardrail on the right to recede towards the bottom-right and the left rocky cliff face to pass the viewer, revealing more textural details. The red-brown rocky terrain adjacent to the guardrail transforms into a dry riverbed or ravine with scattered rocks and emerging vegetation. As the progression continues, more dense green foliage and trees are revealed further into the narrowing canyon ahead.

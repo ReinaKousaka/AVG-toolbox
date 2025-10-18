@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a winding asphalt road extending into the middle distance. To the immediate left, a steep rocky cliff face rises, while a low stone wall borders the road on the right, behind which pine trees and other foliage are visible. In the background, distant mountains are silhouetted against a bright blue sky with scattered white clouds, with the sun prominent in the upper left quadrant.
+end of description
+As the viewpoint advances along the road, the rocky cliff on the left and the stone wall on the right gradually move past the viewer. A yellow bus begins to appear from around the bend in the road on the left, initially emerging from behind the cliff face and partially obscured. The bus continues to drive towards the original first-frame viewpoint, becoming fully visible as it navigates the curve and occupies the left lane.

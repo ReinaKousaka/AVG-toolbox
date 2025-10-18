@@ -1,0 +1,30 @@
+frame_0000000000-frame_0000000128:
+The first frame shows an urban street scene with a utility pole prominently in the midground, flanked by a light-colored building with an AC unit and foliage on the left, and multi-story buildings on the right. A street extends forward from the viewer, featuring crosswalk markings, a parked silver van to the right, and distant buildings with pedestrians at an intersection.
+end of description
+The subsequent frames show a continuous forward movement along the street from the first-frame viewpoint. The left-side building and foliage recede out of view to the left, while the street ahead, including the parked van on the right and the intersection with pedestrians, gradually appears closer to the viewer.
+frame_0000000128-frame_0000000256:
+The first frame displays a narrow city street with a light grey building featuring an AC unit and a utility pole dominating the foreground-left. A tree's foliage is visible behind these, while a street with a crosswalk extends into the mid-distance, flanked by multi-story buildings, including a parked grey minivan on the right.
+end of description
+As the frames progress, the viewpoint subtly moves forward, causing the foreground elements to shift further left and revealing more of the intersection ahead. A red car, initially visible behind other vehicles at the far-left of the intersection, slowly advances, turns right into the street on the right, and then drives further away from the first-frame viewpoint. A pedestrian also briefly appears near the crosswalk in the mid-background before moving out of sight.
+frame_0000000256-frame_0000000384:
+The initial frame captures an urban street, with a light gray building and a utility pole featuring signs on the immediate left. A sidewalk extends from the left foreground to an intersection ahead, where a street on the right displays a crosswalk, leading past a parked silver minivan and buildings with awnings, with distant urban structures visible beyond.
+end of description
+As the viewpoint moves forward and slightly right from its initial position, the utility pole and left building gradually shift out of frame. This movement reveals more of the tree and sidewalk pavement on the left, while a dark red car in the distance traverses the intersection from left to right, becoming clearer as the perspective advances.
+frame_0000000384-frame_0000000512:
+The first frame presents an urban intersection with a white building and a leafy tree immediately to the left of the viewer, contrasting with a multi-story grey building and two parked vans on the right. In the midground, a crosswalk marks the asphalt road, leading towards distant buildings where a brown SUV and another vehicle are visible.
+end of description.
+In subsequent frames, the brown SUV and the car behind it gradually move further to the viewer's left and deeper into the scene. A light-colored car then appears from the left, also proceeding away from the viewer.
+frame_0000000512-frame_0000000640:
+In the first frame, a street intersection in an urban environment is visible. To the viewer's immediate left, a tree with green foliage extends from the top-left, partially obscuring a white building facade, with a planter box containing small plants and flowers beneath it. A sidewalk runs along the right side, bordered by a black metal barrier separating it from a two-lane street marked with white crosswalk stripes in the center-midground. On the left side of the street, a white delivery van with yellow signage, a brown sedan, and a black SUV are positioned, moving towards the viewer's right. In the midground, a multi-story building complex features various signs, including a red yield sign, a blue no parking sign, and a Domino's Pizza storefront. To the far right, another multi-story building with a blue shop sign and a parked white car is present. Taller buildings, some with reflective facades, rise in the background.
+
+end of description
+
+The brown sedan and black SUV in the midground proceed forward, crossing the intersection from left to center. The white delivery van on the far left also advances through the intersection and slowly exits the frame towards the background-left. A smaller white van then appears further down the central street, moving forward past the intersection.
+frame_0000000640-frame_0000000768:
+The first frame depicts a wet city intersection, with green tree branches extending into the upper left. In the midground, a white van, a dark sedan, and a dark SUV are positioned on the street, moving from left to right, while a crosswalk marks the bottom right. Multiple multi-story buildings, including one with a "Dominos" sign and traffic signs, line the background and midground on both sides of the street.
+end of description
+In subsequent frames, the three vehicles progressively move forward across the intersection relative to the initial viewpoint. The white van and dark sedan shift further to the left, while the dark SUV continues its right turn, revealing more of its rear.
+frame_0000000768-frame_0000000896:
+In the first frame, tree leaves are visible in the top-left foreground. A street intersection occupies the midground, featuring a white pedestrian crossing in the bottom-right, a traffic sign pole with 'stop', 'no parking', and a left-pointing pedestrian crossing arrow signs in the mid-right, and several vehicles including a white van, a dark sedan, and a dark SUV on the left. Multistory buildings line the street, with a light-colored building ahead and a taller, darker building to its right, while an elevated structure is visible in the background-left.
+end of description
+From frame 6, a small red arrow sign on the pole in the mid-right shifts its direction from pointing left to pointing right. Concurrently, a large green excavator appears in the mid-right sidewalk area, replacing a previously visible green structure. The vehicles in the mid-left, including the white van, remain mostly stationary throughout the sequence.

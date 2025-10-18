@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame captures a lively nighttime street scene, likely Times Square, featuring a pedestrian crossing in the foreground, with multiple cars stopped mid-street (two black sedans left, a white SUV and yellow taxi right) and dense crowds of pedestrians on both sidewalks and partly in the street, all brightly lit by numerous large digital billboards on surrounding buildings.
+end of description
+In subsequent frames, the stopped vehicles remain static, while the throng of pedestrians on the right side of the street slowly begins to disperse and shift; concurrently, a bicycle or pedicab gradually enters the frame from the far lower left foreground.

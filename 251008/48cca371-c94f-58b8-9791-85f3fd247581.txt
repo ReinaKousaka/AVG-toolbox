@@ -1,0 +1,14 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a paved road curving slightly to the left, extending into the midground where a small house with a red roof is visible on the left side. To the viewer's immediate right, a two-story house with yellow siding and a white base stands, partially obscured by a dark green coniferous tree directly behind it. In the background, majestic, partially snow-capped mountains span the horizon under a clear blue sky, with the sun's bright glare emerging from behind the mountains on the right.
+
+end of description
+
+As the viewpoint moves forward along the road in subsequent frames, the large house and coniferous tree on the immediate right quickly recede and disappear from the frame to the viewer's immediate right. A tall utility pole with overhead wires is progressively revealed, entering from the immediate right and moving towards the mid-left relative to the initial viewpoint. More of the green hillside on the right unfolds as a red and white marker pole appears on the far right. The distant mountains remain centered but grow slightly larger, indicating forward progression towards them.
+frame_0000000128-frame_0000000256:
+A paved road stretches forward from the viewer, flanked by a utility pole with wires on the immediate left and a red-and-white marker pole on the immediate right. Further along the left, a traditional wooden house with a red roof stands before a wooded hillside and snow-capped mountains in the distant background. To the right, a grassy hillside rises, also featuring trees and leading to distant mountains under a bright blue sky with sunlight from the upper right.
+end of description
+As the viewpoint advances along the road, the utility pole initially on the viewer's left and the marker pole on the viewer's right recede from view. The wooden house on the left approaches, revealing more of its side and a sign as it shifts further left relative to the advancing viewpoint. Simultaneously, a concrete retaining wall gradually emerges along the right side of the road, becoming more prominent closer to the viewer.
+frame_0000000256-frame_0000000384:
+A road curves to the right, extending towards distant, snow-capped mountains under a clear blue sky. To the left, a large wooden barn with a red roof is flanked by a steep, forested mountain, while a concrete wall on the right rises above a grassy slope with trees and a small house in the distance.
+end of description
+As the viewer moves forward along the road, the large barn on the left recedes and moves out of the frame. A smaller wooden structure emerges on the left, further down the road, as the concrete wall and trees on the right pass by, maintaining the mountainous backdrop from the initial viewpoint.

@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a forest scene with the ground covered extensively in reddish-brown fallen leaves. A dirt path originates from the bottom center, forking into two trails in the mid-ground, where a large tree trunk, mossy at its base, stands prominently slightly left of center. Numerous bare-branched and some evergreen trees densely populate the mid-ground and background beneath an overcast sky, with a small orange marker visible on a branch to the far right.
+end of description
+As the frames progress, the viewpoint subtly moves forward and slightly to the left, causing the large central tree and the path fork to appear incrementally closer and larger in the frame. The overall forest environment, including the dense trees and leaf-strewn ground, remains consistent, with no new objects or scenes revealed beyond the slight change in perspective advancing into the existing scene.
+frame_0000000128-frame_0000000256:
+The first frame depicts a forest path covered in reddish-brown leaves, with a dirt trail extending from the lower center towards the mid-right background. A large tree trunk with moss is prominent on the foreground left, while a bare tree with an orange marker stands to the mid-right. Numerous slender, bare trees densely populate the background under an overcast sky.
+end of description
+The viewpoint steadily moves forward along the path. The prominent tree on the left and the marked tree on the right both recede and move behind the viewer's initial position as the camera advances into the deepening forest, revealing more of the path ahead.

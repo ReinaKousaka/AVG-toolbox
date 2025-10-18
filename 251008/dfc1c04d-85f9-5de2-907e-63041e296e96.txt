@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a reddish-orange dirt road extending from the viewer's foreground, curving gently left into the mid-distance through a vast, scrub-covered landscape. Sparse green and brown vegetation flanks both sides of the road, leading towards a large, rounded light brown rock formation visible prominently in the mid-distance to the right, with a smaller formation further back and distant structures on the far left horizon under a cloudy sky.
+end of description
+In the subsequent frames, the viewpoint progresses forward along the dirt road, causing the immediate roadside vegetation and ground to recede and reveal new details closer to the viewer. The prominent rock formation on the right gradually appears larger and closer as the perspective advances into the original scene.
+frame_0000000128-frame_0000000256:
+A reddish-brown dirt road extends from the bottom center of the frame, curving slightly right into the distance, flanked by sparse, dry vegetation and raised dirt banks. To the right, a large, light-colored rock formation dominates the midground, with smaller hills and scattered bushes filling the background under an overcast sky.
+end of description
+The viewpoint advances steadily along the dirt road, causing the immediate foreground to scroll beneath the viewer. As the camera moves forward, the distant rock formation to the right appears closer, and new, greener patches of vegetation emerge along both sides of the road. Further progression reveals a small wooden post on the far left side of the road, becoming more distinct as the original midground comes into focus.
+frame_0000000256-frame_0000000384:
+A wide, reddish-orange dirt road extends directly forward from the viewer, flanked by dry, scrubby vegetation and reddish-brown earth on both sides. In the mid-ground to the right, a large, light-colored rock formation with a small, dark structure at its base is prominent, while distant hills under a partly cloudy sky with dark grey clouds fill the background.
+end of description
+As the viewpoint moves forward along the road, the immediate foreground vegetation and road surface recede *behind* the original viewpoint's position. The large rock formation and the small structure, initially ahead on the right, steadily grow *closer* and shift further *right* within the frame relative to the first-frame's central forward view as the road curves. The distant landscape ahead also approaches, revealing increased detail without introducing entirely new objects.

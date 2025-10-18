@@ -1,0 +1,32 @@
+frame_0000000000-frame_0000000128:
+A snow-covered dirt road with tracks leads from the viewer into the midground, flanked by snowy terrain and a prominent bare-branched tree on the right, under a clear blue sky. In the midground, an evergreen tree stands before red and white buildings, with distant snow-dusted mountains visible in the background. An information overlay is present in the top right corner.
+
+end of description
+
+The viewpoint moves forward along the road, causing the bare tree on the right to exit the frame and the buildings to appear closer relative to the initial position. Concurrently, the 'Pace' overlay decreases from 5:45 Km to 5:35 Km, and the 'Grade' changes from 6% to -6%.
+frame_0000000128-frame_0000000256:
+A snow-covered dirt path, marked with tire tracks and footprints, stretches directly away from the viewer towards two red-roofed buildings in the midground. To the left of the path, a prominent evergreen tree stands before a wider snowy valley and distant mountains under a clear blue sky. To the right, a snowy hill slopes upwards, featuring a small red object (possibly a sled) on the snow, and a bare-branched tree further up the slope. A translucent blue overlay in the top right displays pace, grade, and distance information.
+end of description
+As the frames progress, the data overlay in the top right corner indicates the viewer is moving forward along the snowy path. Concurrently, a person on a red sled, initially on the mid-right snowy slope, starts sliding downhill and slightly towards the left relative to the first-frame viewpoint. By the final frames, the sledder has moved noticeably closer to the main path as they continue their descent.
+frame_0000000256-frame_0000000384:
+The first frame presents a snow-covered path extending forward between snowy slopes, leading towards two red-roofed buildings and a large evergreen tree positioned ahead and to the left, while a small, colorful object rests on the mid-right snowy slope, distant mountains are visible to the far left, and a data overlay occupies the top right corner.
+end of description
+In the subsequent frames, the colorful object on the mid-right snowy slope, which appears to be a child on a sled, begins to slide dynamically downwards and further to the right relative to the initial viewpoint. This movement continues until the child and sled completely exit the frame to the right, while the rest of the landscape—buildings, trees, and mountains—remains stationary.
+frame_0000000384-frame_0000000512:
+A snow-covered path occupies the foreground, leading towards two red-roofed buildings in the midground, flanked by a large evergreen tree to the left and a snowy hill with a distant white mountain peak to the right, all beneath a clear blue sky, while an overlay in the top right displays "Pace 5:40 /km", "GRADE -7%", and "DISTANCE 0.2 KM" with a small map.
+end of description
+The visible landscape remains entirely static relative to the first-frame viewpoint across all subsequent frames. The only dynamic change is within the top-right overlay, where the "Pace" value decreases from 5:40 /km to 5:35 /km by the fourth frame, and then to 5:30 /km by the eighth frame.
+frame_0000000512-frame_0000000640:
+A snow-covered path leads downhill towards two red barns and a smaller grey shed in a winter landscape under a bright blue sky. A large evergreen tree stands prominently to the left of the path, while distant snow-capped mountains are visible in the background, with a data overlay in the top right displaying 'Pace', 'Grade -7%', and 'Distance 0.2 KM'.
+end of description
+As the viewpoint progresses slightly forward, the snowy path becomes more detailed with visible footprints, and the grey shed on the right along with the red barns ahead gradually appear larger, indicating a forward movement towards them. The "Grade" data on the overlay dynamically changes from -7% to -8% in the later frames, reflecting the subtle downhill motion as the viewer advances into the scene.
+frame_0000000640-frame_0000000768:
+A large evergreen tree dominates the left foreground, framing a snow-covered path dotted with footprints leading towards two distant buildings. To the right, a smaller, weathered building with a snow-laden corrugated roof stands closer to the viewer, while a larger red barn with a white gable is positioned further back in the midground. Beyond these, a valley with snow-dusted hills stretches into the background on the left, contrasting with a clear blue sky and a distant snow-capped mountain peak on the right. A digital overlay displaying pace, grade, and distance is visible in the top right corner.
+end of description
+The viewer moves forward, causing the snow-covered path and surrounding objects to appear closer and larger. The small building on the right and the red barn gradually shift slightly leftward in the frame, revealing more of the scene to their right and ahead. The digital overlay updates, showing an increased distance of 0.3 KM and a changed pace, confirming continuous forward motion into the snowy landscape.
+frame_0000000768-frame_0000000896:
+In the first frame, a snowy path with footprints and tire tracks leads from the immediate foreground towards the midground. To the viewer's left, a large evergreen tree partially obscures a distant snowy valley and mountains, while to the right, a prominent red barn with a gray base and an adjacent silo-like structure stands next to a rustic wooden shed where firewood is stacked, all beneath a clear blue sky. A data overlay showing "Face: 5:10 /km", "Grade: -8%", and "Distance: 0.3 KM" is present in the top right corner.
+
+end of description
+
+The scene subtly shifts right, causing the evergreen tree on the far left to gradually recede and move out of view. This movement progressively reveals a long, covered pile of stacked firewood in the midground, now to the left of the barn relative to the first-frame viewpoint, and expands the visible snowy landscape and distant mountains further to the left in the background. Towards the end of the sequence, the 'Face' value in the top-right overlay updates from 5:10 to 5:05 /km.

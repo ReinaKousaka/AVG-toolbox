@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a wide, light brown dirt path stretching directly away from the viewer towards a prominent, pointed mountain peak under an overcast sky. To the left of the path, a dark rectangular informational sign stands, flanked by expansive green grass and scattered trees on both sides. A smaller, slightly wet dirt path runs parallel to the main path on the right, and a lone human figure walks far down the central path in the distant midground.
+end of description
+As the frames progress, the viewpoint slowly moves forward along the main path. The informational sign on the left, the surrounding green grass, and the trees subtly grow larger and move closer, indicating the viewer is advancing towards the distant mountain. The small human figure on the path also gradually enlarges as the camera approaches.
+frame_0000000128-frame_0000000256:
+A wide, muddy path extends from the viewer towards a distant conical mountain under an overcast sky, flanked by vivid green grass and scattered trees on both sides. To the left foreground, a dark rectangular informational stand stands beside the path, with a lone person visible far down the path towards the mountain.
+end of description
+As the camera moves forward along the path, the informational stand exits the frame to the viewer's left, while a drainage grate becomes visible on the path further to the left. A small tree with lighter green leaves appears on the right side, growing closer as the surrounding trees and grass pass by the viewer. The distant person remains ahead, slowly appearing slightly closer within the frame.
+frame_0000000256-frame_0000000384:
+A wet, light brown dirt path extends from the viewer into the distance, flanked by lush green grass and concrete borders on both sides. To the right, a dense line of tall trees parallels the path, while a broader green field and scattered trees are visible to the left. A small figure walks on the distant path towards a prominent, dark green, conical mountain centered in the far background under a grey, overcast sky.
+end of description
+The viewpoint steadily moves forward along the path, causing the wet, muddy foreground and the grassy verges to continuously recede. The distant figure on the path appears slightly smaller, indicating further travel along the path. The background mountain and distant tree line remain stationary relative to the overall scene.

@@ -1,0 +1,22 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a train's forward perspective of railway tracks curving gently to the right, flanked by an embankment covered in sparse vegetation and a dense forest on both sides, all under an overcast sky. A tall utility pole supporting overhead electrical lines and a long white barrier run parallel to the tracks on the left side, appearing closer to the viewer.
+end of description
+As the viewpoint progresses, the utility pole and white barrier on the left rapidly move towards and then past the viewer, exiting the frame. The train navigates the curve, causing the surrounding forest and terrain to continuously rush by on either side, revealing new sections of the trackside environment that were initially ahead of the first-frame viewpoint.
+frame_0000000128-frame_0000000256:
+In the first frame, train tracks occupy the central foreground, extending into the distance and curving slightly to the right, flanked by a gravel bed. To the immediate left is a steep, rocky embankment with a white pipe-like structure running along its base, above which sparse trees and green foliage grow. A wooden utility pole with overhead wires stands further back on the left embankment, while to the right, a cleared, darker area with some sparse growth leads up to a dense forest. An overcast sky looms above the distant tree line.
+
+end of description
+
+As the sequence progresses, the viewpoint moves forward along the train tracks, causing the tracks to continuously reveal new sections directly in front of the viewer. The forested embankments on both the left and right sides gradually shift towards the outer edges of the frame, revealing more distant scenery directly ahead. The wooden utility pole initially on the mid-left moves steadily closer to the viewer, eventually passing to the viewer's immediate left and exiting the frame. The white pipe-like structure on the left embankment also progresses past the viewer, while the overall scene of the track curving through the forest remains consistent, with the curve becoming more apparent.
+frame_0000000256-frame_0000000384:
+The first frame shows train tracks curving slightly to the right into the distance, flanked by dense evergreen forests on both sides under an overcast, light blue sky. A white horizontal barrier runs along the lower left foreground, and overhead power lines span across the frame. A faint yellow pole is visible in the mid-distance to the right of the tracks.
+end of description
+As the viewpoint moves forward along the tracks, previously visible objects like the white barrier on the left and the yellow pole on the right recede out of view to the left and right behind the viewer, respectively. New sections of forest and an orange marker on the left side of the tracks are continuously revealed from ahead, passing by as the train progresses through the curving landscape.
+frame_0000000384-frame_0000000512:
+The first frame displays a train track receding into the distance, flanked by dense green forests on both sides under a pale blue sky. To the mid-left of the tracks, a yellow rectangular sign is visible, along with an overhead wire structure supported by a pole further back.
+end of description
+As the frames progress, the viewpoint moves forward along the tracks. The yellow sign, initially to the mid-left, approaches the viewer and passes to the left of the frame. The surrounding forest and ground continuously change as new sections of the landscape are revealed ahead and pass by to the sides of the viewer.
+frame_0000000512-frame_0000000640:
+The first frame displays train tracks stretching into the distance, curving right, flanked by dense forest on the left and a rocky, sparsely treed slope on the right, with a utility pole and overhead wires prominent to the viewer's left, and 'Vmax: 11DKM/h' visible in the bottom left.
+end of description
+As the scene progresses, the viewpoint moves forward along the tracks; the utility pole passes out of frame to the left of the original viewpoint. New sections of the dense forest emerge to the left, while the rocky terrain on the right continually unfolds, revealing more distant parts of the slope as the tracks lead around the curve.

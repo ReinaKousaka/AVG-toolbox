@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+From the right edge, part of a yellow train frames a view of a picturesque valley. A vibrant green field occupies the foreground and mid-ground, leading to a small wooden building in the left-center. Towering mountains, densely forested on the left and ruggedly rocky on the right, flank a receding valley in the background, with a utility pole and power lines visible on the mid-right.
+end of description
+As the train progresses, the landscape outside shifts continuously from right to left relative to the viewer. The green field, the wooden building, and the utility pole all slowly traverse the frame towards the left. New sections of the valley and mountains are progressively revealed from the right, indicating a continuous forward motion through the scenic mountainous terrain.
+frame_0000000128-frame_0000000256:
+The first frame reveals a vibrant green grassy field spanning the foreground, with steep, densely forested mountains dominating the left and center background, and a valley extending into the distance under a partly cloudy sky. In the midground, a small wooden shack is partially visible among bare trees, while a yellow train carriage edge is seen on the far right.
+end of description
+As the viewer moves forward, the yellow train carriage exits the frame to the right, while a large utility pole enters from the right and traverses the frame horizontally. The landscape continuously scrolls leftward relative to the moving viewpoint, revealing more of the valley and mountains, and eventually, a red and white striped pole appears on the far right.

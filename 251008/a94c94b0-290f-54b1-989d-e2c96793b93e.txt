@@ -1,0 +1,22 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a wet, curving village road under an overcast sky, bordered by traditional stone buildings with tiled roofs. To the immediate left, a paved sidewalk features two red planters filled with white flowers, leading into the main road marked with white dashed lines. On the right, a prominent smaller stone house with a white door and window stands closest to the viewer, while other stone buildings and distant trees line the street as it recedes into the background.
+
+end of description
+
+As the frames progress, the viewpoint subtly pans to the left, gradually revealing a slightly wider perspective of the buildings on the left side of the street while incrementally obscuring the structures on the far right. No objects within the scene exhibit any dynamic changes or movements.
+frame_0000000128-frame_0000000256:
+In the first frame, a wet asphalt road with white dashed lines occupies the foreground and center, curving gently towards the distance. To the left, a paved sidewalk follows the road, featuring two red planters with white flowers. Stone buildings line both sides of the road; prominent stone houses with tiled roofs are on the left, receding into the background, while more buildings and some trees are visible on the right side of the street, further away. The sky is overcast.
+end of description
+Over the subsequent frames, the viewpoint slightly pans to the left and subtly zooms out, revealing more of the textured stone building on the far left and extending the paved sidewalk further to the left of the frame. The red planters and road markings remain centrally positioned relative to the road, but the buildings on the right side of the street shift slightly further right, moving slightly away from the center of the frame.
+frame_0000000256-frame_0000000384:
+A wet asphalt road with white dashed lines curves slightly to the right in the foreground and recedes into the middle distance, flanked by stone buildings under a cloudy sky. To the left, a large stone building occupies the immediate foreground, followed by a smaller stone house with multiple windows and a garden wall. A curved cobblestone footpath, featuring two red-rimmed planters with white flowers, separates these buildings from the road. Across the road, to the mid-right, another stone building with a small blue sign is visible, with more distant buildings and trees lining the path of the road.
+end of description
+A small, light blue-grey rectangular artifact intermittently appears and disappears in the upper left corner of the frame, relative to the initial viewpoint. This artifact is visible in frames 3, 4, 5, 7, 8, and 9, but absent in frames 1, 2, and 6. No other dynamic changes or newly revealed objects occur within the scene.
+frame_0000000384-frame_0000000512:
+The first frame shows a wet village road curving right from the foreground, flanked on the left by a paved path and two decorative planters, with a large stone building dominating the immediate left and more traditional stone houses receding into the background. On the right, a distant stone building with a blue sign completes the scene under an overcast sky.
+end of description
+The camera then slowly pans left, revealing more of the stone building's facade to the viewer's left, including a bricked-up arched entryway, and a new dark fence appears further left. Simultaneously, elements on the right, like the road and background buildings, progressively exit the frame from the initial viewpoint.
+frame_0000000512-frame_0000000640:
+The first frame shows a quaint street scene with a prominent stone building occupying the right half, featuring a boarded-up door frame and a single window above. To the left, a low stone wall separates a lush garden with a dark wooden gate from a curving paved path in the foreground, with distant stone houses and trees further down the road.
+end of description
+As the viewpoint subtly pans left in subsequent frames, a silver car is progressively revealed on the far left, beyond the initial scope of the first frame. The main stone building on the right slowly exits the frame, while the garden and stone wall originally on the left become more centered, expanding the visible street scene to the left.

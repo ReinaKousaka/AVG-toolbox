@@ -1,0 +1,30 @@
+frame_0000000000-frame_0000000128:
+A paved road with solid yellow and dashed white lines stretches into the distance from the bottom center. To the left, a steep, red-brown embankment covered with green foliage and bamboo parallels the road. On the right, a white concrete barrier separates the road from a row of green trees, behind which a body of water and a distant bridge are visible; a black street lamp stands near the barrier. The clear blue sky with a few white clouds occupies the upper portion, with distant green hills in the background.
+end of description
+As the viewpoint moves forward, the road appears to progress underneath. The street lamp on the right passes the viewer, revealing new segments of the white barrier and a series of yellow-and-black chevron signs further ahead on the right. Concurrently, the red-brown embankment on the left also moves past the viewer, with more trees emerging from the distance.
+frame_0000000128-frame_0000000256:
+The first frame displays a two-lane paved road extending into the distance under a clear blue sky with sparse clouds. To the viewer's immediate left, a green, tree-covered hillside slopes alongside the road, while on the right, a white concrete barrier runs parallel with a yellow chevron sign prominently placed on its side. Behind this barrier, a dense line of green trees partially obscures a body of water, and distant green hills line the horizon.
+
+end of description
+
+As the frames progress, the viewpoint steadily moves forward along the road. Objects closer to the viewer, such as the road markings, the concrete barrier, and the trees lining both sides, appear to approach and then recede past the viewer. Specifically, the yellow chevron sign moves from the mid-right foreground, passes the viewer's right side, and eventually exits the frame. The distant hills and the expansive blue sky remain relatively constant in their positions, illustrating continuous forward motion along the scenic route.
+frame_0000000256-frame_0000000384:
+A straight asphalt road, marked with double yellow lines on the left and a dashed white center line, extends from the foreground into the distance. Lush green trees and vegetation line both sides of the road, with denser foliage and what appears to be bamboo on the far left, and individual trees along the right. A concrete barrier with a yellow chevron sign is positioned on the right foreground, while distant green hills are visible under a clear blue sky with scattered clouds. A utility pole stands on the right side of the road in the mid-ground.
+end of description
+The viewpoint slowly progresses forward along the road, causing the concrete barrier and chevron sign on the right to recede and move out of the frame. A dark-colored car subsequently enters the scene from the far left, moving towards the viewer on the left side of the road. This car then drives past the viewer, growing larger as it approaches the left foreground before partially exiting the frame. The surrounding trees and distant hills also gradually recede as the perspective advances.
+frame_0000000384-frame_0000000512:
+In the first frame, a dark SUV is driving away from the viewer on a two-lane asphalt road with double yellow lines, flanked by a grassy field and a line of green trees on the left. To the right, there's a dirt shoulder with trimmed bushes and a tall street lamp, beyond which are dense green trees; distant green mountains are visible under a clear blue sky with some clouds and overhead power lines.
+end of description
+As the frames progress, the viewpoint moves forward along the road. The dark SUV continues to recede into the distance. The street lamp on the right side of the road passes by the viewer, eventually moving out of the frame to the right. Simultaneously, new sections of the road and the continuous rows of trees and bushes flanking it become visible as the scenery shifts from left to right across the frame.
+frame_0000000512-frame_0000000640:
+A dark blue SUV travels away from the viewer on a two-lane road, marked with yellow and white lines and bordered by rows of green trees on both sides; a grassy field lies to the left, while dense foliage and white barriers line the right, leading towards a blue road sign and distant hills under a blue sky.
+end of description
+As the viewpoint advances, the SUV recedes further into the distance, and the roadside trees and barriers move past the viewer, revealing a street light emerging from above the right-side trees, while the distant road sign and hills gradually draw nearer.
+frame_0000000640-frame_0000000768:
+The first frame depicts a road scene from a moving vehicle, with a dark SUV ahead on a two-lane asphalt road bordered by lush green trees on both sides. A blue road sign with Chinese text and a right arrow is mounted above the right lane, while distant green hills lie under a bright, partly cloudy sky.
+end of description
+As the viewpoint progresses, the road and its markings, along with the trees lining both sides, steadily move closer to the viewer and eventually recede into the background. The blue road sign, initially ahead and above the right lane, approaches and passes to the right of the viewer's path. The dark SUV ahead maintains its position relative to the viewer, moving forward synchronously with the camera.
+frame_0000000768-frame_0000000896:
+The first frame displays a straight asphalt road, receding into the distance, with a dark car ahead of the viewer in the same lane. Rows of lush green trees flank both sides of the road, with distant green hills visible at the horizon under a clear blue sky with scattered clouds; a street light pole is positioned on the right side of the road, slightly ahead.
+end of description
+As the frames progress, the viewer moves forward along the road; the trees and the initial street light pole on the right side move sequentially past the viewer and exit the frame. The dark car ahead maintains its position relative to the road but appears further into the distance, and a new street light pole becomes visible further down the road on the right.

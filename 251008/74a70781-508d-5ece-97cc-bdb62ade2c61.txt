@@ -1,0 +1,22 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a train's-eye view looking down a curving set of tracks made of rails on a gravel bed, receding into the distance and bending left. Lush green trees cover embankments on both the left and right sides, with a white concrete barrier running along the right embankment, past a yellow sign on a pole and several utility poles. Overhead wires span across the top, and a light gray sky is visible above the distant tree-covered hills.
+end of description
+As the viewpoint moves forward, the tracks and surrounding scenery approach the viewer. The yellow sign, initially to the right of the tracks, comes closer, revealing the number '6' before moving past the viewer's right. The train continues along the curving path through the forested landscape, causing the trees and utility poles to advance and then recede to the sides.
+frame_0000000128-frame_0000000256:
+The first frame shows railroad tracks extending centrally into the distance, curving gently to the right, flanked by forested slopes. On the left, a grassy incline features dense deciduous and coniferous trees, while on the right, a steeper, heavily wooded slope with some exposed earth runs alongside a light-colored concrete barrier parallel to the tracks. Overhead power lines are visible, supported by a utility pole positioned to the right of the tracks, and the background reveals distant tree-covered hills under an overcast sky, with "Vmax: 65KM/h" displayed in the bottom left.
+end of description
+As the train moves forward, the central railroad tracks continuously recede into the distance. The forested slopes on both sides and the concrete barrier on the right steadily move closer and then pass the viewer's position. The utility pole on the right approaches, moves past the viewer, and exits the frame to the right, revealing more of the curving tracks ahead. The overhead power lines also shift spatially above the viewer, indicating continuous forward motion.
+frame_0000000256-frame_0000000384:
+The first frame displays a train track extending directly away from the viewer, covered in gravel ballast, and curving gently to the right into the distance. Lush green trees and bushes densely line both sides of the track, with a steep, forested hill ascending to the right of the tracks. Overhead wires are visible crossing the sky, and a utility pole stands further ahead, slightly to the left of the tracks. The text "Vmax: 65KM/h" appears in the bottom left corner.
+
+end of description
+
+As the sequence progresses, the viewpoint moves forward along the tracks, causing the track ties and gravel to continuously approach and pass beneath the viewer. The dense green foliage and the forested hill on the right steadily draw closer and then move out of view to the sides, revealing more of the curving landscape ahead. The distant utility pole on the left approaches and will eventually pass the viewer as the train proceeds along the rightward bend in the tracks.
+frame_0000000384-frame_0000000512:
+The first frame presents a train's forward perspective of railway tracks curving gently right, receding into a forested landscape under an overcast sky. To the left, a tall utility pole with overhead lines stands amidst green trees and shrubs, while a concrete strip borders the tracks to the right alongside a grassy, treed hillside; "Vmax 65KM/h" is displayed at the bottom left.
+end of description
+As the train moves forward, the utility pole and left-side trees advance past the viewer's initial position, and a yellow rectangular sign appears further ahead on the left, subsequently also moving past the first-frame viewpoint as the tracks continue into the distant forest.
+frame_0000000512-frame_0000000640:
+The first frame shows a train track curving right through a lush green forest under an overcast sky, with a "Vmax 65KM/h" overlay in the bottom left. Ahead, a yellow rectangular sign with "85 0" stands on the left, and a yellow diamond-shaped sign with "13" is visible on the right, both alongside the tracks.
+end of description
+As the viewpoint moves forward along the tracks, these signs and utility poles on both sides move closer and eventually pass the viewer. The "85 0" sign on the left fully emerges before passing, while a new white and black striped pole appears and moves closer on the left. Concurrently, the yellow diamond-shaped sign on the right passes, its number changing from '13' to '18', as the curving, forested landscape continuously unfolds ahead.

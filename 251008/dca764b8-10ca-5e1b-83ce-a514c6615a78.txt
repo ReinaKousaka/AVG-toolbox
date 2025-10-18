@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a wet urban street scene. To the viewer's left, a row of trees lines a sidewalk with tactile paving, a green-roofed bus stop shelter, and pedestrians carrying umbrellas, all next to a street with distant vehicles. To the right, a multi-story building features a "SHIPS" storefront with two mannequins, an entrance, and another shop with a red facade.
+end of description
+As the viewpoint advances forward, the "SHIPS" display window on the right gradually closes as a horizontally striped rolling shutter descends. Concurrently, the bus stop and pedestrians on the left recede into the background, revealing more of the wet street and the urban environment extending further ahead.
+frame_0000000128-frame_0000000256:
+The first frame shows the viewer on a wet sidewalk, with a bus stop shelter and a street with vehicles and trees to the left. To the right, a building features storefronts, including 'SHIPS' with steps leading up, while pedestrians walk ahead on the wet path. In the distance, more buildings rise under an overcast sky.
+end of description
+As the viewer moves forward, the bus stop shelter on the left side of the path recedes and passes. The "SHIPS" storefront on the right also passes, revealing a new "PEARLY GATES" storefront to its right. Pedestrians, some with umbrellas, move both towards and away from the viewer along the sidewalk.

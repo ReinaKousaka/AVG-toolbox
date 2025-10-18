@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a view from inside a vehicle, looking down two parallel tracks receding into a bright opening ahead. Tall structures with red and gray paneled facades line both sides, featuring grated sections below, while the vehicle's reflective surface is visible at the bottom.
+end of description
+As the frames progress, the viewpoint steadily moves forward along the tracks, causing the flanking structures to appear closer and then recede. The bright distant opening approaches, revealing more ground detail and hinting at structures beyond, indicating a continuous progression towards exiting the covered pathway.

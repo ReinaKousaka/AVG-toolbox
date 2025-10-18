@@ -1,0 +1,14 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a paved road curving right through a mountainous valley, flanked by a metal guardrail and a stone wall with a chevron sign on the left, and a rocky bank bearing a deer warning sign on the right. Towering, rugged mountains with sparse vegetation rise steeply on both sides, receding into the background.
+
+end of description
+
+As the viewpoint progresses forward, the road continues its rightward curve, causing the guardrail, chevron sign, and initial stone wall on the left to recede. The deer warning sign on the right, which briefly displays "5 km" in the third frame, also moves out of view as new sections of the stone wall with yellow and white markers are revealed further along the left. The mountainous valley ahead progressively opens up, showcasing more distant peaks.
+frame_0000000128-frame_0000000256:
+The first frame presents a paved road curving right through a mountain gorge, with a stone wall and building visible to the immediate left, and a steep rocky cliff face to the immediate right. Ahead, the road is bordered by a metal guardrail on the left, leading into a deep valley flanked by towering mountains under a bright sky.
+end of description
+As the viewpoint moves forward along the road, the stone wall and building on the left recede and disappear, revealing more of the extended guardrail and a blue chevron sign on the left that subsequently passes. The steep rocky cliff on the right remains close, while the distant mountains and valley ahead progressively open up, showing more rugged terrain and newly visible overhead power lines.
+frame_0000000256-frame_0000000384:
+The viewer is looking forward down a dark grey asphalt road that curves gently to the right, with a solid white center line. To the left, a silver metal guardrail runs alongside the road, beyond which is a steep, rocky mountain slope covered in sparse greenery, with distant mountains further back and a utility wire crossing the upper sky. To the immediate right, a tall, rugged rock face covered in patches of moss rises sharply from the roadside, topped by trees and bushes, all under an overcast sky.
+end of description
+As the viewpoint moves forward along the curving road, the guardrail on the left recedes. A utility pole with wires emerges from behind the initially visible section of the left mountain, becoming more prominent before moving past the viewer to the left. Simultaneously, the rugged rock face on the right reveals more of its textured surface as the view travels alongside it, while the distant mountains remain ahead in the valley.

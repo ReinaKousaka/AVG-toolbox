@@ -1,0 +1,29 @@
+frame_0000000000-frame_0000000128:
+The first frame shows the viewer's perspective from inside a yellow kayak, looking forward. Directly in front of the viewer is the back of a person wearing a black t-shirt and a black cap, holding a paddle. The paddle extends across their body, with its left blade partially submerged in the dark green water to the left, and the shaft angled upwards to the right. Ahead of the kayak, a calm river stretches into the distance, bordered by dense green trees and vegetation on both the left and right banks, meeting a clear blue sky above.
+end of description
+The primary dynamic involves the person paddling, repeatedly moving the paddle across the kayak. Initially, the paddle's left blade, positioned in front and to the left of the person, is partially submerged in the water. The paddle then sweeps upwards and to the right, causing the right blade, positioned in front and to the right of the person, to rise clear of the water as the stroke concludes. As this motion progresses, the distant river and surrounding treeline directly in front of the first-frame viewpoint gradually shift closer, revealing new sections of the waterway ahead. The paddle then cycles back, with the left blade re-entering the water to the left of the person, preparing for the next stroke.
+frame_0000000128-frame_0000000256:
+From the viewer's perspective inside a yellow kayak, a person wearing a black cap and t-shirt sits directly ahead, facing away, holding a paddle with its left blade partially submerged in the river that stretches forward, flanked by dense green trees under a clear blue sky.
+end of description
+Subsequently, the person continuously paddles, causing the kayak to steadily move forward along the river; the paddle's blades alternately immerse and emerge from the water, as the tree-lined banks, initially further ahead, gradually appear closer to the viewer.
+frame_0000000256-frame_0000000384:
+The viewer is positioned directly behind a person in a yellow kayak, observing their back, black cap, and t-shirt. This person is actively paddling, with the left blade of a double-bladed paddle submerged in the greenish-brown river water to the left of the kayak, while the right blade is raised above the water to the right. The kayak floats on a serene river, flanked by lush green trees on both banks that recede into the distance under a clear blue sky.
+
+end of description
+In the following frames, the paddler consistently alternates strokes, moving the right paddle blade into the water and lifting the left out, then reversing the action. This continuous motion propels the kayak slowly forward along the river.
+frame_0000000384-frame_0000000512:
+The first frame shows the viewer's perspective from a yellow kayak, looking forward at the back of a person in a black shirt and cap, holding a paddle over the water. A river stretches ahead, flanked by dense green trees and vegetation on both banks, under a clear blue sky.
+end of description
+Subsequently, the person dynamically moves the paddle, pulling it through the water on the left side, then sweeping it forward and across the kayak to submerge the other blade on the right side. This continuous paddling motion propels the kayak forward, steadily revealing more of the river and the receding treelined banks in front of the viewer.
+frame_0000000512-frame_0000000640:
+The first frame presents a first-person perspective from a yellow kayak on a calm river, looking towards a person in a black cap and t-shirt paddling directly in front of the viewer. Lush green trees and vegetation line both banks of the river, which extends into the distance under a clear blue sky.
+end of description
+Throughout the subsequent frames, the person consistently paddles forward, moving the dual-bladed paddle. The left paddle blade, initially near the water to the left of the kayak, rises to the viewer's left as the right blade emerges from the water to the right of the kayak. Subsequently, the right blade enters the water to the right, creating ripples and propelling the kayak, while the left blade lowers before rising again for its next stroke on the left side.
+frame_0000000640-frame_0000000768:
+The first frame depicts the back of a person in a black shirt and cap, seated in a yellow kayak directly in front of the viewer, holding a two-bladed paddle. The kayak is on a dark river, flanked by dense green trees on both banks and extending into the distance under a clear blue sky.
+end of description
+In subsequent frames, the person actively paddles, causing the left blade of the paddle to repeatedly dip into the water to the left of the kayak and lift out, while the right blade moves similarly to the right. The overall scene of the river and banks remains consistent, indicating forward motion of the kayak relative to the environment.
+frame_0000000768-frame_0000000896:
+From a first-person perspective in a yellow kayak, a person's back, wearing a black cap and t-shirt, is visible immediately in front of the viewer, holding a double-bladed paddle. A wide river stretches forward into the distance, flanked by dense green trees along both banks under a clear blue sky. A "ProArtInc" watermark is at the bottom left.
+end of description
+The person repeatedly paddles the kayak, alternating strokes. The right blade plunges into the water on the viewer's right, pulls back, then the left blade enters the water on the viewer's left, creating ripples as the kayak moves forward into the river ahead.

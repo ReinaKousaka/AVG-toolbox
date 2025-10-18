@@ -1,0 +1,30 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a direct view down two parallel railway tracks, laid on gravel ballast, extending into the distance and curving gently towards the right. Lush green grassy embankments, densely covered with trees and bushes, flank both sides of the tracks, rising steeply on the left. In the far distance, an overpass or bridge structure is visible spanning across the tracks.
+end of description
+As the sequence progresses, the viewpoint moves continuously forward along the railway tracks. The immediate foreground recedes, and the surrounding green landscape and trees appear to pass by on either side of the viewer, reflecting the forward motion. The distant bridge structure ahead gradually becomes closer and more prominent within the scene.
+frame_0000000128-frame_0000000256:
+The first frame presents a view down two parallel railroad tracks on a gravel bed, receding into the distance and curving slightly to the right, flanked by dense green vegetation and trees on both sides. A darker strip of ground runs along the base of the left embankment, and an overpass or bridge is visible spanning the tracks in the far background.
+end of description
+As the frames advance, the viewer moves forward along the tracks, causing the foreground gravel and vegetation to shift towards and past them, while the distant bridge progressively approaches from ahead. The surrounding tree-lined embankments continue to dominate the view without revealing any significant new objects or scenes to the sides or behind the initial viewpoint.
+frame_0000000256-frame_0000000384:
+Two sets of train tracks, comprised of gravel ballast, sleepers, and metal rails, extend directly in front of the viewer, curving slightly left into the distance. Lush green grass and dense trees flank both sides of the tracks, with a taller, denser canopy on the left. In the far distance, a bridge or overpass structure is visible above the tracks, beneath a cloudy sky.
+end of description
+The viewpoint continuously moves forward along the tracks, causing the gravel, sleepers, and rails to pass beneath the viewer. The dense vegetation and trees on both sides of the tracks recede to the sides as the viewer progresses. The distant bridge steadily approaches, remaining centered in the view ahead.
+frame_0000000384-frame_0000000512:
+The first frame shows two parallel railway tracks, laid on a gravel bed, extending directly forward into the distance from the viewer's immediate foreground. To the left, a steep grassy embankment with a concrete retaining wall at its base runs alongside the tracks, topped by dense green trees and foliage. To the right, another grassy embankment slopes upwards, also lined with trees, and a house with a red roof is visible on the upper right slope in the mid-ground. In the far distance, an overpass or bridge spans across the tracks, all beneath a bright, cloudy sky.
+end of description
+The viewpoint moves steadily forward along the tracks. Consequently, the concrete retaining wall to the left and the grassy embankments on both sides, along with their foliage, progressively move closer to the viewer before receding. The distant bridge ahead and the house on the upper right embankment slowly appear larger as the viewer approaches them, indicating continuous forward motion.
+frame_0000000512-frame_0000000640:
+From the viewer's perspective on train tracks, two sets of gravel-covered rails extend straight ahead, converging towards a distant bridge in the center. To the left, a stone retaining wall runs alongside a grassy embankment adorned with dense trees, while on the right, a similar green slope rises, with a building featuring a red roof visible atop it in the mid-distance. A bright, cloudy sky occupies the upper portion of the frame.
+end of description
+As the frames progress, the viewpoint steadily moves forward along the tracks, causing the retaining wall, grassy embankments, and trees on both sides to sequentially approach and then pass by the viewer. The distant bridge also gradually appears closer as the scene advances.
+frame_0000000640-frame_0000000768:
+The first frame shows a view directly down two sets of train tracks stretching into the distance, with a concrete retaining wall and wooded slope to the left, and a grassy slope leading to a building and trees on the right; a bridge spans the tracks in the far distance under a partly cloudy sky.
+end of description
+As the viewpoint moves forward along the tracks, the foreground elements such as the graffiti on the left retaining wall rapidly approach and then move out of view to the left, eventually moving behind the viewer. The grassy slopes, trees, and the building on the right also progressively shift closer to the viewer. New sections of the tracks and the landscape immediately adjacent to them are continually revealed from the distant background, moving towards and then past the viewer. The distant bridge appears to slowly grow larger as the viewpoint approaches it, maintaining its position ahead of the viewer.
+frame_0000000768-frame_0000000896:
+The first frame presents a view down two parallel railway tracks, laid on gravel, extending towards a distant overpass in the center. To the left, a concrete retaining wall runs alongside the tracks, backed by a steep, grassy embankment covered in trees and foliage. On the right, a similar grassy slope rises, with trees and a building featuring a reddish roof visible on its peak in the mid-ground, while a partly cloudy sky spans above.
+
+end of description
+
+The viewpoint advances steadily along the tracks, causing the concrete wall on the left and the grassy embankments on both sides to approach the viewer and subsequently recede behind. As the perspective moves forward, distinct graffiti becomes apparent on the concrete wall to the left, and the distant overpass, along with the building on the right, draw progressively closer.

@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame captures a wide, wet stone courtyard extending forward, flanked by a long traditional building with a dark tiled roof on the left and a grander structure with a stone balustrade to the right. A prominent mountain peak is visible in the distant background, centered, under an overcast sky, while a dark architectural overhang partially covers the very top of the frame, overhead.
+end of description
+In the following frames, the camera subtly rotates, causing the dark architectural overhang at the top to shift slightly downwards and become more expansive within the view. This slight perspective change diminishes the visibility of the grand building on the right and the distant mountain peak, without revealing any new objects or scenes.
+frame_0000000128-frame_0000000256:
+The first frame depicts a wet, irregular stone-paved courtyard extending from the viewer into the distance, flanked by a long traditional building with a dark tiled roof on the left and a raised, ornate traditional building on the right; a prominent dark mountain stands centrally in the background under a cloudy sky, with a dark architectural overhang partially obscuring the top of the frame.
+end of description
+In the following frames, the dark architectural overhang above the viewer progressively disappears from the top of the scene, revealing more of the cloudy sky over the ornate building on the right as the viewpoint subtly shifts, maintaining the overall composition and static nature of the buildings and mountain.
+frame_0000000256-frame_0000000384:
+The first frame presents a wide, wet stone-paved courtyard stretching from the foreground into the distance under an overcast sky, with a mountain peak visible in the far background. To the left, a long, dark-roofed traditional building with brown pillars extends along the side, while to the right, a large, ornate building with a dark tiled roof and stone balustrade stands on a raised platform, partially obscured by an overhead structure in the top right.
+end of description
+Throughout the following frames, the scene remains visually static in terms of objects and camera position, but dynamic changes reveal rainfall. Faint, intermittent vertical streaks, indicative of falling raindrops, appear scattered across the entire scene. A more prominent individual raindrop can be observed briefly in the upper-central area, descending towards the wet pavement.

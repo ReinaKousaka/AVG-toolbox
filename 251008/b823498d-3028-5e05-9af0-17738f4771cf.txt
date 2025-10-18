@@ -1,0 +1,28 @@
+frame_0000000000-frame_0000000128:
+A paved road, dark gray and flecked, begins at the bottom center and curves gently left, receding into the mid-ground. To the immediate right of the road, a dry, golden-green grassy field extends towards a darker, tree-covered hillside on the far right. On the left, dense green foliage borders the road, giving way to a prominent, golden-brown grassy hill in the distant center-left, topped with scattered trees, all beneath an overcast sky.
+end of description
+No dynamic changes are observed across the subsequent frames. All visible objects and their spatial positions relative to the first-frame viewpoint remain static throughout the sequence.
+frame_0000000128-frame_0000000256:
+In the first frame, a gravel road curves from the bottom-center towards the left, bordered by a dirt shoulder to its right. To the immediate right of the shoulder, tall green-yellow grass extends, with a prominent spiky green plant in the middle-right foreground. On the left, dense dark green foliage covers a slope beside the road, which continues to curve into the midground. In the background, a large golden-yellow grassy hill is visible in the center, flanked by dark green hills or dense vegetation on both the far left and far right. The sky overhead is cloudy.
+end of description
+Throughout the subsequent frames, the tall green-yellow grass on the right side of the road sways noticeably, indicating wind movement. A rustic wooden fence running horizontally becomes slightly more visible within the grassy field, to the right of the large spiky plant, maintaining its position relative to the first-frame viewpoint.
+frame_0000000256-frame_0000000384:
+The first frame presents a view down a two-lane road with a gravel shoulder on the right, which curves gently left into the distance. A steep, dark green hillside covered in dense trees borders the left side of the road, while the right foreground is filled with tall dry grasses and large spiky-leaved plants. Beyond these, a golden-brown hill rises in the midground under an overcast sky, with a few scattered trees visible on its slopes.
+end of description
+In subsequent frames, a tall, dark-tipped stalk gradually emerges from behind the spiky plants on the right side of the road, moving upwards relative to the first-frame viewpoint. This stalk sways slightly, steadily rising higher into the frame, then dipping a little. No other significant objects are revealed or dynamic changes occur within the scene.
+frame_0000000384-frame_0000000512:
+The first frame displays an asphalt road curving gently uphill towards the upper left. To the left of the road, a steep, densely wooded hillside rises, while on the right, a gravel shoulder gives way to tall grasses, a fence, and then more lush green bushes, with a prominent yellow-green hill in the mid-ground under a cloudy sky. A large, spiky plant stalk is visible in the immediate right foreground.
+end of description
+As the frames progress, the viewpoint moves forward along the road. The spiky plant stalk on the immediate right recedes downwards and out of view, revealing more of the grassy roadside and the fence extending further into the scene. The overall landscape of the curving road, tree-covered hillsides, and the yellow-green hill to the right remains consistent but appears closer, indicating continuous forward motion.
+frame_0000000512-frame_0000000640:
+A paved road curves uphill to the left, flanked by a gravel shoulder and tall grasses on the right foreground where a large spiky plant is prominent. Beyond, rolling hills covered in green and brownish vegetation extend under an overcast sky.
+end of description
+The subsequent frames show minimal change, primarily a very slight forward camera movement causing the road and right-side vegetation to shift subtly closer. Around the fifth frame, a brief lens flare appears on the mid-right before receding, and then the scene remains largely static again.
+frame_0000000640-frame_0000000768:
+The first frame presents a rural road scene, with a paved road curving left and uphill from the viewer's left, alongside a gravel shoulder directly in front and to the viewer's right. A steep hill densely covered in green foliage rises on the left, while a grassy field bordered by a wooden fence extends to the right, with distant green and yellowish hills under a cloudy sky in the background.
+end of description
+The viewpoint continuously advances forward along the road, causing the immediate gravel path and fence on the right to recede behind the viewer's right side. Simultaneously, the paved road and vegetated hillside on the left move progressively further left and behind the viewer as new sections of the winding path and surrounding landscape continuously unfold ahead.
+frame_0000000768-frame_0000000896:
+The first frame displays a winding asphalt road in the foreground, curving left and extending into the mid-ground. To the right of the road, a gravel shoulder borders a field of tall grass, beyond which lie green hills dotted with dense trees, including a prominent yellow-green hill in the upper right background. To the left, a steep, tree-covered hillside rises, and a cloudy sky is visible overhead.
+end of description
+All subsequent frames are identical to the first, showing no dynamic changes or newly revealed objects or scenes.

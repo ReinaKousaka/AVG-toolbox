@@ -1,0 +1,14 @@
+frame_0000000000-frame_0000000128:
+The first frame captures a narrow, rocky stream flowing from the middle-distance towards the viewer's left foreground, flanked by a leaf-covered path on the right and bare tree branches on the immediate left. A steep, green-covered bank runs along the right side, with a dense forest visible beyond.
+end of description
+Throughout the following frames, the viewpoint slowly progresses forward along the path. This movement reveals more of the stream's winding course and the path ahead, causing the initial foreground branches to gradually move out of sight to the viewer's left.
+frame_0000000128-frame_0000000256:
+A narrow, rocky stream flows from the distant background towards the foreground, slightly to the left of center, surrounded by fallen autumn leaves. Steep banks covered with sparse green foliage and numerous brown leaves flank the stream, with a discernible path on the right. Trees with mostly bare branches frame the scene, particularly a prominent tree trunk in the right mid-ground.
+end of description
+The camera subtly pulls back and elevates slightly, gradually revealing more of the gully and the path extending further into the distance on the right. The lighting in the scene brightens, and the water in the stream continues its dynamic flow over the rocks.
+frame_0000000256-frame_0000000384:
+In the first frame, a rocky stream with white rapids flows away from the viewer, centrally positioned between two sloping banks. To the viewer's immediate left and right, the foreground shows fallen autumn leaves and small branches, with a visible tree trunk on the bottom left. A narrow dirt path, covered in similar leaves and bordered by green ferns, runs along the right bank, also receding into the distance. Tall, slender tree trunks rise from both sides of the stream, framing the scene, while sunlight illuminates the dense forest in the background.
+
+end of description
+
+The only dynamic change is the continuous flow of water in the rocky stream, moving away from the viewer throughout the subsequent frames. No new objects or scenes are revealed, and the camera viewpoint remains entirely static.

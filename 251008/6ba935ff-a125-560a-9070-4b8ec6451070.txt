@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The initial frame shows an aerial view looking down into a deep, forested canyon where a turquoise and light blue river flows from the upper-left towards the lower-center. Both sides of the canyon and the far background are densely covered with green pine trees, while the immediate foreground on the viewer's right features reddish-brown rocky cliffs.
+end of description
+In subsequent frames, the viewpoint subtly pans to the right, gradually revealing more of the steep, rocky cliff face directly to the right of the initial frame's visible area, causing the river and the opposing canyon wall to proportionally shift towards the left within the frame.

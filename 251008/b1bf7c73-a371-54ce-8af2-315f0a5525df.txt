@@ -1,0 +1,16 @@
+frame_0000000000-frame_0000000128:
+In the first frame, a paved pathway extends from the viewer's foreground into the midground, flanked by green grass on both sides. To the left of the path, a park bench and a lamppost are visible, with a wooden fence and dense trees behind them. In the midground center, a person on a personal mobility device faces away from the viewer on the path, surrounded by trees with varying foliage, some draped in Spanish moss. To the right, a grassy bank slopes down to a body of water with aquatic plants, bordered by more trees. A bright blue sky is visible above the trees in the background.
+end of description
+The person on the personal mobility device, initially in the midground, gradually moves closer towards the viewer along the paved path in subsequent frames.
+frame_0000000128-frame_0000000256:
+The first frame features a paved pathway extending from the foreground into the middle distance, bordered by grassy areas on both sides. To the left of the path, a green park bench and a lamppost are visible, backed by dense trees. On the right, a pond with reeds and more trees is seen. In the mid-ground, at the far end of the visible path, two individuals on Segway-like devices are positioned, facing away from the viewer, surrounded by large trees draped with Spanish moss.
+end of description
+In the subsequent frames, the two individuals on Segways slowly begin to move along the pathway, receding further into the background. They continue to travel away from the viewer, gradually appearing smaller as they advance along the path.
+frame_0000000256-frame_0000000384:
+First, a paved path extends from the viewer into a sunlit natural area, bordered by dense green foliage and trees draped in Spanish moss. In the midground, two helmeted individuals on yellow Segways are positioned on the path, facing away from the viewer, with one slightly left and the other slightly right and further back. A large tree trunk is to the immediate right of the path, and a wooden fence and signpost are to the far left.
+end of description
+The left Segway rider gradually turns further left onto a diverging path, moving away from the viewer. Meanwhile, the right Segway rider continues straight on the main path, also moving further into the distance and slightly right of their original position.
+frame_0000000384-frame_0000000512:
+The first frame presents two women on yellow Segways riding a paved path that recedes into the background; one is positioned in the left foreground, and the other is further away to the right, while the path is bordered by dense, moss-draped trees on the left and a grassy area with scattered trees on the right, all under a clear blue sky.
+end of description
+Both women on Segways slowly move forward along the path, progressively further away from the viewer's initial position. The woman initially in the left foreground exits the frame to the far left. The remaining woman continues moving forward along the path, then gradually shifts left and exits the frame, leaving only the empty path and surrounding natural environment visible extending into the background.

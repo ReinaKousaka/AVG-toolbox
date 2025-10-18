@@ -1,0 +1,30 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a multi-lane highway cutting through a canyon under a clear blue sky. To the viewer's immediate bottom left, part of a dark vehicle is visible, while a concrete overpass stretches diagonally above the left side of the highway. Steep, rocky mountain faces rise on both the left and right, with a brown river visible to the right of the highway.
+end of description
+In subsequent frames, a black SUV, initially to the viewer's left and slightly behind, moves forward to pass the viewer's vehicle, then proceeds ahead on the left lane of the highway. As the viewer advances, the road ahead and the canyon's features, including the overpass and rocky walls, gradually recede into the distance relative to the initial viewpoint.
+frame_0000000128-frame_0000000256:
+The first frame displays a multi-lane highway extending forward, with a dark SUV in the left lane ahead of the viewer, followed by another distant vehicle. To the viewer's left, a massive concrete overpass spans diagonally above rocky cliffs with sparse vegetation and a fence line, while a sheer reddish-brown cliff face borders the highway to the right, beyond a guardrail with a yellow sign, all under a clear blue sky.
+
+end of description
+
+As the frames progress, the viewpoint moves forward along the highway, causing the concrete overpass to pass overhead and then recede behind the first-frame viewpoint on the left. The rocky cliffs and vegetation flanking both sides of the road continuously unfold and then recede to the left and right of the advancing perspective. The vehicles ahead maintain their relative positions as the scene progresses deeper into the canyon.
+frame_0000000256-frame_0000000384:
+The viewer is on a multi-lane highway extending forward into a canyon, with two lanes visible. Rocky cliff faces flank both sides of the highway, adorned with green and autumnal foliage, while a concrete overpass stretches diagonally from the upper left across the highway. Several vehicles are visible ahead on the road, with distant mountains in the background under a clear blue sky.
+end of description
+A red Jeep gradually emerges from the lower left foreground in the lane to the viewer's left. The Jeep then proceeds to pass the viewer, moving into the midground relative to the first-frame viewpoint, and continues traveling further ahead on the left lane.
+frame_0000000384-frame_0000000512:
+In the first frame, a multi-lane highway extends directly ahead of the viewer, flanked by imposing reddish-brown canyon walls on both the left and right sides. A red Jeep, with a spare tire on its rear, is positioned in the lower-left foreground, traveling away from the viewer. Above the road and to the left, a large concrete overpass structure diagonally crosses the scene, with green foliage at the base of the left canyon wall beneath it. Several other vehicles are visible further down the highway, and a clear blue sky dominates the upper portion of the frame.
+end of description
+As the scene progresses, the viewpoint moves forward along the highway, causing the red Jeep and other vehicles to recede further into the distance. The concrete overpass structure gradually shifts out of the upper left and recedes overhead. Simultaneously, the canyon walls and their associated foliage slowly pass by on both sides, revealing more of the road ahead.
+frame_0000000512-frame_0000000640:
+A multi-lane highway extends forward, framed by steep reddish-brown canyon walls with green vegetation to the left and right, under a clear blue sky; an elevated concrete bridge crosses overhead from the upper left, and a dark Jeep drives ahead in the viewer's lane.
+end of description
+The viewer's perspective progresses forward through the canyon, causing the dark Jeep ahead to recede further into the distance relative to its initial position. A white Jeep appears from the viewer's left, entering the frame from a position initially just behind and to the left of the first-frame viewpoint. This white Jeep then moves forward, driving alongside and eventually passing the viewer's initial position on the left. Concurrently, the elevated bridge and canyon walls, initially ahead and to the sides, progressively move into positions behind and to the sides of the first-frame viewpoint as the journey continues.
+frame_0000000640-frame_0000000768:
+The first frame captures a multi-lane highway winding through a canyon under a clear blue sky. Ahead of the viewer, a white Jeep and a darker SUV drive in the left lane. To the left, a rocky cliff face rises, partially obscured by an elevated concrete bridge spanning overhead. To the right, a guardrail parallels a river lined with trees, beyond which another steep rocky cliff ascends.
+end of description
+As the viewer's vehicle proceeds, the white Jeep and darker SUV remain ahead, while the elevated bridge structure progressively passes overhead and recedes to the rear. The canyon walls, river, and surrounding foliage continuously unfold, revealing new sections ahead of the initial viewpoint as the vehicle moves forward along the highway.
+frame_0000000768-frame_0000000896:
+The first frame captures a highway extending forward, flanked by guard rails, with a prominent concrete overpass arching diagonally from the upper left over the road, supported by pillars on the left. Two black SUVs drive ahead in the viewer's lane, while rugged reddish-brown cliffs rise sharply on both the left (under the overpass) and right sides. A river flows to the right of the highway, adjacent to the right cliff, all under a clear blue sky.
+end of description
+As the frames progress, the viewer's viewpoint moves forward along the highway, causing the overhead concrete overpass to gradually shift further overhead and recede into the distance ahead. Simultaneously, the towering cliffs and the riverbanks on both sides continuously unfold, revealing new sections that move past the initial first-frame viewpoint as the journey continues. The two black SUVs ahead also continually move further into the distance from the initial frame's perspective.

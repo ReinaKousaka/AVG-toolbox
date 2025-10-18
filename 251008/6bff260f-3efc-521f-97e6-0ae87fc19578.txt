@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a serene landscape featuring a wide, light-turquoise lake in the mid-ground, framed by verdant mountains receding into the background under a partly cloudy sky. In the foreground, a lush green grassy slope leads to a paved road, where a light-colored car is visible on the far left, while a cluster of trees and a small house stand along the lakeshore on the right.
+end of description
+Subsequently, the car on the road moves rightward, briefly disappearing behind the central trees before reappearing and continuing its path towards the right edge of the frame. Concurrently, a boat's wake traverses the lake from the left towards the right, and a new building with a red roof emerges into view from the right side, positioned closer to the viewer than the initial small house.

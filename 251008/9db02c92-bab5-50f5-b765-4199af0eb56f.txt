@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a light blue pleated curtain with a subtle pattern and a golden border, occupying most of the right and center foreground. To the left, a window reveals an outdoor scene with green foliage, a tree trunk, and blurred structures beyond; a glimpse of a dark object and a pale, pleated lampshade is visible behind the curtain on the far right.
+end of description
+As the frames progress, the curtain dynamically slides further to the left, gradually revealing more of a dark red lamp base situated behind the curtain on a dark surface to the right of the first-frame viewpoint.

@@ -1,0 +1,27 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a rainy city street looking forward along a wet sidewalk, with a person holding a transparent umbrella walking away from the viewer in the foreground. To the left are a phone booth, a red cone, and a bare tree, while to the right, a storefront with promotional signs and more pedestrians with umbrellas recedes into the distance.
+end of description
+As the sequence unfolds, the viewpoint advances, following the lead person and the other pedestrians further along the sidewalk, all moving away from the initial first-frame position. This movement progressively reveals additional storefront details and signs on the right, as the phone booth and tree on the left recede further into the background.
+frame_0000000128-frame_0000000256:
+The first frame shows the viewer walking on a wet city sidewalk, positioned behind a person holding a clear umbrella, slightly left of center. Ahead and to the right, another person with a black umbrella walks past a building featuring large storefront windows and red advertising banners. On the left, a street with moving cars and bare trees runs parallel to the sidewalk, which also holds parked bicycles and a utility box in the foreground.
+end of description
+As the frames progress, the viewer moves forward, causing the two individuals with umbrellas to recede further into the midground. Concurrently, the utility box on the far left moves out of the frame, and the storefront on the right grows closer, revealing more of its details and additional signage.
+frame_0000000256-frame_0000000384:
+The first frame shows the viewer on a wet sidewalk, looking forward as several people with umbrellas walk away. To the viewer's left is a street with parked bicycles and moving vehicles, while a building with multiple storefronts and a prominent pink sign stands to the right. The sky overhead is overcast.
+end of description
+As the frames progress, the viewer moves forward along the sidewalk. The person in the black jacket directly ahead, along with other pedestrians, continues walking away. This forward movement causes the initial foreground elements, like the tree trunk and parked bicycles to the left, to shift further left and eventually out of the immediate view, while revealing more of the street and buildings further down the block. Simultaneously, the storefronts and signs on the right recede, exposing additional sections of the building's facade as the viewer advances past their initial position.
+frame_0000000384-frame_0000000512:
+The first frame depicts a wet urban sidewalk on an overcast day, with pedestrians holding umbrellas walking in various directions, parked bicycles and a red mailbox on the left, and a building with red Japanese signs on the right.
+end of description
+As frames progress, the viewpoint slightly advances, revealing a blue banner with white Japanese characters entering from the far right of the frame. The pedestrian with the blue umbrella on the right moves past the viewer's right side, while the person in the black jacket continues walking away on the left. Other pedestrians and street vehicles consistently progress along their respective paths.
+frame_0000000512-frame_0000000640:
+A wet city sidewalk, with a red mailbox and bicycle wheel foregrounded on the left, features several umbrella-carrying pedestrians walking away and one approaching on the right, all set against city buildings and a busy street. end of description
+The approaching pedestrian on the far right continues past the viewer, exiting the frame to the right, while other pedestrians proceed further ahead and vehicles move along the distant street.
+frame_0000000640-frame_0000000768:
+The first frame shows a wet city street on an overcast day. To the viewer's immediate left, a red post box and a yellow signpost are visible, while a yellow tactile paving strip runs along the right edge of the sidewalk. In the mid-ground, a group of pedestrians, mostly holding umbrellas, walk away from the viewer towards a crosswalk that stretches across the street. On the right, a multi-story building with various shops and signs, including "築地 銀だこ", borders the sidewalk, and cars are present on the wet street to the left, with a green traffic light visible further down.
+end of description
+A pedestrian with a white umbrella, initially on the right, moves quickly across the mid-ground towards the left, eventually exiting the frame. Simultaneously, the group of pedestrians in the center continues walking away from the viewer over the crosswalk. Cars on the wet street to the left proceed further into the distance or towards the mid-ground.
+frame_0000000768-frame_0000000896:
+The first frame displays a wet city street featuring a pedestrian crosswalk stretching across the midground, where several people, some with umbrellas, are traversing from left to right. To the viewer's right stands a multi-story corner building adorned with numerous storefronts and signs, while vehicles navigate the wet road on the left, moving into the background alongside distant tall buildings.
+end of description
+Over the subsequent frames, the pedestrians on the crosswalk, including the central figure with a white umbrella, steadily advance towards the right side of the frame. Simultaneously, the cars on the left continue their movement further away from the viewer's relatively static viewpoint.

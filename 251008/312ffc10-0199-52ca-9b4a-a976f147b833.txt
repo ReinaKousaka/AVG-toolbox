@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+In the first frame, a paved driveway occupies the foreground, curving from the bottom center towards a garage on the left and a cottage on the right. A low stone wall runs along the viewer's right side. To the viewer's right stands a quaint cottage with a thatched roof, white walls, and red and green ivy covering its front, featuring a wooden door and windows. To the viewer's left, a light-colored garage with a white door is visible, with a light green car parked on the driveway in front of it, facing away. The background features a bright blue sky with scattered clouds and distant trees.
+end of description
+There are no dynamic changes or newly revealed objects in the subsequent frames; the scene remains static.

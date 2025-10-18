@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a multi-tiered rocky cliff face centrally, with two narrow waterfalls cascading down; one is on the left-center, and another is higher up to the right. Dense green and autumnal yellow-leafed trees and bushes occupy the foreground and left, while sparser trees and mossy rocks flank the right side of the cliff.
+end of description
+As the frames progress, the viewpoint slowly pans right and subtly zooms out, gradually revealing more of the massive cliff face and the extended upper sections of both waterfalls, now appearing longer. This movement brings additional forested landscape with tall, slender trees into view on the far right, expanding the scene laterally from the initial right boundary.

@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a dirt path with tire tracks and exposed roots in the foreground, extending forward and flanked by dense green foliage and grass on both sides, with a small blue sign visible on the bottom-left. Beyond a grassy clearing in the midground, distant green mountains rise under a bright sky.
+end of description
+As the frames progress, the viewpoint slowly moves forward, revealing more of the path and clearing ahead. The blue sign on the left recedes further from the viewer and slightly left, while foreground roots shift out of view, indicating a steady advance through the landscape.
+frame_0000000128-frame_0000000256:
+The first frame shows a muddy dirt path with tire tracks in the foreground, leading into a wide, verdant grassy clearing in the mid-ground. Dense green foliage and trees line the left side, while more scattered trees and an upward-sloping grassy area are on the right. In the background, a lush mountain range rises under a bright, cloudy sky.
+end of description
+The viewpoint steadily moves forward, causing the path and surrounding grass to flow backward. As the camera progresses, a distinctive curved root or branch gradually becomes visible on the grassy incline to the right of the path, moving from the mid-right towards the foreground. The overall scene remains a lush, forested landscape with mountains in the distance, but closer details of the ground and vegetation emerge as the viewpoint advances.
+frame_0000000256-frame_0000000384:
+The first frame presents a view down a muddy, unpaved path, with dense green foliage to the immediate left and a grassy slope extending upwards to the right, where a dark, curved object is partially visible at the bottom. In the midground, the path continues towards several trees with light-colored bark, surrounded by lush green trees, while a distant green mountain range appears on the far right under a bright sky.
+end of description
+As the frames progress, the viewpoint moves forward along the path relative to the initial position. The dense foliage on the left side appears to get closer and moves slightly towards the bottom left, while the curved object originally on the bottom right moves further to the right and eventually out of view. The muddy path and visible tree roots in the immediate foreground become more distinct and pass beneath the viewer, indicating forward motion into the scene.

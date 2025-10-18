@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+A light grey paved road, marked with a yellow line on the left and a white line on the right, extends forward and gently curves to the right in the distance. To the right, a silver guardrail runs alongside dense coniferous trees, while a verdant, rocky hillside with a utility pole lines the left. In the background, a large snow-capped mountain rises under a clear blue sky.
+end of description
+The viewpoint advances along the road, causing the foreground guardrail and trees on the right, and the hillside and utility pole on the left, to move past the viewer and exit the frame to their respective sides. The distant snow-capped mountain steadily approaches as the road continues to curve, remaining ahead of the viewer.
+frame_0000000128-frame_0000000256:
+The first frame displays a paved road extending into the distance, curving gently to the right. A metal guardrail and dense coniferous trees line the right side of the road, while a steep, lush green, tree-covered hillside rises on the left; far ahead, snow-capped mountains are visible under a clear blue sky.
+end of description
+As the frames progress, the viewpoint moves forward along the road. Objects initially close to the viewer's first-frame position, such as the road pavement, the guardrail on the right, and the hillside on the left, recede further into the distance. Concurrently, new sections of the road, guardrail, and hillside appear from below and closer to the viewer's original location. A yellow dividing line emerges on the left side of the road, extending from the bottom-left towards the center as the journey continues, with the distant mountains remaining ahead, subtly growing larger.
+frame_0000000256-frame_0000000384:
+The first frame depicts a two-lane asphalt road extending forward into the distance under a clear blue sky, flanked by green hills covered in lush trees and vegetation. A metal guardrail runs along the right side of the road, while in the far distance, snow-capped mountains are visible, centered in the upper-mid portion of the frame.
+end of description
+As the sequence progresses, the viewpoint moves steadily forward along the road. The bare rock face on the left side of the road becomes increasingly prominent and detailed, growing larger as the viewer approaches it. Concurrently, the green foliage on both sides and the guardrail on the right appear to move towards and then past the viewer's relative position. The distant snow-capped mountains remain ahead, slowly increasing in perceived size as the scene unfolds.

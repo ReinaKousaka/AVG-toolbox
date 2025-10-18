@@ -1,0 +1,34 @@
+frame_0000000000-frame_0000000128:
+The first frame places the viewer on a rugged, dirt mountain path, bordered by steep, rocky slopes on both the left and right. Ahead in the distance, a prominent, jagged peak dominates the view under a clear blue sky, with a patch of white snow visible slightly below and to its right. Sparse green grass grows among the rocks in the foreground and along the path.
+end of description
+The viewpoint slowly advances forward and subtly to the right, causing the foreground rocks and path to recede. The prominent peak ahead gradually looms larger, and the distant snow patch clarifies into a steep gully. As the camera moves, a wider expanse of the rocky mountain landscape unfolds further to the right.
+frame_0000000128-frame_0000000256:
+The first frame displays a rugged mountain landscape under a clear blue sky. In the immediate foreground, a rocky path with patches of dirt and sparse grass extends from the viewer towards the middle distance on the left. Large, reddish-brown rocks are scattered across the foreground and midground. Directly ahead in the midground, a prominent, jagged peak dominates the scene, with a white patch of snow or ice visible on the scree slope below it. Further to the right, behind the foreground rocks, the terrain continues with more rocky slopes, and in the far background to the right, distant, hazy mountains are visible.
+
+end of description
+
+In subsequent frames, the scene remains static with no environmental changes. A subtle "VRA" watermark appears in the bottom right corner relative to the first-frame viewpoint, beginning in the second frame and persisting throughout the rest of the sequence.
+frame_0000000256-frame_0000000384:
+In the first frame, a rugged mountain landscape unfolds under a clear blue sky. Rocky, uneven ground with sparse green patches covers the foreground, where a dirt path winds uphill on the left. In the midground, a steep, rocky slope rises on the left, while directly ahead, a prominent pointed mountain peak dominates, flanked by other rugged peaks and a patch of white snow on its lower slopes. Far in the distance to the right, lighter grey mountain ranges are visible beneath the extensive blue sky.
+end of description
+The sequence reveals a very subtle and gradual widening of the field of view. As the frames progress, more of the rocky foreground terrain to the right and bottom becomes visible, slightly expanding the scene outwards from the first-frame viewpoint. The winding path on the left also appears to extend marginally further back, revealing a slightly broader panoramic scope of the mountainous landscape.
+frame_0000000384-frame_0000000512:
+A rugged dirt path with scattered rocks and patches of green grass extends from the bottom-center towards the left mid-ground. To the left, a steep, craggy mountain slope rises sharply, dominated by gray rocks and some green foliage. In the mid-ground, a prominent, jagged mountain peak with a rocky scree slope below it dominates the center-right, featuring a patch of snow/ice towards its lower left section. To the right, a less steep, brownish-rocky slope descends. A clear, deep blue sky occupies the top portion of the frame, with faint outlines of distant mountains visible far to the right in the background.
+
+end of description
+
+The camera subtly pulls back and slightly lowers its viewpoint, revealing more of the immediate rocky foreground directly below the initial path. Concurrently, wider expanses of the lower mountain slopes on both the left and right sides become visible. This subtle change makes the central mountain peak appear slightly smaller and further away relative to the first-frame viewpoint, without introducing any new objects.
+frame_0000000512-frame_0000000640:
+The first frame displays a narrow, rocky dirt path winding from the foreground into the mid-ground, flanked by a steep, rugged mountain slope on the viewer's left. To the right and further ahead, a vast scree-filled valley is visible, culminating in a prominent, jagged peak centered in the distant background under a clear blue sky.
+end of description
+As the frames progress, the camera slowly pulls back, subtly zooming out. This action reveals more of the path and rocky ground directly in front and slightly below the initial viewpoint, and expands the view of the lower part of the mountain slope to the viewer's left, making the overall scene appear wider.
+frame_0000000640-frame_0000000768:
+In the first frame, a rugged mountain landscape is presented under a clear blue sky. To the viewer's immediate left, a steep, dark rocky slope rises, featuring a narrow dirt path winding upwards, punctuated by sparse green vegetation. Centered in the midground and background is a prominent, jagged rocky peak, with a large scree slope below it where a patch of snow is visible. To the right of the central peak, another lighter brown rocky slope descends, and in the far distance on the right, hazy mountains are visible.
+
+end of description
+
+The viewpoint subtly shifts forward and slightly to the right, causing the foreground rocks on the left to move slightly out of frame and revealing marginally more of the rocky terrain to the right. A small, semi-transparent rectangular watermark with text gradually appears in the lower right quadrant of the frame, becoming more opaque and visible as the sequence progresses. Otherwise, the majestic mountain scenery remains constant.
+frame_0000000768-frame_0000000896:
+The first frame displays a vast mountainous landscape under a clear blue sky, occupying the top half of the view. A prominent, dark, rugged peak stands in the mid-ground, with a large scree field, featuring a diagonal patch of snow, situated below it. To the left, a steep, rocky slope rises from the foreground, where a narrow dirt path is visible, while the right foreground and mid-ground consist of lighter rocky terrain with sparse green patches.
+end of description
+In subsequent frames, a small figure of a person emerges and is seen walking along the path on the left rocky slope. This individual steadily progresses from the upper left mid-ground towards the central scree field, maintaining their position on the left slope relative to the initial viewpoint.

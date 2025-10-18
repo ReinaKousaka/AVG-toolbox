@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a wooden boardwalk extending directly from the viewer into a dense, green forest. Tall trees with dark trunks line a path, which transitions from the boardwalk to a dirt trail ahead, with the forest floor covered in reddish-brown leaves and green undergrowth on either side.
+end of description
+As the frames progress, the viewpoint moves forward along this path, revealing more of the winding dirt trail directly ahead and further into the forest. The trees and undergrowth continuously shift past the viewer to the left and right, exposing additional sections of the verdant woods as the journey continues.
+frame_0000000128-frame_0000000256:
+The first frame displays a forest path beginning with a wooden boardwalk directly in front of the viewer, leading into a dirt trail that recedes into dense green woods. Tall trees with lush foliage line both sides of the path, and the forest floor is covered with reddish-brown leaves and dirt.
+end of description.
+The viewpoint steadily moves forward along the path; the initial wooden boardwalk disappears from view, and the trees flanking the path shift to the sides and behind the first-frame viewpoint as the dirt trail and deeper forest ahead are progressively revealed.

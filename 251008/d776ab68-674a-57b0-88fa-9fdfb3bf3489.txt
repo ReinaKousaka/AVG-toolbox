@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame captures a city street intersection under a bright sky, featuring a prominent 'Under Armour' store on the left. In the foreground, a man stands on a crosswalk next to a white sedan, while a red SUV and two black sedans are positioned on the street to the right, amidst urban buildings and street trees.
+end of description
+Chronologically, the red SUV moves forward and exits the frame to the right. A grey SUV then emerges from the bottom left of the viewer, behind the initial man, and drives forward. Concurrently, the man on the crosswalk and the white sedan slightly advance, and the black sedans continue their motion along the street.

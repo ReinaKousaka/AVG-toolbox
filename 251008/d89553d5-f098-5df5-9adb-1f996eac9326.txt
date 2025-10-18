@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a narrow dirt path extending from the viewer into the distance, flanked by dense green foliage, shrubs, and trees. Overhanging trees on both sides create a leafy canopy above, forming a natural tunnel that leads to a brighter, open area in the background. The immediate foreground consists of the path with scattered leaves and patches of grass.
+end of description
+As the frames progress, the viewpoint moves steadily forward along the path. The dense foliage to the left and right appears to pass by, while the bright, open area in the distance becomes progressively larger and closer, indicating continuous advancement towards it.
+frame_0000000128-frame_0000000256:
+The first frame presents a dirt path stretching from the foreground into the mid-distance, bordered by dense green trees and foliage on both the left and right, forming a natural archway overhead, with a brighter, open area visible at the far end of the path.
+end of description
+As the frames progress, the viewer's perspective moves steadily forward along the path; the trees and foliage on either side grow closer and then recede, indicating continuous motion, and the distant bright clearing gradually appears larger and nearer.

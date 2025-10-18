@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+First, the initial frame depicts a narrow street flanked by multi-story buildings with shops, seen from behind a person riding a scooter with an overhead canopy positioned directly in front and to the right. Further ahead on the road, a white sedan and a heavily loaded three-wheeled cargo vehicle move away from the viewer, while other individuals and a light-colored car occupy the left foreground.
+end of description
+As the viewpoint progresses forward, the foreground objects on the left recede, revealing more of the street and storefronts. The white sedan and cargo vehicle continue moving further into the distance, causing a large blue tarp on the cargo vehicle to become more distinct. New sections of the shop fronts and parked vehicles on both sides of the road, previously out of frame or obscured, become visible to the left and right.
+frame_0000000128-frame_0000000256:
+First, a bustling street scene shows a person on a scooter with a large blue bag on the right foreground, positioned behind a white sedan on the road, while a brown van is parked on the left. Multistory buildings line both sides of the street, receding towards a distant mountain under a partly cloudy sky, and a navigation overlay appears in the top-left.
+end of description
+Subsequently, the scooter, rider, and blue bag move forward and slightly right, gradually exiting the frame to the right as the viewer's perspective advances down the street. The white sedan proceeds further into the distance, and the brown van on the left is gradually passed. The streetscape unfolds, revealing more of the shops and parked vehicles along the sides.

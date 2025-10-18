@@ -1,0 +1,18 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a vibrant city street at night, with a wide, paved sidewalk on the right featuring well-lit luxury stores like "Desigual" and "Piaget", where several pedestrians are seen walking towards the viewer in the midground. To the left, a multi-lane road contains a white car and a dark car, with a tall light pole and trees lining the street.
+end of description
+As the sequence progresses, the man in the dark suit, speaking on his phone, steadily moves from the midground to the foreground on the right sidewalk, passing other pedestrians who continue along the path. Cars on the street also advance slightly.
+frame_0000000128-frame_0000000256:
+The first frame presents a nighttime city street with a paved sidewalk stretching towards the background on the right, and a street with vehicles on the left, including a prominent gray pole in the far left foreground. Tall buildings line both sides of the street, illuminated by city lights and advertisements, featuring a man in a suit talking on a phone on the far right sidewalk, alongside other pedestrians.
+end of description
+In subsequent frames, the man in the suit on the far right moves swiftly towards the background and exits the scene to the right. Concurrently, cars on the street continue driving towards the background, and the other pedestrians on the sidewalk also progress further into the distance, with a new figure partially entering from the far right and following the same trajectory.
+frame_0000000256-frame_0000000384:
+In the foreground, a light gray pole stands vertically on the left. To its right, a wet city street extends into the distance, with a white car partially visible on the far left, moving away from the viewer, followed by a dark vehicle. On the right, a paved sidewalk hosts a group of pedestrians, led by a person in light attire, walking away from the viewer, interspersed with small trees. Illuminated buildings line both sides of the street under a dark night sky, prominently featuring a "PIAGET" store with brightly lit display windows on the right.
+
+end of description
+
+The viewpoint subtly recedes and widens. The white car on the far left continues moving forward, becoming fully visible to the left of its initial position. A black taxi cab is revealed behind the white car, further to the left on the street. The pedestrians on the right continue their progression away from the viewer along the sidewalk, while the scene subtly expands to show more of the street and sidewalk from the original viewing position.
+frame_0000000384-frame_0000000512:
+The first frame presents a night view of a city street featuring a paved sidewalk with a small tree and storefronts (including PIAGET) on the right, a road with a white car in the left foreground and a black taxi in the midground, and illuminated tall buildings lining both sides of the street in the background.
+end of description
+Over subsequent frames, a man in a light shirt and white pants with a blue cap walks towards the viewer on the right sidewalk, progressively moving from the midground into the foreground and exiting the frame to the immediate right. Other pedestrians on the right sidewalk recede further into the background, and vehicles on the left road, including the black taxi, continue moving away from the viewer towards the distant background.

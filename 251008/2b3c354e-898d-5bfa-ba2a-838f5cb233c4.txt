@@ -1,0 +1,28 @@
+frame_0000000000-frame_0000000128:
+A dark paved path stretches from the viewer into the distance, bordered by bright green grassy fields on both sides. Shadows from trees line the left side of the path in the foreground. Two figures are visible walking away in the middle ground of the path; the closer one, wearing a dark red dress, pulls a small black rolling suitcase, followed by another person further ahead. In the background, green mountains rise, with scattered buildings on the right mountain slope, and a clear blue sky overhead with faint contrails.
+end of description
+The viewer moves forward along the paved path, causing the two walking figures ahead to appear progressively larger and closer within the frame. The shadows on the path also shift slightly as the perspective advances through the sunny landscape.
+frame_0000000128-frame_0000000256:
+The first frame depicts a paved path extending away from the viewer, bordered by vibrant green fields; shadows are cast on the lower left foreground. A woman pushing a stroller-like object walks away in the midground, to the path's left, with another person visible further ahead. In the background, a large, tree-covered mountain slopes under a clear blue sky, featuring a village on its right side and two streetlights along the path's right.
+end of description
+Throughout the subsequent frames, the woman pushing the stroller-like object moves progressively closer to the first-frame viewpoint. She traverses from the midground towards the foreground, increasing significantly in size and detail, until she is prominently positioned near the viewer on the path's left.
+frame_0000000256-frame_0000000384:
+In the first frame, a woman in a black tank top and maroon pants, pulling a red two-wheeled cart, walks past the viewer on the left side. A paved path stretches directly away from the viewer into the distance, flanked by vast green fields under a clear blue sky. In the mid-ground, a person walks along the path away from the viewer, while a tall street lamp stands to the left of the path, and a utility pole with a yellow top is visible on the far right. Lush green mountains and distant buildings form the backdrop across the horizon.
+end of description
+Following the first frame, the woman and her cart move out of view to the viewer's left. The person on the path continues walking further away from the viewer. The overall landscape and static objects like the street lamp and utility pole remain in place, with the viewpoint subtly shifting, causing them to appear slightly to the left relative to the initial frame.
+frame_0000000384-frame_0000000512:
+A paved path extends directly away from the viewer, flanked by vibrant green grass. A person wearing a light shirt and dark shorts walks into the distance along the path, positioned centrally. To the right of the path, a tall street lamp stands, while a large, tree-covered mountain rises in the background on the left, and a village-dotted hillside is visible on the right, all under a clear blue sky.
+end of description
+As the camera viewpoint advances along the path, the person walks further away into the distance. The street lamp, initially to the mid-right, moves progressively closer to the viewer and partially exits the frame on the right side. The overall scene shifts slightly as the viewpoint continuously moves forward along the path.
+frame_0000000512-frame_0000000640:
+A paved path extends from the viewer into the distance, bordered by vibrant green fields on both sides, under a clear blue sky. Directly ahead, a person in a light shirt and dark shorts walks away from the viewer on the path, towards distant mountains and a village nestled on the right hillside.
+end of description
+The person continues walking further away along the path, and a colorful bag appears slung over their left shoulder, positioned to the viewer's right side of the person.
+frame_0000000640-frame_0000000768:
+A paved path stretches directly ahead from the viewer, flanked by vibrant green grassy fields extending into the midground. To the viewer's right and slightly in front, a person with short blonde hair, wearing a grey shirt and dark shorts, walks away, carrying a colorful shoulder bag, with their shadow cast on the path. In the background, a large green mountain range, dotted with buildings on its right slope, looms under a clear blue sky with faint contrails, while smaller mountains recede to the far left.
+end of description
+The person ahead gradually walks further away along the path, eventually moving out of frame to the right as the viewer's perspective advances forward. The surrounding green fields and mountains remain to the left, right, and in front, appearing to draw nearer.
+frame_0000000768-frame_0000000896:
+A paved path extends directly forward from the viewer, flanked by lush green grass on both sides. In the mid-ground, a white street light stands to the right of the path, while a large, tree-covered mountain range rises in the background with scattered buildings on its right slope and distant mountains visible to the far left under a clear blue sky.
+end of description
+The subsequent frames show a slight forward movement along the path. The street light pole on the right gradually appears larger and moves slightly closer towards the right foreground relative to the initial viewpoint, indicating a slow, continuous progression.

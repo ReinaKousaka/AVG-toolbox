@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a wet outdoor path on a rainy day. To the viewer's left, a paved sidewalk with low green bushes and planter boxes runs alongside a black metal fence, beyond which lies a wet road with distant structures blurred by rain; a light pole with a yellow triangular warning sign stands prominently on this side. To the right, a distinct red-paved path extends into the distance, bordered by a red brick wall topped with green metal fencing, with a dense line of trees overhead and along the right.
+end of description
+As the camera steadily moves forward along the path, the foreground bushes and the light pole with the warning sign on the viewer's left progressively exit the frame. Objects like the trees and brick wall on the right recede further, revealing more of the path ahead. The consistent rainfall and wet conditions persist across all frames from this advancing viewpoint.
+frame_0000000128-frame_0000000256:
+The first frame displays a wet outdoor pathway with a red-surfaced track on the right, bordered by a brick wall with green metal fencing, running parallel to a brick sidewalk on the left, which is separated from a wet road by a black metal fence, all under a canopy of green trees.
+end of description
+Subsequent frames show a slight forward camera movement along the red path. As the viewpoint advances, a person holding a red umbrella becomes increasingly visible far down the road on the left side of the initial scene, slowly approaching the observer.
+frame_0000000256-frame_0000000384:
+In the first frame, a wet outdoor scene is visible. To the viewer's right, a red pathway extends into the distance, bordered by a low brick wall with green fencing and foliage. To the left of the pathway, a wet sidewalk runs parallel, lined with trees planted in rectangular beds. Beyond the sidewalk, a black metal fence separates it from a wet asphalt road that stretches into the hazy distance, with more trees and greenery on the far side of the road.
+end of description
+Initially, the scene shows only static elements and light rain. Soon after, a person in a light-colored top appears walking away from the viewer on the street, to the left of the fence. Subsequently, a black car emerges on the street to the left of the fence, driving from left to right past the viewer. The car continues into the distance on the left, with its tail lights visible as another lighter vehicle appears further down the street in the background.

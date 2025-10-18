@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame displays an outdoor patio paved with terracotta bricks, featuring several dark wicker tables and chairs occupying the foreground and midground, with a prominent potted olive tree to the right. To the left, a building with columns and a covered dining area is visible, while lush greenery and a distant hillside with faint structures define the background.
+end of description
+The view then slowly pans to the right, progressively revealing more patio seating and an expansive blue sky with a glimpse of the sea further to the right relative to the initial frame. As the camera continues panning right, the building on the far left gradually exits the frame, expanding the panorama to show additional distant landscape features and the terrace edge.
+frame_0000000128-frame_0000000256:
+The first frame depicts a sunny outdoor patio, paved with bricks, featuring numerous dark wicker tables with glass tops and chairs with light cushions arranged across the foreground and midground. A large olive tree in a terra cotta pot stands prominently mid-right, with another further back, while lush greenery, flowering bushes, a covered patio structure, and a distant building on a hill with the sea to the right form the background.
+end of description
+From the fourth frame, a small bird appears on the ground near the base of the large potted tree, slightly right of center relative to the original viewpoint. This bird moves subtly, and by the seventh frame, a second small bird is visible foraging alongside it at the pot's base.

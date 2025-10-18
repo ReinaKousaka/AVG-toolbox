@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame displays an urban street corner with a black traffic pole on the right, featuring a white 'walk' signal and a green trash can with yellow wheels at its base. To the left are two green trash cans positioned near a large building with an arched-windowed ground floor and red brick upper stories, while a wet street with crosswalks leads down past parked cars and another building on the right.
+end of description
+In the following frames, the viewer's perspective subtly shifts forward and to the right. This causes the original green trash can on the right to move further away and slightly right, progressively revealing a newly visible blue trash can with yellow wheels behind it and to the right of its first-frame position. Simultaneously, the traffic pole appears closer, making a pedestrian signal button box on its side newly visible, while the two green trash cans on the left become more distant.

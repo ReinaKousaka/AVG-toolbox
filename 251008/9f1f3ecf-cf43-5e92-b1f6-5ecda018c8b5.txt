@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a charming town square featuring historic timber-framed buildings with red roofs on the left, and a prominent tall stone clock tower with an archway at its center. Several cars are parked along the street in the foreground and to the right, where a large leafy tree partially obscures more colorful buildings. The scene is set under a bright blue sky with white clouds, with a few people visible walking in the square near the tower.
+end of description
+No dynamic changes or newly revealed objects occur in the subsequent frames, as the video remains a static shot.
+frame_0000000128-frame_0000000256:
+A tall stone clock tower with a clock face and arched passage stands prominently ahead, slightly left of center, flanked by a yellow building with a red roof and a gray SUV to the viewer's immediate left. To the viewer's right, various half-timbered and white buildings line the street, with parked silver and red cars, and a large green-leafed tree partially obscuring the far right foreground.
+end of description
+The view subtly widens across the frames, revealing slightly more of the yellow building to the viewer's left and the white building and street to the viewer's right, while the central clock tower remains largely in place.
+frame_0000000256-frame_0000000384:
+A historic town square is viewed on a sunny day, featuring a prominent ochre-colored clock tower and arched gateway centrally positioned in the mid-ground. To the left are a yellow and a cream-colored half-timbered building, while the right side displays several colorful buildings and a large white structure. Partial views of two cars occupy the immediate foreground, with pedestrians in the square before the tower.
+end of description
+Subsequent frames show a subtle forward camera movement and a slight pan to the right, causing the foreground cars to minimally shift position and revealing fractionally more of the scene's right edge. Pedestrians continuously animate the square, moving relative to the stationary buildings and the viewer's subtly shifting perspective.

@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+From an overhead perspective, a large tree laden with white blossoms is centrally framed against a reddish-brown, undulating landscape, with its prominent shadow stretching towards the lower right.
+end of description
+As the camera gradually pulls back, the expansive reddish-brown terrain with its gentle undulations becomes more visible around the tree, particularly expanding to the left and bottom. A small white animal, previously located to the bottom left of the initial viewpoint, emerges into the scene and walks horizontally below the tree. The blossoming tree and its shadow consequently shrink relative to the expanding vista.
+frame_0000000128-frame_0000000256:
+From an aerial, top-down perspective, a white-blossomed tree stands centrally amidst undulating reddish-brown terrain. To the upper left, green bushes are visible, and sparse vegetation dots the landscape, with a small white figure positioned on the red terrain to the left of the central tree.
+end of description
+The camera slowly rotates counter-clockwise around the central tree, gradually revealing more of the undulating reddish-brown terrain towards the bottom-left and bottom-right of the initial frame's periphery. Concurrently, the shadows cast by the blossoming tree and other vegetation rotate clockwise across the terrain. The small white figure, initially to the left of the central tree, is seen moving further towards the left and slightly below its original first-frame position relative to the expanding view.
+frame_0000000256-frame_0000000384:
+A white flowering tree occupies the center of the first frame, surrounded by sculpted reddish-brown earth. Shadows extend from the tree to its left and below, with small patches of green foliage visible at the bottom-left, top-left, and top-right margins.
+end of description
+The camera steadily zooms out and ascends, causing the central tree to diminish in relative size and revealing more of the vast, undulating red landscape further outwards. This expanded perspective shows additional green vegetation emerging at the frame's wider left, right, and upper boundaries, maintaining their positions relative to the initial view.

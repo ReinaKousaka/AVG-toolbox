@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+In the first frame, a wide indoor hallway stretches ahead, flanked by illuminated shops. To the viewer's immediate left, a counter with '姓' lit up and two people are partially visible, alongside a red artificial tree and signage. To the right, a store display with mannequins wearing clothes is seen, marked with a 'BEE' sign. Overhead, a large metal truss with lights and a disco ball spans the hallway, which extends into the distance with more shops and a few pedestrians.
+end of description
+The camera smoothly moves forward into the hallway; the objects initially on the left and right recede and move towards the sides as the viewer passes them. The stores further down the passage become clearer and larger, continuously revealing more of their interiors and displays, while pedestrians initially in the distance are gradually approached and passed.
+frame_0000000128-frame_0000000256:
+The first frame depicts a brightly lit shopping mall corridor with a dark, reflective floor. Storefronts displaying clothing on mannequins and racks line both sides, extending into the distance where a group of people is visible. Overhead, an elaborate metal structure featuring spotlights and a disco ball hangs centrally.
+end of description.
+As the camera moves forward, the shops on the immediate left and right in the first frame become more prominent and closer, while objects previously further down the corridor, like the group of people and distant shop entrances, progressively draw nearer to the viewer.
+frame_0000000256-frame_0000000384:
+The first frame displays a brightly lit shopping mall corridor with a reflective dark floor extending into the distance, flanked by shops. To the left, a "CHINA CHIC" clothing store showcases garments on mannequins and racks, while a store on the right displays white apparel. Overhead, a disco ball, a metal truss with colored lights, and an exit sign are visible, with several people walking in the distant center of the corridor.
+end of description.
+As the frames progress, the viewpoint slightly moves forward, and various shoppers in the midground and background walk further into the mall. Most notably, a young girl enters from the mid-left and walks past the viewer's initial position towards the right side of the frame.

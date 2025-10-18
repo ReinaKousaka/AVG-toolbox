@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+A prominent red telephone booth stands on a patch of green grass slightly to the left of the frame's center. Behind and to its left is a large, grey stone building featuring several windows, with a paved road visible to the right, bordering the grass and receding into the distance. Beyond the road, trees are visible under an overcast sky.
+end of description
+The following frames show no dynamic changes in object positions or the introduction of new objects or scenes. The entire composition remains static throughout the sequence. The only discernible difference is a very subtle, gradual increase in the overall brightness and illumination of the scene, particularly noticeable in the later frames, accompanied by minor fluctuations in reflections within the building's windows.
+frame_0000000128-frame_0000000256:
+In the first frame, a red British telephone box stands prominently on a small paved area, centered in the foreground, with green grass flanking it on both sides. Directly behind it is a stone wall building featuring a large window above, a smaller window to the left, a wooden notice board to the right, and another small window further right.
+end of description
+Subsequently, the small window on the stone wall to the right of the telephone box dynamically opens and closes outwards from the first-frame viewpoint multiple times throughout the sequence.

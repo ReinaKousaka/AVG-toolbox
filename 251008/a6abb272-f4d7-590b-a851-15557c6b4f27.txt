@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a street scene at dusk, with a sidewalk on the viewer's right where two individuals walk away, and a road on the left featuring a white SUV near a yellow crosswalk. Tall apartment buildings are prominent on the left, while bare trees line both sides of the street, stretching into the distance under a pale, twilight sky.
+end of description
+In subsequent frames, the white SUV on the left drives forward, moving away from the viewer, while the two pedestrians on the right continue walking away along the sidewalk.

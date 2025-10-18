@@ -1,0 +1,28 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a paved road curving into the midground, flanked by a prominent green tree on the far left foreground and a grey multi-story house on the right foreground. Beyond the midground road, a lush green valley with rolling hills and distant mountains stretches under a partly cloudy sky.
+end of description.
+The viewpoint smoothly advances along the road; the foreground tree moves completely out of the frame to the viewer's left, and the house recedes to the viewer's right, revealing a wider expanse of the winding road and the mountainous landscape ahead, as a streetlamp and road sign become more centrally positioned in the midground.
+frame_0000000128-frame_0000000256:
+The first frame presents a paved road extending forward, curving slightly rightward into the distance. To the left, a metal barrier parallels a sidewalk, while a streetlight pole with a blue arrow sign stands near the road's center-left. On the right, a grassy slope ascends, and beyond, a valley is framed by green, forested mountains, with distant blue mountains under a partly cloudy sky.
+end of description
+As the viewer moves forward, the streetlight pole, now displaying a blue 'P' parking sign, progresses from the mid-left towards the top-left of the original viewpoint, eventually exiting the frame. The metal barrier on the left side of the road also moves out of view. Concurrently, a red circular sign becomes increasingly visible on the right side of the road, and the surrounding green, forested mountains appear closer as the perspective shifts deeper into the valley.
+frame_0000000256-frame_0000000384:
+The first frame displays a two-lane road extending into a verdant mountain valley under a partly cloudy sky. To the viewer's left, a metal barrier parallels the road, beyond which are lush trees and a range of mountains, with a speed limit sign showing "40" on the roadside. To the right, a steep grassy slope with a stone retaining wall borders the road, featuring another "40" speed limit sign and a building partially visible higher up the slope.
+end of description
+In the subsequent frames, the landscape remains static, but the numbers on both the left and right speed limit signs, located ahead on either side of the road, gradually change from "40" to "60".
+frame_0000000384-frame_0000000512:
+A paved road with a dashed white centerline stretches into a mountainous valley under a partly cloudy sky, extending from the viewer's foreground into the distance. To the viewer's left, a metal railing borders the road, alongside a "60" speed limit sign and another blue sign further along, backed by dense trees and distant mountains. To the viewer's right, a paved shoulder transitions to a low stone wall and a steep, grass-covered slope, featuring another "60" speed limit sign and a partially visible house, all framed by lush green mountains.
+end of description
+As the frames advance, the viewer moves forward along the road, entering the valley. The "60" speed limit signs and the blue sign on the left recede into the distance, eventually exiting the frame to the viewer's left and right, while the stone wall on the right also recedes. The surrounding forested mountains remain prominent, illustrating continuous travel through the landscape.
+frame_0000000512-frame_0000000640:
+The first frame shows a straight asphalt road extending into a mountainous valley, centered from the viewer's perspective. To the left, a metal barrier runs alongside the road, backed by dense green trees and distant blue mountains under a partly cloudy sky. To the right, a grassy verge meets a dry-stacked stone wall, behind which a steep, tree-covered mountain rises prominently. Two road signs are visible: one in the mid-distance on the left near the trees, and another closer on the right against the stone wall.
+end of description
+From frame 6, a paraglider briefly appears high in the sky to the left of the dominant mountain and above the distant trees, moving slightly left before disappearing by frame 8. Simultaneously, a dark street light pole emerges to the left of the road from frame 8, positioned beyond the metal barrier and in front of the trees, remaining visible.
+frame_0000000640-frame_0000000768:
+The first frame shows a two-lane road stretching into a mountain valley, bordered by a metal fence and dense trees to the left, and a stone wall with foliage to the right. A billboard is prominently positioned in the left foreground, and a blue road sign stands on the right mid-ground, all beneath a cloudy sky.
+end of description
+As the viewpoint advances, the billboard on the left gradually moves out of frame to the viewer's left. Simultaneously, the street lamp on the left and the blue road sign on the right approach the viewer from their initial positions. The text on the blue sign on the right becomes fully legible, revealing "Klausen" as it passes the first-frame viewpoint. Both the street lamp and the sign continue to recede into the distance as the road extends forward.
+frame_0000000768-frame_0000000896:
+A paved road with white and yellow markings recedes into a mountainous valley under a partly cloudy sky, bordered by a green fenced field on the left and a stone retaining wall with dense foliage and a narrow path on the right.
+end of description
+As the viewpoint steadily moves forward, the immediate roadside elements scroll past, and the overall landscape expands. Further ahead, relative to the initial position, a white car gradually approaches along the road, and a wooden barrier on the right mountain slope alongside a sign on the left near a building are progressively revealed.

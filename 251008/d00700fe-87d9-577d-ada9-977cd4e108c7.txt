@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a winding road curving left, with a metal guardrail lining the right side and a tree-covered hillside ascending on the left, where a small white building is visible further along the bend. Utility poles with overhead wires stand on both sides, with distant mountains under a clear blue sky in the background.
+end of description
+As the frames progress, the viewpoint moves forward along the road, causing a multi-story green building on the left to become increasingly prominent, revealing a sign with Asian characters previously partially obscured by trees. The guardrail on the right recedes, and shadows shift on the road, indicating continuous advancement along the winding path.
+frame_0000000128-frame_0000000256:
+A paved road extends from the viewer towards a bend, flanked on the left by a green building with a retaining wall and on the right by a guardrail and a utility pole, all set against distant hills and mountains under a clear blue sky.
+end of description
+As the camera moves forward, the road, the green building on the left, and the right-side guardrail grow larger and shift position, with the utility pole moving right and eventually out of view. The overall landscape and distant mountains remain relatively stable as the viewpoint advances along the road.
+frame_0000000256-frame_0000000384:
+The first frame presents a paved road leading uphill, bordered on the left by a green building with a sign and a concrete retaining wall, and on the right by a metal guardrail lined with potted plants. Utility poles, trees, and a white building populate the mid-ground, while distant hills rise under a clear blue sky.
+end of description
+As the viewpoint advances along the road, the green building and retaining wall on the left gradually recede, unveiling more of the uphill terrain. Simultaneously, the guardrail and white building on the right draw closer before passing, and a person in blue emerges more clearly, walking uphill in the center of the road ahead of the initial position.

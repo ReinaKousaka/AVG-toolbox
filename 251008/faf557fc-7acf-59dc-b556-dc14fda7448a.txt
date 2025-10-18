@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a dark wooden house with a white foundation occupying the left and central foreground, featuring two windows on the far left and three with white shutters, one having a flower box below it, centrally. Above, a dark wooden balcony is visible, while an asphalt path curves away to the right, leading towards a grassy hill and a partially visible wooden building with a red roof on the distant right.
+end of description
+The viewpoint smoothly shifts to the right and slightly forward, progressively revealing more of the curving path and the landscape previously obscured on the far right. A wooden fence along the right side of the path becomes fully visible, and the distant wooden building on the right appears more completely, no longer partially hidden.
+frame_0000000128-frame_0000000256:
+A multi-story black and white house, named "Bijou", occupies the left side, featuring two windows with white shutters and a flower box below, topped by a balcony. To the right, a paved path curves uphill, bordered by a wooden fence, leading past a grassy slope towards two distant wooden buildings with red roofs under a blue, cloudy sky.
+end of description
+Across the subsequent frames, the viewpoint subtly shifts to the right, revealing slightly more of the curving paved path and the grassy hillside to the right of the initial black house. The dark wooden building on the far right of the first frame appears to move further right relative to the viewer's field of view, expanding the visible landscape and sky in that direction.
+frame_0000000256-frame_0000000384:
+In the foreground to the left, a dark-sided house with "Bijou" and a white-shuttered window is visible, while a paved path curves uphill towards the right, flanked by a wooden fence and a dark wooden building on the right, and a grassy slope ascending to a lighter wooden house in the midground, all under a cloudy sky.
+end of description
+The camera pans right and moves slightly forward. The house on the left gradually exits the frame to the first-frame's left. Concurrently, a new dark wooden building emerges further up the hill, revealing more of the path and the additional building to the first-frame's right, beyond the initial dark wooden structure.

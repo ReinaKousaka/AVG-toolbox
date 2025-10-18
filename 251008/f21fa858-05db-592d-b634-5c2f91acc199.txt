@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a narrow dirt path receding into a lush green forest, centrally positioned in the lower half of the view. Dense ferns and verdant undergrowth flank the path on both the immediate left and right, extending into the mid-ground. Numerous tall, moss-covered trees with green foliage dominate the scene, rising vertically on both sides and towards the distance, with their canopy largely obscuring the bright sky above. A fallen tree trunk rests horizontally across the mid-ground on the right side.
+end of description
+No dynamic changes or newly revealed objects occur across the subsequent frames; the scene remains static relative to the first-frame viewpoint.
+frame_0000000128-frame_0000000256:
+The first frame captures a narrow dirt path stretching forward into a dense, lush forest. From the immediate foreground, vibrant green ferns and undergrowth carpet both sides of the path, which recedes into the distance framed by numerous tall, moss-covered tree trunks. The dense canopy overhead allows glimpses of a bright, overcast sky directly above the distant path, with a fallen tree trunk visible horizontally in the midground to the right.
+end of description
+All subsequent frames in the sequence are identical to the first frame. There are no dynamic changes, movements, or newly revealed objects or scenes observed relative to the first-frame viewpoint.

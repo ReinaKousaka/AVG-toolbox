@@ -1,0 +1,30 @@
+frame_0000000000-frame_0000000128:
+The first frame captures a sunny city scene from an elevated viewpoint, with a wide concrete walkway in the foreground bordered by a lively outdoor restaurant patio on the left and a fenced construction site descending to a road below on the right. A dense city skyline fills the background to the left, while a distant Ferris wheel and body of water are visible on the far right under a clear blue sky.
+end of description
+Throughout the subsequent frames, the static viewpoint shows subtle movements among the people on the left-side restaurant patio and the main walkway, with individuals walking or shifting in their seats.
+frame_0000000128-frame_0000000256:
+The first frame features a wide concrete promenade extending forward from the viewer's immediate foreground. To the left, a building houses a cafe with an outdoor patio where people are seated, while a metal railing on the right overlooks a construction site. In the distance, a city skyline with tall buildings and a prominent stadium is visible against a clear blue sky.
+end of description
+As the camera subtly advances forward relative to the initial viewpoint, the railing and construction site on the right progressively recede towards the left, revealing marginally more of the adjacent structures further to the right. Simultaneously, a person in dark clothing walks from left to right across the cafe patio area in the midground.
+frame_0000000256-frame_0000000384:
+The first frame shows a wide concrete walkway leading into the distance under a clear blue sky. To the left, a building with storefronts, including 'indi Chocolates,' features an outdoor patio with seated patrons. To the right, a metal railing parallels the walkway, bordering a lower area and a distant cityscape with tall buildings, a bridge, and a large wheel on the far right horizon.
+end of description
+Subsequently, the viewpoint subtly moves forward, causing a person walking on the left side of the walkway to appear to shift rightwards relative to their initial first-frame position. Simultaneously, the large wheel on the far right horizon becomes slightly more prominent, indicating the continuous forward progression of the viewpoint.
+frame_0000000384-frame_0000000512:
+A wide concrete walkway extends from the viewer into the distance. To the left, a building with an overhanging structure features outdoor dining areas crowded with people, and a person walks along the path in the left foreground. To the right, a metal railing borders the walkway, beyond which a cityscape with numerous buildings, red industrial structures, a distant stadium, and a Ferris wheel unfolds under a clear blue sky.
+end of description
+The viewpoint moves steadily forward, causing the concrete walkway and the metal railing to continuously reveal new sections directly ahead. The person initially on the left walks further away and eventually exits the frame to the left of the original view. The building with its outdoor diners to the left and the cityscape with the Ferris wheel to the right gradually recede into the background, maintaining their relative positions as the scene progresses.
+frame_0000000512-frame_0000000640:
+The first frame displays an outdoor promenade with a dark informational post and a restaurant terrace on the left, where patrons sit at picnic tables beside a building. To the right, a metal-fenced walkway extends into the distance, overlooking a city harbor scene featuring urban buildings in the background and a large Ferris wheel to the distant right.
+end of description
+In subsequent frames, the camera subtly recedes from the initial viewpoint, causing all visible objects to appear slightly smaller and further away. This backward movement incrementally reveals more of the immediate foreground paved area and extends the visible length of the metal railing on the right. All existing elements, including the distant city skyline and Ferris wheel, maintain their established relative positions from the initial viewpoint, only appearing with a slightly broader field of view.
+frame_0000000640-frame_0000000768:
+The first frame displays an elevated urban scene, featuring a bustling outdoor patio with people at picnic tables on the left, adjacent to a multi-story building. Centrally, a wide walkway recedes into the distance, bounded by a metal mesh railing on the right, which overlooks a construction site below. In the far background, a city skyline with prominent buildings and a large Ferris wheel is visible against a clear blue sky.
+end of description
+Subsequent frames reveal a largely static viewpoint with no newly revealed objects or scenes. The only dynamic changes are minor, such as subtle movements by individuals seated on the patio, like a slight arm shift by a woman in the foreground.
+frame_0000000768-frame_0000000896:
+The first frame shows a bustling outdoor scene on a sunny day, featuring an outdoor dining area with numerous people seated at wooden tables on the left, adjacent to a multi-story building with more people visible on an upper balcony. A pedestrian walkway extends into the midground, bordered on the right by a metal mesh fence overlooking a large construction site. In the distant background, a cityscape with a waterfront and a prominent Ferris wheel is visible under a clear blue sky.
+
+end of description.
+
+In the subsequent frames, a person in a dark jacket walks past the dining tables from left to right. Concurrently, a figure moves within the construction site on the right, occasionally bending down, while the seated diners exhibit subtle movements.

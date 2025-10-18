@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a dirt path winding into a dense evergreen forest, flanked by tall tree trunks with green canopies reaching towards the bright sky. Lush ferns and undergrowth densely cover the ground and a sloping bank to the right of the path.
+end of description
+The viewpoint steadily moves forward along the path, revealing more of the forest directly ahead of the first-frame viewpoint as the trees and undergrowth flanking the path scroll past. New sections of the path and additional distant trees become visible further down the trail, with a prominent rock emerging on the left side of the path, previously located further along the trail from the initial viewpoint.

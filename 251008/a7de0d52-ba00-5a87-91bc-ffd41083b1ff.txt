@@ -1,0 +1,30 @@
+frame_0000000000-frame_0000000128:
+The first frame shows snow-covered train tracks curving left in the foreground, with a metal guardrail parallel to its right. A yellow train is partially visible on the far left, while an overhead utility pole stands mid-left. Beyond these, a winding river is flanked by snow-dusted mountains and trees under a clear blue sky.
+end of description
+As the frames progress, the viewpoint moves forward along the tracks, causing the utility pole to shift rightward and pass out of frame relative to the initial viewpoint. This advancement reveals more of the snow-covered valley ahead as the train continues its journey.
+frame_0000000128-frame_0000000256:
+The first frame shows a snow-covered landscape from a low perspective, with two train tracks curving to the left in the foreground and midground. Parallel to the tracks on the right is a metal railing, beyond which a frozen river winds through a valley flanked by imposing, snow-dusted mountains under a clear blue sky. A partial view of a train is visible on the far left tracks, with overhead power lines against the sky.
+end of description
+As the frames progress, the viewpoint steadily moves forward along the tracks. The foreground elements like the tracks and railing recede towards the bottom of the frame, indicating continuous motion. The snow-laden river valley and mountains to the right gradually shift leftward, unveiling new sections of the wintry landscape. A utility pole appears from the left and moves through the mid-left of the frame as the journey continues.
+frame_0000000256-frame_0000000384:
+Snow-covered train tracks curve left in the foreground, with a snow-dusted guardrail paralleling a flowing river to the right, bordered by snow-laden trees. Behind this, a massive snow-covered mountain rises steeply on the right, balanced by a distant peak on the left, all under a clear blue sky featuring overhead wires and a prominent utility pole.
+end of description
+As the train progresses forward, the foreground utility pole recedes and exits the left side of the frame, alongside the tracks and guardrail. Consequently, new sections of the snow-covered river and the towering mountain wall to the right are progressively revealed as they shift leftward across the scene.
+frame_0000000384-frame_0000000512:
+In the first frame, snow-covered train tracks curve to the left in the foreground, with a partial train visible on them. To the right of the tracks, a low, snow-dusted railing runs parallel, beyond which a river flows towards the viewer, flanked by snow-laden trees and bushes on its near bank. Further back, on the left, snow-capped mountains extend into the distance, while a large, steep, snow-dusted mountain face covered in evergreen trees dominates the right side. Overhead power lines and a vertical utility pole are positioned above the tracks against a clear blue sky.
+
+end of description
+
+As the train progresses forward, parallel to the first-frame viewpoint, the railing and snow-covered foliage on the riverbank steadily move from the right foreground towards and past the viewer's initial position. A new, taller utility pole supporting the overhead lines emerges from the right side of the frame, also moving towards and then behind the first-frame viewpoint. Simultaneously, more segments of the train further along the curve become visible to the left as the viewpoint advances. The overall mountainous landscape and river appear to recede backwards relative to the moving viewpoint.
+frame_0000000512-frame_0000000640:
+The first frame displays snow-covered train tracks curving left in the foreground, with a utility pole and snow-laden trees beside it, a river further right, and majestic snow-dusted mountains in the background under a clear sky.
+end of description
+As the viewpoint moves forward, the utility pole, initially in the mid-right, recedes towards the left background relative to the first-frame's position. Simultaneously, new sections of the curving tracks, the snowy ground, and the river on the right continuously emerge into view. The distant mountains remain in the background, while a train on the tracks to the far left, partially visible at first, becomes increasingly clearer.
+frame_0000000640-frame_0000000768:
+The first frame displays a winter landscape featuring snow-covered train tracks curving towards the distant left in the foreground. Parallel to the tracks on the near left, utility poles with overhead lines recede, while to the right, a dark river runs alongside a snow-laden bank with sparse trees, all overshadowed by a massive, snow-dusted mountain face in the mid-ground and background.
+end of description
+As the viewpoint moves forward along the tracks, new segments of the snowy landscape, including the tracks, utility poles, and the river with its trees, continuously emerge from the distant left and move past the viewer. A red signal light on a pole gradually appears and approaches the viewer on the left, and a prominent utility pole traverses the right mid-ground. Briefly, a yellow and black striped barrier emerges behind the signal on the far left before exiting the frame.
+frame_0000000768-frame_0000000896:
+The first frame depicts a snow-covered mountain valley from a train's perspective. Two snow-covered tracks curve to the left from the foreground, with power line poles and a prominent red signal light positioned to their left. To the right, a dark river flows past snow-dusted trees, all set against a majestic, towering snow-covered mountain range that dominates the background.
+end of description
+As the train moves forward, the signal light and power line poles dynamically shift from their initial left-of-center positions, moving across the frame and eventually exiting to the right. The snow-covered river, trees, and mountain on the right remain in their background positions, continuously revealing new sections of the landscape as the train advances.

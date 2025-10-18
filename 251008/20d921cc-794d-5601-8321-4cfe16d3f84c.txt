@@ -1,0 +1,19 @@
+frame_0000000000-frame_0000000128:
+The first frame captures a city street from a sidewalk viewpoint, featuring a 7-Eleven storefront with two signs on the left, and a black container with a red object resting on the sidewalk in the foreground. Several pedestrians walk away from the viewer on the left, while across the street to the right, a grey minivan moves left past a green bike lane, with other cars, trees, and distant buildings filling the background.
+
+end of description
+The grey minivan on the street moves left and disappears from the frame, while the pedestrians on the sidewalk continue walking further away from the viewer. A yellow taxi then appears from the distant background street, approaching and subsequently turning right out of the frame; simultaneously, the black container and red object on the foreground sidewalk shift slightly left.
+frame_0000000128-frame_0000000256:
+The first frame presents a bustling city street scene from a sidewalk perspective. To the viewer's immediate left, a building with large windows displays a prominent "7-ELEVEN" sign under an awning. On the sidewalk, a masked woman in a black shirt and beige skirt is in the left foreground, walking towards the viewer, with a group of other pedestrians further back. To the right, a tree trunk and a traffic light pole are visible, separating the sidewalk from the street where a yellow taxi is turning right, moving away, and a silver car is further in the distance on the right. Tall buildings and trees line the street extending into the background beneath a bright sky.
+end of description
+The masked woman in the foreground consistently walks forward, moving closer to the viewer and slightly to the left. Concurrently, the yellow taxi on the street continues its right turn, progressively moving further away and eventually exiting the frame to the right. The group of pedestrians behind the woman on the sidewalk subtly shifts positions as individuals move.
+frame_0000000256-frame_0000000384:
+A masked woman in a black top and beige skirt walks in the left foreground towards the viewer, with a prominent '7-Eleven' sign above her to the left. A group of pedestrians stands on the sidewalk at a street corner in the mid-ground, where a utility pole with traffic lights stands to the right. The background features tall city buildings, a street receding into the distance, and a green bike lane on the road to the right.
+end of description
+The foreground woman walks out of view to the bottom-left as a yellow taxi appears from the left, crossing the street in the mid-distance. Simultaneously, a dark car drives from right to left on the street to the far right, and traffic lights on the utility pole change color.
+frame_0000000384-frame_0000000512:
+In the first frame, a woman in a blue top and white crossbody bag is prominently in the left foreground, walking towards the viewer. Behind her and to her right, a diverse group of pedestrians stands on a sidewalk, seemingly waiting at a crosswalk. Further back on the left, a "7-Eleven" sign and other storefronts are visible. To the right, a black pole with traffic lights stands beside a street featuring a distinct green bike lane, with a gray car driving left and numerous tall city buildings filling the background.
+
+end of description
+
+The woman in the blue top moves further left and slightly away from the viewer. A yellow taxi, initially positioned mid-ground behind the pedestrian group, proceeds to drive right-to-left across the intersection. Subsequently, a white SUV and other cars also move across the intersection in varying directions. The large group of pedestrians on the sidewalk, positioned mid-ground to the left of the traffic pole, largely remains stationary throughout the sequence.

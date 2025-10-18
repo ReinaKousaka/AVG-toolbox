@@ -1,0 +1,30 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a verdant landscape with a narrow waterway on the left, reflecting the sky and bordered by dense green trees and foliage. To the right of the water, a paved path recedes into the distance, flanked by more lush green trees and bushes on the right. A bright blue sky with scattered white clouds is visible overhead, between the towering trees.
+end of description
+There are no dynamic changes or newly revealed objects or scenes in the subsequent frames; all frames are identical to the first.
+frame_0000000128-frame_0000000256:
+The first frame depicts a tranquil scene with a dark water canal on the left, curving towards the center background, its banks heavily lined with dense, bright green trees and foliage. Parallel to the canal on the right, a light grey paved path extends from the foreground into the distance, also bordered by lush green trees and bushes. A narrow grassy strip separates the path from the canal, and a bright blue sky with white clouds is visible overhead in the central background.
+end of description
+No dynamic changes or newly revealed objects occur in the subsequent frames; all frames are identical to the first, maintaining the same viewpoint and scene.
+frame_0000000256-frame_0000000384:
+The first frame displays a tranquil scene with a dark canal on the left, receding into the distance and reflecting the bright blue sky. Lush green trees and dense foliage line the canal's left bank, extending vertically towards the upper left. A narrow strip of grass separates the canal from a paved pathway on the right, which also stretches into the distance, slightly curving. More vibrant green trees and bushes densely border the path on the far right. Overhead, a bright blue sky with hints of white clouds is visible between the tree canopies.
+end of description
+The subsequent frames show no discernible dynamic changes; the entire scene remains static without any newly revealed objects or alterations to the spatial positions of existing elements relative to the first-frame viewpoint.
+frame_0000000384-frame_0000000512:
+The first frame presents a path ahead of the viewer, bordered by a dark canal to the left, which reflects the sky. Lush green trees and bushes line the left bank of the canal and also densely line the right side of the path, both extending into the distance under a bright blue sky.
+end of description
+All subsequent frames are identical to the first, showing no dynamic changes or newly revealed objects or scenes.
+frame_0000000512-frame_0000000640:
+The first frame displays a serene natural scene with a canal on the left and a pathway on the right, both receding into the distance. Lush green trees and dense foliage line both sides, creating a verdant tunnel overhead, with a bright blue sky visible above them. A low, stone wall covered in ivy and greenery runs along the right side of the paved path, extending away from the viewer.
+
+end of description
+
+The subsequent frames reveal no dynamic changes or newly revealed objects; the scene remains entirely static from the initial viewpoint.
+frame_0000000640-frame_0000000768:
+The first frame displays a canal winding from the foreground left towards the distant background, flanked by abundant lush green trees and foliage on the left bank. To the viewer's right, a paved path is separated from the canal by a narrow strip of grass, with a low stone wall covered in vegetation beyond the path. Overhead, a bright blue sky with some clouds is visible through the canopy of trees, which form a verdant tunnel ahead.
+end of description
+No dynamic changes or newly revealed objects or scenes are observed in the subsequent frames; all frames are identical to the first.
+frame_0000000768-frame_0000000896:
+The first frame presents a serene natural setting with a calm, reflective canal stretching from the viewer's bottom left into the center distance, flanked by dense green foliage on its left bank. To the viewer's right, a paved path runs parallel to the canal, separated by a narrow grassy strip, with a low, dry-stone wall and more vibrant green trees beyond it, all under a bright sky.
+end of description
+Subsequent frames reveal no significant dynamic changes or newly revealed objects; the lush green environment remains almost entirely static from the initial viewpoint, with only imperceptible shifts in light and foliage, indicating a still scene.

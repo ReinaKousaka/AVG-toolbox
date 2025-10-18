@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame captures a rainy urban street scene from the perspective of a pedestrian, featuring a yellow bus stopped in traffic on the wet road to the left, with other vehicles behind it, and a tiled sidewalk extending right, lined with small trees, bushes, and multi-story buildings.
+end of description
+Subsequent frames depict the traffic slowly progressing, with brake lights flickering on and off, revealing a white car behind the dark sedan moving forward. A red fire hydrant, initially partially obscured by trees to the right of the yellow bus, becomes more visible as the scene subtly shifts.
+frame_0000000128-frame_0000000256:
+The first frame depicts a wet urban street scene from a sidewalk viewpoint, with a black fence, red fire hydrant, and a yellow bus in traffic occupying the left side of the mid-ground. The right side features a tiled sidewalk stretching into the distance, bordered by green bushes and multi-story buildings with storefronts.
+end of description
+In the following frames, the yellow bus's brake lights, located in the mid-ground left, repeatedly flash on and off while a person with an umbrella slowly walks away from the viewer along the far right sidewalk.
+frame_0000000256-frame_0000000384:
+In the first frame, a red fire hydrant is visible in the lower left foreground, beside a black metal barrier separating the wet road from a paved sidewalk. To the left of this barrier, a white car's front quarter is visible, followed by a yellow bus with illuminated taillights, and a blue bus further behind, all on the wet road. The long, wet paved sidewalk extends into the distance on the right, bordered by poles and small grassy strips on the left and a row of trimmed green bushes on the right, where a person holding an umbrella stands further down. Buildings and streetlights line the background under an overcast sky.
+end of description
+The yellow bus on the left slowly moves forward and away from the viewer, revealing more of its side. Concurrently, the white car that was partially visible to its left moves further forward and out of frame. A white truck or van emerges from behind the yellow bus, also proceeding forward and to the left of the first-frame viewpoint. The person with the umbrella on the right sidewalk remains largely in the same position relative to the first-frame viewpoint.

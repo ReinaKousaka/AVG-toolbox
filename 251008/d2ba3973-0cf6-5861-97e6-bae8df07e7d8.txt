@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a wet, paved pathway leading into the misty distance, bordered by rows of trees and lush greenery. A black fence with an attached grey utility box runs along the left side, while a large grey box stands on the far right foreground. Further down the path on the right, a blue circular sign with pedestrian and cyclist symbols is visible on a pole.
+end of description.
+The viewpoint continuously moves forward along the path, causing the fence and the grey box on the left to gradually exit the frame. As the camera progresses, the background scenery, including a road to the right of the path and a distant vehicle, appears closer and more defined, with rain consistently falling throughout the scene.

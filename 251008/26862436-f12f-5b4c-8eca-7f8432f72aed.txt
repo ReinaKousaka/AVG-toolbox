@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a wet park on an overcast day, featuring a reddish-brown paved path extending into the distance from the viewer. To the left, several large trees with green foliage and dark benches line the path, with similar benches visible further right. In the mid-ground, a person in a light-colored raincoat walks away from the viewer, slightly left of center, towards a prominent blue sculpture in the distant background.
+end of description
+In the subsequent frames, the person in the light-colored raincoat continues to walk further away from the viewer, along the paved path and deeper into the scene. They gradually shrink in size as they recede, moving towards the area where the blue sculpture is positioned in the distance. All other static elements of the park remain in their original spatial positions relative to the first-frame viewpoint.
+frame_0000000128-frame_0000000256:
+A person in a light-colored raincoat walks on a wet, paved park path, moving from the mid-ground towards the foreground on the left, flanked by trees and benches. In the background, more trees and a blue structure are visible under an overcast sky.
+end of description
+The person in the raincoat continues walking forward and slightly to the left, gradually moving out of the frame by the seventh image. No new objects or scenes are revealed; the viewpoint and park environment remain static.
+frame_0000000256-frame_0000000384:
+The first frame displays a wet park square paved with glistening brown and gray bricks under an overcast sky. Large green trees frame both sides, with wooden benches in the foreground and a circular planter featuring a white arched trellis in the middle ground to the left. A bright blue, rectangular sculpture is visible centrally in the background, surrounded by more distant trees.
+end of description
+Throughout the subsequent frames, subtle ripples and splashes become visible across the wet pavement, dynamically indicating ongoing rainfall. No new objects or scenes are revealed relative to the first-frame viewpoint.

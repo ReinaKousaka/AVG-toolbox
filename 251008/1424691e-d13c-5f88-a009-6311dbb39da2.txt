@@ -1,0 +1,28 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a paved road extending into the distance from the viewer's immediate foreground. To the left, a concrete sidewalk runs parallel to the road, bordered by dark green bushes and trees that occupy the entire left side of the frame. On the right, a light-colored wooden fence separates the road from well-maintained hedges and a multi-story residential building with balconies and light siding, all under a clear blue sky. Yellow diagonal speed bump markings are visible on the road in the mid-right.
+end of description
+The subsequent frames show no dynamic changes or newly revealed objects; the scene remains static.
+frame_0000000128-frame_0000000256:
+The first frame shows a paved road curving slightly uphill towards the left, with a sidewalk and dense green bushes in the immediate foreground to the left. To the right, a multi-story residential building with grey siding and balconies runs along the road, separated by a light-colored wooden fence and smaller shrubs, while speed limit markings are visible on the road. In the background, more green and autumnal trees fill the horizon under a clear blue sky, with another building partially visible further up the road on the left.
+end of description
+No dynamic changes, newly revealed objects, or scenes occur in the subsequent frames; all frames depict the same static street view from an identical viewpoint.
+frame_0000000256-frame_0000000384:
+The first frame depicts a residential street scene on a clear day, with a paved road leading into the distance, bordered by a concrete sidewalk on the left. Lush green and reddish-brown bushes line the left side, while a light-colored multi-story building with balconies and a picket fence runs along the right side of the road. Further back, more buildings and abundant trees with green and some autumn-colored foliage are visible, all under a clear blue sky. end of description. No dynamic changes or newly revealed objects or scenes are observed in the subsequent frames; the sequence remains entirely static.
+frame_0000000384-frame_0000000512:
+The first frame displays a paved road sloping gently upwards, with a sidewalk and dense green and reddish foliage to the left, extending from the foreground. To the right, a multi-story residential building with balconies and a light picket fence runs parallel to the road from the mid-ground. Further ahead in the center, large rocks and trees mark an apparent entrance, with other buildings visible behind the foliage on the left under a clear blue sky.
+end of description
+The subsequent frames show no dynamic changes; all visible objects and their spatial positions remain static relative to the first-frame viewpoint.
+frame_0000000512-frame_0000000640:
+A sunny street scene features a sidewalk and bushes in the left foreground, leading to a residential entrance with stone pillars in the mid-distance. To the right, a road runs alongside light-colored townhouses with a wooden fence. In the background, more buildings and dense green trees stand under a clear blue sky.
+end of description
+A white vehicle slowly emerges onto the road from behind the left entrance pillar, appearing in the far left of the scene. It gradually proceeds forward, moving towards the viewer from beyond the initial entrance gateway.
+frame_0000000640-frame_0000000768:
+The first frame presents a sunny residential street with a sidewalk and shrubbery on the left, leading to an asphalt road. To the right, a multi-story building with light siding is visible behind a wooden fence, while in the background, a gated entrance with a sign and large rock separates two multi-story buildings amidst lush green trees.
+
+end of description
+
+The subsequent frames depict a largely static scene with no newly revealed objects or significant dynamic changes; only extremely subtle, nearly imperceptible shifts in the shadows on the road and sidewalk are observed, suggesting minimal camera movement.
+frame_0000000768-frame_0000000896:
+The first frame displays an asphalt road extending into the distance, flanked by a sidewalk with fallen leaves and a tree on the left foreground, and a light-colored picket fence on the right, bordering a grey multi-story residential building. In the background, another large apartment complex is partially obscured by numerous evergreen and deciduous trees, with a white SUV parked further back on the left and a green sign with a stone wall appearing centrally. The scene is bathed in bright sunlight under a clear blue sky, casting shadows across the road.
+end of description
+No dynamic changes, newly revealed objects, or scene alterations are observed across the subsequent frames; all frames in the sequence are identical to the first.

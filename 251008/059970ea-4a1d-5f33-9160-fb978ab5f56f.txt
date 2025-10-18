@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a paved road stretching from the bottom center into the distance, curving slightly to the right, flanked by green grassy fields and sparse wooden fence posts. Evergreen and deciduous trees line the mid-ground on both sides, with rugged mountains rising prominently in the background under a clear blue sky.
+end of description
+As the frames progress, the viewpoint moves forward along the road; the grassy verges and a fence post to the right of the viewer shift past, indicating motion. Subsequently, a white dashed road marker appears ahead on the asphalt, then moves towards and passes underneath the viewer.
+frame_0000000128-frame_0000000256:
+A paved road stretches from the viewer into the mid-ground, curving slightly left. Lush green grass verges line both sides of the road, leading to a dense forest of coniferous and deciduous trees that dominate the mid-ground. Towering, rugged mountains with visible rock formations and some vegetation form the backdrop, under a bright blue sky.
+end of description
+The viewpoint moves steadily forward along the road. A white campervan progressively becomes more visible, emerging from behind trees and parking on the right side of the road in the mid-ground. As the scene advances, the campervan grows larger and clearer as the viewer approaches its stationary position, while the foreground road markings recede past the camera.
+frame_0000000256-frame_0000000384:
+The first frame shows a paved road extending from the viewer's immediate foreground, curving slightly through a mountainous valley. To the left and right of the road are grassy verges with scattered trees and fence posts. A white camper van with a trailer is visible ahead, parked slightly off to the right side of the road on a dirt area. Majestic mountains rise in the distant background, beneath a bright blue sky.
+end of description
+As the frames progress, the viewer's perspective moves forward along the road. The camper van and its trailer, initially positioned ahead and slightly to the right, steadily increase in size and shift subtly towards the center of the frame as the viewer approaches them. The foreground scenery on both sides of the road passes by, while the distant mountains remain prominent in the background.

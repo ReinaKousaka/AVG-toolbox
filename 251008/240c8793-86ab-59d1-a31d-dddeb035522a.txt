@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a narrow, unpaved dirt path extending from the bottom center into the middle distance, curving slightly to the right. Dense, lush green foliage, primarily ferns and other leafy plants, flanks both sides of the path, rising steeply on the left where a moss-covered tree trunk is visible. In the background, beyond the immediate trees, jagged grey mountains or cliffs are visible under an overcast sky, appearing distant.
+end of description
+There are no dynamic changes or newly revealed objects in the subsequent frames; the scene remains static with all elements maintaining their initial spatial positions relative to the first-frame viewpoint.
+frame_0000000128-frame_0000000256:
+A narrow dirt path extends into the distance from the viewer, flanked by dense green ferns and lush undergrowth in the foreground and midground. Beyond this foliage, a thick forest with tall trees, including a large one slightly left of the path's center, recedes towards hazy, rocky mountains visible under an overcast sky in the background.
+end of description
+The subsequent frames depict a slow, continuous forward movement along the path. As the viewpoint advances, the dense green foliage on either side of the path moves past the viewer, revealing more of the path directly ahead and deeper parts of the forest. The prominent midground tree and distant mountains subtly recede further into the background, maintaining their relative positions within the expanding view of the forest.

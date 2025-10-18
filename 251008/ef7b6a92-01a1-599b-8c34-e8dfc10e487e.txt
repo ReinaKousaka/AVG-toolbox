@@ -1,0 +1,14 @@
+frame_0000000000-frame_0000000128:
+A winding gray asphalt road with white lines curves from the foreground into the mid-ground, ascending slightly. To the left, a stone retaining wall borders dense evergreen trees, with rocky slopes beyond. To the right, a grassy verge with a white and red reflective road marker leads to rocky outcrops and a small stone building against a steep, barren mountain face, all beneath a clear blue sky with scattered white clouds.
+
+end of description
+
+The viewpoint moves forward along the road and around the right-hand curve. The road marker on the right quickly passes out of view as the stone building and surrounding rocky landscape on the right side of the road draw closer and become more prominent. The stone wall and trees on the left also shift, revealing more of the path ahead, indicating continuous forward motion through the mountainous terrain.
+frame_0000000128-frame_0000000256:
+The viewer is centered on a paved road with white lines, stretching into the distance. To the left, a stone wall borders the road, backed by green trees and a rocky hillside. To the right, a blurry grassy verge with a white and red marker precedes a series of low stone structures and a distant stone building nestled against a large, rocky, green-patched mountain. Above, a clear blue sky holds scattered white clouds.
+end of description
+As the viewer moves forward along the road, the blurry right verge reveals more distinct stone archways and concrete barrier posts that appear and then recede to the right and left of the viewer, respectively. The initial white and red marker also moves from the front to the right and then behind the viewer, as the distant stone building and mountain remain further ahead in the background.
+frame_0000000256-frame_0000000384:
+A two-lane road extends into the distance, flanked by a stone barrier and a rocky, forested hillside to the left, with a small white structure at its base. To the right, an old stone building with collapsed arches and remnants of a stone structure sits by the road. A large, green-covered mountain dominates the background under a clear blue sky.
+end of description
+As the frames progress, the viewpoint moves forward along the road. This causes the road's foreground, the stone barrier and small structure on the left, and the old building and arches on the right to recede and pass by the viewer, moving deeper into the scene's perspective. The distant mountain and sky remain generally in view as the apparent position relative to the viewer changes due to this forward motion.

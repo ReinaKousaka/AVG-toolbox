@@ -1,0 +1,29 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a reddish-brown asphalt road curving to the viewer's left, extending into the distance with double yellow center lines and a white right edge line. To the viewer's immediate left, a low concrete barrier parallels the road, beyond which an incline is covered in evergreen trees. On the right, a steep, red-earthed embankment with scattered pine trees and dry brush rises, leading towards distant red rock formations and a bright blue sky with wispy clouds.
+end of description. Subsequently, the viewer travels forward along the curving road; the roadside evergreen trees and red earth on both the left and right sides move progressively closer before receding towards the viewer's rear and sides. As the journey continues, the landscape behind the initial prominent trees on the right becomes more visible, revealing further red terrain.
+frame_0000000128-frame_0000000256:
+The first frame depicts a paved, reddish-brown road curving left into the distance, marked with a double yellow line on its left and a white line on its right edge. To the right, a large, sloping reddish-orange rock formation rises, topped with sparse green trees and shrubs, while similar vegetation and red earth line the left side, leading to distant cliffs under a bright blue sky with scattered clouds.
+end of description
+As the frames progress, the viewpoint moves forward along the curving road, causing the immediate foreground to recede and new sections of the landscape to become visible ahead. The reddish-orange rock formation on the right continuously reveals more of its textured face, while the large trees on its upper edge gradually move out of the frame towards the right. Simultaneously, the distant cliffs and a broader valley scene become more defined and closer on the left and straight ahead.
+frame_0000000256-frame_0000000384:
+A two-lane red-brown asphalt road with a double yellow line stretches from the viewer into the distance under a blue sky with scattered clouds. To the right, a steep, layered red-orange rock face rises, while to the left, a bank of similar earth slopes up to reveal numerous green trees and a distant light-colored cliff face.
+end of description
+As the viewpoint moves forward along the road, the red-orange slope on the right and the treeline on the left draw closer and gradually recede behind the viewer's original position. The prominent tall pine tree in the center of the first frame enlarges before passing to the left, and the distant cliff face on the left becomes more defined and closer relative to its initial position. The road continues to curve slightly right as new sections of the red-orange landscape and further trees are revealed ahead.
+frame_0000000384-frame_0000000512:
+A paved road with double yellow lines extends forward into the distance, flanked by reddish-brown hillsides covered in green pine trees and sparse vegetation. To the far left, a large, light-colored rocky cliff face rises majestically under a bright blue sky dotted with scattered white clouds.
+end of description
+As the viewpoint moves forward along the road, the immediate reddish-brown hillsides and their vegetation on both sides become closer and more detailed, revealing intricate rock formations and exposed tree roots on the right. The distant light-colored cliff on the left appears to approach as the road continues ahead.
+frame_0000000512-frame_0000000640:
+A reddish-brown paved road with double yellow lines stretches into the distance, flanked by a steep, rocky red slope on the right and a tree-covered embankment with a distant light-colored cliff on the left, all beneath a bright blue sky with wispy clouds.
+end of description
+As the frames progress, the viewpoint moves steadily forward along the road; the rocky slope on the right and the left embankment with its trees and distant cliff appear to recede further to the sides and eventually behind the initial first-frame perspective.
+frame_0000000640-frame_0000000768:
+A reddish-brown two-lane road with double yellow lines extends from the foreground into the distance under a bright blue sky with wispy clouds; to the viewer's left, a large light-colored rocky cliff face rises in the mid-ground with pine trees, while to the right, a red dirt embankment slopes upward, also dotted with trees.
+
+end of description
+
+As the viewpoint moves forward along the road, new sections of the immediate roadside are revealed ahead. A large pine tree on the left recedes past the viewer, while a red diamond-shaped sign and a red boulder emerge on the left shoulder into the foreground. On the right, a thin black post becomes visible on the embankment, also advancing into the foreground.
+frame_0000000768-frame_0000000896:
+The first frame shows a reddish-brown road stretching forward from the viewer, flanked by a steep, light-colored cliff on the far left with green trees, and dry, scrubby terrain with scattered trees on the right. A red diamond-shaped sign is immediately visible to the viewer's left, while a blue sky with white clouds dominates the upper half of the scene.
+end of description
+As the viewpoint moves forward, the red sign exits to the left. Subsequently, a wooden "Checkerboard Mesa Viewpoint" sign appears on the distant right, moving closer before passing to the viewer's right. Concurrently, a dark SUV emerges in the distance on the left side of the road, approaching and then passing the viewer on the left.

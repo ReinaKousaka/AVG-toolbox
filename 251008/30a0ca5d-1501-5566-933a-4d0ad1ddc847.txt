@@ -1,0 +1,14 @@
+frame_0000000000-frame_0000000128:
+The first frame captures a silver van from behind, driving on a dark asphalt road that curves left, with a light-colored block barrier on the right and a steep, dark rock face with sparse vegetation on the left, all under a blue sky with rugged green mountains in the distance.
+end of description
+The silver van proceeds along the winding road, receding further into the distance relative to the viewer's forward-moving perspective. As the curve progresses, a white SUV emerges behind the van on the road to its left, soon followed by another white car, both moving in the same direction. The rugged mountains on the left grow more prominent as the guardrail and dense shrubbery on the right pass by, indicating the viewer's continued forward motion through the mountainous landscape.
+frame_0000000128-frame_0000000256:
+In the first frame, a winding paved road stretches from the foreground, curving slightly to the left, with a light-colored low barrier running along its right edge. Ahead, a silver van occupies the right side of the road, followed further ahead and to its left by a silver SUV, and then a white car visible behind the SUV. Lush green shrubbery and trees line both sides of the road, leading up to rugged, dark rocky mountains in the midground and background, all under a clear blue sky with sparse clouds.
+end of description
+As the frames progress, the silver van in the midground moves forward and to the right, steadily receding from the viewer and gradually exiting the frame from the right side. Consequently, more of the road and the low barrier to the van's left become visible. The other cars ahead also move slightly forward along the curving road, remaining in the left portion of the view.
+frame_0000000256-frame_0000000384:
+In the first frame, a dark asphalt road curves from the immediate foreground towards the middle-left, then to the right into the distance, flanked on the right by a low beige concrete barrier. A silver SUV is positioned on the road in the middle-left, with a second white SUV visible further ahead around the curve. Steep, rocky mountains covered in green vegetation rise on both sides of the road, under a clear blue sky, while a portion of a gray vehicle is visible in the bottom right foreground.
+
+end of description
+
+The gray vehicle in the bottom right quickly moves out of the frame. The silver SUV on the road approaches the first-frame viewpoint from the front-left, then passes it to the left and slightly behind. Concurrently, the concrete barrier moves past the first-frame viewpoint to the right, revealing more of the vegetated mountain slope. The white SUV further along the road also continues to recede into the distance along the curving road, eventually moving out of view to the far right.

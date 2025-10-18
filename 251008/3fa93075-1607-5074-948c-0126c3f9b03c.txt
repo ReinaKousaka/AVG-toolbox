@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+A paved road curves ahead from the bottom center, flanked on the left by a gravel path, a white caravan, and several trees. To the right, green grassy hills rise, leading to distant mountains with a peak featuring a visible structure under a partly cloudy sky.
+end of description
+As the camera moves forward, the caravan and initial trees on the left side of the road gradually pass out of view to the viewer's left. Simultaneously, the grassy hill and fence on the right recede further to the right relative to the first-frame viewpoint, while the distant mountains remain prominent in the background.

@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+From an aerial perspective, the first frame presents a vast blue and turquoise body of water occupying the left side, transitioning to a narrow, rocky, and vegetated shoreline in the middle-left. A two-lane asphalt road with white markings runs diagonally from the bottom-right towards the top-left, acting as a boundary to a dense forest and grassy slope on the right. Two cars are faintly visible on the road near the top-left corner.
+end of description
+The two cars on the road in the upper-left section begin to move slowly away from the viewer. A brown deer-like animal then appears on the right side of the road, midway along the visible section, emerging from the forest edge. This animal proceeds to walk along the roadside, moving further away towards the top-left.
+frame_0000000128-frame_0000000256:
+From an aerial perspective, a wide blue-green lake occupies the left side of the frame, bordered by a paved road with white markings running through the middle, separating it from a dense green forest on the right. A dark blue car is parked on the road's shoulder in the upper-left, and distant buildings are visible along the far shoreline.
+end of description
+The camera slowly pulls back and slightly pans to the left, gradually revealing more of the expansive lake surface and shoreline towards the left and bottom. The road remains central, extending further into the distance, and a small white boat or structure becomes visible on the far upper-left edge of the lake as the view widens.
+frame_0000000256-frame_0000000384:
+An aerial view presents a tranquil blue-green lake on the left, merging with a narrow green bank and a paved road, where a grey car is parked, before a dense, verdant forest fills the right side and background.
+end of description
+The grey car, initially parked on the road to the left of the viewer's central line, progressively drives away from the viewer, moving towards the top-right of the frame. It continues along the forest-lined road, moving deeper into the scene from the first-frame viewpoint.

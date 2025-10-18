@@ -1,0 +1,13 @@
+frame_0000000000-frame_0000000128:
+The viewer is positioned on a multi-lane city road, looking forward towards a distant horizon. In the foreground and middle ground, numerous orange and white traffic barrels, some topped with yellow flashing lights, delineate the road lanes. A white sedan is visible ahead in the center lane, followed by an orange van further ahead and to its right in an adjacent lane. Tall city buildings line both sides of the road, and pedestrians are present on the sidewalk to the right.
+
+end of description
+As the viewer moves forward, the traffic barrels in the foreground gradually pass by on either side. The white sedan and orange van ahead also progress, with the orange van's brake lights briefly illuminating. A distant traffic light in the center of the frame transitions from unlit to green. The continuous forward motion causes new pedestrians to appear on the right-side sidewalk as others are passed, bringing the city architecture and the distant body of water slightly closer into view.
+frame_0000000128-frame_0000000256:
+The first frame displays a city street scene with a white sedan directly ahead and an orange van to its right, both situated between towering buildings on either side. Orange and white traffic barrels and cones line the left side of the road, leading towards a green traffic light visible in the left mid-ground, with an overcast sky overhead.
+end of description
+Chronologically, the white sedan and orange van move forward and away from the viewer, progressively revealing more of the roadway and buildings previously ahead of them. The traffic barrels and cones on the left also shift, appearing to pass the viewer as the viewpoint advances through the scene. Concurrently, a distant traffic light, initially green and ahead of the white sedan, changes to yellow and then to red, and pedestrians become more apparent on the right-hand sidewalk as the viewer progresses.
+frame_0000000256-frame_0000000384:
+The first frame presents a city street extending forward, flanked by tall buildings on both the left and right, with an overcast sky overhead. In the foreground, white crosswalk lines are visible, leading to a white car positioned slightly right of center, ahead of several orange construction barrels and green traffic lights.
+end of description
+As the camera advances, the white car, foreground construction barrels, and crosswalk lines recede, revealing more of the road ahead. Simultaneously, a digital billboard displaying moving images on the right-side building becomes clearer, while a "Grand Ave" street sign is revealed on the left traffic light pole, and new orange barrels appear in the immediate foreground to the left.

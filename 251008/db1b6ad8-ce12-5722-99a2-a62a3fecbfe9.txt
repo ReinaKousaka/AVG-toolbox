@@ -1,0 +1,10 @@
+frame_0000000000-frame_0000000128:
+The viewer is positioned within a brightly lit, spacious indoor concourse, looking forward down a wide tiled walkway. Slightly to the left of the foreground, a person in a light-colored dress carries a white tote bag and a pink bag, walking away from the viewer. To the left, a reflective glass storefront displays a white dress form, and further down, a beige pillar is visible. To the right, another glass storefront prominently features a large pink and yellow "Bargain!" sign. The midground and background are populated by numerous people walking in both directions under several illuminated digital screens suspended from the modern ceiling.
+
+end of description
+
+As the viewer moves forward, the person in the light dress recedes further into the distance relative to the initial viewpoint. The glass storefronts on both sides reveal new display sections, with the beige pillar on the left becoming more visible before passing behind the viewer's relative position. People in the midground constantly shift, passing by the viewer, while new individuals become visible from the deeper background. The overhead digital screens also appear to move as the viewpoint progresses down the concourse.
+frame_0000000128-frame_0000000256:
+The first frame shows a well-lit, busy indoor corridor with a tiled floor featuring light and dark squares, and a yellow tactile strip running along the right side from the midground. To the viewer's left, a long series of glass display windows extends into the distance, while to the right, numerous people walk in both directions, some wearing masks, with glass walls and pillars behind them; overhead, several digital screens display information.
+end of description
+As the viewpoint moves forward, the woman in the light dress in the midground progresses further into the distance, and the detailed content of the display windows on the left becomes clearer, revealing "SPAIN" and "AUSTRALIA" themed graphics. Concurrently, other individuals in the corridor move, with a person carrying a brown shoulder bag appearing in the far right foreground walking away from the first-frame viewpoint.

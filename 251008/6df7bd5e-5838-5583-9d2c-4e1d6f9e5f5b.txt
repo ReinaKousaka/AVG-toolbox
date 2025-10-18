@@ -1,0 +1,5 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a winter street scene with a large, mossy tree trunk in the left foreground and a snow-covered sidewalk stretching left. To the right, a paved driveway leads towards a multi-gabled house with a snow-covered roof in the background, separated from the street by a tall green hedge, stone wall, and a gate. More snow-dusted trees and another house are visible further down the street under an overcast sky.
+
+end of description
+As the frames progress, the static landscape remains unchanged, however, a noticeable and steady snowfall begins, with individual snowflakes appearing in the air and drifting downwards across the entire visible scene, relative to the first-frame viewpoint.

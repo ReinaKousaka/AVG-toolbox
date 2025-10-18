@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+A cobblestone road extends from the viewer into the distance, uphill, flanked by grassy slopes with scattered rocks. To the left, a silver car is parked on the grass, with a round building further back. On the right, a stone barrier lines the road, with buildings visible higher up on the rocky, green mountain in the distance, all under a cloudy sky.
+end of description
+In the third frame, the driver's side door of the silver car, located on the left, opens and then closes by the fifth frame. The car then begins to move forward and to the left of its original parking spot from the sixth frame onwards. As it continues moving, the car gradually exits the scene towards the far left of the first-frame viewpoint, no longer visible by the final frame.
+frame_0000000128-frame_0000000256:
+The first frame displays a cobbled road ascending from the bottom center, flanked by grassy, rocky mountain slopes under a cloudy sky. To the left, a round stone building sits on a slope, while on the right, a concrete barrier parallels the road leading towards distant small buildings perched uphill.
+end of description
+In subsequent frames, a black motorcycle emerges in the distance, centrally positioned on the road, and progressively moves closer to the viewer. Concurrently, a red and white triangular warning sign becomes visible on the left side of the road, positioned between the viewer and the round stone building.
+frame_0000000256-frame_0000000384:
+The first frame shows a cobblestone mountain road ascending into the distance under a cloudy sky, with a motorcycle and rider approaching in the mid-left, past a red triangular deer warning sign. To the far left, a round stone building is visible on a grassy, rocky slope, while several distant buildings appear on a higher slope to the right.
+end of description
+The motorcycle progressively moves closer towards the viewer on the left side of the road, then rapidly passes out of view to the viewer's immediate left. This movement reveals a small waterfall cascading down rocks on the left side, previously obscured by the approaching motorcycle. The background landscape of mountains and buildings remains static relative to the first-frame viewpoint.

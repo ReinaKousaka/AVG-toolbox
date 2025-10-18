@@ -1,0 +1,29 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a narrow, wet asphalt road leading uphill, flanked by a cream-colored wall with a brown slatted fence on the left and a chain-link fence with an open white gate on the right. In the immediate foreground to the left, part of a dark grey car's bumper and wheel is visible, partially obscuring a silver-tarped motorcycle parked against the wall. Distant buildings, bare trees, and dense foliage line the road beyond, with a yellow object visible further up on the left side of the road.
+end of description
+As the frames progress, the car in the immediate foreground on the left moves completely out of view, to the left of the first-frame viewpoint, revealing more of the cream-colored wall and the entire silver-tarped motorcycle that was previously hidden.
+frame_0000000128-frame_0000000256:
+The first frame presents a narrow, wet asphalt path ascending slightly uphill. To the left, a pale retaining wall supports a building with dark horizontal paneling, and two silver-covered vehicles are parked adjacent to the viewer. On the right, a chain-link fence runs alongside a vegetated slope, beginning with a white gate in the foreground, and a bright yellow object lies further up the path.
+end of description
+As the frames progress, the viewpoint steadily moves forward and slightly uphill relative to the first-frame viewpoint. The silver-covered vehicles and the white gate on the right recede from the foreground and eventually move out of the frame. The buildings and the bright yellow object further up the path appear progressively closer as the viewer advances along the route.
+frame_0000000256-frame_0000000384:
+The first frame shows a wet, paved road sloping uphill into the distance. To the viewer's left, a multi-story building with a dark slatted fence and reddish-brown bushes sits behind a light-beige retaining wall, with a silver tarp-covered object in the immediate foreground. To the right, a metal chain-link fence runs alongside a densely wooded area with brown leaves scattered on the ground. Further ahead, a yellow object rests near the right side of the road, and an older building is visible in the far distance behind sparse trees under an overcast sky.
+end of description
+There are no dynamic changes or newly revealed objects or scenes in the subsequent frames, as all provided images are identical.
+frame_0000000384-frame_0000000512:
+The first frame displays a narrow, wet asphalt road receding into the distance. To the left, a light-colored concrete retaining wall supports a reddish-brown hedge behind a low metal fence, with part of a building visible higher up. To the right, a chain-link fence borders a dense growth of green bushes and some bare trees, with scattered dead leaves on the road's edge. Ahead, a bright yellow object rests on the ground near a utility pole with a convex mirror, beyond which a grey-roofed house and more trees are visible under an overcast sky.
+
+end of description
+There are no dynamic changes or newly revealed objects across the subsequent frames; the scene remains static.
+frame_0000000512-frame_0000000640:
+The first frame shows a wet asphalt road leading forward, bordered on the left by a concrete retaining wall with brown hedges and a partially visible white car parked above it, and on the right by a metal fence with overgrown plants. In the mid-ground, a utility pole with a circular mirror stands near a bright yellow-green object on the ground, with distant houses and dense foliage under an overcast sky completing the scene.
+end of description
+As the viewpoint slowly advances forward and subtly shifts left, the white car, previously partially obscured on the elevated left side, becomes increasingly visible and closer to the first-frame's initial horizontal position. Concurrently, the yellow-green object on the ground near the utility pole, initially in the mid-ground, appears slightly closer relative to the original viewing position, with no new objects or scenes revealed.
+frame_0000000640-frame_0000000768:
+The first frame depicts a wet, dark asphalt road leading away from the viewer, flanked by an elevated concrete platform on the left and a chain-link fence atop a bushy bank on the right. A white car is parked on the concrete platform to the viewer's left, with part of a building visible behind it. A utility pole stands slightly to the right of the road's center, bearing a convex mirror, and a bright yellow object rests on the ground at its base. The background comprises densely vegetated slopes and distant buildings under an overcast sky.
+end of description
+No dynamic changes occur within the scene, and no new objects or scenes are revealed in the subsequent frames. The white car, yellow object, and surrounding environment remain static. The only perceivable change is an extremely subtle, almost imperceptible, camera shake across the frames, maintaining the same overall perspective relative to the first-frame viewpoint.
+frame_0000000768-frame_0000000896:
+The first frame depicts an asphalt road curving gently to the viewer's left. To the left, a white car is partially visible behind a concrete barrier on an elevated parking spot. To the right, a white guardrail, stained yellowish, runs alongside the road, bordering dry foliage and greenery. In the midground, a utility pole with a convex mirror stands, and a crumpled yellow tarp rests on the ground amidst bushes, behind a chain-link fence.
+end of description
+A bright yellow substance rapidly emerges from the yellow tarp's location in the mid-right, spreading along the asphalt road and climbing onto the guardrail, moving closer to the viewer on the right side of the frame.

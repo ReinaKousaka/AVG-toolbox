@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a narrow street flanked by buildings; on the left, a sidewalk features potted green trees and lampposts, while on the right, a large dark truck carrying gas cylinders dominates the foreground, followed by a red pickup and other vehicles. A modern high-rise building is visible in the distant background.
+end of description.
+In subsequent frames, the large dark truck moves forward and exits the right side of the frame, revealing more of the white pickup truck previously obscured behind it. As the viewpoint progresses along the street, more of the potted trees and sidewalk on the left, and the white and red pickup trucks on the right become fully visible relative to their initial positions.
+frame_0000000128-frame_0000000256:
+The first frame depicts a city street looking ahead, flanked by a large green shrub on the immediate left and the front of a white pickup truck on the immediate right, with colorful buildings featuring balconies lining both sides. Down the street, several parked vans and a security truck are visible in the mid-ground, leading to modern high-rises in the distant center under a bright sky.
+end of description.
+As the viewer progresses forward, the initial shrub and pickup truck move out of frame, revealing a 'ONE WAY' sign and construction fencing on the left sidewalk, while a lamppost appears on the right. Further ahead, additional orange construction netting and cones emerge on the left, and the parked vans and security truck grow larger as the street's perspective widens.
+frame_0000000256-frame_0000000384:
+The first frame presents a narrow city street lined with buildings; orange construction netting and cones occupy the front left sidewalk, while a white delivery van is parked front right, partially obscuring a construction trailer. Ahead, a grey armored truck is stationary in the street.
+end of description
+As the viewpoint moves forward, the white van drives away, revealing the full length of the construction trailer with red ramps on the right sidewalk. Simultaneously, a trash can and a "NO PARKING FIRE LANE" sign on a pole become prominent on the left sidewalk, while a person walks past the armored truck and a red stop sign appears further ahead on the right.

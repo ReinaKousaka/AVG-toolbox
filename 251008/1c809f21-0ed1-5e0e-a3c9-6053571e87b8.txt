@@ -1,0 +1,28 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a view looking down a set of stairs with black metal railings in the foreground, leading to a paved area with scattered autumn leaves on the right. To the left, a person in a red jacket stands next to a child in a green jacket on a sidewalk adjacent to a street with cars and distant city buildings.
+end of description
+In the following frames, the person in the red jacket leans down to embrace the child on the sidewalk, momentarily obscuring them from view. Subsequently, the adult stands back up, holding the child close to their chest, maintaining their position relative to the initial viewpoint.
+frame_0000000128-frame_0000000256:
+The first frame shows a high-angle street view with a metal railing and steps in the bottom-left, a stone-paved area on the right next to a stone wall, and a woman in a red jacket with a child in a green jacket holding a white scooter on the left sidewalk next to a busy city street.
+end of description
+Over subsequent frames, the child on the left sidewalk gradually lifts the white scooter higher, then lowers it, before beginning to walk forward while carrying it, continuously interacting with the woman beside them who subtly adjusts her stance. Simultaneously, the metal railing in the bottom-left foreground becomes progressively more visible as if the camera slightly tilts downward.
+frame_0000000256-frame_0000000384:
+A city sidewalk, paved with grey stone slabs and scattered yellow leaves, extends from the foreground, with a metal barrier visible on the bottom left. To the left, a woman in a red coat and a child in a green jacket stand on a lighter pavement, adjacent to a red bike lane and a multi-lane street where cars, including a yellow taxi, move away from the viewer. Beyond them, a busy sidewalk with numerous pedestrians, bare trees, and tall urban buildings recedes into the distance, while a large grey stone building with recessed panels occupies the right side of the frame.
+end of description
+The woman and child in the left midground exhibit slight movements, with the woman briefly adjusting the child's attire. Simultaneously, the cars on the street continue to pass, and the pedestrians on the sidewalk progressively move further away from the viewer's static position. No new objects or scenes are revealed; the overall environment remains constant.
+frame_0000000384-frame_0000000512:
+The first frame displays a city street with a grey stone pavement covering the foreground on the viewer's right and a lighter sidewalk on the left, where a woman in a red jacket and a child in a green jacket stand. To their left is a red bus lane and a street with parked cars, while tall buildings line both sides of the street, receding into the distance, with a large grey building prominent on the viewer's right.
+end of description
+In subsequent frames, the woman and child on the left move progressively towards the viewer's far left, eventually disappearing from the scene. Other pedestrians on the midground sidewalk continue walking further away from the viewer into the distance.
+frame_0000000512-frame_0000000640:
+The first frame presents a city street scene with a tall grey stone building on the immediate right, and a brick sidewalk extending forward. To the left, a concrete sidewalk parallels a street featuring a distinct red lane, where vehicles like a silver SUV and yellow taxis are visible, all receding into the distance alongside multiple towering city buildings and trees displaying autumn foliage. A group of pedestrians is prominently walking towards the viewer on the brick sidewalk in the mid-ground.
+end of description
+Throughout the following frames, this group of pedestrians steadily approaches the viewer's fixed position, moving from the mid-ground into the foreground and eventually passing out of view to the left, while vehicles in the street also show subtle forward movement from their initial positions further down the road.
+frame_0000000640-frame_0000000768:
+The first frame depicts a city street with a large grey building filling the viewer's immediate right side. A paved sidewalk extends from the left foreground into the distance, where four pedestrians are approaching, beyond which a street with vehicles and various buildings recedes under an overcast sky.
+end of description
+In the subsequent frames, the group of pedestrians on the left sidewalk moves continuously towards and then past the viewer. The man in the brown jacket carrying a green bag and the woman in the long brown coat, initially in the left foreground, walk steadily towards and then past the viewer to their immediate left, with other pedestrians following behind them.
+frame_0000000768-frame_0000000896:
+In the first frame, a person in a brown furry coat is positioned on the immediate left, partially obscuring the sidewalk and street, where bare trees, parked cars, and tall city buildings line a red-laned road extending into the distance. To the right, a wide brick sidewalk strewn with yellow leaves leads towards several pedestrians walking away from the viewer, with more tall buildings receding under a dull sky.
+end of description
+The person on the immediate left swiftly moves out of view to the right of the frame relative to the initial viewpoint. The camera then subtly shifts its perspective forward and slightly to the right, revealing more of the sidewalk on the right, as the pedestrians in the midground continue walking further away from the first-frame viewpoint.

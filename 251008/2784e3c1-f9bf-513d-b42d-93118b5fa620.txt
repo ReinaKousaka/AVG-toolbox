@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame displays an aerial view of a red and white striped lighthouse dominating the lower right foreground. Behind it, to the left, a dark volcanic cone stands amidst sparse reddish-brown terrain traversed by a winding dirt path, with hazy mountains visible in the far background under a blue sky.
+end of description
+Subsequent frames show a subtle rightward camera pan relative to the first-frame viewpoint, causing the volcanic cone, distant mountains, and the winding path to shift slightly further to the left within the frame. This movement reveals more of the red-hued terrain previously to the right of the lighthouse from the initial perspective.

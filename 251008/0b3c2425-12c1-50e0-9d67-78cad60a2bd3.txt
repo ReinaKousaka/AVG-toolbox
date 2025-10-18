@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a large, dark-grey corrugated building dominating the view, angled slightly away from the viewer. On its left facade, white text reads "GRANVILLE ISLAND STAGE," while a large 'A' logo and "ARTSCLUB THEATRE COMPANY" are visible on its right. Below the main structure, a lighter-colored, corrugated awning extends over a section of windows, one reflecting reversed text. On the roof towards the upper left, a small red and white flag flutters, with a cloudy sky providing the backdrop above the building.
+end of description.
+In the following frames, the scene remains essentially the same as the camera subtly zooms out or tilts slightly upwards, revealing a proportionally larger area of the cloudy sky above the building and a slightly smaller section of the lower awning relative to the initial viewpoint. No new objects or scenes are revealed; it is a minor re-framing of the existing elements.

@@ -1,0 +1,30 @@
+frame_0000000000-frame_0000000128:
+The first frame shows two railway tracks directly in front, curving gently to the right towards the mid-ground. To the left, a steep, dark green, forested mountain rises, while a vibrant green grassy slope ascends to the right. Overhead, electrical lines stretch across, supported by a utility pole positioned to the right of the tracks, with distant mountains under a blue sky visible in the background.
+
+end of description
+
+As the sequence progresses, the viewpoint moves steadily forward along the tracks, causing the utility pole and other foreground elements to pass by the viewer. The curving railway becomes more prominent as the forested mountain on the left and the grassy slope on the right continuously reveal new sections of the landscape ahead. The distant mountains and sky remain relatively stable as the perspective progresses through the valley.
+frame_0000000128-frame_0000000256:
+The first frame displays a train track curving into the distant mountains, with a steep, dense forest-covered mountain slope on the left and a sunny, grassy hill adorned with scattered trees on the right. Overhead, utility poles and power lines stretch across the blue sky, which has scattered white clouds, while a narrow concrete barrier lines the immediate right side of the track.
+end of description
+As the scene progresses, the viewpoint moves forward along the tracks. The utility pole on the right side moves closer to the viewer and eventually passes, revealing a number '3' on its side as it does. Simultaneously, a small culvert or tunnel entrance becomes visible on the right, emerging from the mid-ground below the grassy bank. A narrow paved road also comes into view on the left side of the tracks, advancing from the mid-ground. The surrounding mountainous landscape slowly shifts, indicating continuous forward motion.
+frame_0000000256-frame_0000000384:
+The first frame depicts a perspective looking along two parallel train tracks, curving slightly to the right into the distance. To the left, a paved road runs parallel, separated by a grassy strip, with a forested mountain rising behind it; a white vehicle is visible on the road ahead. To the right, a grassy and rocky embankment borders the tracks, featuring a concrete structure with a pipe and overhead electrical poles. In the background, mountains are visible under a blue sky with white clouds.
+end of description
+As the viewpoint moves forward along the tracks, the concrete structure and the first electrical pole on the right pass closer and then exit the frame to the right. The landscape continuously unfolds ahead, revealing new segments of the tracks, the adjacent road, and the embankment, while the white vehicle on the left gradually moves past.
+frame_0000000384-frame_0000000512:
+Two train tracks run centrally into the distant valley. To the left, a road with a white van and power poles is flanked by a steep, dark green forested mountain, while to the right, a grassy slope rises to a tree line, with an overhead line pole further down. A blue sky with white clouds hangs above distant mountains.
+end of description
+As the frames progress, the viewpoint moves forward along the tracks. The white van and the power poles on the left approach, pass, and recede behind the initial viewpoint. Similarly, the overhead line pole and the grassy slope on the right draw closer before moving past the viewer, while the distant valley scenery gradually unfolds ahead.
+frame_0000000512-frame_0000000640:
+The first frame shows a forward-looking perspective down parallel train tracks receding into a distant mountain valley under a blue sky with some clouds. To the viewer's left, a paved road runs alongside the tracks, separated by green grass, with a steep, dark green forested mountain rising beyond it. To the right of the tracks, a light brown dirt embankment with patches of green grass and trees ascends.
+end of description
+As the frames progress, the viewpoint moves forward along the tracks. A dark, winding drainage channel becomes increasingly visible along the right side of the tracks, running alongside the embankment. Further ahead and to the right, a power pole emerges, moving past the viewer as the scene continues to advance deeper into the valley.
+frame_0000000640-frame_0000000768:
+From a forward-facing perspective, two gravel train tracks stretch into the distance from the viewer's center, flanked by a green grassy strip and a paved road to the left, and a barren, sloping embankment leading to a treeline on the right. In the midground, a dense forest covers a mountain slope to the left, while distant mountains frame a valley ahead under a blue sky with scattered clouds, with power lines visible overhead.
+end of description
+As the viewpoint advances along the tracks, the foreground and midground scenery scrolls towards and past the viewer. A tall utility pole, initially on the right, moves closer, revealing a white sign with '18' on it before receding behind the viewer's right side.
+frame_0000000768-frame_0000000896:
+The first frame presents a view looking forward along two train tracks composed of gravel, receding into the distant mountain valley. To the left, a grassy slope gives way to a paved road and a densely forested mountain, while to the right, a steep, barren dirt slope with scattered foliage rises, all under a blue sky with some clouds. Utility poles line the tracks, and a small wooden structure is visible on the left grass.
+end of description
+As the viewpoint moves forward, the landscape dynamically shifts; the initial wooden structure on the left is replaced by stacks of wooden palettes, which then pass by the viewer. Simultaneously, a new utility pole with a light fixture progressively emerges from the distant right side of the tracks, drawing closer to the first-frame viewpoint.

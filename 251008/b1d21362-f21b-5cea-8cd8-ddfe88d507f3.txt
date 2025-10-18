@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+A narrow dirt path, lined with abundant bright green ferns, curves from the foreground into the middle-right distance. A large tree trunk stands prominently to the left of the path in the mid-ground, while numerous other tall trees with dense green foliage fill the background and recede into the distance.
+end of description
+The camera slowly moves forward along the dirt path. The prominent tree trunk shifts from the left mid-ground towards the left-rear relative to the first-frame viewpoint. As the viewer progresses, the dense fern-covered slopes and surrounding trees continuously reveal more of the forest environment ahead, maintaining the winding path in the foreground. No new distinct objects or scenes are introduced; it is a continuous forward traversal through the existing forest.
+frame_0000000128-frame_0000000256:
+A narrow dirt path extends from the foreground into the mid-ground, curving slightly right, flanked by dense green ferns covering the ground and ascending a steep bank on the left. A prominent tree trunk with reddish bark stands to the left of the path in the mid-ground, surrounded by other tall trees and foliage filling the background, while bright sky is visible through the canopy above.
+end of description
+Throughout the following frames, subtle light rays dynamically appear and fade from the upper left portion of the scene, originating from above and to the left of the first-frame viewpoint, briefly intensifying before receding.

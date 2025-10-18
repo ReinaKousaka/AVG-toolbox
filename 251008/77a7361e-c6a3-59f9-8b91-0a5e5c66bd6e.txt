@@ -1,0 +1,28 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a paved, partially icy path extending away from the viewer into the midground. To the left, a wooden fence runs alongside the path, backed by trees and bushes. To the right, a snow-covered field features a distant green park bench and a trash can closer to the path, with houses and more trees in the background under a blue sky. Several people and dogs are walking away from the viewer along the path.
+end of description
+There are no dynamic changes or newly revealed objects in the subsequent frames; all frames are identical to the first.
+frame_0000000128-frame_0000000256:
+In the first frame, an icy, wet path extends from the bottom center towards the middle-distance, bordered on the left by a wooden fence and on the right by snow-covered ground. In the midground, several people, one with a dog, walk on the path towards the viewer, with a grey trash can and a park bench visible amidst the snow to the right, all set before trees and houses under a clear blue sky in the background.
+end of description
+Throughout the subsequent frames, the people and the dog on the path in the midground subtly advance, moving marginally closer to the viewer's original position. All other elements in the scene, including the fence, snow, trees, houses, trash can, and park bench, maintain their stationary spatial positions relative to the first-frame viewpoint.
+frame_0000000256-frame_0000000384:
+In the first frame, a wet, partially icy paved path extends from the foreground towards the middle distance. To the left, a wooden fence runs parallel to the path, bordered by bare trees and brown shrubbery, with a green building visible further left. To the right of the path, a snow-covered field displays patchy green grass, a dark grey trash bin, and a white park bench in the mid-ground. Several people, one with a small dark dog, walk along the path away from the viewer, while houses with snowy roofs and various trees line the background under a bright blue sky.
+end of description
+In the subsequent frames, the group of people and the dog steadily continue walking further along the path, moving into the distant background. The visible objects and their spatial positions remain consistent relative to the static viewpoint, with no new objects or scenes being revealed.
+frame_0000000384-frame_0000000512:
+The first frame captures a sunny winter day with a wide, reflective path, partially iced or wet, extending from the foreground into the midground. A wooden fence runs along the left side of the path, separating it from trees and shrubs, while a snow-covered field lies to the right, with houses and a grey trash can visible in the mid-to-background.
+end of description
+In the subsequent frames, the group of people and their small dog walk further away from the viewer along the reflective path. The surrounding snow, trees, houses, and the stationary trash can remain consistently positioned relative to the first-frame viewpoint, with no new objects or scenes revealed.
+frame_0000000512-frame_0000000640:
+The first frame shows an icy path stretching away from the viewer, bordered on the left by a wooden fence, bare trees, and a distant glass building, and on the right by a snow-covered field containing a trash can and a bench; houses are visible in the far background under a blue sky.
+end of description
+Throughout the following frames, several people and a dog proceed along the path, walking further away into the background from the initial viewpoint.
+frame_0000000640-frame_0000000768:
+The first frame presents a winter scene with a wet, possibly icy, paved path extending from the foreground towards the middle distance. To the left of the path is a wooden fence running along snow-covered ground and brown foliage, while to the right is a wide, snow-dusted field featuring a tilted gray trash can and a white park bench further in the distance. Three people are seen walking away from the viewer on the path in the midground, with trees, modern buildings, and residential houses visible in the background under a blue sky.
+end of description
+In subsequent frames, the three individuals steadily walk further away from the viewer along the path, receding into the distance, while all other elements of the scene remain static.
+frame_0000000768-frame_0000000896:
+The first frame depicts two individuals walking towards the viewer on a wet, reflective path, flanked by a wooden fence and snow-covered ground on the left, and a broad expanse of snow with a partially buried grey trash can on the right. In the background, trees, houses, and a park bench are visible under a clear blue sky.
+end of description
+As the frames progress, the two main individuals walk closer to the viewer. Concurrently, another person in dark attire appears from behind the initial pair, walking away from the viewer on the same path, further into the background.

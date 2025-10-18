@@ -1,0 +1,28 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a dirt path leading from the foreground towards the background, flanked by patchy green grass and brown earth. A leaning tree trunk occupies the far left foreground, while a dense forest of tall evergreen trees lines both sides of the path and fills the background, with glimpses of a bright sky above. Faint, light-colored gravestones are visible among the trees in the mid-left distance.
+end of description
+The viewpoint slowly progresses forward and slightly to the right. The prominent tree trunk on the far left gradually shifts out of the frame to the left, revealing more of the grassy area and additional gravestones to its left. Concurrently, a small blue object becomes visible on the far right edge of the path in the mid-ground. The lighting on the path and surrounding grass appears to brighten slightly throughout the sequence.
+frame_0000000128-frame_0000000256:
+The first frame presents a wide gravel path receding into the distance, bordered by patches of green grass and brown earth. Tall, evergreen trees line both sides of the path and dominate the background, under a bright, partly cloudy sky. A dark tree trunk is partially visible on the far left in the immediate foreground.
+end of description
+Subsequent frames illustrate a continuous forward movement along the same path, as the foreground recedes and the trees further down the path progressively appear closer. The overall scene remains consistent, depicting a steady progression deeper into the wooded landscape.
+frame_0000000256-frame_0000000384:
+A gravel path extends from the bottom center into the middle distance, bordered by green grass and patches of dry, brown vegetation. Numerous tall, green-foliaged trees line both sides of the path, with particularly large evergreen-like trees dominating the left and a dense-canopied tree on the immediate right. A bright blue sky with sparse white clouds is visible above the distant treeline.
+end of description
+The sunlit patches and shadows on the gravel path directly in front of the viewer and on the grass to its left and right exhibit subtle, flickering shifts. This suggests minor fluctuations in illumination or imperceptible camera micro-movements. No new objects or scenes are revealed; the overall landscape of the tree-lined path remains unchanged throughout the sequence.
+frame_0000000384-frame_0000000512:
+A gravel path extends from the bottom center into the distance, flanked by green grass and patches of dry ground. Tall evergreen trees line both sides of the path, with a large tree trunk prominent on the left, and a dense treeline fading into the background under a bright sky.
+end of description
+The viewpoint steadily advances along the gravel path, causing the immediate path and surrounding grassy areas to move towards and then beneath the viewer. Consequently, the trees lining the path appear to draw nearer, then recede behind the viewer, while more distant sections of the path and forest become progressively visible ahead.
+frame_0000000512-frame_0000000640:
+The first frame displays a gravel path extending into the distance at the center, flanked by green grass on both the left and right sides. A prominent large tree with a thick trunk stands on the left in the mid-ground, while various other trees with dense foliage line both sides of the path, receding towards the horizon. The sky, showing patches of blue and white clouds, is visible above the treeline, directly above the distant end of the path.
+end of description
+The subsequent frames depict a very slow, continuous forward movement along the gravel path. The trees and grassy areas on both sides of the path gradually appear closer and slightly larger as the viewer progresses, with the distant path and trees subtly advancing towards the viewer. No new objects or scenes are revealed from outside the initial field of view; the changes solely reflect a gentle longitudinal displacement of the viewpoint within the existing scene.
+frame_0000000640-frame_0000000768:
+A gravel path extends directly in front of the viewer, receding into the distance, flanked by green grass. Tall, dense evergreen trees line both sides of the path, stretching from the foreground into the background. The sky is visible above the distant trees.
+end of description
+No dynamic changes or newly revealed objects or scenes occur in the subsequent frames; the viewpoint remains static, showing an identical scene.
+frame_0000000768-frame_0000000896:
+The initial frame shows a wide gravel path stretching into the distance, flanked by green grass and tall, dense trees on either side under a bright sky.
+end of description
+Subsequent frames reveal a very subtle forward movement along the path, causing the immediate foreground to slightly recede and the distant trees to imperceptibly draw closer towards the viewer.

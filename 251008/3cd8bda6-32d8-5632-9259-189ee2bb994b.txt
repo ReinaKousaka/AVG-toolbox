@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a dirt path, covered in roots, receding into a dense pine forest, flanked by grassy mounds. Tall trees rise on all sides, extending into the background beneath an overcast sky, with a digital overlay showing navigation data on the top right.
+end of description
+As the viewpoint progresses, the camera moves forward along the dirt path, revealing more of the forest ahead while the immediate foreground recedes. Trees previously in the middle ground move to the sides and behind the viewer, and the digital overlay updates to reflect changing pace and an increased distance of 1.8 KM.

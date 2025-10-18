@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a low-angle view upwards into a forest canopy, dominated by two dark, prominent tree trunks in the foreground—one gnarled and central-right, another to the left—both extending towards the sky. Above them, a dense expanse of green leaves fills most of the upper frame, with small patches of bright sky visible beyond the foliage.
+end of description
+Following this, the viewpoint undergoes a very subtle, gradual vertical movement, initially appearing to slightly pan upwards or zoom out, revealing a fraction more of the sky above the canopy. This then reverses, with the camera subtly panning downwards or zooming in, making the overhead foliage appear slightly larger and closer relative to the first-frame viewpoint as the scene maintains its overall composition.

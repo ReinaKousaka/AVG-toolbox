@@ -1,0 +1,18 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a narrow, paved alleyway leading into the distance. To the viewer's immediate left stands a brick building with a dark window and a "31" sign, alongside a metal-grated enclosure. To the viewer's immediate right, a white building with traditional dark brown eaves, dark-framed windows, an outdoor air conditioning unit, and planters containing orange flowers and small green plants is visible; a Korean character sign adorns its upper right. The grey paver floor extends forward, flanked by more buildings of various styles, and overhead, utility poles and wires are visible against a cloudy sky.
+end of description
+The scene exhibits a very subtle forward movement, advancing the viewpoint down the alley. The foreground buildings on both the left and right sides gradually shift *to the sides and slightly past* the first-frame viewpoint. Consequently, more of the paved alleyway *ahead* of the initial position becomes visible and more detailed.
+frame_0000000128-frame_0000000256:
+The first frame shows a narrow, paved alley extending forward under an overcast sky, with a brick building displaying a '31' sign on the left and a white-walled structure featuring decorative eaves on the right, while other buildings line the path further ahead.
+end of description
+Subsequently, starting around the fourth frame, a person holding a maroon umbrella emerges in the distance and steadily walks along the paved alleyway directly towards the viewer, continuing to approach through the remaining frames.
+frame_0000000256-frame_0000000384:
+The first frame shows a narrow, wet paved alleyway receding into the distance, flanked by buildings. To the viewer's left is a long, low brick building with a window and some discarded items on the ground near its base. To the viewer's right, a white brick wall and gate with some potted plants beyond extends forward, partially obscuring a building with traditional Korean architectural elements further back. In the midground, a person holding a dark umbrella walks away from the viewer down the center of the alley, with various brick and whitewashed buildings and utility poles visible behind them under an overcast sky.
+end of description
+The person holding the dark umbrella steadily walks further away from the viewer down the alley.
+frame_0000000384-frame_0000000512:
+First, a narrow paved alleyway extends from the viewer into the distance under an overcast sky. A brick wall with cardboard boxes is to the immediate left, while a white brick wall and gate are to the right. Further ahead, a person holding a dark umbrella walks away from the viewer, flanked by more buildings and greenery on both sides. end of description. As the frames progress, the viewpoint moves forward along the alley; the person with the umbrella continues to recede into the distance, and objects on the immediate foreground walls shift out of frame, revealing more of the path ahead.
+frame_0000000512-frame_0000000640:
+The first frame depicts a narrow paved alleyway, with a man holding a dark umbrella walking towards the viewer in the midground. To the right, a white brick wall is adorned with potted plants and foliage, while a brick wall on the left holds signs and cardboard boxes, partially hidden by a utility pole. Further down the alley on the left, a white building with dark stairs, a green door, and a traditional tiled roof is visible, with other brick buildings in the background under an overcast sky.
+end of description
+The man consistently walks closer to the viewer in subsequent frames, progressively filling more of the central pathway along the alley. The surrounding alley and buildings remain static, with no new elements being revealed.

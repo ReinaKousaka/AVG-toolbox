@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a gray paved road, marked with white dashed lines, curving left through a mountain valley, flanked by green slopes, trees, and forested mountains leading to distant rugged peaks under a partly cloudy sky.
+end of description
+As the frames progress, the viewer's perspective moves forward along the road. The immediate road surface and flanking vegetation on both sides advance towards and then past the viewer, while the distant mountains and the valley ahead gradually appear closer and reveal more of their details as the journey continues forward into the scene.
+frame_0000000128-frame_0000000256:
+The first frame depicts a paved road extending directly in front of the viewer, curving gently to the left into a mountain valley. To the left, a steep, tree-covered slope rises, while a grassy hillside with scattered vegetation borders the right side of the road. In the mid-ground and background, forested mountains frame the valley, with more rugged peaks visible further in the distance under a bright, cloudy sky.
+end of description
+As the frames advance, the viewer's perspective moves continuously forward along the road. The white dashed lines on the road and the surrounding vegetation on both sides of the road move progressively from the background towards and past the viewer, indicating ongoing forward motion. The distant mountain range and a small settlement nestled within the valley in the background remain consistently visible, shifting subtly with the changing foreground perspective.
+frame_0000000256-frame_0000000384:
+The first frame displays a grey asphalt road extending away from the viewer, gently curving left into the distance, with white road markings visible. A steep, tree-covered embankment borders the road to the viewer's left, while a grassy verge and a dense line of evergreen trees occupy the right. In the background, rolling green mountains frame a valley where distant structures are faintly visible under a bright, partly cloudy sky.
+end of description
+The viewpoint moves continuously forward along the road. Road markings and roadside vegetation on both sides steadily approach the viewer, then pass out of view. A new triangular road sign, featuring a red border and a black left-curving arrow, emerges from the mid-distance on the right side of the road, becoming clearer as it approaches. It then passes out of frame to the viewer's right.

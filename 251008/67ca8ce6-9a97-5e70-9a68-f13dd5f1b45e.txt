@@ -1,0 +1,6 @@
+frame_0000000000-frame_0000000128:
+In the first frame, a cobblestone street occupies the immediate foreground. To the left, a large white building with blue-tinted windows is partially visible, flanked by three small trees behind a low curving stone wall. To the right of the wall and trees stands a smaller white chapel-like building with a distinctive red-capped spire. Beyond these structures, towards the center-right, lies a village scene with buildings featuring brown shutters, a vibrant grassy area with flowers, and a lamppost. Majestic mountains rise in the distant background beneath a partly cloudy sky.
+
+end of description
+
+As the scene progresses, the viewpoint slowly pans to the right. The large white building on the left gradually exits the frame, while the smaller chapel-like building and the initial street recede towards the left. A large, mature tree on the right midground fully enters and then dominates the right side of the view, revealing more of the village street extending into the distance where a white car briefly appears.

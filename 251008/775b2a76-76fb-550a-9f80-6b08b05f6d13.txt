@@ -1,0 +1,15 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a residential street scene on a bright, snowy day. A two-lane road with double yellow lines and a dashed white line curves gently to the left in the foreground and midground, leading towards distant houses. To the left of the road, a sidewalk runs alongside a tall hedge, a white house with a snow-dusted roof, and more houses further along the street. On the right side of the road, a snow-covered grassy bank slopes upwards, bordered by a utility pole in the mid-right, with several houses visible beyond it. The upper portion of the frame is dominated by a bright, clear sky.
+
+end of description
+Over the subsequent frames, the most significant dynamic change is the gradual melting and receding of the snow cover on the grassy bank to the right of the road. Initially, large patches of snow blanket much of the bank, especially across its mid-section and upper right. Progressively, these patches shrink, revealing more green grass underneath the diminishing snow. By the final frames, the snow on the bank, still to the right of the first-frame viewpoint, has substantially diminished, leaving only smaller, isolated remnants. The scene also experiences a subtle increase in overall brightness.
+frame_0000000128-frame_0000000256:
+The first frame shows a snowy street scene with a dark blue asphalt road curving uphill and leftwards, marked by double yellow lines on the left and a dashed white line on the right. To the left, a sidewalk borders a light blue house and a red brick wall, while a snow-covered grassy bank rises to the right, topped by several brick houses with dark roofs under a bright sky.
+end of description
+A dark-colored SUV-like car emerges from the distant curve in the road, moving towards the viewer in the subsequent frames. The car's headlights become visible as it progresses, steadily approaching along the road, remaining centered in the distant part of the road relative to the initial viewpoint.
+frame_0000000256-frame_0000000384:
+The first frame shows a snowy village road curving ahead, flanked by houses and hedges on the left and a snow-covered bank with houses on the right. A dark green utility box stands on the left sidewalk, and a silver SUV with headlights on approaches the viewer in the mid-ground.
+
+end of description
+
+In the following frames, the silver SUV continuously drives closer to the viewer along the curving road. It passes the initial mid-ground position, becoming larger in the frame. The SUV then moves past the viewer's right side, eventually exiting the scene towards the bottom right of the frame as it continues its trajectory away from the original viewpoint.

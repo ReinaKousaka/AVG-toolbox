@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame captures a narrow, tiled alleyway lined with shops and covered by a canopy of red lanterns, wires, and lights. A partially visible vendor holding a tray stands in the foreground left, adjacent to a shop filled with packaged goods, while a souvenir shop displaying various items occupies the foreground right. Two individuals walk away from the viewer in the midground of the alley.
+end of description
+As the camera slowly advances, the vendor exits the frame to the left, and the two walkers proceed further away into the alley. This movement reveals more of the shop interiors and additional hanging decorations positioned deeper within the alley, beyond their initial first-frame locations.
+frame_0000000128-frame_0000000256:
+The first frame presents a narrow market alley with a paved walkway stretching into the distance. Two people, a man in blue and a woman in black, walk away from the viewer in the center, flanked by densely packed shopfronts displaying merchandise. Overhead, red lanterns and various signs hang, illuminating the path and receding deep into the background.
+end of description
+Throughout subsequent frames, the viewpoint steadily moves forward into the alley. The two individuals continue walking further away, while the shops on both sides, along with the overhead lanterns and signs, gradually shift position, revealing deeper sections of the bustling marketplace previously obscured from the initial view.
+frame_0000000256-frame_0000000384:
+The first frame depicts a narrow market alley extending into the distance, with a paved walkway in the foreground. Two individuals, a man with a backpack and a woman, walk away from the viewer down the center of the path. On both sides, shop stalls display various goods and trinkets; a Buddha head adorns the left wall, while a red, white, and blue striped pillar stands on the right. Red lanterns and numerous signs in an Asian script hang overhead from a translucent roof, spanning the length of the visible alley.
+end of description
+As the frames progress, the viewer's perspective steadily advances into the alley, following the two individuals who continue walking forward into the receding distance. The shop displays on both the left and right sides move backward relative to the viewer, revealing new sections of the stalls and goods further along the path. Similarly, the overhead lanterns and signs also recede as the scene progresses deeper into the marketplace.

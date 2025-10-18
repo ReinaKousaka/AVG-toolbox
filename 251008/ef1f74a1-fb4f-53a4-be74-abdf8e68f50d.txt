@@ -1,0 +1,10 @@
+frame_0000000000-frame_0000000128:
+A wide aerial view captures the Elizabeth Bridge spanning the Danube River, extending from the viewer's lower center-right towards the upper center-left. Heavy traffic, including cars, buses, and a tram, moves across the bridge and on roads along the riverbanks, with multiple passenger boats moored to the viewer's right and a large river cruise ship docked to the left. In the background, a lush green hill (Gellért Hill) dominates, crowned by a statue and construction cranes, with city buildings visible along its base and a distant skyline further to the far left.
+
+end of description
+
+Dynamic changes show ongoing vehicle movement, with numerous cars traversing the bridge from left to right. A blue bus initially on the road to the viewer's lower left proceeds onto the bridge. Simultaneously, a yellow tram on the lower left road moves towards the upper left, passing beneath the bridge's structure. The camera's perspective subtly shifts, slightly expanding the view of the distant city skyline to the far left.
+frame_0000000128-frame_0000000256:
+From an elevated perspective, a white suspension bridge (Elizabeth Bridge) with active traffic spans a wide, green river towards the mid-left. To the immediate left of the bridge, a large, multi-deck cruise ship is docked on the riverbank, while across the river, a densely forested hill (Gellért Hill) topped by a statue and a crane rises prominently in the background. Roadways line both riverbanks, and "BUDAPEST" is visible at the bottom-right.
+end of description
+In subsequent frames, the camera subtly zooms out and pans left, slightly widening the overall view and gradually revealing more of the left riverbank and a small boat previously partially visible below the bridge on the viewer's right. Throughout the sequence, vehicles on the bridge continually change their positions, demonstrating ongoing traffic flow.

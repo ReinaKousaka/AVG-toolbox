@@ -1,0 +1,13 @@
+frame_0000000000-frame_0000000128:
+First, a narrow, cobbled path extends forward, bordered on the left by a cream-colored building featuring a white window and a vibrant blue bench. To the right, a stone building with an arched window and a streetlamp stands beside a grassy slope with pink flowering bushes, leading towards a wooden gate and a sunny hill in the distance.
+end of description
+The viewpoint steadily moves forward along the path. The cream-colored building and blue bench on the left enlarge and reveal a white downspout, a blue bucket, and then a white square box on the ground. Simultaneously, the stone building on the right recedes, while the distant wooden gate and grassy hill become increasingly closer and larger in view.
+frame_0000000128-frame_0000000256:
+The first frame depicts a narrow pathway running between a row of light-colored houses on the left and a grassy bank leading to a wooden fence on the right, all under a clear blue sky. A prominent bright blue ornate bench rests against the wall of the nearest house in the left foreground, while a light blue door with a canopy is visible further along the path.
+end of description
+As the viewpoint progresses forward along the pathway, the initial blue bench on the left moves out of frame to the bottom-left relative to the first-frame's edges. Concurrently, the light blue door and other houses further down the path move into closer prominence on the left. On the right, the grassy bank, concrete path, and wooden fence similarly advance towards the viewer's original position, revealing more details.
+frame_0000000256-frame_0000000384:
+The first frame presents a narrow pathway on a sunny day, flanked by light-colored houses with blue doors, a blue bench, and a small blue table with chairs receding into the distance on the left. To the viewer's right, a gravel garden bed with green plants borders a wooden fence, beyond which lies a bright green grassy hill under a clear blue sky. A pot of pink flowers sits immediately to the right of the closest blue door.
+
+end of description
+As the camera moves forward along the path, the leftmost blue door exits the frame to the viewer's left. The blue bench and the second blue door on the left side become more prominent and closer, while a yellow object appears on the roofline above that door. Simultaneously, a metal grate becomes visible within the gravel bed on the right, further revealing the advancing scene.

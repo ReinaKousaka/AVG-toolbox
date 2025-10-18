@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+A paved path curves to the left in the foreground, bordered on its right by a black metal railing. Beyond the railing lies a river, and across it, a large grey metal truss bridge spans horizontally, with a reddish-brown building and bare trees visible on the far bank. Below the bridge, lighter-colored structures are visible in the river.
+end of description
+The camera moves forward along the path, causing the foreground railing and path to shift to the left within the frame. This movement reveals more of the river and the structures beneath the bridge, while the bridge and distant building gradually appear to recede slightly as the viewpoint advances.
+frame_0000000128-frame_0000000256:
+A wet, dark path curves from the bottom left towards the middle distance, bordered by trees on the far left. A black metal railing extends from the bottom right towards the center, separating the viewer from a river flowing from right to left. Across the river, a metal sheet piling wall and a wooden structure are visible beneath a large grey metal truss bridge spanning horizontally in the background. To the far right, a reddish-brown brick building is partially obscured by bare trees.
+end of description
+The scene remains static throughout, with no dynamic changes to the visible objects or their positions relative to the first-frame viewpoint. In the final frame, the text "Midland Bridge" appears in the foreground, overlaid on the path in the bottom left of the image.
+frame_0000000256-frame_0000000384:
+In the first frame, a large grey metal truss bridge, labeled "Midland Bridge," spans across a calm body of water in the middle ground, extending from the left bank towards the right. A paved path curves from the foreground on the left, alongside a black metal railing that runs parallel to the water on the viewer's right. The left bank has sparse trees and green foliage, while the right bank features a reddish-brown building in the background.
+end of description
+A red train dynamically emerges from behind the far left side of the Midland Bridge structure. It then proceeds to travel horizontally from left to right across the middle section of the bridge, moving above the water. The train steadily traverses the entire visible length of the bridge from the first-frame viewpoint.

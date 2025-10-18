@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a rain-slicked street with double yellow lines leading into the distance, bordered on the left by storefronts and on the right by a sidewalk and a utility pole with yellow and black stripes. Three people are visible, all holding black umbrellas: two on the left sidewalk walking away from the viewer, and one on the right sidewalk, carrying a backpack, walking towards the viewer.
+end of description
+In subsequent frames, the person on the right sidewalk walks past the foreground utility pole and out of view to the right. Concurrently, the two individuals on the left continue their progression away from the viewer, moving further down the street and gradually diminishing in size towards the background.
+frame_0000000128-frame_0000000256:
+A wet asphalt road, marked with double yellow lines and a yellow and white crosswalk, extends into the midground. To the left, a row of storefronts lines a sidewalk where a person holding an umbrella walks away from the viewer; to the right, a brick building borders the scene, with distant buildings and trees visible in the background under rainy conditions.
+end of description
+In the following frames, the person with the umbrella continues to move further away from the viewer along the left sidewalk, while the visual intensity of the falling rain and splashes on the wet surfaces appears to slightly increase across the entire scene.
+frame_0000000256-frame_0000000384:
+The first frame shows a wet asphalt road in the foreground with a prominent yellow and white striped crosswalk and double yellow lines leading into the midground. To the viewer's left, a person holding an open black umbrella walks towards the camera along a sidewalk lined with shopfronts on a brick building, while a red brick wall and sidewalk occupy the right side, with a wooden pole leaning against it. Distant buildings and trees are visible in the background under rainy conditions.
+end of description
+In subsequent frames, the person on the left continues walking towards and then exits the bottom-left of the frame. Simultaneously, another individual carrying an umbrella appears on the right-hand sidewalk, moving away from the viewer into the background.

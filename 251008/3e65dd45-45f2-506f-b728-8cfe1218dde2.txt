@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a narrow dirt path with wooden steps leading into a dense forest under a bright sky. Tall, green-leafed trees line both sides of the path, their trunks visible amidst lush green undergrowth, while sunlight filters through the canopy, illuminating parts of the path and foliage directly ahead and to the sides of the viewer.
+end of description
+As the sequence progresses, the viewer moves forward along the path. The wooden steps initially in the foreground move rearward and out of view, continuously revealing new sections of the path ahead, extending further into the distance. Trees and dense green bushes on both the left and right sides move past the viewer's fixed first-frame viewpoint, exposing deeper parts of the forest. On the left, a prominent log or stump, initially further back, moves into the midground and then out of the frame as the viewpoint advances.
+frame_0000000128-frame_0000000256:
+In the first frame, a dirt path featuring wooden plank steps extends forward from the viewer into a dense forest, flanked by vibrant green bushes and smaller plants. Tall, verdant trees with sun-dappled canopies rise around the viewer and recede into the distance, defining the immersive forest environment.
+end of description
+As the camera moves forward, the wooden steps and adjacent green foliage progressively pass by the viewer, revealing more of the winding trail deeper into the forest. The tall trees on either side of the path shift, gradually revealing previously obscured sections of the forest further ahead as the viewpoint continues its steady progression into the scene.

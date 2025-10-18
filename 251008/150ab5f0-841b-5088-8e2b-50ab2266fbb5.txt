@@ -1,0 +1,16 @@
+frame_0000000000-frame_0000000128:
+The first frame features a wooden boardwalk receding into the distance, bordered by vibrant green grass and dense evergreen trees on both sides. To the right, behind a line of trees, a bright body of water is visible in the mid-ground, while sunlight casts dappled shadows across the path.
+end of description
+As the viewpoint progresses forward along the boardwalk, the trees and grass flanking the path slowly move towards the sides, eventually shifting behind the viewer. The distant section of the boardwalk and the body of water to the right appear to draw closer, gradually occupying more of the frame without revealing entirely new scenes.
+frame_0000000128-frame_0000000256:
+The first frame shows a wooden boardwalk extending directly forward from the viewer, receding into the distance with dappled sunlight and shadows. Dense green trees and undergrowth line the left side, while sparser trees on the right partially obscure a bright body of water, bordered by lush green grass.
+end of description
+The viewer slowly moves forward along the boardwalk, revealing new sections of the path and surrounding forest directly ahead of the first-frame viewpoint. The trees and grass on both sides recede to the left and right as the progression continues. The shimmering body of water on the right remains visible, with its reflections subtly shifting.
+frame_0000000256-frame_0000000384:
+The first frame displays a wooden boardwalk stretching into the distance, flanked by dense evergreen trees on the left and a sparser treeline on the right with a sun-dappled body of water behind. Bright sunlight from the upper right casts dynamic shadows across the path, and lush green undergrowth lines both sides.
+end of description
+As frames progress, the viewpoint slowly advances along the boardwalk, causing the surrounding trees and undergrowth to shift perspective and sway gently. The dappled shadows on the path also subtly change and move closer to the viewer, reflecting this forward motion.
+frame_0000000384-frame_0000000512:
+A wooden boardwalk extends from directly in front of the viewer into the distance, flanked by lush green grass and small plants on both sides. Numerous conifer trees with dark trunks and green foliage line the path, with some bare branches from a conifer hanging into the upper right foreground, partially obscuring the view. To the right, beyond the trees, a bright body of water is visible in the midground.
+end of description
+The viewpoint slowly advances forward along the boardwalk. As the camera moves, the sections of the boardwalk closest to the viewer in the first frame recede, and the adjacent grass and smaller plants pass by to the left and right. The surrounding conifer trees, including the overhanging branches from the original upper right, appear to move backward relative to the initial first-frame position. The visible body of water to the right remains in view, with its details subtly shifting as the scene progresses forward.

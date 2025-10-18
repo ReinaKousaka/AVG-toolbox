@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+In the first frame, a multi-story half-timbered building with dark red beams and white plaster occupies the left foreground, featuring multiple windows. To its right and extending into the midground, a tall stone church tower with a reddish-brown upper section and a green-capped spire rises against a clear blue sky, with bare tree branches partially visible on the far right.
+end of description
+Throughout the subsequent frames, the camera performs a subtle, slow zoom-out combined with a slight pan downwards and to the right. This movement makes both the half-timbered building and the church tower appear marginally smaller and more distant, revealing slightly more of the clear blue sky above the church and additional bare tree branches further to the far right, relative to the initial viewpoint.

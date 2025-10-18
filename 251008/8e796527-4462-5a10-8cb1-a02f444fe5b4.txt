@@ -1,0 +1,28 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a light gray path sloping upwards to the right, flanked by a stone wall with a railing. To the left, a thatched-roof building with wooden doors stands, while a larger wooden temple-like structure with a tiled roof is visible further up the slope on the right, all set against a backdrop of pine trees and hills under a clear sky.
+end of description
+As the camera moves forward and slightly right, the thatched-roof building on the left gradually recedes and exits the frame to the viewer's far left. Concurrently, a wider section of the main path becomes visible, and a new, flatter textured ramp appears on the far right, parallel to the original sloping path. The larger wooden building on the right appears closer and more centered relative to the initial view, offering a more direct perspective of its facade.
+frame_0000000128-frame_0000000256:
+In the first frame, an upward-sloping concrete path occupies the lower center, flanked by a stone wall with a metal handrail on the left and a grated ramp on the right. To the left, a traditional Korean building with a gray tiled roof and light wooden walls stands above a partially visible thatched-roof structure. Another wooden building with a tiled roof extends from the mid-right to the upper right. Pine-covered hills and a clear blue sky are visible in the background.
+
+end of description
+
+The camera slowly advances forward and slightly to the right, gradually revealing more of the concrete path and causing the structures on either side to appear closer. The traditional building to the left, relative to the first-frame viewpoint, becomes more prominent. From the fifth frame, a person in a light-colored top appears on the balcony of this left building, slowly walking towards its right side.
+frame_0000000256-frame_0000000384:
+The first frame depicts a concrete ramp ascending towards the background, flanked by traditional wooden buildings. To the viewer's left, a large building with a dark tiled roof stands above a stone wall and metal railing, while a partially visible building with a similar roof occupies the upper right, with a gridded metal ramp leading downwards beside it. Pine trees cover the distant hills under a clear blue sky. end of description. Subsequently, a person emerges near the left building's main entrance and slowly moves further inside. The viewpoint subtly shifts rightward, slightly expanding the visible area of the right building and the path.
+frame_0000000384-frame_0000000512:
+The first frame features a concrete ramp leading towards a prominent traditional East Asian wooden building with a tiled roof in the mid-ground, flanked by stone walls with metal railings, and a smaller wooden building partially visible on the elevated far right. In the background, green hills covered with trees rise under a clear blue sky.
+end of description
+A person in light clothing emerges from the main building's entrance in the mid-ground, then proceeds to walk down the ramp towards the viewer. Subsequently, a second person, wearing dark clothing, becomes visible from behind the smaller building on the far right, moving forward on a path located to the right of the main ramp.
+frame_0000000512-frame_0000000640:
+A concrete path ascends towards a large, ornate wooden building with a grey tiled roof in the midground, flanked by stone walls and metal railings. A person in light clothing stands centrally near the building's entrance, while another person in dark attire walks on an elevated path to the right, adjacent to the viewer's path. Behind the building and extending into the background are green forested hills under a clear blue sky.
+end of description
+Over subsequent frames, both individuals subtly shift their positions; the person in light clothing moves slightly, and the person in dark clothing continues walking along the elevated path towards the right of the first-frame viewpoint. No new objects or scenes are revealed as the camera remains stationary.
+frame_0000000640-frame_0000000768:
+The first frame presents a wide, light-colored pathway ascending towards a large traditional wooden building with a dark tiled roof, positioned to the viewer's left. Stone walls with metal railings border the path on both sides, and to the right, a partial view of another similar wooden structure is visible. Two men are on the path: one in light clothing is closer to the left building, and another in a dark suit and mask is further ahead on the right side. Green, tree-covered mountains form the backdrop under a clear blue sky.
+end of description
+Both men progressively walk forward along their respective sides of the path, moving closer to the viewer. The man in light attire swings his arms as he advances from the left, while the man in the dark suit approaches from the right.
+frame_0000000768-frame_0000000896:
+The first frame features a concrete path sloping downwards towards the viewer, flanked by stone walls with metal railings on both sides. To the viewer's left stands a traditional wooden building with a dark tiled roof and a sign with Asian characters, while forested hills rise in the background under a clear blue sky. Two men are walking towards the viewer on the path: one on the left in light clothing, and one on the right in a dark suit and a face mask.
+end of description
+In the subsequent frames, the two men continue to advance forward along the path towards the viewer. The man on the left makes subtle gestures with his hands, appearing to adjust something he is holding, while the man on the right maintains a steady pace. No new objects or scenes are revealed, only the progressive movement of the two individuals within the depicted environment.

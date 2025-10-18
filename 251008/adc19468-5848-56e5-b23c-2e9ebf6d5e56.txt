@@ -1,0 +1,10 @@
+frame_0000000000-frame_0000000128:
+In the first frame, a paved road curves gently to the left from the bottom center towards the mid-distance, featuring distinct yellow, blue, and pink lines. To the right, a concrete barrier with yellow and black chevron markings runs parallel to the road, backed by a dense forest of tall, slender trees and lush green vegetation. On the left, a steep embankment is covered in thick green foliage, while hazy mountains loom in the distant background under a partly cloudy sky.
+
+end of description
+
+As the frames progress, the viewpoint moves forward along the winding road. The concrete barrier and chevron markings on the right, along with the dense foliage on both sides, gradually advance towards and then pass the viewer. A tall, slender tree initially positioned in the mid-ground on the right steadily approaches the viewer, becoming more central in the frame. The distant mountains remain generally static, with the road ahead progressively revealing more of the winding path through the mountainous terrain.
+frame_0000000128-frame_0000000256:
+From the viewer's forward perspective, a paved road with faint yellow, blue, and red lines in the left foreground stretches into the hazy distance, flanked by dense green vegetation and trees on both sides, with a steep hillside to the left and a concrete barrier to the right, under distant mountains and a cloudy sky.
+end of description
+As the camera moves forward, the colorful road markings pass beneath the viewer, replaced by a visible yellow double line further ahead on the road. The surrounding lush green foliage and the right-side concrete barrier with yellow-striped markers continuously shift past the viewer, revealing more of the winding path through the mountainous, hazy landscape.

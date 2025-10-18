@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+A dark, wet path recedes away from the viewer, flanked by dense trees with bare branches on the left and a stone retaining wall alongside a forested slope on the right. A bright streetlamp stands mid-distance on the left, illuminating the path and wet surfaces, with a second, fainter light visible further ahead on the right.
+end of description
+Throughout the subsequent frames, the scene remains static with no new objects or scenes revealed; however, subtle white specks, indicating light precipitation, continuously fall, especially illuminated by the streetlamp in the middle distance.
+frame_0000000128-frame_0000000256:
+A dark, wet paved path curves into the distance under a dim night sky, flanked by bare-branched trees and some evergreens on the left and a stone retaining wall with trees and dry leaves on the right. A brightly illuminated street lamp stands near the path's center-left, casting light on the wet ground and revealing falling precipitation in the mid-air.
+end of description
+Throughout the following frames, the visible precipitation continues to fall consistently. A second, smaller light source emerges further down the path on the right side, beyond the stone retaining wall, becoming more distinct as the sequence progresses. The overall scene's brightness subtly increases due to the reflecting precipitation and the new light source.
+frame_0000000256-frame_0000000384:
+The first frame presents a nighttime view of a wet, paved pathway curving gently uphill and to the right, with prominent puddles reflecting light. A brightly lit streetlamp stands to the left of the path, its light illuminating the surrounding bare tree branches and a darker wooded area behind them. To the right, a stone retaining wall supports a sloped bank covered in brown fallen leaves and more trees, with faint distant lights visible further into the background under an overcast sky.
+end of description
+No new objects or scenes are revealed. The only dynamic change is the subtle appearance and disappearance of small, bright specks across the scene, especially near the streetlamp and deeper into the background, indicating falling precipitation.

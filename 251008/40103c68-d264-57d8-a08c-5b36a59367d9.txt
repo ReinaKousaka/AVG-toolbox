@@ -1,0 +1,6 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a verdant park scene with bright green grass and several moss-covered rocks in the foreground. On the far left, a dark tree trunk is visible, while a small wooden fence borders the path on the far right. A dark-roofed gazebo sits centrally in the midground, surrounded by green hedges and foliage, with a prominent red-leafed Japanese maple tree to its right. A street curves behind the gazebo, and in the background, a light-colored building is on the left, a larger white building is on the right, and distant mountains are under a partly cloudy sky. Partially obscuring the far left is a collage of smaller landscape and architectural images.
+
+end of description
+
+The viewpoint slowly pans left, revealing more of the street and pavement that were to the left of the initial tree trunk, while the collage on the far left of the first frame disappears entirely. Simultaneously, objects on the far right of the first frame—the red-leafed tree, the paved path, and the white background building—gradually move out of view to the right. The central gazebo and the light-colored building on the left remain visible, shifting towards the right within the expanding leftward frame.

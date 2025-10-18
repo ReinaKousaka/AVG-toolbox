@@ -1,0 +1,11 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a wet city street at night, with colorful lanterns and A-frame signs on the right before brightly lit storefronts, and a concrete barrier for an underground entrance on the left, beyond which distant traffic is visible. end of description
+As the camera moves forward, the colorful lanterns and A-frame signs on the far right gradually disappear from view, while the concrete barrier on the left draws nearer and then passes the viewer, revealing more of the illuminated street ahead.
+frame_0000000128-frame_0000000256:
+The initial frame depicts a wet, rain-slicked city street at night, with a concrete subway entrance barrier and a light pole with yellow signs on the left, and a row of brightly lit storefronts extending into the distance on the right.
+end of description
+The viewpoint steadily moves forward along the sidewalk, slightly shifting right relative to the initial position. As the viewer progresses, the shops on the right become increasingly clear and larger, revealing more detailed facades and signs, while the subway entrance on the left recedes, exposing more of the street beyond it, all under continuous rainfall.
+frame_0000000256-frame_0000000384:
+The first frame captures a wet, rainy city street at night, featuring a low stone-patterned barrier on the viewer's immediate left, leading to a tall pole with illuminated signs and a glass-paneled shelter further along the sidewalk. To the right, a row of storefronts with numerous glowing Korean signs stands, their metal shutters mostly closed, while distant city lights illuminate the dark background.
+end of description
+As the frames progress, the viewpoint subtly shifts slightly forward and to the right, incrementally revealing more of the street ahead. The falling rain becomes distinctly more visible across the scene, especially highlighted by the streetlights. Concurrently, a growing number of bicycles appear parked near the glass shelter on the left, accumulating over time.

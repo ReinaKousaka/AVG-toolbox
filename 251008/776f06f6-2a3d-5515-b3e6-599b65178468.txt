@@ -1,0 +1,14 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a paved road extending into a distant valley, flanked by large, steep mountains under a clear blue sky. To the left, there's a grassy field with a wooden fence and trees; to the right, two parked cars, several wooden buildings, a flag pole, and a tall banner are visible behind a similar wooden fence.
+end of description
+As the viewpoint moves forward, the parked cars on the right gradually disappear from view, and the banner and flag pole also shift further to the right. The small wooden buildings become clearer and closer on the right side of the road. A circular red road sign, initially further down, progressively becomes more prominent and closer to the viewer.
+frame_0000000128-frame_0000000256:
+The viewer is positioned on a paved road, extending centrally into a valley towards distant mountains under a clear blue sky. To the left, a grassy verge borders a dense line of trees and a steep, rocky mountainside. On the right, a similar grassy verge features a wooden fence, two small red cabins with green roofs situated behind the fence, and a "no trucks" sign, followed by more trees and an equally steep mountainside.
+
+end of description
+
+As the frames progress, the viewpoint moves forward along the road, indicating travel into the valley. The "no trucks" sign, initially positioned to the right of the road, approaches the viewer and then moves out of frame to the far right. Simultaneously, the fence and cabins on the right also draw nearer and pass by, moving from the mid-ground towards the immediate right of the viewer. The trees lining both sides of the road also appear to move closer and then recede past the viewer, while the distant mountains remain ahead, slowly growing in prominence as the journey continues.
+frame_0000000256-frame_0000000384:
+A paved road stretches from the foreground into the mid-ground, flanked by dense green trees on the left and grass with a partial wooden fence on the right, all receding towards the distant center. Towering, steep mountains with rocky, snow-capped peaks and green lower slopes rise on both sides of the valley, meeting a clear blue sky above.
+end of description
+As the frames progress, the viewpoint moves forward along the road. Objects in the immediate foreground, like the grass and the fence on the right, shift out of view, revealing new sections of the roadside closer to the viewer. The trees lining both sides of the road appear to move towards and then past the viewer's peripheral vision, while the road ahead continues to lead deeper into the mountain valley. The shadows on the road subtly lengthen and extend towards the viewer, and the distant mountains remain ahead, gradually appearing slightly closer as the journey progresses.

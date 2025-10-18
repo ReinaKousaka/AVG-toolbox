@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a narrow, brick-paved city street at night, featuring a woman walking away on the left, a person on the right looking at a phone, and a group of people receding into the background between multi-story buildings with illuminated shops.
+end of description
+As the viewpoint advances forward, both the woman on the left and the person on the right recede further into the distance, with the woman also moving leftwards. The group of people straight ahead continue walking further away, while newly revealed yellow and white bollards appear on the left side of the street, closer to the initial viewpoint.
+frame_0000000128-frame_0000000256:
+The first frame depicts a paved street at night, receding into the distance, flanked by multi-story buildings featuring various illuminated shop signs. In the left foreground, a woman wearing a light top and dark pants walks away from the viewer, positioned next to yellow-and-white bollards and white display boards. Several other pedestrians are visible further down the street, also moving away from the viewer, while a partial figure in black is on the far right edge.
+end of description
+As the frames progress, the woman on the left continues walking further into the scene. The partial figure on the far right moves completely out of view to the right. Simultaneously, the group of pedestrians in the midground advances deeper down the street, maintaining their direction away from the viewer.
+frame_0000000256-frame_0000000384:
+The first frame shows a cobblestone street at night, lined with shops and buildings under a dark sky, leading away from the viewer. To the immediate left, a woman in a light green top and dark pants stands with her back mostly to the viewer, looking left, next to two display stands. On the far right, a building facade with signs and a white display stand are partially visible. In the midground, numerous pedestrians walk along the street and sidewalks, passing illuminated shops, one with a bicycle parked outside on the left, and an "Outback Steakhouse" sign prominent further down the street on the right.
+end of description
+A man initially in the midground on the right walks towards the viewer, becoming larger and closer. As he approaches, a circular manhole cover is revealed on the street directly in front of the first-frame viewpoint. Simultaneously, other pedestrians continue moving further into the background, while another woman from the right midground also begins walking towards the viewer.

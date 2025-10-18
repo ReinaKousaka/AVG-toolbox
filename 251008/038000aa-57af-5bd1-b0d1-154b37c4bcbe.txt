@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a park pathway strewn with autumn leaves, extending from the foreground where a black trash can and fence are on the right. A hedge separates the path from a grassy area with a streetlamp, while sunlight filters through yellow-leaved trees in the mid-ground, and numerous people are seated on benches or walking further back.
+end of description
+A person pushing a stroller on the far left path moves from the left edge towards the center-left relative to the initial viewpoint. Concurrently, other individuals on benches and walking in the mid-ground show slight movements, and the overall scene experiences a subtle camera wobble, causing minimal shifts.

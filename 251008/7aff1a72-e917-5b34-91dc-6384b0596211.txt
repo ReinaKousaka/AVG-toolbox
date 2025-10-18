@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a rainy city street at night from a sidewalk perspective, with a wet road reflecting numerous neon signs and red traffic lights in the distance. A white taxi with illuminated brake lights is on the mid-left road, while a dark car is parked to the viewer's right, adjacent to a utility box and trees lining the sidewalk.
+end of description
+The dark parked car's driver-side door, situated to the viewer's right, progressively opens, revealing its interior as a person begins to emerge. Concurrently, a yellow umbrella starts to appear from the top-right of the frame, gradually expanding downwards. The person then fully exits the car, closes the door, and walks out of view towards the viewer's left, with the umbrella remaining prominent in the top-right.
+frame_0000000128-frame_0000000256:
+The first frame captures a rainy urban street scene at night, with a dark SUV parked curbside in the immediate left foreground. A wet road stretches forward, reflecting numerous streetlights and illuminated building signs that line both sides, prominently displaying red traffic lights further down the street and trees on the right sidewalk.
+end of description
+Throughout the following frames, the yellow-green top of an umbrella repeatedly dips into and out of the upper part of the view. The most significant dynamic change is the alteration of the distant red traffic lights, which sequentially turn green, as steady rain persists and splashes on the wet surfaces.
+frame_0000000256-frame_0000000384:
+The first frame depicts a wet city street at night, with a dark car roof visible in the foreground left. A reflective asphalt road leads into the midground, bordered on the right by a brick sidewalk, a line of trees and lamp posts, and multi-story buildings with illuminated signs and traffic lights (red and green) extending into the background.
+end of description
+As the video progresses, the camera slightly shifts right while rain continues to fall. Traffic lights on the left cycle from red to green and back to red, as a black car drives away in the midground left. Meanwhile, a pedestrian with an umbrella walks along the right sidewalk, moving towards the background.

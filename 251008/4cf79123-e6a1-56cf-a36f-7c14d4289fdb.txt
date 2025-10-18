@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame displays an aerial view of a road in the foreground, bordered by green grass and scattered evergreen trees. In the midground, a large, traditional stone house with a circular driveway and gated entrance sits centrally, with a modern white and grey house positioned to its right. Lush green treelines dominate the background, behind which a dense suburban area of houses extends towards the horizon under a clear blue sky.
+end of description
+Over the subsequent frames, the camera subtly zooms out or pans slightly upwards, causing the entire scene to gradually recede. This dynamic reveals a marginally wider perspective of the existing landscape, making all objects appear slightly smaller and exposing a small additional portion of the distant houses and sky above the first-frame's top edge, without introducing entirely new objects or scenes.
+frame_0000000128-frame_0000000256:
+In the first frame, an aerial view reveals a horizontal road in the immediate foreground, flanked by lush green foliage. Centrally in the midground stand two prominent houses: a traditional grey residence with a circular gated driveway to the left, and a modern white-and-grey house to the right, both encircled by trees. The background features a vast suburban landscape of houses amidst abundant greenery, stretching towards a distant cityscape under a clear sky.
+end of description
+The subsequent frames are identical to the first, showing no dynamic changes or newly revealed objects within the scene.

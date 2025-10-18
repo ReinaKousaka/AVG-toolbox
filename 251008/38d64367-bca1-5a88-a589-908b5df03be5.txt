@@ -1,0 +1,25 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts an ascending dirt path flanked by an overgrown grassy slope on the left, topped by a wooden building, and a brick wall on the right. Stone steps lead further up the path to another wooden building with a small window in the background.
+end of description
+As the view progresses, the camera moves forward along the path. The brick wall on the right becomes more prominent, revealing a small, light blue sign affixed to it, while the wooden structures recede slightly in perspective.
+frame_0000000128-frame_0000000256:
+The first frame depicts a narrow, stepped path leading uphill, flanked by a steep, grassy earthen slope with a multi-story wooden building on the left, and a brick building with a dark roof and wooden door on the right. Further up the path, in the center-distance, a smaller building with a prominent red-framed window is visible, with another structure behind it.
+end of description
+Across subsequent frames, the viewpoint gradually moves slightly forward and upward, causing the immediate surroundings to appear closer and expanding the view up the path. This subtle change in perspective reveals a little more of the ground directly ahead, while the buildings on either side slightly recede in the frame relative to their first-frame positions, though no entirely new objects are introduced.
+frame_0000000256-frame_0000000384:
+The first frame displays a narrow, uphill stone path bordered on the left by a steep, grassy bank with fishing nets and wooden structures, and on the right by a brick wall with a tiled roof. Ahead in the distance, a large wooden building with a traditional tiled roof is visible, with a smaller structure featuring a prominent red-framed opening positioned to its right.
+end of description
+As the frames advance, the viewpoint moves forward along the path and slightly uphill. The fishing nets and foreground structures on the left recede, moving out of view behind the viewer, while the wooden building on the left and the brick wall on the right grow larger and reveal more detail. Consequently, the distant central wooden building and the smaller structure with the red frame also appear closer and more prominent.
+frame_0000000384-frame_0000000512:
+The first frame displays a narrow, flagstone path receding from the viewer, bordered by aged buildings. To the viewer's left, a weathered wooden structure with open windows lines the path, while on the right, a lower brick wall with a dark corrugated roof partially obscures another stone and wood building featuring a red-framed window. Further along the path, a larger wooden house with a traditional gabled roof is visible, all under a pale, overcast sky. end of description
+No dynamic changes or newly revealed objects occur in the subsequent frames; the entire scene remains static relative to the initial viewpoint.
+frame_0000000512-frame_0000000640:
+The first frame depicts a narrow stone-paved path extending into the mid-ground, flanked by rustic buildings. To the left, a weathered wooden structure with multiple open bays runs alongside the path. On the right, a smaller building with a stone base and a red-framed opening stands, with another dark-roofed building partially visible further right. In the background, a larger, multi-story wooden house with a gabled roof and windows is centered down the path under an overcast sky, with a red object visible along the path in the mid-ground. end of description. No dynamic changes, newly revealed objects, or scene alterations are observed in the subsequent frames, as the viewpoint and entire scene remain static.
+frame_0000000640-frame_0000000768:
+The first frame shows a narrow, stone-paved alleyway stretching into the distance, bordered on the left by a weathered wooden building with open bays and on the right by a smaller brick structure featuring a recessed red fire-hose cabinet. At the alley's far end, a larger multi-story wooden house is visible, with a small red tractor-like vehicle positioned in front of it.
+end of description
+As the frames progress, the camera slowly moves forward, deeper into the alleyway. This movement brings the red vehicle slightly closer to the viewer and makes the architectural details of the surrounding old buildings, including the fire-hose cabinet on the right, incrementally clearer.
+frame_0000000768-frame_0000000896:
+The first frame displays a narrow, stone-paved alley extending away from the viewer, flanked by buildings. To the immediate left stands a rustic wooden structure with a gridded window, while to the immediate right is a concrete building with a tiled roof, featuring an open, pink-recessed section containing a fire hydrant and a white cloth. In the background, a large multi-story wooden building with multiple windows closes off the alley, with a red object partially visible on the path near its base.
+end of description
+No dynamic changes or newly revealed objects occur in the subsequent frames; the entire scene remains static throughout the sequence.

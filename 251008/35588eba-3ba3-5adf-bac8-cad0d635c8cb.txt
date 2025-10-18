@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a rainy urban street and sidewalk with a pedestrian carrying an umbrella walking away in the mid-distance. To the viewer's immediate left are two blue recycling bins beside a black railing and wet road, while to the right, two silver bollards precede a row of shop windows and green planters.
+end of description.
+As the camera tracks forward along the sidewalk, the blue bins and initially foreground bollards recede, eventually moving behind and to the left/right of the original viewpoint, while the distant street, buildings, and the walking pedestrian, originally further ahead, gradually shift closer towards the original viewpoint's position.

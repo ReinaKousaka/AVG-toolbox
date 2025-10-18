@@ -1,0 +1,22 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a narrow, paved stone path extending into the distance, flanked by structures. To the viewer's immediate left, a short brick wall runs parallel to the path, behind which a black metal gate and a prominent stone pillar frame a glimpse of an outdoor seating area with a white umbrella. To the viewer's right, a weathered brick and stone building features an arched doorway and a barred window above, marked with the number '1'. In the far background, a red and white construction crane rises above the left wall, behind trees and a building partially covered in white scaffolding, all beneath a clear blue sky.
+end of description
+The camera gradually moves forward along the paved path. As the viewpoint advances, the black metal gate and stone pillar on the left recede from the immediate foreground, revealing more of the extending brick wall to their right. Simultaneously, the weathered building on the right, with its doorway and window, appears closer and more central within the frame. The background elements, including the crane and scaffolding, subtly shift perspective as the viewer progresses further down the alley.
+frame_0000000128-frame_0000000256:
+The first frame depicts a narrow, paved alleyway stretching into the distance, bordered by an old brick wall on the left and a weathered stone and brick building on the right, which features a dark doorway, a barred window, and a streetlamp. In the background, a tall green tree stands above the left wall, and a large red and white construction crane dominates the sky over a scaffolded building.
+
+end of description
+
+As the viewpoint progresses forward through the alleyway, the dark doorway on the right, initially almost closed, progressively opens wider in the subsequent frames, revealing more of its dark interior to the viewer's right.
+frame_0000000256-frame_0000000384:
+The first frame shows a narrow, paved alleyway leading into the distance. A low stone wall runs along the left side, and a weathered brick and stone building with a street lamp adorns the right. Above the wall on the left, a tall cypress tree and a green bush are visible, with a building covered in white scaffolding behind them. In the upper background, a red construction crane stands against a blue sky with scattered clouds.
+end of description
+As the frames progress, the viewpoint subtly moves forward along the alley. On the left side, above the stone wall and to the left of the cypress tree, two large white parasols gradually unfold and become more prominent, revealing an outdoor seating area that was initially obscured.
+frame_0000000384-frame_0000000512:
+The first frame depicts a narrow, paved alleyway extending forward, flanked by a low stone wall on the left and an old, weathered stone and brick building on the right. Beyond the left wall, white umbrellas and a tall green tree are visible, with a red construction crane and a white-covered structure in the distant background against a blue sky. An ornate black lantern hangs from the upper right building wall, which also features a dark recess or window.
+end of description
+As the viewer moves forward along the alleyway, the stone wall on the left and the building on the right recede, revealing a previously partially obscured dark wooden door on the right building wall. The distant red crane, white structure, and tall green tree progressively appear slightly closer and larger as the viewpoint advances through the scene.
+frame_0000000512-frame_0000000640:
+The first frame depicts a narrow, paved alley leading away from the viewer, bounded by a low stone wall on the viewer's left and an old brick building with a dark doorway on the viewer's right; a large draped object, a tall tree, and a distant red construction crane are visible above the left wall.
+end of description
+As the viewpoint advances forward through the following frames, the brick building on the right and its doorway grow closer to the first-frame viewpoint, appearing larger. Concurrently, the previously partially obscured draped object behind the left wall becomes more fully revealed and shifts further left in the frame, indicating forward movement along the alley.

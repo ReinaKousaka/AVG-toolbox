@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a wet city street intersection on an overcast day, viewed from a paved sidewalk with a tree and a traffic light pole on the far left. In the midground, a crosswalk spans the wet asphalt where a red car and a black car are driving away from the viewer; a person with an umbrella stands on the right sidewalk in front of a Baskin Robbins storefront.
+end of description
+Over subsequent frames, the original red and black cars continue moving away from the viewer down the street. A new black car emerges from the left of the frame, driving across the crosswalk towards the right, eventually positioned closer to the viewer than the initial cars. Concurrently, the person with the umbrella on the right sidewalk slowly moves forward towards the crosswalk, and a distant traffic light changes from red to green.

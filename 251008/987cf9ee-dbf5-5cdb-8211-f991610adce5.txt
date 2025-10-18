@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame captures a sunlit street scene with a metal handrail and a prominent utility pole in the left foreground. Behind them, a colorful mosaic retaining wall supports a hillside with a house, while to the right, a street with a crosswalk extends into the distance past storefronts and houses under a clear blue sky.
+end of description
+As the frames progress, the viewpoint slowly shifts forward and slightly right, causing the foreground utility pole to appear to move right, progressively revealing more of the mosaic wall and the street ahead. Concurrently, a silver car, initially partially visible further down the street on the right, drives away from the viewer, becoming more prominent as it moves deeper into the scene.
+frame_0000000128-frame_0000000256:
+A wooden utility pole stands in the near foreground to the viewer's left, with an uphill asphalt road extending forward and right, featuring a white-striped crosswalk in the immediate foreground. To the left of the road, a colorful mosaic-decorated retaining wall supports a house with a deck nestled amidst greenery. A sidewalk runs parallel to the road on the right, featuring a tree and a white sign, while cars are visible further down the road to the right under a clear blue sky.
+end of description
+The viewpoint subtly recedes backward throughout the subsequent frames, causing all objects to appear slightly smaller. This movement progressively reveals more of the scene to the left, including a blue bin and a white vehicle situated behind and further left of the house.
+frame_0000000256-frame_0000000384:
+The first frame depicts an upward-sloping street with white crosswalk lines, bordered on the left by a colorful mosaic retaining wall leading to a two-story house nestled on a hill among trees, and on the right by a sidewalk with a utility pole and a white 'J' sign.
+end of description
+No dynamic changes or newly revealed objects occur across the subsequent frames; the scene remains static.

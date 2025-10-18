@@ -1,0 +1,22 @@
+frame_0000000000-frame_0000000128:
+In the first frame, a large storefront window displaying various items like saddles, boots, and statues is on the viewer's immediate left, illuminated by warm interior light. Above it, part of a building facade with "BALIOS BESPOKE & CO." signage is visible, featuring an illuminated entrance with steps further down to the right of the window. To the right of the building, a sidewalk extends into the distance, where two pedestrians are walking away from the viewer. Further right, a street with moving cars and bare trees under a vibrant sunset sky completes the scene.
+
+end of description
+
+The camera subtly moves forward and slightly to the right relative to the initial viewpoint. This shift brings the "BALIOS BESPOKE & CO." building and its illuminated entrance closer and more central in the frame. Concurrently, the two pedestrians on the sidewalk to the right continue to walk further away from the viewer into the distance, and vehicles in the far background on the right also progress down the street.
+frame_0000000128-frame_0000000256:
+The first frame presents a street view dominated by a building on the left with a prominent glass storefront revealing interior display items like hanging leather goods, a small statue, and boots. Centrally, the building features a main entrance with several steps and large glass doors, above which the name "BALIOS SADDLES & STYLE" is visible. To the right, a sidewalk extends into the distance where two pedestrians walk away, and other buildings with illuminated signs and bare trees stand against a twilight sky.
+end of description
+As the viewpoint progresses, the camera moves forward along the sidewalk, causing the leftmost storefront to appear narrower. A circular emblem, partially obscured initially, becomes fully visible on the building's facade to the left of the entrance, revealing "DB" and "SADDLES & STYLE" text. The entire building entrance shifts to the left relative to the advancing viewpoint, while the pedestrians on the distant sidewalk continue to recede further away from the first-frame position.
+frame_0000000256-frame_0000000384:
+A street scene shows a building entrance with three concrete steps leading up to large glass doors, which reveal a brightly lit store interior. To the left, a light-colored wall features a circular "BOSTON SADDLES & STYLE" logo, while to the right, a sidewalk extends past a display window and other buildings in the distance under a twilight sky, where pedestrians and bare trees are visible.
+end of description
+Throughout the subsequent frames, the central glass doors dynamically slide open to reveal more of the store's interior, then slowly begin to close. Concurrently, the circular logo on the left wall vanishes entirely from view. Subtle shifts in lighting enhance the warm glow of the store interior and alter the overall ambient sky tone as the scene progresses.
+frame_0000000384-frame_0000000512:
+From the viewer's perspective, steps lead up to a building entrance featuring illuminated glass doors on the left and dark double doors beside them. To the right, a large storefront window displays merchandise, and a sidewalk extends into the distance with pedestrians and other buildings visible on the far right.
+end of description
+The camera slowly pans right, causing the initial left entrance to exit the frame on the viewer's left. Simultaneously, more of the building's right facade and storefront window are revealed to the right of the original frame's center. Further objects, including a 'Lifestyle' sign above the dark doors and additional adjacent buildings with signs like 'MAXI' and a red cross, become fully visible and clearer as they emerge from the far right of the first-frame's view.
+frame_0000000512-frame_0000000640:
+The first frame presents a street scene with a dark paneled store door and steps on the left, adjacent to a brightly lit display window in the mid-ground showing two mannequins and equestrian-themed items. Further right, a paved sidewalk extends into the background, flanked by buildings adorned with signs like "MAXXI LIVING" and distant pedestrians.
+end of description
+Through subsequent frames, the camera smoothly pans to the right, gradually shifting the scene's focus from the initial door towards the display window and the street beyond. This movement increasingly reveals details of the store's interior and a circular logo on the facade with "BALFOUR SADDLERS & BRIDLE" text, while the leftmost door eventually moves out of view.

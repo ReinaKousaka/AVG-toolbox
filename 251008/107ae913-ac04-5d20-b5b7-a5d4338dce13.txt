@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a snow-covered railway track extending from the viewer's position into the distance, curving gently towards the right. Dense evergreen forest lines the left side of the tracks, while a mix of evergreens and bare deciduous trees borders the right, all under a partially cloudy blue sky.
+end of description
+As the frames progress, the viewpoint moves forward along the tracks, causing the snowy landscape and trees on both sides to recede towards the background and appear to move past the viewer, revealing more of the path ahead. The track continues its gentle curve to the right as the scene gradually unfolds before the viewer.

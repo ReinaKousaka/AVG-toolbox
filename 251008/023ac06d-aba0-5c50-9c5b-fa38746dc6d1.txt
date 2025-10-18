@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+In the first frame, a dark blue minivan is directly in front of the viewer, centered on a white crosswalk. To its left, a blue truck with a large container is positioned slightly ahead, partially obscuring buildings on the left, which include ground-floor shops and multi-story residences. Trees line both sides of the road, with more buildings visible beyond the foliage, and a blue car is further down the road to the right.
+end of description
+Throughout the subsequent frames, the minivan and the blue truck in front remain largely stationary, while the blue car further down the road on the right moves away. A blue bus gradually becomes visible in the distance, entering the scene from the right and moving towards the viewer. The overlay text also changes, revealing the street name "Shuguang 2nd Road" on the top left.

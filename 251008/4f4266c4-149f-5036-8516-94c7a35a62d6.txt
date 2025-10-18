@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a stone church building on the left, featuring a large arched window and a smaller window above a green grassy area. A stone path extends towards the background, bordered by green grass, small saplings, and gravestones on the right, with a large evergreen tree and additional foliage visible in the midground and background.
+end of description
+The viewer moves forward along the path, causing the church wall on the left to appear closer and revealing more of its length deeper into the scene from the initial viewpoint. Gravestones and stone markers, initially in the midground right, now appear closer as new ones become visible further along the path. The large evergreen tree on the right recedes slightly into the background as the perspective shifts forward.
+frame_0000000128-frame_0000000256:
+A stone church wall with a tall, ornate arched window dominates the left side of the first frame, accompanied by a stone tomb and small saplings on green grass. A grey pathway stretches from the foreground into the mid-ground, flanked by more grass, gravestones, and another stone tomb on the right, leading towards a distant garden archway and lush trees under an overcast sky.
+end of description
+The viewpoint steadily moves forward along the path, causing the church wall and the initial stone tomb on the left to recede and eventually move out of frame, revealing new gravestones closer to the church. Simultaneously, the large tomb on the right also exits the frame, as the distant garden scenery becomes progressively closer, showing the path continuing to curve ahead.
+frame_0000000256-frame_0000000384:
+The first frame depicts a stone church with tall arched windows on the viewer's left, a small leafy tree in front, and a tombstone nearby. A curved stone path leads into a grassy churchyard featuring multiple tombstones, a large rectangular tomb, and a 'WARNING' sign on the right. A stone wall borders the distant background, behind which dense green trees are visible under a cloudy sky.
+end of description
+The viewpoint moves forward along the path, causing the church wall on the left to recede further left, while the large tomb and warning sign on the right shift further right and slightly away. Concurrently, new sections of the path, several more tombstones, and green archways become visible further into the churchyard, moving from the mid-ground towards the foreground.

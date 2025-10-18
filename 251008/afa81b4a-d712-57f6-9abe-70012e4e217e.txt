@@ -1,0 +1,13 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a wet city street and sidewalk during rainfall. To the left, a dark asphalt road, reflecting faint lights from distant vehicles, extends away from the viewer, bordered by a black metal railing on the right. A paved sidewalk, also glistening with rain, is to the right of the railing, leading into the distance. Between the railing and the main sidewalk path, small trees are planted in strips of grass. On the far right, a modern building with large windows and a multi-tiered entrance with orange-brown steps is visible, flanked by green hedges. In the midground, a lone person holding an umbrella walks away from the viewer on the sidewalk. Distant buildings and trees line the street under an overcast sky.
+
+end of description
+In the subsequent frames, the person holding the umbrella on the sidewalk continues to walk further away from the viewer, receding into the distance along the right side of the street. The rain persists, evident by the continuously glistening wet surfaces of the road and sidewalk.
+frame_0000000128-frame_0000000256:
+The first frame shows the viewer on a wet, paved sidewalk with a black metal fence running parallel to the left, separating it from a rainy street where buildings line the far side. Along the sidewalk to the left, several trees are planted in ground openings, and further right, steps with yellow treads lead down from a building with large windows. A person holding an umbrella walks away from the viewer on the sidewalk, positioned between the trees and the right-side building.
+end of description
+In subsequent frames, the person with the umbrella continues walking away from the viewer, moving further into the distance along the sidewalk. The camera subtly moves forward and slightly pans right, revealing more of the sidewalk and the building with large windows to the viewer's immediate right, while the leftmost portion of the fence and street gradually move out of view.
+frame_0000000256-frame_0000000384:
+The first frame depicts a wet city street and sidewalk under rainy skies, with a black pole and railing in the left foreground. A paved sidewalk stretches into the distance, lined with young trees and a low green hedge on the right, alongside a modern building with large glass windows; a person with an umbrella walks away from the viewer on the sidewalk.
+end of description
+In subsequent frames, the person with the umbrella continues walking further away along the sidewalk. A black car with illuminated taillights appears from the mid-ground left and drives across the wet street towards the mid-ground right, creating splashes as it moves further into the distance.

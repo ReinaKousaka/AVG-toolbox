@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame displays an aerial panoramic view of Venice, featuring a sprawling cityscape dominated by buildings with reddish-brown tiled roofs. The S-shaped Grand Canal winds prominently through the urban fabric from the midground towards the upper-left, filled with numerous boats, while smaller canals intersect the dense architecture. A notable white-domed church is visible near the center-bottom, adjacent to a green patch of trees. In the background, the Venetian Lagoon extends with various small islands under a hazy sky.
+end of description
+The scene subtly zooms out and shifts rightward relative to the initial viewpoint. This gradual movement reveals more of the urban sprawl, particularly towards the bottom-right, bringing a new green-domed building into view on the right side of the frame. The overall perspective widens, further emphasizing the city's dense network of buildings and canals.

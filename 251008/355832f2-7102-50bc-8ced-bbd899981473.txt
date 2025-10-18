@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame displays an aerial view of a tropical coastline with a resort, replete with buildings, a swimming pool, and abundant palm trees, occupying the left side. A white sandy beach arcs from the left foreground into the center, bordering a clear turquoise ocean where a speed boat generates a wake moving towards the right, alongside other anchored vessels and swimmers.
+end of description
+Chronologically, the speed boat steadily advances further right and slightly away from the initial viewpoint in the turquoise water, leaving an elongated wake. Simultaneously, the shadows cast by the palm trees on the beach gradually lengthen and shift slightly rightward, implying the passage of time.
+frame_0000000128-frame_0000000256:
+The first frame displays an aerial view of a tropical beach featuring a sandy coastline from the foreground to the mid-left, lined with palm trees and a resort complex containing buildings and a turquoise pool on the far left. A white sandbar extends into the clear turquoise ocean towards the mid-right, where it meets a rocky islet, while the deeper blue sea beyond holds various boats, and a boat with a wake is visible in the bottom right.
+end of description
+Across the following frames, shadows from the palm trees on the beach and resort noticeably lengthen and shift towards the left, indicating the passage of time. Simultaneously, people on the sandbar and in the water exhibit minor movements, and the boat previously generating a wake in the bottom right corner moves progressively further right and out of the frame.
+frame_0000000256-frame_0000000384:
+The first frame presents an aerial view of a tropical resort on the left, featuring buildings and a large swimming pool amidst abundant palm trees, directly adjacent to a curving white sand beach. To the right of the beach, a clear turquoise ocean transitions to a deeper blue, with a rocky outcrop visible in the mid-right foreground.
+end of description
+The camera slowly zooms out and slightly pans upwards, revealing more of the resort grounds and the extensive coastline to the viewer's left. As the view expands, the rocky outcrop initially in the mid-right shifts further down and to the right, eventually exiting the frame from the bottom-right corner, while more of the distant ocean and horizon become visible towards the top.

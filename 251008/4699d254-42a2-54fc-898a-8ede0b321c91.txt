@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a narrow, wet alleyway at night, with a white building wall and a brown door on the left, and a black scooter partially visible in the bottom-left foreground. On the right, a darker wall leads into the distance, and streetlights illuminate the wet path ahead.
+end of description
+In subsequent frames, the viewpoint moves forward along the alley. The scooter gradually disappears to the left of its original position, while the white building wall on the left and a distinctive patterned traditional Korean wall on the right become increasingly clear and prominent as the camera advances through the rain-slicked path.
+frame_0000000128-frame_0000000256:
+A narrow, wet pathway extends into the distance, reflecting light from streetlights visible further along the path. To the immediate left, a white wall with a blue address sign (40-59) is seen, alongside an ornate black metal gate adorned with a small Christmas tree. Beyond the gate, a building with a large window displaying abstract artwork and several white vertical columns lines the left side, while a long, patterned stone wall stretches along the right, receding into the background under a dark sky.
+end of description
+The viewpoint steadily moves forward down the pathway. The ornate gate, Christmas tree, and the address sign recede and eventually move out of frame to the viewer's left. As the camera advances, more of the plain gray wall and the building's facade on the left side become visible. The streetlights in the distance gradually appear closer and more centralized within the scene, illuminating the wet ground. The patterned wall on the right remains consistently visible as the camera moves past it.
+frame_0000000256-frame_0000000384:
+The first frame depicts a narrow, wet alleyway at night, leading away from the viewer. On the left stands a light-colored building with steps and a dark bin, alongside a plain wall extending rearward, while a traditional patterned wall with dark tiles runs along the right. A distant streetlamp illuminates the glistening path, revealing faint foliage and a dark opening further down the curving alley.
+end of description
+As frames progress, the falling rain becomes significantly more visible, forming distinct bright arcs and streaks across the scene, particularly above the wet path. Additionally, a person wearing a yellow raincoat briefly appears from the distant opening, moving along the left side of the path near the streetlamp before disappearing into the deeper shadows.

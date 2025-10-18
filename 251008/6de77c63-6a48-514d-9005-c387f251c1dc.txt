@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a snow-covered path winding into a dense coniferous forest, flanked by a large, mossy, snow-draped rock on the immediate left and smaller snow-covered rocks and trees on the right.
+end of description
+The viewpoint steadily moves forward, causing the prominent rock on the left to gradually recede and move out of the frame to the viewer's left. This progression reveals more of the path directly ahead, leading deeper into the sunlit forest, with previously obscured sections of the snowy ground and additional trees becoming visible closer to the viewer.
+frame_0000000128-frame_0000000256:
+A snow-covered forest path extends directly forward, bordered by a large, snow-laden rock formation on the immediate left and a gentle, snow-covered incline on the right, leading towards numerous evergreen trees under a bright sky in the mid-ground and background.
+end of description
+As the viewpoint progresses forward and slightly right from the first frame, the large snow-covered rock on the left recedes and gradually moves out of frame to the viewer's left. More of the forest floor, adorned with shifting sunlit patches and shadows, becomes visible ahead, revealing additional snow-covered terrain and tree trunks deeper within the forest, particularly to the right of the initial path.

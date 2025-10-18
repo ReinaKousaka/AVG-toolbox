@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+A dark off-road vehicle is stationary on a dirt track in the lower center, facing away from the viewer on a vast, grassy hillside that slopes upwards towards a distant treeline and rocky cliffs on the left. Two lighter vehicles are parked on another dirt track further up the hill to the right, amidst rolling, tree-covered mountains under a clear blue sky.
+end of description
+The dark off-road vehicle then accelerates forward, away from the first-frame viewpoint, along the dirt path. It kicks up a substantial cloud of dust that trails behind it as it continues to move further away, slightly to the right of its initial position. The stationary vehicles on the upper right remain unchanged throughout the sequence.

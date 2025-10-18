@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a wet, brick-patterned sidewalk in the foreground, where a person holding a blue umbrella and black briefcase walks away to the viewer's left. A tree trunk anchors the midground right, separating the sidewalk from a rain-soaked road where a silver car splashes water while moving right, towards distant city buildings under a cloudy sky.
+end of description
+Throughout the subsequent frames, the individual with the blue umbrella continues walking left, eventually moving out of view. Simultaneously, a blue bus enters the scene from the left background, joining other cars and motorcycles that move across the wet road to the right, while a new pedestrian with a dark umbrella emerges from the left to cross the street.
+frame_0000000128-frame_0000000256:
+A tree trunk occupies the right foreground, while a yellow tactile path and crosswalk are visible on the left foreground and mid-ground. A person holding a black umbrella stands on the crosswalk, facing right, with cars moving on the wet, reflective street behind them, leading towards background buildings and traffic lights.
+end of description
+The person with the umbrella steadily advances from the mid-ground left across the crosswalk towards the mid-ground right, eventually exiting the frame. Concurrently, various vehicles, including a white car, a dark sedan, and a black SUV, enter from the mid-ground right and proceed left across the wet intersection, with the SUV notably generating significant water splashes as it traverses the mid-ground.
+frame_0000000256-frame_0000000384:
+A rainy urban street features a person with a black umbrella walking towards the viewer on the right, while a white car and a silver car proceed on the wet road ahead, bordered by a pedestrian crosswalk. To the left, a sidewalk with trees and a sign for the Seoul Museum of History leads to a distant street with a black truck, a blue bus, and tall buildings under a grey sky.
+end of description
+The person with the umbrella quickly moves out of frame to the bottom right. Subsequently, the white car and the silver car advance forward on the road, eventually exiting the frame to the right. Concurrently, the black truck and the blue bus further in the distance also move forward, continuing along the street.

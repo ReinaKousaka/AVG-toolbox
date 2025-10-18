@@ -1,0 +1,14 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a vibrant residential street scene under a clear blue sky. A prominent cherry blossom tree, heavily laden with pink flowers, stands on a grassy verge to the left of the viewer, with its branches extending into the upper left and center of the frame. To the immediate left of this tree, a paved sidewalk extends into the distance, bordered by a wooden fence partially obscured by green foliage. On the right side of the frame, a street features several parked cars: a silver minivan-like vehicle closest to the viewer, followed by a blue sedan and a dark blue hatchback, all positioned to the right of the large tree. Beyond the street and cars, houses with dark roofs and varying siding, nestled among other trees, line the residential area, with a streetlamp curving into the upper right.
+
+end of description
+
+No dynamic changes or newly revealed objects occur across the subsequent frames; the scene remains entirely static with no movement detected.
+frame_0000000128-frame_0000000256:
+The first frame displays a street scene with a large cherry blossom tree, densely covered in pink flowers, positioned centrally in front and slightly to the right of the viewer. To the left, a sidewalk recedes into the distance, flanked by green foliage and a wooden fence, while a street on the right features parked cars and houses with dark facades and red roofs under a clear blue sky.
+end of description
+Throughout the following frames, the viewpoint subtly shifts forward and slightly right, causing the foreground cherry blossom tree and the sidewalk on the left to gradually recede. Simultaneously, some parked cars on the street, especially the blue one on the far right, appear to move forward slightly relative to their initial positions in the first frame.
+frame_0000000256-frame_0000000384:
+The first frame displays a residential street on a sunny day, featuring a large cherry blossom tree with pink blooms dominating the right foreground, a paved sidewalk extending into the distance on the left alongside a wooden fence and green hedges, and several parked cars (red, silver, blue) lining the street on the right, with distant houses and more cherry trees visible under a clear blue sky in the background.
+end of description
+As the viewpoint moves forward along the sidewalk, the thick cherry blossom tree trunk on the right shifts out of the frame towards the right and behind the initial viewpoint, gradually revealing more of the street and parked cars that were previously obscured. Simultaneously, the sidewalk and wooden fence on the left move past the viewer and behind the original perspective, bringing the distant houses and cherry blossom trees closer into view as new parts of the street unfold ahead.

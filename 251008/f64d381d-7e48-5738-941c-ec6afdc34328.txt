@@ -1,0 +1,29 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a snowy residential street with a dark curb running horizontally in the foreground. To the left, a snow-covered verge leads to bare, snow-dusted trees, a low stone wall, and a large house in the midground. Utility poles and power lines extend upwards on the right, with several parked cars further down the road, all beneath an overcast sky.
+end of description
+Subsequent frames show no dynamic changes; the static winter street scene maintains its objects in the same spatial positions relative to the initial viewpoint, with no new elements appearing.
+frame_0000000128-frame_0000000256:
+The first frame depicts a snow-covered suburban street with a dark asphalt road in the foreground and a visible curb on the left. In the midground, a long stone wall fronts a large house partially obscured by snow-laden trees, while a white car is parked to the far right near a red-topped signpost.
+end of description
+Subsequently, a dark car emerges from behind the stationary white car on the right and proceeds to drive left, slowly traversing the snow-covered street, passing the signpost and the initial position of the white vehicle.
+frame_0000000256-frame_0000000384:
+The first frame presents a wide, snow-covered residential street scene under an overcast sky, with a large house partially visible behind a stone wall and hedges on the left, flanked by snow-dusted trees. A wet, slushy road occupies the foreground and right, with a utility pole and two parked cars visible further down the street to the right.
+end of description
+Throughout the subsequent frames, the scene remains largely static, with the most noticeable change being the continuous, gentle snowfall. The accumulation of fresh snow gradually increases, making the white covering on trees, ground, and surfaces appear slightly thicker over time.
+frame_0000000384-frame_0000000512:
+The first frame shows a snow-covered residential street scene. In the foreground, a dark street surface runs from the bottom right diagonally towards the middle left, bordered on its left by a snow-covered curb and grassy area. A red signpost with a small white sign stands prominently slightly right of center in the mid-foreground. Across the street, a low stone wall topped with a green hedge stretches horizontally, behind which a large light-colored house is visible on the left, nestled among numerous bare trees and some evergreens dusted with snow. Utility poles and lines crisscross against a light sky, with a dark SUV and a white car parked further down the street on the right.
+
+end of description
+
+As the frames progress, the viewpoint subtly shifts right, causing the red signpost to move further towards the right edge of the frame, eventually almost exiting view. The parked dark SUV and white car also shift slightly leftward within the frame relative to the initial position, appearing more centered. The overall snowy street scene with houses and trees remains consistent, indicating a minor panning motion to the right.
+frame_0000000512-frame_0000000640:
+The first frame presents a snow-covered street in the foreground with visible tire tracks, leading to a snowy grassy verge and a utility pole in the mid-ground. To the left, a large, light-colored house with a prominent roof is set back behind a low stone wall and a green hedge, while numerous snow-dusted bare trees and evergreen shrubs line the street, partially obscuring two parked cars further down on the right.
+end of description
+Across the subsequent frames, the scene remains entirely static, with no dynamic changes or newly revealed objects relative to the first-frame viewpoint.
+frame_0000000640-frame_0000000768:
+In the first frame, a snow-covered street extends from the foreground into the distance, with a partially cleared asphalt road at the bottom. To the left, a large white house with a mansard roof is visible behind a stone wall and a dense hedge, with a red and white "NO DUMPING" sign closer to the viewer near a utility pole. The right side features snow-dusted bare trees and evergreen bushes lining the road, with a dark SUV and a white car parked further down the street. end of description
+Across the subsequent frames, the scene remains entirely static; no dynamic changes occur, and no new objects or scenes are revealed relative to the initial viewpoint.
+frame_0000000768-frame_0000000896:
+The first frame presents a snow-covered street in the foreground with tire tracks, and a red and white 'NO DUMPING LEAVES' sign positioned on the left. Behind this, a snowy grassy verge leads to a stone wall, behind which a large, light-colored house with a snowy roof is visible in the background on the left. A prominent utility pole stands in the midground center-left, surrounded by snow-dusted bare trees and evergreens, while two cars are stationary on a snowy path to the mid-right.
+end of description
+There are no dynamic changes or newly revealed objects in the following frames; the entire scene remains static.

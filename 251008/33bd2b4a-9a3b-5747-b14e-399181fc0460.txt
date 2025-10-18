@@ -1,0 +1,14 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a narrow asphalt road gently curving to the right, with a two-story house featuring a brown tiled roof, solar panels, and a white lower facade to the left, and a dark station wagon parked in its driveway. To the right, a steep embankment is covered in dense green bushes and ivy, while the background reveals more houses, trees, and distant mountains beneath a cloudy sky.
+end of description
+As the viewpoint moves forward along the road, the initial house on the left gradually recedes further left, and the parked car slowly exits the frame to the left. Concurrently, the dense foliage on the right diminishes, revealing a new multi-story pink house with three white garage doors and a white balcony, positioned further along the road on the right, and a small red hydrant briefly appears on its sidewalk.
+frame_0000000128-frame_0000000256:
+The first frame displays a residential street winding gently uphill under a partly cloudy sky. A paved road occupies the center, with a house featuring a white base, brown upper facade, and a roof with solar panels prominent on the left, flanked by a garden bed. To the right, a white building with two garage doors and a balcony is visible, with another house and evergreen trees further up the incline. The road curves slightly left in the distance, where more trees and faint hills meet the horizon.
+
+end of description
+
+The subsequent frames show a forward movement along the road. The house and garden on the viewer's left gradually enlarge and approach the first-frame viewpoint, revealing more of their details. Simultaneously, the buildings on the right also become closer and slightly more distinct. A white car, initially visible further ahead on the left side of the road, grows larger and clearer as the viewer progresses towards it. The overall perspective shifts, causing the immediate foreground of the first frame to recede from view, while the distant landscape appears to draw nearer.
+frame_0000000256-frame_0000000384:
+The first frame displays a paved road stretching forward, bordered by houses and lush greenery under a partly cloudy sky. To the immediate left is a light-colored house with green plants, and further along, a white SUV is parked near another house. On the right, a white garage door is visible next to a large, dark brown house with red timber detailing, surrounded by extensive landscaping.
+end of description
+As the viewer advances along the road, the initial foreground structures on both sides move out of frame, bringing into clearer view the white SUV on the left and the dark brown house on the right, as a dark shadow dynamically traverses the road surface.

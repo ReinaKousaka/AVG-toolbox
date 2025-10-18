@@ -1,0 +1,10 @@
+frame_0000000000-frame_0000000128:
+The first frame captures a wet city street at night, illuminated by numerous shop signs. In the foreground, the street on the left features a white-striped crosswalk, while the sidewalk on the right includes yellow tactile paving and a dark green bush. A prominent dark tree trunk stands in the mid-left, and a black and yellow striped utility pole is centrally located on the right side of the frame. In the background, buildings with brightly lit neon signs line both sides of the street, and a scooter is parked near a building on the far left.
+end of description
+In subsequent frames, a person emerges from the mid-background, walking forward along the wet sidewalk to the right of the utility pole. They hold an open umbrella above them. This individual continues to advance towards the viewer, gradually getting closer and remaining on the sidewalk, positioned to the right of the utility pole.
+frame_0000000128-frame_0000000256:
+The first frame displays a rainy city street at night. In the foreground to the left, a dark utility pole with yellow and black stripes stands beside a tree, while a dark green bush occupies the far right foreground. A person holding a black umbrella, wearing a white shirt and dark pants, stands on the wet brick sidewalk in the mid-ground left. The wet sidewalk and street in the mid-ground reflect numerous bright lights originating from the brightly illuminated commercial storefronts in the background, which display Korean text on signs and posters.
+
+end of description
+
+The person with the umbrella, initially in the mid-ground left, begins to walk away from the viewer along the sidewalk. Their position progressively shifts further into the mid-ground and towards the background left, steadily moving away from the first-frame viewpoint as they continue down the wet street.

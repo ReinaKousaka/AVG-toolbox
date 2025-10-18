@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+Two train tracks curve into the distance from a low viewpoint, flanked by a steep, forested hillside on the left and a grassy slope on the right where a person with a backpack stands. Utility poles and wires parallel the tracks above, all under an overcast sky.
+end of description
+As the camera moves forward along the tracks, the person on the right walks further away from the viewer along the grassy slope, eventually exiting the frame to the right of their original position. The surrounding forested hillsides continually shift backward relative to the advancing viewpoint.
+frame_0000000128-frame_0000000256:
+The viewer is positioned looking forward down two parallel train tracks that recede into the distance under an overcast sky. To the left, a steep, heavily forested hillside rises, featuring a utility pole with yellow markings near the tracks. To the right, a wide grassy slope leads to a dense line of tall evergreen trees further back.
+end of description
+As the viewpoint travels forward along the tracks, the initial utility pole on the left moves progressively towards the far left and out of view relative to the first-frame's viewpoint. Following this, a subsequent utility pole, initially further down the track and ahead of the first-frame's viewpoint, becomes more prominent on the left. Throughout, new sections of the tracks and the surrounding forested landscape are continuously revealed directly ahead of the original perspective.
+frame_0000000256-frame_0000000384:
+The first frame displays train tracks with a central rack rail extending into the distance under an overcast sky. To the viewer's left, a steep, densely vegetated slope rises, while a flat grassy area bordered by tall trees is on the right. Utility poles with overhead wires and a distant red and white striped crossbuck sign are visible along the left side of the tracks.
+end of description
+The viewpoint steadily advances forward along the tracks, causing the immediate surroundings—including the vegetated slope to the left and the grassy field with trees to the right—to continually recede behind the viewer. New sections of track, the rising forested slope, and the adjacent grassy terrain are continuously revealed ahead. The red and white crossbuck sign, initially on the left in the mid-distance, approaches and passes to the left of the viewer, and a new red and white striped pole emerges further ahead on the right side of the tracks.

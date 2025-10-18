@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame captures a rainy city street at night, featuring a large grey utility box in the foreground right, a wet brick sidewalk extending leftward into the distance alongside illuminated buildings, and a street on the right with a silver car's bright headlights partially visible behind the box, utility poles, and distant red traffic lights.
+end of description
+As the frames progress, the silver car on the street moves forward and slightly left relative to the first-frame viewpoint, gradually revealing its full front and right side as it proceeds along the street, thereby clearing the view previously obstructed by the foreground utility box.

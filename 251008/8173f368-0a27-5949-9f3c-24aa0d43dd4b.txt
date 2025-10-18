@@ -1,0 +1,18 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a paved, winding road with a dashed white center line, stretching into a valley. To the viewer's immediate left, a steep bank covered in mostly bare trees and some evergreens rises, featuring a stone retaining wall at its base, while to the right, a gentle green grassy slope extends with a small dark wooden building and white marker posts. In the background, forested mountains frame the distant valley, with prominent snow-capped peaks visible furthest from the viewer under a bright blue sky with scattered clouds.
+end of description
+As the frames progress, the viewpoint moves forward along the road, causing the stone wall and the treed bank on the left to grow larger and shift past the viewer's initial position. Simultaneously, the grassy slope on the right, along with its white posts and the small dark building, also approaches and then recedes to the viewer's sides. The distant snow-capped mountains and the overall valley scene appear to move closer as the perspective advances into the landscape.
+frame_0000000128-frame_0000000256:
+In the first frame, a paved road with white dashed lines curves leftward through a valley, flanked by a steep, treed hillside on the left and a green grassy field with a distant wooden hut and white-and-red markers on the right, all set against a backdrop of snow-capped mountains under a blue sky.
+end of description
+As the frames progress, the viewpoint moves steadily forward along the road; the entire landscape ahead appears to recede towards the background while the white-and-red markers on the right foreground sequentially approach and pass the viewer, indicating continuous motion through the scene.
+frame_0000000256-frame_0000000384:
+The first frame depicts a winding asphalt road directly ahead, bordered on the left by a steep, forested hillside with mostly bare trees and on the right by a vibrant green grassy field containing a small wooden cabin, all set against a backdrop of distant snow-capped mountains under a blue sky.
+end of description
+As the frames progress, the viewer moves forward along the road. Red and white roadside markers on both sides sequentially approach and then pass the initial viewpoint, indicating forward motion. The wooded hillside to the left and the green field with the cabin to the right continuously reveal new sections as they are passed, while the distant mountains remain ahead.
+frame_0000000384-frame_0000000512:
+In the first frame, a paved road with dashed white lines extends from the viewer's foreground, curving gently right between a steep hillside on the left, covered in bare trees and dry leaves, and a bright green grassy field on the right, where a small wooden building and red-and-white marker poles are visible. Distant snow-capped mountains and darker forested peaks are visible under a blue, partly cloudy sky.
+
+end of description
+
+As the camera moves forward, the road appears to curve more distinctly to the right, causing the left hillside to shift from the mid-ground to the foreground, revealing more of its rugged details and sparse vegetation. The red and white marker poles on the right, initially ahead, pass the viewer from the front-right, with new poles emerging into view. The small wooden building in the green field on the right gradually recedes into the background, appearing smaller, while a rugged mountain face on the far right becomes more prominently visible.

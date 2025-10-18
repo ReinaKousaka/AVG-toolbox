@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame captures a wide paved path leading away from the viewer, paralleled on the left by a gravel path with a row of trees and benches, and a vast green field beyond. To the right, a multi-lane road features a dark grey sedan, with a large hotel building and a street light pole further right; distant mountains are visible to the far left under a clear sky.
+end of description
+In subsequent frames, the dark grey sedan on the right road moves forward, and a white van or bus appears behind it, further down the road. A person walking on the gravel path to the left also moves further away, while the scene subtly pans forward, revealing more of the distant mountains to the far left.
+frame_0000000128-frame_0000000256:
+The first frame depicts a tree-lined promenade extending into the distance from the viewer, featuring a gravel path and green field on the left leading to distant mountains, and a paved road with a multi-story building and traffic on the right; a person walks away from the viewer on the left gravel path, past a bench in the midground.
+end of description
+The person on the gravel path continues walking further away and slightly to the left from the viewer's original position. Vehicles, including a white bus initially visible on the far right road, move along the road, with the bus departing from the right side of the view. Subtle shifts in tree shadows on the paths and fluttering flags on the building to the right are also observed.
+frame_0000000256-frame_0000000384:
+In the first frame, a black park bench is visible in the foreground to the left. A person in a dark jacket stands to the right of the bench on a light gravel path. To the right of the gravel, a gray paved path extends into the distance, with dark tree shadows cast upon it. A row of green-leafed trees lines the left side, beyond which lies a wide green field extending towards distant snow-capped mountains. To the right of the paved path, a street is visible with vehicles, paralleled by a large multi-story building displaying flags.
+end of description
+The person initially standing to the left of the paved path begins walking left, moving progressively further away from the viewer and behind the trees lining the path. As the viewer's perspective advances forward, the person continues moving left until they exit the frame entirely. Simultaneously, the black park bench in the foreground and the nearest tree shift further left and out of view, indicating the camera is moving along the path.

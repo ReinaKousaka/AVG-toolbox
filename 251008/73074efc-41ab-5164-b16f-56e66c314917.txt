@@ -1,0 +1,13 @@
+frame_0000000000-frame_0000000128:
+In the first frame, a snow-covered landscape of Grindelwald Village is visible under a clear blue sky. A snowy path with faint tracks leads diagonally from the bottom-left towards the mid-right, with snow-laden bushes on its right side in the foreground. A large wooden chalet with light shutters stands prominently on the mid-right, extending towards the far right edge. Several other wooden chalets with snow-covered roofs are nestled further uphill and to the left, behind the prominent chalet. Snow-dusted mountains with dark green trees rise in the background beneath the bright blue sky.
+end of description
+The viewpoint subtly pans to the right. This movement progressively reveals more of the right side of the prominent wooden chalet, which was previously partially cropped at the first frame's right edge. Simultaneously, objects on the far left of the first frame, such as distant chalets and the far left of the snowy slope, recede slightly out of view. The overall scene, including the snowy path and other mid-ground chalets, remains consistent but is now observed from this slightly shifted rightward perspective relative to the initial viewpoint.
+frame_0000000128-frame_0000000256:
+The first frame showcases a snow-covered village with a large wooden chalet in the mid-right foreground, its roof laden with snow and windows adorned with open wooden shutters. A snowy path curves from the bottom-left, leading up a gentle slope past smaller evergreen shrubs, towards several more traditional chalets receding into the background on the left, all beneath a clear blue sky and a tree-covered mountain.
+
+end of description
+The scene then slowly pans to the right, progressively revealing a decorative wooden balcony on the far right side of the foreground chalet, which was previously outside the initial frame. Simultaneously, a denser, taller evergreen bush, located further to the right of the chalet's initial visible extent, becomes more fully visible as it moves into the frame from the far right.
+frame_0000000256-frame_0000000384:
+In the first frame, a large wooden chalet-style house occupies the midground right, featuring snow-dusted roofs, wooden shutters, and a right-side balcony, set against a clear blue sky. Snow blankets the ground, revealing small bushes and a path in the foreground, with another wooden house visible on a snowy slope in the background left.
+end of description
+Subsequent frames show a slow camera pan to the right, progressively revealing more of the main chalet's right side. Concurrently, a snow-covered mountain peak emerges in the far background to the right of the house, while the background house on the left recedes further out of view to the left.

@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a brownstone building with a front stoop and staircase heavily decorated for Halloween with white draped fabric resembling cobwebs, intertwined with green foliage and some pink flowers. A black metal fence runs across the foreground, while a window box with pink flowers is visible on the far left. An orange, pumpkin-like decoration rests amidst the foliage on the staircase, and a white, ghost-like figure is partially obscured behind the railing to the right of the stoop's center. To the right, a sidewalk extends with sunlit patches and shadows, leading to more brownstones and a green scaffolding structure further down the street, with parked cars on the far right and autumn trees in the background.
+end of description
+The camera slowly pans to the right and subtly zooms in, shifting the viewpoint. This movement gradually reveals more of the white, sheet-like ghost figure standing on the brownstone's staircase, positioned more prominently to the right of the main cluster of foliage and the orange decoration. The shift also brings the parked cars on the far right slightly closer and more clearly into view relative to the initial perspective.
+frame_0000000128-frame_0000000256:
+In the foreground to the left, lush green bushes and a black metal fence are visible. To the center and midground, a brownstone building with steps and an ornate black railing, adorned with white cobweb-like material, an orange decoration, and a white ghost figure, is prominently featured amidst vibrant greenery and flowers. Further to the right, more brownstone buildings line the sunlit street, leading to scaffolding and distant trees in the background.
+end of description
+Beginning around frame 4, a prominent sun flare emerges in the upper right portion of the scene, intensifying and subtly shifting across that area in subsequent frames before slightly fading by the final frame.
+frame_0000000256-frame_0000000384:
+The first frame displays a brick townhouse featuring a decorated staircase with an ornate black railing, adorned with white Halloween spiderwebs and draped fabric. Green plants and pink flowers are visible in planters along the stairs, with a white ghost figure positioned to the right of the stairs and an orange-headed decoration near the top left. A sunny street and an adjacent building are seen to the right.
+end of description
+Across the subsequent frames, a dynamic lens flare appears on the right side of the scene, subtly shifting its position and varying in intensity.

@@ -1,0 +1,11 @@
+frame_0000000000-frame_0000000128:
+The first frame presents an expansive aerial view of a city under a clear blue sky. In the foreground, dense green trees partially obscure buildings with various red-tiled roofs, nestled on a hillside. Dominating the midground, a grand white basilica with multiple spires and domes sits atop the central hill, surrounded by numerous urban structures. Further into the background on the right, the city sprawls extensively, while to the far left, distant hills are visible.
+end of description
+The camera executes a slow, subtle pan to the right and a slight zoom out, incrementally revealing more of the urban scene and foliage on the lower left. This movement causes buildings previously partially obscured by the frame's edge, notably a white building with a red roof and a cross on its spire, to become more fully visible and shift towards the lower-left foreground relative to the original viewpoint.
+frame_0000000128-frame_0000000256:
+The first frame displays a distant cityscape, centered by a prominent white basilica with multiple spires atop a hill. Below it, numerous buildings with red-tiled roofs are visible, interspersed with green trees, extending towards the viewer in the foreground and a broader urban sprawl on the right.
+end of description
+Subsequent frames show a very subtle, gradual zoom-out, revealing marginally more of the immediate foreground buildings and trees at the bottom of the frame, alongside a slightly wider expanse of the distant city on both sides, without significant object additions.
+frame_0000000256-frame_0000000384:
+The first frame displays a panoramic city view, with a prominent white basilica featuring multiple spires positioned centrally atop a hill in the mid-ground, surrounded by dense clusters of red-roofed buildings and green trees. In the foreground, more urban structures and foliage are visible, while a sprawling city extends into the distant background on the right under a clear blue sky. end of description
+Subsequently, the viewpoint slowly pans downwards and slightly to the left, gradually revealing additional buildings and trees in the lower-left foreground that were previously just below and to the left of the initial frame. This camera movement causes the central basilica and the distant city to subtly shift upwards and to the right within the frame.

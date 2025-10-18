@@ -1,0 +1,31 @@
+frame_0000000000-frame_0000000128:
+The first frame captures a low-angle night scene on a city road, showing a dark minivan parked to the viewer's immediate left, and a vibrant go-kart with teal underglow and yellow elements positioned centrally ahead, followed by a white car, all against a backdrop of illuminated multi-story buildings and streetlights.
+end of description
+Subsequently, a prominent white arrow gradually emerges on the asphalt road directly in front of the viewer, extending forward and pointing towards the go-kart as the frames progress.
+frame_0000000128-frame_0000000256:
+The first frame shows a low-angle street view at a busy city intersection at night, with a prominent white arrow in the foreground pointing towards a go-kart-like vehicle with glowing lights positioned at a crosswalk ahead. Tall, illuminated buildings line the streets on both the left and right, with various cars, including a black one close on the far left, stopped at traffic lights in the midground.
+
+end of description
+As the viewpoint moves forward into the intersection, the foreground arrow disappears and the viewer begins to cross the white-striped pedestrian crosswalk. The go-kart and other vehicles previously ahead advance through the intersection, moving further ahead and slightly to the right, revealing more of the street beyond the initial stopping point.
+frame_0000000256-frame_0000000384:
+The initial frame captures a night street scene from the perspective of a pedestrian crosswalk, featuring a bright yellow go-kart with glowing underlights directly ahead of the viewer, flanked by a silver-white car to its left and a dark car to its right beginning a turn, all against a backdrop of multi-story city buildings.
+end of description
+Over the following frames, all vehicles, including the go-kart, the silver-white car on the left, and another dark car behind it, progressively advance forward, away from the first-frame viewpoint. Concurrently, the dark car on the right completes its turn and moves further away, revealing a person on a scooter behind it who then also moves forward and out of frame to the far right.
+frame_0000000384-frame_0000000512:
+The first frame depicts a night scene on a city street, with the viewer positioned low to the ground in a lane of traffic. Immediately to the viewer's left, a white car with its rear facing the viewer is stopped, its left turn signal illuminating green underglow. Directly ahead, a yellow open-wheel go-kart with bright green underglow and red tail lights is also stopped in the same lane. Further down the road, behind the go-kart, additional cars with red tail lights are visible, with tall, illuminated city buildings and streetlights lining both sides of the street in the midground and background. Traffic lights, some green and some red, are visible overhead and further down the road.
+end of description
+In subsequent frames, the white car to the viewer's left slowly begins to move forward and slightly to the left, revealing more of its side and its illuminating green underglow. Concurrently, the go-kart directly ahead also subtly shifts its position slightly to the left relative to the viewer, maintaining its green underglow and red brake lights. The rest of the cityscape, including the distant buildings and other vehicles, largely remains stationary throughout the sequence.
+frame_0000000512-frame_0000000640:
+In the first frame, a white car, likely a Toyota Prius, is positioned to the viewer's immediate left, its rear quarter panel visible. Ahead in the mid-ground, a vibrant yellow go-kart with neon green underglow leads a line of vehicles, including a white van (possibly Uber), all facing away from the viewer on a dark city street. Buildings line both sides of the street, illuminated by numerous windows, streetlights, and green traffic signals in the background.
+
+end of description
+
+The white car on the left moves forward and slightly right, progressively revealing more of the street and the white Uber van behind it. The entire procession of vehicles, including the yellow go-kart, advances forward relative to the stationary viewpoint, causing the background city scene to appear closer and expand slightly.
+frame_0000000640-frame_0000000768:
+The first frame depicts a nighttime street scene with a white Uber van in the immediate left foreground, followed by a silver car and a white truck in the same lane, while a bright yellow go-kart with blue lights is centered further ahead on a crosswalk, with city buildings and green traffic lights visible in the distant background.
+end of description
+The Uber van then moves forward and out of the frame to the viewer's left. Subsequently, the silver car, initially behind the van from the first-frame viewpoint, becomes fully visible and also advances forward. A green and yellow taxi, previously obscured behind the silver car, is then revealed to the left and proceeds forward, as the yellow go-kart ahead slowly moves across the crosswalk.
+frame_0000000768-frame_0000000896:
+In the first frame, the viewer is on a dark city street at night. To the immediate left, a green and yellow taxi is parked, partially visible, followed by a large white truck further ahead on the left lane. Directly in front of the viewer, in the center lane, is a small, brightly lit vehicle with yellow and green lights. The street ahead features white lane markings, and a crosswalk is visible to the right. In the background, illuminated city buildings and streetlights line both sides of the road.
+end of description
+As the frames progress, the large white truck on the left begins to move forward and passes the first-frame viewpoint. The green and yellow taxi, initially to the immediate left, moves out of frame to the left, or the viewer moves past it. Road markings, specifically an arrow pointing left and later the number "30", become clearly visible on the pavement directly beneath and in front of the viewer's current position. The small, brightly lit vehicle in the center maintains its position relative to the viewer, indicating synchronized forward movement.

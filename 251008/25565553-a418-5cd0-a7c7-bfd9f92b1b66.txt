@@ -1,0 +1,28 @@
+frame_0000000000-frame_0000000128:
+From the viewpoint beside a red train carriage on the left, railway tracks run alongside a steep grassy mountain slope descending into a valley. In the mid-ground, rugged, dark mountains with rocky peaks rise, beyond which a turquoise lake and distant snow-capped mountains are visible under a clear blue sky.
+end of description
+The subsequent frames show no dynamic changes or newly revealed objects; the entire scene remains static from the initial viewpoint.
+frame_0000000128-frame_0000000256:
+A red train car occupies the left foreground, running along a track next to a concrete barrier. To the right, a vast, sunlit, grassy mountain slope descends into a valley, revealing rocky peaks and a turquoise lake in the mid-distance. In the far background, snow-capped mountains stretch across the horizon under a clear blue sky.
+end of description
+No dynamic changes occur, nor are any new objects or scenes revealed in the subsequent frames, as they are identical to the first.
+frame_0000000256-frame_0000000384:
+A red train carriage is visible on the left, running alongside a track on a steep, grassy mountain slope that descends towards the right, revealing a valley with dark, rugged peaks, a turquoise lake, and distant snow-capped mountains under a clear blue sky.
+end of description
+The train slowly moves forward, causing the panoramic mountain scenery and distant lake to gradually shift across the frame from right to left. This movement subtly alters the perspective, revealing more of the vast valley and majestic peaks previously just beyond the immediate view ahead.
+frame_0000000384-frame_0000000512:
+On the left, a red train car occupies the foreground next to a gravel track. To the right, a vast mountainous landscape descends, featuring green grassy slopes, rugged dark peaks, and a turquoise lake nestled in a valley towards the distant right, all beneath snow-capped mountains on the far horizon and a clear blue sky.
+end of description
+The train advances, causing the distant snow-capped mountains and the turquoise lake to recede further into the background on the right. Simultaneously, the midground grassy slopes and rugged peaks continuously shift leftwards, revealing new valley sections as the foreground red train car subtly adjusts its visible profile, indicating forward movement along the track.
+frame_0000000512-frame_0000000640:
+A red train car is visible on the left foreground, running on a gravel track that extends into the mid-distance. To the right, a grassy mountain slope descends towards a valley with prominent rocky peaks and a bright blue lake in the far background. A range of snow-capped mountains stretches across the horizon under a clear blue sky.
+end of description
+No dynamic changes or newly revealed objects occur in the subsequent frames; the entire scene remains static from the first-frame viewpoint.
+frame_0000000640-frame_0000000768:
+The first frame features the red side of a train car on the left, with a gravel track immediately to its right. Beyond this, a steep grassy mountainside descends into a valley where rugged peaks rise, and a turquoise lake shimmers. Majestic snow-capped mountains stretch across the distant horizon under a clear blue sky.
+end of description
+As the train proceeds forward, the foreground track and adjacent hillside continuously recede from the first-frame viewpoint. This dynamic movement reveals an ongoing panorama of the expansive valley and the progressively visible distant mountain ranges and lake, continuously unfolding the scene ahead.
+frame_0000000768-frame_0000000896:
+The first frame displays a breathtaking mountain panorama viewed from a train. In the foreground to the left, a vibrant red train car with multiple windows and a yellow interior is partially visible, extending towards the viewer. A narrow, stony track runs alongside the train into the mid-ground, where it is flanked by a steep, grassy mountain slope interspersed with patches of dry grass. In the background, majestic dark mountains rise, revealing a bright blue lake nestled within their peaks to the right, all beneath a clear blue sky with distant snow-capped mountains on the horizon.
+end of description
+The subsequent frames show no discernible dynamic changes; the scene remains static with the same objects and spatial positions relative to the first-frame viewpoint, and no new objects or scenes are revealed.

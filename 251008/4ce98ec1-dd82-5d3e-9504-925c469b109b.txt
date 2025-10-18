@@ -1,0 +1,32 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a paved pathway stretching from the foreground into the background, bordered on the left by a wall covered in dense green foliage and on the right by a river. A woman in a grey top is visible walking away from the viewer on this path, while numerous green trees line both sides, and a stone arch bridge spans the river in the far background.
+
+end of description
+
+The woman continues walking away from the viewer along the path, joined by a man in a blue cap now visible walking behind her. Both individuals proceed further into the midground/background relative to the first-frame viewpoint, eventually pausing by the river's railings and turning their attention towards the water.
+frame_0000000128-frame_0000000256:
+The first frame showcases a paved walkway stretching into the distance, bordered by a vine-covered building on the left and a river on the right, all beneath a canopy of lush trees. Two people stand near the river's edge on the right side of the path, observing the water next to a dark sign, with a stone arch bridge spanning the river further in the background.
+end of description
+Through successive frames, the viewpoint subtly advances forward along the walkway, incrementally revealing more of the path and the building's facade to the left. The two individuals remain stationary in their positions relative to the first-frame viewpoint as the camera passes them, and the background bridge appears progressively closer.
+frame_0000000256-frame_0000000384:
+A paved pathway runs from the bottom center into the distance, bordered by lush greenery and a stone-faced building with windows to the viewer's left. To the right of the pathway, a man in a blue cap and a woman in a gray top stand beside a dark post, looking down at a river that flows into the distance where an arch bridge is visible. Trees with verdant canopies line both sides of the path and river, and outdoor seating with green umbrellas is seen further down the path on the left.
+end of description
+In subsequent frames, the woman, positioned to the immediate right of the pathway, leans forward and reaches her right hand into the river's surface, which is located directly to the right of the viewer's initial position. The man behind her shifts his posture slightly while observing. Meanwhile, people visible further down the pathway in the midground continue to walk away from the viewer.
+frame_0000000384-frame_0000000512:
+The first frame presents a canal-side walkway lined with trees and buildings. To the left, a light-colored building with windows and an arched opening rises, with a large tree trunk in the immediate foreground adorned with a green light fixture. An outdoor dining area with green umbrellas and tables is situated further back on the left, beside a large potted plant. A paved path extends centrally into the distance, bordered by trees and lush green foliage, leading towards a stone arch bridge over the canal. On the right, a couple stands beside the calm canal water, with the man in a blue cap slightly behind and to the left of the woman, both looking down. Across the canal, more buildings and greenery are visible in the mid-to-background.
+end of description
+The woman initially on the right of the first-frame viewpoint moves further right and exits the frame. The man, also on the right, walks forward along the path away from the viewer, eventually moving past the first-frame viewpoint to the right. The path ahead and the distant bridge remain consistent as the immediate foreground clears.
+frame_0000000512-frame_0000000640:
+The first frame shows a scenic outdoor walkway, featuring a patterned paved path extending from the foreground into the distance, flanked by lush green foliage and numerous trees with prominent trunks. To the left, a building with arched doorways hosts an outdoor dining area with tables, chairs, and green umbrellas, partially obscured by a large potted plant on a low stone wall in the immediate foreground. To the right, a tranquil river or canal flows parallel to the path, bordered by more foliage and a stone wall, with a dark bollard near the viewer. In the background, a stone arch bridge spans the river, and buildings with reddish facades are visible on the far bank. Two figures walk away from the viewer on the path towards the bridge.
+
+end of description
+
+The viewpoint steadily moves forward along the path. The two figures walking ahead continue to recede into the distance, becoming smaller relative to the first-frame viewpoint. Objects initially in the foreground, like the potted plant on the left and the bollard on the right, progressively move towards the sides of the frame and out of view as the camera advances. More of the restaurant seating area to the left and the river path to the right become visible, revealing previously unseen sections of the environment ahead of the first-frame viewpoint.
+frame_0000000640-frame_0000000768:
+The first frame presents a patterned waterside path with a building and an outdoor dining area on the left, featuring dark tables and green umbrellas. To the right, a river flows, separated from the path by greenery and tall trees, while an arched bridge spans the water in the midground, beyond two people walking on the path.
+end of description
+As the camera moves forward along the path, the two individuals progress further into the distance. Simultaneously, the outdoor dining area on the left and the river on the right recede, and the arched bridge in the midground gradually approaches the original viewpoint, growing larger within the frame.
+frame_0000000768-frame_0000000896:
+The first frame presents a tree-lined riverwalk with a paved path extending into the midground, where a couple walks away from the viewer. To the left is a building with outdoor seating under green umbrellas, while to the right, a narrow river flows towards a stone arch bridge in the background, bordered by lush bushes and another building.
+end of description
+In the following frames, the couple on the path moves progressively further away from the first-frame viewpoint, steadily approaching the distant arch bridge.

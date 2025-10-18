@@ -1,0 +1,10 @@
+frame_0000000000-frame_0000000128:
+A grassy hill with a narrow dirt path running up its center dominates the scene, leading to a rocky summit directly ahead. A large dark rock is positioned to the left of the path in the mid-ground, while a white sheep stands on the upper right slope, moving right, and a smaller sheep is near the summit on the left.
+end of description
+The prominent white sheep on the upper right slope steadily moves further right, eventually exiting the frame from that side. Simultaneously, the smaller sheep on the upper left slowly descends and shifts further left on the hill relative to its initial position. Concurrently, a new dark rock appears on the lower left side of the hill, closer to the viewer and below the initial large rock.
+frame_0000000128-frame_0000000256:
+The first frame presents a grassy hill ascending towards a rocky peak at the top center, with a narrow dirt path leading up from the foreground. The hill, covered in brown and green grass, has a small white sheep on its upper left slope, to the left of the path, while a rock is visible near the bottom left corner under a bright blue sky with sun glare. end of description. Subsequently, the white sheep walks across the upper slope from left to right, traversing the path and moving further towards the right side of the hill's incline from the viewer's fixed perspective.
+frame_0000000256-frame_0000000384:
+A grassy hill, covered in a mix of green and dry brown grass, ascends directly from the viewer towards a rocky peak at the top center. A narrow dirt path cuts through the grass, leading up the middle of the hill towards the summit. On the upper left slope of the hill, a light-colored animal, possibly a sheep, is visible, with a few bare branches also present slightly below it. The upper third of the frame reveals a clear blue sky with a bright sun glare in the upper left corner.
+end of description
+Subsequent frames display no dynamic changes; the animal remains stationary on the hill, and all other elements like the path, grass, rocky peak, and sky stay in their initial spatial positions relative to the viewer, with no new objects or scenes revealed.

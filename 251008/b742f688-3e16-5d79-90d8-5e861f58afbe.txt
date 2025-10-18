@@ -1,0 +1,14 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a high-angle view of a light brown river cascading over grey rocks from the bottom-left towards the upper-left, bordered by a dense forest on the left. To the right, a green, rocky hillside features a winding asphalt road with a stationary blue car towards the upper-right, and a low stone wall horizontally bisects the midground. Distant hills and an overcast sky complete the background.
+end of description
+Throughout the subsequent frames, the water in the river continues its turbulent flow over the rocks towards the upper-left of the original viewpoint, marking the only dynamic change as all other objects remain static.
+frame_0000000128-frame_0000000256:
+In the first frame, a murky river flows over grey rock formations along the left side, extending from the foreground towards the mid-ground. A dense line of dark green conifer trees borders the river on the left mid-ground, opposite a winding paved road on the right mid-ground. A natural stone wall runs diagonally across the left foreground, while grassy, rocky terrain occupies the right side, sloping upwards into the background beneath an overcast sky. The text "ENJOY RELAXATION" is superimposed in the top left corner.
+
+end of description
+
+The viewpoint steadily moves forward and slightly downward, revealing more of the winding river and the road's path further into the background, ahead of the initial position. The turbulent, light brown water continuously flows over the rocky riverbed from the mid-ground towards the viewer. As the camera advances, previously unseen segments of the river and road become visible, while the stone wall in the left foreground gradually moves out of view below the frame. A subtle rightward horizontal drift of the viewpoint relative to the initial position also shifts the overall perspective of the landscape.
+frame_0000000256-frame_0000000384:
+From an elevated perspective, a turbulent, rocky river flows across the left side of the frame, bordered by a dense conifer forest in the left background. To the right and foreground, a winding asphalt road, flanked by grassy, rocky hills that extend into the right background, parallels the river beneath an overcast sky.
+end of description
+The camera smoothly pans to the right across the subsequent frames. This dynamic movement causes the dense forest and the initial part of the river on the far left to gradually recede from view. Simultaneously, more of the winding road, the distant green hills, and additional scattered rocks on the right side of the landscape are progressively revealed, shifting them towards the center of the frame relative to the initial viewpoint.

@@ -1,0 +1,10 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a rugged coastal scene under a clear blue sky. A deep blue sea occupies the left, meeting a grassy cliff where crumbling dark stone ruins, resembling a castle, stand in the mid-ground. A narrow dirt path stretches from the foreground, slightly right of center, towards the ruins, flanked by vibrant green grass and a rustic wooden fence on the right.
+end of description
+There are no dynamic changes or newly revealed objects or scenes in the subsequent frames; all images are identical.
+frame_0000000128-frame_0000000256:
+Frame one displays a coastal landscape featuring a deep blue ocean spanning the left half, meeting a bright sky with sparse clouds at the horizon. On the grassy cliff edge in the mid-ground, slightly right of center, stand the dilapidated stone ruins of a castle. A narrow dirt path, lined by tall green-yellow grass and a wire fence, leads from the foreground towards the ruins. end of description. Starting in frame four, two small, dark birds emerge in the sky to the left of the ruins, progressively flying rightwards across the upper mid-ground, eventually passing over the ruins towards the right edge of the scene.
+frame_0000000256-frame_0000000384:
+The first frame reveals a clear blue sky with scattered white clouds overhead, with a dark blue ocean occupying the left mid-ground and background. In the foreground, tall golden-brown grass fills the left, contrasting with shorter green grass on the right, which features a dirt path leading towards ancient stone ruins perched on the cliff edge ahead, with a wire fence running along the right side of the path.
+end of description
+Subsequent frames show no dynamic changes or newly revealed objects; the scene remains static.

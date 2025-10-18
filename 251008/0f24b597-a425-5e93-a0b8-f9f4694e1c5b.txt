@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a street view from a corner, with a person carrying bags walking rightward across a crosswalk in the foreground. A blue car is parked on cobblestones to the right, while the street ahead is lined with buildings, trees, and other pedestrians on the left sidewalk, leading to a modern glass building in the background.
+end of description
+Throughout subsequent frames, the individual on the crosswalk steadily moves further right, away from the initial position. Concurrently, other pedestrians on the far left sidewalk also advance, and a black SUV in the mid-ground subtly moves forward on the street, all within the established first-frame viewpoint.

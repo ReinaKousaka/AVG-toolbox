@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame captures a rainy night street, with wet pavement vividly reflecting neon and streetlights extending into the distance. Buildings with illuminated storefronts and bus stop shelters line both sides, alongside a metal railing and a white object lying on the left sidewalk, while bare trees stand prominently in the mid-ground.
+end of description
+Throughout subsequent frames, the camera moves slightly forward amidst continuous heavy rain. Most notably, the white object on the left sidewalk dynamically shifts from lying on its side to standing upright by frame four, revealing itself to be a white scooter propped against a dark box, maintaining this vertical position relative to its initial location. The overall urban environment and reflections persist with minor shifts in visible rain intensity.
+frame_0000000128-frame_0000000256:
+The first frame depicts a wet, nighttime city street lined with buildings; to the left foreground is a metal barrier and a white object on the sidewalk, with a bus stop and brightly lit structures further back, while the right features stores, all under the reflection of streetlights and distant green traffic signals.
+end of description
+A person is then revealed lying on the wet sidewalk to the left, near the white object, from the first-frame viewpoint. This person subsequently sits up against a dark rectangular structure positioned to their right, still within the left mid-ground area. They then stand up, mostly obscured by the structure, before walking away towards the far left of the frame, moving past and behind the bus stop shelter from the viewer's perspective. The white object remains on the ground to the left throughout these actions.

@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a dense, verdant forest with a dirt path winding from the bottom center into the distant mid-ground. Numerous tree ferns with large, radiating fronds occupy the foreground and mid-ground, flanking the path on both the left and right, while taller tree trunks rise in the background behind them. The forest floor is thickly covered with fallen branches, leaf litter, and moss-covered debris.
+end of description
+In subsequent frames, the camera subtly pulls back, slightly expanding the visible area of the forest path and immediate foreground, and also shifts very slightly to the right, without revealing any entirely new objects or scenes beyond the initial view.

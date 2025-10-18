@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a wet street scene at night, with a prominent tree trunk bearing a red ribbon in the foreground right, beside a rain-slicked crosswalk. To the right, a wet sidewalk extends towards an outdoor seating area with a visible umbrella, while a multi-lane road stretches into the distance, reflecting red traffic lights and various streetlights, flanked by buildings and trees.
+end of description
+A yellow delivery motorcycle emerges from the far right of the road in the second frame, moving left across the midground. It steadily progresses past the central crosswalk in subsequent frames. In the sixth frame, a blue van appears from the far right lane, behind the motorcycle. Both vehicles continue moving leftward, away from the viewer's original position down the street.
+frame_0000000128-frame_0000000256:
+The first frame displays a rainy night scene on a city street, with a wet crosswalk spanning the foreground and a sidewalk to the right featuring a red traffic light, a tree, a large white umbrella, and trash bags near a utility pole. A blue van is visible in the midground, driving away from the viewer on the reflective, rain-slicked road, which is illuminated by numerous streetlights and distant vehicle lights under a dark sky.
+end of description
+Throughout the subsequent frames, the blue van steadily progresses further down the wet road, gradually moving away from the viewer and shifting towards the center-left of the scene. The heavy rain continuously falls, creating visible streaks and constantly refreshing the reflective surfaces of the street. Subtle movements of distant vehicle lights approaching the viewer are also discernible, indicating ongoing traffic.

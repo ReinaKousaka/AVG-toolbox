@@ -1,0 +1,29 @@
+frame_0000000000-frame_0000000128:
+The initial frame shows a paved road extending centrally into the distance under a clear blue sky, flanked by a white guardrail and green mountainside with a black sign and houses on the left, and a paved area with a large multi-story house on the right. The prominent house on the right features balconies above a white building containing multiple garage doors.
+
+end of description
+
+As the viewpoint progresses forward along the road, the black sign and houses on the left, along with the large building and garage structure on the right, move out of frame to their respective sides. This continuous forward motion reveals more of the winding road ahead, a rising stone retaining wall and stairs on the right, and additional distant houses nestled into the green mountainside.
+frame_0000000128-frame_0000000256:
+The first frame shows a paved road stretching into the distance, bordered on the left by a white guardrail and dense green trees, and on the right by a sidewalk, a stone retaining wall with stairs, and a multi-story building. Beyond these, a village of traditional houses nestles against a backdrop of steep, tree-covered mountains under a clear blue sky with contrails.
+end of description
+As the viewpoint progresses forward along the road, the initial right-side building and left-side trees recede past the viewer. A white SUV, previously further ahead on the right, moves closer into the foreground, followed by a gray trash bin appearing beside it. Simultaneously, a person on a bicycle emerges on the left side of the road, approaching the viewer's original position.
+frame_0000000256-frame_0000000384:
+The first frame displays a paved road stretching into the distance under a bright blue sky, with a partial white car visible at the bottom right. To the left, a metal guardrail runs alongside lush green trees, and a cyclist is positioned further down the road. On the right, a street lamp stands before a parked silver sedan, with several traditional houses nestled against a green hillside beyond. A large forested mountain dominates the background.
+end of description
+As the viewpoint moves forward, the foreground white car, the street lamp, and then the cyclist exit the frame to the right and left, respectively. The silver sedan on the right is replaced by a grey parked car and a yellow construction bin as more of the right-side houses and the ascending road ahead are progressively revealed.
+frame_0000000384-frame_0000000512:
+The initial frame presents a paved road stretching forward under a clear blue sky, flanked by dense green trees and a wooded mountain on the left. To the right, a dark grey car is parked before a multi-story building, with other structures and a grassy hill receding into the midground.
+end of description
+As the viewpoint progresses along the road, the parked car and the front building on the right recede, revealing a prominent white sign displaying "Keramikstube Postausstellung" to the right of the road. The receding movement further unveils more of the traditional buildings and the expansive grassy slope on the right, while the tree line on the left passes by.
+frame_0000000512-frame_0000000640:
+The first frame presents a view looking down a paved road into a mountain village on a sunny day. To the immediate right, a brown multi-story building with a white ground floor and red flower boxes stands beside an elevated sidewalk and stone retaining wall, with a large white signboard partially visible further right. On the left, lush green trees partially obscure a building, while the background features forested mountains and green hills under a clear blue sky with a faint contrail.
+end of description
+As the viewpoint progresses forward along the road, the large brown building and signboard on the right gradually shift leftwards and out of the frame, revealing a black car parked in front of the building. Yellow pedestrian crossing stripes become visible in the foreground on the road, extending further towards the viewer's current position. A blue pedestrian crossing sign on the right side of the road and a street lamp also move into a more central right position as the scene advances.
+frame_0000000640-frame_0000000768:
+The first frame displays a paved road curving slightly into the distance, flanked by buildings on both sides, with a prominent traditional wooden house featuring flower boxes situated on an elevated stone retaining wall to the right, while other houses are visible further left and ahead, all set against a backdrop of lush green forested mountains under a blue sky. end of description
+As the viewer moves forward along the road, the initial wooden house on the right recedes and moves out of frame to the right, making the stone retaining wall and its wooden railing along the right roadside more prominent and closer. Simultaneously, the houses on the left also recede into the distance, and a small paved driveway behind the retaining wall on the right becomes visible. Further down the road, a red tractor gradually appears on the left side.
+frame_0000000768-frame_0000000896:
+A two-lane road extends towards forested mountains under a blue sky with contrails. To the left, a metal barrier precedes a small brown house and a red tractor, with green grassy slopes and distant peaks. On the right, a large stone wall with a railing stands in the immediate foreground, leading to a rising grassy bank and a chalet-style house with a curving driveway.
+end of description
+As the viewer moves forward, the immediate foreground objects like the stone wall, railing, and a streetlight on the right, along with the red tractor on the left, progressively move past and out of view behind the first-frame viewpoint. Simultaneously, the large chalet on the right approaches, revealing red shutters and flags, while the smaller house on the left also comes closer from ahead, as the road continues straight.

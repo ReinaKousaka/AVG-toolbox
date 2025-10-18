@@ -1,0 +1,16 @@
+frame_0000000000-frame_0000000128:
+From the viewer's perspective, a wet paved area extends into a street on the left, flanked by a green hedge and trees to the right. Beyond the street and hedge, buildings, a red brick wall, and more trees are visible, with several parked vehicles partially obscured on the right side, all under continuous rainfall.
+end of description
+Subsequently, a white delivery scooter with a brown box emerges from the left and proceeds rightward across the street in the middle ground, in front of the brick wall. Following this, a white car drives along the same street, moving left to right past where the scooter had been. Finally, another white car is revealed on the far left of the street, paused at the side.
+frame_0000000128-frame_0000000256:
+The first frame depicts a rainy urban street scene from a slightly elevated viewpoint. In the foreground, a wet paved path with two square grey bollards runs from the bottom left towards the center, bordered by a green hedge on the bottom right. The midground features a wet asphalt road with a double yellow line, where a white taxi is parked on the left, behind which a person stands holding a black umbrella. Behind them is a red brick wall, and further back, a light-colored multi-story building with several evergreen trees, one distinctly slanted on the right, rising above it. The background reveals more buildings under an overcast sky, with visible rain streaks falling across the entire view.
+
+end of description
+
+The rain continues to fall consistently, with visible streaks across the entire scene. The foliage of the evergreen trees, particularly those in the upper left and upper right, sways gently, indicating light wind activity. Both the white taxi parked on the left side of the road and the person holding the black umbrella remain stationary. Subtle ripples and splashes are visible on the wet surfaces of the road and paved path, caused by the continuous rainfall. No new objects or scenes are introduced; the frame maintains a static viewpoint.
+frame_0000000256-frame_0000000384:
+In the first frame, the viewer looks down onto a wet, dark asphalt street with a yellow double line and a white crosswalk marking in the mid-ground. Behind the street to the left, a white car is parked, and a person holding a black umbrella stands nearby. A red brick wall extends horizontally across the mid-right, separating the street from a large building with a light-colored facade and a tall tree directly behind it. To the far left, multi-story grey buildings are visible, while green bushes are in the immediate foreground to the right.
+
+end of description
+
+Throughout the following frames, the scene remains constant relative to the fixed viewpoint, with no newly revealed objects or scenes. The primary dynamic change observed is the fluctuating intensity of rainfall across the mid-ground street and background elements. Heavy rain streaks become more prominent across the street and in the air in frames 4, 5, and 7, indicating a temporary increase in downpour.

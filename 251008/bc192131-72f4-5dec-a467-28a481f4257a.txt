@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame captures a dark, wet urban street at night, extending forward into the distance. The immediate foreground is a glistening, rain-soaked paved street, reflecting blurred lights from structures on both sides. To the viewer's left, a sidewalk with a dark metal railing borders buildings, one featuring a red awning and illuminated storefronts. To the right, more storefronts with glass windows and a utility unit line another sidewalk. Various illuminated signs adorn the buildings on both sides as the street recedes, with faint figures visible in the far background under the dark night sky.
+end of description
+The following frames show the identical static scene, with the sole dynamic element being continuous rainfall. Small, distinct ripples and splashes constantly appear and dissipate across the wet street surface as raindrops hit, subtly altering the reflections of the streetlights. This persistent precipitation emphasizes the steady downpour without any changes in objects or camera viewpoint.
+frame_0000000128-frame_0000000256:
+The first frame presents a wet, dimly lit city street at night, receding into the distance, flanked by buildings with various illuminated signs in Korean on both sides, and a "Rain Everyday" watermark at the bottom left. The street surface reflects the bright lights, including a prominent red cross sign high up and centrally located in the far distance.
+end of description
+Subsequent frames show subtle shifts in the wet street's reflections, indicative of ongoing light rain or slight camera movement. A lone pedestrian slowly moves further away from the viewer on the left side of the street, while another indistinct figure appears subtly on the right, also moving away into the distance.
+frame_0000000256-frame_0000000384:
+The first frame depicts a wet, dark city street at night, with the road reflecting ambient lights and extending into the background. Buildings with illuminated shopfronts line both sides: a light-colored building with a red "새라 미용실" sign is prominent on the left, while the right features various commercial signs, decorative string lights, and an apple logo above several shop entrances. In the distant background, a glowing red cross is visible atop a building slightly left of the street's center.
+end of description
+No dynamic changes or newly revealed objects are observed in the subsequent frames; all images appear identical from the initial viewpoint.

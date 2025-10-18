@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+In the first frame, a partial view of a brown and orange vehicle is on the immediate left, with its taillight visible, partially obscuring a white 'no stopping' sign and two black-and-white chevron signs indicating a left curve, next to snow-covered ground. Ahead, a two-lane road curves to the right, with a silver guardrail along its right edge, and a dark grey SUV is visible in the oncoming lane around the curve. To the left, a dense forest of tall, mostly bare trees and some evergreens lines the road, while snow-capped mountains rise majestically in the background under a partly cloudy sky.
+end of description
+As the scene progresses, the brown and orange vehicle on the viewer's left moves out of frame, revealing the full extent of the road signs. The dark grey SUV in the oncoming lane approaches the viewer from the right, then passes by and moves to the left side of the frame. Subsequently, a new white SUV appears in the oncoming lane from the right, following the path of the previous vehicle.
+frame_0000000128-frame_0000000256:
+The first frame shows a mountain road with a white SUV approaching in the mid-foreground, left of center. A metal guardrail runs along the left road edge, while snow covers the right embankment; a forest of tall, bare trees fills the midground, and snow-capped mountains rise in the background under a bright sun.
+end of description
+The white SUV passes the viewer from the front-left and exits the frame to the viewer's left. The perspective then moves forward along the winding road, revealing more of the continuous guardrail, snow banks, and the overarching landscape of trees and distant snow-covered mountains that were previously ahead of the viewer.
+frame_0000000256-frame_0000000384:
+The first frame shows a two-lane road curving slightly left, with a metal guardrail on the left and snow banks lining both sides. Bare trees stand prominently on the left, while evergreen trees and distant snow-capped mountains are visible in the background beneath a bright sun; a partially obscured road sign is on the right.
+end of description
+As the viewpoint moves forward along the road, the road sign on the right becomes progressively clearer and larger, revealing "SILVAPLANA" as it approaches the viewer. Various roadside elements, like a yellow marker on the pavement and a yellow pole on the far left, emerge from the distance, enlarge, and then move out of frame, illustrating continuous forward travel through the snowy, forested mountain landscape.

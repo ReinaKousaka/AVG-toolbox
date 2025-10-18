@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a large, white building with a brown roof and numerous windows featuring green and grey shutters, occupying the right and center of the view. In front, a grey stone fountain sits center-left, a light blue car is parked on the far right, and scaffolding covered in white netting is visible on the far left. A street curves left into the background where other parked cars are discernible under an overcast sky.
+end of description
+In subsequent frames, the light blue car on the far right slowly drives away, exiting the frame to the right. Concurrently, a person appears walking into view from the far left background, moving along the street towards the left foreground.
+frame_0000000128-frame_0000000256:
+In the first frame, a large white building with a brown roof and numerous windows with green and grey shutters dominates the right and center, featuring decorative painted patterns around its openings. A grey stone fountain with two basins sits on cobblestones in the mid-ground, slightly left of center, while a street curves away to the left, where scaffolding and distant buildings are visible, along with a person walking away from the viewer.
+end of description
+Initially, a red and white car reflection or object was visible next to the bench on the far right. This object disappears by the second frame, and a blue bicycle is newly revealed on the ground to the right of the wooden bench by the third frame. Concurrently, a person on the street to the far left steadily walks further away from the viewer. They continue to move out of sight to the left of the frame by the later frames, while the bicycle remains visible in its new position.

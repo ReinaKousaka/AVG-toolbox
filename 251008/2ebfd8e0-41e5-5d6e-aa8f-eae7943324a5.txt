@@ -1,0 +1,30 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a paved road extending from the foreground into the midground, gently curving to the left, flanked by numerous tall trees and scattered rocks along its edges. A particularly large tree trunk stands prominently on the far left, while the bright sky is visible through the dense tree canopy in the upper center.
+end of description
+As the scene progresses, the viewpoint moves forward along the road, causing the immediate trees and rocks to recede relative to the viewer. A wooden sign structure emerges more clearly to the left of the road in the mid-distance, as the forest path ahead becomes more revealed.
+frame_0000000128-frame_0000000256:
+In the first frame, a paved road stretches from the viewer's immediate foreground into the mid-ground, flanked by numerous tall, slender trees with mostly bare or sparse foliage, forming an arborway. A wooden sign structure stands to the left of the road in the mid-ground, while sunlight dapples the road and forest floor, with a bright sky visible through the canopy overhead.
+end of description
+As the frames progress, the viewpoint moves forward along the road; the road recedes beneath the viewer while the trees on both sides progressively approach and then pass by the viewer's left and right. The wooden sign, initially in the mid-ground, draws closer and shifts towards the viewer's left as the scene advances. The overall forest environment unfolds, revealing more of the path ahead and the dense tree line on either side.
+frame_0000000256-frame_0000000384:
+The first frame shows a paved road extending into the distance, flanked by dense tall evergreen trees on both sides, with sunlight dappling through the canopy. To the left of the road, a brown wooden signpost with two signs stands amidst the trees.
+end of description
+The scene progresses as if the viewer is moving forward along the road. The trees and signpost on the left move from being ahead and slightly to the left, getting closer, then passing to the viewer's left and eventually moving slightly behind the initial viewpoint. Similarly, the trees on the right also move closer and then pass, revealing more of the road ahead and the deeper forest.
+frame_0000000384-frame_0000000512:
+The first frame presents a paved road extending into the distance, subtly curving right, flanked by dense pine and deciduous trees. On the far left of the road, a brown wooden signpost with multiple rectangular panels stands, and a small red-orange marker is visible at its base. Sunlight filters through the canopy, casting elongated shadows across the road.
+
+end of description
+
+As the sequence progresses, the viewpoint moves forward along the road. The signpost and the red-orange marker on the left gradually move out of the frame, disappearing to the left of the first-frame viewpoint. The surrounding trees on both sides continuously shift past the viewer, revealing new portions of the forested path further ahead as the scene advances.
+frame_0000000512-frame_0000000640:
+A paved road stretches forward from the viewer, bordered by dense forest with tall evergreen and some bare deciduous trees on both sides, and leads towards a distant, bright, vertical feature slightly right of the road's vanishing point.
+end of description
+The viewpoint smoothly advances along the road, causing the trees and rocky terrain flanking both sides to recede past the viewer. Concurrently, the distant bright feature ahead becomes progressively more distinct as it is approached, while always remaining in the forward view.
+frame_0000000640-frame_0000000768:
+The first frame presents a paved road extending forward into the distance, flanked by dense forests of tall evergreen and some bare deciduous trees. Large rocks are visible along the road's edges, particularly in the lower right, with a distant mountain cliff partially seen in the background under a bright sky.
+end of description
+The camera continuously moves forward along the road; objects initially in the foreground like trees and rocks recede towards and then past the viewer's original position. Concurrently, new segments of the road and the surrounding dense forest perpetually emerge from the vanishing point, advancing towards the initial viewpoint. The distant mountain cliff in the background gradually appears closer and larger as the journey proceeds.
+frame_0000000768-frame_0000000896:
+A paved road recedes into the distance, lined by dense evergreen trees on both sides. A prominent, light-colored cliff face is visible directly ahead in the far distance, framed by the trees, under a partially clear sky. A large tree stands close to the viewer on the far left, and dry foliage with rocks covers the ground along the road's edges.
+end of description
+The camera then moves slightly forward, and subtly pans upward and to the left from the initial viewpoint. This movement causes the large left foreground tree to progressively exit the bottom-left of the frame, while the distant cliff and road ahead slowly appear closer.

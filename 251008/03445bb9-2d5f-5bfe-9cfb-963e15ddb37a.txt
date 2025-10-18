@@ -1,0 +1,30 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a picturesque view of a brick castle or large building situated on the right side, featuring a prominent round tower with a conical roof in the mid-ground. A wide moat with dark water and a manicured green hedge runs along the base of the building, closer to the viewer. To the left, a light-colored path extends from the foreground into the distance, bordered by green grass and lush trees. In the background, a line of distant trees and hedges marks the far end of a park, under a bright blue sky with scattered white clouds.
+end of description
+The subsequent frames show no discernible dynamic changes or newly revealed objects. The viewpoint remains entirely static, and the visual content of the scene appears identical across all frames.
+frame_0000000128-frame_0000000256:
+A paved path extends from the foreground to the mid-ground, flanked by a grassy area and tall trees on the left. To the right, a manicured green hedge runs parallel to the path, bordering a moat that reflects a red brick castle with a prominent round turret and numerous windows, all under a blue sky with scattered clouds.
+end of description
+The subsequent frames show no dynamic changes or newly revealed objects; the scene remains static from the first-frame viewpoint throughout the sequence.
+frame_0000000256-frame_0000000384:
+A light-colored path extends from the foreground into the distance, flanked on the left by green grass and tall trees, and on the right by a low hedge, beyond which a moat runs alongside a prominent reddish-brick castle featuring a dark conical tower. The background reveals more trees under a blue sky with scattered white clouds.
+end of description
+As the frames progress, the viewpoint slowly moves forward along the path. The path, the castle on the right, and the trees on the left appear to shift closer relative to the viewer's original position, revealing more of the scene as the camera advances. No entirely new objects or scenes are introduced; rather, the existing environment unfolds from a progressively forward perspective.
+frame_0000000384-frame_0000000512:
+A paved path extends from the bottom center towards the distance. To the path's left, a wide grassy area leads to tall, dense trees. To the right, a narrower strip of grass borders a green hedge, beyond which a dark moat reflects a large, red-brick castle with a rounded tower and conical roof. The castle occupies the far right of the frame, showcasing several windows. In the background, beyond the path and moat, more green trees and manicured gardens are visible under a blue sky with scattered white clouds. The word "SCENES" is in the bottom left.
+
+end of description
+
+No dynamic changes or newly revealed objects or scenes occur in the subsequent frames, as the viewpoint remains static throughout.
+frame_0000000512-frame_0000000640:
+In the first frame, a dirt path extends from the bottom center into the middle distance. To the left of the path, lush green grass borders a dense canopy of tall trees forming a forest edge. On the right, a low, manicured green hedge runs parallel to the path, separating it from a moat of water which abuts a large, red-brick castle structure featuring a prominent round tower with a dark conical roof, positioned to the right of the viewer. Beyond the moat and hedge, further down the path to the center-right, lies a formal garden with neatly arranged bushes, while the background is filled with more green trees under a bright blue sky with scattered white clouds.
+end of description
+All subsequent frames appear identical to the first frame, showing no dynamic changes in the scene or any newly revealed objects or scenes from the first-frame viewpoint.
+frame_0000000640-frame_0000000768:
+A paved path stretches from the bottom center towards the middle distance, bordered by lush green grass on both sides. To the right, a red brick castle tower with a dark conical roof stands partially within a moat, which is lined by a trimmed hedge and extends alongside the path, revealing manicured gardens and trees beyond it, while dense green trees line the path on the left, leading towards a distant bridge under a bright blue sky scattered with white clouds.
+end of description
+Subsequently, white clouds slowly drift across the blue sky above the scene. Concurrently, the viewpoint subtly recedes or widens, causing all visible objects like the castle tower to the right and the trees to the left to appear marginally smaller and further away relative to their initial positions.
+frame_0000000768-frame_0000000896:
+In the first frame, a wide dirt path stretches from the bottom center into the middle distance. Lush green grass borders both sides of the path, with a dense forest featuring tall trees on the left. To the right, a large, round brick tower with two windows and a dark conical roof is visible, partially obscured by a moat or canal that runs parallel to the path and a neatly trimmed green hedge. Beyond the moat in the mid-ground, a formal garden with manicured hedges and more trees can be seen, with a dark bridge spanning the water further down the path. The sky above is bright blue with scattered white clouds.
+end of description
+There are no dynamic changes, newly revealed objects, or scene alterations in the subsequent frames; the video appears to be a static image.

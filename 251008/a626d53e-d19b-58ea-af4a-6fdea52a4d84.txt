@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a city street scene from a sidewalk viewpoint, with a multi-lane road on the left containing cars and a street pole with banners, while the right sidewalk features a bus stop shelter and a person walking away from the viewer, all framed by tall buildings under a partly cloudy sky.
+end of description
+Subsequently, the viewer's perspective slowly advances forward along the street; the person on the right sidewalk continues walking away, growing smaller, and the white sedan on the left road drives forward, progressively moving out of the frame towards the front-left relative to the initial viewpoint.

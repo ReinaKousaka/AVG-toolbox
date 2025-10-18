@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame captures a wide street scene in an urban area. To the left, a modern building with a large "Nike Jordan" logo features an illuminated purple billboard displaying "WELCOME TO THE ATRIUM." In the midground, a large digital screen shows a person with an orange shirt and bicycle, while a tall, dark skyscraper rises in the background. On the right, a row of bare trees adorned with string lights leads to a traditional-style building with an "Omega" sign, and a person in a black shirt stands near the right edge. The foreground consists of a grey paved pedestrian area with a yellow line along its left edge.
+end of description
+As the viewpoint subtly moves forward, the person on the far right walks away from the viewer, largely disappearing by frame 5. Concurrently, a new person in a white top enters from the far right foreground, moving towards the background. More pedestrians appear on the left sidewalk, moving from the midground towards the viewer, while the yellow line on the left and pavement details become more prominent as the camera advances.
+frame_0000000128-frame_0000000256:
+The first frame presents a wide pedestrian street in a city, with a large building featuring Nike and Jordan logos on the left and various people walking. In the mid-ground, to the right of the pedestrian path, are white booth-like structures surrounded by green foliage, while tall buildings and digital billboards line the background.
+end of description
+As the frames progress, a large, green, cartoonish crocodile-like character on a stand is gradually revealed and becomes fully visible in the mid-ground, positioned immediately to the right of the white booth-like structures.

@@ -1,0 +1,28 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a forward view from a train along two parallel tracks, flanked by a steep rocky cliff to the right and a fenced bank leading to an industrial area on the left. Overhead electrical lines extend forward, while snow-capped mountains dominate the far-left horizon under a blue, cloudy sky.
+end of description
+As the train moves forward, the tracks, rocky cliff, left-side bank, and industrial buildings progressively shift from the foreground towards and then past the viewer, effectively moving behind the initial frame's perspective. The overhead lines and poles also advance, passing directly over the viewer, while the distant mountains remain ahead, slowly growing larger.
+frame_0000000128-frame_0000000256:
+The first frame displays two parallel train tracks extending into the distance, flanked by a steep rock face on the right and a fence bordering a valley with buildings on the left. Snow-capped mountains dominate the far background beneath a partially cloudy blue sky, with overhead power lines visible above the tracks.
+end of description
+As the viewpoint dynamically progresses forward along the tracks, the foreground gravel and ties move beneath, while the rock face on the right and the valley scene with its utility poles and wires on the left continuously pass by from the initial viewpoint, suggesting movement through the landscape.
+frame_0000000256-frame_0000000384:
+From a forward-facing perspective, two parallel train tracks recede into the distance, flanked on the left by a chain-link fence, a distant urban area, and snow-capped mountains, and on the right by a steep, rocky cliff with bare trees. Overhead, power lines and poles crisscross a bright blue sky dotted with scattered white clouds.
+end of description
+As the viewpoint moves forward along the leftmost track, the foreground track bed and fence pass beneath and to the immediate left, while new sections of the rocky cliff face appear ahead and then recede past the immediate right. Overhead power poles and lines continually emerge from the vanishing point, passing directly above the viewer. The distant urban landscape and snow-capped mountains on the far left gradually shift in perspective relative to the advancing viewpoint.
+frame_0000000384-frame_0000000512:
+The first frame shows the viewer situated above three parallel train tracks extending forward, curving gently rightward under a blue, cloudy sky. To the left, a fence parallels the tracks, beyond which a river, industrial buildings, a town, and distant snow-capped mountains are visible. To the right, a rocky, sparsely treed embankment rises alongside the tracks, and overhead catenary lines span across.
+end of description
+As the frames progress, the viewpoint moves forward along the tracks, causing the tracks, the fence to the left, and the embankment to the right to dynamically move from the distant background *towards* and *past* the initial viewer position. Overhead catenary poles emerge from the top-center and left, passing by the first-frame viewpoint, revealing more of the scene ahead.
+frame_0000000512-frame_0000000640:
+A railway track extends into the distance, flanked by a rocky hillside on the right and a fence alongside a waterway and distant buildings on the left. Snow-capped mountains rise in the far background under a blue, cloudy sky, with an overhead gantry and signals visible further along the track.
+end of description
+The viewpoint steadily moves forward along the railway tracks. The overhead gantry with its green and red signals progressively approaches and then passes directly over the viewer. As the viewer advances, the rocky hillside on the right and the fence and waterway on the left continuously recede behind. New sections of the track become visible, including yellow markers appearing on the ballast.
+frame_0000000640-frame_0000000768:
+Two sets of railway tracks extend directly ahead into the distance, flanked by a steep rocky mountain face on the immediate right. To the left, a valley unfolds with a river, additional railway tracks, buildings, and distant snow-capped mountains under a blue, cloudy sky. Directly overhead, two metal structures holding red and green signal lights span the tracks.
+end of description
+As the viewpoint moves forward along the tracks, the initial overhead signal structures progressively shift out of view overhead and to the sides. Simultaneously, new catenary poles and wires steadily emerge into view above and to the sides. The valley landscape on the left and the rocky mountain face on the right recede, gradually revealing more of the track's curving path ahead and bringing a distant tunnel entrance into clearer focus.
+frame_0000000768-frame_0000000896:
+From a train's viewpoint, two sets of tracks recede into the distance, curving slightly left, bordered on the right by a towering rocky cliff and on the left by a descending valley featuring a river, a town, and snow-capped mountains under a cloudy blue sky, with overhead power lines visible directly above.
+end of description
+As the viewpoint advances, the tracks, adjacent cliff, and overhead lines move beneath and past the viewer, while the valley on the left continuously reveals new sections of the river and distant town, and a tunnel entrance on the right side of the tracks becomes increasingly prominent ahead.

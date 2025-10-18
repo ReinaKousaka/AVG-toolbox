@@ -1,0 +1,6 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a night-time street intersection in an urban area. In the foreground, white crosswalk lines are painted on the dark asphalt street. To the left, a leafy green tree stands next to a black trash bin and a traffic light pole with a red and yellow signal. Dominating the mid-ground is a brightly lit corner store, "Yard Gourmet Deli," featuring large display windows. A white NYPD van is parked on the street to the right of the deli, with other cars visible further down the street behind it. A person in dark clothing stands near the deli's entrance, next to an orange cone, while tall buildings line the background on both sides.
+
+end of description
+
+The traffic light above the deli transitions from red to yellow. The person initially standing near the deli entrance moves forward, placing another orange cone on the sidewalk closer to the street. Subsequently, the passenger-side door of the white NYPD van, positioned to the right of the person, opens. The person then walks towards the open van door.

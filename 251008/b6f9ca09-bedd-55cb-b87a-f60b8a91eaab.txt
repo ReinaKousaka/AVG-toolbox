@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a brightly lit, wide indoor hallway with a reflective floor; a long advertisement wall featuring "DISCOVER THE WHISKY" and a deer logo is on the left, a "TORY BURCH" storefront on the right, and an arched wooden ceiling above, while several people walk away from the viewer down the corridor.
+end of description
+As the scene progresses, people continue walking away from the viewer, with new individuals entering the frame from behind the viewer and moving forward. The storefront on the right changes from "TORY BURCH" to reveal "RALPH LAUREN" further down, and the advertisement on the left wall, initially showing "DISCOVER THE WHISKY", expands to prominently feature a deer logo and "Glenfiddich" text as the viewpoint moves forward through the hallway.
+frame_0000000128-frame_0000000256:
+The first frame depicts a brightly lit, wide airport concourse with a reflective floor featuring a blue light strip on the left. A large red "Glenfiddich Perpetual Collection" banner with a deer logo lines the left wall, opposite luxury stores like "Polo Ralph Lauren" on the right. Several individuals, including a woman with a backpack and a man beside her, walk away from the viewer in the mid-ground.
+end of description
+Over the subsequent frames, the people in the mid-ground, including the woman with the backpack and the man, continue walking away, moving further into the distance relative to the first-frame viewpoint. This movement gradually reveals more of the Glenfiddich banner on the left, showing bottles, and exposes more of the "COACH" store and other distant figures to the right as the foreground clears.
+frame_0000000256-frame_0000000384:
+The first frame presents a brightly lit airport concourse with a reflective floor and an arched, wooden-slatted ceiling. A long Glenfiddich advertisement runs along the left wall, while luxury stores like Polo Ralph Lauren and Coach line the right, as several pedestrians walk away from and towards the viewer in the middle distance.
+end of description
+In subsequent frames, the woman pushing the luggage cart moves from the right foreground, passing directly to the viewer's right and then receding behind them. Simultaneously, the woman with the backpack and the man ahead of her progressively move further away from the viewer down the concourse. A new person, previously partially obscured behind the luggage cart woman, becomes fully visible walking towards and then past the viewer's right side.

@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a wet, dark asphalt road at night, reflecting bright white, red, and blue lights from streetlights and distant vehicles. To the left, a row of green trees, a streetlight, and a bus stop are visible, while on the right, a sidewalk and a striped banner appear. Buildings with illuminated windows can be seen in the background, under a dark sky.
+end of description
+Light rain visibly falls throughout the frames, creating subtle ripples and splashes on the glistening road. A white car with bright headlights appears in the mid-distance in the central lane around frame 7, moving towards the viewer. Its powerful headlights create prominent, elongated reflections on the wet surface, intensifying as the vehicle approaches in subsequent frames.
+frame_0000000128-frame_0000000256:
+The first frame captures a wet city street at night, reflecting vibrant streetlights and vehicle headlights, with a white car in the mid-left foreground and a partial white tarp visible on the far right. Trees, a bus stop, and distant illuminated buildings line both sides of the road under a dark sky.
+end of description
+Subsequently, the white car proceeds along the wet road, moving left and receding into the distance past the bus stop before exiting the frame entirely. During this movement, a faint, blurred streak briefly appears in the upper-mid section of the scene, possibly a camera artifact or rain on the lens, then dissipates.
+frame_0000000256-frame_0000000384:
+The first frame displays a wet, rainy city street at night, viewed from an elevated perspective, possibly through a window with visible watermarks. A wide, dark asphalt road, brightly reflecting streetlights and distant vehicle lights, extends from the foreground into the background. To the left, a bus stop shelter with people, a row of green trees, and buildings with illuminated windows are visible, while a darker sidewalk and more trees line the road on the right. The sky is dark and overcast.
+end of description
+Throughout the frames, raindrops continuously fall, causing reflections on the wet road surface to shimmer and create ripples. A single orange traffic cone briefly appears on the road in the mid-ground, slightly left of the center lane, in frame three before vanishing in subsequent frames. The overall scene maintains its rainy consistency, with subtle fluctuations in the visible light reflections.

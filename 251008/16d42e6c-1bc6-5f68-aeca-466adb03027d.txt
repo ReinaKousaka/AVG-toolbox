@@ -1,0 +1,24 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a paved road winding through a green mountain valley under a clear blue sky, with two motorcycles and their riders moving away from the viewer down the road. Steep, tree-covered slopes rise on both sides, with a small wooden hut and fence posts visible on the left slope, and a distant mountain peak in the center background.
+end of description
+The leading light-colored motorcycle quickly moves out of frame to the right, followed by the darker motorcycle moving further down the road. A new, dark blue motorcycle then enters from the right mid-ground, drives past the foreground, and parks on the left shoulder before the rider dismounts. Finally, this motorcycle and its rider exit the frame to the left, leaving the road empty.
+frame_0000000128-frame_0000000256:
+A paved road stretches into the distance, flanked by grassy slopes on both sides. To the viewer's immediate left, a small wooden hut sits on a green hillside, partially obscured by a wire fence; a dense, tree-covered mountain rises further back. On the right, a similar grassy slope and fence give way to a steep mountain entirely covered in coniferous trees, while a distant, partially forested mountain peak is visible straight ahead under a clear blue sky.
+end of description
+The viewer moves forward along the paved road, causing the initial wooden hut to recede to the far left and behind the viewer's original position. As the scene progresses, a small green tent becomes visible to the left of the road, previously hidden, appearing slightly ahead and to the left of the viewpoint. The road gently curves left, and the background mountains appear closer.
+frame_0000000256-frame_0000000384:
+The first frame depicts a narrow paved road receding into a valley, bordered by grassy slopes with wire fences and dense evergreen forests on the left and right mountain sides, a small green tent in the left foreground, and a distant mountain peak centered ahead beneath a clear blue sky.
+
+end of description
+
+As the viewpoint progresses forward along the road, the small green tent, initially in the left foreground, recedes out of frame to the left and behind the initial position. The grassy slopes, fences, and immediate forest elements on both sides continuously move past the viewer, revealing more of the road and the valley ahead, with the distant mountain remaining ahead but appearing closer.
+frame_0000000384-frame_0000000512:
+The first frame shows a paved road extending from the immediate foreground into the distant background, flanked by grassy verges on both sides. To the left, a steep, forested mountainside rises, while on the right, a gentler grassy slope covered with trees ascends. A simple wire fence with wooden posts runs along both sides of the road in the midground, and a distant mountain peak is visible directly ahead in the background beneath a clear blue sky.
+
+end of description
+
+As the viewpoint progresses forward along the road, the surrounding landscape shifts, with objects moving closer to the viewer. The fence posts on both the left and right sides advance from the midground towards the viewer's immediate foreground and then eventually move out of frame, behind the original viewpoint. Notably, a distinct white object, resembling a bicycle wheel or a plastic bag, appears on the right-side fence line in the third frame, emerging from the midground and continuing to move towards the viewer's right foreground.
+frame_0000000512-frame_0000000640:
+A paved road stretches from the viewer's immediate foreground into the distance, curving slightly to the right, flanked by vibrant green grass and a gravel shoulder. Dense forests cover the steep mountain slopes on both the left and right, with a prominent rocky grey mountain face visible behind the trees to the far left. A clear blue sky dominates the upper portion, and several wooden fence posts are visible along the grassy slope on the right.
+end of description
+No dynamic changes or newly revealed objects are observed in the subsequent frames, as the viewpoint and all elements of the scene remain constant relative to the first frame.

@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+Frame 1 depicts a vibrant harbor with colorful buildings lining the left side, featuring awnings and a European Union flag, while a bay filled with numerous boats and yachts occupies the midground. To the right, a lush, tree-covered hill rises, crowned by a stone castle, all under a clear blue sky. In the foreground, several people are walking or seated on benches, with decorative flower planters also visible.
+end of description
+In the following frames, the two individuals walking in the far-left foreground continue moving left, gradually exiting the frame. The woman in the white dress and hat, positioned centrally in the foreground, subtly adjusts her arm position. All other elements, including the buildings, harbor boats, hillside, and seated individuals, remain static relative to the initial viewpoint.
+frame_0000000128-frame_0000000256:
+The first frame captures a picturesque harbor under a clear blue sky, with a paved foreground populated by pedestrians, two occupied benches, and flower planters. To the left, colorful buildings line the waterfront of the boat-filled harbor, while a tree-covered hill topped by a fortress rises in the background to the right.
+end of description
+Throughout subsequent frames, a woman wearing a sunhat and dark top enters the scene from the far left foreground and walks steadily towards the right. Simultaneously, a woman in a white dress and blue hat, positioned in the center-left foreground, slightly adjusts her stance.
+frame_0000000256-frame_0000000384:
+In the foreground, a woman in a large straw hat and sunglasses walks right-to-left, followed by a girl in a white dress and blue hat with a backpack. To the right, two people sit on a wooden bench facing the harbor, flanked by flower pots with red and white blooms. The midground features a vibrant row of colorful buildings (red, yellow, orange) lining the left side of a bustling harbor filled with numerous boats. In the background, a lush green hill with a building at its summit rises to the right under a clear blue sky.
+end of description
+From the first-frame viewpoint, the woman in the straw hat continues walking towards the left, eventually exiting the frame. The girl in the white dress moves left then stops to face the harbor in the midground. A new person appears seated on a bench to the far left in the midground. An EU flag becomes visible at the top-left of the leftmost building, which was previously unadorned.

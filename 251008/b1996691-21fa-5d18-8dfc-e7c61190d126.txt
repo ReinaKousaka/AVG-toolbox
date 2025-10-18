@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a grey asphalt road curving gently to the left, receding into a dense forest of tall evergreen trees that line both sides. To the right, a steep, rocky embankment covered in grass and more trees rises alongside the road, with a retaining wall at its base.
+end of description
+As the viewpoint moves forward along the road, a red and white triangular road sign, depicting an uneven road, emerges from the distant right embankment, ahead of the first-frame viewpoint. This sign progressively moves closer, growing larger and more detailed as it approaches and passes the viewer's right side. The retaining wall on the right and white road markers on the left also become more distinct before receding.
+frame_0000000128-frame_0000000256:
+The first frame shows an asphalt road gently curving into the distance, bordered by dense evergreen forests on the left and a dark stone retaining wall topped with a grassy, forested hillside on the right. A white marker post stands near the road's left edge, and the sky is bright blue above the distant curve.
+end of description
+As the camera progresses, the initial scene shifts; the marker post on the left moves out of view *relative to its first-frame position*, while new sections of the winding road and forested environment are continuously revealed *further along the path ahead of the original viewpoint*. A fence also emerges on the right hillside *as the view advances past the initial right foreground*.
+frame_0000000256-frame_0000000384:
+The first frame shows a paved road extending forward, flanked on the left by a dense forest of tall evergreen trees and on the right by a low, dark retaining wall and a grassy, tree-lined incline topped by a fence, all beneath a clear blue sky.
+end of description
+As the viewpoint moves forward, the initial trees, retaining wall, and grassy incline recede past the viewer's immediate left and right. New sections of the road, continuously curving slightly to the right, are revealed further ahead from the first-frame's initial view, along with more of the dense forest to the left and the uphill grassy terrain with its fence to the right. White road markers, initially further ahead on the left, appear closer and then move past the left edge of the frame relative to the initial viewpoint. Throughout, shadows cast by the trees dynamically shift and traverse the road.

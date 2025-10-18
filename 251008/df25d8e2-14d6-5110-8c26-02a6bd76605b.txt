@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a sunny beach scene with a wooden boardwalk leading from the viewer towards the distant blue sea. On the left, orange beach umbrellas and loungers are set up on the sand, while on the right, several thatched-roof umbrellas and loungers stretch further along the beach, backed by distant mountains.
+end of description
+All subsequent frames are identical to the first; no dynamic changes, movements, or newly revealed objects are observed in the scene relative to the initial viewpoint.
+frame_0000000128-frame_0000000256:
+The first frame displays a sun-drenched sandy beach with a wooden boardwalk extending from the foreground towards the sea in the mid-ground. To the viewer's left, rows of orange sun umbrellas and sun loungers are visible, while to the right, a series of straw-thatched umbrellas with seating areas are arranged. The blue sea stretches across the background, meeting a distant mountain range on the right, with a bright sun reflection on the water's surface.
+end of description
+There are no dynamic changes or newly revealed objects in the subsequent frames; all provided images are identical to the first frame.
+frame_0000000256-frame_0000000384:
+In the first frame, a sandy beach stretches from the foreground to the midground. A wooden walkway extends from the bottom center into the sand, leading towards the sea. To the left, several orange sun umbrellas shade sun loungers, with the blue sea and distant horizon beyond them, where a few people are visible near the waterline. To the right, a row of thatched palm-leaf umbrellas shelters more loungers and people. In the background, hills rise on the far right, and a bright blue sky dominates the upper half of the frame.
+end of description
+There are no dynamic changes, newly revealed objects, or scenes in the subsequent frames; all frames are identical to the first.

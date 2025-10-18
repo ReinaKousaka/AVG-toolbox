@@ -1,0 +1,28 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a reddish-orange dirt path dominating the foreground, extending from the center towards the right, flanked by a sparse bush on the lower-left. In the midground, a row of green and yellow-leafed trees and bushes stretches horizontally across the left-center, with a small ditch visible on the right side of the path. Distant red rock formations rise on the far left background, while a faint mountain range lies on the horizon to the right, all under a clear blue sky.
+end of description
+The viewpoint slowly pans to the right and slightly pulls back, revealing more of the winding dirt path and the broader landscape. A large red rock formation gradually emerges on the far right, becoming more prominent as the camera continues to pan, while the initial left-most bush moves out of frame.
+frame_0000000128-frame_0000000256:
+In the first frame, a reddish-orange dirt path extends from the foreground center towards the distant horizon, flanked by sparse green and autumn-colored bushes. To the left, a cluster of trees with green and golden leaves grows at the base of a reddish-brown rocky mountain, partially visible in the mid-left. On the far right, a large reddish rock formation is prominent, with smaller bushes scattered on the red dirt ground around it. Distant blue mountains line the horizon under a bright blue sky with wispy white clouds.
+end of description
+The subsequent frames depict a subtle, slow pan or shift of viewpoint towards the right. The large reddish rock formation on the viewer's immediate right in the first frame gradually expands within the frame, and a second, smaller reddish rock structure becomes visible just behind it and further to its right. Concurrently, the rocky mountain on the far left of the first frame slowly shifts further to the viewer's left and out of the frame. The central dirt path and distant horizon remain broadly ahead, but the right-side landscape increasingly dominates the scene.
+frame_0000000256-frame_0000000384:
+A reddish-orange dirt path extends from the immediate foreground towards distant mountains under a blue sky. It is bordered on the left by green and yellowish shrubs, and on the right by sparse bushes and red rock formations, including a prominent sloped boulder in the mid-distance on the right.
+end of description
+The subsequent frames show a slow, continuous rightward pan from the initial viewpoint. This subtle movement progressively reveals more of the red rocky terrain and sparse bushes located further to the right of the first-frame's initial view. Concurrently, elements on the far left of the original scene, such as the denser green foliage, begin to recede slightly out of frame. The prominent red boulder and other right-side formations shift slightly left within the frame, reflecting the changing perspective as the camera pans right over the static landscape.
+frame_0000000384-frame_0000000512:
+The first frame displays a reddish-brown dirt path leading into the midground of a sunlit desert landscape beneath a clear blue sky. To the viewer's right, large red rock formations and scattered desert shrubs occupy an ascending slope, while on the left, more green and yellow-hued shrubs are present beside a darker, excavated gully in the foreground.
+end of description
+No dynamic changes occur, nor are any new objects or scenes revealed in the subsequent frames, as they are identical to the first-frame viewpoint.
+frame_0000000512-frame_0000000640:
+The first frame displays a reddish-orange dirt path leading into the distance, flanked by red soil and sparse desert shrubs and grasses. To the right, a large, angled reddish-brown rock formation stands, while distant yellowish-green trees appear to the far left. A wide valley and blue mountains recede into the background under a bright blue sky with wispy clouds.
+end of description
+No dynamic changes or newly revealed objects occur in the subsequent frames, as all images are identical.
+frame_0000000640-frame_0000000768:
+A red dirt path extends from the foreground into the mid-ground, flanked by green shrubs and sparse brown grasses on both sides. To the right, a large red rock formation rises from the mid-ground towards the upper right of the frame, with more shrubs at its base. In the far distance, beyond a flat expanse and further along the path, faint mountains or hills are visible under a bright blue sky with scattered wispy clouds and faint contrails.
+end of description
+There are no dynamic changes or newly revealed objects or scenes in the subsequent frames; the viewpoint remains static throughout the sequence.
+frame_0000000768-frame_0000000896:
+A reddish-brown dirt path stretches into the distance under a clear blue sky, flanked by sparse green and brown shrubs. To the right, a large, rounded red rock formation rises, while distant mountains line the horizon.
+end of description
+The viewpoint progresses forward along the path, causing the large red rock formation to the right to appear closer and revealing more of its base. Foreground shrubs and a tuft of grass to the right recede from view as the camera advances.

@@ -1,0 +1,20 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a paved street in a traditional town, receding into the distance under a pale sky. On the viewer's immediate right, a red and black scooter with a clear plastic canopy is parked next to a shop facade with red lanterns. To the viewer's left, several people are seated outside shops. Buildings with wooden elements and awnings line both sides of the street, and numerous pedestrians are visible further down the road.
+end of description
+As the viewpoint progresses forward, the scooter and the nearby vendor's stall on the right move progressively towards the left and behind the initial viewpoint. Similarly, the seated people on the left also shift further behind the original camera position. The entire street ahead of the first-frame viewpoint is gradually revealed, showing more pedestrian activity and the continuous line of buildings on both sides.
+frame_0000000128-frame_0000000256:
+The first frame captures a narrow, paved street flanked by traditional-style buildings under a pale sky. In the midground, a person walks away from the viewer along the center of the street, while a food stall with red lanterns adorns the right side, and people sit outside shops on the left.
+end of description
+As frames progress, the central figure walks further away into the distance, revealing more of the street pavement behind them. Simultaneously, a small motorized tricycle on the left midground drives further down the street, also moving away from the viewer. People gathered on the left side of the street near the shops show minor shifts in position.
+frame_0000000256-frame_0000000384:
+The first frame captures a paved street lined by traditional buildings with storefronts, extending into the distance. In the foreground, a woman walks left on the right side, passing a yellow three-wheeled scooter with a canopy, while a silver scooter with a canopy faces right on the mid-left among other distant pedestrians.
+end of description.
+The woman on the right quickly exits the frame rightward, and the silver scooter on the left slowly moves forward, eventually partially exiting the frame leftward. The yellow scooter on the right remains stationary.
+frame_0000000384-frame_0000000512:
+The first frame shows a stone-paved street flanked by traditional buildings and shops under a pale sky. In the midground, a man in a pink shirt stands centrally with arms raised, facing the viewer, while a group of people walks towards the viewer to his left; a motorcycle is parked to the right.
+end of description
+As frames progress, the man in the pink shirt walks backward towards the viewer, gradually lowering his arms. Concurrently, the group of people behind him steadily advances closer along the street towards the initial viewpoint.
+frame_0000000512-frame_0000000640:
+The first frame depicts a stone-paved street extending away from the viewer, flanked by traditional buildings. On the immediate right, a man in a pink shirt walks towards the viewer, positioned next to a dark scooter parked against a building. Towards the left midground, a group of pedestrians, including a woman carrying a baby and a child, also walks towards the viewer. Further down the street, many more people are visible, with traditional buildings lining both sides, extending into the distant background under a pale sky.
+end of description
+The man in the pink shirt on the right continues walking towards the viewer, eventually moving past and out of the frame to the right. Simultaneously, the dark scooter on the far right also moves out of view, revealing a light blue scooter previously behind it. The group of pedestrians on the left, led by the woman carrying a baby, steadily approaches the viewer, becoming larger in the frame and progressing further along the street towards the initial viewpoint. Other people in the midground and background continue to walk along the street, either moving closer or further away from the first-frame viewpoint.

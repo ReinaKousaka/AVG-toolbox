@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a road and a wooden fence in the foreground, with vibrant flowers and green bushes behind it. To the right, a red house with green shutters and vines is visible, with two blue barrels positioned below it. In the midground, a brown wooden house with a large green tree stands on a grassy hill to the left, with a tall pole between it and the red house, and a blue lake visible beyond. Majestic mountains dominate the background under a cloudy sky.
+end of description
+There are no dynamic changes or newly revealed objects observed across the subsequent frames; all frames are identical to the first.

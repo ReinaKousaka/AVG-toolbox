@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+A paved road gently curves right in the foreground, bordered by a grassy, stone-walled slope and a white fence to the left, and a lower white fence overlooking a fjord to the right. Beyond the fjord, distant mountains and a small settlement are visible under a clear blue sky, with a digital overlay showing speed, grade, and distance in the top right.
+end of description
+As the frames progress, the viewpoint moves forward and slightly down the road, causing the left grassy slope and white fence to recede, revealing more of the path ahead. The distant mountains and settlement across the fjord remain on the right, while the grade decreases from 12% to 4%, and speed slightly reduces from 13 to 12 KM/H.

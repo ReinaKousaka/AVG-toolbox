@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a grey asphalt road curving gently to the left and leading uphill, flanked by lush green grass and low bushes in the foreground. To the left is a steep, tree-covered hillside, while rocky mountains and more sparse vegetation rise in the midground and background to the right, all under a partially cloudy sky.
+end of description
+As the frames progress, the viewpoint moves forward along the road, revealing new sections of the curving path directly ahead. The roadside vegetation on both sides continuously shifts from the immediate foreground to out of view behind the viewer. Simultaneously, the distant rocky peaks appear to get slightly closer and reveal more detail, remaining consistently in front of the initial viewpoint.
+frame_0000000128-frame_0000000256:
+A paved road stretches from the foreground directly ahead into the midground, flanked by green grassy slopes covered with trees and bushes. Rugged mountains rise in the distant background, forming a valley ahead, beneath a partly cloudy sky.
+end of description
+The subsequent frames depict continuous forward motion along the road. The immediate grassy slopes and roadside vegetation rapidly pass the viewer to the left and right, indicating progression *towards* the distant mountain range. The valley and mountains, initially in the far background, incrementally draw closer as the viewer proceeds, revealing more of their rugged details directly ahead.
+frame_0000000256-frame_0000000384:
+The first frame displays a paved road stretching from the viewer's foreground into the distance, gently curving left, flanked by steep green hillsides. Dense vegetation, including bushes and trees with some yellow flowering plants, covers the left hillside, while a rugged, rocky mountain rises on the far right. In the distance, more craggy peaks frame a valley beneath a partly cloudy sky.
+end of description
+As the frames progress, the viewpoint moves forward along the road. The green vegetation immediately bordering the road on the right blurs intensely and appears to pass rapidly towards the viewer, emphasizing continuous forward motion. No new objects or scenes are revealed beyond the existing mountainous landscape.

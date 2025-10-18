@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+A wide, stone staircase ascends directly ahead into the distance, flanked by grassy, leaf-strewn slopes. To the viewer's left, a lamppost and bare trees rise alongside the stairs, with a light-colored building visible higher up the slope. On the right, large illuminated informational panels line the ascent behind a dark railing and fence, displaying images and text.
+end of description
+The viewer's perspective slowly moves forward and upward, causing the lower steps to grow larger and revealing more of the ascending staircase. Simultaneously, the base of the lamppost on the left becomes more prominent, and new sections of the informational panels further up the right slope are gradually revealed from the right edge.
+frame_0000000128-frame_0000000256:
+A wide stone staircase ascends steeply into the distance, flanked on the left by a leaf-covered embankment with bare trees, a distant white building, and a dark lamppost in the lower-left foreground. To the right of the stairs, a tall fence structure covered in large informational panels runs parallel, with a black handrail in the lower-right foreground.
+end of description
+The viewpoint slowly moves forward and slightly upward, simulating an ascent of the stairs, causing the foreground steps to move beneath the viewer while the lamppost recedes on the left and new sections of the informational panels progressively reveal themselves further along the right side of the path.
+frame_0000000256-frame_0000000384:
+The first frame depicts a wide stone staircase ascending away from the viewer, flanked by a leaf-strewn grassy slope on the left with bare trees and a distant white building. To the right, large panels displaying map graphics line the stairs, partially obscuring a grassy hill and a yellow construction vehicle behind them. An illuminated street light glows in the mid-distance on the left, under an overcast sky.
+end of description
+Subsequent frames show a slight upward and rightward shift in viewpoint. This movement increasingly reveals the yellow construction vehicle on the grassy slope to the right of the staircase, behind the informational panels.

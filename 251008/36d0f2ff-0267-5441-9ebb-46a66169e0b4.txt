@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+In the first frame, a man in a dark coat walks right across the sunlit sidewalk in the foreground, passing a silver fire hydrant; behind him, to the left, steps lead to a brick building where another person sits, while further right in the midground, multiple individuals are seated outside a storefront, with a digital display and distant vehicles visible on the far right street.
+end of description
+Over subsequent frames, the man in the dark coat continues walking right across the foreground, while shadows on the sidewalk progressively lengthen and shift rightward across the midground. A new man, in a light shirt and hat, then emerges from the far right midground, walking left past the storefront with a bag, as more pedestrians appear further down the street.
+frame_0000000128-frame_0000000256:
+In the first frame, a man in a dark coat walks towards the viewer on the left, while another man in a t-shirt, khaki pants, and cap walks away to the right, carrying a white bag, positioned in the midground. To the left, a brick building with storefronts and steps lines the sidewalk, and on the right, a pole with a digital display board stands. The background shows a street with cars and pedestrians further down.
+end of description
+In the following frames, both men continue walking: the man in the dark coat moves further left, and the man with the bag moves further right, away from the first-frame viewpoint. Other pedestrians and vehicles on the street also progress along their paths relative to their initial positions.

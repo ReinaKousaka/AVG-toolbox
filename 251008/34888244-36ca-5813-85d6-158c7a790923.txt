@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a rainy street scene. To the immediate left, a white kiosk with red signage stands on a wet brick sidewalk. A black metal fence occupies the immediate right foreground. Further along the sidewalk to the left, a purple electric scooter is parked near several posts, with trees lining the path leading into the distance. In the mid-ground, a wet road with several cars moving away from the viewer runs alongside, featuring traffic lights and a crosswalk to the right. Tall apartment buildings and a tree line are visible in the background under an overcast sky.
+end of description
+A person holding an umbrella and wearing orange pants walks from the mid-ground right, crossing the street towards the left. Subsequently, a large grey truck enters the scene from the far right on the road, driving left across the mid-ground. Concurrently, a second person with a yellow umbrella appears on the sidewalk to the immediate left of the viewer, near the kiosk, remaining stationary. The grey truck then continues moving left, eventually exiting the frame.
+frame_0000000128-frame_0000000256:
+The first frame displays a rainy city street scene with a person holding a yellow umbrella on the wet sidewalk to the viewer's left, alongside green bushes, trees, and a purple electric scooter. Across a black metal fence, an intersection with multiple cars and traffic lights is visible, leading to tall buildings in the background.
+end of description
+Subsequently, the person with the yellow umbrella exits the frame to the left, while several cars at the intersection, including a black sedan turning left and a dark grey SUV emerging from the right, proceed through the rain-soaked roadway.

@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+An aerial view presents a grand, ornate brick building with a prominent green spire and multiple turrets in the center, flanked by the dark, modern roof of a large station to its left and a bustling road intersection with traffic and pedestrians to its right. To the upper left, a plaza and a circular building with a glass roof are visible.
+end of description
+Throughout the subsequent frames, the red double-decker bus on the main road to the right of the ornate building steadily progresses upwards. Numerous other vehicles, including cars and vans, also move along the various lanes of the road network to the right and left of the central building. Pedestrians on the sidewalks and plaza to the upper left of the main building also show continuous movement, reflecting ongoing urban activity.
+frame_0000000128-frame_0000000256:
+An aerial view of a city shows an ornate, spire-topped building centrally located to the right. To its left, a large modern building with a patterned, dark roof occupies the mid-left and top-left, while a complex network of roads with numerous vehicles and pedestrians extends across the top and right sides, converging at a prominent intersection in the upper-right. Various other buildings and smaller structures are visible at the bottom-right and adjacent to the main roads.
+end of description
+Throughout the following frames, the scene remains from a static aerial viewpoint. A red double-decker bus steadily progresses from the top-right corner of the intersection, moving towards the bottom-right along the main road. Concurrently, other vehicles on all visible roads continue their movement, with cars on the road to the left moving right and traffic around the intersection flowing dynamically.

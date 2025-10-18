@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a narrow white path extending from the viewer into the background, flanked by dense green tropical foliage, including large-leafed plants and palm fronds, with sunlight dappling the scene ahead.
+end of description
+Subsequent frames show the viewpoint moving forward along this path. The previously distant foliage and the path's slight curve now appear closer, as more of the winding pathway unfolds further ahead, continuously surrounded by lush vegetation that shifts past the viewer on both sides.
+frame_0000000128-frame_0000000256:
+A narrow white path extends forward, curving gently to the right, bordered on both sides by dense, vibrant green foliage that rises high, suggesting a lush, natural tunnel with bright light visible above the distant path.
+end of description
+The viewer moves steadily forward along the path, causing the surrounding foliage to pass by on the left and right, while the path ahead continuously recedes into the distance. This forward motion reveals more of the winding, verdant pathway, without introducing any new objects or scenes beyond the existing environment.
+frame_0000000256-frame_0000000384:
+The first frame displays a narrow, white sandy path extending from the viewer's foreground into the distance, curving gently to the left. Dense walls of lush green and yellow-green foliage flank both sides of the path, with taller green trees and palms visible further back in the distance, appearing through the canopy overhead.
+end of description
+The viewpoint steadily advances forward along the path, causing the foreground vegetation on either side to pass by and recede behind the viewer's current position. As the camera progresses, a light-colored, pillar-like structure or entryway gradually becomes visible at the end of the path, slightly to the left of the center of the initial view, growing larger as the viewer approaches it.

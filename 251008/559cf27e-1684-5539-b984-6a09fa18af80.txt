@@ -1,0 +1,32 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a paved city sidewalk leading away from the viewer, flanked by a building with arched windows and green planters to the right, and a street with a dark green railing, utility pole, and distant city elements including a red traffic light to the left.
+end of description
+In subsequent frames, the viewpoint moves forward along the sidewalk, causing the initial building and street elements to recede behind the camera's original position. New sections of the building's facade, sidewalk paving, and the street, including a distant pedestrian, are progressively revealed ahead of the viewer's initial position.
+frame_0000000128-frame_0000000256:
+The first frame depicts a city sidewalk leading forward, bordered on the right by a light brown building with green-planted window boxes, and on the left by a street featuring a black lamppost, a green railing, trees, and distant urban buildings.
+end of description
+As the viewpoint progresses forward, objects like the lamppost and green railing on the left recede towards the left and eventually behind the initial frame's position. Similarly, the building on the right gradually moves out of frame to the right and behind the initial viewpoint. Meanwhile, the street ahead and the red traffic light, initially in the left-mid distance, become more prominent and closer to the viewer's forward path, with a pedestrian appearing in the mid-distance walking away.
+frame_0000000256-frame_0000000384:
+The first frame shows the viewer on a paved sidewalk, with a dark green metal railing and a tree trunk on the left, and a light brown building facade with decorative planters on the right. Ahead, a city street intersects, revealing distant cars, pedestrians, various buildings, and a red circular sign at an intersection under a bright sky.
+end of description
+As the frames progress, the viewpoint subtly moves forward, causing the railing on the left and the building facade with its planters on the right to appear to slide past the viewer. This motion progressively reveals more of the immediate sidewalk ahead and causes the distant street and buildings to gradually recede slightly further into the background.
+frame_0000000384-frame_0000000512:
+In the first frame, the viewer is on a paved sidewalk, with a light brown building facade adorned with windows and green plants in planter boxes positioned to the viewer's immediate right. To the viewer's left is a black metal fence, bordering a street with parked bicycles and distant vehicles. Straight ahead, the sidewalk continues towards a street crossing, with tall buildings, trees, and a red circular sign visible further down the street under a clear sky.
+
+end of description
+
+The camera slowly moves forward along the sidewalk. As the viewpoint advances, objects previously ahead, such as the street intersection and distant buildings, move closer and slightly to the left. The red circular sign on the left and a yellow vertical sign on a building across the street become more distinct. An ornate planter, initially further ahead on the right, becomes more prominent as the viewer approaches it. The building facade on the right recedes from view as the camera moves past its initial section, revealing more of the continuing street scene.
+frame_0000000512-frame_0000000640:
+In the first frame, a paved city sidewalk stretches from the foreground into the distance, with a black metal railing on the left separating it from a street where a white SUV drives away. To the viewer's right, a light brown building features a window box with green plants and a large decorative urn on a pedestal further down. Across the street on the left, an old brick building and a modern glass skyscraper rise, while several bicycles are parked along the curb. Further along the right sidewalk, a yellow vertical "LOBBY" sign is visible, and pedestrians walk into the sunny distance where other buildings and trees line the street.
+end of description
+As the frames progress, the viewpoint moves forward along the sidewalk, causing the railing on the left and the decorative urn on the right to gradually recede and move out of the frame. The perspective subtly shifts, revealing slightly more of the paved path ahead and the street scene in front, though the cars and pedestrians remain largely static relative to their positions.
+frame_0000000640-frame_0000000768:
+The scene presents a city street from a sidewalk viewpoint, with a tan building wall and a decorative urn on the immediate right, and a black metal railing curving to the left. Ahead, a paved crosswalk with green bollards leads to a street lined with parked cars on the left and various buildings, including a distant glass skyscraper and one with a partial yellow sign, all beneath a clear sky.
+
+end of description
+
+As the viewpoint advances forward, the foreground wall, urn, and railing recede, revealing more of the street ahead. The paved crosswalk and green bollards grow closer, while more of the yellow "HOLDEN" sign on the right building becomes visible. Pedestrians further down the street appear larger, approaching the original viewing plane, and parked cars on the left shift further left relative to the expanding frame.
+frame_0000000768-frame_0000000896:
+The first frame captures a sunny city street scene featuring green metal railings on the near left and a large planter with a small tree on the near right. A paved intersection extends into the distance, flanked by parked vehicles on the left and a commercial building with an 'OKLAHOMA' sign and traffic lights on the right, all beneath distant tall buildings.
+end of description
+The viewpoint subtly shifts forward and pans slightly to the right. The planter on the right gradually moves further to the right relative to the first-frame viewpoint, eventually moving entirely out of the frame. This motion reveals more of the storefront and street previously obscured by the planter, now visible to the far right. The green metal railings on the left also move slightly rightward within the frame, appearing closer to the viewer.

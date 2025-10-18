@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame captures a wet urban street scene featuring a sidewalk on the left foreground, defined by a white line and bordered by lush green hedges and trees, extending towards the midground where a blue sign post stands. To the right, a multi-lane road with yellow markings stretches into the distance, separated from the sidewalk by three prominent tree trunks. In the background, tall buildings rise under a cloudy sky, and distant traffic signals are visible over the wet road.
+end of description
+Throughout the subsequent frames, continuous heavy rainfall is evident across all surfaces, with raindrops visibly impacting the wet ground. A white car travels from right to left on the distant road, and later, a person carrying an umbrella walks from the far background towards the right side of the main road.
+frame_0000000128-frame_0000000256:
+The first frame depicts a wet urban street scene on an overcast day. To the left of the viewer is a wet sidewalk curving slightly, bordered by a low, bushy green embankment, while a line of dark-barked trees stands between the sidewalk and the multi-lane wet road on the right. In the foreground, a large tree trunk partially obstructs the right side of the view, and in the distance along the road, several vehicles, traffic lights, and a blue road sign are visible, with tall buildings rising above the treeline in the far background.
+end of description
+As the frames progress, the visible intensity of the rainfall increases, with numerous raindrops becoming apparent on all wet surfaces. Notably, water visibly flows and accumulates more significantly within the shallow gutter-like area along the far left edge of the sidewalk, reflecting the ongoing and strengthening rain.
+frame_0000000256-frame_0000000384:
+The first frame displays a wet paved walkway curving from the bottom left towards the center, outlined by a white line. To its left, a lush green hedge borders a muddy area with rocks, while on the right, a reddish-brown path contains two large trees with banners attached, and a teal kiosk is visible between them. Further in the background, a wet road with distant cars and tall buildings under an overcast sky completes the scene.
+end of description
+In the subsequent frames, numerous raindrops dynamically appear, visibly impacting the wet walkway and road surfaces, creating subtle ripples and splashes. From the third frame onwards, a "Rain Everyday" watermark is newly revealed and remains present in the bottom-left corner of the frame.

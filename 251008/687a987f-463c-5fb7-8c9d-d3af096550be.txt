@@ -1,0 +1,28 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a prominent brick column with an attached black information board in the foreground, left of center. To its left, an arched portico extends into the background, where people are seated at tables closer to the viewer and others walk further inside. To the right, a narrow cobblestone alleyway recedes, flanked by a brick building with an arched wooden door featuring a partially visible Italian flag, and a barred window immediately to its right.
+end of description
+Subsequently, the viewpoint subtly pans right, progressively revealing more of the cobblestone alleyway extending into the distance on the right. This shift uncovers additional features of the brick building, including a second barred window and, further down the alleyway, a partially visible entrance with a closed metal shutter, while the Italian flag on the original door also becomes more fully visible.
+frame_0000000128-frame_0000000256:
+In the first frame, a narrow cobblestone street recedes into the background, flanked by buildings. To the viewer's immediate left, part of a stone building with a dark vertical display case, showing a poster for an opera, is visible. On the right, a prominent multi-story brick building features several arched wooden doors along its lower level, with an Italian flag hanging from the central one, and a barred window and a metal shutter further right.
+end of description
+There are no dynamic changes or newly revealed objects or scenes across the subsequent frames; all frames appear identical to the first.
+frame_0000000256-frame_0000000384:
+The first frame presents a narrow cobbled street extending into the distance, flanked on the right by a multi-story brick building featuring several arched doorways and a barred window. On the far left, a dark display board is partially visible, while an Italian flag hangs from an arched doorway in the mid-ground.
+end of description
+Throughout the subsequent frames, the Italian flag hanging from the doorway in the mid-ground subtly flutters. A person is newly revealed in the far distance of the street, walking away from the viewer to the left of the main brick building in the later frames.
+frame_0000000384-frame_0000000512:
+The first frame captures a narrow cobblestone alley flanked by old brick buildings, with a prominent tall building on the right featuring a barred window and an arched doorway displaying an Italian flag; another brick wall lines the left, and distant figures are visible at the alley's bright far end.
+end of description
+As the frames progress, the viewpoint gradually moves forward down the alley. A black display board attached to the building on the left becomes newly visible, moving into the foreground from the left and revealing event posters. Consequently, the distant figures at the end of the alley appear slightly closer and more distinct relative to the initial viewpoint.
+frame_0000000512-frame_0000000640:
+The viewer is positioned within a narrow, cobbled alleyway flanked by brick buildings under a bright sky visible in the distance. To the immediate left, a textured brick wall features a dark-framed notice board displaying a poster for 'MATINEE DI SANTA CECILIA'. To the right, a multi-story brick building with several arched openings includes a main wooden door adorned with Italian and EU flags, and a barred window further along. In the far distance, down the narrowing alley, a few figures are visible walking towards the viewer.
+end of description
+The camera gradually moves forward into the alley. As it advances, the notice board on the immediate left progressively moves out of the frame, while the brick building on the right with the flagged door appears to approach slightly. The distant figures in the alley grow incrementally larger, suggesting the viewpoint is slowly moving towards them.
+frame_0000000640-frame_0000000768:
+The first frame presents a narrow, cobbled street bordered by tall brick buildings under a bright sky. To the left, a series of brick arches forms an arcade with dark notice boards, while to the right, a multi-story brick building displays an arched wooden door adorned with Italian and European Union flags, with the number '21' visible above.
+end of description.
+As the frames progress, a white rectangular sign appears on the brick wall to the right, positioned above the flags, and concurrently, individuals become visible seated within the arcade's interior on the far left. The flags on the door subtly flutter, and the overall scene gradually brightens, revealing more texture on the cobblestones as the viewpoint slightly shifts forward.
+frame_0000000768-frame_0000000896:
+The first frame depicts a narrow, cobblestone street receding into the distance, flanked by brick buildings. To the left, a series of brick arches forms a portico with dark display boards attached to its pillars, where a person is faintly visible in the far left foreground. On the right, a brick wall features a dark wooden door adorned with an Italian and a European Union flag, with a partially visible sign above it and a lamp further up. Several people are walking away from the viewer in the midground, towards the bright background sky.
+end of description
+Throughout the following frames, the Italian and European Union flags hanging on the door to the right subtly flutter. Simultaneously, the sign above this door progressively reveals more text, ultimately displaying "PARTITO DEMOCRATICO CIRCOLO DI..." as the frames advance. The figures walking away from the viewer in the midground continue to recede down the cobblestone street. Minor shifts are also observable in the papers displayed within the dark boards under the arches on the left.

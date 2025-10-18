@@ -1,0 +1,30 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a railway yard with multiple parallel train tracks extending into the distance under a blue sky with scattered clouds. In the foreground and midground, several tracks converge and curve to the right, featuring yellow track markers and a blue-striped pole. Overhead, a large metal gantry structure supports numerous power lines, while to the left, a grassy slope leads to distant industrial structures, and to the right, a stone retaining wall borders the tracks, topped by greenery and a tall utility pole.
+end of description
+As the viewpoint moves forward along the tracks, the foreground elements such as the yellow markers and the blue-striped pole progressively shift towards the bottom of the frame and disappear. The entire scene, including the tracks, overhead gantry, and surrounding landscape on both the left and right, continuously recedes, revealing more of the railway line ahead relative to the initial first-frame perspective.
+frame_0000000128-frame_0000000256:
+The first frame displays a railway yard featuring multiple sets of rusty tracks that stretch from the foreground into the distance, with one track curving slightly to the right in the mid-ground. Overhead, a complex catenary system of wires is supported by numerous grey metallic poles spanning across the tracks. To the left, an embankment with stacked concrete blocks is visible, while to the right, a concrete platform runs parallel to another track, backed by a stone retaining wall. A tall metallic mast stands in the far right background, with a line of trees and distant hills visible under a blue sky with some clouds.
+end of description
+No dynamic changes, newly revealed objects, or scene alterations are observed in the subsequent frames; the entire sequence appears static.
+frame_0000000256-frame_0000000384:
+The first frame presents a multi-track railway scene from a forward perspective, with rusty tracks diverging and curving into the distance. Directly ahead, a gravel path with weeds sits between tracks, alongside a wider platform to the right. Overhead electrical lines, supported by numerous poles, span the sky above a grassy embankment with concrete structures and distant tree-covered hills.
+end of description
+As the frames advance, the viewpoint moves continuously forward along the central tracks. Foreground elements like the weed patch and closer track sections approach and then pass out of view below, while midground objects such as poles and trackside equipment draw nearer. The overall scene progresses, revealing more of the curving railway and its surrounding landscape as the viewer's position shifts along the path from the initial viewpoint.
+frame_0000000384-frame_0000000512:
+The first frame displays a railway junction under a clear blue sky, with multiple train tracks converging and diverging towards the distant horizon. Two sets of tracks run parallel to the viewer's left, alongside a grassy embankment topped with stacked white concrete blocks and trees. A central pair of tracks extends straight ahead, curving slightly right, while to the viewer's right, a platform-like area and more tracks are bordered by a stone retaining wall covered in trees. Numerous utility poles with overhead power lines are visible throughout the midground.
+end of description
+All subsequent frames are identical to the first, showing no dynamic changes or newly revealed objects relative to the initial viewpoint.
+frame_0000000512-frame_0000000640:
+The first frame shows a multi-track railway stretching towards the horizon under a clear blue sky. Two prominent electrical gantries with numerous overhead lines stand in the mid-ground, flanking the central tracks. To the left, a grassy area with rows of concrete barriers leads to a forested hill, while to the right, a gravel path runs alongside a stone retaining wall and another treeline.
+
+end of description
+
+The viewpoint subtly advances along the tracks; objects like the grey signal box on the far left move diagonally down and left relative to the first-frame viewpoint. Simultaneously, the white electrical boxes on both sides of the tracks also shift progressively forward and to their respective sides. In the later frames, a tall lamppost becomes visible, emerging from behind the right gantry structure and gradually moving forward and further right relative to the first-frame viewpoint as the camera continues to progress.
+frame_0000000640-frame_0000000768:
+In the first frame, multiple railway tracks stretch from the foreground into the distance, converging towards the center. Two prominent grey metal utility poles, adorned with overhead catenary wires, stand in the mid-left and mid-right, flanking the central tracks. To the left, stacks of white concrete elements are visible behind the tracks, at the base of a tree-covered hill, while a rocky, vegetated embankment rises on the far right. A white utility box is situated near the tracks on both the mid-left and mid-right, with a street lamp further right.
+end of description
+No dynamic changes, movement, or newly revealed objects or scenes are observed in the subsequent frames; the entire scene remains static from the initial viewpoint.
+frame_0000000768-frame_0000000896:
+The first frame displays a railway junction with numerous parallel tracks extending into the distance under a clear blue sky, intersected by a network of overhead electrical lines and support structures. To the immediate left, a tall grey utility pole partially obscures a concrete box, while on the right, a street lamp and a white control box stand near the tracks. Further left, beyond a grassy stretch, a long row of white cylindrical objects is stacked against a retaining wall, with a wooded hill in the background. A stone wall runs along the right side of the tracks, also leading to a wooded area in the far background.
+end of description
+There are no dynamic changes or newly revealed objects in the subsequent frames; all frames are identical to the first.

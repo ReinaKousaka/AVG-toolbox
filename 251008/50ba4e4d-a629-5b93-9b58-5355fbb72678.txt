@@ -1,0 +1,30 @@
+frame_0000000000-frame_0000000128:
+From the viewer's perspective, a dirt road stretches ahead into the distance, bordered by green bushes and a forested mountain slope to the left, and a steep, rocky embankment with sparse vegetation immediately to the right, all under an overcast sky.
+end of description.
+The viewpoint moves continuously forward, causing the roadside scenery, including the embankments and trees, to approach from the front and then gradually recede past the viewer, revealing new segments of the path ahead.
+frame_0000000128-frame_0000000256:
+A dirt road stretches centrally into the distance, flanked by a green, vegetation-covered hillside on the left and a steep, rocky, reddish-brown embankment on the right. Overcast skies loom above the distant mountains ahead.
+end of description
+As the viewpoint advances, the road and adjacent landscapes continuously progress past the viewer, with the immediate foreground receding and new sections appearing ahead. A thin wire, initially visible on the upper right slope further down the road, gradually moves closer into the right foreground.
+frame_0000000256-frame_0000000384:
+A dirt road extends directly forward, bordered by a forested mountain slope on the left and a rocky, vegetated hillside on the right, all under a cloudy sky. Trees and scattered brush line both sides of the road, with distant mountains visible ahead.
+end of description
+The viewpoint advances along the road, causing the immediate slopes to recede and reveal new sections further ahead. Consequently, the forested area on the left moves out of frame to the left, and prominent trees on the right shift further right, making a small blue sign on the right hillside visible further down the road.
+frame_0000000384-frame_0000000512:
+The first frame displays a dirt road extending from the bottom center into the distance, flanked by sloping terrain. To the left, a steep mountain covered in dense green forest rises sharply, while on the right, a rocky, grassy hillside features two prominent trees and a small blue sign further down the slope. An overcast sky looms above distant hills at the far end of the winding road.
+
+end of description
+
+As the video progresses, the viewer moves forward along the dirt road. The road and the immediate surrounding landscape on both the left and right sides, initially ahead, gradually approach and then recede past the viewer. Specifically, the two prominent trees and the blue sign on the right hillside move closer and eventually out of frame to the right of the first-frame viewpoint. New segments of the winding dirt road and the continuing mountainous terrain are constantly revealed directly ahead.
+frame_0000000512-frame_0000000640:
+The first frame shows a dirt road extending directly ahead, bordered on the left by a densely forested mountain slope and on the right by a rocky embankment topped with sparse trees, under a cloudy sky, with a small blue sign visible on the embankment.
+end of description
+As the frames progress, the viewpoint moves forward along the road. The blue sign on the right embankment approaches the viewer, clearly revealing itself as a road marker displaying '414' with '125KM' below it, while the entire landscape continuously recedes.
+frame_0000000640-frame_0000000768:
+A dirt road extends forward through a valley under a cloudy sky. To the left, a dense pine forest covers a mountain slope, while on the right, a rocky dirt embankment features a prominent blue and red '414' road sign in the foreground.
+end of description
+The camera steadily moves forward along the dirt road, causing the road sign on the right to recede and eventually exit the frame to the right. The immediate foreground, including the road and roadside vegetation, continuously shifts, indicating progression deeper into the valley while the background mountains remain consistently in the distance.
+frame_0000000768-frame_0000000896:
+The first frame displays a narrow, unpaved dirt road stretching centrally from the viewer into the distance, flanked by natural terrain. To the viewer's left, a densely forested mountain slope ascends, while on the right, a tall, rugged reddish-brown cliff face rises abruptly. In the background, further mountains recede beyond the road, all beneath a cloudy sky.
+end of description
+As the viewpoint moves forward along the road, the immediate terrain passes underneath, while distant segments of the dirt road and surrounding landscape progressively draw closer. The forested mountainside to the left and the rocky embankment to the right continuously shift from the distance towards and then past the viewer's initial field of vision. Consequently, new sections of the right embankment reveal more green shrubbery and less bare rock than initially seen. Later, power lines become visible above the right embankment, appearing from further ahead along the road relative to the first-frame viewpoint.

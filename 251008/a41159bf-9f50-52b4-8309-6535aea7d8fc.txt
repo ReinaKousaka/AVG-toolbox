@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+A wet asphalt road is visible in the foreground and midground, marked with yellow Korean characters and a box; heavy rain falls across the entire scene, illuminated by distant streetlights. To the immediate left stands a striped utility pole, behind which a white decorative fence runs along a raised embankment with trees beyond, while on the right, green foliage and a wooden building wall with a house number are present.
+end of description
+Throughout the following frames, the heavy rainfall steadily lessens, reducing the visible streaks and splashes of water across the static road and distant background, revealing clearer ambient light.
+frame_0000000128-frame_0000000256:
+The first frame displays a wet, dark asphalt road extending into the distance under night illumination, with yellow Korean characters painted centrally and yellow lines marking its edges. To the left, a white concrete barrier with decorative fencing runs along the road, while green foliage lines the right side and buildings with lighted windows are visible further down.
+end of description
+Subsequent frames reveal subtle dynamic changes on the wet road surface, specifically the shifting reflections and faint visual indications of falling rain. Water ripples and appears to move or accumulate slightly differently in puddles, particularly around the yellow painted characters on the road, consistent with an ongoing shower.
+frame_0000000256-frame_0000000384:
+The first frame depicts a wet asphalt road at night, with two parallel yellow lines on its edges and yellow Korean characters painted on its surface in the foreground. To the left, a concrete barrier topped with a metal railing runs alongside the road, accompanied by green foliage at its base. On the right, dark buildings with some illuminated windows line the street. In the midground, a utility pole stands, and streetlights illuminate the rainy scene ahead.
+end of description
+The viewpoint moves forward along the street. The yellow Korean characters on the road progressively recede from the foreground towards the midground and eventually out of view behind the moving viewer. Objects previously in the midground, like the utility pole and the distant buildings, now occupy a more prominent frontal position as the scene ahead of the original viewpoint is continuously revealed. Rain continues to fall, maintaining the wet, reflective surfaces.

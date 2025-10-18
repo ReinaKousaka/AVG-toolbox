@@ -1,0 +1,20 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a train's forward view down snow-covered tracks that gently curve to the right, nestled within a mountain valley under an overcast sky. Steep, snow-dusted mountains rise sharply on both the left and right sides of the tracks, with a power line pole visible on the left side in the mid-distance.
+end of description
+As frames progress, the viewpoint moves forward along the tracks, causing the snow-covered ground and flanking mountains to recede from the first-frame viewpoint. The power line pole on the left side approaches and passes, and the curve previously ahead in the tracks becomes immediate. A reddish cable or marker also appears on the ground to the left of the tracks, moving from a distant position towards and then past the viewer's left side.
+frame_0000000128-frame_0000000256:
+The first frame presents a forward view along snow-dusted train tracks, with a utility pole and snow-covered ground to the left, a rocky embankment to the right, and distant snow-capped mountains defining a valley under an overcast sky.
+end of description
+As the viewpoint moves forward along the tracks, the utility pole to the left recedes and eventually moves out of sight to the left of its original position. Concurrently, the rocky embankment on the right advances into view from its initial right-side position, revealing more of its rugged, snow-dusted surface. The distant mountains and valley progressively draw nearer within the forward field of view as the journey continues.
+frame_0000000256-frame_0000000384:
+The first frame depicts a snow-covered train track extending from the viewer's position, curving gently to the right through a vast, snowy mountain valley under a grey sky. Towering, snow-dusted mountains flank both sides, with a rocky embankment immediately to the right and a valley floor featuring trees and a concrete pillar to the left; "Vmax 200KM/H" is visible in the bottom left corner.
+end of description
+As the frames progress, the perspective moves forward, causing the snow-dusted tracks and surrounding landscape—including the rocky embankment on the right and the valley on the left—to continuously pass by. A red cable gradually emerges on the ground to the left of the tracks in the mid-ground, extending towards and then receding past the viewer as the train advances through the valley.
+frame_0000000384-frame_0000000512:
+Snow-covered train tracks curve to the right, receding into a valley framed by steep, snow-dusted mountains; a rocky embankment lines the immediate right, and a more gradual, snow-covered slope with a concrete pillar stands to the left. Overhead wires stretch along the track, beneath an overcast sky.
+end of description
+The viewpoint moves forward along the tracks, causing the snow-covered ground and tracks to pass directly *under* the viewer. The rocky embankment to the right and the area with the concrete pillar and a red object on the left move *past* the viewer as the train advances. The distant mountains and valley gradually approach and shift in perspective as the train navigates the curve.
+frame_0000000512-frame_0000000640:
+The first frame shows a snow-covered train track extending from the viewer's position into the distance, curving slightly to the right in the midground. To the immediate right, a steep, rocky, snow-dusted embankment rises, while to the left, a snow-covered valley floor slopes downwards towards a distant, rugged mountain range under an overcast sky. Overhead power lines are visible above the tracks, supported by a utility pole in the mid-left, with a small text "Vmax 200km/h" in the bottom left corner.
+end of description
+As the frames progress, the viewpoint moves forward along the tracks. The utility pole, initially in the mid-left relative to the first-frame viewpoint, steadily approaches the viewer, becoming larger before moving past the viewer's position to the left. Concurrently, the snowy tracks and the rocky embankment to the right pass beneath and beside the viewer, while the distant mountains in the background appear to recede slowly as the journey continues.

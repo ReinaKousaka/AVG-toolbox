@@ -1,0 +1,16 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a stream flowing centrally away from the viewer, with dense forest on the left bank and a grassy path leading to a large tree trunk on the right, all partially obscured by a dark bar across the top.
+end of description
+As the camera moves forward, the dark bar recedes upwards and disappears, revealing more of the distant foliage. Simultaneously, the left bank's dense vegetation shifts leftward, and the right bank's grassy path and the prominent tree trunk move rightward, with the tree eventually exiting the frame, as new sections of the stream are revealed ahead.
+frame_0000000128-frame_0000000256:
+The first frame shows a narrow, rocky stream flowing from the middle background towards the foreground, slightly left of center. Dense green foliage and trees densely cover the left side of the frame and the background, while a large, textured tree trunk is prominent on the far right. A grassy bank with ferns and a moss-covered stone wall runs alongside the right edge of the stream.
+end of description
+Throughout the subsequent frames, the viewpoint subtly shifts forward and slightly to the right, causing the stream and its rocky bed to appear slightly closer and revealing more of the tree trunk's surface on the right. The dense foliage on the left also appears to move slightly closer due to this subtle change in perspective.
+frame_0000000256-frame_0000000384:
+A rocky stream flows away from the viewer in the mid-ground, flanked by dense green foliage in the left foreground and a grass and fern-covered bank to the right. Beyond the stream, the background is filled with lush green trees, with a faint fence line visible on the far right.
+end of description
+The viewpoint slowly progresses forward and slightly upward, steadily revealing more of the stream's winding path and additional forested areas further into the distance relative to the initial perspective.
+frame_0000000384-frame_0000000512:
+The first frame presents a rocky stream flowing towards the viewer through a lush, verdant forest. Dense green foliage and bushes line the left side, extending into the midground, while the right side features a grassy bank with ferns and a large moss-covered rock in the foreground. Further back, more trees and hints of a fence or structure are visible on the upper right, behind the trees.
+end of description
+Throughout the following frames, the primary dynamic change is the constant flow of water within the stream, visually rushing and churning over the visible rocks from the midground towards the foreground. The surrounding forest and stream bed remain spatially fixed relative to the viewer's initial viewpoint, with no new objects or scenes revealed.

@@ -1,0 +1,13 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a multi-lane road extending ahead, flanked by utility poles and a white building to the far left, and a sidewalk alongside a concrete block wall to the right. Several vehicles are visible moving forward on the road, with distant hills and a bright, wispy cloud-filled sky forming the backdrop. end of description
+As the viewpoint progresses forward, the concrete wall continues to the right, and a bare tree briefly becomes visible behind it. Subsequently, a large white utility trailer and some stacked boxes are revealed behind the wall, further ahead and to the right of the original path. The wall then recedes from view, exposing more distant houses and arid landscape to the right as the vehicle continues along the road.
+frame_0000000128-frame_0000000256:
+The first frame displays a multi-lane road stretching forward, reflecting bright sunlight under a partly cloudy sky with the sun high and slightly to the left. To the left, power poles line the road leading to distant buildings, while to the right, a low wall and residential houses are visible behind a sidewalk, with two cars positioned ahead on the road.
+
+end of description
+
+As the viewpoint advances, objects previously to the left (power poles and buildings) and right (the wall and houses) gradually shift rearward relative to their initial positions, replaced by newly revealed sections of the roadside environment further ahead, including more of the residential area and a bare tree on the right becoming more prominent. The two cars ahead maintain their spatial positions relative to the viewer, moving forward synchronously.
+frame_0000000256-frame_0000000384:
+The first frame displays a multi-lane road under a bright, cloudy sky, leading into the distance with a dark car ahead; a long building is visible to the left, and a house behind a tan wall with a bare tree stands to the right.
+end of description
+As the viewpoint progresses, the dark car ahead approaches, while the house, bare tree, and a newly revealed light-colored travel trailer (initially behind the house to the right) all recede, eventually moving out of the frame to the right of the original viewpoint. Simultaneously, the tan wall on the right extends further into view, and new vehicles emerge and pass the viewpoint on the left.

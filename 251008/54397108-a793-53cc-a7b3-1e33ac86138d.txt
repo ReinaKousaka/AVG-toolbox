@@ -1,0 +1,10 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a paved road curving gently uphill and to the right, flanked by a steep, lush green grassy hillside on the left with wooden fence posts. To the road's right are a gravel shoulder, more grass, and fence posts, behind which a utility pole stands. Further back, a small building is visible among dense trees that cover the hills, with distant mountains under a clear blue sky. Several utility lines span horizontally across the upper sky.
+
+end of description
+
+As the frames progress, the viewpoint moves forward along the road, causing the immediate foreground, including the grassy verges and fence posts, to shift past the viewer. The utility pole and the small building on the right move closer, gradually becoming more central before receding to the right as the camera advances along the curving path. The distant forested hills and mountains in the background steadily grow larger and more defined, indicating the viewer's continuous approach.
+frame_0000000128-frame_0000000256:
+The first frame shows a paved road extending from the bottom center, curving slightly uphill, flanked by a steep grassy hillside on the left and a shallower grassy verge with a wooden fence on the right. In the mid-ground, a tall dark green coniferous tree stands right of the road, with a small brown-roofed building visible further up and right. Behind these, forested hills rise to meet distant mountains under a clear blue sky, while a utility pole with wires is positioned to the left.
+end of description
+As the frames progress, the viewer moves forward along the road, causing the immediate foreground to recede. More of the grassy hillside and additional wooden fence posts appear to the left, moving closer to the viewer. A red car, initially obscured behind the large evergreen tree to the right of the road, gradually comes into full view. Concurrently, a white and red flag becomes clearly visible to the right of the small building as the viewpoint advances uphill.

@@ -1,0 +1,14 @@
+frame_0000000000-frame_0000000128:
+A wet, paved path with white arrows, bordered by lush green bushes on the left, curves into the distance ahead of the viewer. To its right, another wider, wet paved path marked with white arrows and a red bicycle symbol runs alongside a covered shelter with wooden benches on the right. Numerous green trees dominate the background under an overcast sky.
+end of description
+The viewpoint slowly advances forward along the left path, revealing more of the converging paths ahead and a body of water becoming more clearly visible in the distant background. Simultaneously, the covered shelter on the right moves further to the right and gradually out of the frame, emphasizing the forward motion.
+frame_0000000128-frame_0000000256:
+In the first frame, a wet paved path, reddish-brown with a central white dividing line and two white arrows pointing away, dominates the lower center and right, curving slightly left into the midground. To the immediate left is a dense green bush, bordering a grassy area that extends towards the midground. Beyond the path's curve, several park benches are visible in the mid-distance near what appears to be a body of water, with numerous lush green trees forming a dense backdrop across the entire scene under an overcast sky.
+
+end of description
+
+As the frames progress, the viewpoint moves forward and slightly left. The large green bush on the left recedes, revealing several vibrant orange-red flowers growing alongside the grassy edge. The white arrows on the path move out of view at the bottom of the frame, and more of the path ahead, with its continuing white dividing line, becomes visible.
+frame_0000000256-frame_0000000384:
+The first frame displays a wet park scene under an overcast sky, with a reddish-brown paved path extending from the foreground into the mid-distance, marked by a white line. To the left, a grassy slope meets a muddy path, and beyond it, a body of water is visible under several large trees. To the right, a darker paved track with two white lines curves away, bordered by green bushes, while multiple trees with dense foliage are prominent across the midground and background, and a distant bridge is faintly seen over the water.
+end of description
+Frames 2 through 7 exhibit no noticeable changes. In frame 8, a distant person holding a white umbrella appears on the right paved track, walking away from the viewer. This person remains visible in frame 9, which also introduces a "Rain" watermark in the bottom-left corner of the frame.

@@ -1,0 +1,14 @@
+frame_0000000000-frame_0000000128:
+The first frame features a two-story building centrally positioned, displaying a reddish tiled roof, a light-colored upper floor with numerous windows, and a vine-covered stone ground floor with arched wooden doors. A large tree with green foliage partially obscures the building's left side, while a tall traveler's palm stands prominently to its right. A vibrant green lawn fills the foreground left, and a grey paved path curves from the center-foreground towards the right, leading past a visible car and another building in the background.
+
+end of description
+
+There are no dynamic changes, newly revealed objects, or scene alterations observed in the subsequent frames; all frames remain identical to the first.
+frame_0000000128-frame_0000000256:
+A large, two-story building dominates the central view, featuring a red-tiled roof and an upper level with light-colored wooden walls, numerous windows, and decorative balcony details. Its lower level consists of stone walls mostly covered in ivy, framing multiple arched wooden doors, while a paved, grey-brick pathway curves from the foreground towards the right, bordered by vibrant green grass. To the far left, a large tree with bare branches extends into the frame, and a prominent fan-shaped palm tree stands to the right of the pathway.
+end of description
+The subsequent frames depict an almost static scene, with the camera executing only a very subtle, slow pan to the right, minimally altering the visible scene from the first-frame viewpoint. No new objects or significant scenes are revealed; the building, trees, and pathway maintain their relative positions within the shifting frame. Towards the end of the sequence, a watermark reading "Wind Walk Travel Videos" gradually appears in the bottom-left corner of the frame.
+frame_0000000256-frame_0000000384:
+A large, two-story building with a red-tiled roof dominates the left and center of the frame, featuring a stone/concrete lower level covered in green ivy around multiple reddish-brown wooden doors, and an upper level with light-colored walls and numerous windows. A cobblestone path occupies the foreground, extending from the viewer towards the left of the building, flanked by green grass on both sides. To the mid-right, a prominent plant with large, paddle-shaped green leaves stands, with more foliage and a hint of another structure visible further back on the right. The sky, clear and blue, is visible above the building.
+end of description
+The camera executes a very subtle, slow pan to the right. As the scene shifts rightward, a black lamppost with a golden top gradually emerges from the far right edge of the frame, positioned to the right of the large leafy plant visible in the first frame. No other significant objects are newly revealed or undergo dynamic changes.

@@ -1,0 +1,16 @@
+frame_0000000000-frame_0000000128:
+The viewer looks forward along two parallel train tracks stretching into the distance, curving gently left under an overcast sky. Dense green and brown forests flank both sides of the tracks, rising from the foreground towards the horizon. Overhead power lines are visible above the tracks, also receding into the distance.
+end of description
+As the viewpoint moves forward along the tracks, the forest recedes while new elements emerge. A utility pole supporting the overhead lines appears on the right, moving from the mid-ground to the foreground before exiting the frame to the right. Simultaneously, a dark house with a light roof and a green lawn emerges from the trees on the right side of the tracks, moving closer and passing by. An unpaved road becomes visible parallel to the tracks, beyond the house, as it moves out of view.
+frame_0000000128-frame_0000000256:
+The first frame shows railway tracks centered in the foreground, extending into the distance where they curve slightly left, surrounded by gravel ballast. Dense green vegetation and trees line both sides of the tracks, with an overcast sky visible above. Overhead power lines stretch longitudinally above the tracks, while a small white marker post stands to the left of the tracks in the mid-distance and a dark structure is nestled far right.
+end of description
+As the viewpoint moves forward, the dark structure on the far right passes out of view. The white marker post initially on the left moves closer, eventually passing to the left and behind the first-frame viewpoint. A tall black power pole emerges from the right, moving towards and then past the viewer to the right and behind the initial viewpoint, as two yellow rectangular objects are revealed on the track ballast ahead.
+frame_0000000256-frame_0000000384:
+The first frame displays a two-track railway receding into the distance, flanked by green and autumn-tinged deciduous and evergreen forests on both the left and right sides, beneath an overcast sky. Overhead electrical wires run parallel to the tracks, stretching forward from above the viewer.
+end of description
+As the viewer moves forward, the tracks, surrounding vegetation, and overhead wires dynamically shift towards the frame's edges before disappearing behind the viewer. A power pole, initially distant on the right side of the tracks, and a triangular sign on a post, first visible on the distant left, progressively approach and then pass the viewer.
+frame_0000000384-frame_0000000512:
+A train's forward-facing view shows two railway tracks receding into the distance, curving slightly right under an overcast sky, flanked by dense green and autumnal trees on both sides. Overhead wires stretch along the path, and a distant utility pole stands to the right of the tracks.
+end of description
+Subsequent frames reveal the train moving forward, causing the surrounding trees and ground to rush past the viewer on both sides. The utility pole on the right approaches and then recedes, as a fence emerges alongside the tracks on the right. A dark wooden structure, possibly a bridge or tunnel entrance, becomes increasingly visible and approaches from the far right.

@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a paved road curving slightly right, leading into a valley flanked by mountains, with a hazy floor under a bright, central sun. Dry grassy slopes with fence posts line the immediate foreground to the left and right, while a dark house is visible to the left of the road in the middle ground, surrounded by bare trees.
+end of description
+As the viewpoint moves forward, the immediate foreground fence posts and the signpost on the left disappear from view. The house and bare trees on both sides of the road appear progressively closer, revealing more green grassy slopes to the right and a smaller structure behind the main house on the left.
+frame_0000000128-frame_0000000256:
+The first frame depicts a scenic mountain valley under a clear blue sky, with a bright sun in the upper center. A paved road curves from the foreground towards the mid-ground, flanked by green grassy slopes and a simple wire fence. To the left of the road stands a dark gabled building, with distant misty mountains receding into the background and a large bare tree to the right of the road.
+end of description
+Throughout subsequent frames, white smoke gradually emerges and ascends from a chimney on the dark gabled building, drifting upwards and to the left of the viewpoint. Later, a small red and white flag appears on a pole positioned near the large bare tree to the right of the building.

@@ -1,0 +1,30 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a paved road with a yellow center line extending into the distance, flanked by green foliage and mountains under a cloudy sky. A small white building on stilts is visible on the left hillside, while a yellow triangular steep descent sign stands on the right, and a white car is far ahead on the road.
+end of description
+As the viewpoint moves forward, the yellow sign on the right moves out of view behind the viewer. The white building and a communication tower behind it on the left progressively enlarge and approach. Simultaneously, the white car in the distance draws closer, and the dense foliage on the right recedes, eventually revealing road barriers.
+frame_0000000128-frame_0000000256:
+The first frame presents a two-lane paved road with a solid yellow center line extending into a mountain valley under a partly cloudy sky. To the left, a white two-story building on stilts with red trim is visible next to a steep, rocky mountain face, while dense green trees and bushes line the right side of the road. In the mid-distance, a white van is seen approaching the viewer on the left lane.
+end of description
+As the frames progress, the white van rapidly approaches the viewer from ahead, then passes to the viewer's left, and subsequently recedes behind the viewer. Simultaneously, the building on stilts, initially to the viewer's left, recedes and eventually moves out of view, while the mountainous landscape and vegetation on both sides of the road continue to unfold ahead.
+frame_0000000256-frame_0000000384:
+A paved mountain road with a yellow center line stretches from the viewer into the distance, flanked by steep, rocky inclines covered in dense green trees and shrubs. A white SUV with a dark grille is driving towards the viewer on the left side of the road, while rugged mountains rise in the cloudy background.
+end of description
+The white SUV approaches, moving from the midground towards the viewer, before passing the viewer on the left. As the viewer moves forward, previously obscured sections of the road further ahead become visible, revealing more of the winding path through the mountainous terrain. The surrounding mountains and forested slopes largely retain their spatial relationship to the viewer's initial perspective.
+frame_0000000384-frame_0000000512:
+The first frame displays a grey asphalt road with a yellow center line extending into the distance, bordered by steep rocky embankments covered with green trees and sparse vegetation on both the viewer's left and right; distant mountains are visible straight ahead under an overcast sky.
+end of description
+As the viewpoint moves forward, the initial sections of the rocky embankments and foliage on both sides pass by, while new portions of the road and valley, previously further ahead in the first frame, become progressively closer. Power lines, initially out of frame above the left embankment, become visible above and to the left as the viewer proceeds. The distant mountains straight ahead gradually appear closer as the journey through the valley continues.
+frame_0000000512-frame_0000000640:
+The first frame displays a grey asphalt road with a yellow double center line stretching into the distance, flanked by steep, rocky mountainsides densely covered in lush green trees and bushes. A prominent, round green tree is positioned on the right side of the road in the midground, with power lines visible overhead to the upper left and distant mountains beneath a cloudy sky.
+end of description
+As the viewer moves forward along the road, the immediate scenery from the initial frame recedes behind, continuously revealing new segments of the road and more of the verdant mountain slopes ahead. Red and white chevron road markers sequentially appear on the right shoulder, and then the left shoulder, having been situated further down the road from the first-frame viewpoint. The distant mountains ahead become progressively clearer as the journey advances.
+frame_0000000640-frame_0000000768:
+From the viewer's perspective, a paved road stretches ahead with a yellow center line and white shoulder lines; red-and-white striped barriers mark the immediate left and right road edges. Lush green trees and vegetation line both sides of the road, with steep, rocky mountains rising behind them, while distant mountains appear under a cloudy sky in the background.
+
+end of description
+
+As the scene progresses, the viewer moves forward along the road, causing the initial barriers to pass out of view to the sides. More of the road ahead and the surrounding mountain landscape, including a utility pole on the upper right mountain, a yellow warning sign, and white rumble strips on the road surface, are progressively revealed relative to the first-frame viewpoint.
+frame_0000000768-frame_0000000896:
+A paved road stretches ahead into a mountain pass, bordered on the left by a steep, tree-covered rocky mountain and on the right by a gentler slope with bushes and scattered rocks. A tall tree stands further along the right, with a distant mountain peak visible under a cloudy sky, and a yellow warning sign faintly visible on the right side of the road.
+end of description
+As the viewpoint moves forward, the yellow warning sign on the right approaches and clarifies, while a utility pole emerges on the far right. A large concrete bridge structure progressively becomes visible on the upper right, beyond the initially seen tall tree. All foreground elements move towards and past the viewer as the scene advances.

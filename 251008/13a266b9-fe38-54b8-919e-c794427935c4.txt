@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+A paved road curves slightly left in the foreground, flanked by a steep, grassy bank with exposed rock and sparse trees on the right, and a vibrant green grassy slope on the left. In the midground, a small, brown wooden hut with a dark roof is situated on the left slope, beyond which distant mountains shrouded in clouds frame the background under an overcast sky.
+end of description
+As the viewer moves forward along the road, the immediate surroundings approach and pass. The dense foliage and rocky bank on the right side of the road become increasingly prominent and closer to the viewer. Simultaneously, a reddish-orange fence post on the left side of the road, previously hidden, emerges and passes, moving from left-mid to left-foreground. The small hut and distant mountains in the background slowly enlarge as the viewer advances towards them.
+frame_0000000128-frame_0000000256:
+In the first frame, a narrow asphalt road curves gently to the right in the foreground, flanked on its right by a steep, mossy, tree-covered rocky embankment. To the left of the road, lush green hills slope downwards, featuring scattered trees and a small wooden house with a red roof nestled in the mid-ground, while distant forested mountains are partially obscured by low-hanging clouds under an overcast sky.
+end of description
+As the frames progress, the viewpoint moves forward along the road, causing the immediate section of the road and the base of the rocky embankment to the right to appear closer and slightly expand from the initial perspective. Simultaneously, the green hills and the distant wooden house, previously seen to the left, become marginally closer as the viewer advances into the scene.

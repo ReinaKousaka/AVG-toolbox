@@ -1,0 +1,6 @@
+frame_0000000000-frame_0000000128:
+In the first frame, an asphalt road with white dashed and solid lines curves gently to the left in the foreground. To the immediate left, a light-colored building and a white van are parked, while further down the curving road, more houses are visible under a bright, low sun on the horizon. On the right, a low concrete wall topped with a green hedge runs parallel to the road, with another building and trees behind it. In the background, majestic, rugged dark mountains rise prominently against a partly cloudy sky.
+
+end of description
+
+As the viewpoint progresses along the road, the white van on the left recedes and moves out of view to the left of the original position, revealing more of the building behind it. A new street lamp emerges from behind the hedge on the right side of the road, gradually appearing further along the road from the initial viewpoint and growing larger. The buildings and mountains in the background shift their relative positions as the scene advances, and more of the curving road ahead becomes visible.

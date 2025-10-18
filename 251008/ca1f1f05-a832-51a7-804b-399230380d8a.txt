@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a city street under a clear blue sky, with a dark pole featuring a green traffic light and yield sign positioned in the foreground, center-left, next to a pedestrian crossing. Historic multi-story buildings line the road to the left, where parked cars are visible, while on the right, a person walks on the sidewalk adjacent to a long green hoarding that extends into the midground.
+end of description
+The traffic light then dims as a dark scooter and subsequently a black car appear on the road to the left, both moving away from the viewer. Concurrently, the green hoarding on the right recedes, gradually revealing a multi-arched bridge and water in the background, as the person on the sidewalk continues moving deeper into the scene. Finally, a black van drives past the viewer on the road to the left.
+frame_0000000128-frame_0000000256:
+The first frame shows a Parisian street scene with classic multi-story buildings lining the left, a black minivan driving away from the viewer on the street, and a man walking towards the viewer on the right-side sidewalk, which is separated by a stone wall from a river with bridges and buildings beyond.
+end of description
+As frames progress, the man walks further past the viewer and out of the scene to the right, while the black minivan continues to recede down the street to the left. A white car then enters the frame from the viewer's left, also moving away down the street, followed by a light blue "France Express" delivery van, which also passes by on the viewer's left.
+frame_0000000256-frame_0000000384:
+The first frame depicts a Parisian street with a sidewalk in the foreground-right and a road to its left, where a blue 'FRANCE EXPRESS' van is parked alongside multi-story buildings. A bus stop sign stands in the middle-left, while a stone wall with green sheds runs along the right, overlooking a river and distant city structures.
+end of description
+A scooter subsequently travels from the far left of the road, passing the 'FRANCE EXPRESS' van and the bus stop sign before exiting to the far right. Following this, a cyclist emerges from the left on the road, also passing the van and sign as they move right. Subsequently, a black car appears from the far left on the road, moving past the remaining vehicles and the bus stop sign before exiting to the viewer's right.

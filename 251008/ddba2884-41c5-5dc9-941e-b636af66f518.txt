@@ -1,0 +1,26 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a street scene with a concrete 'ANTIQUES' sign (center-left) and a partial 'BOOKS' sign (bottom-right) in the foreground next to a parking meter, with a black SUV driving towards the viewer (midground-right) and pedestrians on the left sidewalk.
+end of description
+Subsequently, the black SUV moves closer to the viewer before turning right and exiting the frame, while a silver sedan emerges from further down the street (midground-right) and advances towards the viewer. The 'BOOKS' sign becomes more fully visible (bottom-right), and the pedestrians continue walking away (midground-left).
+frame_0000000128-frame_0000000256:
+The first frame captures a city street view with a white 'ANTIQUES' sign and a dark gray parking meter on a pole in the foreground right. A paved sidewalk extends leftward, featuring trees and two distant pedestrians walking away from the viewer, while a silver sedan travels left on the adjacent road, with multi-story buildings and a parking lot visible in the background.
+
+end of description
+
+The silver sedan on the road continues to move left, exiting the frame, and the two initial pedestrians on the sidewalk also proceed leftward away from the viewer. A new pedestrian then appears further down the sidewalk, continuing in the same leftward direction. Concurrently, the camera slightly pans or zooms out, revealing more of the bottom portion of the 'ANTIQUES' sign.
+frame_0000000256-frame_0000000384:
+In the first frame, a weathered white sign with partial red letters "ANTI" is in the immediate foreground on the right, next to a dark gray parking meter displaying a blue 'P'. Behind these, a dark pole is visible. To the left, a sidewalk recedes into the distance with a young tree in the mid-ground and two people walking away. A multi-story building with balconies stands in the background, across a street that has a pedestrian crossing mark and scattered vehicles.
+end of description
+As the frames progress, the foreground white sign moves further right, progressively revealing a black, curved bicycle rack that appears in the mid-foreground, slightly to the right of the central tree. By the final frames, the white sign is almost entirely out of view to the far right, and the bicycle rack is fully visible. A pedestrian crosses the street from the right towards the left in the mid-ground, and a "Wells Fargo" sign on a building in the background becomes more visible as the foreground sign disappears.
+frame_0000000384-frame_0000000512:
+A street scene shows a tree trunk in the mid-foreground slightly right of center, with a sidewalk extending left into the distance. Two people walk on this sidewalk, past a parked white SUV and a traffic light pole, while a wide street stretches forward on the right with a person crossing it in the mid-distance, fronting a multi-story building with balconies and a "WELLS FARGO" sign.
+end of description
+The two individuals on the sidewalk move further away from the viewer, and the person crossing the street on the right continues to move left across the intersection.
+frame_0000000512-frame_0000000640:
+In the first frame, a tree trunk with green leaves occupies the foreground on the right. To the left, two men walk towards the viewer on a sidewalk, which runs along the left side of a wide street extending into the midground and background. Overhead, traffic lights are visible above the street, while various cars are parked on the far left and driving further down the street. On the right, a multi-story building with glass balconies stands prominently in the midground, featuring a "Wells Fargo" sign at its base. The sky is a clear blue with some clouds, and "MAIN ST" is labeled in the bottom-left corner.
+end of description
+The two men on the sidewalk walk forward, moving progressively closer to the viewer and into the left foreground. Concurrently, the traffic lights ahead transition from green to red. A pedestrian crossing the street in the midground, starting from the right side near the Wells Fargo building, proceeds across the intersection and exits the frame to the left.
+frame_0000000640-frame_0000000768:
+In the first frame, two men walk towards the viewer on a sidewalk to the left, while a street extends to the right towards an intersection. A modern multi-story building with balconies stands in the background right, alongside trees and a "Wells Fargo" sign, with "MAIN ST" text at the bottom left.
+end of description
+In the following frames, the man in the green tank top, initially closer to the viewer on the left, moves forward and exits the frame to the viewer's lower left. The second man, wearing a white t-shirt, follows behind him, also walking past the viewer and exiting to the lower left of the frame.

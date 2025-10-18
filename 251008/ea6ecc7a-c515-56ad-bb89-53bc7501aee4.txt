@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+A dirt path leads from the bottom center upwards along a steep, grassy hillside on the right, featuring scattered rocks and bushes, while evergreen trees border a deep valley to the left. Across this valley, majestic snow-capped mountains rise under a partly cloudy blue sky in the background, and a lone person walks on the path in the middle distance, moving away from the viewer.
+end of description
+No discernible dynamic changes or newly revealed objects occur in the subsequent frames; the scene, including the person's position, remains static relative to the first-frame viewpoint.
+frame_0000000128-frame_0000000256:
+The first frame shows a rocky dirt path leading into the distance, with a lone person walking on it towards distant snow-capped mountains. To the left, a steep green valley descends, while to the right, a grassy slope with bushes and rocks ascends. The majestic mountains, partially obscured by clouds, are visible in the background, far beyond the person.
+end of description
+The viewpoint steadily moves forward along the path, revealing more of the immediate path and surrounding terrain. The initial person walks further into the scene and eventually exits the frame to the left of the first-frame's visible area, while a second person appears on the path, initially behind the first, also moving forward into the scene.
+frame_0000000256-frame_0000000384:
+A rocky path, originating from the bottom center, extends into the mid-ground, flanked by a steep, grass and rock-covered slope on the right and a deep valley with a few evergreen trees on the left. Two small figures are seen walking away from the viewer on this path in the mid-ground, while in the background, majestic snow-capped mountains rise above the valley to the left, all under a blue sky adorned with scattered white clouds.
+end of description
+The two figures on the path continuously walk further away from the viewer, moving deeper into the mid-ground towards the distant snow-capped mountains on the left. No new objects or scenes are revealed; the surrounding mountainous landscape remains stationary relative to the first-frame viewpoint.

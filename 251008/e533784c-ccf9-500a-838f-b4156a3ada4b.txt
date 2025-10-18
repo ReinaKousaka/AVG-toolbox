@@ -1,0 +1,29 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a paved highway curving slightly right, framed by a concrete barrier with green posts on the left and a silver guardrail on the right, all set within a valley between verdant, brush-covered mountains under a blue sky dotted with white clouds; a light pole and power lines are visible on the right, with a green road sign appearing in the distance.
+end of description
+As the viewpoint moves forward, the road, barriers, and guardrail progress towards and eventually out of the bottom of the frame, while the light pole and road sign approach and pass to the right, revealing more of the winding highway within the unchanged mountainous terrain.
+frame_0000000128-frame_0000000256:
+The first frame shows a paved road, marked with white lines, curving gently to the right, flanked by a concrete barrier with green posts on the left and a metal guardrail on the right, beyond which a pole with a wind turbine and solar panels stands. Lush green mountains rise on both sides under a blue sky with scattered clouds, with a small road sign visible in the distant center.
+
+end of description
+
+As the camera moves forward along the road, the pole with the wind turbine and solar panels passes out of view to the right of the first-frame's initial position. The concrete barrier on the left and guardrail on the right also pass by, increasingly revealing a terraced hillside to the left and a riverbed further right. The previously distant road sign and mountains ahead appear to move closer to the camera's progressing position.
+frame_0000000256-frame_0000000384:
+The first frame displays a multi-lane highway curving gently to the right, extending into the distance from the viewer's immediate foreground. To the viewer's left, a steep, terraced slope with green retention posts lines the road, while on the right, a metal guardrail separates the highway from a lower grassy area with a riverbed and distant green mountains. A green road sign is positioned in the mid-distance on the right, under a bright blue sky filled with white clouds.
+end of description
+As the frames progress, the viewer moves forward along the highway. The green road sign on the right approaches and passes the viewer. Simultaneously, large Chinese characters become visible on the terraced slope to the left, gradually moving from the mid-distance towards the foreground. White Chinese characters also progressively appear painted on the asphalt surface of the road ahead, moving closer to the viewer.
+frame_0000000384-frame_0000000512:
+The first frame depicts a wide, paved road extending into the distance under a bright blue sky filled with white clouds. To the viewer's left, a steep, terraced hillside with erosion control netting and green supports runs alongside the road. On the right, a metal guardrail separates the road from a field of dry vegetation and distant dark green mountains, with a prominent green sign showing an "Emergency Parking Lane" symbol and text positioned behind the guardrail to the right of the road's center.
+end of description
+As the frames progress, the viewpoint moves forward along the road. The prominent green sign, initially positioned to the right of the road in the mid-distance, gradually moves further right and recedes out of frame. Concurrently, the terraced hillside to the viewer's immediate left moves past the viewpoint, revealing more of its structure before receding. The distant mountains and sky maintain their positions, illustrating continuous forward motion through the landscape.
+frame_0000000512-frame_0000000640:
+The first frame displays a highway extending forward, bordered by a terraced embankment with green barriers on the left and a silver guardrail next to a dry, sparse-treed field on the right. Distant dark green mountains frame the road under a blue sky with white clouds. end of description. Throughout subsequent frames, the viewpoint continuously moves forward along the highway. The embankment, guardrail, and field progressively shift from directly ahead to the immediate left and right, then recede behind the viewer. The distant mountains remain ahead, appearing closer as the foreground moves past, without revealing any new objects.
+frame_0000000640-frame_0000000768:
+The first frame displays a highway stretching into the distance under a blue sky with white clouds. To the left, a steep, terraced embankment with green retention barriers runs parallel to the road, while to the right, a metal guardrail separates the highway from a dry, grassy field with sparse trees, all framed by dark green mountains in the background.
+end of description
+As the frames progress, the viewpoint moves steadily forward along the highway, causing the white dashed road markings to advance from the distance and then pass beneath the viewer. Concurrently, the terraced embankment on the left and the guardrail and field on the right appear to recede, reinforcing the continuous forward motion through the mountainous landscape without revealing any new objects or scenes.
+frame_0000000768-frame_0000000896:
+The first frame features a gray highway stretching away from the viewer towards a valley between mountains. To the viewer's left, a light-colored retaining wall with green horizontal elements rises, bordered by a green barrier closest to the road. On the right, a silver metal guardrail parallels the road, beyond which lies a dry, yellowish field with sparse, bare trees. Dark green mountains frame the distant highway on both sides, under a blue sky filled with numerous white clouds.
+
+end of description
+Across the following frames, the main dynamic change is the subtle shifting and reshaping of the white clouds positioned in the sky above the mountains. No new objects or scenes are revealed, and the overall landscape and highway remain static relative to the fixed first-frame viewpoint.

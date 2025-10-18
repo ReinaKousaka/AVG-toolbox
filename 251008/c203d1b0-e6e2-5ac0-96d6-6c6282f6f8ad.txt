@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame captures a bustling street scene at dusk. In the immediate foreground, the right shoulder and a portion of the head of a person are visible. A paved walkway, filled with numerous pedestrians moving in various directions, stretches from the mid-ground into the distance. To the right, a grassy embankment with trees accommodates more people, while buildings with illuminated signs line the street on the left, extending into the background beneath a cloudy twilight sky.
+end of description
+As the viewpoint subtly shifts forward and slightly left, a prominent blue and red 'No Parking' sign on a pole emerges and moves closer into the mid-ground on the left. The person in the foreground becomes clearer, now visibly wearing a light-colored hat, while all the pedestrians on the street and embankment continue to move, changing their positions relative to the static first-frame viewpoint.

@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+First, the viewer looks down a narrow, leaf-strewn dirt path extending into a dense green forest, flanked by thick foliage and numerous tree trunks, including a prominent light-barked tree on the mid-right.
+end of description.
+As the camera moves forward along the path, new sections of the trail ahead are continuously revealed, while the dense foliage and tree trunks on both sides, including the prominent right-side tree, progressively move from deeper in the frame towards the foreground and eventually exit the view to the sides.
+frame_0000000128-frame_0000000256:
+The first frame depicts a narrow, leaf-strewn dirt path extending forward into a dense forest, with lush green foliage and tree trunks lining both sides, and a bright sky visible through the canopy above right.
+end of description
+As the frames progress, the viewpoint moves steadily forward along the path, causing the foreground foliage to recede while previously distant sections of the path and the surrounding forest gradually come into closer view directly ahead of the original position. The relative positions of trees and undergrowth to the left and right shift, revealing new sections of the continuous natural environment further along the trail.
+frame_0000000256-frame_0000000384:
+The first frame displays a leaf-strewn, reddish-brown dirt path extending from the bottom center, curving slightly left into the middle distance, flanked by dense green foliage and trees. Lush undergrowth occupies the foreground and mid-ground to the left, while several thick tree trunks and abundant green leaves rise to the right.
+end of description
+The camera continuously moves forward along the path, causing the previously distant parts of the trail and surrounding forest to approach the viewer. As the viewer progresses, the initial foreground elements pass to the left and right, revealing new segments of the verdant woodland and winding path ahead.

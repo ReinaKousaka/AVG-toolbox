@@ -1,0 +1,30 @@
+frame_0000000000-frame_0000000128:
+In the first frame, a black minivan is parked on the left foreground, facing away, next to a sidewalk lined with motorcycles. To the right, the front of a white delivery truck is visible, parked facing towards the viewer. The asphalt road between them extends into the distance, marked with white arrows and pedestrian/bicycle symbols, along with blue parking symbols. On the far left, a fence and dense trees line the street, while on the right, a multi-story building with balconies stands, with several cars parked alongside it. In the background, distant apartment buildings rise under an overcast sky, with a red traffic light visible further down the street.
+end of description
+As the frames progress, the viewer moves forward along the road, causing the black minivan on the left and the white delivery truck on the right to recede behind the viewer's initial position. The road markings, including the right-turn arrow and pedestrian/bicycle symbols, appear to move closer to the viewer. Consequently, the distant buildings and traffic light also appear slightly closer to the viewer's evolving viewpoint.
+frame_0000000128-frame_0000000256:
+In the first frame, a black vehicle is partially visible in the immediate foreground to the left. Further along the left side of the street, a white signpost stands next to a row of parked bicycles and scooters, with dense green trees and distant tall buildings behind them. To the right, multi-story buildings with balconies line the street, and several cars are parked further down. The asphalt road ahead features white and blue painted markings, and the sky is overcast.
+end of description
+No significant dynamic changes are observed until frame 7. In frames 7 through 9, a person on a bicycle, wearing a dark blue polka-dotted rain poncho and carrying a backpack, emerges from the right side of the frame and proceeds to move left and away from the viewer along the street, becoming increasingly visible.
+frame_0000000256-frame_0000000384:
+The first frame captures a street scene with a white sign and a long row of parked bicycles lining the left side, backed by trees and distant apartment buildings. To the right, a person in a blue raincoat cycles away from the viewer on a paved road marked with blue arrows, while a multi-story building and parked cars are visible further along on the right.
+
+end of description
+
+As the frames progress, the cyclist continues to move further down the road, away from the viewer's initial position. A black taxi, bearing a "TAXI GO" logo, subsequently appears from the right side, driving forward and passing the cyclist as it moves away into the distance.
+frame_0000000384-frame_0000000512:
+The first frame depicts a street scene with a paved road extending from the viewer into the distance. On the far left, a utility pole stands tall, followed by a long row of parked bicycles and dense green foliage. To the right of the road, a black taxi minivan is seen from behind, moving away from the viewer, while a multi-story building with balconies lines the mid-ground, partially obscuring a parked grey SUV and a white car further down the street. In the far background, more urban buildings are visible under a cloudy sky.
+end of description
+The black taxi minivan recedes further into the distance along the right side of the road. Subsequently, the parked grey SUV and white car, previously partially obscured by the taxi to the right and further from the viewer, become more fully visible. Concurrently, a person on a bicycle, initially in the mid-left, continues riding forward, also receding into the distance along the bicycle lane.
+frame_0000000512-frame_0000000640:
+The first frame captures a city street bordered on the left by a black pole, parking machines, and a long row of parked bicycles alongside dense trees and a distant gray building. On the right, parked cars are visible next to a large apartment building with balconies. A black car and a person on a scooter proceed down the asphalt road, marked with a white line and blue arrows, towards the background.
+end of description
+No dynamic changes or newly revealed objects occur; all subsequent frames are identical to the first frame, showing a static scene.
+frame_0000000640-frame_0000000768:
+In the first frame, a dense row of parked bicycles occupies the left foreground, extending into the midground alongside a tree-lined fence. To the right, a silver car is parked near a multi-story building, while a road leads into the distance where a black car is stopped at a red traffic light, surrounded by urban buildings.
+end of description
+The distant traffic light changes from red to green by frame 6. Subsequently, the black car, previously stationary in the midground, begins moving forward away from the viewer, receding further down the road in the subsequent frames. A person also appears walking away from the viewer on the far left sidewalk as the scene progresses.
+frame_0000000768-frame_0000000896:
+The first frame depicts a street scene with parked bicycles lining the left foreground beside a fence and trees, while a paved road on the right passes multi-story buildings and leads to a distant white car stopped at a red traffic light.
+end of description
+Subsequently, a pedestrian on the left sidewalk, initially near the distant traffic light, walks progressively closer to the viewer, moving from the mid-ground past the stationary bicycles towards the foreground.

@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+In the first frame, the light-colored hood of a vehicle occupies the bottom of the frame. Ahead, a paved road gently curves to the left, flanked by a metal guardrail on the left and a stone retaining wall with a white barrier above it on the right. Beyond these structures, a vibrant autumn forest with orange and yellow trees covers steep hillsides to the left and right, with distant jagged mountains visible in the far left background, all under a clear blue sky.
+end of description
+As the vehicle moves forward, the road, guardrail, and retaining wall recede from the viewer. The autumn trees and distant mountains appear to move past the original viewpoint. A new yellow and black striped marker pole becomes progressively visible on the right side of the road, appearing from behind the initial retaining wall further along the road.

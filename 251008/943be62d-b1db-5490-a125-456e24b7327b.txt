@@ -1,0 +1,10 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a multi-tiered, reddish-brown pagoda with dark blue roofs, partially visible on the left side and extending upwards. Below it, a building with similar architecture and a dark blue tiled roof is visible. To the right and in the foreground, a large, prominent tree with bare, gnarled branches stands, with another similar tree further to its right. Blurred figures and small structures are present at the bottom of the frame, all under a clear blue sky.
+end of description
+The camera slowly pans to the left, gradually revealing more of the pagoda's full height and its connected lower building, which were initially partially obscured on the left side of the first-frame viewpoint. Simultaneously, the large bare tree and the other tree that were prominent on the right side of the first frame progressively move out of view towards the right. This continuous leftward pan makes the pagoda a more central and dominant feature in the evolving scene.
+frame_0000000128-frame_0000000256:
+In the first frame, a towering, five-tiered dark red pagoda with a golden spire is positioned prominently on the left, extending from the bottom to the top of the frame. Below and slightly to the right of the pagoda, a traditional Japanese building with a dark blue tiled roof is visible in the middle ground, extending across the lower-center. To the right of the viewer, a large, gnarled tree with intricate bare branches occupies the right half of the frame, reaching towards the sky, which is a clear blue. Smaller, bare tree branches are scattered in the foreground, partially obscuring the lower parts of both the pagoda and the adjacent building.
+
+end of description
+
+The multi-tiered pagoda and the large gnarled tree on the right remain stationary relative to the first-frame viewpoint throughout the sequence. The primary dynamic change involves the slender, bare branches in the foreground on the left, which gently sway back and forth across the frame, indicating a light breeze.

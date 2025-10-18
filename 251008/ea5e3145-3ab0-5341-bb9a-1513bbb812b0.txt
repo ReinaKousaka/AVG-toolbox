@@ -1,0 +1,7 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a narrow dirt path in the foreground, bordered by light wooden railings on both the left and right, which recede into a dense evergreen forest. Lush green ferns and other foliage cover the ground and a slope to the left, while tall trees rise prominently in the midground and background, meeting an overcast sky.
+end of description
+As the frames progress, the viewpoint slowly advances along the path, revealing more of the pathway and the surrounding forest vegetation further ahead. The wooden railings subtly shift, extending further towards the sides as the viewer moves deeper into the scene, and a slight brightening effect appears in the distant background.
+frame_0000000128-frame_0000000256:
+The first frame displays a dirt path descending into a dense, sunlit forest, with wooden railings framing the immediate foreground on both sides, and lush green ferns and towering trees filling the entire scene. end of description
+The viewpoint then steadily moves forward along the path into the forest; the wooden railings gradually recede and disappear from the bottom of the frame, revealing more of the path directly ahead. The dense vegetation on either side passes by as the tall trees in the background appear closer and shift perspective relative to the advancing camera.

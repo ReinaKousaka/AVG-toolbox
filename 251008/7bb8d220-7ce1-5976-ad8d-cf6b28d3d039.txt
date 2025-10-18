@@ -1,0 +1,29 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a narrow, sunlit alleyway between tall, aged buildings. To the viewer's immediate left is a yellow wall covered in purple graffiti and secured by white metal bars, while the right features a textured orange wall adorned with various graffiti, metal doors, and a faded "SACCO" sign. A single person in blue walks away from the viewer down the central paved path, heading towards a bright opening in the distance.
+end of description
+In the subsequent frames, the person consistently walks further away down the alley relative to the first-frame viewpoint, receding into the distance towards the bright opening. The ambient light at the far end of the alley subtly brightens throughout the sequence.
+frame_0000000128-frame_0000000256:
+The first frame shows a narrow, sunlit alleyway receding into the background, flanked by multi-story buildings. On the foreground-right, a graffiti-covered wall with closed metal doors features a purple sign above, while a shop entrance is visible to the left. A person, wearing a blue shirt and holding a dark bag, walks towards the viewer in the middle ground of the alley.
+end of description
+Over the following frames, the person consistently approaches the viewer, becoming progressively larger and more central within the alley. No new objects or scenes are revealed; the surrounding buildings and their details on both sides remain stationary relative to the initial viewpoint as the individual continues their walk forward.
+frame_0000000256-frame_0000000384:
+The first frame shows a woman in a blue shirt and jeans, carrying two black bags, walking towards the viewer in a narrow, old alleyway. To the viewer's immediate right, a graffiti-covered wall panel is prominent, while buildings with orange facades and shuttered windows line both sides, leading to a brighter opening in the distant background.
+end of description
+The woman continues walking closer to the viewer, progressively enlarging in the frame before passing by and exiting the scene to the viewer's right. Her departure reveals more of the previously obscured alleyway, including additional closed storefronts on both the right and left sides in the midground.
+frame_0000000384-frame_0000000512:
+The first frame displays a narrow, paved alleyway stretching into the distance, flanked by old buildings. On the immediate right, a dark green door covered in graffiti is partially visible, leading to a dark grey rolling shutter and an intercom on a salmon-colored wall, followed by a second rolling shutter and two brown doors with ornate lamps overhead. On the immediate left, a light beige building features a dark metal accordion gate covering a storefront, followed by multiple rolling shutters. The alley narrows and brightens significantly towards a distant, sunlit opening.
+
+end of description
+The viewpoint steadily advances forward into the alley. The dark green door on the right and the metal accordion gate on the left, initially in the foreground, progressively shift out of the viewer's field of vision to their respective sides. Concurrently, the dark grey rolling shutters and brown doors on the right wall, and the shutters on the left, become larger and more centered as the camera moves closer to them. The distant, sunlit opening of the alley also appears to draw nearer.
+frame_0000000512-frame_0000000640:
+The first frame depicts a narrow alleyway with a yellow wall and a closed roll-down shutter on the left, and a reddish-orange wall on the right featuring two closed doors, two lanterns, and a round plaque, all converging towards a bright opening in the distance.
+end of description
+As the camera moves forward, the initial rightmost wooden door exits the frame to the right, while a new dark door on the left and a new roll-down shutter on the right are revealed deeper into the alley. The round plaque and second door on the right become more central as the viewer advances, with graffiti on the left shutter becoming clearer.
+frame_0000000640-frame_0000000768:
+The first frame presents a narrow, paved alley receding into a brightly lit distance, flanked by multi-story buildings. On the left, a yellow-orange wall features a dark door and shutter, while on the right, a reddish-brown building displays a wooden door, a partially visible round sign, and a dark green door with ornate grillwork.
+end of description
+The viewpoint slowly pans rightward. The round sign and the wooden door on the right, initially prominent in the mid-right, progressively move further right and eventually exit the frame relative to the first-frame viewpoint. Simultaneously, the dark green door on the right shifts right, and a dark wooden door on the left becomes more fully revealed as the scene rotates.
+frame_0000000768-frame_0000000896:
+The first frame depicts a narrow, paved alleyway. To the immediate left is a dark wooden door, while to the right is a dark green door with an ornate handle and an intercom. Both reddish-brown building walls further down display closed metal coverings, with distant buildings and bright light visible at the alley's end.
+end of description
+As the frames advance, the viewpoint moves forward into the alley; the immediate foreground doors recede and exit the frame. This continuous forward movement brings the metal grate on the left wall and the rolling shutter on the right closer, as the alley's bright opening becomes more prominent.

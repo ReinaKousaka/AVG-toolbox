@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+From a dirt path on a rocky, tree-covered hillside, the viewer looks across a valley towards a distant range of snow-capped mountains under a bright sky. Evergreen and reddish bushes line the path in the midground, with scattered rocks and sparse ground cover directly in front of the viewer.
+end of description.
+The camera slowly pans to the right, gradually revealing more of the expansive valley and further snow-capped peaks that were previously outside the frame to the right of the first-frame's view. The immediate foreground path and surrounding trees progressively shift leftward within the frame as the panorama expands.
+frame_0000000128-frame_0000000256:
+The first frame displays a dirt path receding into the mid-ground, flanked by various green and reddish-brown shrubs and small evergreen trees on a rocky terrain. Beyond this immediate ridge, a vast, dry valley stretches into the distance towards a prominent range of snow-capped mountains under a light blue sky with scattered clouds.
+end of description
+As the frames progress, the viewpoint moves forward along the path, causing the foreground shrubs to gradually recede from the bottom and side edges of the frame. The path ahead and the distant valley and mountains appear to grow larger and shift towards the viewer's new position, effectively bringing the scene further into focus. No entirely new objects or scenes are revealed from behind, to the left, or to the right of the initial frame's scope.

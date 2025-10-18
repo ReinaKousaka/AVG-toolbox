@@ -1,0 +1,20 @@
+frame_0000000000-frame_0000000128:
+The first frame shows the viewer looking upwards at a vibrant blue sky, which forms a clear, open expanse directly above. Surrounding this central sky are the tops of various trees, with branches and foliage, some dark green and coniferous, others lighter green and deciduous, framing the view from all directions overhead.
+end of description
+In the subsequent frames, the scene remains unchanged regarding overall composition or newly revealed objects or scenes. The only dynamic change is the subtle, gentle swaying of the tree branches and leaves directly above the viewer, indicating a light breeze.
+frame_0000000128-frame_0000000256:
+The first frame presents a worm's-eye view looking directly up at a bright blue sky, which forms an elliptical opening overhead, completely surrounded by the dark green and brownish-green canopies and branches of tall trees positioned above and around the viewer.
+end of description
+Subsequent frames show the tree canopies and branches gently swaying around the central sky opening, indicating subtle movement in the forest above. Minor shifts in light and shadow occur across the foliage, suggesting a light breeze without revealing any new objects or scenes.
+frame_0000000256-frame_0000000384:
+The first frame displays a clear blue sky directly above the viewer, forming an open, roughly oval shape in the center of the image. Surrounding this sky, the green and brown foliage of numerous tall trees frames the view from the left, right, top, and bottom edges, suggesting the viewer is looking up from within a forest.
+end of description
+In the subsequent frames, the tree branches and foliage subtly sway from left to right across the entire canopy, indicating gentle movement like wind. No new objects or scenes are revealed; the dynamic changes are confined to the existing trees framing the unchanging blue sky above.
+frame_0000000384-frame_0000000512:
+The first frame shows the viewer looking directly upwards at a wide expanse of bright blue sky positioned centrally overhead. This sky is framed by the canopies of numerous tall trees, primarily appearing along the left, right, and lower portions of the view, with their foliage extending upwards towards the center and some sparse branches also visible at the very top edges. The trunks of these trees extend downwards, out of the visible frame, suggesting the viewer is standing beneath them.
+end of description
+In the following frames, the foliage and branches of the trees exhibit subtle, dynamic swaying motions against the fixed blue sky, indicating the presence of a gentle breeze. No new objects or scenes are revealed; the overall viewpoint and composition relative to the viewer remain consistent throughout the sequence.
+frame_0000000512-frame_0000000640:
+The first frame shows the viewer looking upwards at a clear blue sky, mostly obscured by the canopies of numerous tall trees surrounding them, with their dark trunks and branches visible extending upwards from the lower and side edges of the frame.
+end of description
+No dynamic changes or newly revealed objects occur in the following frames; the scene remains entirely static, maintaining the same viewpoint of the trees against the blue sky.

@@ -1,0 +1,35 @@
+frame_0000000000-frame_0000000128:
+In the first frame, a bustling city sidewalk is visible, extending into the background. To the immediate left, steps lead down, adjacent to a building adorned with a colorful mural and planters holding green foliage. Further along the left building, a brick facade with windows and a "MOSCOT" sign is seen, with blue and white flags strung overhead. On the right, an outdoor dining area with a thatched roof and hanging globe ornaments shelters several seated people. A woman stands on the left side of the sidewalk, and a man leans against a metal barrier on the right, both in the mid-ground, with more pedestrians visible in the distance.
+end of description
+As the viewer moves forward, the woman initially on the sidewalk's left proceeds towards and past the first-frame viewpoint's initial position, crossing her arms. The man leaning against the metal barrier on the right side of the sidewalk remains relatively stationary but draws closer to the first-frame viewpoint. The camera advances, revealing more of the brick building on the left and the outdoor dining area on the right, which were initially in the mid-ground. Consequently, additional pedestrians and vehicles further down the street, beyond the initial background, become visible ahead of the first-frame viewpoint's original location.
+frame_0000000128-frame_0000000256:
+In the first frame, a bustling city sidewalk extends into the distance. To the left, a woman with long hair, wearing a gray jacket and denim skirt, stands with her arms crossed beside a building with a "MOSCOT" sign and a metal railing. Numerous potted plants line the building facade along the sidewalk. To the right, a man in a dark shirt and jeans leans on a bicycle rack, looking at his phone, while further right, a wooden outdoor dining structure with a thatched roof partially obscures other seated patrons. In the mid-ground, other pedestrians walk along the sidewalk, and cars are visible in the background street scene.
+
+end of description
+
+The woman on the left slowly turns to her right, revealing a light pink backpack on her shoulder and uncrossing her arms by the fifth frame. She continues to pivot, facing further away from the viewer, while the man leaning on the bicycle rack remains mostly stationary, engrossed in his phone. Pedestrians in the mid-ground continue their movement further down the sidewalk.
+frame_0000000256-frame_0000000384:
+The first frame captures a city street scene. On the far left, part of a person wearing a light pink backpack is visible, descending stairs. To their right, a bearded man in a black shirt leans on a metal railing, looking at his phone, with bicycles parked behind him. Along the left sidewalk, a row of large potted plants sits in front of a brick building. In the background, pedestrians walk down the sidewalk, and an outdoor seating area with red barriers lines a street with cars, all under an overcast sky.
+
+end of description
+The man leaning on the railing progressively moves towards the right, eventually exiting the frame entirely. Simultaneously, the camera subtly pans right, revealing more of the previously obscured outdoor dining area, where several people are now visible seated at tables to the right of the parked bicycles. The distant pedestrians continue walking further down the street, away from the viewer.
+frame_0000000384-frame_0000000512:
+The first frame depicts an urban street scene looking down a sidewalk, with a brick building and large potted plants lining the left side. To the right, several bicycles are parked in the foreground, followed by outdoor dining tables with people seated, and a street beyond showing parked cars and distant buildings under a cloudy sky.
+end of description.
+In the following frames, a person in a light tracksuit on the midground sidewalk walks steadily away from the viewer, holding an object in their right hand. Another person in a red shirt walks behind them, also receding further down the sidewalk into the scene, while the other objects and individuals in the street and dining areas remain stationary.
+frame_0000000512-frame_0000000640:
+In the first frame, a city street scene unfolds with a sidewalk on the left lined with large potted plants against a brick building. On the right, outdoor dining areas with white picnic tables and red barriers border the street, with two bicycles parked prominently in the immediate foreground. A young woman in a gray hoodie and light sweatpants walks towards the viewer on the sidewalk in the midground, while other pedestrians are visible further down the street under an umbrella, flanked by tall buildings and a yellow taxi on the road.
+end of description
+As the frames progress, the young woman consistently walks closer to the viewer, moving from the midground towards the foreground. Her hoodie is pulled down around frame seven, revealing her long dark hair, as she continues to approach.
+frame_0000000640-frame_0000000768:
+The first frame presents a city sidewalk, with a young woman in a grey hoodie positioned in the foreground on the left, adjacent to plants, while a brick building lines the left path. Ahead, pedestrians move away from the viewer, with parked bicycles and an outdoor dining area, featuring white tables and patrons, situated to the right of the sidewalk, all leading towards more distant city buildings and traffic.
+
+end of description
+
+Subsequently, the young woman moves past and exits the frame to the left of the original viewpoint, as the camera advances forward. This movement reveals a new cardboard box appearing on the far left, near the brick building, while pedestrians continue to walk away from the original viewpoint down the sidewalk, and the outdoor dining area remains to the right.
+frame_0000000768-frame_0000000896:
+The first frame captures a city street view with a sidewalk receding into the background, flanked on the left by a brick building with potted plants and a foreground ramp, and on the right by an outdoor dining area with red barriers, white picnic tables, seated patrons, and several parked bicycles.
+
+end of description
+
+As frames progress, the camera subtly moves forward and slightly pans right relative to the initial viewpoint. This causes the wooden ramp in the foreground left to gradually exit the frame, while more of the potted plants along the brick building's base become visible. Concurrently, the person walking in the mid-ground left moves further into the background.

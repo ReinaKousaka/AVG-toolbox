@@ -1,0 +1,28 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a winding paved road, curving left, with a steep, grassy, and densely forested mountainside on the left, partially supported by a stone wall. A silver guardrail runs along the road's right edge, overlooking a vast, tree-filled valley that extends to distant blue mountains beneath a cloudy sky.
+end of description
+As the viewpoint moves forward along the curving road, the immediate roadside scenery recedes, and a tunnel entrance gradually emerges on the left side of the road further ahead, while the distant mountainous landscape remains consistently in view.
+frame_0000000128-frame_0000000256:
+The first frame shows the viewer on a gray asphalt road, marked with white lines, extending forward and curving gently left. To the immediate left is a stone retaining wall, above which a steep mountain slope covered in dense green forest rises, while a metal guardrail parallels the road on the right, overlooking a vast green valley with distant mountains under a cloudy sky.
+end of description
+As the viewer moves forward along the road, the immediate surroundings progress past the viewpoint. A tunnel entrance, initially seen partially around the left curve of the road in the mid-distance on the mountain side, becomes increasingly clear and closer. The stone wall on the left and the guardrail on the right continually recede as the perspective advances deeper into the mountainous landscape.
+frame_0000000256-frame_0000000384:
+The first frame shows a two-lane road curving to the right, extending forward from the viewer's perspective. To the left, a stone retaining wall supports a grassy slope topped by a dense, forested hillside. To the right, a metal guardrail borders the road, offering a view of a valley and distant mountains under a cloudy sky.
+end of description
+As the viewpoint moves forward, the initial segment of the road, the stone retaining wall, and the grassy slope on the left recede behind the camera's original first-frame position. Concurrently, the guardrail to the right and the winding road ahead move closer and then behind, revealing more of the continuous mountainous terrain further along the path. No new objects are revealed that were previously hidden behind the first-frame viewpoint.
+frame_0000000384-frame_0000000512:
+The first frame depicts a gray asphalt road with white markings curving gently to the right, bordered by a metal guardrail on its right and a steep, tree-covered grassy hillside on its left, where a white and black striped pole is visible near the foreground. Distant green mountains rise ahead and to the right under an overcast sky.
+end of description
+As the viewpoint progresses forward, the road, guardrail, and immediate roadside vegetation move towards and past the viewer, with the striped pole receding out of frame to the left. A prominent stone retaining wall on the left hillside becomes increasingly visible and extends further along the road. In the distance, a large power line structure emerges high above the valley ahead, with the distant mountains also appearing closer.
+frame_0000000512-frame_0000000640:
+The viewer is positioned on a paved road with white lane markings, extending forward and curving gently to the right. To the left, a stone retaining wall supports a grassy, tree-covered hillside, while to the right, a metal guardrail separates the road from more trees and grass. Distant mountains loom under a cloudy sky in the background.
+end of description
+A dark windshield wiper first sweeps diagonally downwards from the upper right across the viewer's immediate foreground. Subsequently, water sprays from the right side of the view across the windshield, which is then cleared by the wiper sweeping to the bottom right and then across the bottom. As the viewpoint moves slightly forward, a small wooden hut becomes more discernible on the left side of the road in the mid-distance.
+frame_0000000640-frame_0000000768:
+The first frame shows a two-lane road extending forward, flanked on the left by a stone retaining wall, a steep forested hillside, and a small wooden cabin, and on the right by a metal guardrail and trees; distant mountains are visible ahead under a cloudy sky, with a partial wiper blade at the bottom.
+end of description
+As the vehicle moves forward, the retaining wall, cabin, and left hillside progressively recede further to the viewer's left and behind the initial position. Concurrently, the guardrail and trees on the right also shift further to the viewer's right. A dark vehicle appears further along the road ahead, and a wiper blade sweeps across the lower foreground.
+frame_0000000768-frame_0000000896:
+The viewer is positioned on a two-lane road, looking ahead as it gently curves right. To the immediate left, a wooden shed is visible, with a steep, densely forested hillside rising behind it. On the right, a metal guardrail parallels the road, beyond which a verdant valley and distant, cloud-shrouded mountains are visible under an overcast sky. A dark vehicle is distantly visible on the road ahead, approaching the viewer.
+end of description
+The dark vehicle initially seen in the distance steadily approaches the viewer, becoming larger and more distinct with each frame. Concurrently, the wooden shed on the far left recedes and moves out of the frame as the viewpoint advances. The forested hillside and the guardrail continually shift past the viewer as the scene progresses, until the dark vehicle passes directly by the initial viewpoint.

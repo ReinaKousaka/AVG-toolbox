@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a street-level view of a city street, looking down an avenue framed by tall buildings. To the viewer's left, a modern building with reflective windows prominently displays reflections of vertically hung American flags, which recede into the mid-ground alongside real flags hanging from poles. Centrally in the background, the distinctive spire of the Chrysler Building rises above other structures, while a black lamppost and green trees stand to the viewer's right.
+end of description
+Subsequent frames show a subtle camera pan to the right, causing the leftmost building to slightly recede from view and revealing more of the "MEDRITE" sign reflected on its windows, which was less visible initially. Concurrently, the American flags subtly sway in the breeze as the foreground lamppost shifts slightly leftward relative to the frame, maintaining the Chrysler Building's distant presence.
+frame_0000000128-frame_0000000256:
+The first frame captures a city street scene with a reflective glass building on the left foreground, displaying "CHRYSLER BUILDING" text, from which multiple American flags hang vertically in the mid-center. A street lamp and a green tree are on the right, with the distinctive spire of the Chrysler Building visible in the distant background to the right of center amidst other tall buildings under an overcast sky.
+end of description
+Throughout the subsequent frames, the camera slowly zooms in and pans slightly upwards, causing the American flags to subtly sway and appear larger relative to the viewer. Concurrently, the distant Chrysler Building's spire becomes more prominent, while the street lamp on the far right gradually moves out of the top-right corner of the view.

@@ -1,0 +1,14 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a two-lane asphalt road gently curving ahead, with a light-colored car visible in the distance. To the left, dense green trees line the road and extend into a verdant valley, while to the right, a steep grassy embankment rises, topped by tall evergreen trees, utility poles, and power lines, all under a partly cloudy sky.
+end of description
+As the frames progress, the viewpoint moves forward along the road, causing the distant car to appear slightly closer. The surrounding landscape on both sides shifts dynamically, and a small yellow sign on a pole becomes progressively clearer on the upper right embankment as the viewer approaches.
+frame_0000000128-frame_0000000256:
+The first frame displays a two-lane asphalt road stretching forward from the viewer, bordered on the left by dense green trees and on the right by a grassy embankment ascending towards taller evergreen trees. A yellow directional sign is visible on the right side of the road, which gently curves ahead into the distance under a sky with scattered clouds.
+end of description
+As the viewpoint moves forward along the road, the yellow sign on the right becomes more prominent, and a low white retaining wall gradually emerges into view from behind the right embankment. Subsequently, a small dirt turn-off with a red and white barrier appears further along the retaining wall, to the right of the primary road.
+frame_0000000256-frame_0000000384:
+The first frame shows a paved road extending from the bottom center into the distance, curving gently to the left, marked with white dashed center lines and solid white edge lines. To the left, closer green trees frame a deep, forested valley and distant mountains. To the right, a steep, heavily vegetated hillside rises, bordered by a gray concrete barrier, with a white and yellow directional road sign on a pole, accompanied by a small green box, positioned in the middle ground. Above, a partially cloudy blue sky is visible.
+
+end of description
+
+As the frames progress, the viewpoint moves forward along the road. The road surface and its white lines continually move towards and pass under the *first-frame viewpoint*. The road sign and green box on the right hillside progressively move closer, enlarging, before beginning to exit the frame to the right, revealing more of the steep, vegetated slope behind their original position. Concurrently, the trees on the immediate left move closer and then out of the frame to the left, unveiling additional distant valley scenery and trees further along the road's curve. The concrete barrier on the right also extends past the *first-frame viewpoint*.

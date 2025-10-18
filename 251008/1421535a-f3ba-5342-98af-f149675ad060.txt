@@ -1,0 +1,10 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a panoramic river scene viewed from an elevated perspective. In the immediate foreground, lush green trees partially obscure the lower left and bottom right, with a thin wire-like structure crossing diagonally across the bottom right. A vibrant turquoise river dominates the midground, flowing from left to right towards the background, its banks lined with houses featuring red-tiled roofs nestled amongst dense green trees. Further back, a large arched stone bridge spans the river, and in the distant background, a city skyline with buildings and a crane is visible beneath a sky characterized by dark clouds on the right and golden light breaking through on the left.
+
+end of description
+
+Across the subsequent frames, the scene remains largely static. However, very subtle shifts in the intensity and spread of the golden light in the upper left portion of the sky, along with minute alterations in the shapes of the clouds, are discernible. These slight atmospheric changes occur in the background relative to the stationary foreground and midground elements.
+frame_0000000128-frame_0000000256:
+The first frame presents an elevated panoramic view of a vibrant teal river winding from the mid-foreground towards the distant center, flanked by dense green trees and houses with red roofs along its banks. In the background, a large arch bridge spans the river, with a city skyline and faint construction crane visible on the horizon under a cloudy sky; thin wires are visible across the lower right foreground.
+end of description
+In the subsequent frames, a light-colored train appears from the left and gradually traverses the distant arch bridge, moving from left to right across the river, before disappearing off the right side of the bridge.

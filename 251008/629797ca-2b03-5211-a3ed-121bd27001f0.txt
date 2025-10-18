@@ -1,0 +1,32 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a snow-covered valley or gorge. A wide expanse of snow, marked with faint footprints, occupies the foreground and middle ground, appearing as a frozen path. To the left, a steep, rocky, snow-covered slope rises, dotted with evergreen trees, with smaller ones closer to the viewer. On the right, a similar snow-laden slope also features evergreen trees, extending into the distant background where sunlight highlights dense forest. The snowy path gradually narrows as it recedes into the far distance between the converging slopes.
+end of description
+The camera slowly glides forward over the snow. The foreground snow and the middle-ground ice patch progressively move closer and then recede behind the original first-frame viewpoint as the camera advances. As the viewer moves deeper into the valley, the rocky slopes on the left and the treed slopes on the right become more encompassing, revealing previously distant snow and ice features now directly in front. The narrow path that was in the background of the first frame now expands into the immediate view.
+frame_0000000128-frame_0000000256:
+The first frame shows a snow-covered valley or canyon. A wide, snowy path, likely a frozen stream bed, extends from the immediate foreground into the distance directly in front of the viewer. Steep, snow-covered rocky slopes flank both the viewer's left and right sides, rising upwards and featuring numerous dark green coniferous trees, with sunlight faintly illuminating the upper right background.
+
+end of description
+
+The viewpoint slowly moves forward along the snow-covered path. Objects on the rocky slopes to the viewer's left and right, and the path itself, gradually approach, expanding slightly within the frame as the viewer progresses further into the valley. No new objects or scenes are revealed from behind, to the sides, or inside any containers, maintaining the same overall snow-laden, forested canyon environment.
+frame_0000000256-frame_0000000384:
+The first frame displays a winter landscape within a snowy gorge, where a wide, snow and ice-covered path stretches from the foreground directly towards the distance. Steep, rocky walls, partially covered in snow and lined with dark green pine trees, rise on both the left and right sides of the path.
+end of description
+The viewpoint slowly advances forward along the frozen path, causing the snowy foreground to recede and revealing more of the icy ground directly ahead. This continuous forward motion brings the base of the snow-dusted cliffs closer as the gorge subtly narrows into the distance.
+frame_0000000384-frame_0000000512:
+A snow and ice-covered valley floor extends into the distance, flanked by a steep, snow-dusted rocky cliff on the left and a snow-covered slope with evergreen trees and rocks on the right, which converges in the background with more evergreens and sunlight.
+end of description
+The camera consistently moves forward, gradually revealing more of the icy path ahead as the snow-covered cliff and evergreen-lined slope on either side recede further into the distance. This steady progression offers a deeper view into the winter valley.
+frame_0000000512-frame_0000000640:
+The first frame displays a frozen, icy riverbed or path extending from the viewer's immediate foreground into the distant background. To the viewer's left, a towering, snow-dusted rocky cliff face runs parallel to the icy path. On the right, a gentler, snow-covered slope with scattered evergreen trees also stretches towards the background. In the far distance, the icy path narrows, bordered by the continuing cliff on the left and a dense forest on the right, where sunlight filters through the trees.
+
+end of description
+
+The viewpoint steadily moves forward and slightly upward, progressing deeper into the snow-covered valley. This motion continuously reveals more of the icy path, the snow-covered banks, and the rocky terrain further ahead, which were previously obscured or distant in the initial frame. The evergreen trees and cliff walls on either side, which were further along the path from the first-frame viewpoint, gradually become more central and encompass a greater portion of the scene as the camera advances.
+frame_0000000640-frame_0000000768:
+In the first frame, a wide, frozen, snow-dusted ice path stretches from the viewer's immediate foreground into the distance. To the viewer's left, a steep, snow-covered rocky cliff rises, while to the right, a snow-covered bank with scattered rocks leads up to a dense evergreen forest. The path narrows as it recedes between these natural walls, leading deeper into the valley.
+end of description
+There are no discernible dynamic changes or newly revealed objects in the subsequent frames, as all frames appear identical to the first.
+frame_0000000768-frame_0000000896:
+The first frame presents a snow and ice-covered gorge. In the immediate foreground and extending into the mid-ground, a wide path of shimmering ice and snow stretches forward. To the left of the viewer, a tall, rugged rock face, partially covered in snow, rises steeply. To the right, a gentler, snow-covered slope dotted with several large boulders ascends towards a dense forest of evergreen trees, with sunlight peeking through them in the distant background.
+end of description
+The viewpoint dynamically moves forward and slightly upward into the gorge. The icy path and snow-covered ground recede from the immediate foreground as the rocky wall on the left and the forested, boulder-strewn slope on the right appear to converge and draw closer around the viewer. Previously mid-ground boulders on the right transition into the foreground before passing out of view.

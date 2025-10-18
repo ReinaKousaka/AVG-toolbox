@@ -1,0 +1,26 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a multi-lane highway extending directly forward from the viewer, flanked by metal guardrails and vegetated hillsides. Directly ahead, a smaller, tree-covered mountain contains two visible tunnel entrances, framed by larger, forested mountains to the left and right, all under a clear sky; a digital navigation overlay showing destination distances is positioned in the top-left corner.
+end of description
+Throughout the sequence, the external landscape, including the highway, mountains, and tunnels, remains entirely static, maintaining its exact spatial configuration relative to the first-frame viewpoint. The sole dynamic change occurs in frame 5, where the numerical distance displayed for "凡竹林" within the top-left navigation overlay updates from 20.4 km to 20.5 km.
+frame_0000000128-frame_0000000256:
+The first frame displays a multi-lane highway extending straight ahead towards two tunnels passing under a large, conical, tree-covered hill in the midground. Guardrails line both sides of the road, flanked by smaller green hills and dense vegetation. Overlays on the top left show navigation information, while a green highway sign is visible on the right.
+end of description
+As the viewpoint progresses forward along the highway, the navigation overlay on the top left updates with decreasing distances. Simultaneously, the green highway sign on the right becomes slightly closer, revealing more detailed exit information including "出口" (Exit), destination names, and decreasing distances.
+frame_0000000256-frame_0000000384:
+The first frame shows a multi-lane highway stretching towards two tunnels at the base of a prominent, conical, tree-covered mountain directly ahead of the viewer. Guardrails line both sides of the highway, with a steep, rocky, vegetated hillside to the viewer's right featuring a large green highway sign, and a gentler, tree-covered slope to the left, all beneath a clear sky. A navigation overlay is positioned in the top-left corner.
+end of description
+As the frames progress, the viewer's perspective advances along the highway towards the tunnels. The large green highway sign on the right side of the road moves closer to the viewer, eventually passing out of view to the right. Simultaneously, the two tunnel entrances at the base of the central mountain grow larger and more prominent, approaching the viewer. A smaller white sign, displaying "限速60公里 隧道通行", emerges on the right side of the highway, further ahead of where the green sign was, indicating proximity to the tunnel.
+frame_0000000384-frame_0000000512:
+The first frame displays a highway leading towards two tunnels nestled at the base of a large, tree-covered mountain directly ahead, with guardrails lining the road and informational signs visible on the far left and right.
+end of description
+As the viewpoint progresses, the road signs on the sides move closer and out of view, while a U-turn prohibitory sign emerges on the far left of the road, becoming larger. Concurrently, new yellow diagonal road markings and additional white lines become visible on the asphalt surface just before the tunnel entrances, as all objects ahead appear to draw nearer.
+frame_0000000512-frame_0000000640:
+The first frame displays a highway extending towards the viewer, bordered by metal guardrails and green barriers. Ahead, two tunnel entrances are visible at the base of a large, verdant mountain, with a dirt path winding up a smaller hill to the right. A navigation overlay appears in the top-left corner.
+end of description
+As the sequence progresses, the viewpoint moves forward along the highway, causing the road markings and guardrails on either side to steadily approach and pass beneath the viewer. Concurrently, the twin tunnel entrances in the midground become progressively larger and closer, indicating the vehicle is directly approaching them.
+frame_0000000640-frame_0000000768:
+The first frame captures a multi-lane road, flanked by metal guardrails, extending towards a double-arched tunnel at the base of a prominent, tree-covered mountain in the center-front. A navigation overlay is visible in the top-left corner, and a green road sign stands to the right of the tunnel entrance, while a dirt path ascends a smaller hill on the far right.
+
+end of description
+
+As the viewpoint progresses, the road's yellow transverse markings become more defined and numerous ahead of the tunnel, which along with its red interior, grows larger in the frame. Simultaneously, a small motorcycle appears on the far-right dirt path relative to the initial viewpoint, moving forward before eventually exiting the scene, and the text on the green road sign clarifies to "Please drive with headlights on."

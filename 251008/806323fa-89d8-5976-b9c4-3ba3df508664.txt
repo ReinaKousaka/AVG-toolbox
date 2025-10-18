@@ -1,0 +1,24 @@
+frame_0000000000-frame_0000000128:
+A historic stone wall, illuminated from its base, dominates the left side, extending into the distance alongside a low black fence and dry grass. A narrow, dark asphalt road with yellow and white lines recedes into the background, where a white car is parked and a street lamp glows. To the right, a metal guardrail separates the road from residential buildings, and a yellow warning sign is visible on a pole, all under a dark night sky.
+end of description
+No dynamic changes or newly revealed objects occur in the subsequent frames; the scene remains entirely static.
+frame_0000000128-frame_0000000256:
+The first frame displays a narrow asphalt road at night, stretching away from the viewer, with a tall, spotlight-illuminated stone wall running along the left side. On the right, a low black fence parallels the road, beyond which are distant buildings and a white car parked in the mid-ground, all under a dark night sky.
+end of description
+Throughout the following frames, the scene remains largely static until a person emerges from further down the road, walking towards the viewer on the right side, eventually becoming visible just past the parked white car.
+frame_0000000256-frame_0000000384:
+The first frame presents a nighttime street scene with a massive stone wall extending from the foreground on the left, illuminated by ground lights, receding into the distance under a dark blue sky. A narrow road with a yellow median line runs parallel to the wall on the right, featuring a street light in the mid-ground, parked cars, and houses further along the right side. end of description. The camera slowly advances along the road, causing the stone wall on the left and the houses on the right to recede further into the distance. A person in a blue jacket, initially standing on the right side of the road near the parked cars in the mid-distance, walks away from the viewer, moving further down the road in subsequent frames.
+frame_0000000384-frame_0000000512:
+The first frame displays a large stone wall illuminated by ground lights and foreground dry grass on the left, alongside a black fence. A paved road with a double yellow line curves into the distance, lit by a central street lamp, with a person walking away from the viewer on the right, past two parked white cars and dark buildings under a night sky.
+end of description
+In the following frames, the person on the right side of the road continues walking further away from the viewer. Additionally, a white cardboard box is gradually revealed on the right sidewalk, positioned closer to the viewer than the walking person and parked cars.
+frame_0000000512-frame_0000000640:
+The first frame shows a large stone wall extending along the left side, illuminated at its base by ground lights, with dry grass and a low fence alongside an asphalt road. A street lamp is positioned in the middle-left, casting light on the curving road marked with yellow lines, while on the right, a person walks away from the viewer past several houses and a parked white car further down the street under a dark night sky. end of description. The person continues walking further down the street on the right side of the road, progressively moving into the distance relative to the first-frame viewpoint until they are no longer visible.
+frame_0000000640-frame_0000000768:
+The first frame depicts a narrow, dark street at night, with a tall, textured stone wall illuminated from below dominating the left side, extending into the background. A dark street light pole stands prominently on the far left, near the viewer. On the right, a road with a yellow center line curves slightly, lined with parked cars and traditional-style houses further back, under a dark blue night sky.
+end of description
+As the frames progress, the camera viewpoint subtly shifts backward and slightly to the right. This movement causes the prominent street light pole on the left to gradually exit the frame to the left, revealing more of the stone wall's length and its base extending towards the foreground. Consequently, the parked cars and houses on the right side of the street appear to move slightly further away and to the right relative to the initial viewpoint.
+frame_0000000768-frame_0000000896:
+The first frame depicts a night scene featuring a tall stone wall on the left, illuminated by ground lights, alongside a narrow paved road with a yellow center line and parked cars further along on the right. Beyond the road, low-rise buildings and distant lights are visible under a dark blue sky.
+end of description
+All subsequent frames are identical to the first, revealing no dynamic changes or newly revealed objects or scenes relative to the initial viewpoint.

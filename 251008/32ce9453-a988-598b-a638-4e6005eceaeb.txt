@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a city road from a moving vehicle's perspective, with asphalt lanes and white directional arrows in the foreground. A white SUV is positioned slightly left of center, moving away from the viewer, while a yellow taxi is visible further ahead on the left lane. On both sides, tall modern buildings rise, with green trees and a bush along the right curb.
+end of description.
+As the frames progress, the viewpoint moves forward along the road. The white SUV and yellow taxi recede further into the distance, and a new white car appears in the foreground on the left, moving ahead. A large, multi-colored, stacked art installation on the right side of the road gradually emerges into full view from behind the initial trees and foliage. The surrounding buildings on both sides become more distinct as the camera advances.

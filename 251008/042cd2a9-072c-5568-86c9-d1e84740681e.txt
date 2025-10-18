@@ -1,0 +1,20 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a paved park path receding into the distance, with a person in a yellow shirt in the immediate foreground on the right, and another in a pink shirt walking further ahead on the path. To the left of the path, a grassy area with trees and a building is visible, while dense bushes border the right side. In the distant background, a cityscape of tall buildings stands against the sky.
+
+end of description
+
+As the frames progress, the viewpoint moves forward along the path. The yellow-shirted person and the pink-shirted person walk further into the distance, away from the original first-frame viewpoint, and a group of people, including a man and two children, become fully visible standing on the right side of the path, beyond where the pink-shirted person was initially.
+frame_0000000128-frame_0000000256:
+The first frame captures a paved path receding into the distance from the viewer's perspective, with the back of a person in a pink shirt visible in the lower right foreground. Two individuals walk ahead on the path in the midground, bordered by a grassy lawn and trees to the left, and a dense green hedge to the right. A skyline of modern skyscrapers rises in the background against a bright sky. end of description. As the viewpoint advances, the two people on the path progressively recede further into the distance. The paved path extends continuously ahead, while the city skyline shifts further left in the expanding view, revealing more of the hedge to the right.
+frame_0000000256-frame_0000000384:
+A paved pathway extends into the distance from the viewer, flanked by a grassy area and large tree on the left, and a dense green hedge on the right. Two people, a woman in pink and a man in blue, walk away from the viewer along this path, with a cityscape of tall, modern high-rise buildings visible in the background against a bright sky.
+end of description
+Throughout the subsequent frames, the two individuals continue walking further away from the viewer along the pathway, receding into the distance. Their figures gradually diminish in size as they move away from the first-frame viewpoint.
+frame_0000000384-frame_0000000512:
+A wet paved path stretches from the foreground, leading towards two people walking away in the midground, one in pink and one in blue. Green bushes and a large tree line the left, with a building beyond, while a dense hedge borders the right, all set against distant skyscrapers.
+end of description
+The camera slowly tracks forward, following the individuals. As the viewpoint advances from the first frame's position, the path and surrounding foliage recede behind, revealing new sections of the park ahead. The distant skyscrapers concurrently grow slightly larger and closer.
+frame_0000000512-frame_0000000640:
+In the first frame, a wet, paved path stretches directly from the viewer into the midground. Lush green bushes and trees flank both sides of the path, with a dense hedge on the right and more varied foliage on the left. In the midground, two people walk away from the viewer on the path, and a small cart with orange elements is visible on the left side of the path. In the background, several tall, modern skyscrapers rise against a light sky.
+end of description
+The viewpoint slowly advances forward along the path, causing the two walking individuals to gradually move further away from the initial first-frame position. Concurrently, the small cart on the left also recedes into the distance relative to the initial viewpoint. The tall skyscrapers in the background subtly grow larger as the camera progresses towards them, and new sections of the dense green foliage along both sides of the path are revealed ahead of the original frame's foreground.

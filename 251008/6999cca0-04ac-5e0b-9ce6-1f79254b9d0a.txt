@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a picturesque mountain valley with a gravel path curving from the bottom right foreground towards a grassy area and a wooden bridge over a stream in the midground. To the left, a building is partially visible amidst trees, while a serene lake extends centrally, bordered by lush green hillsides that rise to meet towering, snow-capped mountains in the background under a blue sky. Numerous people are scattered on the path to the right, near the bridge, and by the lake's edge.
+end of description
+Throughout the subsequent frames, the overarching landscape remains static. The group of people on the gravel path, located to the viewer's right in the midground, gradually proceeds further along the path, moving deeper into the scene and slightly left towards the lake. Their positions change incrementally, indicating a continuous walking movement within the valley.
+frame_0000000128-frame_0000000256:
+The first frame displays a scenic mountain landscape under a bright blue sky. A gravel path curves from the foreground right towards the mid-ground, bordered on its left by vibrant green grass and a small wooden bridge crossing a stream. Beyond the path and bridge lies a tranquil lake, backed by towering, partially snow-capped mountains and lush green slopes.
+end of description
+Throughout the following frames, subtle dynamic changes are observed among the people: individuals previously on the gravel path to the right gradually shift further right, moving slightly out of view from the initial frame, while others along the lake's edge adjust their postures. The natural landscape, including the mountains, lake, and bridge, remains static relative to the first-frame viewpoint.

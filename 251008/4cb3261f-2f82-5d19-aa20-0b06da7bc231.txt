@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a bright street scene, featuring a partial view of a person in a white shirt in the immediate left foreground, and a silver car on a yellow pedestrian crossing in the mid-ground. A large wooden hotel building with an outdoor area and people occupies the left mid-ground, while a sidewalk with a concrete bench, planters, and other pedestrians lines the right, all leading towards distant snow-capped mountains under a blue sky.
+end of description
+As frames progress, the silver car drives away from the viewer, moving into the background. The foreground person exits the frame to the left, revealing the entirety of the yellow pedestrian crossing and a newly visible 'BUS' road marking in the mid-ground. Meanwhile, several pedestrians on the right sidewalk walk towards the viewer from the mid-ground, and others shift positions on both sides of the street.

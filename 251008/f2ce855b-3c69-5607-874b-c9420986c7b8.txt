@@ -1,0 +1,31 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a paved road curving slightly uphill to the right, bordered by a stone wall with dense green foliage on the left, and a lower dark wall with more greenery on the right. Above the left foliage, a reddish-brown cliff rises, topped with trees and featuring a distant white cross on its upper right side under a clear blue sky. Shadows from overhead objects are cast on the road.
+
+end of description
+In subsequent frames, the viewpoint subtly moves forward along the road, causing the foreground walls and nearby foliage on both sides to incrementally shift closer and slightly expand within the frame relative to their initial positions. The distant cliff and the white cross also appear slightly closer and more prominent. This continuous shift in perspective suggests a gentle forward progression along the path, but no entirely new objects or scenes are revealed.
+frame_0000000128-frame_0000000256:
+The viewer is positioned on an asphalt road that gently curves right and uphill, bordered on the left by a stone retaining wall heavily adorned with dense green foliage, and on the right by a lower dark wall similarly flanked by thick vegetation. In the mid-distance ahead and to the left, a prominent reddish-brown cliff face, crowned with lush trees, rises under a bright blue sky, with a small dark cross visible high on its right side.
+
+end of description
+
+As the scene progresses, the viewer moves forward along the road; the stone retaining wall and dense greenery on the left, and the lower dark wall and vegetation on the right, advance towards and then past the initial viewpoint's respective sides. Simultaneously, the curving road, the cliff face, and the distant cross, initially positioned ahead, continuously draw nearer to the first-frame viewpoint as the perspective moves forward.
+frame_0000000256-frame_0000000384:
+The viewer is positioned on an asphalt road that gently curves to the right, flanked on the left by a low stone wall and a steep, heavily vegetated slope rising to a reddish-brown cliff face crowned with dense trees. In the far distance, atop the cliff to the right, a cross-like structure is visible, while to the immediate right, a lower, darker barrier runs alongside more green foliage, all under a clear blue sky.
+end of description
+The subsequent frames show a subtle forward progression along the road. Objects on both sides, including the stone wall and various plants, gradually move closer and expand slightly in the frame, indicating the viewer's slow advance into the scene. No entirely new objects or scenes are revealed; rather, the existing path and landscape are progressively unveiled from the same initial viewpoint.
+frame_0000000384-frame_0000000512:
+A grey asphalt road extends from the bottom center, curving slightly left as it recedes into the distance. To the left, a low brick retaining wall parallels the road, topped by a steep, verdant hillside leading to a reddish-brown cliff face crowned with dark green trees. On the right, a darker concrete barrier borders the road, beyond which dense green foliage and trees, including some with white blossoms, rise toward a clear blue sky with a faint white cloud in the upper right.
+end of description
+There are no dynamic changes or newly revealed objects or scenes in the subsequent frames; all frames appear to be identical to the first.
+frame_0000000512-frame_0000000640:
+The first frame shows a paved road extending directly ahead, gently curving right into the distance. To the left, a brick wall runs alongside the road, topped by a steep, lush green slope, while on the right, a low concrete barrier parallels the road, beyond which dense foliage and a small tree with white blossoms are visible, all beneath a tall reddish-brown cliff crowned with trees and a clear blue sky.
+end of description
+As the frames progress, a faint shadow emerges from the viewer's immediate right, gradually lengthening and becoming more distinct along the right side of the road, suggesting forward movement from the initial viewpoint.
+frame_0000000640-frame_0000000768:
+A paved road curves slightly left into the distance, bordered on the left by a brick retaining wall with dense green bushes above it, and on the right by a lower concrete barrier also topped with foliage. A tall, reddish-brown cliff rises prominently to the left of the road, crowned with more trees under a clear blue sky.
+end of description
+As the viewpoint moves forward along the road, the entire scene appears to draw closer. A small, dark cross or monument gradually becomes visible high on the cliff face, appearing to the right of the road's initial vanishing point, emerging from behind the distant foliage and cliff edge.
+frame_0000000768-frame_0000000896:
+The first frame displays a paved road curving gently uphill to the left, flanked by a brick retaining wall on the left and a lower concrete barrier with green foliage on the right. In the mid-ground, a dense cluster of green trees obscures part of a towering reddish-brown cliff face in the background, which is also topped with trees and features a white cross on its upper right edge under a bright blue sky.
+end of description
+In the following frames, no new objects or scenes are revealed, and the viewpoint remains static. The only dynamic changes are subtle shifts in the shadows cast on the right side of the road and slight swaying of the green foliage on the right, indicating a gentle breeze.

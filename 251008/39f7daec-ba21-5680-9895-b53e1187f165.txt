@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame captures a view looking upwards into a sunlit forest, featuring numerous tall trees, predominantly evergreens, with several prominent trunks in the foreground and mid-ground, and a street light pole visible on the left, positioned slightly behind the nearest trees.
+end of description
+As the camera moves forward, the trees initially in the immediate foreground recede from the viewer, while previously mid-ground trees shift closer and new trees from the far right of the first-frame viewpoint emerge centrally. The street light pole, initially on the left, gradually shifts further left and becomes less prominent relative to the first-frame's perspective. A bright lens flare also appears on the far left in later frames, indicating the sun's position.

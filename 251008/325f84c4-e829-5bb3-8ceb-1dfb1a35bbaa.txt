@@ -1,0 +1,6 @@
+frame_0000000000-frame_0000000128:
+In the first frame, a dirt path curves from the lower-left foreground towards the center-left, receding into a dense forest. To the immediate right of the path, a rustic wooden railing, composed of horizontal logs supported by vertical posts, extends into the midground, separating the path from a steep, lushly vegetated drop-off. On the path's left, a steep embankment covered in ferns and moss rises, while tall, slender tree trunks ascend vertically throughout the midground and background, framing the bright sky visible in the upper-right.
+
+end of description
+
+As the viewpoint progresses forward along the path, the wooden railing and the fern-covered embankment on the left recede into the background, continually revealing new sections of the path ahead. The dense forest and tall trees further in the distance shift slightly to the left relative to the advancing viewpoint, while the lush, green drop-off to the right of the railing remains visible.

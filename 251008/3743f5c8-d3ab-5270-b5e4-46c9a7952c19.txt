@@ -1,0 +1,32 @@
+frame_0000000000-frame_0000000128:
+In the first frame, a paved path extends directly away from the viewer towards a wooden building with a peaked roof in the midground. To the viewer's left, a low stone wall supports bare tree branches, behind which a part of a house is visible, followed by a dense row of tall evergreen shrubs lining the path. On the right, a solid concrete wall parallels the path, with a lighter-colored, multi-story building and a vibrant orange-red tree further beyond in the midground, while distant mountains span the horizon under a bright sun in a clear blue sky.
+end of description
+As the camera moves forward along the path, the house on the left becomes fully visible, revealing its beige facade and brown roof, while the stone wall is replaced by a receding metal fence alongside the evergreen shrubs. The wall on the right also recedes, revealing more of the red-leaved tree and a parked car further along, while the wooden building ahead gradually appears closer.
+frame_0000000128-frame_0000000256:
+The first frame displays a paved road stretching away from the viewer, bordered on the left by a wire fence and a line of evergreen trees, behind which part of a building is visible. To the right, a low concrete wall runs alongside the road, leading towards a large weeping tree with autumn leaves that partially conceals a building. In the mid-ground, a wooden barn-like structure sits center-left of the road's curve, beneath a bright sun in a clear blue sky, with distant mountains in the background.
+end of description
+As the viewpoint moves forward, the wire fence and evergreen trees on the left recede, revealing more of the building and a newly visible curved transparent structure further back on the left. Concurrently, the low wall on the right recedes, exposing more of the building previously hidden by the weeping tree on the right. The central wooden barn and a pole casting a lengthening shadow on the road progressively approach and then recede from the first-frame viewpoint, while the distant mountains maintain their static position.
+frame_0000000256-frame_0000000384:
+The first frame presents a sunny village street, with a low chain-link fence bordering green grass on the immediate left, behind which a trampoline and some trees are partially visible. A large, gabled wooden barn stands prominently in the mid-ground left, partially obscured by a tall street lamp that reaches towards the bright sun in the upper right. A paved road extends through the center, leading towards distant mountains and a modern building on the mid-right, while a concrete wall lines the immediate right foreground, topped by a tree with orange autumn leaves.
+
+end of description
+
+As the viewpoint progresses forward along the road, the street lamp on the left moves from behind the barn to reveal its full height and then passes the viewer. Simultaneously, a red fire hydrant becomes visible on the left, next to the increasingly prominent barn, and a white sign is revealed on the concrete wall on the right.
+frame_0000000384-frame_0000000512:
+The first frame features a large, two-story wooden barn-like building on the viewer's immediate left, and a multi-story modern building to the right, partially obscured by autumnal tree branches in the upper right. A paved road curves forward between these structures, leading towards distant green fields and mountains under a bright sun in the upper left.
+end of description
+As the viewpoint moves forward, the left wooden building reveals more of its side, including a small mirror, while the right building becomes more fully visible, with a small sign appearing near its base. Further along the road, small black bollards emerge on the path to the left, and a manhole cover becomes clear on the road surface to the right.
+frame_0000000512-frame_0000000640:
+The first frame depicts a bright scene with a large brown building occupying the immediate left foreground and a multi-story grey building positioned on the right, framing a paved road. In the mid-ground, the road curves towards the distant mountains in the background, under a blue sky with the sun shining intensely from the top-left.
+end of description
+As the viewpoint advances forward, the brown building on the left recedes and moves out of the frame, revealing a grassy field and a bare tree further ahead on the left. Concurrently, the grey building on the right also recedes, thereby bringing more distant structures and clearer mountain details into view, further along the path from the initial position.
+frame_0000000640-frame_0000000768:
+The viewer is positioned on an asphalt road stretching into the distance, with a cobblestone path and a yellow-capped bollard to the immediate left. To the left, a large wooden building partially frames the view, beside a green grassy area featuring a bare tree, a stone wall, and a metal railing. On the right, a multi-story grey building with windows and balconies parallels the road, while a smaller grey building is visible further down the street on the left. In the background, distant mountains, some with snow, rise under a bright blue sky with a prominent sun in the upper left.
+
+end of description
+
+As the viewpoint moves forward along the road, the large wooden building on the far left gradually recedes and moves out of the frame. The grassy area and the bare tree on the left become more central and appear closer. Meanwhile, the multi-story building on the right also recedes slightly, revealing more of its facade, as the distant mountains and bright sky remain visible in the shifting perspective.
+frame_0000000768-frame_0000000896:
+The first frame shows a paved road extending into the distance, flanked on the left by a green lawn with a large bare tree and a low stone wall, and on the right by a multi-story grey building and a streetlamp. Distant mountains rise in the background under a bright sun in the upper left.
+end of description
+As the frames progress, the viewpoint moves forward along the road. The building on the right side of the road becomes more prominent, with its entrance and additional windows progressively revealed and moving past the original viewpoint. Simultaneously, the large bare tree on the left recedes into the distance and slightly out of the left frame, as the grassy expanse on the left widens closer to the viewer's original position.

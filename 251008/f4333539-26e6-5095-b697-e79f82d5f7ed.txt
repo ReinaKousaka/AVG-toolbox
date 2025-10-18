@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a paved road curving left into the distance, marked by double yellow lines on its left lane and a white line on its right shoulder. To the immediate right, a steep, rocky hill densely covered with green and brown vegetation rises, while a less vegetated rocky slope is visible further left beyond the road. A clear blue sky spans the top of the frame, showing some sun glare in the upper center.
+end of description
+The viewpoint moves forward, causing the immediate foreground of the road and the surrounding vegetation and rocky terrain on both sides to recede towards and beyond the first-frame viewpoint. The winding road ahead continuously reveals new sections of the arid, hilly landscape.

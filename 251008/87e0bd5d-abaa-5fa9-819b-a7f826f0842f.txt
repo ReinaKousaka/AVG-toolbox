@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+First, the initial frame presents a city street with a man looking at his phone walking towards the viewer on the left sidewalk, opposite a newsstand and another man holding a white bag walking away from the viewer on the right. Tall buildings line both sides, and a white Citibike truck along with a bus stop sign are visible on the street to the right.
+end of description
+Subsequently, the man on the left continues approaching the viewer, while the man with the bag and a woman in a white top (initially behind the newsstand) move further away on the right sidewalk. A child in an orange top then emerges on the far left, walking away from the viewer, as another person with an umbrella appears further down the sidewalk on the left. The white Citibike truck remains mostly stationary on the street to the right.

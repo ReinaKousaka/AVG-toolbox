@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a residential street descending slightly, bordered by houses. On the left, a stone retaining wall supports a garden with red flowers and a portion of a blue house featuring dark shutters. To the right stands a dark brown house with a white carport, where a silver pickup truck is parked. Distant mountains rise under an overcast sky beyond the road's curve, where more houses and trees are visible.
+end of description
+As the viewpoint moves forward, the stone wall and blue house on the left progressively move closer, revealing more of their base and garden. Simultaneously, the brown house and parked truck on the right approach, and a previously obscured black trash bin becomes visible near the garage.
+frame_0000000128-frame_0000000256:
+In the first frame, a paved road extends away from the viewer, with a multi-story building featuring balconies and flower boxes on the left, adjacent to a stone retaining wall and dense green foliage. To the right, a house with a dark roof and white facade has a silver pickup truck parked in front, with two dark trash bins near its garage. Distant, jagged mountains rise under an overcast sky behind the houses.
+end of description
+As the viewpoint moves forward, the silver pickup truck recedes further down the road, and the house on the right and building on the left gradually move towards the edges of the frame. The base of the retaining wall on the left is revealed more clearly, showing construction materials like stacked tiles. The distant mountains and houses become slightly more defined as the scene progresses forward.

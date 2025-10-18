@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+In the first frame, a woman holding a white umbrella, wearing a pink top and mask, walks towards the viewer on a brick sidewalk in the left foreground. To her right, a wide muddy, flooded path runs parallel, bordered by a brick wall with a green fence and dense foliage further right, all under heavy rain.
+end of description
+As the frames progress, the woman exits the frame to the left, revealing more of the sidewalk's receding perspective, a distant park bench, and a signpost on the left side. The scene remains stationary as the heavy rain continues, causing ripples on the extensive water, and a small piece of white debris becomes visible floating on the muddy water in the right-side path.
+frame_0000000128-frame_0000000256:
+The first frame captures a rainy outdoor scene looking down a path. To the viewer's left, a wet brick sidewalk with a yellow tactile strip is bordered by green trees and bushes, featuring a bench further along. To the right, muddy brown floodwater parallels a brick wall topped with a green fence and dense foliage.
+end of description
+Subsequent frames show continuous heavy rainfall over the entire visible scene, creating persistent ripples on both the wet sidewalk to the left and the muddy floodwater to the right, without revealing any new objects or significant changes in water level.
+frame_0000000256-frame_0000000384:
+The first frame shows a wet, brick-paved sidewalk on the left, extending into the distance, bordered by green bushes, trees, a wooden bench, and a blue circular sign. To the right of a central muddy path, a brick wall with green grates and more dense foliage extends, alongside a lamppost in the mid-ground.
+end of description
+Throughout the subsequent frames, heavy rain continues to fall, causing visible splashes and ripples in the puddles on the ground, especially on the muddy path to the right, but no new objects or scenes are revealed beyond the initial view.

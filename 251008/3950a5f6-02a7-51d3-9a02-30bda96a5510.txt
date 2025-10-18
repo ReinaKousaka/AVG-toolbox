@@ -1,0 +1,10 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a paved asphalt road extending forward, curving gently to the right in the midground before disappearing into the distant background. A silver metal guardrail runs along the lower left side of the road, with a verdant, tree-covered mountainside rising steeply behind it. On the right, dense green foliage and trees line a steep slope, with a utility pole visible among them; in the distant background, beyond the road's curve, snow-capped mountains are visible under a bright sky.
+end of description
+As the viewpoint moves forward along the road, the guardrail on the left and the trees lining both sides appear to recede and pass by, revealing more of the road's path and the continuous forested landscape. The distant snow-capped mountains remain ahead, gradually appearing slightly larger and closer.
+frame_0000000128-frame_0000000256:
+The first frame depicts a paved road stretching directly away from the viewer, curving gently to the right in the mid-ground. A metal guardrail parallels the road on the left, with a green, forested mountain slope rising beyond it. On the right, a steep, tree-covered bank ascends beside the road. Distant, snow-capped mountains are visible straight ahead in the background, beneath an overcast sky.
+
+end of description
+
+As the camera moves forward, the immediate road surface continually changes, revealing new segments directly in front of the viewer. The metal guardrail on the left and the vegetated slopes on both sides appear to expand, with previously unseen sections coming into view and growing closer from the perspective of the original first-frame position. The distant snow-capped mountains slowly approach and subtly expand in the frame.

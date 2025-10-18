@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a rainy city street at night, viewed through a wet surface with visible droplets. A wide, reflective asphalt road stretches into the distance, flanked by sidewalks and buildings with glowing signs on both the left and right. A row of trees lines the right side of the road, and numerous streetlights illuminate the wet scene, reflecting vividly off the ground.
+end of description
+In subsequent frames, the most prominent dynamic change occurs to a traffic light, located in the mid-distance on the right side of the street. Initially red, it transitions to green by the fourth frame and remains green throughout the rest of the sequence. Subtle shifts in reflections on the wet road are also observed.
+frame_0000000128-frame_0000000256:
+The first frame displays a rainy night street, with a wet asphalt road and sidewalk extending into the distance, reflecting the bright lights of commercial buildings on both sides. Several trees line the right sidewalk and also appear on the left, while streetlights cast illumination onto the continuous rainfall throughout the scene.
+end of description
+In subsequent frames, the rainfall persists, causing subtle shifts in the reflections on the wet surfaces. From frame 5, a yellow/lime green umbrella is revealed across the top and upper right of the view, extending above and partially in front of the viewer, now visibly catching raindrops.
+frame_0000000256-frame_0000000384:
+The first frame depicts a rainy city street at night, viewed through a wet surface, with a reflective asphalt road extending into the distance. A wet sidewalk and a line of trees are to the right, bordered by illuminated buildings with storefronts on both sides of the street, whose lights reflect on the soaked ground, with red traffic lights visible further down the right.
+end of description
+Rain consistently falls across the scene; subsequently, a yellow-green umbrella progressively emerges from the top right, opening and expanding downwards and leftwards across the frame's corner, partially obscuring the view.

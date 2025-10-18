@@ -1,0 +1,10 @@
+frame_0000000000-frame_0000000128:
+The first frame captures a paved path curving gently right and receding, bordered immediately left by a tall, moss-covered rock face and to the right by a low stone wall separating it from a body of water with dry, golden reeds. Beyond the water, trees and distant buildings are visible, with a dark mountain under a clear blue sky dominating the far background, while a digital overlay in the top right shows "Pace: 5:15 /km", "Grade: 0%", and "Distance: 3.2 KM".
+end of description
+As the frames progress, the viewpoint moves forward along the path; the moss-covered rock face on the left and the reeds on the right recede, revealing more of the path and landscape ahead. Concurrently, the digital overlay's 'Pace' value decreases chronologically from 5:15 /km to 4:40 /km, while the 'Distance' remains constant at 3.2 KM.
+frame_0000000128-frame_0000000256:
+The first frame displays a paved path extending into the distance, curving left, with a moss-covered rocky cliff immediately to the viewer's left and a river lined with dry reeds to the right. Beyond the river, autumn trees and distant buildings lead to a large dark mountain under a clear blue sky, while an activity overlay is in the top right.
+
+end of description
+
+As frames progress, the viewpoint moves forward along the path; the rocky cliff and foreground reeds recede past the viewer to their sides. The town and mountain in the background shift slightly left, revealing more of the path ahead, and the on-screen pace indicator updates from 4:40 to 4:30 /km.

@@ -1,0 +1,13 @@
+frame_0000000000-frame_0000000128:
+The first frame captures a rainy city street at night from a sidewalk perspective. In the immediate foreground on the right, a tree trunk stands with two electric scooters, one lime green and one blue, parked on the wet pavement. To the left, a multi-lane road stretches into the distance, reflecting light from various storefronts and billboards lining the buildings on the far side, where several cars are parked along the curb. Along the right side, a row of trees lines the wet sidewalk, with a white car parked slightly behind the initial trees further down the street.
+end of description
+In the subsequent frames, the white car parked on the right side of the street, beyond the initial trees, slowly begins to reverse. It progressively moves backward relative to its initial position, gradually revealing more of its front end as it shifts. This slow backward motion continues through the sequence, with the car noticeably further from the tree it was initially near by the final frame, as rain persists across the scene.
+frame_0000000128-frame_0000000256:
+The initial frame depicts a rainy city street at night, with a prominent tree trunk and a pole in the foreground right. A green and black electric scooter leans against the tree, and further right on the wet sidewalk, a white car is parked beside a blue electric scooter. The midground features a wet street with reflections and parked cars on the left, while background buildings glow with illuminated signs and distant streetlights are visible.
+
+end of description
+A dark SUV subsequently appears from behind the central tree trunk on the left side of the street, driving towards the viewer. It then proceeds past the viewpoint to the right, moving away into the distance.
+frame_0000000256-frame_0000000384:
+The first frame displays a rainy night city street, with a purple electric scooter and a trash can situated on the right sidewalk in the foreground, beside a parked white car. A dark SUV is seen driving away from the viewer in the midground, while numerous illuminated city buildings and distant vehicles are visible in the hazy background.
+end of description
+As frames advance, the dark SUV continues moving further away, and a black car enters from the far left, also proceeding away from the viewer. Other cars in the background reposition, and eventually, a delivery motorcycle with a yellow container rapidly passes on the far left, moving towards the background.

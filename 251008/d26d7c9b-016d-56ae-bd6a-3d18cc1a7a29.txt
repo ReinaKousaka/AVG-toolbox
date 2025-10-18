@@ -1,0 +1,28 @@
+frame_0000000000-frame_0000000128:
+A paved road with white markings extends centrally from the foreground into the distance, bordered on the left by a green barrier and on the right by a metal guardrail. Beyond the right guardrail lie grassy fields with small trees and distant buildings, while large green mountains rise in the background under a blue sky with scattered white clouds, all visible relative to the viewer.
+end of description
+As the frames progress, the viewpoint moves forward along the road; the white road markings, green barrier, and metal guardrail appear to recede and move past the viewer towards the bottom of the frame, relative to the initial viewpoint, while the distant mountains and buildings appear to draw slightly closer.
+frame_0000000128-frame_0000000256:
+The first frame captures a paved road extending towards a distant horizon, flanked on the left by a concrete barrier with green panels and on the right by a silver guardrail, behind which lie dry grass and a green fence, with large, vegetated mountains in the midground under a cloudy sky.
+end of description
+As the frames progress, the viewpoint moves forward along the road, causing the road, barriers, and guardrails to recede from the foreground. A tall pole with a small wind turbine and solar panels emerges from the distant left side of the road, gradually moving closer to the viewer's left. This pole then passes the viewer, indicating continuous forward motion along the scenic mountain route.
+frame_0000000256-frame_0000000384:
+The first frame displays a gray asphalt road extending directly into the distance, marked by a broken white line in the center and a solid white line on the right edge. To the left, a concrete barrier topped with green vertical slats parallels the road, with a solar-powered street light visible further left. On the right, a silver guardrail borders a dry, grassy field featuring a green mesh fence, all set against a backdrop of large, dark green mountains under a blue sky with scattered white clouds.
+end of description
+As the frames progress, the viewpoint slowly moves forward along the road. The broken white line in the road, the concrete barrier and green slats on the left, and the silver guardrail on the right all move closer to the viewer and eventually out of the frame, indicating the viewer's continuous motion towards the distant mountains.
+frame_0000000384-frame_0000000512:
+A highway extends forward, curving slightly right, with a concrete barrier and green posts to the viewer's immediate left and a metal guardrail to the right, beyond which lies dry grass and a green wire fence. In the midground, a blue and white road sign is visible slightly right of the road's center, while large, green mountains dominate the background under a partly cloudy sky.
+end of description
+There are no dynamic changes, newly revealed objects, or scene alterations across the subsequent frames; all visible elements remain identical in their original spatial positions relative to the first-frame viewpoint.
+frame_0000000512-frame_0000000640:
+A gray asphalt road with white markings extends into the distance, curving slightly left, flanked by a concrete barrier with green posts to the left and a silver guardrail to the right. Beyond the guardrail is dry shrubland with a green mesh fence, and in the mid-ground, a green sign with a black left-pointing arrow is visible to the right of the road, all against a backdrop of large, sparsely vegetated mountains under a cloudy sky.
+end of description
+The viewpoint moves forward along the road, causing the green sign on the right to approach the viewer and grow larger. A pictogram of a truck and Chinese characters, along with "500m," are revealed on the sign, indicating an emergency parking area. As the sequence progresses, the sign continues to approach and then passes to the viewer's right, moving out of frame, while the road and surrounding landscape dynamically shift to reflect forward motion.
+frame_0000000640-frame_0000000768:
+The first frame displays a grey asphalt road curving gently to the right and receding into the distance, marked with white lane lines in the foreground. To the viewer's left, a concrete barrier topped with green railings runs alongside the road, while a silver guardrail borders a dry, grassy area to the right. Majestic mountains, some verdant and others arid, rise in the background beneath a bright blue sky dotted with scattered white clouds.
+end of description
+No dynamic changes occur, and no new objects or scenes are revealed in the subsequent frames, as they are all identical to the first frame.
+frame_0000000768-frame_0000000896:
+The first frame presents a paved road curving gently to the right, featuring white lane markings and flanked by a green guardrail on the left and a silver guardrail on the right, both receding into the distance. Beyond the guardrails, green vegetation covers the slopes to the viewer's left, while a drier, brownish terrain lies to the right, leading towards distant mountains. A small blue sign is visible on the right side of the road against the base of these large mountains, which are topped by a bright blue sky with scattered white clouds.
+end of description
+All subsequent frames are identical to the first, revealing no dynamic changes in objects or newly revealed scenes relative to the initial viewpoint.

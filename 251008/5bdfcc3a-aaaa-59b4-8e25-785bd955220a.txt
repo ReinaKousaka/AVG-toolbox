@@ -1,0 +1,29 @@
+frame_0000000000-frame_0000000128:
+The first frame displays train tracks centrally leading into the distance, curving gently to the right, flanked by dry grassy fields. To the left, a cluster of birch trees stands before a dense forested mountain, while a small dark wooden house with a light roof is visible among shrubs on the right. An overcast sky occupies the upper portion, with an overhead wire extending vertically down the center.
+end of description
+As the viewer moves forward along the tracks, the immediate foreground scenery, including the birch trees and wooden house, recedes past the sides of the first-frame viewpoint. A utility pole on the left moves closer and passes by. Later, a yellow railway sign marked '160 5' becomes visible in the field to the left of the tracks, also approaching from the first-frame's distant left.
+frame_0000000128-frame_0000000256:
+The first frame displays train tracks stretching forward and curving to the right, surrounded by gravel. To the left, a yellow '160 5' sign stands beside a fenced brown field leading to distant trees and a forested mountain. To the right, a green embankment with trees slopes upwards, all under an overcast sky with a thin overhead wire visible above the tracks, extending towards the upper right.
+
+end of description
+
+As the viewpoint moves forward along the tracks, the yellow sign quickly recedes out of sight to the viewer's left. A utility pole, initially appearing far ahead to the left of the first-frame viewpoint, approaches, passes closely on the left side, and subsequently moves behind the first-frame viewpoint. The entire surrounding landscape, including the tracks and overhead wire structure, continuously shifts, moving towards and past the viewer's position.
+frame_0000000256-frame_0000000384:
+The first frame captures a forward view along train tracks that curve gently to the right in the mid-distance, framed by grassy verges on both sides. To the viewer's left, a wooden fence separates the tracks from a vast brown field, beyond which a forested mountain rises, while the right features a grassy slope with sparse trees and undergrowth under an overcast sky, with a thin overhead wire extending from the top center and a utility pole visible to the left of the tracks. end of description
+As the train progresses, the tracks and immediate surroundings continuously recede and pass by, with the initial utility pole moving past the viewer's left. Subsequently, a larger, more intricate utility pole with its overhead structure emerges ahead on the left, approaching and then passing the viewer's position as the landscape unfolds.
+frame_0000000384-frame_0000000512:
+The first frame depicts a railway track receding into the distance and curving slightly right, flanked by grassy embankments. To the left, a dirt field with a fence leads to a dense forest and a large mountain; to the right, a stand of trees and distant hills are visible under an overcast sky, with an overhead power line running diagonally across the top.
+end of description
+As the viewpoint moves forward along the tracks, the foreground scenery on both sides shifts past the viewer, revealing more of the continuously winding landscape ahead. A prominent utility pole on the left side of the track, initially in the mid-ground, progressively moves closer to and then past the viewer, while further sections of the forested mountain and birch trees become visible on either side relative to the initial frame's depth.
+frame_0000000512-frame_0000000640:
+The first frame shows a train track perspective, with two gravel tracks extending forward and curving gently to the right towards the mid-ground. To the immediate left, a utility pole with overhead wires is partially visible, while beyond it, a green grassy slope leads to a field and a dense forest covering the lower part of a mountain range. To the right, a grassy embankment borders sparse trees, and the sky is overcast above the distant hills.
+end of description
+As the train moves forward, the utility pole and wires swiftly recede to the viewer's left and overhead. The surrounding green landscape, including embankments, fences, and trees, progressively approaches and moves past the viewer on both sides, revealing more of the winding track ahead and the distant mountains to the right.
+frame_0000000640-frame_0000000768:
+The first frame displays a view looking forward along train tracks, which recede into the distance and curve gently to the right, surrounded by gravel. A utility pole with overhead wires stands prominently to the left of the tracks in the foreground, with a grassy embankment and a forested mountain slope behind it, while a flatter grassy field and a dense forest are visible on the right under an overcast sky.
+end of description
+As the frames progress, the viewpoint moves forward along the tracks. The foreground utility pole on the left recedes and eventually moves out of frame to the left, revealing more of the embankment and fence that were initially behind it. Simultaneously, the entire landscape on both sides, including the grassy fields and the distant forests and mountains, progressively shifts backward relative to the viewer, confirming continuous forward motion along the railway.
+frame_0000000768-frame_0000000896:
+The first frame displays train tracks extending directly forward and curving to the right in the distance, bordered by grassy embankments, with a prominent utility pole and overhead wires slightly left of center, and forested hillsides on both sides beneath an overcast sky.
+end of description
+As the train advances, the utility pole and wires quickly move past the viewer to the left, revealing more of the open field and a small building further back on the left side. Simultaneously, the surrounding terrain continually shifts past, bringing new sections of the track and its rightward curve into the immediate foreground.

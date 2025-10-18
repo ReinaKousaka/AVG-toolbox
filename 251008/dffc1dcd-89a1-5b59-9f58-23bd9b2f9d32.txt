@@ -1,0 +1,6 @@
+frame_0000000000-frame_0000000128:
+In the first frame, a paved park path stretches from the immediate foreground towards the mid-left, bordered by lush green grass and trees. To the viewer's immediate left, a man is seated on a park bench under dappled sunlight, while further along the path, other people are visible near a red-roofed brick building and a street lamp in the mid-left. A dark metal fence adorned with green foliage runs along the right edge of the path, separating it from a large lake that dominates the right side of the frame. Across the lake, a distant cityscape with numerous buildings rises against a clear blue sky, which also displays a faint white drawing of a flying object in the top right. Digital data showing course, speed, elevation, and distance is overlaid in the bottom-left corner.
+
+end of description
+
+As the scene progresses, the viewpoint moves forward along the path. The person initially on the bench to the viewer's immediate left recedes and moves out of frame, while new individuals appear on benches further ahead along the path to the left. The fence and lake continue to unfold to the right, revealing new sections of the waterfront. The flying object depicted in the top-right of the first frame vanishes in subsequent views, and minor numerical adjustments are observed in the overlaid course and elevation data.

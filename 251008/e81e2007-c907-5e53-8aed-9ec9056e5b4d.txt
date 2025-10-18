@@ -1,0 +1,34 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a narrow, wet cobblestone street stretching into the distance, flanked by stone buildings. In the foreground, the back of a person with a grey backpack is to the right, while a person wearing a patterned head covering and carrying a colorful bag walks ahead and slightly left, away from the viewer. On the left, a shop window displays a green bag with a small orange cone on the wet pavement below, and on the right, a shop with a closed dark roller shutter is labeled "Toscella."
+end of description
+As the camera slowly moves forward down the street, the two walking figures advance further away from the initial viewpoint. The architecture and shops further down the alley are gradually revealed, bringing more of the narrow, rain-slicked street into view.
+frame_0000000128-frame_0000000256:
+The first frame depicts a narrow, wet cobblestone street at night, flanked by a brightly lit shop window on the left and a closed shop with a metal shutter on the right. A person in a patterned headscarf and dark jacket, carrying a colorful bag, walks away from the viewer down the street, past a small red, yellow, and blue object resembling a toy parrot lying on the ground to the left.
+end of description
+In subsequent frames, the person continues to walk further away from the viewer down the street, their figure gradually receding into the distance. The viewpoint subtly follows, maintaining the person's central position as the background elements to the left and right slowly expand from the frame's edges.
+frame_0000000256-frame_0000000384:
+First, the first frame presents a narrow, wet alleyway extending away from the viewer, lined with buildings on both sides. In the immediate foreground, a colorful parrot-like toy rests on the cobblestones, while a shop window with products is to the left and a shuttered shop is to the right. A person in a dark jacket is walking away into the midground, towards distant figures.
+end of description
+Next, the colorful toy located in the immediate foreground gradually disappears from view by the fifth frame. Concurrently, the person continues walking further away into the background, receding deeper into the alley from the first-frame viewpoint.
+frame_0000000384-frame_0000000512:
+The first frame shows a narrow, wet pedestrian street extending away from the viewer, flanked by buildings. In the midground, a person wearing dark clothing and a patterned head covering, carrying a bag, walks away from the viewer down the center of the street. To the left, a building features a partially visible dark shopfront with an orange awning and outdoor seating, beyond which another person is visible further down the street. To the right, a dark green storefront with large windows is present, next to a light-colored building wall displaying signs and a light brown rolling shutter. The street continues into the background, where more buildings and distant figures are faintly visible under an overcast sky.
+
+end of description
+
+As the sequence progresses, the viewpoint moves forward, following the main subject who continues walking further down the street. More of the street ahead is revealed, with the buildings on both sides becoming closer to the viewer's original position. On the right, the light brown rolling shutter is replaced by a light brown door with posters, and the light-colored wall with signs becomes more prominent as the camera advances towards it. The details of the distant figures also become slightly clearer as the perspective shifts forward.
+frame_0000000512-frame_0000000640:
+The first frame shows a narrow, wet cobblestone street receding from the viewer, flanked by buildings. In the midground, a person in dark attire walks away from the viewer, with a green storefront on their left and a shuttered shop next to an open establishment with an awning and outdoor seating on their right. Several other pedestrians are visible further down the street.
+
+end of description
+
+The person in dark clothing continuously walks further away from the initial viewpoint, deeper into the street. The other pedestrians in the distance also proceed further down the alley relative to the first-frame viewpoint, as the camera slowly tracks forward.
+frame_0000000640-frame_0000000768:
+The first frame displays a narrow, wet street or alleyway receding into the distance under an overcast sky, flanked by multi-story buildings. In the mid-ground, a person in dark attire with a light head covering walks away from the viewer, slightly right of center, carrying a bag. To the left, a building with a reddish facade features a yellow awning illuminated by warm lights, revealing outdoor seating with tables and chairs, while on the right, a building with a lighter facade has a glass storefront reflecting interior lights and street activity.
+end of description
+As the frames progress, the viewer moves forward down the street, causing the person in the foreground to continue walking away and recede further into the distance relative to the initial viewpoint. The buildings flanking the street become closer to the viewer's perspective, revealing more details of the cafe's facade on the left and the reflective storefront and a closed, dark roller shutter on the right, which were initially further back. Other pedestrians visible in the mid-ground also move further away, maintaining their relative positions as the overall scene advances toward the distant lighter building at the end of the alley.
+frame_0000000768-frame_0000000896:
+The first frame depicts a wet, narrow street receding into the distance, flanked by buildings; a reddish restaurant with an orange awning and illuminated lanterns is to the left, and a white building with a closed metal shutter is to the right. Pedestrians, including a woman in dark clothing closest to the viewer and a man in a white sweatshirt ahead, walk away from the viewer towards distant architecture under an overcast sky.
+
+end of description
+
+As the frames progress, the viewer moves forward along the street, causing the initial buildings on the left and right to recede from view relative to the first-frame viewpoint. The pedestrians, positioned in the midground of the first frame, move further into the background, and a new person in a dark jacket becomes visible walking alongside the man in white, all shifting further down the street relative to the initial viewpoint.

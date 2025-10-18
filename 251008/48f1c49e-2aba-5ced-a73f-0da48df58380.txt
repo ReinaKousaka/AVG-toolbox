@@ -1,0 +1,30 @@
+frame_0000000000-frame_0000000128:
+A paved road with a yellow centerline stretches towards distant, snow-capped mountains and a bright blue sky, flanked by a lush green valley with scattered buildings on the left, and dense trees and parked cars on the right, all under the viewer's direct gaze.
+end of description
+The camera moves forward along the road. The two parked cars on the right move further right and behind the viewer. Simultaneously, two figures walking ahead on the road emerge from behind the initial gravel pile and trees, moving towards and then past the viewer's right side. A blue road sign and another car driving away from the viewer become visible further ahead on the left and center of the road, respectively, as the scene progresses.
+frame_0000000128-frame_0000000256:
+The viewer is on a paved road with a solid yellow line to the right and a broken line to the left, facing a valley framed by towering green mountains. To the left are grassy fields, distant buildings, and a parked dark sedan; to the right, a white car, a black SUV, trees, and gravel piles precede a group of people walking further along the road.
+end of description
+As the viewpoint moves forward along the road, all previously visible objects—the parked cars (white and black SUV to the right, dark sedan to the left), the trees, gravel piles, and walking people—recede and pass the viewer's position. This progression reveals more of the construction materials and a building on the right side of the road, which were further ahead from the first-frame viewpoint.
+frame_0000000256-frame_0000000384:
+In the first frame, a gray road with a single solid yellow line curves slightly left in the foreground. To the left of the road, a vibrant green grassy field with wooden fence posts stretches towards a steep mountain covered in dense green trees. On the right side of the road's shoulder, three people are walking away from the viewer, while behind them are large piles of gravel and a wooden bridge structure. In the distant center, a white car drives towards the viewer on the road, set against a backdrop of majestic, partially snow-capped mountains under a clear blue sky with wispy white clouds.
+
+end of description
+
+The three people on the right side of the road continue walking away from the viewer, gradually exiting the frame to the right. Concurrently, the white car, initially in the distance, drives progressively closer to the viewer along the road. A fourth person, wearing a blue shirt, emerges from behind the original group on the right shoulder and walks towards the viewer. The white car continues its forward movement, passing the pedestrian area on the right, and approaches the foreground, becoming more prominent.
+frame_0000000384-frame_0000000512:
+First frame: From a perspective on a gray road with a yellow line, a white car is on the left, moving away. To the left are green fields with a wooden barn, leading to forested mountains, while a concrete barrier and further green fields are to the right, beneath distant snow-capped mountains and a blue sky.
+end of description
+As the frames progress, the white car moves further away from the viewer and completely exits the frame to the left. The viewpoint moves forward along the road, causing the wooden barn to appear closer on the left and revealing more of the road and the surrounding valley.
+frame_0000000512-frame_0000000640:
+A paved road with a yellow center line curves into the midground, flanked by green fields. To the left, a weathered wooden barn with a red roof sits in a grassy field, while a wooden water trough occupies the bottom right foreground. A steep, forested mountain rises on the left, contrasting with distant snow-capped mountains on the right under a blue sky with white wisps.
+end of description
+As the viewpoint advances along the road, the foreground barn on the left and the trough on the right move out of frame. A small black car, previously obscured behind the barn, becomes fully visible to the left of the road, while a white circular sign on the right approaches the viewer's perspective.
+frame_0000000640-frame_0000000768:
+The first frame presents a paved road with a yellow center line curving slightly left, leading into a scenic valley flanked by a densely forested mountain on the left and bright green fields on the right. Immediately to the viewer's left, a rustic building with a dark roof shelters a parked black car, while majestic snow-capped mountains rise in the distant background under a clear blue sky.
+end of description
+As the frames progress, the camera moves forward along the road, causing the rustic building and black car on the left to gradually move past the viewer and increase in apparent size. Simultaneously, foreground fence posts on the right recede as the scene advances, revealing more of the lush green fields and distant valley, while the background mountains remain constant but shift slightly in perspective.
+frame_0000000768-frame_0000000896:
+The first frame displays a paved road with a yellow center line extending from the viewer into the distance, flanked by a dark SUV parked next to a wooden building on the immediate left and a green grassy field with fence posts on the right. Beyond, dense forested mountains dominate the left, while further right, snow-capped peaks rise under a blue sky with scattered clouds, with additional fields and buildings visible in the midground.
+end of description
+As the sequence progresses, the viewpoint moves forward along the road, causing the SUV and the wooden building on the left to move out of the frame and become positioned behind the viewer's initial perspective. Similarly, the fence posts and foreground field on the right also recede behind the original viewpoint, revealing more of the road ahead and the landscape further along the path.

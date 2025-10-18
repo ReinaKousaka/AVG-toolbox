@@ -1,0 +1,10 @@
+frame_0000000000-frame_0000000128:
+A dark green construction fence with mesh fabric covers the left side of the frame, extending into the mid-ground. Behind and above the fence, a multi-story beige building is visible in the background, to the left of center. To the right of the fence, a concrete sidewalk leads into the distance, bordered by a street with parked cars and a lamppost on the far right. Palm trees and green foliage are scattered behind the fence and in the mid-ground to the right of the beige building.
+end of description
+The viewpoint moves forward along the sidewalk, revealing more of the construction fence to the viewer's left. Initially faint signs become prominent, displaying "colega architects" and "PEARCE CONSTRUCTION," then a "NATIONAL RENT-A-FENCE" sign appears further along the fence. As the viewer progresses, a light blue porta-potty and additional lush foliage are revealed behind the fence to the left, while a new brown building structure emerges further along the street to the right.
+frame_0000000128-frame_0000000256:
+In the first frame, a green construction fence with a blue porta-potty behind it is on the far left, adorned with a yellow warning sign and a white 'WILLIAMS' sign. A low beige wall and lush tropical plants run along the mid-left, with a multi-story beige building visible behind them. To the right, a gray sidewalk parallels a street where a black car is parked in the foreground, and a white SUV and other vehicles are visible further down. A teal streetlamp stands on the sidewalk, and more buildings line the street under a clear blue sky in the background.
+
+end of description
+
+As the frames progress, the viewpoint moves forward along the sidewalk. The green construction fence and the porta-potty on the left recede and disappear, revealing more of the beige wall and the lower levels of the large beige building that was initially further back. The black car on the right foreground moves out of view, and the streetlamp becomes more prominent as the scene progresses past the initial construction area.

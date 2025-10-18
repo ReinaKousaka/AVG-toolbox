@@ -1,0 +1,30 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a paved road extending into a mountain town, flanked by steep, green mountains under a bright blue sky. To the left, a white SUV and scooters are parked near a decorative street light pole adorned with yellow lanterns, with a green barrier visible further ahead in the road's center. On the right, a white van is parked beside a walking person on the sidewalk, in front of multi-story buildings with traditional red and tan facades.
+end of description
+As the viewpoint advances forward, the white van on the right moves out of frame, revealing a person on a red and green delivery scooter and wooden crates on the sidewalk. The walking person continues further down the street on the right, as the viewer approaches the green barrier and the elaborately decorated buildings lining the right side of the road.
+frame_0000000128-frame_0000000256:
+The first frame presents a street scene with a pedestrian walking away on the right sidewalk next to colorful multi-story buildings, while a utility pole, planters, and green construction barriers line the left foreground against a steep forested mountain, with a distant dark car visible on the road ahead under a bright blue sky.
+end of description
+Subsequently, the pedestrian on the right sidewalk continues moving further away, and the dark car on the road slowly drives closer to the viewer. The overall viewpoint gradually progresses forward, subtly shifting the immediate foreground elements backward and expanding the visible street ahead, while the displayed speed varies from 18 to 11 km/h.
+frame_0000000256-frame_0000000384:
+In the first frame, a paved street extends forward, flanked on the left by a green construction barrier and a woman standing nearby. To the right, traditional multi-story buildings with colorful facades and storefronts line a wide sidewalk, while a green SUV approaches in the midground. Steep, verdant mountains dominate the background to the left, all under a bright blue sky.
+end of description
+As the frames progress, the viewpoint moves forward along the street. The green SUV, initially in the midground, drives closer to the viewer, becoming more prominent. Simultaneously, the indicated speed increases from 11 km/h to 12 km/h, reflecting the ongoing movement down the street.
+frame_0000000384-frame_0000000512:
+The first frame presents a street scene with a dark green SUV in the midground, slightly left of center and facing away; a green construction barrier runs along the left side with a woman standing behind it and a mountain rising beyond, while a row of traditional-style buildings with shops lines the right side.
+end of description
+The green SUV drives forward from its midground position, moving towards the viewer's left and eventually out of the frame entirely. This dynamic reveals more of the road and the green barrier previously behind the vehicle's right side, now fully exposed to the viewer's left. As the scene progresses, a pedestrian further down the street on the right-hand sidewalk becomes more clearly visible.
+frame_0000000512-frame_0000000640:
+The first frame displays a paved street extending forward, flanked on the left by a green construction barrier and a steep rocky mountainside, and on the right by multi-story buildings with colorful, traditional facades and numerous storefronts, all beneath a bright blue sky.
+end of description
+As the viewer moves forward, the previously distant sections of the green barrier and mountain on the left recede into the background, while objects initially ahead, such as a yellow trash bin and a white covered item on the right sidewalk, advance towards and then move past the first-frame viewpoint, revealing a parked scooter and new building sections further along the street.
+frame_0000000640-frame_0000000768:
+The first frame displays a street extending forward, bordered on the near left by a green corrugated metal fence and on the right by multi-story buildings featuring decorative balconies and numerous storefronts. In the distance, the street curves towards imposing rocky mountains, with several vehicles visible ahead, while a light pole, a wooden planter, and a person stand on the right-hand sidewalk closer to the viewer.
+end of description
+As the viewpoint progresses, the green fence on the left recedes and gradually moves out of view to the left. Simultaneously, the buildings on the right become more pronounced, revealing additional storefront details and decorations as the camera approaches, and the vehicles on the street ahead also move progressively closer to the viewer.
+frame_0000000768-frame_0000000896:
+The first frame presents a bright, sunny street scene. A paved road occupies the center, receding into the distance, with a white SUV approaching the viewer in the midground. To the immediate left is a green corrugated metal fence, behind which a steep, rocky cliff face with some vegetation ascends, leading to a distant green mountain. On the right, a multi-story building adorned with colorful banners and closed and open storefronts borders a sidewalk where several people are visible. Overlays at the bottom display a circular map, speed (20 km/h), and geographic coordinates.
+
+end of description
+
+As the frames progress, the viewpoint moves forward along the road. The white SUV, initially approaching, passes to the viewer's left and continues further down the road relative to the original viewpoint. The green fence on the left exits the frame, revealing more of a decorative brown wall and the rugged terrain behind it. Simultaneously, the building on the right moves closer, unveiling additional storefront details and individuals on the sidewalk. The recorded speed fluctuates slightly (e.g., to 21, 28 km/h), and the geographic coordinates update, indicating continuous forward motion.

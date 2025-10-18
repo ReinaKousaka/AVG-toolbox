@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a street scene with residential houses visible on both the left and right sides, flanked by numerous green trees under a clear blue sky with power lines overhead. In the mid-ground center, a white SUV is parked on the street near a red traffic cone, with a purple-leafed tree behind it.
+end of description
+In the following frames, the white SUV gradually drives forward and turns right, slowly moving out of the frame towards the right of the initial viewpoint. This movement progressively reveals the empty street and sidewalk area previously behind the vehicle, while the red traffic cone remains stationary in its original position.

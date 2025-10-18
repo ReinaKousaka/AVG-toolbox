@@ -1,0 +1,14 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a rainy street scene with a yellow and white striped crosswalk immediately in front of the viewer; a red hatchback is parked to the right, and a black SUV is parked left beside a building and trees, with a white sedan approaching in the midground and distant hills obscured by fog.
+end of description
+Subsequently, a black sedan newly emerges from the immediate left, traversing the crosswalk directly in front of the viewer, splashing water, and then proceeds rightward and further down the road. Simultaneously, the white sedan continues its approach in the midground, eventually drawing closer and turning left.
+frame_0000000128-frame_0000000256:
+In the first frame, a wet asphalt street extends from the foreground into the hazy distance, with yellow and white striped crosswalk markings prominently in the bottom left. A red car is parked along the right curb, which features a yellow line. Further down the road, a dark-colored sedan with illuminated taillights moves away from the viewer, while other distant cars and a green bus are also visible ahead. To the left, a dark SUV is parked on an elevated area, and several other cars are parked along the street, bordered by trees and buildings, including a tan-colored one. The scene is overcast and actively raining.
+
+end of description
+
+The dark sedan in the center of the road continues to drive away from the viewer, with its brake lights briefly intensifying before dimming as it progresses. Other vehicles further down the street also exhibit slight movement, maintaining their relative positions to each other as they proceed along the rainy road. The rain persists, creating ripples on the wet surface but no new objects or scenes are revealed; only the existing vehicles' positions subtly shift over time.
+frame_0000000256-frame_0000000384:
+A street scene during heavy rain features a red Volkswagen Golf parked on the right in the immediate foreground, its rear facing the viewer along a yellow-lined curb. The wet asphalt road, covered in visible raindrops and puddles, stretches from the foreground into the mid-ground. To the far left, an orange traffic cone stands near a dark parked car and a partially tree-obscured building with yellow and brown sections. In the mid-ground, a black car with headlights on approaches in the left lane, while other vehicles, including a green bus, recede into the distance on the right lane.
+end of description
+Over the subsequent frames, the black car in the mid-ground left lane steadily advances towards the viewer. It continues its trajectory, moving closer and more to the viewer's left. By the final frame, the black car is prominently in the foreground on the left, passing through a significant puddle and creating a distinct splash of water, while the parked red car remains static on the right.

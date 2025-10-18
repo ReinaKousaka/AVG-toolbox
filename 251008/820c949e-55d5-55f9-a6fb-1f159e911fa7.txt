@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+A paved road, featuring cracks and double yellow lines on the left with a single white line on the right, stretches from the bottom center, curving right into the distance. To the immediate left, a towering red rock formation dominates the view, while on the right, a grassy, arid landscape with shrubs extends towards distant red mesas beneath a clear blue sky.
+end of description
+The viewpoint advances along the road, causing the immediate asphalt and roadside features to exit the frame from the bottom and sides. The red rock formation and grassy expanse on the right gradually recede as the camera moves forward. A yellow warning sign, initially a small distant object on the right side of the road, grows larger and more distinct, indicating the approaching curve.
+frame_0000000128-frame_0000000256:
+The first frame presents a cracked asphalt road extending forward from the viewer, bordered by a large reddish-brown rock formation on the left and a grassy, arid shoulder on the right. In the mid-distance to the right of the road, a yellow diamond-shaped sign with a black right-curving arrow is visible, beneath a vast clear blue sky and distant rock formations.
+end of description
+As the frames progress, the viewpoint moves forward along the road, causing the immediate road surface and the rock formation on the left to recede past the viewer. Concurrently, the yellow road sign on the right approaches the viewer, becoming progressively larger and more prominent in the foreground.
+frame_0000000256-frame_0000000384:
+A cracked asphalt road extends from the foreground into the distance, flanked on the left by a massive reddish-brown rock formation and on the right by dry brush and greener distant vegetation. A clear blue sky occupies the upper portion of the frame, meeting a distant horizon line of rock formations. A yellow diamond-shaped road sign with a black curved arrow pointing right is prominently positioned in the mid-ground to the right of the road.
+end of description
+As the viewpoint advances forward, the yellow diamond road sign on the right side of the road moves progressively out of view. The cracked road surface appears to move from the mid-ground into the foreground and then out of view beneath the viewer, while the red rock formations on the left and green vegetation on the right pass by. Concurrently, a white vehicle emerges in the far distance on the road ahead, steadily growing larger as it approaches the first-frame viewpoint.

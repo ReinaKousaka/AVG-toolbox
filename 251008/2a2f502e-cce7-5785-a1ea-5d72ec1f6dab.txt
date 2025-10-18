@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame presents an aerial view of a vast, snow-covered forest extending from the foreground to the distant horizon directly in front of the viewer. A bright, setting or rising sun with strong rays is visible in the upper center-right, illuminating an orange-tinted sky near the horizon that gradually fades into a lighter hue above the tree line.
+end of description
+Subsequent frames reveal no dynamic changes; the scene remains entirely static with no camera movement or newly revealed objects, maintaining the exact same viewpoint and composition as the first frame.

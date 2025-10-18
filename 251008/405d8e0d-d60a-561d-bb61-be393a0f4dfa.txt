@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a cobblestone street, gently sloping away from the viewer, flanked by a graffiti-marked building wall on the immediate right with parked bicycles, and a white building on the left with a black car partially visible closest to the viewer. In the midground, two pedestrians walk away, towards a central white building with a distinctive conical roof, all set against a lush, tree-covered hillside under a clear blue sky.
+end of description
+The viewpoint subtly shifts right as the two pedestrians continue walking away from the viewer. A cyclist then enters the street from the right midground, riding centrally and proceeding away from the first-frame viewpoint. Concurrently, the black car on the far left moves away from the viewer and out of frame, fully revealing a silver car that was previously positioned behind it.
+frame_0000000128-frame_0000000256:
+The first frame presents a cobbled street scene on a sunny day, featuring a dark blue car parked foreground-left, adjacent to a warning sign and a parking area with other cars (midground-left). An ornate building with arches (foreground-right) borders the street where two pedestrians walk away from the viewer towards a distant bridge and a distinctive conical-roofed building (background-center), all backed by a tree-covered hillside (background-left).
+end of description
+As frames progress, the dark blue car drives forward and turns further left relative to the first-frame viewpoint, gradually exiting the frame. Concurrently, the two pedestrians continue walking further away down the street, and a person on a scooter emerges from the left midground to proceed forward along the street towards the bridge.

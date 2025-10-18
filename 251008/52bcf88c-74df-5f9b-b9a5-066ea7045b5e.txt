@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a split view: on the right, a gravel path extends forward into a dense forest, flanked by green trees and undergrowth, leading to a bright sky in the distant background. On the left, a larger inset map displays an aerial view of a forested landscape with fields, featuring a red outline and a white circular pointer tracing a red path within it, covering the entire left half of the initial view.
+end of description
+The main view continuously moves forward along the gravel path, bringing objects previously far ahead (in the first frame's distance) closer to the viewer. Simultaneously, the large map on the left side (of the first frame) diminishes in size and repositions to the bottom-left corner, overlapping the forest scene. The white circular marker on this now smaller map steadily advances along the red path, indicating continuous progression through the depicted terrain.

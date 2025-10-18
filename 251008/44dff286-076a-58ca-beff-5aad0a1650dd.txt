@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a sunlit grassy clearing surrounded by dense trees, with a dirt path winding from the bottom-left foreground towards the center-left. A prominent tree trunk occupies the right foreground, slightly right of center, behind which a wooden bench is positioned. In the far background, slightly left of center, indistinct structures or gravestones are visible among the trees.
+end of description
+The viewpoint slowly pans to the right, gradually revealing more of the scene. A small, light yellow building with steps leading up to it, initially almost entirely out of view on the far right, becomes increasingly prominent as it shifts towards the center-right. Further to the right of this building and slightly behind it, a second wooden bench emerges into view, becoming fully visible by the final frame as the initial prominent tree and bench shift left, and the distant structures exit the left side of the frame.

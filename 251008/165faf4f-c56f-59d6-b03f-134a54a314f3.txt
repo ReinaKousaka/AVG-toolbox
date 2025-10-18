@@ -1,0 +1,16 @@
+frame_0000000000-frame_0000000128:
+In the first frame, a dirt path stretches from the foreground towards the background on the left side, bordered by a tall, dense green hedge and a flowering white branch hanging into the top-left. To the right of the path, separated by green grass, a calm canal features a blue and yellow boat docked along its bank, with a blue structure mounted on the boat. Beyond the canal on the right, green fields extend to the horizon under a cloudy sky, with some distant trees visible.
+end of description
+As the frames progress, the blue and yellow boat dynamically moves to the right along the canal, gradually disappearing out of view to the far right. Consequently, more of the canal water and the grassy bank behind where the boat was initially docked become visible, revealing the continuous flow of the waterway to the right of the viewer's initial position.
+frame_0000000128-frame_0000000256:
+The first frame depicts a dirt path extending into the distance on the left, bordered by a dense green hedge and a bare-branched tree further along. To the path's right, a grassy bank separates it from a canal, where a large blue boat is positioned in the immediate foreground, with green fields rising beyond the canal under a cloudy sky.
+
+end of description
+
+As the frames progress, the blue boat on the right moves steadily further from the viewer, revealing more of the canal water and a white handrail on its side. Concurrently, the viewer's perspective advances along the path, causing the green hedge on the left to gradually become more prominent and closer.
+frame_0000000256-frame_0000000384:
+In the first frame, the viewer is on a dirt path extending into the distance, gently curving to the right. To the immediate left is a tall, dense green hedge running parallel to the path, with a large, bare-branched tree visible above it further along. To the right of the path is a narrow canal with dark water, bordered by tall green grass and reeds, beyond which lie green fields and distant trees under a cloudy sky. In the mid-distance, across the canal, a canal lock with dark wooden gates and a small white railing is visible, with two dark figures standing nearby. A white railing or gate is partially visible in the lower right corner.
+
+end of description
+
+As the sequence progresses, the viewpoint moves forward along the path. The dense green hedge on the left appears to move closer and slightly out of frame on the far left, while the path itself unfolds beneath the viewer. Simultaneously, the canal on the right and its grassy bank also approach, with the partial white object in the lower right becoming more fully visible as a white railing. The canal lock and the figures near it in the mid-distance also draw nearer and appear slightly larger, indicating forward progression through the scene.

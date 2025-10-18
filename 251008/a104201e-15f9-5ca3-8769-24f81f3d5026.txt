@@ -1,0 +1,30 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a residential street scene with a paved road receding into the distance, flanked by houses and vegetation under a clear blue sky. A large, leafy green tree stands prominently on the left side of the road, while a concrete retaining wall with dry brush runs along the right. In the midground, a dark car is visible within a garage opening on the left, and a white car is parked on the right, near a street sign with a small convex mirror.
+end of description
+No dynamic changes or newly revealed objects or scenes occur in the subsequent frames; the entire sequence of images remains static.
+frame_0000000128-frame_0000000256:
+In the first frame, a paved path leads away from the viewer towards the background. To the viewer's immediate left, a low, light-colored structure and a manhole cover are visible on the path, while a large tree with dense green foliage stands further along the left side. On the right, a low concrete wall with dry vegetation runs parallel to the path, beyond which a white car is parked facing away. Houses line both sides of the street, with a tall fence and a multi-story building featuring solar panels on the right, and a house with a garage (partially revealing a reddish-brown car) on the left.
+
+end of description
+
+The subsequent frames show the scene remaining essentially static, with no discernible dynamic changes, movement of objects, or newly revealed objects or scenes from the first-frame viewpoint.
+frame_0000000256-frame_0000000384:
+The first frame displays a narrow residential street lined with modern houses under a clear blue sky. A large green-leafed tree dominates the left midground, with a garage entrance and a red car partially visible behind it, while a white Mini Cooper is parked on the right midground, next to a street sign on an orange pole. Concrete bollards line the left side of the street, and a retaining wall with dry vegetation runs along the right foreground.
+end of description
+A person, initially unseen, emerges walking away from the viewer, appearing further down the street on the left side, beyond the parked white car. This individual continues to move further into the distance, gradually receding along the street from the first-frame viewpoint.
+frame_0000000384-frame_0000000512:
+The first frame shows a narrow residential street under a clear blue sky, with a prominent tree trunk and several bollards in the immediate left foreground. To the left, a garage houses a partially visible dark car, while on the right, a low concrete wall with dry vegetation leads to a parked white Mini Cooper and a tall orange pole bearing a convex mirror in the mid-ground.
+end of description
+As the frames progress, the viewpoint moves forward along the street relative to its initial position, causing the foreground tree and bollards to recede. The white Mini Cooper and the orange pole on the right also recede, while the distant street and buildings ahead become slightly more prominent and closer to the viewer's new position.
+frame_0000000512-frame_0000000640:
+The first frame shows a narrow residential street receding into the distance, lined by houses on both sides under a clear blue sky. In the foreground, two grey bollards are visible, while to the left, a large tree overhangs a brown car parked under a carport. On the right, a white Mini Cooper is parked next to a modern house, with an orange pole holding a convex mirror positioned closer to the viewer.
+end of description
+Subsequently, a person emerges walking away from the viewer down the street in the far distance. As frames progress, this individual moves further away, becoming smaller and less distinct along the distant street. Concurrently, the tree shadows cast on the road subtly shift, appearing to lengthen and move across the pavement from the first-frame viewpoint.
+frame_0000000640-frame_0000000768:
+A narrow, sunny residential street is flanked by houses; on the left, a dark red car rests under a carport beside a white house, while on the right, a white Mini Cooper is parked in front of a modern house partially hidden by an orange pole. Utility lines crisscross the sky above the street, which extends into the distance under dappled tree shadows.
+end of description
+The viewpoint subtly shifts right across the frames. This movement reveals more of the modern house's dark grey facade and a window shutter, as the orange pole on the far right exits the frame. All other elements remain stationary relative to the initial scene.
+frame_0000000768-frame_0000000896:
+A narrow residential street extends into the distance under a clear blue sky. To the right, a white Mini Cooper is parked, with another dark car behind it, next to multi-story buildings. On the left, a green hedge and a dark car under a carport are beside a two-story house, with utility poles lining both sides of the street.
+end of description
+The viewpoint steadily moves forward along the street, causing the initial cars and hedges to recede out of the immediate foreground. The perspective advances, progressively revealing more of the street and houses further ahead. A pedestrian emerges in the far distance, walking away from the viewer on the right side of the road.

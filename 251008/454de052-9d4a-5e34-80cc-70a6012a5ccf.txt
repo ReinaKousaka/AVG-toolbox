@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a wet asphalt road at night, illuminated by a street light on a central utility pole. To the left, a concrete wall with a gray metal railing extends into the distance, with a red utility box positioned near the pole. On the right, a building with wooden siding and a white door is visible, as the road curves into the darkness.
+end of description
+The subsequent frames show a continuous, steady rainfall under the street lamp, reflecting off the wet road surface, without introducing any new objects or altering the established scene layout. The only dynamic changes are the consistent movement of raindrops and subtle fluctuations in the perceived intensity of the falling rain.
+frame_0000000128-frame_0000000256:
+The first frame shows a dark, rainy street scene at night. To the left, a concrete barrier with a decorative white fence parallels the wet asphalt road, where a red fire hydrant and utility pole stand in the mid-ground. The street, marked with yellow lines and a central manhole cover, curves slightly right towards distant streetlights and buildings on the right, all under heavy rainfall.
+end of description
+Throughout the subsequent frames, the only dynamic change observed is the relentless, heavy rainfall, causing continuous splashes on the wet road surface and around the central manhole, falling consistently from the sky relative to the viewer.

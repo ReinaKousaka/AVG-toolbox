@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+A dark dirt path leads from the viewer's foreground, bordered on the left by a dense green hedge with white blossoms and on the right by tall grass alongside a placid canal. Beyond the canal, a wide green field extends to distant trees under an overcast sky.
+end of description
+The subsequent frames depict a subtle forward progression of the viewpoint along the path, causing the immediate foreground vegetation to shift slightly relative to the viewer's updated position, while the broader landscape ahead remains essentially unchanged.
+frame_0000000128-frame_0000000256:
+A narrow dirt path extends into the distance directly in front of the viewer, bordered on the left by a dense green hedge with white blossoms and a large tree, and on the right by a parallel calm river with tall green grass, beyond which lies a vast green field under a cloudy sky.
+end of description
+Subsequently, the viewpoint smoothly advances forward along the path, revealing a continuous stretch of the path, the river to its right, and the hedge to its left, with no new distinct scenes or objects appearing beyond the initial vista.
+frame_0000000256-frame_0000000384:
+In the first frame, a dirt path stretches from the viewer's foreground into the mid-distance on the left, bordered by a dense hedgerow with white blossoms and a large tree canopy extending overhead. To the right, a narrow river flows parallel to the path, its near bank covered in tall green grass, beyond which expansive green fields stretch towards distant hills under an overcast sky.
+end of description
+Subsequent frames reveal only minor, dynamic shifts in the tall grass along the river's right bank and subtle ripples on the water's surface, indicating a gentle breeze, with no new objects or scenes introduced relative to the first-frame viewpoint.

@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame displays an upward view of a forest canopy against a clear blue sky, with tall coniferous trees featuring dark green and yellowish-green needles dominating the left and center, while a deciduous tree with bright yellow autumn leaves occupies the right side of the frame. Patches of yellow foliage from other trees are also visible at the top left and right edges.
+end of description
+Across the subsequent frames, the overall scene remains consistent with no new objects or scenes revealed. Subtle dynamic changes include slight movements of the tree branches and leaves throughout the canopy, particularly noticeable in the yellow-green needles on the central left tree and the yellow leaves to the right, indicating a gentle sway.

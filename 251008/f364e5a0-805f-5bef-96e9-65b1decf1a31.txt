@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame captures a wet urban street intersection on a rainy, overcast day. In the foreground, a red bike lane with white dashed lines runs along the left, adjacent to a zebra crossing, leading into a multi-lane asphalt road ahead. Several cars are stopped or slowly advancing in the left lanes, while pedestrians with umbrellas occupy both the left and right sidewalks, and traffic lights with green signals are visible overhead in the mid-ground.
+end of description
+In subsequent frames, a black sedan in the central foreground begins moving forward across the intersection, its headlights reflecting on the wet road, while other cars on the left also advance slightly. Concurrently, a dark SUV enters the scene from the far right and drives across the intersection, moving right-to-left relative to the viewer's fixed position.
+frame_0000000128-frame_0000000256:
+The first frame depicts a rainy intersection with a zebra crossing and a red bike lane closest to the viewer on the left. In the mid-ground, a white sedan and a dark SUV are moving towards the right side of the frame, away from the viewer, on a wet street. Further left, a person with an umbrella stands on a sidewalk, while traffic lights, signs, and buildings line the background.
+end of description.
+As the frames progress, the white sedan and dark SUV continue their motion towards the right. A different white car enters the frame from the far right, moving left across the intersection, while other cars become more prominent in the background traffic queue to the left. Finally, a motorcycle with a rider appears on the far right, also heading left across the frame.
+frame_0000000256-frame_0000000384:
+The first frame displays a rainy urban intersection with a red bike lane and a zebra crossing prominent in the foreground-left. In the midground, a white car leads a dark SUV moving from right to left, while a motorcycle turns right on the far side; buildings are visible to the background-left, and trees with traffic signals to the background-right.
+end of description
+The initial white car then moves left and exits the frame, succeeded by a smaller white compact car that emerges from the right-midground and progresses towards the zebra crossing. A dark sedan follows this compact car, similarly traversing the intersection from right to left. The dark SUV and the motorcycle also continue their movements across the wet road, further into the background and right, respectively.

@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a snow-covered landscape featuring a path receding into the misty distance, flanked by a steep, rocky, snow-laden bank and dense pine trees on the left, and a gentler slope with more pine trees and a utility pole in the mid-right.
+end of description
+As the viewpoint advances, the initial utility pole on the right moves away, while a new utility pole with a yellow diamond-shaped sign emerges from the mid-right, progressing towards the foreground. Concurrently, a small, dark wooden building, partially snow-covered, appears from behind the left-side bank in the mid-ground, becoming increasingly visible as it approaches.
+frame_0000000128-frame_0000000256:
+The first frame presents a snow-covered track stretching into the distance, bordered by dense snow-laden evergreen trees on the left and sparser trees on the right, all under an overcast sky. Overhead, several power lines run towards the vanishing point, with two utility poles visible along the track, and a small wooden structure positioned in the lower-left foreground relative to the viewer.
+end of description
+Subsequently, the viewpoint moves forward along the track; the wooden structure disappears to the left and behind the initial viewpoint, and the utility poles approach before also passing behind. The advancing perspective continuously reveals more of the snow-covered track and the winter forests ahead, maintaining the overall misty, mountainous backdrop. The scene emphasizes forward motion through a consistent snowy landscape, with no entirely new objects or scenes appearing outside the direct path of travel relative to the first-frame viewpoint.

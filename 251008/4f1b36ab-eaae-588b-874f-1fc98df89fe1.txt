@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+A winding gravel path begins in the mid-right foreground, ascending towards a gentle hill in the distance. This path is bordered by vast expanses of purple heather and green grass, all beneath a bright blue sky with scattered white clouds.
+end of description
+As the sequence unfolds, the viewer's perspective moves steadily forward along the path. The foreground path and the surrounding heather on both sides gradually appear closer and larger, indicating a continuous ascent toward the distant hill from the first-frame viewpoint.
+frame_0000000128-frame_0000000256:
+From the viewer's perspective, a wide, light brown path stretches forward from the bottom center, gently curving right as it ascends a distant hill covered in purple and reddish heather, topped with scattered dark rocks beneath a clear blue sky with white clouds.
+end of description
+The viewpoint steadily moves forward along the path, causing the surrounding heather fields on both sides to recede. A long, light-colored rock embedded horizontally in the path, initially ahead and to the right of the first-frame viewpoint, progressively moves closer as the scene advances.
+frame_0000000256-frame_0000000384:
+A stony dirt path ascends a gentle hill towards the distant horizon under a bright blue sky dotted with scattered white clouds. Vast fields of vibrant purple heather and green grass flank the path on both sides, extending from the foreground to the distant hill crest. A large, light-colored stone is embedded in the path in the mid-foreground, slightly to the right of the viewer's center.
+end of description
+The viewer's perspective steadily moves forward along the path, causing the prominent stone in the mid-foreground to recede towards the bottom of the frame and eventually pass beneath the viewer. As the viewpoint advances, new sections of the dirt path unfold ahead, while the heather and grass on either side continuously shift from near-field to background. The distant hill crest remains ahead, appearing incrementally closer with each frame.

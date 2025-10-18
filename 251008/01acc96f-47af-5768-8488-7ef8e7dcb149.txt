@@ -1,0 +1,29 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a breathtaking high-angle view looking down into a vast mountain valley. In the immediate foreground, a sunlit, jagged rock face occupies the bottom left, sloping steeply down and extending along the entire right side of the frame. Below the viewer, a deep, forested valley unfolds, featuring a winding, light-colored riverbed to the left, with more distant mountain ranges in the upper left background and a dramatic dark rock pinnacle standing prominently in the mid-valley.
+end of description
+The camera slowly tilts downwards and slightly to the left, progressively revealing more of the steep, light-colored rock face directly beneath the viewer from its initial position. This gradual movement exposes a larger portion of the shadowed valley floor and brings a new patch of lighter terrain, possibly snow or bare rock, further into view deeper within the valley to the left of its original position.
+frame_0000000128-frame_0000000256:
+The initial frame captures a vast mountain landscape, with a steep, textured grey and white rock face occupying the bottom and right foreground, plunging into a deep valley below. To the left, a verdant valley extends into the distance, bisected by a winding light-colored river or path, flanked by towering grey mountains.
+end of description
+Across subsequent frames, the viewpoint subtly pans rightward and slightly upwards, revealing more of the sheer, dark grey rock face on the right side. Concurrently, the immediate foreground rocky slope recedes slightly downwards, while the distant valley floor becomes less prominent towards the bottom left of the frame, maintaining the same overall scene perspective.
+frame_0000000256-frame_0000000384:
+The first frame captures a breathtaking mountain vista from a high vantage point, featuring a massive, rugged grey rock face that dominates the right foreground, extending towards the middle top. To the left, a deep valley with green vegetation and a winding light-colored riverbed stretches into the distance, flanked by more grey mountains and a partly cloudy sky at the horizon, while a prominent, jagged rock pinnacle rises from the valley floor in the mid-ground, slightly right of center.
+end of description
+Over the following frames, the viewpoint subtly shifts with a slight pan to the right and a minimal zoom, progressively revealing a small, white building or structure that appears on the very peak of the prominent jagged rock pinnacle in the mid-ground, which was previously unobservable. The overall scene's perspective slightly adjusts, making the valley and riverbed to the left marginally more expansive relative to the initial frame's view.
+frame_0000000384-frame_0000000512:
+The first frame presents an expansive aerial view of a rugged mountain landscape. To the viewer's right, a massive, steep grey rock face extends from the bottom to the top of the frame, appearing very close. Below and to the left, a deep valley is visible, featuring a winding, light-colored riverbed lined with green foliage, with distant grey mountains fading into the horizon further left. In the mid-ground, a prominent, jagged rock pinnacle stands below the viewer's elevation, partially obscuring the valley. Above, a clear blue sky with some scattered white clouds completes the scene.
+end of description
+No dynamic changes, newly revealed objects, or scene alterations are observed in the following frames, as they are identical to the first.
+frame_0000000512-frame_0000000640:
+First, a majestic, rugged mountain landscape is viewed from a high vantage point, with a massive, dark grey rock face dominating the right half of the frame, appearing close to the viewer. To the viewer's left, a vast valley extends into the distance, revealing a winding riverbed through green terrain far below, flanked by distant, lighter mountain ranges under a partially cloudy blue sky. A smaller, jagged rock formation stands in the mid-ground, slightly left of center, positioned between the large right-side peak and the distant valley floor.
+end of description
+The subsequent frames show no discernible dynamic changes or newly revealed objects or scenes; the vista remains essentially static from the initial viewpoint.
+frame_0000000640-frame_0000000768:
+A massive, rugged gray mountain face dominates the right foreground, extending from the top to bottom of the frame. To the left, a deep valley recedes into the distance, bordered by other large, jagged mountains in the mid-ground. A light-colored river winds through green vegetation on the valley floor, far below the viewer, while the sky with white clouds is visible in the upper left.
+end of description
+The subsequent frames depict no dynamic changes or newly revealed objects; the scene remains entirely static relative to the initial viewpoint.
+frame_0000000768-frame_0000000896:
+The first frame captures a breathtaking mountain vista, with a massive, textured grey rocky cliff face dominating the entire right half of the image, appearing immediately to the viewer's right. To the left, a deep valley or canyon extends far into the distance below the viewer, showcasing a winding river on its floor flanked by lush green vegetation and towering grey mountains on the far side. Above these distant mountains, white clouds dot a clear blue sky.
+
+end of description
+Beginning in the second frame, a small white object, likely a person, becomes visible on the sheer face of the large cliff to the viewer's right. This object then steadily descends along the cliff's surface throughout the subsequent frames, moving downwards and slightly to the left relative to its initial position, heading towards the distant valley floor. No other new objects or significant landscape changes are revealed beyond this descending element.

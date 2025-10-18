@@ -1,0 +1,27 @@
+frame_0000000000-frame_0000000128:
+The first frame displays train tracks extending into the distance, curving gently to the right, bordered by rocky embankments on both sides. Dense evergreen forests are visible above and beyond these embankments, under a sky with scattered clouds, while a thin overhead wire spans directly above the tracks.
+end of description
+As the viewpoint moves forward along the tracks, the rocky embankments and forests continually recede from the forward view to the sides and then behind the first-frame viewpoint. A utility pole with overhead lines gradually appears from the distant left ahead of the first-frame position, moving towards and then past it. Simultaneously, a fence-like structure emerges along the top of the right embankment ahead, also passing the initial viewpoint.
+frame_0000000128-frame_0000000256:
+The first frame depicts train tracks extending forward, curving rightward, flanked immediately by a dark rocky cliff on the right topped with a fence and trees, and a lower rocky bank on the left, all within a dense forest under a cloudy sky, with overhead power lines.
+end of description
+As the viewpoint moves forward along the tracks, both rocky embankments recede. A body of water becomes newly visible to the left of the tracks, behind the initial rocky outcrop. The distant forest and sky remain visible beyond the expanding view. Overhead power line structures pass by the viewer, emphasizing the forward motion.
+frame_0000000256-frame_0000000384:
+The first frame displays railroad tracks extending centrally into the distance, curving slightly right. To the left, a river runs alongside dense forest, while to the right, a rocky embankment with sparse vegetation and a smaller body of water is visible. A partly cloudy sky and an overhead wire complete the scene.
+end of description
+As the viewpoint advances along the tracks, the foreground scenery recedes *behind* the viewer. A power pole and overhead lines approach from the mid-left and then move *past* to the left, while a small grey utility box and a striped marker pole emerge from the mid-right and also pass *to the right* of the viewer, revealing more of the curving railway and the expanding river and forested landscape.
+frame_0000000384-frame_0000000512:
+In the first frame, train tracks on a gravel embankment extend centrally into the distance, curving to the right. Dark water bodies flank the tracks on both the left and right, with dense forests and hills visible beyond them; a utility pole stands mid-left of the tracks, and a thin wire descends from the sky overhead.
+end of description
+As the scene progresses, the camera moves forward along the tracks. The utility pole and overhead wires move towards and then pass to the left of the viewer, revealing more of the track ahead. The tracks then appear to split and merge into two parallel tracks, leading onto a concrete bridge structure that becomes increasingly prominent directly in front of the viewer as they approach it.
+frame_0000000512-frame_0000000640:
+The first frame places the viewer directly on a train track, extending forward over an elevated structure flanked by dark water, with dense forests lining both distant shores under a partly cloudy sky. A yellow '0' sign is visible far ahead on the right side of the track.
+end of description
+As the scene progresses, the viewpoint moves steadily forward along the track, transitioning from a concrete bridge-like structure to a gravel embankment. The yellow sign on the right approaches, revealing the numbers "118 0" before it passes out of frame. Simultaneously, a utility pole with overhead wires on the left side of the track draws closer and then recedes.
+frame_0000000640-frame_0000000768:
+The first frame displays train tracks on a gravel embankment extending centrally into the distant horizon, flanked by dark water bodies on both the left and right, with dense forests beyond them and a partially cloudy sky overhead; a tall utility pole stands in the mid-left distance, and a yellow diamond-shaped sign is positioned in the mid-right distance along the tracks. end of description
+As the frames progress, the viewpoint moves forward along the tracks, causing the utility pole on the left, initially in the mid-distance, to approach the viewer and become more prominent on the left side of the frame. Simultaneously, the yellow diamond-shaped sign on the right also draws nearer, revealing the number '11' on its face, while the surrounding forests, water, and distant mountains recede relative to the advancing camera.
+frame_0000000768-frame_0000000896:
+The first frame depicts railroad tracks extending centrally into the distance, flanked by dark water bodies on both sides. Dense evergreen forests line the distant shores, beneath a cloudy sky and a far-off hill on the right. A yellow triangular sign displaying '11' stands to the right of the tracks in the mid-ground, beneath an overhead wire.
+end of description
+In the second frame, the yellow sign's number dynamically changes from '11' to '15' while its spatial position relative to the viewer remains largely consistent. Subsequently, the viewpoint moves forward along the tracks, causing the sign to recede entirely out of frame to the right. As the scene progresses, new utility poles appear and pass on the right side, with the surrounding forests and water continuously shifting backward relative to the initial viewpoint.

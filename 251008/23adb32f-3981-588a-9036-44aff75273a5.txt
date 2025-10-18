@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+A paved sidewalk, patterned with hexagons, stretches into the distance. To the viewer's left, a man walks forward past a dark monument topped with a statue, framed by bare trees, while several pedestrians proceed further down the path. On the right, a large white and blue bus is partially visible, parked alongside the curb, with tall city buildings lining the street in the background under a cloudy sky.
+end of description
+The bus on the right moves forward, receding from the first-frame viewpoint and progressively revealing more of its side and then its rear. Concurrently, the pedestrians on the sidewalk continue walking away, and the man on the far left exits the frame.

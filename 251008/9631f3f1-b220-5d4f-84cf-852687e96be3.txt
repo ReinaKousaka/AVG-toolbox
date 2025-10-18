@@ -1,0 +1,10 @@
+frame_0000000000-frame_0000000128:
+The first frame captures a narrow, upward-sloping dirt path winding through a dense, verdant forest. To the immediate left of the viewer, a steep bank is heavily covered with lush ferns and mossy vegetation. The path, visible in the foreground and midground, gently curves right, bordered on its right side by more ferns and scattered light-colored rocks. Tall evergreen trees with vibrant green foliage rise on both sides of the path, extending into the background, their canopies allowing glimpses of a bright, overcast sky above. A prominent weathered tree trunk stands vertically on the far right edge of the frame.
+
+end of description
+
+The subsequent frames show no dynamic changes or newly revealed objects; the scene remains static and identical to the first frame from the same viewpoint.
+frame_0000000128-frame_0000000256:
+The first frame depicts a narrow dirt path receding from the viewer's immediate foreground into the midground of a dense, verdant forest. Lush green ferns and various undergrowth densely line both sides of the path, particularly prominent on the left foreground. Numerous tall trees with rich green foliage stretch upwards on either side, forming a canopy that partially obscures the bright, overcast sky above, with a weathered dead tree trunk visible on the far right.
+end of description
+As the viewpoint progresses forward along the path, the immediate foreground ferns and path section move out of view, revealing new segments of the dirt trail and more dense undergrowth directly ahead. The surrounding tall trees gradually shift their relative positions, as the forest recedes further into the distance, with the scene consistently presenting new areas ahead of the initial viewpoint.

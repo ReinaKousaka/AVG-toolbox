@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+A vibrant autumn mountain slope dominates the first frame, showcasing a dense array of trees in shades of yellow, orange, green, and brown directly in front of the viewer. Further up the slope, patches of bright green grass with small brown houses are visible, nestled against a steep, rocky grey mountain face that stretches towards a light grey sky in the background. A thin, dark linear object is partially visible along the far right edge of the frame.
+end of description
+The subsequent frames are identical to the first frame, revealing no dynamic changes or newly revealed objects or scenes relative to the initial viewpoint.

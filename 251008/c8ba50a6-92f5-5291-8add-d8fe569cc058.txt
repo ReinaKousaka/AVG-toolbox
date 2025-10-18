@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+In the first frame, a bright blue sky with white clouds dominates the top portion of the image, above a street scene. A dark paved road extends from the foreground into the distance, covered in dappled shadows. To the left, an ivy-covered stone house with a gabled roof is visible, along with a wooden picket fence bordering a vibrant garden of pink flowers. A person wearing a light blue shirt and shorts is walking away from the viewer on the pavement adjacent to the garden. Further down the road on the left, additional stone buildings are visible. On the right side, a large leafy green tree stands beside the road, with a green trash bin on the grassy verge below it and a stone wall continuing into the distance with several parked cars beyond it.
+end of description
+The person walking on the left side of the road progressively moves further away from the viewer, continuing along the pavement towards the distant buildings throughout the subsequent frames.
+frame_0000000128-frame_0000000256:
+A sunny village road stretches into the distance, with a person in a light blue shirt walking away on the left, passing a stone wall covered in greenery and flowers leading to a beige house, parked cars, and orange traffic cones. On the right, a large tree, a green trash bin, and a stone wall line the road, leading to more distant buildings and parked cars.
+end of description
+The viewpoint slowly advances along the road. The person on the left moves progressively further away from the first-frame viewpoint, nearing the parked cars. Simultaneously, the orange cones recede into the distance as the camera proceeds forward, making the distant buildings and parked cars on both sides of the road slightly more defined.
+frame_0000000256-frame_0000000384:
+The first frame depicts a sunny village street, with stone buildings lining both sides under a blue sky, and a large tree partially obscuring the upper right. On the left, a person in light clothing walks away from the viewer past two orange cones and a dark car parked near a gabled building; on the right, a triangular road sign is prominent beside a grassy verge.
+end of description
+Subsequently, the person on the left moves further down the street away from the viewer, and white 'SLOW' road markings become newly visible on the asphalt, progressing towards the foreground. Simultaneously, a gray car emerges from the distance driving towards the viewer, and a white sign with 'hf' appears on the right-side building, previously obscured.

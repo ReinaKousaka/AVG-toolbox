@@ -1,0 +1,16 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a view from a vehicle moving along a paved road that curves sharply to the right, extending towards distant tree-covered mountains under a cloudy sky. To the left, a dense line of green trees and two blue chevron signs indicating the right turn are visible, while a steep grassy and rocky embankment rises immediately to the right of the road.
+
+end of description
+
+As the frames progress, the viewpoint advances around the curve, causing the blue chevron signs on the left to recede and eventually exit the frame to the left. Simultaneously, the grassy embankment and trees on the right move past the viewer, shifting further right and back relative to their initial positions. The road lines continuously move from the distance towards and then underneath the viewer, indicating forward motion along the winding path.
+frame_0000000128-frame_0000000256:
+A paved road with white markings extends from the foreground, curving slightly right towards a distant mountain covered in dense green forest under a cloudy sky. To the immediate right, a steep hillside covered in dry grass and some trees ascends, while more green trees line the left side of the road further ahead.
+end of description
+As the viewpoint advances, the road ahead is revealed to curve more sharply to the right, and a prominent stone retaining wall gradually comes into full view along the right side of the road, replacing the dry hillside as a dominant feature adjacent to the viewer's path.
+frame_0000000256-frame_0000000384:
+The first frame depicts a gray paved road curving gently towards the left and extending into the distance from the viewer's immediate foreground. To the viewer's left, a solid white line marks the road's edge, with a dashed white line running near its center; to the right, a stone retaining wall parallels the road. Beyond the road on both sides, dense green trees cover undulating hillsides, culminating in a forested mountain peak under a cloudy sky in the background.
+
+end of description
+
+As the frames progress, the viewpoint moves forward along the road, causing the stone wall on the right and the trees on the left to continuously approach from the middle distance, pass the first-frame viewpoint, and exit the frame to its immediate sides. No new objects are revealed; instead, the existing elements of the roadside and distant scenery are continuously refreshed as the camera advances further into the curve.

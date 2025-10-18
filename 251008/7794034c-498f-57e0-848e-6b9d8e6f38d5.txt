@@ -1,0 +1,16 @@
+frame_0000000000-frame_0000000128:
+The viewer is running on a dirt path, following a male runner in a red and white singlet immediately to the right and a female runner in a red shirt immediately to the left. Ahead, more runners are visible on the path, which is bordered by a grassy bank and a river to the left, and dense green foliage to the right, under a blue sky with white clouds.
+
+end of description
+
+As the group progresses, a red and white striped construction barrier with a pile of dirt behind it progressively becomes visible on the left side of the path, moving from ahead of the initial viewpoint to eventually appear alongside and then behind the original perspective.
+frame_0000000128-frame_0000000256:
+The first frame presents a first-person view from behind a male runner in a red and white singlet and black shorts on a dirt path. To the immediate left, a red and white striped barrier is partially embedded in a dirt mound. Ahead on the path, several other runners are visible, including one in red directly in front and others further ahead in yellow, black, and blue. To the left of the path, a grassy bank slopes down to a calm river, bordered by dense green trees, while to the right, a steep, tree-covered bank rises. The sky is blue with scattered white clouds, and various data overlays, such as '04:56/km' and '00:33:40', are visible at the edges.
+end of description
+As the frames progress, the viewpoint moves steadily forward along the dirt path. The red and white barrier initially positioned to the left moves progressively out of view, eventually becoming behind the viewer, revealing more of the grassy bank and river to the left. New sections of the treelined path continuously appear in front of the viewer, and the overlaid running data updates to reflect movement and time elapsed.
+frame_0000000256-frame_0000000384:
+The first frame shows a group of runners on a dirt path under a bright sky with scattered clouds. In the immediate foreground to the right, a runner in a red and white top and black shorts moves away from the viewer, with another runner in a yellow top and dark shorts slightly to their left. Further down the path, a runner in a red top is visible, followed by several more distant figures. To the left of the path, a calm river or canal flows, bordered by lush green grass and dense trees that also line the right side of the path and stretch into the distance. Overlays include '16.7' and '6.9 km' on the left, an elevation profile, and timing/speed data '04:54/km', '12 km/h', '07:53/mi', '00:33:44' on the right, alongside a gradient of '+0.6%'.
+
+end of description
+
+As the frames progress, all runners on the path move forward, appearing further ahead of their initial first-frame positions, while the surrounding environment, including the river and trees, shifts to the background, indicating continuous forward motion. The on-screen gradient indicator steadily increases from +0.6% to +1.5%, signifying an uphill climb. By the eighth frame, a blue '7 km' marker appears on the left side of the path in the grass, ahead of the viewpoint established in the first frame.

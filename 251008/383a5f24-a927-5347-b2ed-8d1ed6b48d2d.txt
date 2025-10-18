@@ -1,0 +1,14 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a rainy street with a large tree trunk in the left foreground beside a paved sidewalk, brick wall, and green trees. A wet road with yellow double lines occupies the right, where a white SUV approaches and a yellow bus moves away in the midground, with more trees lining the distant, hazy road.
+end of description
+The white SUV continues moving forward on the road, passing the viewer, as the yellow bus recedes further down the road on the right. Subsequently, a person holding a purple umbrella emerges on the sidewalk to the left, walking away from the first-frame viewpoint.
+frame_0000000128-frame_0000000256:
+In the first frame, a wet paved sidewalk with a manhole cover is in the foreground to the left. Along its edge, a utility pole and a green fence with a brick base are visible, leading to a row of trees with lush green foliage. Partially obscured behind the second tree, a person holds a purple umbrella. To the right, a wet asphalt road stretches into the distance, marked by a yellow curb line and white lane lines; an orange bus and parked cars are visible further down the road, lined by more trees on the far side, under an overcast sky.
+
+end of description
+
+The person holding the purple umbrella emerges from behind the tree, walking forward on the sidewalk towards the viewer's right. They continue to move past the foreground trees, drawing closer to the viewer while remaining on the left side of the road. Eventually, the person and their umbrella exit the frame to the viewer's right, leaving the rainy street and tree-lined surroundings visible.
+frame_0000000256-frame_0000000384:
+The first frame presents a rainy street scene under an overcast sky, looking down a long road. To the viewer's immediate left, a large tree trunk stands prominent, beside a paved sidewalk lined with a brick wall topped by a green metal fence and a row of smaller trees extending into the background. To the right, a wet asphalt road with a yellow curb line and white diamond-shaped lane markings stretches into the distance, where several vehicles, including a bus and cars, are visible amidst a continuous line of trees.
+end of description
+As the frames progress, the intensity of the rainfall becomes more apparent, with visible streaks of water falling throughout the scene. Puddles on the sidewalk to the left become increasingly pronounced, reflecting the accumulating rain. The leaves on the trees, especially those of the large tree in the foreground, show slight swaying movements due to the elements.

@@ -1,0 +1,30 @@
+frame_0000000000-frame_0000000128:
+In the first frame, a dirt path extends from the bottom center into the distance, flanked by green grass and numerous trees with bright green foliage. A prominent tree trunk occupies the far right foreground, while a black lamp post stands to the left of the path. A large, light-colored building with many windows is visible in the background, to the far left, beyond a line of trees.
+end of description
+As the frames progress, the viewpoint slowly moves forward along the path. The path appears closer, and the trees and the lamp post on the left shift slightly leftward in the frame, indicating forward motion. The background building on the left remains visible, becoming slightly larger as the viewer advances.
+frame_0000000128-frame_0000000256:
+The first frame displays a park path extending forward from the viewer between lush green lawns, lined by numerous trees with light green foliage under a bright blue sky. A black lamppost stands prominently to the immediate left of the path, while a large, multi-storied building is visible behind the trees further to the left.
+end of description
+As the frames progress, the lamppost initially on the left recedes out of frame to the viewer's left, and the building further left becomes more prominent and closer. A person on a bicycle gradually appears in the distance, approaching the viewer along the path ahead.
+frame_0000000256-frame_0000000384:
+The first frame shows a wide dirt path receding into the distance, flanked by vibrant green grass and numerous trees with light trunks and fresh green foliage. A large, light-colored building with many windows stands in the upper left background, behind some trees and a dark lamppost. Another lamppost is further down the path, and a person on a bicycle is visible in the mid-ground, moving away from the viewer along the path.
+
+end of description
+
+The person on the bicycle gradually moves further away from the viewer along the path, receding deeper into the scene with each subsequent frame. They become smaller as they travel into the background, eventually turning slightly to the right at the end of the visible path. The surrounding park environment remains stationary relative to the viewer's fixed perspective.
+frame_0000000384-frame_0000000512:
+In the first frame, a dirt path stretches from the viewer into the distance, bordered on both sides by vibrant green grass and numerous deciduous trees with light green spring foliage; several birch trees with distinctive white trunks stand prominently closer to the viewer on both the left and right. A person on a bicycle, wearing dark clothing and equipped with a front basket, is approaching the viewer in the midground on the path, while a large, light-colored apartment building stands in the background to the far left.
+end of description
+The person on the bicycle steadily moves closer to the viewer along the path from the midground. As they draw nearer, more details of their light jacket and the bike become discernible. The cyclist then passes to the left side of the viewer, continuing their trajectory. Finally, the person and bicycle exit the frame entirely to the viewer's left, leaving the path clear.
+frame_0000000512-frame_0000000640:
+A wide dirt path curves gently to the right from the foreground, flanked by vibrant green grass on both sides. Numerous trees with light green foliage, some with distinctive white-barked trunks on the right, line the path and extend into the background. In the mid-distance to the far left, a multi-story apartment building with many windows is visible behind some trees, and a dark lamppost stands on the left side of the path.
+end of description
+There are no dynamic changes or newly revealed objects in the following frames, as all images are identical.
+frame_0000000640-frame_0000000768:
+A dappled, unpaved path extends from the foreground into the mid-distance. To the viewer's right, a large birch tree stands prominently, while a grassy area with more trees and shadows recedes into the background. On the left, a lamppost and another tree lead to a multi-story building visible through foliage in the distant background, all under a bright sky.
+end of description
+The subsequent frames show no discernible dynamic changes or newly revealed objects; the scene remains entirely static relative to the first-frame viewpoint.
+frame_0000000768-frame_0000000896:
+The first frame depicts a sunny park path extending into the distance, flanked by green grass and numerous trees with bright green foliage. A large, dark-marked tree trunk dominates the right foreground, while a multi-story building and a dark pole are visible on the left side of the path. Shadows dapple the path and ground.
+end of description
+The subsequent frames are identical to the first; no dynamic changes occur, and no new objects or scenes are revealed relative to the initial viewpoint.

@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame captures a crowded night street festival scene. In the immediate foreground, the back of a man wearing a dark baseball cap and green shirt is on the right, while the back of a blonde woman in a red top is on the left. The midground is densely populated with people, and illuminated stalls with blue awnings line the left side of the street. Overhead, decorative arches adorned with red and white lights span the street, leading towards buildings under a dark evening sky in the background.
+end of description
+Throughout the following frames, the crowd subtly shifts, with individuals in the midground making minor movements. The woman in the light green top, slightly left of center, opens her mouth wider and moves her head, while a woman in a floral dress, positioned mid-right, pivots slightly to her left, seemingly engaging in conversation.
+frame_0000000128-frame_0000000256:
+The first frame presents a lively evening street scene bustling with a dense crowd; the back of a man's head and shoulders are prominent in the right foreground. To the left, a red building with illuminated windows and a blue awning featuring a menu board flanks the street, while an archway of red and white string lights marks the distant background.
+end of description
+Subsequently, the midground crowd dynamically shifts, with a woman in a floral dress moving more centrally and a man in a light brown shirt repositioning slightly leftward relative to the initial viewpoint. A man in a baseball cap becomes more visible in the mid-right as the crowd changes, and the entire scene subtly advances, causing the distant lighted archways to appear marginally closer.

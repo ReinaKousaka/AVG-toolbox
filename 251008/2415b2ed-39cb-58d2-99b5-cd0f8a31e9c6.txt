@@ -1,0 +1,26 @@
+frame_0000000000-frame_0000000128:
+A narrow stone alleyway is visible, bordered by a textured stone wall with a barred window on the immediate left and a stone wall topped with a green metal fence on the right. In the mid-ground, another stone building featuring a window with partially opened red shutters stands on the left, leading towards more distant buildings and a bright sky.
+end of description
+The scene depicts a slow, steady forward movement down the alley. As the sequence progresses, the foreground elements, such as the barred window on the far left, gradually move out of the frame. Simultaneously, the mid-ground building with the red shutters and the green metal fence on the right appear to grow larger and closer to the viewer, deepening the perspective into the alley.
+frame_0000000128-frame_0000000256:
+The first frame displays a narrow, cobbled alleyway flanked by old stone buildings. To the viewer's left, a multi-story stone building features a vertical pipe and a window with boarded-up shutters, below which a small stone plinth extends. The path curves gently to the right in the midground, bordered on the right by a low stone wall topped with a green metal fence. Further down the path, in the background, more stone structures with tiled roofs are visible beneath a clear sky, along with a small green gate deeper on the left.
+end of description
+All subsequent frames are identical to the first frame. There are no dynamic changes within the scene, nor are any new objects or scenes revealed relative to the initial viewpoint.
+frame_0000000256-frame_0000000384:
+The viewer is positioned within a narrow, cobbled alleyway, flanked by old stone buildings. To the immediate left, a weathered stone building features a reddish-brown door with a small concrete landing and steps below it, and a boarded-up window above. To the immediate right, a stone wall topped with a green metal fence runs parallel to the viewer, while the alley curves slightly to the right in the distance, revealing more buildings and stone walls. An overhead streetlamp is visible to the upper left.
+
+end of description
+
+The viewpoint steadily moves forward and slightly to the left through the alley across the subsequent frames. The building on the left, including its reddish-brown door and concrete landing, gradually becomes closer and more prominent. Simultaneously, the stone wall and green fence on the right subtly recede as the perspective shifts, deepening the view into the curving alley ahead.
+frame_0000000384-frame_0000000512:
+The first frame presents a narrow, cobbled street flanked by old stone buildings. On the left, a rustic building shows a reddish-brown wooden door and a low concrete structure with ascending steps beyond it. To the right, a tall stone wall with a green metal fence at its peak runs parallel to the viewer, extending towards distant village houses with red-tiled roofs under a clear sky.
+end of description.
+The subsequent frames feature a subtle camera adjustment, slowly zooming out and panning slightly to the right, which reveals marginally more of the foreground cobbled path and the lower portion of the right-side stone wall from the initial viewpoint.
+frame_0000000512-frame_0000000640:
+The first frame depicts a narrow, cobbled street winding slightly to the right under a bright sky, flanked by aged stone buildings and walls. To the immediate left, a textured building wall features a prominent reddish-brown wooden door and a smaller dark red door below it, with a low stone barrier extending towards the street. On the right, a moss-flecked stone wall rises, topped by a green metal fence in the upper corner, while a larger, rough-hewn stone wall with olive foliage runs parallel to the street on the mid-right. Further into the scene, light-colored steps ascend to another building with a green door on the left, and distant tiled roofs with chimneys are visible against the clear horizon.
+end of description
+Across the subsequent frames, the viewpoint gradually zooms in on the scene, making all visible objects appear to subtly enlarge. This subtle enlargement causes the leftmost and rightmost elements, specifically the top part of the reddish-brown door and the rightmost section of the moss-flecked stone wall with the green fence, to slowly shift further out of the frame's edges. The overall effect draws the viewer slightly deeper into the narrow street, emphasizing the cobblestones and mid-ground structures.
+frame_0000000640-frame_0000000768:
+The viewer stands on a cobbled path flanked by aged stone walls. To the left, a textured building wall contains a dark red recessed door and a set of light-colored stone steps leading up towards a narrow, shadowed alley. To the right, a dry-stacked stone wall, topped by a green bush, recedes into the distance, with old buildings and rooftops visible under a bright sky beyond the alley.
+end of description
+The viewpoint slowly advances forward along the cobbled path, causing the dark red door on the left to move further left and the stone steps to become more prominent. Concurrently, the narrow alley to the left of the small central building visibly widens, revealing more of its interior details and deeper structures as the camera progresses.

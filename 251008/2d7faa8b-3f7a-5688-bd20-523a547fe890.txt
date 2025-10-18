@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a heavily rain-soaked city street at night with a crosswalk in the foreground. From left to right, a yellow delivery scooter, a white sedan with bright headlights splashing through water, and the rear of a dark SUV are visible, while illuminated buildings and street signs line the background.
+end of description
+In the subsequent frames, the yellow delivery scooter gradually moves further to the right across the crosswalk from its initial position, exiting the left side of the frame. The white sedan and other background vehicles remain largely static relative to the first-frame viewpoint, continuing to illuminate the intense and continuous rainfall on the street.

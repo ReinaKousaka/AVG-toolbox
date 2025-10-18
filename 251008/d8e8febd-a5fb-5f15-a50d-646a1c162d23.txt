@@ -1,0 +1,18 @@
+frame_0000000000-frame_0000000128:
+In the first frame, a bustling urban scene unfolds under a clear blue sky. To the left, a building is partially obscured by scaffolding running along a pedestrian walkway. The center features a wide paved path leading into the distant background, flanked on the right by an outdoor seating area with multiple large yellow umbrellas, blue tables, and chairs. Several people are scattered across the scene; a man in a light shirt walks towards the viewer on the right, while others stand further back near a trash can and under the umbrellas. Numerous tall city buildings rise in the background.
+
+end of description
+
+The man in the light shirt continues walking towards and past the viewer on the right. Simultaneously, a blue bus slowly appears and moves from the mid-ground left, passing behind the pedestrians and the scaffolding towards the background. A man in a dark red shirt and shorts becomes more visible as he walks towards the viewer from the mid-ground center, while other individuals in the background also subtly shift positions.
+frame_0000000128-frame_0000000256:
+In the first frame, a man wearing a maroon shirt and green shorts stands centrally in a bustling city square, flanked by scaffolding on the left and an outdoor seating area with yellow umbrellas, blue chairs, and tables on the right, with a blue bus, various pedestrians, and numerous skyscrapers visible in the mid-background. end of description. Subsequently, the man walks towards the right side of the frame, passing a trash can. As he moves, a yellow stand-up sign is revealed behind his initial position to the left of the trash can, while other pedestrians subtly shift positions around the stationary bus and seating area in the midground.
+frame_0000000256-frame_0000000384:
+The first frame depicts a bustling city street on a sunny day, with scaffolding and black barriers in the left foreground and two yellow umbrellas, blue seating, and a large metallic art installation with a standing person in the right foreground. Centrally, three individuals converse near a striped trash can. In the midground, a blue bus, various cars, and numerous pedestrians move along the street and adjacent park area, all set against a background of towering city buildings.
+end of description.
+Across subsequent frames, the central foreground group of people subtly shifts, with one in a black shirt gesturing, and the person in the blue shirt stepping forward. Concurrently, a white car passes through the midground from left to right, and pedestrians continue to move along the street and park.
+frame_0000000384-frame_0000000512:
+In the foreground, three men stand center-left, with two facing away from the viewer and one partially visible, while to the right, a yellow umbrella shades a blue table, chairs, and a white ring next to a large circular art installation. The midground features black barriers with QR codes, potted plants, a "FLATIRON NOMAD" sign, and a bustling city street with people, a blue bus, cars, trees, and tall buildings under a clear sky in the background.
+
+end of description
+
+The three men in the foreground continually shift, with the leftmost man moving rightward and the central man turning to reveal "PLATINUM NOMAD" on his back. A blue bus and a white truck move from the left midground further into the left background. Simultaneously, a second "FLATIRON NOMAD" sign and a woman holding a yellow sign become visible and more prominent in the midground to the right, behind the foreground group.

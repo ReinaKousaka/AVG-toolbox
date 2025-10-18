@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+In the first frame, a man walks in the foreground on the right, looking upwards, beside a cobblestone street descending towards the center. A white car is parked mid-street, surrounded by several pedestrians, with a black lamppost and stone wall on the left, and a white building with a spiral staircase on the right. Dense trees cover the left background, and more buildings recede into the distance under an overcast sky.
+end of description
+Throughout the subsequent frames, the man in the foreground moves out of view to the right, while the group of pedestrians further down the street slowly walks away from the viewer.
+frame_0000000128-frame_0000000256:
+The first frame displays a cobblestone street sloping upwards, with a black lamppost in the foreground left, a white car parked mid-ground center, and two pedestrians walking towards the viewer on the left; a multi-story white building with a spiral staircase, stone walls, and a brown gate occupy the right side, all beneath an overcast sky.
+end of description
+Subsequently, the two pedestrians in the mid-ground left continue walking past the viewer towards the left side of the frame, gradually exiting. New pedestrians from further down the street move closer to the first-frame viewpoint from the left. All other objects, including the white car, the buildings, and the surrounding walls, remain stationary throughout the sequence.
+frame_0000000256-frame_0000000384:
+The first frame displays a cobblestone street gently descending away from the viewer. To the right, a stone wall leads to a reddish-brown gate with a geometric pattern, beside which a black handrail descends. Behind this wall stands a white multi-story building featuring a black spiral staircase with a human figure sculpture on its landing. On the left, a stone wall parallels the street where two individuals walk away from the viewer, past a parked white Audi in the midground. Further down the street, more people are visible, with a white house and trees beyond, under an overcast sky.
+end of description
+In subsequent frames, the original two people on the left continue moving further away along the street, joined by a new group of three individuals entering from the far bottom-left, also walking away. Simultaneously, the reddish-brown gate on the right recedes progressively out of view as the viewpoint shifts slightly forward. The white Audi remains stationary in the midground as the scene evolves.

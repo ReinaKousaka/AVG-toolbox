@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a clear, pebble-bottomed bay, with a pebble beach curving from the lower right foreground. A person stands in the water to the left, while several boats are anchored further out, framed by a large, grassy cliff on the right and a smaller cliff on the far left under a blue sky.
+end of description
+Subsequently, the person in the water on the left moves progressively towards the left edge of the frame, eventually disappearing from view. No other dynamic changes or newly revealed objects occur across the remaining frames.
+frame_0000000128-frame_0000000256:
+A tranquil cove is viewed from a low perspective on a pebble beach, with clear blue-green water extending from the immediate foreground to the left, revealing rocks beneath. A steep, grassy and rocky cliff face rises on the right, curving into the background where several boats are anchored, including a prominent white sailboat to the left.
+end of description
+The water line on the pebble beach in the foreground noticeably recedes and advances with gentle waves. The prominent light-colored rock on the right foreground is periodically submerged and then revealed by the retreating water, indicating the subtle ebb and flow of the tide or waves throughout the frames.
+frame_0000000256-frame_0000000384:
+The first frame presents a clear, shallow bay with a pebble beach curving from the foreground right towards the midground. On the left, transparent water reveals submerged pebbles and several anchored boats further out, beneath distant green hills, while a large, pale stone rests on the wet shore in the mid-foreground. A steep, partially white and green-covered cliff rises in the background, extending from the right to the upper left, with distant figures visible near its base on the beach under a bright blue sky.
+end of description
+No dynamic changes or newly revealed objects are observed in the subsequent frames, as all provided frames are identical static images of the scene.

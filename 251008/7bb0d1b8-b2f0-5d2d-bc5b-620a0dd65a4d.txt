@@ -1,0 +1,11 @@
+frame_0000000000-frame_0000000128:
+A dirt path stretches from the viewer's foreground into a sun-dappled forest, bordered by a green, upward-sloping bank to the left and numerous tall trees with brown trunks and green foliage to the right, extending into the background.
+end of description
+The viewpoint slowly advances forward along the path, causing the immediate foreground of the first frame to recede into the mid-ground. Consequently, the dense forest on both sides and the winding path ahead gradually move closer to the viewer, revealing more of the same forest environment further along the original trajectory.
+frame_0000000128-frame_0000000256:
+A winding dirt path stretches forward into a sun-dappled forest, bordered by a steep, mossy embankment to the left and numerous tall trees on both sides, with dense green foliage overhead. end of description
+The viewpoint moves steadily forward along the path. A person, initially a small, distant figure walking away in the center of the path, becomes progressively larger and more discernible as the viewer advances towards them.
+frame_0000000256-frame_0000000384:
+The first frame displays a sun-dappled forest path. A dirt path occupies the center-right, extending from the foreground into the distance and gently curving leftward. To the left of the path, a steep hillside covered in vibrant green foliage slopes upward, running parallel to the path. Tall trees with green canopies line both sides of the path, and a large tree trunk is prominently visible on the far right. Sunlight filters through the overhead leaves, casting distinct dappled shadows on the path.
+end of description
+The scene shows a continuous forward movement along the forest path, with the camera moving into the depth of the initial view. The prominent tree trunk on the far right in the first frame gradually moves further right and out of the viewing area. Concurrently, the path ahead and the dense foliage on the left hillside continuously appear closer as new sections of the trail unfold directly in front of the viewer's original position.

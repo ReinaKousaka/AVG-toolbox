@@ -1,0 +1,10 @@
+frame_0000000000-frame_0000000128:
+In the first frame, a paved road curves gently to the right in the foreground, with a dirt strip, drainage ditch, and trimmed green bush visible to its left. To the right of the road, a stone wall borders a traditional Japanese house featuring a distinctive tiled roof and a garden filled with numerous manicured trees and shrubs. In the background, green mountains rise, with another house partially visible to the far left, all under a clear blue sky.
+end of description
+There are no dynamic changes or newly revealed objects in the subsequent frames; all frames in the sequence are identical to the first.
+frame_0000000128-frame_0000000256:
+In the first frame, an asphalt road occupies the foreground, stretching across the bottom of the image. Behind it, a low stone wall, topped with a concrete ledge, extends horizontally across the middle ground. Beyond the wall and centered in the frame is a traditional Japanese house with a prominent grey tiled roof, flanked by an intricately manicured garden with various trees and shrubs. To the far left, a lush green mountain rises, while a clear blue sky dominates the upper portion.
+
+end of description
+
+There are no dynamic changes or newly revealed objects or scenes observed in the subsequent frames; all images appear identical.

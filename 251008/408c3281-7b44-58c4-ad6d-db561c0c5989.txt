@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+In the first frame, a series of irregular, flat stone steps ascends upwards and slightly to the right, embedded in a steep, grassy and muddy slope that fills the right half of the view. To the left, a lower, flatter area features a horizontal stone wall or ruin, with distant trees visible further back against an overcast sky.
+end of description
+The viewer ascends the stone steps, causing the lower steps to move out of view below while new steps become visible higher up and further along the path. The grassy slope continues to dominate the right side, and the stone wall to the left remains visible but shifts relatively lower as the ascent progresses.
+frame_0000000128-frame_0000000256:
+The first frame presents a path of irregular stone steps ascending diagonally from the lower right towards the upper right, embedded within a steep grassy hill. To the viewer's left, a low stone wall parallels the hill, beyond which a distant green landscape with trees is visible under an overcast sky.
+end of description
+In subsequent frames, the viewpoint steadily ascends the steps, causing the immediate path and grassy hillside to move downwards and leftwards relative to the initial perspective. New sections of the ascending stone path and the higher grassy slope are continuously revealed from the upper right, entering the frame. The stone wall and distant landscape on the far left also gradually move downwards as the viewer's elevation increases, maintaining their lateral position relative to the moving viewpoint.
+frame_0000000256-frame_0000000384:
+The first frame displays a grassy hill sloping upwards from the bottom left towards the top right, with a weathered stone wall running along the upper left portion of the slope and a series of rough stone steps ascending its right side. Above the hill, a cloudy grey sky stretches across, with distant green hills visible on the far left horizon.
+end of description
+The camera smoothly moves forward and slightly upward along the path. This dynamic shift progressively reveals more of the winding stone wall extending further ahead on the left. Simultaneously, additional stone steps higher up the grassy slope come into view on the right, indicating a continuous ascent along the pathway.

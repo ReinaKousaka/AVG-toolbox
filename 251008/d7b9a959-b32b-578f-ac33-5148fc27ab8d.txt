@@ -1,0 +1,16 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a rocky, sparsely vegetated landscape under a clear blue sky, featuring a rough, wet path traversing from the foreground into the midground. To the viewer's left, denser evergreen trees line the path, with a prominent tall pine tree standing centrally, while the right foreground and midground reveal more open rocky terrain with grass, bushes, and a thin, bare tree trunk. Overlays in the top right corner indicate a speed of 7 KM/H, a 14% grade, and a distance of 2.8 KM.
+end of description
+As the viewer moves forward, the rocky path and foreground vegetation recede, while the prominent pine tree on the left shifts towards and then out of the frame's left edge. The landscape continues to reveal more of the rocky, sparsely forested terrain ahead. Simultaneously, the grade percentage shown in the top right overlay decreases from 14% to 10%, and the speed increases from 7 KM/H to 8 KM/H.
+frame_0000000128-frame_0000000256:
+The first frame shows a viewer-perspective view of a rocky, uneven trail winding through a forested landscape; in the foreground directly ahead and to the left are patches of grass, heather, and exposed rock, leading into a midground filled with scattered pine and birch trees. The background features a distant treeline under a vast, clear blue sky with faint contrails, while a digital overlay in the top right corner displays 'Speed 8 KM/H', 'Grade 10%', and 'Distance 2.8 KM'.
+
+end of description
+
+As the viewpoint advances forward and slightly upward, immediate foreground elements shift out of view, revealing more of the undulating rocky path directly ahead. Concurrently, the 'Grade' displayed in the overlay progressively decreases from 10% to 6%, and a utility pole structure emerges in the far left background relative to the initial scene.
+frame_0000000256-frame_0000000384:
+The first frame shows a clear blue sky over a rocky, uneven landscape featuring sparse evergreen trees and patches of green and brownish vegetation, with a narrow dirt path beginning in the foreground and extending into the mid-ground. An informational overlay is present in the top right corner displaying speed, grade (6%), and distance.
+
+end of description
+
+As the viewpoint progresses, it moves forward and slightly to the left, revealing more of the path and rocky terrain directly ahead. The prominent evergreen tree initially on the mid-left moves out of the upper left portion of the frame. A utility pole with multiple crossbars becomes newly visible in the mid-left, positioned further back relative to the viewer than the initial prominent tree. Concurrently, the grade percentage in the top-right overlay steadily decreases from 6% to 1%.

@@ -1,0 +1,14 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a narrow, cobblestone street at night, receding into the distance, bordered by old buildings. On the left, boarded-up sections are partially obscured by a dark green construction tarp, while the right features a stone building with prominent pilasters and barred windows. Far down the street, indistinct figures of people are visible in a brightly lit area beneath a distant tower.
+end of description
+The viewpoint advances forward along the street; the green tarp on the left gradually recedes from view, revealing more of the boarded-up wall and a white directional sign appearing higher up on the left. Simultaneously, a previously obscured dark blue door on the right side emerges more fully into view.
+frame_0000000128-frame_0000000256:
+The first frame captures a narrow, dimly lit cobblestone street at night, receding towards a brightly lit area in the distance where a few people are visible. To the viewer's immediate left stands a building with boarded-up windows and a green construction barrier, while an ornate stone building with columns occupies the right foreground.
+end of description
+As the camera steadily moves forward, the green barrier on the left slowly recedes out of frame, bringing the boarded facade and an emerging pipe on the left wall closer. Simultaneously, the ornate right-hand building becomes more prominent, revealing greater texture, while the distant figures appear slightly larger as the viewpoint progresses down the street.
+frame_0000000256-frame_0000000384:
+The first frame captures a narrow, dimly lit cobbled street at night, receding into the distance between tall, light-colored buildings. A dark vertical panel, secured by a chain, stands prominently on the immediate left, beside some debris on the ground, while a detailed, ornate building wall with a window and archway occupies the right. Further down the street, an illuminated area with people sitting outside is visible in the background.
+
+end of description
+
+As the sequence progresses, the viewpoint moves forward along the street. The dark vertical panel and debris on the left move out of the frame, revealing more of the light-colored building wall and a stone block near the bottom left. The cobblestone street and a drain cover recede beneath and past the viewer, while the distant illuminated area with people grows larger, indicating approach.

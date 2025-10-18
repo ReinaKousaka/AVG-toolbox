@@ -1,0 +1,28 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a winter street scene with a prominent crosswalk in the foreground, a traffic light showing red for vehicles and green for pedestrians on the far left, and snow-dusted ground. Across the street, a park area with bare trees, flagpoles, and low buildings is visible under a bright blue sky with overhead wires.
+end of description.
+A pedestrian, clad in a dark purple coat, appears on the sidewalk to the left of the crosswalk and proceeds to walk from left to right across the street, progressively moving into the center and then towards the right side of the road in the subsequent frames.
+frame_0000000128-frame_0000000256:
+The first frame presents a street scene featuring a dark asphalt road with white zebra crossing stripes in the bottom left, and a prominent traffic light pole displaying red and green pedestrian signals slightly right of center. To the left, a snow-covered raised area with bare trees and tall white poles is visible, while a bus stop shelter with a person inside and another building are positioned to the right of the road further back.
+end of description
+Subsequently, a pedestrian initially near the bus stop shelter to the right moves across the road, traversing the midground from right to left, eventually disappearing onto the snow-covered area on the far left. Concurrently, the vehicle traffic light on a pole positioned further to the left side of the road changes from red to green in the later frames.
+frame_0000000256-frame_0000000384:
+The first frame captures a snowy street with tram tracks in the foreground, leading towards a snow-covered rocky embankment and bare trees under a clear blue sky in the midground. To the right, a bus shelter with two people is visible, while on the left, a building and traffic lights appear, with numerous empty flagpoles spanning the midground horizon.
+end of description
+A person initially standing near the right side of the bus shelter walks further to the right and exits the frame over the first few frames. Subsequently, another individual approaches the shelter from the left, then sits down on the bench inside it, joining the other stationary person already present.
+frame_0000000384-frame_0000000512:
+The first frame captures a snowy street with tram tracks running across the foreground and a pedestrian crossing on the left. A vertical traffic light stands on the far left, while a horizontal traffic light is positioned slightly right of center, both in front of a snow-covered rocky mound featuring numerous flagpoles and bare trees behind it, all under a clear blue sky.
+end of description
+Initially, the vertical traffic light on the far left displays a red signal, and the horizontal traffic light shows a green signal. Subsequently, after frame four, the horizontal traffic light changes from green to red, while the left vertical traffic light consistently remains red throughout the sequence.
+frame_0000000512-frame_0000000640:
+In the first frame, the viewer faces a winter street scene with a snow-covered road and visible tram tracks in the foreground. A pedestrian crosswalk spans the road horizontally in the center. To the left, a traffic light pole with dark signals stands, while to the right, another traffic light pole displays a red light for intersecting traffic. Beyond the road, a snow-dusted rocky embankment rises, adorned with numerous tall flagpoles, some flying flags, and bare trees further to the right, under a clear blue sky. A large building with the partial name "ANDIA" is visible on the far left.
+end of description
+As the frames progress, dynamic changes occur in the traffic signals. The traffic light to the viewer's right, initially red for cross-traffic, transitions to green in the middle frames. Concurrently, the traffic light on the left pole, governing the viewer's direction, illuminates to red.
+frame_0000000640-frame_0000000768:
+The first frame displays a winter street scene featuring a snow-covered zebra crossing in the immediate foreground. Traffic light poles stand on both the viewer's immediate left, showing amber lights, and right, displaying a red light, with a blue circular sign visible on a pole near the left road edge. Beyond the intersection, a snow-covered rocky embankment rises across the midground, topped by bare trees and numerous tall, white flagpoles under a clear blue sky, alongside a white building to the far left.
+end of description
+Subsequently, the traffic light on the viewer's right dynamically changes from a red signal to amber, and then to green across the following frames. No new objects are revealed, and all visible elements retain their initial spatial positions relative to the first-frame viewpoint.
+frame_0000000768-frame_0000000896:
+The first frame displays a crosswalk in the foreground, with patches of snow and ice on the ground around it. In the midground, a snow-covered rocky landscape is visible with bare trees, numerous tall white flagpoles, and a green traffic light slightly to the right of center, while a light-colored building with a blue circular sign stands to the far left.
+end of description
+The only dynamic change occurs with the traffic light, which transitions from green to yellow in the sixth frame, before returning to green for the remaining frames, all remaining in its original position.

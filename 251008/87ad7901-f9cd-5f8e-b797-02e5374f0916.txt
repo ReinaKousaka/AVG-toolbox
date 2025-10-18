@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+In the first frame, a narrow, dark street is seen under heavy rain at night. To the viewer's left, a stone wall with decorative red-tiled coping extends into the foggy distance, featuring several red lights. On the right, the front fender of a dark vehicle is partially visible in the immediate foreground, with a black car parked further back, next to a white traffic cone on the wet pavement. A building wall on the far right shows water sheeting down its surface, while distant streetlights and faint red car lights illuminate the misty background.
+
+end of description
+
+Heavy rain continuously streams down, visibly impacting the street, the car surfaces, and the wall to the right. The red lights along the left wall intermittently flash, adding a pulsating glow to the scene. The intense rainfall causes water to accumulate and flow across the street's wet surface.
+frame_0000000128-frame_0000000256:
+The first frame depicts a narrow, wet street at night under heavy rainfall. A traditional stone and brick wall with a tiled roof extends along the left from foreground to background, containing a doorway near the viewer. On the right, a rough, wet wall runs parallel, with a dark sedan parked in the midground and a traffic cone in the lower foreground, while distant streetlights, red lights, and a white vehicle are visible further down the road.
+end of description
+Throughout the subsequent frames, the heavy rainfall visibly intensifies, creating more pronounced splashes and ripples on the street's wet surface and increasing the volume of water cascading down the right wall.
+frame_0000000256-frame_0000000384:
+The first frame shows a dark, rainy alleyway at night. A wet black car is parked diagonally to the viewer's right, while a traditional brick wall with red accents runs along the left, where a manhole cover is visible on the wet ground. Further down the narrow street, a white car and another with illuminated red taillights are visible in the heavy rain. end of description. Throughout the subsequent frames, the intense rainfall continues, with increased visual emphasis on water streaks and splashing across the black car and the wet ground, but no new objects or scene elements are revealed.

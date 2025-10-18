@@ -1,0 +1,10 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a street view dominated by multiple half-timbered buildings under a blue sky with scattered white clouds. The closest and largest building occupies the left and central foreground, featuring light-colored walls with dark brown timber framing in a cross-hatch pattern, several rectangular white-framed windows, and a grey lower facade with a hanging black sign bracket below. A narrow red-painted section of another building is visible to the far left of this main structure. To the right, a row of similar half-timbered buildings recedes into the distance, characterized by red-tiled roofs and more white-framed windows, with distant green foliage faintly visible behind them on the far right.
+end of description
+The viewpoint slowly pans horizontally to the right. As the video progresses, the red section of the leftmost building gradually moves further out of the frame to the left of its initial position. Simultaneously, more of the facades and lower sections of the buildings further down the street are progressively revealed to the right of their first-frame positions, including a sign displaying "KRATA" that emerges from behind the central building.
+frame_0000000128-frame_0000000256:
+The viewer faces a street dominated by traditional half-timbered buildings with dark wooden beams and white plaster, featuring numerous multi-paned windows. In the immediate foreground-left, a shopfront is visible with a 'Pizzeria' sign and an ornate light fixture, while a row of similar, taller buildings recedes towards the right, topped by red-tiled roofs. A distant hillside with autumn-colored trees and a blue sky with scattered clouds are visible behind and above the buildings to the right.
+
+end of description
+
+Subsequent frames show a subtle camera pull-back, gradually revealing more of the street level directly below the buildings and expanding the sky view above. This motion slightly reduces the apparent size of the buildings and their signs, like "Pizzeria" and "KRETA," within the frame, providing a wider perspective relative to the initial viewpoint.

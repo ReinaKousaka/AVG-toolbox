@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a winter landscape under a clear blue sky, looking down a snowy, dry grassy slope towards a valley. A dark dirt path originates from the bottom center, curving left into the mid-ground, flanked by dry, golden-brown grass with patches of snow. A stone wall runs along the right mid-ground, above which a small, rustic building is nestled among evergreen trees. A dense forest of tall, slender evergreen trees covers the hills in the background, extending from left to right, with a large, partially snow-covered mountain peak visible on the far right.
+end of description
+Over the subsequent frames, the camera subtly pans to the left, revealing more of the scene towards the left of the initial viewpoint. The dirt path in the foreground gradually shifts further towards the bottom-left of the frame. Consequently, the dense bamboo and evergreen trees that were initially on the far left become more centrally located on the left side of the view. The forested mountain on the far right subtly moves further towards the right edge of the frame, exposing more of the adjacent forested slope from the first-frame's perspective.
+frame_0000000128-frame_0000000256:
+The initial frame presents a winter landscape under a bright blue sky, featuring a dark path curving left from the foreground across a snowy, golden-brown grassy slope. In the mid-ground and background, a dense conifer forest rises, bordered by vibrant green bamboo on the far left and a snow-dusted mountain slope on the far right.
+end of description
+The subsequent frames show no significant dynamic changes or newly revealed objects, with the scene remaining almost entirely static throughout the sequence.
+frame_0000000256-frame_0000000384:
+The first frame presents a wintry hillside with a dirt path in the foreground, bordered by dry golden grass and patches of snow. A valley slopes downwards to the left, revealing a dense evergreen forest across the background beneath a clear blue sky, with a small rustic building nestled on the far right slope.
+end of description
+The camera slowly pans to the right, gradually revealing more of the snow-dusted hillside and the dense evergreen forest extending further to the right of the initial view. As it pans, the rustic building previously on the far right shifts towards the frame's center-right, and a higher, more distant mountain peak becomes increasingly visible to the upper right of the original frame.

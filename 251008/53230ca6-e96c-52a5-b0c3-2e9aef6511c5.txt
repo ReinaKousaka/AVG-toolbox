@@ -1,0 +1,28 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a picturesque mountain vista. A dark blue car is partially visible in the right foreground, beside a paved road that curves towards the mid-left, flanked by a white rope fence on the left and a large green tree on the right. Lush green hills with scattered trees and two red-roofed barns extend into the midground, culminating in snow-capped mountains under a cloudy sky in the background.
+end of description
+Chronologically, the dark blue car slowly drives out of view to the right, gradually revealing more of the grassy roadside. The first-frame viewpoint remains fixed, and no other objects or scenes are newly revealed or undergo dynamic changes.
+frame_0000000128-frame_0000000256:
+A paved road curves slightly left from the viewer, leading into a lush green valley. Lush green grass flanks both sides of the road, with a wire fence running along the left edge in the foreground. In the midground, a large leafy green tree stands to the right of the road, behind which a small brown-roofed shed is visible on the hillside, and two larger chalets are situated further up the left hillside. Rolling green, forested hills rise behind these structures, culminating in rugged, snow-capped mountains under a partly cloudy sky in the distant background, with green tree branches framing the upper right foreground.
+end of description
+The viewer's perspective slowly advances forward along the paved road. Consequently, objects in the foreground, like the fence and roadside grass, subtly recede, while the midground tree and shed appear to draw slightly closer to the viewer. The distant mountains and chalets maintain their relative positions but become marginally larger as the viewpoint progresses.
+frame_0000000256-frame_0000000384:
+The first frame displays a narrow asphalt road extending from the bottom center, curving slightly left as it ascends between vibrant green grassy hillsides. To the right of the road in the mid-ground stands a large, leafy green tree, with a small, dark-roofed wooden building positioned slightly behind and to its left. Further up the left hillside, two more similar buildings are visible, while distant grey mountains rise under a partly cloudy sky in the upper right background.
+end of description
+As the frames progress, the viewpoint moves forward along the road, causing the road, the prominent tree, and the various buildings on the hillsides to appear progressively closer to the viewer. This continuous forward motion results in a subtle shift in perspective, moving deeper into the scene along the path.
+frame_0000000384-frame_0000000512:
+A narrow, cracked asphalt road extends from the foreground directly ahead of the viewer, curving slightly to the left into the midground. Vibrant green grass flanks both sides of the road and covers rolling hills, on which three small, dark-roofed wooden buildings are visible: one ahead and slightly right of the road, and two further up the hillside to the left. A large, leafy tree stands prominently to the right of the road in the midground, while dense treelines cap the background hills beneath a cloudy sky.
+end of description
+The viewpoint steadily moves forward along the road. The cracked asphalt and the lush green grass on either side continuously shift from the foreground, passing beneath and behind the viewer. Faint fence posts on the left, initially ahead in the distance, gradually become clearer as they approach and move past the viewer's left. The large tree and all the wooden buildings in the midground and background appear to grow slightly larger as the viewpoint draws closer to them.
+frame_0000000512-frame_0000000640:
+First, a cracked asphalt road recedes from the viewer's foreground into the mid-ground, bordered by vibrant green grass on both sides. In the mid-ground, a large leafy tree stands to the right, and three wooden houses with reddish roofs are positioned on the verdant hills: one directly ahead where the road ends, and two higher up the slope to the left.
+end of description
+Throughout subsequent frames, the camera subtly zooms out or recedes backward, causing the overall scene to slightly pull away from the viewer and revealing a slender white pole emerging from the bottom left of the frame.
+frame_0000000640-frame_0000000768:
+A narrow paved road extends from the bottom center towards a small, rustic wooden house positioned in the mid-distance. Lush green grass borders the road in the foreground, transitioning into rolling hills dotted with more distant houses and clusters of trees on both sides. A large mountain range looms on the far right horizon under a partly cloudy sky.
+end of description
+As the sequence progresses, a series of subtle white cracks emerges along the center of the asphalt road in the foreground, gradually becoming more pronounced and extending further towards the house in the mid-distance.
+frame_0000000768-frame_0000000896:
+The first frame presents a narrow, cracked asphalt road extending forward from the viewer, bordered by tall green grass. Ahead in the midground, a dark brown wooden barn with a red-orange roof stands at the end of a winding path, flanked by rolling green hills dotted with trees and two distant similar barns to the left.
+end of description
+The following frames depict a slow, continuous forward movement along the road; the foreground grass, road, and the central barn steadily enlarge, signifying the viewpoint's gentle approach towards the structures.

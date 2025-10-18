@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The viewer is positioned on a paved road that recedes into the distance, curving gently to the left and flanked by solid white lines. To the left, a steep, rocky, and grassy slope rises, dotted with scattered pine trees, leading up to a distant mountain face. On the right, a lower bank features green bushes and pine trees, backed by another verdant mountain range. Above, a sky with scattered white clouds is visible.
+end of description
+The viewer progresses along the winding road. Consequently, the roadside trees and bushes, initially ahead on both the left and right, gradually approach and then pass by, moving towards the sides and behind the viewer's original position. Shadows, presumably cast by overhead foliage, appear and lengthen across the road ahead as the viewpoint shifts forward.
+frame_0000000128-frame_0000000256:
+A paved road with white edge lines extends forward, curving slightly left into a mountainous landscape, flanked by dense dark green coniferous trees on steep slopes to the left and right, under a partly cloudy sky.
+end of description
+The viewpoint steadily moves forward along the road, causing the immediate roadside vegetation and the curve ahead to progressively draw nearer and then pass the viewer. The surrounding mountainous terrain and forests on both sides appear to gradually approach and recede into the distance as the journey continues along the winding path. No entirely new objects or scenes are revealed beyond the continuous progression through this consistent mountain road environment.
+frame_0000000256-frame_0000000384:
+The first frame depicts a gray asphalt road extending straight from the viewer, then curving gently to the right in the mid-ground, flanked by solid white lines. To the viewer's immediate left, an uphill embankment features a rock retaining wall below a dense forest of dark green pine trees. To the viewer's right, a similar forest of pine trees borders a downward slope. In the distant center, a partially bare mountain face rises beneath a partly cloudy sky.
+end of description
+As the viewer moves forward, the road ahead becomes closer, and the rock retaining wall to the left gradually passes the viewer and recedes behind, revealing more of the steep, forested hillside to the left and the densely packed pine trees to the right as they too shift past the viewer. The distant mountain landscape remains visible but shifts slightly in perspective as the vehicle navigates the curve.

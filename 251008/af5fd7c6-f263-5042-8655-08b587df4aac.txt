@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a rainy city street; to the viewer's left, a wet sidewalk features shop buildings, trees, and a person walking away under an umbrella, while to the right, a wet street reflects red lights and holds a white car in the midground. end of description Subsequently, the pedestrian continues moving further away on the left, and a white delivery truck appears from the background on the right street, driving past the viewer's right side. The overall rainy conditions and reflections persist throughout the frames.
+frame_0000000128-frame_0000000256:
+The first frame depicts a rainy urban street scene. To the viewer's immediate left, a wet sidewalk is lined with several trees and features two prominent advertising signs; one showcases a "Galaxy Z Flip-Fold 3". Further along the sidewalk in the midground, a person holding an umbrella walks away from the viewer. To the right, a wet road with blue lane markings reflects the red glow of traffic lights and a white truck with illuminated taillights, positioned further down the street. Buildings with various storefronts are visible behind the trees and sidewalk on the left, extending into the background.
+
+end of description
+
+In the following frames, the persistent rain is visible, and the person with the umbrella on the sidewalk continues to walk further away from the viewer, gradually receding into the distance. The white truck on the right side of the road remains largely stationary or moves minimally forward. Another white car becomes more visible in the midground, also slowly moving away from the viewer on the road.
+frame_0000000256-frame_0000000384:
+The first frame depicts a rainy city street and sidewalk, with storefronts lining the left and a road on the right. In the foreground left, a tree and a 'Galaxy Z Flip-Fold 3' sign are visible, while further down the sidewalk, a person walks away under an umbrella. On the wet street to the right, a white truck is stopped, reflecting red traffic lights, alongside several trees and a light pole.
+end of description
+Subsequently, the person with the umbrella and the white truck both gradually move further away from the viewer along the street. The rain consistently falls, creating reflections, as a 'Rain Everyday' watermark slowly becomes visible in the bottom left corner.

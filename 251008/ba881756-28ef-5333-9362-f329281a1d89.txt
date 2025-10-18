@@ -1,0 +1,28 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a city street from a low angle, with a red car directly ahead on the road marked with white arrows, bordered by a tree-lined sidewalk on the left and a line of parked cars leading to a tall "BERJAYA CENTRAL" building on the right.
+end of description
+As the frames progress, the viewpoint moves forward, causing the red car to recede and newly revealing more of the road and additional parked vehicles along the right curb. The silver car initially on the immediate right shifts towards the rear right as the Berjaya Central building extends further along the path.
+frame_0000000128-frame_0000000256:
+A city street extends forward into the distance. To the left, a sidewalk with a black and white striped curb borders the road, featuring a line of trees and a modern building behind them. To the right, another sidewalk with a similar curb runs alongside a long row of parked and queued vehicles, with a large grey building displaying "BERJAYA" and distant skyscrapers in the background. In the immediate foreground on the right, a silver sedan is visible.
+end of description
+The primary dynamic change is the forward progression of vehicles in the lane to the viewer's right. The initial silver sedan closest to the viewer is successively replaced by other cars moving into the foreground. First, a silver Mercedes-Benz appears, followed by a white Toyota, and finally, a dark grey Honda, each advancing into the immediate vicinity on the right.
+frame_0000000256-frame_0000000384:
+In the first frame, a grey Honda Civic with license plate WAA 2008 Y is prominently in the foreground on the right, positioned beside a grey curb. To its left, a two-lane road stretches into the distance, bordered on the far left by a sidewalk with a striped black and white curb and several trees with green foliage overhanging the road. Further down the road, a red car is visible moving away from the viewer, with a long line of parked vehicles (white, black, and grey) to the right. In the background on the right, a large grey building stands, while two distinct, tall skyscrapers rise above the skyline slightly to the right of center.
+
+end of description
+
+The scene dynamically shifts as the viewer moves forward along the road. The initial grey car on the right recedes, bringing a white car, then a black van, and finally another grey car into prominent view, all appearing from behind the initially closest vehicle. White directional arrows emerge on the road directly in front of the viewer, while to the far left, a blue lane marking, more of the sidewalk, and a cluster of flags on poles become visible as the viewer passes them. Orange traffic cones appear further down the road among the parked cars on the right, and a lamppost becomes visible beyond the vehicles.
+frame_0000000384-frame_0000000512:
+The first frame presents an urban street view, with a multi-lane road extending into the distance. To the viewer's left, a sidewalk features a building displaying multiple flags and a large tree, while to the right, a line of stationary vehicles including a silver SUV, a white truck, and a bus are partially obscured by red construction barriers. Tall skyscrapers, including prominent twin towers, dominate the distant background.
+
+end of description
+
+The white truck on the viewer's right slowly moves forward and slightly to the viewer's right, gradually clearing the red construction barriers and progressively revealing a white car previously positioned behind it. The truck continues to advance past the initial viewpoint towards the foreground-right and eventually exits the frame, with other vehicles in that lane also inching forward.
+frame_0000000512-frame_0000000640:
+The first frame displays a city road extending forward, flanked by trees and a row of parked or slowly moving cars on both sides. To the viewer's immediate right, a white sedan is prominent, followed closely by a dark SUV, while a blue-painted lane and sidewalk line the left, and distant skyscrapers rise against an overcast sky.
+end of description
+As the frames progress, the viewer moves slowly forward along the road. The white sedan on the right advances, revealing more of the dark SUV behind it, which then also moves forward, unveiling another dark sedan, as other vehicles on both sides also gradually shift ahead.
+frame_0000000640-frame_0000000768:
+In the first frame, the viewer is on a multi-lane road looking forward into a city street lined with lush green trees. Tall skyscrapers are visible in the hazy distance, positioned centrally and to the right. To the viewer's immediate left is a blue-marked bicycle lane next to a curb, with a silver car parked further back, while a dark grey minivan-like car is prominently parked on the immediate right, separated by a black and white striped curb. Numerous other vehicles are driving or parked further down the road on both sides, and a dark sign is visible on the far right in the mid-distance.
+end of description
+The viewpoint slowly advances, causing the dark grey car on the right to move forward, revealing a black sedan, a red car, and a white van previously obscured behind it, all to the right of the viewer's original position. A motorcycle with a rider passes the black sedan on the right, as road arrows become visible on the central lanes directly in front of the viewer. The silver car on the left remains largely stationary relative to the curb as the viewer progresses past it, while the red car on the right becomes fully visible and moves slightly forward.

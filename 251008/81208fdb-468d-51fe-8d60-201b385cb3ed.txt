@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+From an aerial viewpoint, a vibrant blue-green lake occupies the left, transitioning to shallower turquoise near a two-lane asphalt road with a dark car parked on it and small boats along its top-left shore. To the road's right, a dense forest with autumn colors and green slopes extends into the background.
+end of description
+The dark car on the road dynamically travels from the top-left towards the bottom-right of the frame. Simultaneously, a person emerges walking on the right side of the road, moving from the mid-right towards the bottom-right. In the final frames, a light-colored boat is newly revealed, moving along the lake's shore from the top-left towards the bottom-left.
+frame_0000000128-frame_0000000256:
+A two-lane road runs diagonally from the upper-left background to the lower-right foreground, with a large blue-green lake to its left and a dense green forest to its right. A small blue car is visible on the road in the upper-left, positioned near the lake's edge.
+end of description
+The blue car moves along the road towards the lower-right, gradually shifting its position further into the foreground and away from its initial spot. Later, small white boats become visible on the water in the upper-left background, further away from the viewer than the car's original location.
+frame_0000000256-frame_0000000384:
+The first frame captures an aerial view featuring a vast blue-green lake on the left, with a two-lane asphalt road running diagonally from the bottom right to the upper left, separating the water from a dense forest on the right. A small dark car is parked on the road's left shoulder, near the water's edge in the mid-frame, while distant buildings and boats dot the upper-left shoreline.
+end of description
+Progressing through the frames, the dark car dynamically moves from its parked position. It steadily drives along the road towards the upper left of the scene, away from the viewer, continuing its path along the lake shore.

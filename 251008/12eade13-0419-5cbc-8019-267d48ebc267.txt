@@ -1,0 +1,30 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a view down a dirt road receding into the distance, bordered by low desert shrubs, with immense orange-red sandstone cliffs rising steeply on both the left and right under a partly cloudy sky; a small dark vehicle is discernible far down the road.
+end of description
+As the sequence progresses, the dark vehicle consistently moves closer towards the first-frame viewpoint along the dirt road, becoming increasingly larger and more detailed, while the towering cliffs and sky maintain their fixed distant positions relative to the viewer.
+frame_0000000128-frame_0000000256:
+The first frame depicts a dirt road stretching towards the horizon, framed by immense, reddish-orange canyon walls rising steeply on both the left and right sides of the viewer. A dark SUV is positioned on the road in the midground, appearing to move away from the viewer. Sparse dry bushes line the foreground edges of the road, and a sliver of cloudy sky is visible above the distant canyon tops.
+end of description
+In the following frames, the dark SUV steadily approaches the viewer, becoming progressively larger in the frame as it moves from the midground towards the foreground. The surrounding canyon landscape and sky remain static, with no new objects or scenes revealed beyond the approaching vehicle.
+frame_0000000256-frame_0000000384:
+A black Jeep Wrangler drives away from the viewer on a dirt road in the left foreground, flanked by towering reddish-orange canyon walls on both sides, with sparse desert vegetation lining the road and a cloudy sky above.
+end of description
+As the frames progress, the Jeep moves forward and shifts left, gradually exiting the frame entirely to the left. This reveals more of the dirt road, now more centrally positioned directly in front of the viewer, and additional intricate geological patterns on the left canyon wall, which appear to get closer as the viewpoint advances deeper into the scene. No new objects are introduced; the existing canyon landscape simply unfolds as the perspective moves forward.
+frame_0000000384-frame_0000000512:
+The first frame depicts a narrow dirt road extending into the distance, flanked by towering reddish-orange canyon walls under a partly cloudy sky. A large, rounded rock is visible in the lower left foreground, with sparse green and brown vegetation scattered along the roadside and canyon floor. Both canyon walls display prominent horizontal striations and eroded textures.
+end of description
+No dynamic changes or newly revealed objects occur in the subsequent frames, as the scene remains static throughout.
+frame_0000000512-frame_0000000640:
+A dirt road extends from the viewer's immediate foreground into the middle distance, gently curving to the right as it recedes into a canyon. Towering orange-red rock walls rise sharply on the viewer's left, displaying prominent horizontal striations and textured surfaces. On the right, a similarly colored, rugged rock wall ascends, with sparse green and brown scrub vegetation growing on the rocky, sandy ground bordering the road. The canyon walls frame a bright, cloudy sky visible at the top of the scene.
+
+end of description
+
+As the frames progress, the viewpoint moves continuously forward along the dirt path, deeper into the canyon. The immediate foreground terrain, including small rocks and scrub on either side of the road, consistently shifts closer and then recedes. The massive red rock wall on the left gradually reveals more of its textured surface, with a prominent section featuring numerous small depressions becoming more visible and moving across the left side of the frame. The right canyon wall and its sparse vegetation also shift, appearing closer before receding, while the overall canyon environment remains consistent.
+frame_0000000640-frame_0000000768:
+The first frame depicts a reddish-orange dirt road leading away from the viewer into a canyon, flanked by towering rock walls. The imposing left canyon wall has distinctive circular pockmarks, while sparse green shrubs line both sides of the road and the base of the walls under an overcast sky.
+end of description
+Subsequently, the viewpoint moves forward along the dirt road, causing the canyon walls to subtly expand outwards relative to the first-frame's perspective. The textures and details of the rock formations and roadside vegetation become progressively clearer as the viewer advances deeper into the scene from the initial position.
+frame_0000000768-frame_0000000896:
+The first frame displays a dirt road receding into the distance, flanked by immense red rock canyon walls on both sides. The left wall exhibits many small indentations, while sparse green and brown vegetation grows along the road's edges, all under an overcast sky.
+end of description.
+The viewpoint moves forward along the dirt path, causing the immediate foreground elements like roadside rocks and vegetation to recede and eventually move behind the viewer's initial position. Concurrently, new segments of the dirt road and the converging canyon walls are continuously revealed further ahead in the scene.

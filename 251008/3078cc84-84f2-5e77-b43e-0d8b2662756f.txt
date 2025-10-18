@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+In the first frame, a person wearing a blue cap, grey t-shirt, dark pants, and a green backpack is walking away from the viewer on a dirt path that extends from the bottom center into the mid-distance. Lush green grass with scattered white wildflowers flanks the path, filling the lower foreground and midground. Dense evergreen trees line both sides of the path, forming a corridor that leads towards the background where distant, rugged mountains with visible snow patches are silhouetted against a bright blue sky with scattered white clouds.
+end of description
+As the frames progress, the person continues walking forward on the path, moving further away from the fixed first-frame viewpoint. This dynamic change reveals more of the path and the expansive mountain landscape ahead in the far distance, which becomes slightly more prominent relative to the person and the trees. The person's natural walking motion is evident as their legs and arms move.
+frame_0000000128-frame_0000000256:
+In the foreground, a person wearing a dark cap and backpack walks away from the viewer on a dirt path, flanked by lush green grass and tall evergreen trees lining the left and right sides. Distant, rugged mountains with snow patches rise in the background beneath a bright blue sky with scattered white clouds.
+end of description
+The person continuously walks further away into the midground along the path. This movement gradually reveals more of the path previously behind them, and a faint, narrower path branching off to the right in the midground becomes visible as they pass it. The surrounding trees, mountains, and sky remain static relative to the initial viewpoint.

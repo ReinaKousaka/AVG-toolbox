@@ -1,0 +1,22 @@
+frame_0000000000-frame_0000000128:
+The initial frame presents a busy outdoor market street extending away from the viewer, with numerous pedestrians walking towards the background, flanked by market stalls on the left and right, and historic buildings lining the street in the distance; a red and white traffic cone stands centrally on the wet pavement in the mid-ground. end of description. As the sequence progresses, the crowd continuously shifts forward, with new individuals, including a person with a light blue cap entering from the bottom left and a small dog appearing near a person in a blue jacket on the right, moving into view as others exit towards the background.
+frame_0000000128-frame_0000000256:
+The first frame captures a bustling outdoor market street. In the immediate foreground, a person's dark jacket is partially visible on the far left, while on the right, the back of a man in a brown jacket, holding items, faces away from the viewer, adjacent to a green and white striped market stall canopy. Two orange traffic cones mark a yellow striped area in the lower center. The midground is densely packed with numerous people walking away from the viewer, flanked by continuous rows of market stalls under striped canopies on both sides. In the background, the street extends into the distance, lined with multi-story stone buildings under an overcast sky.
+
+end of description
+
+As the frames progress, the viewpoint slowly advances forward through the crowded street. The man in the brown jacket on the right moves further away, revealing more of the market stall and people previously behind him. Concurrently, a man in a blue jacket with a small dog on a leash emerges from the mid-right, walking forward. The dense crowd in the midground continuously shifts, with new individuals and sections of market stalls becoming visible to the sides as the scene progresses deeper into the street.
+frame_0000000256-frame_0000000384:
+The first frame presents a bustling market street viewed from slightly above, showing numerous pedestrians. In the immediate foreground left, two individuals' backs are visible, while on the right, a striped market stall and shoppers are seen, with a person in a blue jacket walking a dog. The street recedes into the background, flanked by multi-story stone buildings and shops under an overcast sky, with a woman in a green jacket and a child walking away in the midground center.
+
+end of description
+
+In subsequent frames, the viewpoint subtly advances, causing the foreground and midground figures, including the woman and child and the person with the dog, to move slightly further away and shift position relative to the initial viewpoint. The general street activity of people walking and browsing continues, maintaining the overall first-frame scene but with minor positional changes.
+frame_0000000384-frame_0000000512:
+The first frame depicts a busy outdoor market street, with the back of a man in a dark jacket prominent on the left and another man in a blue jacket to the right. Many people fill the mid-ground and background, moving between market stalls on the right and buildings lining the street on the left, all under an overcast sky.
+end of description
+The crowd continuously shifts, with individuals walking in various directions across the scene. A bald man in a brown jacket, initially in the mid-ground-left, steadily walks towards the right side of the frame, passing behind the man in the blue jacket. Subsequently, a woman with blonde hair follows a similar path from left to right behind him, constantly altering the dynamic street composition.
+frame_0000000512-frame_0000000640:
+The first frame captures a bustling street scene, dominated in the mid-right by a man with glasses wearing a dark jacket, while a person in a blue jacket is partially visible in the immediate foreground right. Numerous other pedestrians fill the mid-left and background, navigating a street lined with historic stone buildings, including a Vodafone store, and market stalls stretching into the distance.
+end of description
+The man in glasses gradually moves left and recedes from the first-frame's central view as a blonde woman in a dark coat advances towards that position. Concurrently, a woman with sunglasses and a small dog on a leash emerges to the right of the first-frame's right foreground, moving towards the viewer. Later, a young woman holding a small girl's hand appears behind the blonde woman, also moving towards the first-frame's viewpoint, as the entire crowd continually shifts.

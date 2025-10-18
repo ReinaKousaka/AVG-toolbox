@@ -1,0 +1,28 @@
+frame_0000000000-frame_0000000128:
+In the first frame, train tracks stretch forward, curving to the right, bordered by gravel ballast. To the left, a grassy slope descends towards a road and distant hills, while a steep, forested hillside with a utility pole and a yellow triangular '9' sign occupies the right side under an overcast sky.
+end of description
+As the scene progresses, the original utility pole and the yellow '9' sign on the right move past and behind the viewer's initial position. Subsequently, a new yellow rectangular '1250' sign appears on the left and advances towards the viewer, followed by another yellow triangular '14' sign emerging on the far right, as the forested landscape continuously unfolds.
+frame_0000000128-frame_0000000256:
+The viewer looks straight ahead down a set of train tracks, which curve gently to the left in the distance, surrounded by gravel ballast. To the left, a downward slope leads to evergreen trees and a distant valley with mountains under a cloudy sky, while to the right, an upward slope is covered in deciduous trees and some evergreens. Overhead, a catenary system with electrical wires is visible, supported by a utility pole in the upper right.
+end of description
+As the train moves forward, the immediate foreground elements shift rapidly; the utility pole on the right passes by, moving towards the lower right of the frame, and the trees lining the tracks on both sides quickly recede and exit the view. The distant curve of the tracks and the landscape beyond gradually approach, indicating continuous forward motion.
+frame_0000000256-frame_0000000384:
+The first frame presents a view down a set of train tracks extending straight from the viewer, curving gently to the left into the mid-distance. To the right, a steep forested hillside with evergreens and some deciduous trees rises, featuring a power line pole with overhead wires. To the left, a lower embankment reveals a valley with fields, a body of water, and distant mountains under a cloudy sky.
+end of description
+As the viewpoint moves forward, simulating a train's movement, the tracks ahead recede while the landscape scrolls past the viewer. The forested hillside to the right gradually moves out of view, revealing more of the forest and occasional patches of snow further along the track. Simultaneously, the valley on the left with its fields and distant water shifts, bringing newly revealed sections of the landscape into view from the first-frame's perspective.
+frame_0000000384-frame_0000000512:
+From a train's forward perspective, tracks curve rightward into a wooded valley under an overcast sky, flanked by a descending evergreen embankment on the left revealing distant buildings and mountains, and a rising mixed forest on the right with a visible utility pole.
+end of description
+As the train advances, the tracks move underneath, and the landscape progresses from the viewer's front towards and past the sides. The utility pole on the right recedes past the viewer, while patches of snow and clear-cut timber debris become evident on the right embankment. Simultaneously, to the left, a body of water and more of the distant terrain unfold beyond the initial field and structures.
+frame_0000000512-frame_0000000640:
+The first frame shows train tracks stretching into the distance, curving slightly right, with overhead power lines and a power pole positioned above the right side. To the left, a grassy embankment slopes down to a highway with vehicles, a lake, and distant mountains under a cloudy sky; to the right, a barren slope with debris leads up to a dense forest of mixed evergreen and deciduous trees.
+end of description
+As the viewer's perspective moves forward, the train tracks and immediate foreground elements, including embankments and power poles, continuously move beneath and recede behind the first-frame viewpoint. New sections of the surrounding landscape, forest, highway, and lake progressively come into view from the front and pass by, maintaining their relative left and right positions as the journey continues.
+frame_0000000640-frame_0000000768:
+The first frame depicts a train's-eye view looking down tracks stretching toward distant mountains under an overcast sky. A vegetated embankment descends to a lake and a road on the left, while a cleared hillside with a dense forest line and utility poles runs parallel on the right.
+end of description
+As the frames progress, the viewpoint moves forward along the tracks. Objects on both sides, like the utility poles and the cleared hillside, progressively advance from the midground to the foreground and move past the viewer, with new segments of the landscape continually revealed ahead.
+frame_0000000768-frame_0000000896:
+The first frame presents a straight-on view down train tracks stretching into the distance, bordered on the right by a steep, sparsely vegetated embankment with logs and a utility pole, and on the left by a gentler slope leading to a lake with distant hills and structures under a cloudy sky. Overhead utility wires extend along the tracks.
+end of description
+As the viewpoint progresses forward, the large rock initially on the immediate right quickly moves out of frame, and the utility pole on the right recedes towards the frame's edge. A new, more complex utility pole structure emerges from the right mid-ground, passing the viewer. Subsequently, a yellow triangular sign bearing the number '12' becomes visible further down the track on the right embankment, gradually drawing closer. Finally, a grey box-like structure appears at the bottom right, moving past the viewer's original position.

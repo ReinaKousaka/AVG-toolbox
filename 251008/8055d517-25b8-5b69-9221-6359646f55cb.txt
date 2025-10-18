@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+A metal fence with a sign occupies the foreground left, adjacent to a sidewalk where two people walk away from the viewer. Behind the fence, a large light-colored building and a tall tree dominate the midground, with a street and more distant buildings visible on the right.
+end of description
+The viewpoint steadily moves forward along the sidewalk. As the camera progresses, the fence and the buildings on the left appear to shift leftwards and relatively behind the original viewpoint. Concurrently, the two pedestrians recede further into the distance, revealing more of the street, trees, a streetlamp, and a unique stone structure on the right side of the path, all extending further away from the initial perspective.
+frame_0000000128-frame_0000000256:
+In the first frame, a sidewalk extends forward from the viewer, bordered on the left by a chain-link fence behind which a large tree trunk and a light-colored building are visible. To the right, a concrete structure with a dark, dome-shaped top sits beside the sidewalk, with a street running parallel further right, featuring a green tree, lamppost, and distant vehicles. Two individuals walk away from the viewer on the sidewalk, positioned slightly right of center.
+end of description
+The two individuals on the sidewalk continue walking forward, gradually moving further into the distance relative to the first-frame viewpoint.

@@ -1,0 +1,10 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a paved road curving gently to the right, extending into a mountainous landscape under a clear blue sky. To the viewer's left, a steep, grassy slope rises, dotted with bushes and several houses in the mid-distance, while a white and black striped marker pole stands closer on the road's left shoulder. On the right, another grassy slope ascends, revealing rocky outcrops further ahead and a partially visible orange object at the far right edge. Distant snow-capped mountains frame the background, and data overlays showing speed, distance, gradient, and an altitude profile are present at the bottom and right of the screen.
+
+end of description
+
+As the viewpoint progresses forward along the road, the partial orange object on the far right quickly moves out of view. The striped marker pole on the left shoulder approaches, passes to the viewer's immediate left, and recedes behind, while the rocky terrain on the right slope becomes more prominent and then also passes. The houses and trees on the left slope, along with the distant mountains, appear to recede as the camera moves through the valley. The on-screen data overlays continuously update, reflecting the viewer's forward motion and changing gradient.
+frame_0000000128-frame_0000000256:
+A winding asphalt road ascends through a sunny, mountainous landscape under a clear blue sky, featuring snow-capped peaks in the far distance, a grassy slope with a partially obscured building and utility pole on the left, and a rocky retaining wall leading to wooden houses on the right, all overlaid with digital metrics.
+end of description
+As the viewpoint progresses along the road, the utility pole initially on the left passes by and then appears behind the viewer, simultaneously casting a long shadow that extends across the road ahead. Further up the road, near the upcoming left bend from the first-frame viewpoint, a figure emerges, becoming slightly more distinct as the camera advances towards it.

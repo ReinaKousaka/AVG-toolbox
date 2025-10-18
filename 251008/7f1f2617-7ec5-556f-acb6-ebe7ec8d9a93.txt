@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The viewer is beneath a dark stone archway that frames a light brown canal curving gently left into the distance. Green grassy banks border the canal, with dense bushes and trees further back on the left, and an overcast sky visible through the arch's opening.
+end of description
+As the sequence progresses, the viewpoint moves forward *out from under the archway*. Consequently, the stone arch recedes *behind* the advancing viewer, while the canal, its banks, and the surrounding trees, originally seen *ahead* through the arch, come *closer* and occupy a larger portion of the frame, revealing more of the cloudy sky *above* and *ahead* where the bridge once was.
+frame_0000000128-frame_0000000256:
+The first frame depicts a tranquil, overcast landscape. To the viewer's left, a grassy bank slopes down to a murky, brownish-green canal that curves away into the distance. A dense array of bare trees and shrubs with some budding green foliage lines the left bank, extending from the foreground into the midground. On the right, a wider grassy field with hints of yellow vegetation borders the canal. Beyond the canal's curve in the far background, more trees and hedges are visible, all under a heavily clouded, grey sky.
+end of description
+No discernible dynamic changes occur in the subsequent frames; the entire scene, including the clouds and water, remains static, indicating a fixed viewpoint.
+frame_0000000256-frame_0000000384:
+The first frame presents a curving canal with murky green-brown water extending from the mid-ground towards the right distance. A narrow grassy bank lies to the left of the canal, flanked by dense green bushes and trees in the left foreground and mid-ground, while a wider grassy field and distant trees are visible to the right under a cloudy sky.
+end of description
+As the frames progress, the viewpoint moves forward along the grassy bank, revealing more of the path and the curving canal ahead. The dense bushes and trees on the left recede into the left mid-ground relative to the initial frame, while the distant trees along the far bank appear to approach the viewer from the right of the first-frame's distant view.

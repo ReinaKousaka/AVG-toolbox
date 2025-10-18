@@ -1,0 +1,16 @@
+frame_0000000000-frame_0000000128:
+In the first frame, a paved road extends from the viewer towards a wooden-railed bridge in the midground, flanked by a rocky riverbed to the left where a red car's rear is partially visible, and dense trees to the right. Beyond the bridge, a valley with scattered buildings on green slopes leads up to imposing, rocky mountains under a blue, cloudy sky.
+end of description.
+The camera moves forward along the road, causing the red car to recede from the left foreground and revealing more of the dry riverbed as the bridge approaches. The perspective shifts, bringing the bridge and a blue car parked beyond its right side closer, while the distant mountainous landscape remains largely constant relative to the first-frame viewpoint.
+frame_0000000128-frame_0000000256:
+The first frame captures a view from a concrete bridge with wooden railings extending forward on both sides. Below the bridge, a wide rocky riverbed is visible to the left and right, with a few cars parked on the right bank further ahead. In the distance, towering mountains covered in lush green trees and grassy slopes rise under a bright blue sky with white clouds, showcasing small buildings nestled on a distant slope.
+end of description
+The scene exhibits a slow, steady forward motion, with the camera moving progressively across the bridge. As the viewpoint advances, the bridge railings and the rocky ground directly beneath and to the sides gradually recede from the foreground. The parked cars on the right become more prominent and fully visible, while the overall mountainous backdrop remains fixed, suggesting the viewer is traversing the bridge towards the valley ahead.
+frame_0000000256-frame_0000000384:
+The first frame presents a paved road bridge with wooden railings extending from the foreground towards the center, flanked by a rocky riverbed on both sides. Beyond the bridge, the road curves slightly left, and two cars are parked on the right riverbed. Majestic, green forested mountains rise in the background, with a small building on a grassy slope to the left, under a blue sky with white clouds.
+end of description
+The subsequent frames show no dynamic changes; the scene remains entirely static with no new objects or movements from the first-frame viewpoint.
+frame_0000000384-frame_0000000512:
+The first frame shows the viewer on a paved road, likely a bridge, with wooden railings extending into the midground on both sides. To the immediate left, a rocky riverbed is visible, while to the right, a gravel area hosts two parked cars: a silver hatchback in front and a dark sedan behind it. Further ahead, the paved road appears to fork amidst lush green trees and shrubs, which transition into forested mountainsides in the midground and background, topped by a blue sky with white clouds.
+end of description
+The viewpoint gradually moves forward, advancing across the bridge. The foreground railings and the immediate road beneath the viewer recede and eventually disappear from the bottom of the frame. The parked cars on the right approach and are then passed, progressively exiting the right side of the view as the camera advances. The previously midground fork in the road becomes the new foreground, and the mountainous backdrop appears slightly closer, maintaining its position relative to the advancing camera.

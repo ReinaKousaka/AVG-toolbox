@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame captures a river cascading over mossy rocks and small waterfalls, framed by bare trees and forest banks. A narrow, moss-covered concrete path diagonally crosses the turbulent water from the lower-left towards the mid-right, with a large boulder and concrete structures visible on the upper-left bank.
+end of description
+Subsequent frames show a gradual zoom out and slight pan right, revealing more of the river's right bank and the concrete path extending further into the foreground on the viewer's right. A bare tree trunk and its branches on the far right become more prominent, while the turbulent water continues its flow over the midground waterfalls. The overall viewpoint slightly widens and shifts right relative to the initial frame.
+frame_0000000128-frame_0000000256:
+The first frame depicts a multi-tiered waterfall cascading through a moss-covered forest, with a concrete path and small bridge in the midground spanning the river. Bare tree branches frame the top-left and right, while a large, dark boulder rests on the left riverbank and dense forest extends into the background.
+end of description
+The camera then slowly pans right, progressively revealing more of the forest and river on the right side of the scene. A prominent vertical tree trunk, initially in the mid-right, gradually moves towards the center, while the path on the far left recedes. This movement uncovers further cascading water and mossy rocks towards the right.
+frame_0000000256-frame_0000000384:
+The first frame features a moss-covered concrete pathway extending from the lower left towards the mid-center, running alongside a turbulent river with multiple small waterfalls cascading over mossy boulders. Bare trees and branches frame the scene, with a dense forest occupying the background under an overcast sky, while a dark vertical pole stands in the far left foreground.
+end of description
+The camera slowly pans to the right, gradually revealing the top-left section of a dark umbrella entering the frame from the top-left, while the vertical pole on the far left exits. As the pan continues, more of the dense forest to the right becomes visible, and a small red sign is newly revealed in the far right midground.

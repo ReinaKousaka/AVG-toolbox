@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a rocky, dirt path winding into a dense forest, leading upwards from the viewer's immediate position. Tall evergreen trees with mossy trunks line both sides of the path, receding into the background, while their green canopy extends overhead, revealing an overcast sky. In the right foreground, a large, moss-covered boulder stands prominently, with smaller rocks and green ferns scattered around it and along the path.
+end of description
+The viewpoint slowly progresses forward and slightly upward along the rocky path. As the camera moves, the large foreground boulder on the right recedes further into the midground and to the right, revealing more of the path ahead and the mossy undergrowth. The dense forest and towering trees remain consistently present to the left, right, and above, with new sections of the path and distant foliage continuously emerging into view further ahead.
+frame_0000000128-frame_0000000256:
+A viewer's perspective looks up a winding dirt path scattered with white rocks, surrounded by a dense, lush forest. Tall evergreen trees with moss-covered trunks line both sides, extending upwards towards a bright, overcast sky, while large mossy boulders punctuate a steep incline on the right.
+end of description
+The viewpoint slowly advances forward along the path, causing the foreground rocks to recede and revealing more of the path ahead. The large boulder on the upper right progressively moves out of the frame as the camera continues to move into the forest.

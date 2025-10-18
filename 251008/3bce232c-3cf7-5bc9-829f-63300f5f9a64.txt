@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a paved mountain road curving slightly rightward in the mid-ground. To the left, a stone retaining wall borders a steep, grassy, forested hillside, while to the right, a metal guardrail runs alongside the road, beyond which more trees and a distant building are visible against a blue sky with white clouds.
+end of description
+As the frames progress, the viewpoint moves forward along the winding road, causing the initial retaining wall and guardrail segments to recede while new sections appear closer to the viewer. The curve in the road draws nearer, and orange netting becomes visible on the upper left grassy slope, initially obscured, as the entire landscape shifts closer relative to the first-frame viewpoint.

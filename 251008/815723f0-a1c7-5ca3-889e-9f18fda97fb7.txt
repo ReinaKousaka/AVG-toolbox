@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a wet urban intersection featuring multiple white zebra crossings on dark asphalt roads. To the viewer's left, there's a sidewalk with black bollards, a street light pole, and a partially closed white umbrella, with a red car visible further down the street. In the background, green trees line the roads, and red traffic lights are visible in the upper left and right, casting reflections on the wet pavement.
+end of description
+As the frames progress, the red car on the left side of the street begins to move forward and to the left, away from the initial viewpoint. Subsequently, a red bus emerges from behind the car, also moving forward and further down the street relative to the viewer's position. The traffic lights remain red throughout the sequence.

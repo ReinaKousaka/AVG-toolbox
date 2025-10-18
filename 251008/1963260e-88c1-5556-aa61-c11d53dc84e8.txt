@@ -1,0 +1,13 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a dense, verdant rainforest with numerous tall trees and lush green foliage filling the entire scene. A dark-colored boardwalk path is visible, starting in the lower right foreground and curving gently into the mid-distance on the right side, receding into the dense trees.
+end of description
+As the viewpoint moves forward, the dense forest continuously shifts, with trees and foliage on both sides receding from the foreground to the mid-ground relative to the initial position. The path continues to curve to the right, leading deeper into the forest and revealing more of the winding trail ahead. A small yellow object briefly passes through the upper left of the frame before disappearing.
+frame_0000000128-frame_0000000256:
+The first frame shows a dark gray, narrow path or boardwalk curving gently to the right, extending into the distance from the lower center. Dense, lush green foliage and numerous tall, slender tree trunks line both sides of the path, receding into a thick forest background. A small sliver of bright, overcast sky is visible at the very top center, beyond the tree canopy.
+end of description
+The viewer moves forward along the path, causing the trees and path to recede slightly and new sections of the path to become visible ahead. From frame 5, a yellow and white umbrella is seen partially open at the top of the frame, directly above the viewer, indicating a change in perspective or the introduction of an object above the camera, obscuring the sky. The camera continues to move forward along the winding path, maintaining the forest scenery to the left and right.
+frame_0000000256-frame_0000000384:
+The first frame shows a narrow, dark grey paved path, or boardwalk, receding directly in front of the viewer into a dense tropical forest, curving slightly to the right in the midground. Tall, slender tree trunks and lush green foliage heavily line both sides of the path, extending into the background to the left, right, and directly ahead of the viewer. Partially obscuring the top of the view is a yellow and white umbrella, positioned directly in front of and slightly above the viewer, spanning from the top-left to the top-right corner.
+
+end of description
+As the frames progress, the viewer moves forward along the path, causing the umbrella to disappear entirely from the top-front of the view. The path ahead becomes progressively closer, revealing new sections of the boardwalk and the forest deeper within the scene, directly in front of the first-frame viewpoint. Simultaneously, the dense foliage and trees lining the path on both the left and right sides move past the viewer's initial position, indicating forward movement through the forest.

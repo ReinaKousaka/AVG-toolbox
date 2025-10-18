@@ -1,0 +1,27 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a narrow urban alleyway stretching into the distance, bordered by buildings on both sides. To the left, a building with dark reflective windows sits above a concrete wall, with yellow bags visible near its base, while a lighter-colored building with large windows displaying framed pictures stands to the right. Utility poles with wires overhead and scattered leaves on the pavement further define the scene.
+end of description
+The viewpoint slowly moves forward into the alley. As the camera advances, more of the right-side building's light facade and a distinctive circular symbol become visible, while the framed pictures inside the window become less prominent. The reflective building on the left also reveals more of its dark, glassy surface, and an advertisement stand further down the alley on the right becomes clearer.
+frame_0000000128-frame_0000000256:
+The first frame displays a narrow alleyway with a reflective building on the left, featuring a low concrete wall, a yellow bin, and bamboo poles. The ground is strewn with light-colored leaves. To the right, a modern building with dark window panes and a small awning stands, leading to the alley stretching into the distance with further buildings and signage visible.
+end of description
+No dynamic changes or newly revealed objects occur; all subsequent frames are identical to the first frame.
+frame_0000000256-frame_0000000384:
+The first frame captures a narrow alleyway with a bright yellow bin and three bamboo poles in the foreground left, against a wall reflecting graffiti-covered buildings. To the right, a modern building features light gray panels, a vent, and a circular emblem, while the asphalt path stretches into the background, revealing further shopfronts and a red 'Ousia' banner. end of description
+The viewpoint steadily moves forward into the alley and slightly to the right across the subsequent frames. The yellow bin and bamboo poles on the left recede as the right building's details, including its circular emblem and recessed entrance, become more prominent, revealing greater depth within the pathway.
+frame_0000000384-frame_0000000512:
+The first frame displays a narrow urban alley leading forward, featuring a yellow bin and three bamboo poles in the lower left foreground, and a modern grey building with a vent on the right. Further into the alley, a sticker-covered utility pole, graffiti-adorned wall, a small tree, a wooden barrel, and several advertising boards are visible, receding towards distant buildings.
+end of description
+As the frames progress, the viewpoint slowly moves forward into the alley, causing the yellow bin and bamboo poles to exit the frame to the lower left, while the utility pole and graffiti wall recede. Concurrently, the modern building on the right recedes, revealing more of its entrance, and midground elements like the barrel and tree shift closer, expanding the view of the deeper alley.
+frame_0000000512-frame_0000000640:
+The first frame displays a narrow urban alleyway stretching into the background, flanked by buildings. To the viewer's immediate left stands a graffiti-covered utility pole, with older buildings featuring awnings and various signs lining the left side of the street. On the right, a modern, paneled building with stairs leads up, while two sandwich board signs stand on the sidewalk.
+end of description
+No dynamic changes or newly revealed objects are visible in the subsequent frames; the scene remains entirely static throughout.
+frame_0000000640-frame_0000000768:
+In the first frame, a narrow paved alleyway extends away from the viewer, flanked by buildings on both sides. To the immediate right, two upright signs—a black A-frame menu board and a smaller white 'PENNY LANE' sign—stand near a dark wooden barrel and potted plants further down the path. On the left, a building with a light-colored awning and closed storefronts lines the alley, displaying air conditioning units above and bicycles and signs along its base, with circular manhole covers dotting the pavement leading into the distance.
+end of description
+As the frames progress, the viewpoint moves forward into the alley. The black A-frame and white 'PENNY LANE' signs on the immediate right recede and eventually move out of view to the right. Simultaneously, a dark bicycle and a red door on the right side of the alley become more clearly visible as they approach the foreground. The buildings and details on both sides, including the barrel and plants, shift closer and pass by the viewer, revealing more of the alley's depth ahead.
+frame_0000000768-frame_0000000896:
+The first frame displays a narrow urban alleyway extending into the distance, flanked by buildings. On the left, a light-colored building with multiple windows and an air conditioner unit is visible, while on the right, a dark brick building is partially seen in the foreground with a partially obscured white sign. Further down the alley on the right, another building with a red door, a barrel, plants, and a chalkboard sign is present, all resting on an asphalt ground with manhole covers.
+end of description
+In subsequent frames, the white sign in the foreground on the right moves slightly right, revealing more of the dark brick building, a bicycle positioned behind it, and a small potted plant with red leaves appearing on the ground to the right of the red-doored building.

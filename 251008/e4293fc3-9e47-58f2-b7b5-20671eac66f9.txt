@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+In the first frame, an aerial view shows a vibrant turquoise and green sea occupying the lower and left portions. A rugged, light-colored rocky cliff, featuring a small red structure and a white boat on its edge, extends from the mid-left towards the center and upper right, covered by dense green vegetation. To the upper right, a narrow sandy beach meets the water, and a road with some distant structures is visible along the top edge of the frame.
+end of description
+No dynamic changes occur, nor are any new objects or scenes revealed in the subsequent frames, as the imagery remains identical to the first-frame viewpoint throughout the sequence.
+frame_0000000128-frame_0000000256:
+The first frame displays an aerial view of a rugged coastline. To the left and bottom, deep turquoise-blue ocean water abuts light gray, craggy cliffs that extend diagonally towards the top center. On a small ledge of these cliffs, a tiny red object is visible, while a faint path winds along the cliff's upper edge. Above the cliffs, dense green foliage covers the land, behind which a road and some white buildings are faintly visible to the top right, inland from the coastline. A lighter, greenish-turquoise shallow water area and a small sandy beach lie to the bottom right, adjacent to the cliffs.
+end of description
+No dynamic changes or newly revealed objects or scenes are present in the following frames, as the video consists of identical, static images of the initial scene.

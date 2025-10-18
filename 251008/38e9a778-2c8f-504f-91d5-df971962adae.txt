@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The initial frame shows a city street at twilight, with a red asphalt road leading into the distance. In the left foreground, a man and a woman stand near a textured white building, while a modern dark-facade building with a lit landscaped area and the front of a white car occupy the right foreground.
+end of description
+As the frames progress, the man subtly shifts backwards to the left of his initial position. A person in red clothing emerges from behind the woman, moving towards the left side of the street. People in the distant background continue walking further away, and the camera subtly widens the field of view.

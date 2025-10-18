@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a wet asphalt road under a rainy sky, leading to a yellow barrier gate in the mid-distance; to the left, orange "No Parking" cones, a stone monument, and a silver car are visible, while a potted tree, a "20" speed limit sign, a white fence, and a building line the right.
+end of description
+Throughout the following frames, visible raindrops continuously impact the road, enhancing reflections. The yellow barrier gate, initially closed in the mid-distance, gradually pivots upwards and to the left, fully opening to reveal the path beyond by the final frame.
+frame_0000000128-frame_0000000256:
+The first frame displays a rain-slicked road extending into the distance, with a stone monument and an orange 'No Parking' sign on the left, and a potted dry plant and a white fence atop a brick wall on the right. A barrier gate system with a yellow sign spans the road in the mid-ground, flanked by green trees and a distant building under an overcast sky.
+end of description
+Throughout the following frames, heavy rain continuously falls, causing more intense reflections on the wet road surface. Starting in frame 7, a distinct, fountain-like splash of water repeatedly emerges from the lower-left side of the road, near the base of the 'No Parking' sign, indicating a localized surge.
+frame_0000000256-frame_0000000384:
+The first frame depicts a wet asphalt road extending from the foreground into the mid-ground, with yellow markings. On the far left, a large rock monument with Korean text sits on a grassy area, alongside green bushes and trees. A car barrier system, featuring a yellow and green booth and a white boom arm, spans the road in the middle ground, beyond which two cars with illuminated headlights are visible approaching from the distance. To the viewer's right, a dark planter holds a small, light brown evergreen shrub in the foreground, while a brick wall topped with a white fence runs along the road's right edge, partially obscuring a red-brick building in the background.
+end of description
+Throughout the subsequent frames, the primary dynamic change is the visible intensification of heavy rainfall. Raindrops continuously strike the wet asphalt road, creating numerous ripples and splashes on the surface, especially noticeable in the puddles closest to the viewer. The two cars in the distance slowly approach the viewpoint, their headlights reflecting off the increasingly rain-slicked pavement.

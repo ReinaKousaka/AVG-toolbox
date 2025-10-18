@@ -1,0 +1,10 @@
+frame_0000000000-frame_0000000128:
+In the first frame, dense green and brownish-green shrubs and bushes dominate the foreground, particularly on the left and right sides. An expansive sandy desert landscape stretches into the mid-ground, dotted with numerous smaller shrubs, and a prominent light brown sand dune is visible towards the right-center. Further right, a cluster of taller trees, including some with palm-like fronds, stands amidst the sand. In the distant background, a hazy mountain range spans the horizon, with a town or city featuring white buildings visible beneath it to the far right. The sky above is clear blue.
+
+end of description
+
+The camera slowly pans to the left and slightly pulls back from the initial viewpoint. This movement causes the dense foreground bushes on the left to recede, revealing more of the vast sandy desert and its scattered vegetation. Simultaneously, the prominent sand dune and the trees on the right move progressively further right, eventually leaving the frame. The scene continuously unfolds, revealing more of the expansive, sunlit desert landscape.
+frame_0000000128-frame_0000000256:
+From an elevated viewpoint, the first frame presents a vast desert landscape dominated by sandy terrain with scattered green bushes in the midground, extending towards a dense area of trees on the left and a prominent sand dune positioned to the viewer's right. In the far background, hazy mountains rise under a clear blue sky, with a cluster of white buildings visible to the right.
+end of description
+As the view progresses, the camera moves forward and slightly to the right, causing the large sand dune on the right to expand across the foreground, revealing more of its base and later, footprints. Concurrently, the midground green vegetation shifts left relative to the initial viewpoint, uncovering more sandy desert to its right, while the distant mountains and town also slowly pan left.

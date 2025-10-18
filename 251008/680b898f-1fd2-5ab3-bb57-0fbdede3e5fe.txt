@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+A narrow, rocky dirt path extends from the viewer's immediate foreground towards the middle distance, leading slightly left. Lush green bushes and rocky terrain flank the path on both sides, with a steep, light-colored cliff face rising on the left. To the right of the path, more green vegetation slopes down to a calm, blue body of water, beyond which distant hills and mountains are visible under a blue sky with scattered white clouds.
+end of description
+The viewer moves forward along the path. As the perspective advances, the foreground bushes and rocks on both sides recede to reveal more of the path ahead, along with new sections of the cliff face to the left and the coastline to the right, maintaining the same relative spatial arrangement.
+frame_0000000128-frame_0000000256:
+The first frame presents a rugged, unpaved path leading into the midground, framed by dense green bushes and rocks in the foreground and along its sides. To the left, a steep, vegetated rocky cliff dominates, while to the right, a wide expanse of blue water with distant hills is visible under a clear sky.
+end of description
+Subsequently, the viewpoint moves forward along the path, causing the foreground bushes to recede to the sides and revealing more of the trail directly ahead. The surrounding landscape, including the cliff to the left and the water to the right, subtly shifts as new sections of the path and its immediate vegetated borders continuously unfold directly in front of the viewer's advancing position.

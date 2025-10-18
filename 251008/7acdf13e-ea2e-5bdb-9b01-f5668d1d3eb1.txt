@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a wet asphalt road curving gently right, flanked by a guardrail, bare trees, and distant snow-capped mountains on the left, and a snow-covered bank with pine trees on the right, all under a blue sky.
+end of description
+As the viewer moves forward, the guardrail and a prominent bare tree on the left move past, revealing a wider snow-covered field and more of the distant peaks. Concurrently, the snowy bank and pine forest on the right recede, with new road markers appearing along the right edge, and the sunlight on the trees becomes more pronounced.
+frame_0000000128-frame_0000000256:
+The first frame shows a dark asphalt road stretching directly away from the viewer, marked by a white dashed center line. To the immediate right, a snow-covered incline is bordered by a dense line of tall evergreen trees extending into the background. To the left, a broader expanse of snow-covered ground precedes more trees and a large, snow-capped mountain prominently positioned in the mid-distance under a clear blue sky with sparse clouds.
+end of description
+As the perspective moves forward along the road, the snow-covered terrain and evergreen trees on both sides gradually shift past the viewer. A white and black roadside marker appears on the right, followed by a red and white marker further along the same side. Later, a white triangular warning sign mounted on posts emerges on the left side of the road, moving closer and eventually receding as the journey progresses.
+frame_0000000256-frame_0000000384:
+The first frame depicts a winter scene with a dark road extending forward, flanked by snow-covered ground; a large, snow-capped mountain and village are visible in the background-left, while a dense pine forest lines the right side.
+end of description
+As the viewpoint progresses along the road, it continuously unfurls ahead. The snow-covered mountain and village on the left recede into the background, moving gradually further left relative to the observer's forward motion. Simultaneously, new sections of the dense pine forest are revealed towards the foreground on the right, as previously viewed trees move out of frame behind the viewer. Additionally, several red and white reflective posts emerge from the middle ground on both sides of the road, approaching and then disappearing out of frame.

@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a dense forest scene with a narrow dirt path receding into the distance, flanked by lush green moss, undergrowth, and numerous tall tree trunks, including one partially visible on the far right foreground.
+end of description
+The viewpoint then continuously moves forward along the path, causing the initial foreground tree on the right to recede and move out of frame, revealing new sections of the mossy forest floor and the path ahead. As the movement continues, previously obscured trees and undergrowth further down the path become visible, shifting the entire forest scene relative to the advancing viewpoint.
+frame_0000000128-frame_0000000256:
+A narrow, leaf-strewn dirt path extends from the foreground towards the background, flanked by dense green undergrowth and moss-covered ground. Tall, slender conifer trees with dark trunks rise vertically on both sides of the path, receding into a dense forest that fills the background.
+end of description
+The viewer moves forward along the path, revealing new sections of the forest ahead and causing objects previously in the mid-background to appear closer. The path continues to wind forward as the perspective shifts, bringing more of the forest environment into the foreground.

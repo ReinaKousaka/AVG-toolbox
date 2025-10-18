@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a snow-covered, narrow alleyway, with a traditional wooden building and tiled roof on the left, and a darker structure featuring multiple illuminated rectangular lanterns and railings on the right. Straight ahead, snow-dusted stone steps ascend to a traditional wooden gate with a decorated tiled roof and a sign above it.
+end of description
+The following frames show a subtle forward movement through the alleyway; the snow-covered path and the lower sections of the adjacent buildings become more prominent as the viewpoint advances slightly towards the steps and gate, causing the lanterns on the right to appear more distinct.
+frame_0000000128-frame_0000000256:
+The first frame depicts a narrow, snow-covered alleyway with concrete steps ascending in the center, flanked by traditional buildings. On the left, a building with a tiled roof, a gas meter, and two red tubs is visible, while on the right, a darker structure with illuminated rectangular lanterns and a brown wall extends upwards. At the top of the stairs, a wooden gate with a sign in Hangul marks the path further into the snowy scene.
+end of description
+As the sequence progresses, the viewpoint moves slowly forward and subtly shifts to the right, making the immediate surroundings appear closer. This movement reveals more detail on the lower parts of the buildings, including a small white sticker with a red prohibition symbol appearing on the lower left wall. The snow on the ground and steps also becomes more detailed, reflecting the gradual forward progression.
+frame_0000000256-frame_0000000384:
+The first frame captures a snowy outdoor staircase ascending between buildings, with a brick structure featuring red tubs and a ladder on the left, and a plain light brown wall with a black panel and illuminated light fixture on the right. At the top, a traditional wooden gate leads to a building, with more traditional architecture visible beyond.
+end of description
+As the frames progress, the viewpoint subtly moves forward and slightly to the right, gradually revealing more of the wooden gate and slightly less of the brick building on the left. Concurrently, the snow on the middle treads of the concrete stairs appears to recede slightly, exposing more of the underlying concrete. The right wall and its features become marginally more prominent with the slight rightward shift.

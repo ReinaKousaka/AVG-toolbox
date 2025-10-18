@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The initial frame presents a city street with a prominent, multi-story brown building featuring a Mexican flag on the left and center. In the foreground, a white car's front is at bottom-left, while a red sedan, a white-and-pink taxi, and a scooter with a rider move away on the road, flanked by pedestrians on both sidewalks.
+end of description
+As the viewpoint moves forward and slightly right, the foreground white car exits left, an orange barrier appears bottom-left, and the central red sedan, taxi, and scooter move further right and out of frame. The large brown building becomes more central, revealing clearer crosswalk markings and a red "Official Tour" bus sign further right on the street as elements pass.

@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a wet urban street extending away from the viewer under an overcast sky, with buildings and trees lining the left side and parked cars, including a silver sedan and a black SUV, on the right. Yellow road markings are visible on the wet asphalt in the foreground.
+end of description
+Subsequent frames reveal dynamic rainfall, with distinct raindrops becoming visible on the wet road surface and cars. These active rain patterns continue throughout the sequence, and a "Rain Everyday" watermark gradually appears in the bottom-left corner of the view.
+frame_0000000128-frame_0000000256:
+The first frame shows a wet street with yellow lines, leading towards an urban area. A black SUV is parked on the right, partially hiding another car, while a potted plant sits on the left sidewalk. Ahead, buildings flank the street where parked vehicles and a yellow barrier entrance are visible under an overcast sky.
+end of description
+Subsequent frames reveal a subtle camera pan to the right and a slight zoom-out. This movement progressively reveals more of the black SUV's front right side and additional details of the sidewalk and building on the far left, while the street ahead appears to widen slightly from the initial viewpoint.
+frame_0000000256-frame_0000000384:
+The first frame displays a wet asphalt road extending into the distance under an overcast sky. To the viewer's immediate right, a dark grey car is partially visible. On the left side, a pavement features parked cars, orange bollards, a convex mirror, and multi-story buildings with various Korean signs. Further down the street, a gatehouse and barrier system are visible in the center, with more buildings and trees lining both sides of the street.
+end of description
+As the frames progress, the dark grey car on the viewer's immediate right slowly drives forward, gradually exiting the frame to the right. Concurrently, the camera subtly tracks forward with the car, causing the entire scene to shift slightly as if the viewer is moving relative to the original static elements. Raindrops continue to fall and create ripples on the wet asphalt, maintaining the overcast atmosphere. Two green potted plants, initially partially obscured behind the moving car, become fully visible on the right side of the street as the car moves past them. The barrier system in the midground remains stationary throughout.

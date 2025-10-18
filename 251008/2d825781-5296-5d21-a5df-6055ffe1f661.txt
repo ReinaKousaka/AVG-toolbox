@@ -1,0 +1,28 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a city street intersection under a cloudy sky, with two pedestrians walking away from the viewer on the right sidewalk and an empty road spanning the foreground. Historic stone buildings line the left side of the street, while a red building with 'AVENUE' visible stands on the right, and an overhead traffic light shows green.
+end of description
+The two pedestrians on the right and a lone figure on the far left sidewalk continue walking away from the viewer. In the distance, a dark car briefly appears and disappears, followed by a bus moving from right to left across the distant intersection. Concurrently, the overhead traffic light transitions from green to yellow, and then fully to red.
+frame_0000000128-frame_0000000256:
+Two individuals walk away from the viewer on a right-side sidewalk of a city street, which is lined with buildings on both sides; the building on the right is reddish-brown with "AVENUE" visible, while the left features a grey building with "MAJOR" inscribed, all under a partially cloudy sky, with a green traffic light overhead and a bus visible further down the road.
+end of description
+The two individuals continue walking further away on the right sidewalk as the overhead traffic light transitions from green to yellow, then to red. Concurrently, a third person, carrying white bags, newly appears further along the right sidewalk, walking towards the viewer.
+frame_0000000256-frame_0000000384:
+The first frame captures a city street corner with a red-brown building displaying 'AVENUE' on the right, and a street extending left where a blue bus is visible. Two pedestrians walk away from the viewer on the right sidewalk, while another person carrying a white bag walks towards the viewer further right; a green traffic light hangs above the distant intersection.
+end of description
+Subsequently, the traffic signal system ahead transitions from green to red for the main street, while a lower light turns yellow then red. The two pedestrians on the right sidewalk continue walking further away from the viewer. Simultaneously, the individual carrying the white bag moves closer from the far right, passing the two pedestrians on the sidewalk, and the blue bus drives further away on the left street. The traffic signals then revert to green.
+frame_0000000384-frame_0000000512:
+From a street corner perspective, a city street extends into the distance, with a blue bus and cars moving leftwards away from the viewer, alongside multi-story buildings. A traffic light pole with a green signal and "No Right Turn" sign is central-left, while a red-brown building labeled "AVENUE" occupies the right, where three pedestrians walk away on the sidewalk.
+end of description
+Throughout the frames, the three pedestrians on the right sidewalk steadily advance away from the viewer, as do the bus and cars on the left street. The traffic light on the pole eventually switches from green to red, indicating a change in traffic flow for the intersection in the foreground.
+frame_0000000512-frame_0000000640:
+The first frame depicts a city street corner with a sidewalk on the right, featuring three people walking away from the viewer past a street pole with a red pedestrian signal, adjacent to a large red building. On the left, a street stretches into the distance with a black car and a white car driving away, bordered by various buildings under an overcast sky.
+end of description
+As frames progress, the three individuals continue walking further along the right-side sidewalk, with the person closest to the viewer stopping briefly by the pole and turning their head left. Simultaneously, the black car and white car both advance further away down the street.
+frame_0000000640-frame_0000000768:
+In the first frame, a person wearing a black puffer jacket and beanie, holding a white tote bag, stands facing left on a sidewalk in the foreground, next to a black street pole with a red "Don't Walk" signal. To the left of the person and pole is a street with a white SUV driving away from the viewer; behind it are more buildings. To the right of the person, on the same sidewalk, two individuals walk away from the viewer, passing a red-brown building that lines the right side of the frame. In the background, tall buildings and a construction crane are visible under a cloudy sky.
+end of description
+The camera slowly zooms in and moves forward, bringing the foreground person closer and making them larger relative to the frame. Simultaneously, the white SUV on the street to the left drives further into the distance, and the two individuals on the right sidewalk also recede further away, towards the background. The background buildings appear to draw nearer, with the far left edge of the street and buildings gradually exiting the frame to the left, and the red-brown building on the right becoming more dominant.
+frame_0000000768-frame_0000000896:
+The first frame depicts a person in a black puffer jacket in the immediate foreground left, facing away from the viewer, with a traffic pole displaying a red pedestrian signal behind them. To the right, two individuals walk away from the viewer on a sidewalk, flanked by a red building with large windows on the far right. In the background left, city buildings and a construction crane are visible, with a white SUV on the street.
+end of description
+As frames progress, the foreground person moves progressively out of the frame to the left, revealing more of the street and distant buildings that were previously obscured. Simultaneously, the two walkers on the right continue moving further away from the first-frame viewpoint along the sidewalk.

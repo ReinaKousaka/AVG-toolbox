@@ -1,0 +1,16 @@
+frame_0000000000-frame_0000000128:
+A street scene features a bus stop shelter with an advertisement on the left foreground, displaying text about Christmas. To its right, a sidewalk extends into the distance, bordered by bare trees and buildings on the left, and a multi-lane road on the right. A black utility pole stands in the right foreground, while a black car moves away on the road, and traffic lights and numerous buildings line the intersection further ahead.
+end of description
+The viewpoint slowly pans to the right. The bus stop shelter on the left progressively moves out of frame, revealing more of the sidewalk and the distant left buildings. Simultaneously, the black car on the right continues moving further away, eventually exiting the frame. More of the street and buildings to the right become visible, revealing a red fire hydrant on the far right sidewalk and a white van near the intersection.
+frame_0000000128-frame_0000000256:
+The first frame depicts an urban street with a bus stop shelter and a trash can on the viewer's immediate left, bordering a sidewalk extending into the distance alongside bare trees and numerous buildings, while a multi-lane road with a black car on the right stretches into the background.
+end of description
+Throughout the subsequent frames, the black car on the road consistently moves further away from the viewer and towards the right edge of the frame. Simultaneously, a white bird emerges from the left mid-ground, flying horizontally across the scene and exiting to the right by the sixth frame. Other background vehicles also exhibit slight forward motion relative to the initial viewpoint.
+frame_0000000256-frame_0000000384:
+The first frame captures a city street scene featuring a wide sidewalk on the left, framed by bare trees and buildings, leading to an intersection in the mid-distance where a black car drives away on the right and other vehicles are visible, all beneath an overcast sky.
+end of description
+Subsequently, the black car on the right continues to move further away from the viewer, while a second black car from the mid-left crosses the intersection to the right. A large blue and white cement mixer truck then appears on the far left, behind the trees, moving towards the viewer. Simultaneously, several pedestrians walk on the sidewalk in the mid-left.
+frame_0000000384-frame_0000000512:
+In the first frame, a city street scene unfolds with a sidewalk running along the left foreground, bordered by green shrubs and bare trees. To the right, a multi-lane road features parked cars and leads to an intersection marked by traffic lights and street signs in the midground, with several buildings lining both sides of the street, including modern high-rises on the left and older brick structures on the right.
+end of description
+A large blue and white cement mixer, initially partially obscured behind the trees on the far left, slowly moves forward and to the right, entering and then crossing the intersection in the subsequent frames. Meanwhile, pedestrians walk across the street from right to left in the midground, and a black car parked on the far right edge of the road also moves forward slightly.

@@ -1,0 +1,10 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a gravel road ascending and curving gently to the right in the foreground and mid-ground, flanked by dense green trees and foliage on both sides, with a steep wooded slope rising immediately to the left. Overheard, the sky shows a mix of grey clouds and distant patches of blue, while a translucent digital overlay in the top right corner indicates speed, grade, and distance.
+end of description
+The scene dynamically progresses as the viewer moves forward along the gravel road, revealing new sections of the path ahead and causing the surrounding trees and foliage to appear closer and shift position. Concurrently, the digital overlay updates, showing the speed fluctuating from 7 to 2 then 6 KMPH, and the distance traveled increasing from 2.3 KM to 2.4 KM.
+frame_0000000128-frame_0000000256:
+A gravel road stretches directly forward from the viewer, bordered by dense green vegetation and evergreen trees on both sides, all beneath a partly cloudy sky with hints of blue. An informational overlay in the top right corner displays speed, grade, and distance data. end of description. The subsequent frames show a continuous, subtle forward movement as the road and immediate roadside vegetation advance towards and past the viewer, while the distant landscape and the overlay data remain relatively stable.
+frame_0000000256-frame_0000000384:
+The first frame displays a wide gravel road extending forward and curving gently to the left, flanked on both sides by dense evergreen forests and smaller shrubs under a cloudy sky with patches of blue. In the upper right corner, an overlay shows "SPEED 6 KM/H," "GRADE 8%," and "DISTANCE 2.4 KM," alongside a small map with a winding path.
+end of description
+As the viewer progresses through the subsequent frames, the road and surrounding vegetation advance closer, with the trees on either side appearing to move towards the edges of the frame relative to the initial viewpoint. From frame 7 onwards, the overlay indicates an increase in speed to 7 KM/H, while the grade and distance measurements remain unchanged.

@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+A dirt path stretches from the bottom center into the distance, bordered by dense green undergrowth and tall trees with varied bark textures, beneath a partly visible bright sky. A dark marker post with a light square faces the viewer from the left side of the path in the mid-foreground.
+end of description
+The viewpoint steadily advances along the path, causing the marker post to recede from the left and eventually pass behind the first-frame viewpoint. Trees that were initially in the mid-ground move progressively closer, while new sections of the path are revealed ahead, replacing the earlier foreground.

@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a cobblestone street extending into the distance, flanked by buildings. To the viewer's left, a multi-story building with white walls, dark timber framing, and red shutters is visible. Centrally, a large stone tower with a pointed reddish-brown roof, a clock face, and a prominent archway at its base stands further down the street. To the right, a dark purple car is parked in the foreground, with several other cars behind it, alongside a building featuring shopfronts, flower boxes, and a sign reading "GESCHENKHAUS REIMER." Beyond the parked cars, red umbrellas and outdoor seating are visible near the tower's archway.
+end of description
+No dynamic changes, newly revealed objects, or scenes are observed across the subsequent frames, as all images appear identical to the first frame.

@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a narrow city street with buildings lining both sides under an overcast sky. In the foreground, a dark red compact car is parked on a raised sidewalk to the immediate left, followed by a white Audi sedan on the street. Further down the street on the right, a white SUV and other dark cars are parked, with a red traffic cone near them. A cream-colored building with a large glass window showing an interior scene is on the left, while other colorful buildings extend into the background.
+end of description
+The following frames present an almost entirely static scene, showing no dynamic changes or newly revealed objects or scenes within the environment relative to the first-frame viewpoint. A "SEOUL WALKER" watermark appears in the bottom-left corner of the frame starting from the fourth image.
+frame_0000000128-frame_0000000256:
+The first frame shows a paved street extending into the background, bordered by buildings and parked vehicles. On the left foreground, a dark red compact car is parked on the sidewalk, followed by a white Audi sedan. Behind these cars, a white building with large windows reveals a blurry interior scene. Further down the street on the right, multiple cars are parked, including a black sedan partially hidden by an orange traffic cone, and a white SUV in front of a dark grey building with a distinct white facade design.
+end of description.
+No dynamic changes or newly revealed objects or scenes occur in the subsequent frames; all frames depict an identical static street view from the first-frame viewpoint.

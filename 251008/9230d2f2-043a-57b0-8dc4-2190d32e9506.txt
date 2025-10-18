@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+In the first frame, a dark brown wooden house exterior with festive winter decorations fills the view. To the viewer's left, a log bench adorned with a white lantern and small figures sits on the snowy ground. Centered on the house wall is a light wooden door with a small window, flanked by a smaller window to its left and a dark brown support post to its right. Above the door, a balcony railing with decorative planters containing colorful figures is visible, while an ascending dark brown wooden staircase occupies the right side of the frame, leading to an upper level. Beyond the house on the far right, a snowy mountain landscape is visible.
+end of description
+Throughout the subsequent frames, a black and white umbrella slowly slides downwards from its initial position hanging on the support post to the right of the front door. The umbrella continues its descent, progressively obscuring the small red and white decorative figures placed near the potted plant on the ground until it mostly rests behind them.
+frame_0000000128-frame_0000000256:
+The first frame shows the dark brown wooden facade of a chalet with a light brown door and a small window to the left, and a decorated wooden staircase ascending to the right, all above a snow-dusted ground.
+end of description
+The camera slowly pans right, progressively revealing more of the snow-covered mountain landscape and a wooden fence post appearing further to the right of the initial scene. Consequently, the front door and left side of the house gradually move towards the left edge of the frame.

@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+First frame shows a wet, paved pathway receding into a hazy distance, flanked by dense green bushes and trees on both sides. On the left, several dark tree trunks rise behind the foreground bushes, while on the right, a grassy slope ascends behind lighter green foliage.
+end of description
+Throughout the subsequent frames, visible rain falls *into* the scene from above, impacting the wet pathway and foliage on both sides, creating subtle ripples and streaks that dynamically appear and disappear across the fixed landscape.
+frame_0000000128-frame_0000000256:
+The first frame displays a wet, tiled pathway stretching from the viewer into a misty background, bordered by dense green hedges on both the left and right sides. Beyond the hedges, patches of green grass and taller trees are visible, particularly on the right side in the midground. The distant background appears hazy and obscured.
+end of description
+Throughout the subsequent frames, the most prominent dynamic change is the intensification of rainfall. Initially light, distinct vertical streaks of rain become increasingly visible falling across the entire scene, impacting the pathway and surrounding foliage directly in front of the viewer. The wetness and reflectivity of the pathway remain constant, and a few small, dark leaves appear scattered on the path directly ahead.
+frame_0000000256-frame_0000000384:
+The first frame presents a wet, block-paved pathway receding into a misty distance, flanked on both sides by dense green bushes. Tall trees are discernible beyond the right bushes, while the background appears hazy under an overcast sky with visible rain streaks across the scene. A 'Rain Everyday' logo is situated in the bottom left corner.
+end of description
+Throughout the sequence, rain consistently falls, maintaining the wet appearance of the pathway and surrounding foliage. From frame 5, a black pole emerges from the top left corner, positioned beyond the left bush relative to the viewer. By frame 8, white outdoor exercise equipment becomes visible in the misty far background, situated to the left of the path.

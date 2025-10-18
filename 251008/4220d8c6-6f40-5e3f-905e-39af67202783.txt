@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a person wearing a backpack, walking away from the viewer on a sun-dappled dirt path that extends into a dense, verdant forest. Lush green foliage and tall trees completely surround the path on both sides, with sunlight filtering through the canopy.
+end of description
+In the following frames, the person continues walking forward, progressively receding further along the path as their legs move. The viewpoint subtly tracks the individual, maintaining a similar distance as they proceed deeper into the consistent forest scene, revealing no new objects or areas.
+frame_0000000128-frame_0000000256:
+A dirt path extends from the bottom center into the midground, flanked by dense green vegetation including ferns and bushes. A person wearing a blue cap, grey shirt, and a backpack walks away from the viewer on the path, slightly right of center. The path leads into a lush forest with tall, moss-covered trees on both sides, with a bright light source visible through the canopy in the distant center.
+end of description
+The person continues walking forward along the path, receding further from the initial viewpoint. As they advance, the dense foliage on both sides gradually shifts, revealing more of the forest floor and previously obscured tree trunks, notably a large moss-covered trunk appearing closer to the viewer's right. In the distance, a large fallen log or root structure becomes increasingly visible to the right of the path.

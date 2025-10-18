@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a view down a sun-dappled dirt path winding into a dense green forest, slightly curving to the right in the distance. Lush green foliage, trees, and undergrowth flank both sides of the path, with multiple tall tree trunks prominent to the viewer's right and overhead canopy allowing glimpses of a bright sky.
+end of description
+The viewpoint slowly advances forward along the path, causing the immediate foreground trees and foliage to move closer and then pass to the left and right, while the distant forest continues to recede ahead. No new objects or scenes are revealed, as the perspective consistently tracks along the existing trail.
+frame_0000000128-frame_0000000256:
+The first frame depicts a sun-dappled forest path stretching into the distance. A brown dirt path occupies the lower center, receding towards a brighter opening visible in the midground. Dense green foliage from numerous trees forms a lush canopy overhead and lines both sides of the path, with prominent tree trunks positioned to the right of the viewer and a wall of slender trees to the left, all surrounded by vibrant undergrowth.
+end of description
+The camera slowly moves forward along the path, advancing towards the brighter opening previously observed in the distance. As the viewer progresses, the path gradually appears closer, and the surrounding dense foliage on either side of the original viewpoint subtly shifts, revealing more of the deeper forest ahead. The patterns of dappled sunlight on the path dynamically change, reflecting the continuous forward motion through the tree canopy.

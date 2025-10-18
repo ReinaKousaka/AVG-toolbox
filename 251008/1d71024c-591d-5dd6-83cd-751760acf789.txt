@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a multi-lane city road extending forward between tall buildings, with vehicles including cars and motorcycles in the foreground and midground. The "PLATINUM FASHION MALL" dominates the right side, while dense wires hang above the left-side buildings, all beneath a hazy, pale sky.
+end of description
+As the viewpoint advances, a motorcycle travels from the viewer's immediate front-right lane towards the center and forward, while a large billboard on the left side of the road in the mid-distance illuminates with a red display. New striped road barriers emerge on the left side of the central median.
+frame_0000000128-frame_0000000256:
+The first frame positions the viewer on a multi-lane road, looking ahead at a motorcyclist and a distant truck, with tall city buildings ascending on both sides; to the left, billboards and lower street traffic are visible, while a reflective skyscraper with palm trees dominates the right, all beneath a vast sunset sky.
+end of description
+Subsequently, the viewer's forward movement causes the motorcyclist and truck to advance closer within the central road, while the surrounding city environment recedes laterally. This progression reveals more of the lower street level on the left, including additional buildings and passing vehicles, and briefly shows a white van moving past on the right side of the road, all observed shifting backward relative to the initial viewpoint.
+frame_0000000256-frame_0000000384:
+A multi-lane city road with side barriers extends away from the viewer towards a city skyline featuring diverse skyscrapers, notably a pointed central one, and a large building on the left displaying "PALLADIUM" and a red digital billboard, while a truck and motorcycle move forward in the distance.
+end of description
+The viewer's perspective advances along the road, causing a street light pole to pass by on the viewer's right. Subsequently, a dark gray car enters from the viewer's right, moves alongside, and then proceeds ahead in the right lane, while the red digital billboard on the left updates its advertisement.

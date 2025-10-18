@@ -1,0 +1,30 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a narrow, reddish-brown dried grass path leading away from the viewer into the midground, flanked by tall grasses of similar color, some featuring prominent white plumes. To the viewer's left, green and hints of reddish-autumn foliage form a dense border, while a solid wall of dark green coniferous trees occupies the background under an overcast sky.
+end of description
+As the frames progress, the viewpoint moves forward along the path, causing the immediate foreground grasses to recede while new, similar grasses emerge directly ahead. The path itself becomes more defined beneath the advancing viewpoint, and the coniferous forest in the background appears to draw slightly closer.
+frame_0000000128-frame_0000000256:
+A dirt path extends from the viewer into the distance, flanked by fields of tall, reddish-brown and golden grasses with pale feathery plumes, leading towards a dense dark green forest in the background under a pale sky.
+end of description
+Throughout the subsequent frames, the tall grasses and their feathery plumes on both sides dynamically sway, indicating wind. A reddish-leafed bush or tree on the mid-left side behind the initial foliage becomes slightly more distinct, while the overall scene and the viewpoint remain largely static.
+frame_0000000256-frame_0000000384:
+A narrow dirt path, flanked by tall reddish-brown and golden-hued dried grass, extends from the viewer into the distance at the center. The dense field of grass dominates the foreground and midground, with some feathery white stalks visible in the upper left and right. Further back on the left, there's green and reddish foliage, including a tree with red leaves, while a thick line of dark green trees forms a forest wall across the background beneath an overcast sky.
+end of description
+The viewpoint steadily advances forward along the path, moving deeper into the scene. The immediate foreground grass and foliage on both sides of the path recede and enlarge as they pass by, moving towards the bottom and sides of the viewer's perspective. Simultaneously, previously distant sections of the path and the background forest progressively appear closer and more detailed as the camera approaches them.
+frame_0000000384-frame_0000000512:
+The first frame shows a narrow, unpaved path leading into the distance, flanked by fields of tall, reddish-brown and golden dried grass extending to the viewer's left and right. In the background, a dense line of dark green conifer trees forms a forest edge, with a smaller cluster of trees exhibiting autumn foliage to the far left.
+end of description
+The provided frames are identical, showing no dynamic changes, movement, or newly revealed objects or scenes from the first-frame viewpoint.
+frame_0000000512-frame_0000000640:
+A narrow, unpaved path stretches into the distance from the viewer's immediate foreground, receding towards the center. Tall, reddish-brown and golden grasses densely flank both sides of the path, extending to the midground and occupying most of the lower frame. In the background, a line of dark green conifer trees forms the horizon, with some red and orange autumn foliage visible among trees on the far left.
+end of description
+There are no dynamic changes or newly revealed objects in the subsequent frames; all frames appear identical to the first.
+frame_0000000640-frame_0000000768:
+The first frame presents a narrow dirt path receding from the viewer into the center distance, bordered on both sides by extensive fields of tall reddish-brown grasses. In the background, a dense line of dark green trees forms a forest, with a tree featuring red and green autumn foliage visible to the far left.
+end of description
+Throughout the following frames, the camera's viewpoint remains essentially static relative to the first frame, showing no newly revealed objects or scenes. The only dynamic change observed is the subtle swaying of the tall reddish-brown grasses on either side of the path, suggesting a gentle breeze.
+frame_0000000768-frame_0000000896:
+In the first frame, a narrow, unpaved path extends from the viewer's foreground into the distance at the center, flanked by dense, tall reddish-brown and golden grasses on both sides. In the background, a thick line of dark green conifer trees stretches across the upper half of the frame, and to the viewer's far left, deciduous trees display vibrant red and orange autumn foliage.
+
+end of description
+
+All subsequent frames are identical to the first; there are no dynamic changes or newly revealed objects or scenes from the first-frame viewpoint.

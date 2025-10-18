@@ -1,0 +1,32 @@
+frame_0000000000-frame_0000000128:
+A paved path with a red stripe on its left edge extends from the viewer into the distance, flanked by a dense forest on the left and calm water with a city skyline and moored sailboats on the right. Two people walk away from the viewer on the path, while another person sits on the concrete barrier separating the path from the water on the right.
+end of description
+In subsequent frames, the two individuals on the path continue walking further away from the viewer, receding into the midground-left portion of the path. Concurrently, the person seated on the right barrier moves further to the right, eventually exiting the frame from the right side.
+frame_0000000128-frame_0000000256:
+The first frame captures a scenic waterfront pathway. To the viewer's left, a dense line of green trees and foliage borders a paved path, marked with a red stripe, that extends into the distance. Two individuals walk away from the viewer on this path, one in lighter attire to the left and another in darker clothing to the right. To the right of the path, a concrete barrier separates it from a calm body of water that reflects a distant cityscape of numerous tall buildings and numerous sailboats docked along the shore, all under a clear blue sky.
+end of description
+In the following frames, the two individuals continue walking along the paved path, progressively moving further into the distance from the viewer. The person on the right briefly pauses, bending down slightly, before resuming their walk alongside their companion. No new objects or scenes are revealed; the background elements, including the trees, the placid water with its docked boats, and the cityscape, remain consistently visible relative to the initial viewpoint.
+frame_0000000256-frame_0000000384:
+A paved pathway with a red stripe on its left edge extends from the bottom left, bordered by green trees and bushes on the left, and calm blue water with moored sailboats and a distant city skyline reflecting in it to the right. Two men walk on the path, moving away from the viewer into the midground.
+end of description
+The two men turn and begin walking towards the first-frame viewpoint, gradually moving closer and larger within the frame. A small, light-colored dog and a person trailing behind it emerge further down the path, approaching the first-frame viewpoint from the distant background. The first two men eventually pass the original viewpoint, exiting the frame to the left. The dog and the trailing person continue to advance towards the initial viewpoint on the path.
+frame_0000000384-frame_0000000512:
+In the first frame, a paved pathway, marked with a red stripe, stretches from the bottom left foreground, curving into the midground toward the center-right. To the viewer's immediate bottom-left, a partial view of a person's grey sleeve is visible. Along the path's left side, a dense line of lush green trees and bushes forms a natural barrier. Further down the path, in the midground, a lone person walks away from the viewer. To the path's right, a low concrete retaining wall separates it from a calm body of water that reflects the distant cityscape and blue sky. Across this water, numerous sailboats and yachts are moored in a marina, backed by a sprawling cityscape of tall buildings and skyscrapers against a clear blue sky.
+
+end of description
+
+As the frames progress, the viewpoint steadily moves forward along the path. The person walking ahead gradually recedes further into the distance, maintaining their position relative to the viewer. The trees and bushes flanking the left side of the path continuously pass by the viewer's left. The tranquil water, marina, and the prominent cityscape across the water remain consistently on the viewer's right, appearing to draw slightly closer as the perspective advances.
+frame_0000000512-frame_0000000640:
+In the first frame, a paved path with a red stripe extends from the bottom left, curving right, bordered by dense green trees on the left and a concrete edge with calm water on the right. A person walks away from the viewer along the path, adjacent to a marina filled with sailboats whose reflections, along with a distant city skyline of tall buildings, are visible in the tranquil water under a clear blue sky.
+end of description
+In subsequent frames, the person continues walking further away along the path, receding into the distance while the surrounding landscape and cityscape remain static relative to the first-frame viewpoint.
+frame_0000000640-frame_0000000768:
+In the first frame, a paved pathway with a red border on its left edge extends from the viewer's foreground, curving gently left towards the mid-ground. To the immediate left of this path, a dense line of lush green evergreen trees and foliage runs parallel from foreground to mid-ground. To the right of the path, a calm body of water stretches from the mid-ground to the distant background, reflecting a prominent city skyline visible across it to the right, filled with numerous tall buildings and many sailboats docked along the waterfront. A person is seen walking away from the viewer on the path in the mid-ground, under a clear blue sky in the upper right.
+
+end of description
+
+No dynamic changes or newly revealed objects occur in the subsequent frames; the scene remains static.
+frame_0000000768-frame_0000000896:
+The first frame shows a paved path curving to the left from the foreground, bordered by lush green trees and bushes on the left side. To the right of the path, a calm body of water displays numerous sailboats and a vibrant city skyline beyond them, with both reflected in the water; a lone person walks away from the viewer along the path, near the water's edge.
+end of description
+In subsequent frames, the person continues walking further away from the viewer along the path, moving towards the background right. No other dynamic changes or new objects are revealed relative to the first-frame viewpoint.

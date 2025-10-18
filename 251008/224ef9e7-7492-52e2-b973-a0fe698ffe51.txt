@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a rainy night street scene with a wet road reflecting city lights. To the foreground right, a tree trunk stands beside a black trash can and green bins; across the road, parked vehicles including a silver SUV, a scooter, bicycles, and a white van line the sidewalk, behind which illuminated storefronts are visible, with a red car receding in the far right distance.
+end of description
+The sole dynamic change observed is the red car, initially visible in the far-right distance, which progressively moves further away from the viewer and completely disappears from the frame by the fourth image.
+frame_0000000128-frame_0000000256:
+The first frame depicts a wet urban street at night, with heavy rain falling. A large tree trunk occupies the right foreground, partially obscuring the view, with a black trash bin below it. Across the street, brightly lit buildings with storefronts are visible, with a gray SUV parked on the far left and a white van further right in the midground.
+end of description
+Rain continues throughout the frames. A white car with illuminated red taillights enters the scene from the far right, moving leftward across the midground street. It proceeds past the white van and eventually passes partially behind the foreground tree trunk. As the viewpoint subtly shifts rightward, a blue object and a street sign become visible on the right sidewalk, positioned beyond the tree trunk.
+frame_0000000256-frame_0000000384:
+The first frame shows a rainy night street scene with a wet asphalt road reflecting city lights. On the right, a grey pole with a sign stands next to a yellow curb, behind which a silver car with illuminated brake lights is on the wet road, with some items on the curb. To the left, a white SUV is parked near illuminated storefronts and street trees, with a scooter and bicycles on the sidewalk.
+end of description
+In subsequent frames, the silver car on the right moves forward and turns slightly right, away from the first-frame viewpoint. Concurrently, a tree trunk, initially partially visible on the far right, gradually becomes more prominent from the right, increasingly obscuring the pole and the moving car. Throughout the sequence, the white SUV, scooter, and bicycles on the left remain stationary as the rain persists.

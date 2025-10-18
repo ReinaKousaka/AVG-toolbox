@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+A person holding a black umbrella is partially visible in the near foreground, moving right, alongside a black metal railing and a wet sidewalk. In the midground, a yellow van heads right and a white SUV left, with a central pole displaying a 'no entry' sign and red traffic lights, while pedestrians with umbrellas are further down the street.
+end of description
+Subsequently, the person and yellow van exit right, revealing two gray trash bins behind the railing and a white delivery truck with red accents emerging from the left. This delivery truck then exits right as a white compact car enters from the left, proceeding across the intersection and briefly obscuring the trash bins, while the leftmost traffic light cycles between red and yellow.
+frame_0000000128-frame_0000000256:
+A rain-soaked urban intersection is viewed from a sidewalk on the right, revealing a white car turning left across a zebra crossing in the midground, surrounded by traffic poles, orange cones, and distant buildings under an overcast sky.
+end of description
+The white car proceeds further left across the intersection and exits the frame, during which the traffic light on the left changes from red to green, then yellow. Subsequently, a black car enters from the left side of the first-frame viewpoint, crosses the intersection rightward, and exits the frame to the right. Following this, a silver car appears further back on the left, moving in the same direction.

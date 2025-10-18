@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a bustling city street scene with the back of a person in a denim jacket in the immediate foreground-right, facing left. Ahead and to the left, numerous pedestrians are crossing a zebra-striped street towards a prominent building featuring 'BVLGARI' signage and gold grilles on its mid-right facade, flanked by other city buildings and a green traffic light in the background.
+end of description.
+Throughout the frames, these pedestrians continuously move from the right side of the street to the left across the crosswalk, progressively shifting their positions to the left relative to the viewer's initial viewpoint. The foreground person on the right and the BVLGARI building in the background remain largely stationary.

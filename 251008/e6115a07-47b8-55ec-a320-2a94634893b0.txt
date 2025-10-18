@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+In the first frame, a man in black walks across green grass from left to right in the foreground, pointing his right arm towards a distant hillside residential area featuring houses and lush trees, visible beyond a black horizontal fence in the midground. A bare-branched tree stands on the far left, another on the far right, and a small drone hovers in the sky above the man.
+end of description
+Subsequently, the man turns to face the viewer from a more central position, spreading his arms wide, then lowering them to a relaxed stance, while the background scenery and drone remain unchanged relative to the first-frame viewpoint.
+frame_0000000128-frame_0000000256:
+A man in a dark suit stands centrally on a grassy slope, facing the viewer, with a bare-branched tree to his right and a sprawling residential landscape on distant hills visible behind a dark fence.
+end of description
+The man briefly shifts his gaze to his left before turning back to the viewer. He then extends both arms wide to his sides, gesturing towards the view behind him, subsequently lowering them. In the final frames, he points his left index finger forward and slightly down.

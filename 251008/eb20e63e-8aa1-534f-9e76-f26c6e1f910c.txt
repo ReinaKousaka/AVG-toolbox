@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame captures a forward-looking perspective on a paved mountain road, with a steep, rocky cliff face partially covered in green foliage rising immediately to the viewer's left. To the right, a metal guardrail runs alongside the road, beyond which a rocky stream bed with some water is visible, backed by another rugged, vegetated mountain face, all under a bright sky with distant towering peaks. The road ahead curves slightly left, marked by a solid white line on the right shoulder and broken white lane lines.
+end of description
+As the frames advance, the viewpoint moves forward along the road, causing the guardrail and immediate roadside scenery to smoothly pass by and recede behind the viewer. Shadows from overhead objects dynamically sweep across the road surface, indicating passage beneath intermittent foliage. This continuous motion progressively reveals new sections of the winding mountain valley ahead, maintaining the overall spatial relationship of mountains flanking the road.
+frame_0000000128-frame_0000000256:
+The first frame depicts a two-lane road extending into a mountain valley, bordered by a rocky cliff face on the left and a metal guardrail with a visible stream on the right. Lush, green mountains rise in the mid-ground and background under a clear blue sky, with shadows cast across the asphalt road.
+end of description
+The viewpoint moves steadily forward, causing the road's dashed lines and the guardrail on the right to progress from the mid-ground towards the foreground. A telephone pole, initially visible in the mid-ground to the right, steadily approaches the viewer as the perspective advances deeper into the valley.
+frame_0000000256-frame_0000000384:
+A gray asphalt road stretches away from the viewer into a valley, flanked immediately on the left by a steep rocky mountain face and on the right by a metal guardrail alongside a grassy slope. Further down the road, a wooden utility pole stands on the right, with majestic mountains receding into the distance under a clear blue sky.
+end of description
+The scene depicts continuous forward motion along the road, causing the white road markings, the metal guardrail, and the utility pole to progressively move from the background past the viewer. Concurrently, the rugged mountain slopes on both sides and tree shadows on the asphalt continuously pass by, indicating steady progression through the winding mountain pass.

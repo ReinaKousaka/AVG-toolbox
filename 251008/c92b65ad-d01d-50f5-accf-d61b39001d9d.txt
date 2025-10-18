@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a city street with a light grey tiled sidewalk in the foreground, transitioning to cobblestones and asphalt further back. A modern red and white building runs along the left, while a historic red brick building with a curved facade and an 'HMK' sign stands prominently on the right. A black lamppost, construction barriers on the left sidewalk, and a partially visible dark car on the far left are present, along with a person walking away from the viewer on the sidewalk near the brick building.
+end of description
+The person on the sidewalk continues to walk away from the viewer, moving past the brick building and eventually exiting the scene towards the background right. Subsequently, a silver car appears from the far right of the frame, driving away from the viewer on the street adjacent to the brick building.
+frame_0000000128-frame_0000000256:
+The first frame depicts a city street with a large modern building with red and white panels on the left, extending into the background, and a paved sidewalk. In the foreground are cobblestones and a manhole cover. To the right, a two-story brick building with rounded corners and multiple windows, marked "HMK", stands next to a paved road where a silver car is partially visible on the far right.
+end of description
+Chronologically, the silver car on the right moves left across the street, eventually revealing a green scooter that appears behind its initial position to the far right. A person simultaneously emerges on the sidewalk near the brick building, walking towards the viewer, while a dark car in the distant background on the left street also advances slightly.

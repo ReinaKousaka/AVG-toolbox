@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+An aerial view captures a vibrant blue-green ocean with white-capped waves crashing around several large, dark rock formations (sea stacks) in the foreground and mid-distance. Behind these, a wide sandy beach extends horizontally, meeting a lush green coastline dotted with residential buildings and trees in the background, all under a clear sky. A "Scenic Relaxation" watermark is visible in the bottom left.
+end of description
+Throughout the frames, the ocean waves continuously churn and crash against the sea stacks and the sandy shore directly in front of the viewer, with white foam constantly receding and advancing. Simultaneously, the camera performs a very subtle zoom-out or slow backward movement, causing the entire coastal landscape to gradually appear marginally smaller, slightly expanding the visible expanse of ocean in the immediate foreground, directly below the original viewpoint.
+frame_0000000128-frame_0000000256:
+The first frame presents an aerial view of a coastline featuring a dark green ocean with white-capped waves and numerous dark rock formations (sea stacks) in the foreground and midground, with a sandy beach stretching towards a green cliff line populated with houses and trees in the background.
+end of description
+Initially, a transparent overlay briefly obscures the scene. Subsequently, the camera's viewpoint shifts, moving closer and tilting downwards, focusing solely on the large rock formations that were previously in the first-frame's foreground. The earlier visible beach and coastline are now effectively *above and behind* this new, closer perspective, as the waves dynamically interact with the rocks.
+frame_0000000256-frame_0000000384:
+The first frame displays a top-down view of a green-blue ocean where two prominent, jagged brown sea stacks stand; the larger one occupies the foreground slightly right of center, with another behind and to its left amidst crashing white waves. "Scenic Relaxation" is textually present at the bottom-left.
+end of description
+The camera gradually zooms out and pans slightly left, revealing more of the vast ocean and additional incoming waves from the far left relative to the initial view, as the sea stacks subtly shift towards the center-right. Throughout the sequence, waves continuously surge and recede, with a particularly large, foamy wave advancing from the left and crashing against the sea stacks, generating significant white foam in the center-right.

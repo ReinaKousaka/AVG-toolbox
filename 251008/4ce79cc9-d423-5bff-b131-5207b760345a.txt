@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+A wet, rainy urban street extends into the distance, flanked by multi-story commercial buildings on both sides; a person with a black umbrella walks away on the right sidewalk, while several cars move down the road ahead of the viewer in the midground, and utility poles with signs stand on the right.
+end of description
+The pedestrian and existing cars continue to move further away, as a dark gray sedan newly emerges from the viewer's immediate left in the foreground, traversing the road towards the right and slightly away from the viewer.
+frame_0000000128-frame_0000000256:
+In the first frame, a dark gray car occupies the immediate foreground to the left of the viewer, with a wet city street extending into the distance where buildings, other cars, and a person walking away with a black umbrella on the right-hand sidewalk are visible next to a utility pole.
+end of description
+The foreground dark gray car gradually moves out of frame to the left, progressively revealing more of the wet street and a bike lane. Simultaneously, the person with the umbrella continues walking further down the sidewalk away from the first-frame viewpoint. A silver car then enters the midground from the left and proceeds down the street, while other vehicles also advance further into the background.

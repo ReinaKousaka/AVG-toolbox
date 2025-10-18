@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a wet city street at night, reflecting colorful neon lights from tall buildings on the right and a large LED screen on a prominent building to the left, which shows two red hearts. Several cars are visible on the street in the foreground and midground, some moving away from the viewer on the left lanes and others approaching in the right lanes.
+end of description
+In subsequent frames, the LED screen on the left building dynamically changes its display from hearts to three stylized figures with sad faces, then progressively reveals Korean text "우리모두" across the same screen. Simultaneously, a green bus emerges from the left midground, moving along the street towards the background, while other vehicles on the wet road in the foreground and midground continue their motion. The reflections of city lights and vehicle headlights on the wet asphalt in front of the viewer continuously shift and ripple.

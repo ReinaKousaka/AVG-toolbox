@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame presents an aerial view of a vibrant landscape. To the left, a large, clear turquoise lake dominates, its shoreline featuring lighter green and yellow hues. Running diagonally through the center, a paved road with white dashed lines separates the lake from a dense forest occupying the right side of the frame, showcasing various shades of green, yellow, and red foliage. A dark-colored car is visible on the upper-left section of the road, close to the lake.
+end of description
+As the frames progress, the viewpoint slowly pulls back and slightly upward, gradually revealing more of the landscape. The lake extends further into the upper-left, where a bridge and distant structures become visible. Concurrently, the forest area on the bottom-right expands, showing more of its dense greenery. A person emerges and walks along the right side of the road, moving towards the upper-left portion of the frame.
+frame_0000000128-frame_0000000256:
+An aerial view presents a vibrant blue-green lake occupying the left half of the frame, bordered by a narrow strip of green shoreline with rocks. A two-lane road runs diagonally from the lower-right towards the upper-left, parallel to the lake, with a dark car parked on its left shoulder in the upper-middle section. To the right of the road, a dense forest with diverse green and yellow foliage stretches from the foreground to the background. In the upper-left distance, houses and white boats are visible along the far edge of the lake.
+end of description
+The camera's viewpoint remains static throughout the sequence. The dark car, initially parked on the road's left shoulder, begins moving forward along the road. It steadily progresses from its initial mid-frame position towards the upper-left of the first-frame viewpoint. The car passes over a small bridge section mid-way along the visible road segment, continuing its journey further into the distance.
+frame_0000000256-frame_0000000384:
+An aerial view presents a bright blue lake on the left with several white boats anchored in its upper part, bordered by a road on the right which separates it from a dense green forest, with a dark car parked on the road's shoulder in the mid-frame.
+end of description
+Following this, the dark car begins to move forward along the road, steadily progressing away from the viewer in successive frames.

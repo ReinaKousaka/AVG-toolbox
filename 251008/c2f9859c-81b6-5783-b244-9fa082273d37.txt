@@ -1,0 +1,31 @@
+frame_0000000000-frame_0000000128:
+A paved road stretches into the distance centrally, flanked by a steep green grassy hill ascending to the left and a lower grassy area with scattered trees on the right, which reveals a distant lake and mountains. The sky overhead is partly cloudy with patches of blue, and a house is visible on the hillside to the upper left. A low rock barrier lines the bottom left edge of the frame.
+end of description
+As the viewpoint progresses forward along the road, elements in the immediate foreground, like the rock barrier on the bottom left and a manhole cover on the road, emerge from below and then recede behind the viewer's initial position. Simultaneously, new sections of the grassy slope to the left and wooden fence posts on the right are continuously revealed ahead, progressively shifting closer to the viewer's initial position before moving past it. The distant lake and mountains maintain their overall relative position, indicating steady forward motion through the scene.
+frame_0000000128-frame_0000000256:
+The first frame displays a paved road extending from the foreground into the distance, flanked on the left by a steep, lush green hillside featuring a stone retaining wall at its base and a distant house higher up. To the right, a gentler grassy slope with a wooden fence and scattered trees parallels the road, while distant mountains and a cloudy blue sky complete the scenic view.
+end of description
+As the viewer moves forward, the stone wall and lower sections of the left hillside, initially ahead on the left, appear to move closer and then pass alongside. Similarly, the fence and trees on the right, initially ahead on the right, continuously shift from being ahead to moving past the viewer's right side, with the distant mountains and sky maintaining their overall background presence.
+frame_0000000256-frame_0000000384:
+The first frame presents a paved road extending forward, flanked by a steep green grassy hill on the left with a stone retaining wall at its base, and a gentler grassy slope with a wooden fence on the right. Further up the left hill, a white house is visible behind two trees, while more trees line the right side, all set against distant mountains and a sky partially covered by large white clouds.
+
+end of description
+As the viewpoint moves forward along the road, new sections of the road, the stone wall to the left, and the fence posts on the right are continuously revealed, having been ahead of the initial viewpoint. Simultaneously, the house and trees on both sides recede further into the distance relative to the moving observer, while the distant mountains remain largely static as the scene progresses.
+frame_0000000384-frame_0000000512:
+The initial frame depicts a paved road extending forward, flanked by a steep, grassy hillside on the left and a gentler slope on the right. A house and two trees are visible on the upper left hillside, while fence posts and distant trees line the right. Far ahead, mountains rise under a sky filled with white clouds and blue patches.
+
+end of description
+
+As the camera moves forward, the house and initial trees on both the left and right sides recede and exit the frame. The immediate left hillside's rocky base becomes more prominent, and a large body of water with additional distant mountains is progressively revealed ahead and to the right of the road.
+frame_0000000512-frame_0000000640:
+From the viewer's perspective, a paved road extends forward, slightly uphill and curving gently right. To the immediate left, a steep green grassy hillside with a stone retaining wall rises, featuring two large, leafy trees. Further up and behind the second tree on the left hillside, a building's roof and upper section are partially visible. On the right, a grassy verge with fence posts leads to more trees, and a distant lake with mountains is visible under a partly cloudy sky.
+end of description
+As the frames progress, the viewpoint moves forward along the road. Objects on the left, like the stone retaining wall and the initial grassy hillside, move further to the viewer's left and slightly behind the first-frame position. The prominent tree on the left of the road appears to be passed, moving upwards and to the left of its initial frame position. A house, barely visible behind the tree in the first frame, becomes more fully revealed and moves to the upper left as the viewer approaches and passes it. On the right side, the fence posts move towards the viewer's right and behind the initial viewpoint as the scene progresses.
+frame_0000000640-frame_0000000768:
+The first frame shows a paved road curving slightly rightward into the distance, with a steep, grassy hillside to the left featuring a large tree and houses further up, and a gentler grassy slope to the right dotted with fence posts and trees. Beyond the right slope, a lake is visible in the mid-ground, backed by mountains in the far distance, all under a sky filled with white clouds and blue patches.
+end of description
+As the frames progress, the viewer moves forward along the road; the prominent tree on the upper left gradually moves out of view. Simultaneously, more of the houses on the left hillside and additional distant lake and mountain scenery to the right become visible, revealing more of the path ahead.
+frame_0000000768-frame_0000000896:
+The first frame displays a paved road stretching into the distance, gently curving to the right. To the left, a steep, vibrant green hillside rises, dotted with several buildings, including a prominent structure with a red roof, all set against a backdrop of distant mountains under a partly cloudy sky. On the right, a lower grassy bank with trees borders a serene body of water, beyond which additional mountains are visible on the horizon.
+end of description
+As the frames advance, the viewpoint moves forward along the road; the road's immediate foreground recedes, and the grassy areas on both sides gradually move further down the frame. Concurrently, the buildings on the left hillside and the white stone posts along the right side of the road appear to approach the viewer, steadily shifting upwards in the frame, signifying continuous forward motion through the scenic mountain landscape.

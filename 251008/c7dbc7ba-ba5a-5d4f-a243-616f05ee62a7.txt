@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a gravel path extending directly ahead into a dense, verdant forest, flanked by rich green foliage and trees on both sides, with sunlight filtering through the canopy above. The path appears to curve gently to the right in the mid-ground, leading deeper into the lush environment.
+end of description
+As the viewpoint moves forward, the dense vegetation initially flanking the viewer on both sides recedes. New sections of the gravel path are continuously revealed directly ahead, progressively extending deeper into the forest from the first-frame viewpoint. The winding nature of the path and the surrounding greenery dynamically unfold with each advancing step.

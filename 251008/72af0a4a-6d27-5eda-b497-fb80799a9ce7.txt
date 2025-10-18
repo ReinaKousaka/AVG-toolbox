@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+A dirt path recedes into a dense evergreen forest with tall trees on both sides and an embankment covered in ferns to the right, while sunlight filters through the canopy overhead and a large tree trunk occupies the far left foreground.
+end of description
+The viewpoint steadily moves forward along the path into the forest, with trees and foliage continuously shifting as new sections of the trail are revealed ahead. A small yellow object briefly appeared on the path ahead in the second frame before receding from view. The scene progresses deeper into the lush, sun-dappled woodland.
+frame_0000000128-frame_0000000256:
+The first frame depicts a sun-dappled dirt trail extending into a dense evergreen forest, flanked by tall, moss-covered tree trunks and a steep, fern-covered embankment on the right. A verdant canopy of leaves above filters sunlight, creating bright patches on the path and foliage.
+end of description
+As the viewpoint moves forward along the trail, the trees and undergrowth on both sides, initially in the mid-ground, approach and pass to the left and right of the viewer. The fern-covered embankment on the right also draws closer and then recedes. Consequently, previously unseen sections of the trail and deeper forest, once further ahead of the initial viewpoint, are progressively revealed and fill the foreground.

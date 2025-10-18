@@ -1,0 +1,14 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a wet city street and sidewalk on a rainy day, with a brown wooden bench in the left foreground and a building featuring lit signs and green bushes along the left side. Two people with umbrellas are walking away from the viewer on the wet tiled sidewalk, while multiple cars drive away on the adjacent wet street to the right, alongside a tall pole with signs and trees.
+end of description
+In subsequent frames, the two individuals with umbrellas continue their walk further into the distance on the sidewalk, gradually diminishing in size relative to the first-frame viewpoint. Concurrently, vehicles like the silver car initially on the right, proceed forward on the wet street, passing by and disappearing from the scene.
+frame_0000000128-frame_0000000256:
+The first frame displays a rainy city street scene with a wet tiled sidewalk occupying the left foreground, where a woman holding an umbrella walks away from the viewer. To the right, a dark information sign stands next to a street with several cars, traffic lights, and trees, leading towards distant buildings under an overcast sky.
+
+end of description
+
+In the following frames, the woman on the left sidewalk continues walking further away from the viewer, while a second individual with an umbrella also moves forward along the same path. Concurrently, vehicles on the street dynamically pass from right to left across the mid-ground, with a silver car, then a green car, and a yellow truck becoming visible and driving past. The heavy rain consistently falls throughout the entire scene.
+frame_0000000256-frame_0000000384:
+The first frame shows a rainy city street. To the left, a wet paved sidewalk features a partially visible person with a black umbrella in the foreground, a building with illuminated signs and vertical greenery, and smaller trees extending into the distance. In the midground, a person holding a black umbrella crosses a white crosswalk from left to right, while a yellow truck and a green car are visible on the wet multi-lane road behind them, heading right. A dark traffic pole and another tree stand to the right of the crosswalk, with modern buildings and a green street sign in the far background.
+end of description
+Following the first frame, the person with the umbrella in the midground completes crossing the street towards the right and eventually exits the frame. The green car and the yellow truck, initially on the midground road, proceed to move further right and off-screen. Subsequently, more pedestrians, some carrying umbrellas, appear from the midground left and traverse the crosswalk towards the right. Towards the end of the sequence, one person without an umbrella is also seen crossing from the midground left to right.

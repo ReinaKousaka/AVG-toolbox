@@ -1,0 +1,10 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a multi-level urban landscape at dusk, with a large palm tree trunk dominating the far right foreground and another palm tree slightly left of center. A white elevated walkway with a road and pedestrians spans the midground, flanked by numerous palm trees, leading to illuminated buildings in the distant background under a cloudy blue sky.
+
+end of description
+
+The camera slowly pans right, causing the large foreground palm tree to shift towards the center-right and revealing more of the white elevated walkway and the street level beneath it, which was initially to the right of the frame. As the view progresses, a street light and a "STOP" sign are fully revealed on the lower left of the original scene, along with a red vehicle traversing the elevated walkway from the middle-left towards the right. The panning motion further unveils additional buildings in the far right background, expanding the urban scene originally to the right of the viewer's initial perspective.
+frame_0000000128-frame_0000000256:
+The first frame depicts an outdoor urban scene at dusk, with large palm tree trunks framing the view on the immediate left and right. A white pedestrian bridge with metal railings spans horizontally across the midground, with a street or walkway visible below it. Underneath the bridge, a smaller palm tree stands on the left, next to a red food cart and a stop sign; farther right are a white booth and blue outdoor seating. In the background, numerous palm trees line the street, behind which several multi-story buildings and a bright street light are visible against the twilight sky. People are scattered on both the bridge and the lower walkway.
+end of description
+In subsequent frames, a person walking left on the pedestrian bridge in the midground moves out of the frame. On the lower walkway, to the left under the bridge, pedestrians move right, including a person with a dog who enters the scene. Concurrently, a car with illuminated headlights appears from the far left of the lower walkway and travels right, passing through the central area under the bridge.

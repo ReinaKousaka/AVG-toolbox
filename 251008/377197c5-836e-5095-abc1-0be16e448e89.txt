@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a lush forest scene with a rocky stream flowing towards the viewer on the left, surrounded by moss-covered rocks and abundant green ferns. To the right, an uneven stone path, composed of dirt and large stones, ascends uphill and recedes into the distance, with dense trees and undergrowth filling the upper and background areas.
+end of description
+As the frames progress, the camera subtly moves forward and slightly to the right relative to the initial viewpoint. This movement gradually brings the rocky path on the right further into the foreground, revealing more of its uneven texture as it continues to ascend. The stream on the left maintains its flowing motion, remaining consistently visible, while the overall dense green foliage of the forest persists around it.
+frame_0000000128-frame_0000000256:
+In the foreground to the right, a dirt path with embedded flat stones recedes into the distance. To the left, a lively stream with rushing water flows past moss-covered rocks and dense green ferns, occupying the mid-bottom of the frame. The background features a steep, verdant hillside covered in trees, more moss-laden rocks, and abundant foliage on both sides of the stream and path.
+end of description
+The viewpoint slowly progresses forward along the path. As the viewer moves, the dirt path on the right reveals more of its stony and muddy texture further ahead, while the initial foreground area disappears. Simultaneously, the stream to the left appears to recede as the viewer moves past the immediate rush of water, revealing new sections of its winding course and the lush, mossy banks and rocks further along its edge.

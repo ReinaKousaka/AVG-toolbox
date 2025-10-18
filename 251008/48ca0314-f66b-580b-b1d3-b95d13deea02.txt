@@ -1,0 +1,13 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a dense foreground of green ferns and some brown undergrowth, close to the viewer. Beyond this foliage, a grassy hillside with scattered rocks rises in the midground and extends to the right background, while a steep, dark mountain occupies the left background under an overcast sky.
+
+end of description
+As the frames progress, the viewpoint subtly moves forward and slightly downward, causing the foreground ferns to shift. This movement gradually reveals a small, muddy stream or wet patch becoming more discernible in the midground, situated between the denser fern clusters and leading towards the distant hills.
+frame_0000000128-frame_0000000256:
+The first frame displays a verdant, hilly landscape dominated by dense green ferns filling the foreground and extending into the midground, with a narrow strip of lighter grass or dirt centrally located. Beyond the ferns, a grassy slope featuring rocky outcrops rises towards the right, while a large, dark mountain range occupies the far left background beneath an overcast sky. A small, light-colored patch, possibly a shallow depression, is visible in the central midground.
+end of description
+As the frames progress, the viewpoint moves forward and slightly downward over the terrain, causing the foreground ferns to blur and recede. The light-colored patch in the central midground is revealed to be a small, clear pool of water, becoming increasingly distinct as the camera approaches. The overall landscape, including the distant mountains and grassy hills, remains consistent, with subtle shifts in perspective due to the forward motion.
+frame_0000000256-frame_0000000384:
+In the foreground, lush green ferns and grasses cover the bottom and lower sides, very close to the viewer. A small body of water is situated in the midground, surrounded by more vibrant green vegetation, with distant rolling green hills and a larger mountain peak on the far left under an overcast sky.
+end of description
+The viewpoint gradually moves forward and slightly downward, passing over the foreground ferns which recede from view. This movement increasingly reveals the expanse of the water in the midground, transforming the initial small pond-like feature into a wider stream flowing from left to right. The distant landscape of hills and mountains remains essentially constant relative to the viewer's original position as the immediate bank recedes below the frame.

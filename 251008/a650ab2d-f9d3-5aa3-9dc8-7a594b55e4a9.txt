@@ -1,0 +1,7 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a nighttime city street corner with a blonde woman holding a drink in the left foreground, standing on a sidewalk. To her right, a line of pedestrians queues outside a building labeled 'ENGINE 54 LADDER 4 BATTALION 9', while a red 'don't walk' traffic signal and distant city lights illuminate the background. end of description. In subsequent frames, the camera's viewpoint shifts slightly left and closer, causing the blonde woman and the queue of people on the sidewalk, initially to her right, to become more central and slightly larger within the frame. No new objects or scenes are revealed from outside the initial frame's view.
+frame_0000000128-frame_0000000256:
+The first frame captures a nighttime city sidewalk with a group of pedestrians on the left, including a woman in a blue scarf prominently in the foreground. A man in a black coat walks towards the viewer on the mid-right, beside a street pole, with a busy street and illuminated buildings visible in the background.
+
+end of description
+Subsequently, the man in the black coat proceeds to walk past the viewer, moving from mid-right towards the left. As he moves, a baby stroller becomes visible behind him on the sidewalk to the right. The building facade behind the stationary group on the left gradually reveals a red door. Other pedestrians on the distant right continue to move along the sidewalk.

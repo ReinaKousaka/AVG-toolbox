@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a wet, dark patterned sidewalk and a stone wall with a fence on the left, running alongside a wet asphalt road where a fallen electric scooter lies centrally. In the midground right, orange cones, blue bikes, and a crosswalk are visible, while distant buildings rise under an overcast sky.
+end of description
+A white car gradually emerges from the far background, on the left side of the road, and progresses closer towards the viewer across the subsequent frames. The rain continues, and all other visible objects remain static from the first-frame viewpoint.
+frame_0000000128-frame_0000000256:
+The first frame depicts a wet urban street on a rainy day, with a purple electric scooter lying on its side near a yellow-lined curb in the foreground. A wet asphalt road leads away from the viewer, flanked by a dark fence and sidewalk to the left, and a crosswalk, orange barriers, and distant buildings to the right, under an overcast sky.
+end of description
+Throughout the subsequent frames, a white car drives slowly down the wet road away from the viewer, followed by a darker vehicle. Continuous rain creates subtle ripples and splashes on the reflective road surface, enhancing the sense of a steady downpour in the static scene.
+frame_0000000256-frame_0000000384:
+The first frame shows a wet paved sidewalk on the left, bordered by a stone wall, with a purple electric scooter lying on its side near the curb. A glistening wet asphalt road stretches into the distance, featuring several cars, the closest being a white SUV, and is lined by trees and distant buildings under an overcast sky. Orange traffic cones and blue shared bicycles are visible on the right further down the road.
+end of description
+In the following frames, the white SUV drives past the fallen scooter, moving away from the viewer. Subsequently, a dark SUV that was behind it continues to approach the viewer, and another vehicle is seen behind that one, all navigating the persistently wet road.

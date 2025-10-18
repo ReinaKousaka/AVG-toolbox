@@ -1,0 +1,28 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a grey asphalt road curving right, flanked by concrete barriers; a green hedge is atop the left barrier, while dense, tree-covered mountains rise in the background. A white van proceeds in the distant center, and a yellow chevron sign indicating a right turn stands on the right.
+end of description
+Through successive frames, the viewer advances along the road, causing the distant white van to approach and the yellow chevron sign to move out of view to the right. The verdant trees lining the road on the right become larger before receding from the frame as the vehicle continues its forward motion.
+frame_0000000128-frame_0000000256:
+The first frame depicts a highway stretching forward, bordered by concrete barriers and green hedges on the left, and a concrete barrier on the right, leading towards a white van in the distance, all set against a backdrop of verdant, tree-covered mountains under an overcast sky.
+end of description
+As the viewer progresses forward, the highway's markings and barriers closer to the viewer recede into the distance, while the white van ahead appears to move further away. A large black truck briefly emerges from behind the left barrier on a parallel path, moving across the left mid-ground relative to the initial scene's fixed position, before disappearing. New road markings, including a double white line and a yellow arrow, and a yellow diamond sign on the right barrier, become visible as the viewpoint advances.
+frame_0000000256-frame_0000000384:
+The first frame depicts a highway stretching forward, with a white van visible in the distance, flanked by lush green, tree-covered mountains under an overcast sky. On the left, a hedge and barrier lead to a billboard-like structure, while on the right, a guardrail and dense trees feature a yellow chevron sign indicating a curve ahead.
+end of description
+As the viewer advances along the road, the white van and the yellow chevron sign on the right move progressively closer, while the distant mountains and surrounding greenery recede, indicating continuous forward motion through the mountainous landscape.
+frame_0000000384-frame_0000000512:
+The initial frame depicts a straight, grey highway receding into the distance, flanked by metal guardrails and lush green foliage, with dense, forested mountains occupying the background under a cloudy sky. Far ahead, a white van is in the left lane and a dark vehicle in the right.
+end of description
+Over the subsequent frames, the viewpoint moves forward along the road, causing both the white van and the dark vehicle to appear progressively closer and larger. As the viewer advances, a yellow curve warning sign on the right side of the road also comes into clearer view.
+frame_0000000512-frame_0000000640:
+The first frame shows a paved road curving gently to the right, bordered by a metal guardrail and green hedge on the left, and a guardrail on the right. Ahead, a dark truck is parked on the right shoulder near a yellow chevron sign, with a white van visible further down the road on the left, all under a cloudy sky with tree-covered mountains dominating the background.
+end of description
+As the frames progress, the viewer moves forward, revealing traffic cones sequentially appearing on the right shoulder behind the dark truck. Concurrently, a silver car becomes increasingly visible, loaded onto the back of the dark truck, as both it and the white van ahead on the left draw closer to the viewpoint.
+frame_0000000640-frame_0000000768:
+In the first frame, a two-lane road curves gently towards the distant left, with a yellow tow truck carrying a gray car parked on the right shoulder, next to an orange traffic cone. Metal guardrails run along both sides of the road, with a dense line of green hedges and a distant mountainous landscape to the left, and a steep, heavily forested mountain rising on the right under an overcast sky.
+end of description
+The yellow tow truck, carrying the gray car, begins to move forward along the road, steadily receding from the viewer towards the right. The orange traffic cone, initially positioned to the right of the truck, remains stationary until the truck passes it, eventually leaving it behind. As the tow truck progresses, more of the guardrail and the forested mountain on the right side of the road are progressively revealed. The tow truck and the gray car continue to move away, diminishing in size as they exit the frame to the right.
+frame_0000000768-frame_0000000896:
+The first frame shows a two-lane asphalt road curving gently to the right, flanked by metal guardrails on both sides. To the left, behind the guardrail, are dense green bushes and a distant forested mountain; to the right, a steep, heavily wooded mountain slope rises. An overcast sky is visible above, and a light pole with signs stands ahead on the left.
+end of description
+As the viewpoint moves forward, red flowering bushes become visible behind the left guardrail, and a green road sign displaying "1990" and "178" appears prominently near the light pole on the left. Briefly, the top of a green truck is seen behind the bushes to the far left as the scenery scrolls past. Simultaneously, a yellow curve warning sign becomes visible on the right guardrail, with the dense mountain foliage continually framing the curving road.

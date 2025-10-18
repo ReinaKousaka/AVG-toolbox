@@ -1,0 +1,10 @@
+frame_0000000000-frame_0000000128:
+In the first frame, a person with a white cap and dark backpack is partially visible in the immediate foreground on the left, alongside a woman in sunglasses; ahead of them, two individuals with backpacks walk along a gravel path towards distant green mountains under a clear blue sky, while a gray pickup truck is parked on the grassy slope to the right of the path in the mid-ground.
+end of description.
+As the viewpoint advances, the foreground figures gradually exit to the left, revealing more of the path and a small lake emerging on its left side, deeper into the mid-ground relative to the initial position. The two central walkers continue further into the scene, emphasizing the expansive mountain landscape ahead.
+frame_0000000128-frame_0000000256:
+From an elevated perspective, a gravel path extends forward towards a mountainous backdrop, with two backpack-wearing individuals walking away from the viewer on it in the foreground. To the path's left, a green lake is visible, while a silver pickup truck is parked on grassy terrain to the right, all beneath majestic green mountains under a blue sky. end of description. The two foreground individuals and others on the path continue moving further away from the first-frame viewpoint, but no new objects are revealed as the landscape, including the lake and truck, remains spatially consistent.
+frame_0000000256-frame_0000000384:
+The first frame displays a vast mountain landscape under a clear blue sky, with a gravel path extending from the bottom right into the distance through green grassy slopes. Several hikers are walking away from the viewer on this path, while a small green lake is visible to the path's left, and a light-colored pickup truck is parked to the far right.
+end of description
+In subsequent frames, the hikers on the path continue to move further away from the viewer's initial position. A young child, wearing a hat, then enters the frame from the bottom right, walking diagonally across the foreground's path from right to left, ahead of the original viewpoint.

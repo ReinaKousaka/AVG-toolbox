@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame captures a vibrant riverside scene with a paved promenade on the left, occupied by people, outdoor cafe seating, and bare trees in front of multi-story buildings. To the right, a wide river flows with many individuals relaxing on its concrete embankment, while a small boat and a red buoy are visible in the water, and a bridge spans the river in the distant background.
+end of description
+In subsequent frames, several people on the left promenade walk towards the viewer, with a couple becoming increasingly close and centered in the foreground. Simultaneously, a small boat on the river, initially in the mid-right, steadily moves further right, passing the red buoy which remains static relative to the first-frame viewpoint. No new objects are revealed, and the background elements remain unchanged.

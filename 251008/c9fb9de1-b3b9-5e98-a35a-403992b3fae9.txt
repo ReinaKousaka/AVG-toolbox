@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a row of urban buildings under a cloudy sky, with three prominent structures visible from left to right: a light brown building with a dark mansard roof, a reddish-brown building featuring a projecting bay window structure, and a darker brown building with a deep-set entrance. Green trees stand in the foreground, partially obscuring the lower facades of the buildings, while the tops of parked cars are visible at the bottom, closest to the viewer.
+end of description
+In the subsequent frames, there are no newly revealed objects or significant dynamic changes. The entire scene remains largely static, with only a subtle, continuous vertical tremor from the viewer's perspective, causing the visible elements to shift minimally up and down relative to the initial frame's position.

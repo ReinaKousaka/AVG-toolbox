@@ -1,0 +1,10 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a wet city street under an overcast sky. On the right, a person with a black umbrella walks away on the sidewalk alongside a beige building with various signs, while a wet asphalt road to the left features reflections, distant cars, and pedestrians with umbrellas, flanked by buildings.
+end of description
+Subsequently, the person with the black umbrella moves further from the viewer and exits the frame to the right. A new white 'PARKING' sign appears fully on the right sidewalk, closer to the viewer than the vanishing person. Finally, a white van, initially further down the street on the left, moves into the foreground, driving closer to the viewer along the wet road.
+frame_0000000128-frame_0000000256:
+The first frame shows a wet city street under an overcast sky. A shiny wet asphalt road stretches left and center, with a wet sidewalk to the right. A white van is on the far left road, moving away, while other cars follow further back. On the right-hand sidewalk, a street light with a blue parking sign is present, and two figures walk away under umbrellas. A large, light-colored building with "JERSEY BOYS" signs occupies the right, featuring hedges below, opposite a multi-story brown building on the far left. Distant buildings and trees are visible in the background.
+
+end of description
+
+The white van on the far left moves progressively further away from the first-frame viewpoint and to the left. The woman with a white umbrella, initially on the mid-right sidewalk, advances towards and then passes the viewer's initial position, moving out of frame to the near right. Simultaneously, other vehicles on the wet road continue moving away from the initial viewpoint, further left. The camera itself subtly shifts forward and slightly left relative to the original viewpoint, causing the street light and parking sign to become slightly more prominent and closer to the viewer's path.

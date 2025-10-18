@@ -1,0 +1,13 @@
+frame_0000000000-frame_0000000128:
+The first frame captures a wet, reflective city street at night, illuminated by numerous neon signs and streetlights that cast colorful reflections on the pavement. To the viewer's left, a row of buildings with storefronts and two parked scooters lines the street. On the right, more buildings, including one with large windows and a cafe sign, are visible alongside a parked red delivery scooter and a yellow character sign; a light pole stands on this side. In the midground, several individuals holding umbrellas walk away from the viewer down the street, which recedes into a background of more distant, lit buildings.
+end of description
+Throughout the subsequent frames, the scene remains largely consistent, showing continuous rainfall subtly impacting the wet street surface. The pedestrians in the midground, holding umbrellas, gradually move further away from the viewer down the street.
+frame_0000000128-frame_0000000256:
+The first frame captures a rainy urban street at night, with glistening, reflective pavement leading into the distance. Storefronts with brightly lit neon signs (e.g., LUSH, XXX) line the sidewalk on the left, where two people under a black umbrella and another person with a light umbrella are walking towards the viewer. On the right, other businesses with large windows are visible, and a red scooter with a delivery box is parked in the foreground, facing away from the viewer, near some orange cones.
+end of description
+As the frames progress, the pair with the black umbrella and the person with the light umbrella on the left continue their approach, moving closer to the viewer from their initial mid-left positions. Other distant pedestrians also show slight movement further down the street.
+frame_0000000256-frame_0000000384:
+The first frame displays a rainy night street scene with a wet, reflective pavement stretching into the distance. On the left, two pedestrians walk away from the viewer, the front one holding a black umbrella, alongside a row of brightly lit shopfronts adorned with neon signs. To the far right, a red delivery motorcycle with a large red box is partially visible near a yellow curb, accompanied by two orange conical markers, while a large multi-story building with illuminated windows occupies the right midground.
+
+end of description
+In subsequent frames, the two pedestrians on the left continue walking forward, gradually receding into the left midground and eventually moving out of view from the left edge of the frame. All other elements, including the red delivery motorcycle on the far right, the buildings, and the streetlights, remain stationary, maintaining the consistent rainy night ambiance from the first-frame viewpoint.

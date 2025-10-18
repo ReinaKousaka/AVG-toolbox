@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a narrow, cobbled village street, with old buildings flanking both sides. To the left, a weathered wall features a pipe and a fence adorned with flower pots; to the right, a large potted plant and a wooden bench sit before another building with a dark-shuttered window. The patterned street recedes into the distance under a bright sky.
+end of description
+As the sequence progresses, the shadows on the cobbled street subtly shift leftwards. A circular window with a criss-cross pattern gradually becomes visible on the upper part of the building to the left, which was previously partially outside the frame, and the foliage in the visible potted plants appears to slightly increase in density.
+frame_0000000128-frame_0000000256:
+In the first frame, a cobblestone street with white wavy and circular patterns extends from the foreground into the background. To the immediate left, a black metal fence with potted red and yellow flowers runs alongside a dark-walled building featuring a circular window and a dark door. On the right, a wooden bench sits on the paved ground, next to a planter with greenery, with a multi-storied building behind it displaying stone stairs leading to a door and a dark blue entrance below. Further right, another building with a dark window is visible.
+end of description
+Throughout the subsequent frames, the most prominent dynamic change is the movement of shadows across the street. Shadows initially covering parts of the right-side paving and bench gradually recede and shift towards the left and center of the street relative to the viewer. This causes the sunlit areas on the right side of the street and near the bench to expand progressively.
+frame_0000000256-frame_0000000384:
+The first frame presents a cobblestone street ascending between old buildings. To the left, a grey building with a round window and a door is partially obscured by a black metal fence holding flower boxes, while to the right, a stone building with an external staircase and a wooden bench in the foreground define the street.
+end of description
+Across subsequent frames, the viewpoint subtly advances forward along the street. This movement makes the fence with flower boxes and the wooden bench appear progressively closer to the viewer's original position, slightly expanding their presence within the frame as the street narrows ahead.

@@ -1,0 +1,10 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a bustling city street at night, with pedestrian crossing stripes and a "CON EDISON" plate in the foreground. Pedestrians walk on sidewalks flanking a traffic light with an amber signal, including a man in a dark jacket walking towards the viewer on the left and a man in a light jacket walking left on the right. Tall, illuminated buildings with advertising screens and vehicles line the street in the background, with a "wasabi sushi & bento" restaurant visible on the far right.
+end of description
+Throughout subsequent frames, the man in the dark jacket continues walking towards and past the viewer to the left, while the man in the light jacket proceeds left across the sidewalk on the right. The pedestrian traffic signal changes from an amber 'walk' to a red 'don't walk' hand in its fixed mid-ground position, as other pedestrians and background vehicles also exhibit movement within the street scene.
+frame_0000000128-frame_0000000256:
+The first frame shows a bustling city street at night, looking down a sidewalk into the distance. On the immediate left, a black pole supports a traffic light displaying a red 'don't walk' hand signal, with a person in a dark coat and a green utility box behind it. To the right, a brightly lit storefront reveals people inside, while the sidewalk extends forward with several pedestrians, including one in a grey hoodie walking left-to-right across the mid-ground. Beyond the street to the left, cars are visible, and the background is filled with towering buildings adorned with numerous illuminated billboards under a dark sky.
+
+end of description
+
+In subsequent frames, the person in the dark coat moves further left and slightly forward from the pole, and the person in the grey hoodie continues walking away into the mid-distance. Simultaneously, new pedestrians enter the scene from the far right (a man in a black beanie, followed by a woman in a brown coat) and from the far left (a woman in a light jacket), while a large white truck and other vehicles slowly advance down the street on the left.

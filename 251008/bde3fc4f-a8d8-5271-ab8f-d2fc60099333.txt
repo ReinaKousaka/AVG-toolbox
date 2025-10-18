@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+A two-lane asphalt road with a dashed white centerline extends from the bottom center, curving slightly left into the distance. To the viewer's left, a white fence borders a grassy hillside densely covered in green trees and bushes, leading up to a distant, tree-covered hill under a partly cloudy sky. To the viewer's right, dense green foliage lines the road, with a small, light-colored marker post visible near the roadside.
+end of description
+The viewpoint moves steadily forward along the road. The dashed white line on the road approaches and moves past the viewer, while the white fence posts on the left and the small marker post on the right similarly draw nearer and then recede behind the viewer. Trees and vegetation on both sides rush past, particularly on the right, becoming blurred with motion. As the journey continues, a pair of tall, slender trees on the left hillside become more prominent and closer to the viewer.
+frame_0000000128-frame_0000000256:
+The first frame displays an asphalt road extending forward into the distance, marked by two dashed white lines on its left side. Verdant, tree-covered hillsides flank both sides, ascending toward a clear blue sky, with a taller, forested hill visible centrally in the far background and several distinctive tall trees prominent on the left hillside.
+end of description
+As the frames progress, the viewpoint moves forward along the road; the dashed white lines continuously appear closer to the viewer and then recede behind. Simultaneously, the lush green hillsides and dense trees on both the left and right sides progressively draw nearer, dominating more of the foreground as the scene advances deeper into the initially distant forested landscape.
+frame_0000000256-frame_0000000384:
+The first frame presents a straight grey asphalt road extending into the distance, flanked by green grassy verges and dense green trees on both sides, with a distant wooded hill visible in the center-background under a light blue sky. White double solid lines are along the left road edge and a single broken white line marks the center.
+end of description
+As the frames progress, the viewpoint moves forward along the road, causing the surrounding trees and grassy verges to move from ahead towards the viewer and then behind the initial viewpoint. Shadows from the trees on the right side of the road stretch further across the road and advance towards the foreground from their initial positions down the road.

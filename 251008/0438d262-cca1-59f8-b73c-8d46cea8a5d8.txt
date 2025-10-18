@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a dirt path stretching forward into the distance, bordered by a grassy embankment on the left and dense trees on the right. An open grassy field with scattered deciduous trees and distant hills lies to the left, while primarily evergreen trees line the right side, all beneath a clear blue sky.
+end of description
+As the frames progress, the viewpoint steadily moves forward along the path. Objects that were further down the path in the first frame progressively approach the viewer, becoming larger and appearing to pass to the sides. The visible path, grassy embankments, and surrounding trees continuously shift their relative positions, indicating a steady forward motion of the camera through the scene.
+frame_0000000128-frame_0000000256:
+The first frame shows the viewer on a dirt path extending into the distance, flanked by a grassy field and bare deciduous trees on the left, and a denser forest with evergreen and some leafless trees on the right. The path is slightly elevated, with frosty grassy banks on either side, all under a clear blue sky. Digital overlays are visible: a green distance bar from 0.0 to 5.1 km on the bottom-left, and running metrics including pace, speed, and elapsed time on the bottom-right.
+end of description
+As the frames progress, the viewpoint moves forward along the path, causing the trees and grassy banks to appear closer and pass by relative to the initial frame's position. The digital overlay on the bottom-right updates, reflecting an increase in elapsed time and adjustments to the displayed pace and speed from the first-frame metrics.

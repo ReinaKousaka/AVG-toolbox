@@ -1,0 +1,14 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a wide-angle view of a grey, textured asphalt road extending from the bottom center into the distance. To the viewer's immediate left, a steep, dark rocky mountain face rises prominently, while to the right, a gentler slope covered in green vegetation and rocks descends, with a small waterfall visible further back. In the far distance, a white car is discernible on the road, flanked by rugged mountains, some with patches of snow, all beneath a clear blue sky adorned with a few wispy white clouds.
+
+end of description
+
+The viewpoint steadily moves forward along the road throughout the sequence. The white car in the distance gradually appears closer, and the surrounding mountain landscape slowly shifts and expands as the viewer progresses further into the scene originally depicted in the first frame.
+frame_0000000128-frame_0000000256:
+The first frame shows a mountain road stretching from the viewer into the distance. A steep, dark grey rock face rises immediately to the left, while a green and rocky slope descends to the right, leading to distant, snow-capped mountains. A single white vehicle is visible far ahead on the road, framed by the converging mountains and a clear blue sky with sparse clouds.
+end of description
+As the viewpoint progresses forward along the road, the road surface moves beneath the viewer, and the adjacent mountain slopes on the left and right recede past the viewer's sides. The distant white vehicle on the road ahead gradually appears larger, and additional vehicles become visible further ahead on the winding mountain pass, all remaining in the forward view of the original viewpoint.
+frame_0000000256-frame_0000000384:
+The first frame presents a dirt road stretching forward from the viewer, bordered immediately to the left by a steep, dark rocky cliff and to the right by a rocky, grass-covered mountain slope. Two white cars are visible ahead on the ascending road in the mid-distance, beneath a clear blue sky with mountains beyond.
+end of description.
+In the following frames, the foremost white car on the road dynamically approaches the viewer, growing progressively larger as it moves closer along the same path, while the surrounding mountainous landscape remains spatially consistent.

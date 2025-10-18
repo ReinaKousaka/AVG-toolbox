@@ -1,0 +1,20 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a stone cottage, heavily adorned with bright green vines, situated prominently to the left and center. A vibrant flower bed with pink, white, and purple blossoms runs along the base of the house, while a black metal gate is partially visible in the bottom-left foreground. To the right, a paved road curves into the distance with distant structures and trees appearing under a bright sky.
+end of description
+Across the subsequent frames, a distinct shadow moves gradually upwards and slightly right across the stone wall and ivy of the cottage's left side, indicating a shift in lighting conditions.
+frame_0000000128-frame_0000000256:
+The first frame shows a rustic stone building largely covered in lush green foliage, extending from the left to the middle of the scene. A vibrant flower bed with pink and white blooms sits at the base of the building, closer to the viewer, while a paved road curves away to the right, leading towards another distant building and a parked car.
+end of description
+Subsequent frames reveal a subtle swaying motion within the green foliage on the building, indicating a gentle breeze or minor natural movement. The overall scene, including the distant building and car, remains stationary relative to the initial viewpoint, with no new objects or significant changes in composition.
+frame_0000000256-frame_0000000384:
+The first frame presents a stone house on the left, largely covered in vibrant green foliage, with two light-framed windows visible through the greenery. Below the lower window, a colorful flower bed with pink, purple, and white blooms extends along the house's base towards the viewer. To the right, an asphalt road curves into the distance, bordered by a dark-leaved tree on the far right and revealing distant stone buildings and a white car.
+end of description
+No dynamic changes or newly revealed objects occur in the subsequent frames; the scene remains entirely static relative to the first-frame viewpoint.
+frame_0000000384-frame_0000000512:
+The first frame displays a stone building on the left, heavily draped in lush green ivy, featuring a window with light frames and a flowerbed of pink, white, and purple blossoms beneath it, while a paved road curves to the right leading towards distant buildings and parked cars under a bright sky.
+end of description
+Subsequent frames reveal extremely subtle shifts in the overall perspective and minor fluttering of the green foliage on the building's wall, suggesting a very slight camera movement or a gentle breeze affecting the existing scene elements.
+frame_0000000512-frame_0000000640:
+The first frame presents a narrow asphalt road curving towards the right, flanked on the left by a stone building heavily adorned with vibrant green foliage, with a white-framed window visible at the lower left and pink and white flowers at its base. To the right of the road, a dark-leaved tree and a low stone wall are visible, leading to a distant building and a parked car under a light sky.
+end of description
+Throughout the subsequent frames, a dark-colored cat emerges from the right side of the road in the mid-distance and walks away from the viewer, proceeding along the road towards the distant parked car. The camera appears to zoom in or move slightly forward, while the dense foliage on the left wall exhibits minor, subtle movements.

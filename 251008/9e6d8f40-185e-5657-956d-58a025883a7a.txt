@@ -1,0 +1,14 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a wet asphalt street with a "30" marking, bordered by yellow lines, extending uphill. To the left, a metal railing, green foliage, a white car, and a green-roofed structure are visible. On the right, a building features air conditioning units, light blue cones, a wooden cabinet, and a sloped concrete entrance, with utility poles and distant buildings further up the street.
+end of description
+Beginning in the initial frames, water starts to flow from the sloped concrete entrance on the right side of the road, progressively increasing its volume and moving towards the viewer and across the wet street in subsequent frames.
+frame_0000000128-frame_0000000256:
+In the first frame, a wet asphalt street with a faded white "30" speed limit marking is prominent in the foreground. To the viewer's immediate left, a white car is parked on a green surface, partially obscured by green foliage, with a utility pole and overhead wires slightly further back. On the right, a brick building with a window is visible, extending into a low brick wall that runs alongside the street. Further down the street, which curves slightly uphill, several more parked cars and buildings are seen in the midground, all under an overcast sky.
+end of description
+The camera gradually moves forward along the wet street. The "30" marking, initially in the foreground, moves towards and then past the viewer, eventually exiting the bottom of the frame. The white car and green foliage on the front-left, and the brick wall on the front-right, also shift closer and progressively move out of frame to their respective sides as the viewer advances. The utility pole, initially to the left of the viewer, also passes by. Meanwhile, the parked cars and buildings further up the street become larger and closer, remaining ahead of the viewer's new position.
+frame_0000000256-frame_0000000384:
+The first frame displays a wet, narrow street stretching into the distance under an overcast sky, flanked by buildings and parked cars. To the immediate left, a white car is parked on a green curb, behind which a utility pole with a blue and white sign stands. On the right, a brick wall topped with greenery runs alongside the wet pavement, which has yellow painted lines. Further down the street, a dark grey SUV and a white car are visible on the left side, with various residential buildings lining both sides and distant, misty mountains in the background.
+
+end of description
+
+No dynamic changes or newly revealed objects are observed in the subsequent frames; all frames appear identical to the first.

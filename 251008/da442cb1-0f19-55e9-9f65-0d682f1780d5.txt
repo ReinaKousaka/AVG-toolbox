@@ -1,0 +1,30 @@
+frame_0000000000-frame_0000000128:
+A man in sunglasses walks right on a paved waterfront walkway, with a blue boat named "HIGH POCKETS" and other vessels docked in the water to the left, behind a railing. Beyond the walkway's right side are trees and a lamppost, while a city skyline of tall buildings rises in the background.
+end of description
+The camera's viewpoint remains static. The man in the foreground moves progressively to the right and exits the frame. Concurrently, other pedestrians on the path continue walking further away from the viewer, and a person becomes visible sitting on a bench further down the path to the right.
+frame_0000000128-frame_0000000256:
+A paved waterfront promenade stretches forward, bordered by a blue boat ("ROCKETS") and a black railing on the left, and a grassy park with trees, a streetlamp, and two people on a bench on the right. In the distant background, a city skyline with numerous tall buildings is visible.
+end of description
+The viewpoint steadily advances along the promenade, gradually revealing more of the path and the park area directly ahead. A white sign emerges on the left railing, now closer to the initial viewpoint. Concurrently, the people on the walkway move further away, and the streetlamp on the right exits the frame, passing to the right of the original viewing position.
+frame_0000000256-frame_0000000384:
+The first frame shows a waterfront promenade with a blue boat, 'High Pockets,' docked to the left of a paved walkway, separated by a black railing. On the right, a person sits on a park bench amidst grass and trees, while several pedestrians walk along the path towards distant city buildings in the background.
+end of description
+Over the subsequent frames, the camera smoothly tracks slightly forward, revealing marginally more of the foreground railing and boat. People on the walkway continue moving further away, and the person on the bench remains seated and looking down, with no new objects or scenes revealed.
+frame_0000000384-frame_0000000512:
+The first frame shows a waterfront promenade with a blue and white boat docked to the viewer's left, behind a black railing, and a paved walkway extending forward. To the right of the walkway is a park with trees, a lamppost, and a man seated on a bench, while tall city buildings rise in the distant background.
+end of description
+In subsequent frames, pedestrians on the central walkway continue moving away from the viewer's first-frame viewpoint. A runner emerges from further down the walkway and moves steadily towards and then past the original viewpoint.
+frame_0000000512-frame_0000000640:
+The first frame displays a harbor scene with a blue and white boat named 'POCKETS' docked prominently on the left, backed by several tall city buildings. A paved promenade extends into the distance, with a jogger in a striped shirt running towards the viewer on the right, and a man seated on a bench further right, looking at his phone.
+end of description
+The jogger continues running forward, moving from the center-right to the far left of the frame, eventually exiting the scene from the left. Concurrently, the group of pedestrians in the mid-ground continue their walk away from the viewer along the promenade, moving further into the distant scene. The man on the bench on the right remains mostly still, focused on his phone throughout the sequence.
+frame_0000000640-frame_0000000768:
+The first frame displays a waterfront promenade with a paved walkway occupying the central and right portions of the image. To the viewer's left, a marina features several docked boats, prominently a large blue and white vessel in the immediate foreground, separated from the path by a black railing. On the right, a park-like area with trees, a lamppost, and benches borders the walkway, where a person in red is visible reclining on the grass further down. A group of pedestrians, including a couple with a dog, walk along the path away from the viewer. The background is composed of a dense cityscape with numerous tall, modern buildings under a clear sky.
+
+end of description
+
+From the first frame, the group of pedestrians, including the couple and their dog, steadily move further away from the viewer along the paved path, progressing towards the city buildings in the background. The person in red on the grassy area to the viewer's right also shifts their position slightly throughout the sequence. The boats and buildings, relative to the viewer, remain static.
+frame_0000000768-frame_0000000896:
+The first frame depicts a vibrant waterfront promenade, with a paved walkway stretching into the distance, bordered by a marina on the left and a lush park on the right. To the left, a large blue and white boat with a visible "G" is prominently docked, alongside other vessels and modern city buildings forming the background. On the right, a lamppost, benches, and trees line the park, where a person in red is seated on the grass further back; in the mid-foreground, a man, woman, and a black and white dog on a leash walk towards the viewer.
+end of description
+As the video progresses, the man, woman, and dog steadily move closer to the viewer along the walkway, growing larger in the frame. All other visible objects, including the boats, buildings, and park elements, maintain their initial spatial positions relative to the viewer, with only subtle movements from distant pedestrians.

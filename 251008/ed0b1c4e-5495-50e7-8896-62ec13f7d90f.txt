@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+A dark grey minivan occupies the center and right, moving rightward, with an elevated metallic structure spanning the top portion of the frame. To the far left, a brick building is partially visible.
+end of description
+As the minivan moves right and exits the frame, a crosswalk, a group of pedestrians crossing from left to right, and a white van stationary on the far left become visible in the foreground and midground. The street scene further back is revealed, showing a white truck, other vehicles, and buildings with illuminated signs under the elevated structure, extending towards the right.
+frame_0000000128-frame_0000000256:
+The first frame shows the viewer on a marked crosswalk at night, with a large white van parked to the left and an elevated train track structure overhead. Numerous pedestrians are crossing the street from left to right, including a person on an electric scooter positioned centrally, while several cars are stopped further down the road to the right.
+end of description
+As the frames advance, the pedestrians continue their movement across the crosswalk from left to right. The person on the electric scooter progresses forward and exits the frame to the far right, with the initial group of pedestrians also moving past the viewer. Concurrently, new pedestrians emerge from the left side of the frame, joining the flow across the street as the earlier individuals proceed further to the right.

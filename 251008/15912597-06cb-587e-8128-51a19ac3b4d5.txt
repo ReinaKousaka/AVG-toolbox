@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a rainy city street at night, featuring a dark utility pole in the foreground right, a wet brick sidewalk to the left with parked cars (a grey sedan, then a minivan) and pedestrians walking away, while the wet asphalt road to the right reflects city lights and distant vehicles.
+end of description
+As frames advance, a "WELCOME" sticker becomes distinctly visible on the foreground utility pole. Pedestrians on the sidewalk continue their movement away from the viewer. Concurrently, a dark car on the road in the mid-ground right drives towards the viewer and then across the frame, becoming increasingly clear.
+frame_0000000128-frame_0000000256:
+The first frame displays a rainy urban night scene: on the left, a wet cobblestone sidewalk features parked cars and illuminated shopfronts, with pedestrians (one holding a yellow umbrella) walking away from the viewer. To the right, a reflective street with a yellow lane line showcases a bus stop pole, trees, and oncoming vehicle headlights in the distance.
+end of description
+A green and white bus appears on the right side of the street, moving away from the viewer, shortly followed by a white sedan approaching the viewer from the right. The sedan then passes the viewer, exiting to the left, as the bus continues its path further away in the distance on the right. Throughout, the pedestrian with the yellow umbrella and others on the left sidewalk progress further away from the viewer.
+frame_0000000256-frame_0000000384:
+The first frame captures a rainy city street at night, featuring a silver minivan parked on the immediate left, while storefronts with bright signs line the sidewalk where blurry figures with umbrellas walk away from the viewer. The wet, reflective road occupies the middle ground, bordered by trees and traffic cones to the right, with a distant green bus and other vehicles' headlights visible further down the street alongside illuminated buildings.
+end of description
+A dark sedan then travels rapidly from the mid-right of the road towards the foreground, creating a visible spray, while a white SUV parks on the sidewalk behind the silver minivan. Simultaneously, another white vehicle appears further down the right side of the road, also approaching the foreground, as the pedestrians on the sidewalk continue their movement away from the viewer.

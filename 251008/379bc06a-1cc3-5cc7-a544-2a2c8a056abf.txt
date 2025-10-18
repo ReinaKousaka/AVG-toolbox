@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame captures an urban night scene featuring a golden construction barrier on the left, adorned with a blue banner displaying text and small images. Behind this barrier and to the right, a multi-story building with illuminated glass windows and a prominent white 'y' logo is visible, with a pedestrian street further right. A section of a bright blue, grid-patterned wall is partially visible behind the barrier on the upper left.
+end of description
+As the frames progress, the viewpoint pans slightly left, gradually revealing more of the bright blue, grid-patterned structure on the left, which was partially obscured. A large white "LV" logo appears at the top-left portion of this blue facade, positioned higher than what was initially visible in the first frame. The "LV" logo's illumination then subtly fluctuates across the subsequent frames.
+frame_0000000128-frame_0000000256:
+The first frame shows a night city view with a blue barrier in the foreground, displaying a row of images and a partial circular emblem on the lower left, topped by a textured pattern. To the left, a large building presents a bright blue quilted facade with an illuminated 'LV' logo, and to the right, a multi-story building with dark windows features a prominent lit 'y' logo.
+end of description
+Across the subsequent frames, the images displayed on the blue barrier in the foreground scroll continuously from right to left. This movement reveals new images entering the scene from the right side of the barrier, while existing images exit off-screen to the left.

@@ -1,0 +1,14 @@
+frame_0000000000-frame_0000000128:
+A dirt path with exposed roots runs through the center foreground, extending into a dense green forest ahead. To the left, an ascending wooded slope displays numerous tree trunks, rich foliage, and a wooden fence positioned further up the incline. On the right, a similar wooded slope is packed with trees and vibrant green canopies, as the path gently curves to the right into the distance.
+end of description
+The viewpoint steadily advances along the dirt path. As the camera moves forward, the prominent trees and the wooden fence on the left recede and pass out of view, continually revealing new sections of the winding path and the encompassing dense green woodland ahead.
+frame_0000000128-frame_0000000256:
+A dirt path extends from the immediate foreground into the mid-ground, gradually receding through a lush green forest. To the left, an upward-sloping embankment covered in dense foliage features a wooden fence or railing visible in the mid-distance. On the right, several tall tree trunks with textured bark stand prominently in the foreground and mid-ground, surrounded by green undergrowth, while the forest canopy with bright green leaves fills the upper portion of the frame, indicating an open sky above.
+
+end of description
+
+The camera slowly moves forward along the dirt path. As the viewer progresses, the path ahead steadily lengthens into view, while the dense foliage and trees lining both sides of the path shift backward relative to the first-frame viewpoint, revealing more of the shaded forest interior further along the trail. The overall scene remains a continuous wooded pathway with no new distinct objects emerging from behind or far to the sides.
+frame_0000000256-frame_0000000384:
+The first frame captures a dirt path winding into the distance through a lush green forest, beginning directly in front of the viewer. A prominent tree trunk stands immediately to the viewer's right, while a wooded hillside with a wooden fence is visible on the viewer's left, sloping upwards. Dense green foliage and tree canopies dominate the upper frame, with glimpses of a bright sky in the background.
+end of description
+As the frames progress, the viewpoint steadily moves forward along the initial path. This movement causes the large tree trunk on the immediate right in the first frame to gradually recede and move out of the frame to the viewer's right. Consequently, more of the path ahead and the surrounding forest beyond the initial immediate foreground objects become visible, revealing a continuous, vibrant green environment as the viewer advances from their original position.

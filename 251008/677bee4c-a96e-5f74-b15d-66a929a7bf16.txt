@@ -1,0 +1,9 @@
+frame_0000000000-frame_0000000128:
+The first frame presents an aerial view of a lakeside town. In the foreground, numerous residential buildings with varied roofs are clustered. To the left and extending into the mid-ground, a vast lake reflects the sky, bordered on the right by a steep, tree-covered mountain face leading to a town with a marina. Distant mountains and a cloudy sky occupy the background, with a subtle, reflective geometric overlay visible in the lower half of the image.
+end of description
+Following the first frame, the scene abruptly shifts to an entirely new location, revealing an aerial view of a different town centered around a large, ornate church with prominent domes and spires. This new scene, positioned as if the viewer has been transported, shows a road with moving vehicles and buildings to the right of the church, and a green area with trees and a smaller structure to its left. As the frames progress, the camera's perspective slightly expands to the far left, revealing a narrow river or canal bordering the town.
+frame_0000000128-frame_0000000256:
+The first frame offers an aerial perspective of a light-colored church with multiple domes and two spires, centrally positioned above a decorative garden. A busy road with vehicles runs across the bottom right foreground, while a turquoise river is visible to the far left, flanked by green spaces, buildings, and dense trees extending behind the church.
+
+end of description
+The camera slowly pulls back and slightly ascends, revealing more of the road and the turquoise river to the viewer's lower left from the initial viewpoint. Concurrently, vehicles, including a red truck, traverse the road from right to left in the foreground, as the central church and surrounding structures gradually diminish in size.

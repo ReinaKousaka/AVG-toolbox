@@ -1,0 +1,34 @@
+frame_0000000000-frame_0000000128:
+In the first frame, a person in a dark puffy jacket is partially visible on the far left. A wet, paved walkway extends from the foreground into the distance, flanked by patches of snow. To the left, a multi-story white building with numerous windows stands, with a dark trash bin and concrete planter bowls in the foreground. To the right, several concrete planter bowls containing green foliage and some with benches are visible, alongside a modern glass-fronted building with steps and a bare-branched tree. In the distance, a street with vehicles, including a yellow and a white bus, is visible, leading towards snow-capped mountains under a cloudy sky.
+end of description
+The person on the far left exits the frame to the left, revealing more of the paved ground and the white building. A white bus and other vehicles on the distant street slowly move from left to right across the scene relative to the initial viewpoint. The scene slightly widens, revealing more of a green tree on the far left in the midground.
+frame_0000000128-frame_0000000256:
+The first frame shows a paved pathway extending from the foreground into the mid-distance, flanked by patches of melting snow, concrete planters, and benches. A dark trash bin is positioned in the lower left foreground. Tall buildings rise on both sides of the pathway: a white multi-story building with large windows on the left and a building with prominent steps and flags on the right. In the far mid-distance, between the buildings, a street with vehicles, including a yellow bus, is visible, with distant mountains under a cloudy sky in the background.
+end of description
+Over subsequent frames, the snow patches on the ground visibly melt, causing the paved pathway to become increasingly wet. The yellow bus, initially in the mid-distance, moves gradually to the left and out of sight. Pedestrians can be observed moving along the street and pathways in the mid-distance, demonstrating continued activity in the urban scene.
+frame_0000000256-frame_0000000384:
+The first frame captures a wet, paved urban plaza featuring patches of snow on either side, with large concrete planters near the viewer in the foreground. To the left, a tall white building with numerous windows stands partially obscured by trees, while to the right, a building with dark glass and red flags is seen next to ascending concrete stairs. In the distant background, a street with vehicles and pedestrians leads towards cloudy mountains.
+
+end of description
+
+A person in a light-colored coat steadily walks from the distant background, moving towards the viewer along the central path. Concurrently, a white delivery vehicle, initially parked in the mid-left background, slowly drives further left and out of the scene.
+frame_0000000384-frame_0000000512:
+In the first frame, a large open paved area with remnants of snow in patches lies in the foreground. A person wearing a light coat and dark pants walks towards the viewer, slightly right of the center. To the left, a low seating area and planters with greenery are visible, while to the right, a multi-tiered concrete staircase ascends. Two prominent multi-story buildings frame the central view: a white building with numerous windows occupies the left, and a taller, more reflective glass building stands on the right. In the mid-ground, between these structures, a white van is parked near a smaller building on the left, and a yellow bus is partially visible further back. Beyond, in the distance, a body of water with moored boats, flags, and large mountains under an overcast sky complete the scene.
+
+end of description
+
+The individual walking in the mid-ground progressively moves closer to the viewer, approaching the foreground. Simultaneously, the yellow bus in the mid-ground shifts leftwards relative to the first-frame viewpoint, revealing more of the distant harbor and mountains. Other distant pedestrians also exhibit subtle movements further back in the scene.
+frame_0000000512-frame_0000000640:
+A woman in a light coat walks on a paved path towards the viewer, with a patch of snow in the lower-left foreground. Tall modern buildings flank the scene on the left and right, framing distant mountains in the background, all under an overcast sky. Concrete steps ascend on the right.
+end of description
+The woman steadily walks closer to the viewer, occupying more of the central pathway as she transitions from the midground to the foreground in subsequent frames.
+frame_0000000640-frame_0000000768:
+In the first frame, a woman in a light coat and red gloves walks away from the viewer in the left-center foreground, with patches of snow on the ground to her left. To the viewer's right, dark concrete steps with a railing ascend diagonally. In the midground, a white box truck is parked center-left, with two people standing near it and another person further right on the street, behind which a yellow school bus is partially visible. The background features modern buildings on both the left and right, with mountains beyond them in the distant center under an overcast sky.
+
+end of description
+
+The woman in the foreground continues walking towards the viewer's right, eventually exiting the frame. The white box truck in the midground drives forward and slightly to the viewer's right, gradually moving out of frame and revealing more of the yellow school bus behind it. Concurrently, the two people previously standing near the truck begin walking towards the viewer's left. A new person also becomes visible walking from the midground right across the street towards the midground left. The patches of snow on the ground in the foreground shrink slightly.
+frame_0000000768-frame_0000000896:
+The first frame presents a concrete walkway, partially covered in snow on the left foreground, descending towards a city street framed by multi-story buildings. Two people walk towards the viewer in the midground, near a parked white box truck, with distant mountains visible in the background between structures.
+end of description
+Over subsequent frames, these two individuals continue walking closer to the viewer, while the white box truck and another person near the railings on the right recede from their initial midground positions. A silver station wagon then drives left-to-right across the street, and a large yellow construction-like vehicle is newly revealed in the distant background.

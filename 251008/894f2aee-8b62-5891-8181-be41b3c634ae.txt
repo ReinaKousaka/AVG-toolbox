@@ -1,0 +1,27 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a snow-covered park path, imprinted with numerous footprints, leading into the distance between snow-laden evergreen trees and bare deciduous shrubs. A tall, conical coniferous tree stands prominently in the mid-distance along the path, while a black lamppost with a green pedestrian sign is visible on the right foreground.
+end of description
+Throughout the subsequent frames, light snow begins to fall gently. A person emerges from behind the central coniferous tree in the distance and walks along the path towards the viewer, gradually getting closer and moving slightly to the left side of the path from the first-frame viewpoint.
+frame_0000000128-frame_0000000256:
+The first frame presents a snow-covered park pathway stretching into the distance, marked with numerous footprints. Tall evergreen trees heavily laden with snow flank both sides of the path, with a prominent one positioned slightly left of center in the mid-ground. Snow-dusted shrubs and bare deciduous trees line the path, while a dark utility pole stands vertically on the far right, all beneath an overcast, hazy sky. end of description
+Throughout the subsequent frames, light snowflakes continue to fall from above the viewer, causing a subtle increase in the snow's visible density on the ground and trees across the entire scene, without introducing any new objects or significant shifts in the landscape's composition relative to the initial viewpoint.
+frame_0000000256-frame_0000000384:
+The first frame displays a wintry outdoor scene with a snow-covered path, marked with footprints, leading away from the viewer towards the center-left. To the left of the path, there are patches of green grass and reddish-brown bushes partially covered in snow. A tall evergreen tree stands in the mid-ground, left of center, with a streetlamp post to its left. On the right, a snow-covered bank slopes upwards, adorned with various snow-dusted trees and shrubs. The background features more trees under an overcast grey sky.
+end of description
+Snowflakes are visibly falling across the entire scene from the initial frame. In frame 5, a blue and white checkered umbrella briefly appears in the upper foreground, directly above the viewer's head, partially obscuring the sky and tree canopy. The umbrella then retracts from the view. The light snowfall continues consistently through the final frames, maintaining the wintry ambiance without any further scene alterations.
+frame_0000000384-frame_0000000512:
+A snow-covered park path with visible footprints extends into the distance, flanked by a patch of partially snow-dusted grass and reddish-brown bushes on the left, and a snow-covered hill with bare and evergreen shrubs on the right. A tall, snow-dusted evergreen tree stands prominently in the middle-left, beside a street lamp, with large evergreen trees framing both sides of the scene under an overcast sky.
+end of description
+Throughout the subsequent frames, light snowflakes are seen consistently falling downwards across the entire visible scene, appearing in front of the viewer and settling on the already snow-dusted path and surrounding trees and bushes. This continuous snowfall is the primary dynamic change, with no new objects or significant landscape alterations revealed from the first-frame viewpoint.
+frame_0000000512-frame_0000000640:
+A snow-covered path curves from the foreground towards the distant center-left, bordered by snow-dusted ground. A tall pine tree stands centrally behind a street lamp, flanked by dense evergreens and an orange bush on the left, and bare-branched trees on a snow-laden right slope, all under a gray sky with distant trees visible.
+end of description
+Light snowfall becomes intermittently visible across the scene in subsequent frames. The viewpoint subtly pulls back and widens, revealing slightly more of the immediate foreground to the left and right of the path, while the overall snowy landscape remains consistent.
+frame_0000000640-frame_0000000768:
+A snow-covered path curves from the viewer's foreground to the mid-distance, flanked on the left by green grass, low brown bushes, and tall dark evergreen trees. To the right of the path, a snow-dusted bank features leafless trees and evergreen bushes. A prominent, tall evergreen tree stands in the mid-ground slightly right of center, with a black streetlamp attached nearby, while the background shows more distant snow-laden trees under a grey sky.
+end of description
+The subsequent frames display no dynamic changes or newly revealed objects; the scene remains static throughout the sequence.
+frame_0000000768-frame_0000000896:
+The first frame captures a snowy park path curving from the foreground towards the left midground, bordered by green grass and bare trees on the left, and snow-covered ground with footprints and bushes on the right. A tall, snow-laden evergreen tree stands prominently in the midground, behind a black street lamp, all beneath an overcast sky.
+end of description
+Throughout the subsequent frames, the scene remains largely static, with the only noticeable change being the subtle swaying of the snow-laden branches on the large evergreen tree in the midground, indicating a gentle breeze.

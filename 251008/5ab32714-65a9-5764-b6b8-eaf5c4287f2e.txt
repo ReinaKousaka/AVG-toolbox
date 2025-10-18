@@ -1,0 +1,26 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a gravel path next to a turquoise lake, with a red lifebuoy on a post to the left, and green foliage overhead. In the midground, a metal railing, a lamp post, a prominent tree, and a distant white tent structure are visible, all set against a backdrop of cloudy mountains across the water.
+end of description
+The following frames show very subtle movements, including the slight swaying of leaves on the trees in the foreground and midground, along with minor ripples on the lake's surface, all remaining within the original first-frame viewpoint.
+frame_0000000128-frame_0000000256:
+The first frame presents a gravel path in the foreground, running along a vibrant turquoise lake bordered by a railing and stone wall on the left. A red lifebuoy is attached to the railing at the far left, while a lamppost stands to the left of a prominent green tree, behind which a metal structure is visible. Further right along the shore are a white tent, boats, and a blue vertical sign, with mist-shrouded mountains in the distant background.
+end of description.
+Subsequently, the metal structure behind the central tree undergoes noticeable changes, suggesting it is being constructed or taken down, while distant clouds shift and people near the white tent subtly alter their positions.
+frame_0000000256-frame_0000000384:
+In the first frame, a wide gravel path extends from the foreground. To the left, a metal railing separates the path from a turquoise lake, beyond which misty mountains rise under an overcast sky. A lamppost stands on a stone pillar near the left railing, while a large green tree is centrally positioned, with a smaller tree and white tent-like structures visible further down the path on the right, alongside a blue vertical sign and bushes. end of description. The camera slowly pans to the right, causing the lake and distant mountains on the left to gradually recede from view. Simultaneously, a white building behind a low fence and lush green bushes progressively emerges on the far right side of the path, revealing more of the developed shoreline.
+frame_0000000384-frame_0000000512:
+The first frame depicts a gravel path leading into the distance, flanked by a stone wall and a vibrant blue lake to the left, with distant misty mountains beyond. A large tree stands prominently on the left side of the path, while a blue signpost marks the right side, adjacent to a grassy area and a white building further back.
+end of description
+In the following frames, two individuals initially walking away from the viewer near a white tent in the mid-ground progressively move towards the right of the scene. They walk past the blue signpost on the path's right edge, eventually disappearing completely from the frame by the final image.
+frame_0000000512-frame_0000000640:
+A gravel path occupies the foreground, extending towards the center. To the left, a large tree stands on the path, with a metal structure partially visible behind it, bordering a turquoise lake. Distant mountains rise from behind the lake, beneath a cloudy sky. On the right, a blue vertical signpost marks a grassy area next to a building with a white upper section. Further along the path, mid-ground, are smaller trees and several temporary structures, including blue and white tents.
+end of description
+Beginning with the second frame, a small, dark object, possibly a bird, appears in the sky above the lake, in the mid-left portion of the frame. This object then subtly moves rightward across the sky, passing over the white tent structure by the fourth frame. It disappears in the fifth frame but reappears further left in the sixth frame, continuing its rightward movement across frames seven and eight, before vanishing again in the ninth frame.
+frame_0000000640-frame_0000000768:
+The first frame displays a gravel path leading towards a lake on the left, where a large tree stands beside a metal structure and turquoise water with distant mountains under a cloudy sky. To the right, a blue informational pillar is positioned next to a green bush and a chain-link fence, with a white building and smaller trees further back along the path, where a white tent is also visible in the midground.
+end of description
+In the subsequent frames, strings of decorative lights gradually appear, extending from the large tree on the left across the path and towards the structures in the midground. These newly revealed lights become progressively brighter and more numerous as the sequence continues, illuminating the area above the path.
+frame_0000000768-frame_0000000896:
+The first frame displays a gravel path extending towards a lake on the left, with a large tree trunk on the far left and a blue information pole on the far right, next to a grassy embankment and a building. Beyond the lake, hazy mountains rise under a cloudy sky, while in the midground, several individuals walk past blue tents situated near the water's edge.
+end of description
+As the view slowly pans right and slightly zooms out, the large tree on the far left gradually exits the frame, while more of the white building to the right of the blue pole becomes visible. The blue pole itself subtly shifts left within the frame, and raindrops become intermittently visible on the lens, particularly around the blue pole.

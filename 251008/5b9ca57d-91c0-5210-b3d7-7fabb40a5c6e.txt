@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+A road curves gently ahead from the viewer's position, flanked by a guardrail overlooking a valley with forested mountains and a distant building to the left, and a grassy, tree-lined hillside ascending beside a guardrail to the right.
+end of description
+As the viewpoint progresses forward, the foreground road and guardrails recede from the viewer. A stone retaining wall gradually emerges and extends from behind the initial right-side guardrail, becoming more prominent as the scene advances.
+frame_0000000128-frame_0000000256:
+The first frame reveals an asphalt road leading into the distance. To the viewer's right, a stone retaining wall runs alongside the road, ascending to a steep, grassy, forested mountain slope. On the left, a silver guardrail parallels the road, beyond which a valley with a house and more forested mountains is visible under a partly cloudy sky.
+end of description
+As the frames progress, the viewpoint moves forward, causing the road, the stone wall to the right, and the guardrail to the left to appear to recede from their initial positions. Concurrently, the distant house and the winding road ahead become more prominent and closer to the original viewpoint.
+frame_0000000256-frame_0000000384:
+The first frame displays a road extending forward, gently curving to the left, with a metal guardrail on its left side protecting houses against a backdrop of a green valley and tree-covered mountains. To the right, a stone retaining wall borders the road, above which a steep, grassy, and rocky slope with pine trees at its summit rises under a blue sky.
+end of description
+As the frames progress, the viewpoint moves forward along the road, causing the houses on the left, including one with solar panels, and the guardrail to approach and then recede. The stone retaining wall on the right transitions into a more prominent rocky cliff face, with a wooden fence appearing higher up on the slope. A white car parked near the houses on the left and a red-and-white barrier with a "No Entry" sign are also revealed and passed on the left side.

@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+A wide shot reveals a desolate, arid landscape under a bright blue sky with scattered white clouds. In the foreground, a rough dirt path leads into the midground, flanked by large, textured, light-brown badland formations; a prominent hill rises on the left, and a smaller one is on the right. More distant, similar hills and sparse dry vegetation are visible further down the path.
+end of description
+The viewpoint steadily moves forward and slightly downward along the dirt path, causing the immediate badland formations on both sides to become closer and more encompassing, revealing more of their eroded, rugged surfaces. As the perspective advances, the path widens slightly before narrowing into the distance, with the distant hills gradually receding further.
+frame_0000000128-frame_0000000256:
+The first frame displays a dirt path winding through an arid valley, bordered by a steep, eroded tan hill on the left and a grassy brown slope leading to a larger, darker hill on the right, all beneath a bright blue sky with scattered clouds.
+end of description
+As the viewer moves forward along the path, both the eroded hill on the left and the vegetated slope on the right become increasingly prominent and detailed, appearing closer to the foreground. A brief sun flare emerges on the right hill during the middle frames, then recedes as the perspective shifts further into the valley, with distant badlands remaining visible ahead.
+frame_0000000256-frame_0000000384:
+The first frame captures a narrow dirt path receding directly into the distance through a valley, flanked by dry, yellowish-brown grass and sparse vegetation. A steep, eroded light brown hill rises prominently to the viewer's left, while a gentler, grass-covered slope flanks the path to the right, with more undulating badlands terrain visible in the background under a blue sky with white clouds.
+end of description
+As the frames progress, the viewpoint moves forward along the path, causing the immediate foreground vegetation to recede and revealing new sections of the trail directly ahead of the viewer. The surrounding hills on both sides remain spatially consistent relative to the first-frame viewpoint, appearing slightly further in the distance as the viewer advances into the valley.

@@ -1,0 +1,9 @@
+frame_0000000000-frame_0000000128:
+A paved road with white markings stretches directly ahead of the viewer into the distance, flanked by grassy shoulders and short white posts. To the left, a dark blue car is parked next to a small, dark structure on a grassy area, backed by a towering, rocky mountainside partially covered in green vegetation. To the right, a lower, undulating grassy hill runs alongside the road. In the far distance, several majestic mountains with green slopes and rocky peaks punctuate the horizon under a clear blue sky with a bright sun in the upper right.
+end of description
+As the viewpoint advances along the road, the roadside posts and grassy verges on both sides move closer and then recede. The parked dark blue car and the adjacent structure on the left progressively move from the mid-left closer to the viewer and eventually towards the far left of the frame. The distant mountains remain largely stationary on the horizon, while a small white car ahead continues along the road.
+frame_0000000128-frame_0000000256:
+A paved two-lane road with white markings extends from the bottom center into the distance, flanked by white and black striped posts. To the left, a blue car is parked on an unpaved area next to a dark truck, all situated beneath a massive rocky and green-covered mountain slope. On the right, grassy hills rise, and distant mountains are visible under a clear blue sky in the background.
+
+end of description
+As the viewpoint moves forward along the road, the roadside posts approach and then exit the frame. The blue car and dark truck on the left gradually draw nearer to the first-frame viewpoint before receding behind it. Subsequently, a cyclist becomes clearly visible, riding towards and then past the initial viewpoint on the left side of the road. Following the cyclist, a green car also emerges, approaching the first-frame viewpoint on the road.

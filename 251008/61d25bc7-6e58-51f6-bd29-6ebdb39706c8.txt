@@ -1,0 +1,32 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a dirt path extending forward, crossed by a wooden cattle grid, flanked by two wooden fence-like barriers positioned on the path's left and right. Beyond the grid, a lake is visible to the right of the path, bordered by trees, while distant mountains rise under a clear blue sky across the horizon.
+
+end of description
+
+The viewpoint advances steadily forward along the path. The cattle grid, initially beneath the viewer, and the flanking fence barriers, initially to the immediate left and right, move out of view behind the advancing position. Subsequently, ripples become apparent on the lake, which remains to the right of the original path, and a small wooden bench is revealed further ahead on the path to the left of the original viewpoint.
+frame_0000000128-frame_0000000256:
+The first frame shows a dirt path extending from the foreground towards the mid-right, bordered by dry, golden grass and shrubs. To the path's left, a slope leads to trees and a distant wooden bench, while a blue lake with ripples occupies the right side. Behind these features, barren brown mountains span the horizon under a clear blue sky.
+end of description
+The subsequent frames show no newly revealed objects or scenes; the overall landscape and its spatial arrangement relative to the initial viewpoint remain unchanged. The only discernible dynamic change is the very subtle, continuous movement of ripples on the surface of the lake to the right.
+frame_0000000256-frame_0000000384:
+A wide shot captures a scenic landscape under a clear blue sky. A light brown dirt path extends from the foreground into the mid-ground, receding towards the center-right. To the left of the path, a grassy hillside with dry, golden-brown vegetation slopes upwards, featuring a small wooden bench in the mid-ground. To the right, a calm, blue lake with gentle ripples stretches into the distance, bordered by green and yellow-leafed shrubs. Across the lake and forming the horizon are large, rugged, tan-colored mountains.
+end of description
+The viewpoint subtly advances forward along the dirt path, causing objects ahead in the first frame to appear progressively closer. Specifically, the wooden bench, initially positioned to the left of the path in the mid-ground, grows larger and appears to move slightly further down the left side of the frame as the camera approaches. The landscape remains consistent without revealing any new objects or scenes beyond the first-frame's visible scope.
+frame_0000000384-frame_0000000512:
+In the first frame, a dirt path extends from the viewer into the mid-ground. To the left, a dry grassy hillside features a grey bench located slightly behind the viewer, while to the right, a lake with tree-lined banks stretches into the distance. Majestic brown mountains rise across the horizon under a clear blue sky.
+end of description
+The viewpoint then moves steadily forward along the dirt path, causing the grey bench to recede and move out of frame to the viewer's left, now further behind the initial position. The lake, trees, and distant mountains remain continuously visible to the right and ahead, shifting their immediate foreground presentation as the viewer advances.
+frame_0000000512-frame_0000000640:
+A dirt path stretches from the viewer into the distance. To its left, dry grassy terrain rises towards a mountain range with a line of tall trees in the mid-ground. To the right, a serene blue lake with green and yellow foliage along its edge mirrors the clear blue sky, with more distant mountains visible across the water.
+
+end of description
+
+The viewpoint steadily moves forward along the path, causing the immediate surroundings to shift. Dry grasses and bushes on both sides recede past the viewer, while the lake and distant mountains gradually approach and move to the sides. A thin, dark pole appears briefly from the lower right and a small white marker emerges on the far left hillside as the scene progresses, indicating the viewer's continuous forward motion.
+frame_0000000640-frame_0000000768:
+A sandy path extends from the viewer's foreground into the midground. To the path's left, dry, tall grass and a line of trees with green and yellow foliage ascend a gentle slope, backed by arid brown mountains in the background. To the right, the path borders a calm body of water, lined with green and yellow shrubs, also leading towards distant mountains. Above, a clear blue sky spans the horizon.
+end of description
+The viewpoint steadily moves forward along the path. The foreground path progressively shifts closer to the viewer, while the shrubs lining the path to the left and the lake to the right slowly pass by from the first-frame's perspective. The distant mountains and the sky remain constant in their background positions as the scene gradually advances.
+frame_0000000768-frame_0000000896:
+In the first frame, a dirt path extends from the bottom center into the middle distance. To the left of the path, dry golden grass and shrubs lead up to a low hill covered in similar vegetation and scattered trees with green and yellow foliage, all under a clear blue sky. To the right of the path, a calm body of water, reflecting the blue sky, stretches into the distance, bordered by green and yellow trees and shrubs along its bank. Distant, barren, brown mountains form the backdrop, spanning across the horizon behind the trees and water.
+end of description
+The viewpoint steadily moves forward along the dirt path. As the camera advances, the immediate path, dry grass, and shrubs on the left, and the water with its bordering trees on the right, continuously scroll past, moving from the foreground towards and beyond the viewer. The distant mountains slowly expand across the background, appearing to draw slightly closer as the journey progresses. Subtle ripples and reflections appear on the water's surface, indicating ongoing motion.

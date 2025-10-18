@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a wet, multi-lane road extending forward to the left, bordered by a white guardrail and green trees. A paved pedestrian sidewalk with tactile guidance is to the right, adjacent to a line of trees and a tall wall with posters; ahead, two arched tunnels span the road under an overcast sky.
+end of description
+Subsequently, a white car appears on the road to the viewer's mid-left, moving forward and leaving a spray on the wet surface. It continues its path, entering the first tunnel directly ahead and eventually disappearing from view in the background.
+frame_0000000128-frame_0000000256:
+The first frame displays a wet asphalt road on the left, bordered by a white barrier, with green trees and bushes lining it and an adjacent wet sidewalk to the right, leading towards two tunnel entrances in the distance under an overcast sky, alongside a tall grey fence on the far right.
+end of description
+In subsequent frames, a dark car appears on the wet road to the left, moving away from the viewer and creating a spray of water. Later, a white car appears further back on the same road, also moving away. Both cars then proceed towards and eventually disappear into the distant tunnels.
+frame_0000000256-frame_0000000384:
+The first frame displays a wet paved sidewalk stretching into the background on the right, bordered by a tall gray fence on its immediate right and a strip of green bushes and trees on its left. To the left of these trees, a multi-lane wet road leads towards two tunnels recessed into a tree-covered hillside in the background, with a yellow bus parked near the far tunnel entrance.
+end of description
+Throughout the subsequent frames, vehicles begin to appear and travel along the wet road, moving from the viewer's right towards the background left. A dark car is first seen moving on the road to the left of the trees, followed by another dark car and a white truck that emerge and proceed further along the road into the distance. Additionally, a "Rain Everyday" watermark appears in the bottom-left corner, slightly shifting position across frames.

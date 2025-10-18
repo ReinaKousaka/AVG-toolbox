@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a rainy street with parked cars on both sides; a white sedan is left-front and a silver sedan is right-front. A wet asphalt road stretches away, featuring a distant white delivery truck approaching the viewer, flanked by a tall apartment building on the far left and dense trees with a gazebo on the right. Rain visibly falls across the scene.
+end of description
+Throughout the following frames, the white delivery truck consistently moves closer to the viewer along the road, while the rainfall remains constant.
+frame_0000000128-frame_0000000256:
+The first frame captures a rainy street scene, with a partial white car visible in the foreground left, followed by a dark grey hatchback and another car parked along the curb. Further left, a multi-story building rises behind green trees, while a white delivery truck is parked down the road. On the right, a treeline parallels the street, featuring a wooden gazebo with orange seats; heavy rain is visibly falling across the wet asphalt road.
+end of description
+In subsequent frames, the continuous heavy rain creates constant splashes and ripples on the wet road surface. The trees on the left sway slightly in the wind, illustrating dynamic movement, while no new objects are revealed in the scene.
+frame_0000000256-frame_0000000384:
+A rain-soaked street extends from the viewer, flanked by parked cars on the left and dense trees with a dark gazebo on the right. In the foreground, a dark grey car is parked, followed by a darker sedan, both on the left, leading towards a white box truck parked further ahead on the same side. A tall apartment building rises in the background to the left, while dense foliage covers the right side.
+end of description
+The subsequent frames show no new objects or significant positional changes of existing elements relative to the first-frame viewpoint. The sole dynamic aspect is the continuous, heavy rainfall cascading across the entire scene, causing ripples on the wet road and dripping from the surrounding trees and vehicles.

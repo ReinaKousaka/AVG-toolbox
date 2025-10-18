@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+A white camper van drives away from the viewer on a dark paved road, flanked by dense green forests on both sides, with distant mountains visible in the background under a bright sky.
+end of description
+The camper van consistently recedes further into the distance along the road from the initial viewpoint. An orange road marking appears further down the road by frame four, moving closer before passing below the first-frame viewpoint's position. Concurrently, a stone barrier becomes visible on the left roadside, replacing the immediate grass and extending alongside the path, while a small dark figure emerges much further ahead on the road, to the right of the van, by frame seven.
+frame_0000000128-frame_0000000256:
+The first frame displays a paved asphalt road with white dashed lines, extending away from the viewer into the distance. Ahead on the road, a white van is visible, followed by a person on a bicycle further to its right. Dense green trees form a forest on the left side of the road, with a low stone barrier running alongside, while a steep, tree-covered hillside occupies the right side. In the far background, mountains are faintly discernible through the trees.
+end of description
+As the frames progress, the viewer's perspective moves forward along the road, causing the white dashed lines to sequentially appear ahead and then pass underneath the first-frame viewpoint. The van and cyclist, consistently ahead on the road, gradually recede further into the distance relative to the initial viewpoint as the forested landscape continuously scrolls past to the sides.

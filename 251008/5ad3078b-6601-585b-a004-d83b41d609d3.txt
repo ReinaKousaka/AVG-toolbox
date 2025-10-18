@@ -1,0 +1,18 @@
+frame_0000000000-frame_0000000128:
+The first frame captures a sunny city sidewalk scene, with a green-painted building featuring a 'DELI' awning and a 'SPACE FOR RENT' sign on the left. A sidewalk stretches ahead occupied by pedestrians walking away from the viewer, while on the right, a street with a red lane and moving cars is visible, bordered by a tree and distant tall buildings.
+end of description
+As the viewpoint moves forward, the green building on the left recedes out of view, revealing more storefronts and a "CHICKEN LOVE" sign further ahead on the left side of the sidewalk. Concurrently, the initial pedestrians move further ahead on the sidewalk, and new cars appear on the street to the right, further down the road from the initial vehicle positions.
+frame_0000000128-frame_0000000256:
+The first frame shows a bustling city street from a pedestrian's perspective. To the immediate left is a closed storefront with a beige rolled-down security gate, followed by an open glass-fronted store and other businesses extending into the distance, all topped by multi-story buildings. Directly ahead, several pedestrians walk away from the viewer along the sidewalk. To the right, a tree trunk with bicycle racks and a parked bicycle occupies the foreground, bordering a red bike lane and a multi-lane street with multiple moving and parked cars. Tall residential buildings line the far right side of the street under a clear blue sky.
+
+end of description
+
+The viewpoint slowly moves forward along the sidewalk. As the camera progresses, the beige security gate on the left moves out of frame, revealing more of the glass-fronted store and the "LOVE" awning above it, eventually showing "FACIAL LASHES" signage. The pedestrians continue walking further away from the initial viewpoint, while cars on the street to the right advance forward. The tree trunk and bicycles on the right gradually exit the frame to the right.
+frame_0000000256-frame_0000000384:
+The first frame presents a sunny city street view with a sidewalk extending forward, bordered on the left by storefronts including an 'open' beauty salon and a facial treatment ad board, and on the right by a street with traffic, where a dark SUV and taxis are visible, along with a street pole, digital billboard, and a partially visible bike rack on the far right.
+end of description
+Over the following frames, pedestrians on the sidewalk consistently move forward, receding further from the first-frame viewpoint. Concurrently, a person in a black coat and light blue mask emerges from the mid-left sidewalk, walking towards the viewer and becoming more prominent in the lower-left foreground. Simultaneously, vehicles on the street continuously move forward, with the initial cars disappearing further down the road relative to the first-frame position, and new ones entering the frame from behind the initial view.
+frame_0000000384-frame_0000000512:
+The initial frame depicts a bustling city street with a masked person walking towards the viewer on a sidewalk to the left, near an A-frame sign and storefronts like "JET'S PIZZA," while to the right, a street with vehicles and a digital display pole extends into the distance, framed by tall buildings.
+end of description
+As frames progress, the masked person moves past the viewer and exits the left side of the frame, while other pedestrians further along the sidewalk continue walking away from the viewer. Simultaneously, vehicles on the street to the right drive past the viewpoint, and the camera subtly advances forward, causing foreground elements to recede.

@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a sunlit village street. To the left, a row of traditional stone houses with white-framed windows stands behind a black wrought-iron fence and low green hedges. A paved road stretches ahead with several cars parked along its left side, facing away from the viewer; the closest is a silver hatchback. Across the road to the right, a grassy village green with numerous bare trees is enclosed by a black fence, and a red-bordered warning sign is visible further down. A clear blue sky is overhead.
+end of description
+As the viewpoint moves steadily forward down the street, objects initially further ahead in the first frame become progressively closer. The houses and fences on the left appear to move past the viewer, revealing more of the street's length. The parked cars, including the silver hatchback, also move closer to the viewer and eventually out of the frame to the left, while the grassy area and trees on the right similarly shift closer and then out of view as the progression continues.
+frame_0000000128-frame_0000000256:
+The initial frame depicts a sunny village street featuring a row of stone houses on the left, a paved road with several parked cars on the right—the closest being a silver hatchback—and a grassy park with bare trees extending beyond a fence on the far right, all beneath a clear blue sky, with distant buildings visible at the end of the street.
+end of description
+As the frames advance, the viewpoint moves forward along the street; the houses on the left and the silver car on the right recede, progressively revealing more of the blue SUV and a red car parked further down the street on the right, while the grassy park continuously extends on the right.
+frame_0000000256-frame_0000000384:
+To the viewer's left, a stone house with a blue door and a black wrought-iron fence runs alongside a paved sidewalk. To the viewer's right, a silver car and a blue SUV are parked, beyond which are bare trees, a grassy area, and distant buildings under a clear blue sky.
+end of description
+As the perspective moves forward, more of the stone house's facade and bay window on the left are progressively revealed. Simultaneously, the blue SUV, initially partially obscured behind the silver car to the right, becomes fully visible, displaying its license plate (PO59 WLU) on its rear, which is located to the right of the viewer's path.

@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a train's-eye view looking down a double set of tracks that curve gently to the left into the distance, bordered by grassy embankments. On the left, a red building and distant mountains sit beneath a partly cloudy sky, while a tall utility pole with overhead wires stands prominently to the right, and a green signal light is visible further down the tracks on the left.
+end of description
+As the scene progresses, the train moves forward, causing the utility pole on the right foreground to move rapidly past the viewer and out of frame. A red and white striped marker pole is newly revealed, entering from the mid-right and progressing towards the foreground. Simultaneously, the red building on the left embankment and the green signal light further down the tracks draw closer into view.
+frame_0000000128-frame_0000000256:
+The first frame shows a view from a train looking down two gravel tracks curving gently to the left into the distance. Lush green hillsides ascend on both sides, featuring a red-roofed building on the left, a white electrical pylon on the right, and overhead wires against a partly cloudy blue sky. Distant tree-covered mountains frame the background.
+end of description
+As the train advances, the white electrical pylon on the right moves past the viewer, revealing more of the track ahead. Concurrently, a signal pole displaying two green lights and a 'B 432 50K' sign emerges into view from the left of the tracks, then recedes. A bridge structure previously partially obscured in the mid-distance becomes fully visible as the train rounds the curve.
+frame_0000000256-frame_0000000384:
+The first frame captures a view down train tracks extending away from the viewer, curving slightly left towards a stone arch bridge in the mid-distance. Grassy hillsides flank the tracks to the left and right, featuring a white house on the upper left and dark buildings amidst trees on the right. Overhead wires and utility poles are positioned above and alongside the tracks, under a sky with blue patches and scattered clouds.
+end of description
+As the frames progress, the train moves forward, causing the tracks and surrounding landscape to continuously approach from the front, with the stone bridge getting progressively closer ahead. Simultaneously, utility poles and striped trackside markers move from the foreground to the sides of the viewer and then recede behind, indicating forward motion.

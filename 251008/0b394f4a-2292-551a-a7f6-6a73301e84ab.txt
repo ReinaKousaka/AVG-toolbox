@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+A paved path extends forward from the viewer, bordered on the left by a snowy, rocky shoreline and a turquoise lake. In the background, a dense evergreen forest covers mountain slopes, topped by snow-capped peaks under a blue sky. To the right of the path, dry bushes, a wooden fence, and a large multi-story building are visible.
+end of description
+As the viewpoint progresses forward, the paved path moves under the viewer, while the lake shoreline and the right-side elements including wooden benches and more of the building appear closer. Figures walking further along the path to the left also become more distinct.
+frame_0000000128-frame_0000000256:
+In the first frame, a paved pathway extends from the foreground center towards the mid-distance. To the left, a rocky, snow-dusted shore borders a greenish-blue lake, which is backed by dense evergreen forests and snow-capped mountains on the far left. To the right of the pathway, two snow-covered wooden benches are situated behind a low wooden fence, leading to a snow-dusted area with evergreen trees and a partial view of a large building in the midground, all under a bright blue sky with scattered clouds.
+end of description
+A group of people visible on the pathway in the mid-distance are seen walking chronologically further away from the viewer towards the background. Simultaneously, the camera's perspective subtly shifts to the right, causing the wooden bench farthest to the right in the foreground to progressively move out of frame.

@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a sunlit beach with a clear blue sky above. In the foreground, a sandy and pebbled shore extends from the bottom left, meeting the ocean in the midground where a wave breaks. To the far left, houses on a green hillside are visible, while a distant green cliff or headland juts into the turquoise sea on the right.
+end of description
+In subsequent frames, the ocean's dynamic movement continues as the initial breaking wave recedes, exposing more of the wet sand and pebbles. New waves then form further out and advance towards the shore, continuously cresting and breaking with white foam that washes over the midground beach before pulling back. This sequence shows the ongoing ebb and flow of the tide against the established landscape, with no new objects or scenes revealed.
+frame_0000000128-frame_0000000256:
+The first frame shows a sandy and pebbled beach in the foreground, meeting the ocean where a wave begins to break directly in front of the viewer. To the left, a row of buildings lines the coast, backed by a lush green hillside and a distant headland jutting into the clear blue sea under a bright sky.
+end of description
+Subsequent frames depict the initial wave breaking further and advancing onto the beach directly in front of the viewer, creating more white foam. This wave then recedes back into the ocean, diminishing in size, while further out in the sea, a new wave begins to form, preparing to approach the same shoreline area.
+frame_0000000256-frame_0000000384:
+The first frame captures a sunlit beach with a clear blue sky overhead. In the foreground, a sandy and pebbled beach stretches towards the viewer's left, meeting the turquoise sea in the midground where a wave is actively breaking. Along the left coastline, houses are visible at the base of a dark green hill, which extends to the right, ending in a prominent cliff face jutting into the ocean.
+end of description
+Subsequent frames depict the continuous motion of the breaking wave from the first frame as it recedes onto the beach, pulling back water and foam. From the right, new waves steadily approach the shore, continuing the cycle of breaking and retreating, perpetually altering the waterline on the beach relative to the initial viewpoint while the background coastal features remain static.

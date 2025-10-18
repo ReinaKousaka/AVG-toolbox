@@ -1,0 +1,30 @@
+frame_0000000000-frame_0000000128:
+The first frame, viewed from a vehicle, shows a sunny mountain road with a black car to the left in the opposing lane and other vehicles receding ahead. Lush green hillsides flank the road, featuring buildings (a distant hut left, a large white building and yellow bus right) and a colorful sign on the right. Rugged mountains rise prominently in the distant background under a clear blue sky.
+end of description
+The black car on the left steadily approaches, eventually passing the viewer by the final frame. Simultaneously, a tall white pole with a 'SCHON FAHREN' sign emerges from the right foreground, moving left relative to the viewer's fixed perspective.
+frame_0000000128-frame_0000000256:
+The viewer is on a paved road with white dashed lines, looking towards a village nestled in a valley surrounded by green grassy hills and distant mountains under a blue sky. On the immediate right, a yellow bus is parked next to a white multi-story building, while a small wooden hut stands on the left. Several cars are visible further down the road, and a traffic sign is at the far right edge.
+
+end of description
+
+As the viewer moves forward along the road, the yellow bus on the right gradually exits the frame to the right, revealing more of the white building behind it. Simultaneously, the small wooden hut on the left moves closer and begins to exit the frame to the left as the viewpoint passes it.
+frame_0000000256-frame_0000000384:
+The first frame presents a driver's perspective on a two-lane road leading into a mountain valley under a clear blue sky. Ahead, a silver car occupies the left lane, with a white van visible further down the road, while grassy hillsides rise on the left featuring a wooden hut and a multi-story building. On the right, several white buildings line the road, with parked cars and flags visible.
+end of description
+As the viewer's vehicle moves forward, the silver car in the left lane is steadily overtaken and disappears behind the viewer to the left. Simultaneously, the parked silver SUV and black car on the right also recede and move out of view behind the viewer to the right. The buildings and flags on both sides are progressively passed, revealing new sections of the road and landscape directly ahead.
+frame_0000000384-frame_0000000512:
+The initial frame presents a road through a mountainous village, viewed from a car's dashboard at the bottom foreground. Ahead, a white van proceeds, with a multi-story hotel and parked vehicles to the left, and a white 'Hotel Post' building on the right, all set against a backdrop of green and rocky mountains under a blue sky.
+end of description
+As the vehicle moves forward, the road is traversed, causing the buildings on both sides (left and right midground) to enlarge and approach the viewer's perspective. Concurrently, details of the parked vehicles on the left become clearer, and new sections of buildings and terrain emerge from behind the initial right-side structures, further along the road from the first-frame viewpoint.
+frame_0000000512-frame_0000000640:
+The first frame presents a mountain road on a sunny day, viewed from a vehicle, with a large green and rocky mountain ahead. To the left, a multi-story building and a parking lot with cars and motorcycles are visible; to the right, buildings, a red car, and a white tent structure line the road.
+end of description
+As the viewpoint moves forward, the red car and brown bench on the right recede and move out of view, revealing a stone wall and a red-white-red flag higher up to the right. Concurrently, more people become visible around the parked motorcycles on the left, and a tall cellular tower emerges behind the distant white buildings, relative to the initial position. The road continues to narrow into the background as the vehicle progresses, keeping the mountain straight ahead, while the white van ahead also moves further into the distance.
+frame_0000000640-frame_0000000768:
+The first frame depicts a two-lane road winding through a mountainous region under a clear blue sky. In the immediate foreground is the viewer's dashboard. A white van is positioned in the center lane ahead, with a black car parked on the left shoulder and a silver car on the right. To the right, a stone retaining wall partially obscures a building featuring a white awning and a flag flying from its side. On the left, a white building stands near a tall cellular tower. Lush green hills flank the road, leading to a prominent rocky mountain peak in the distance.
+end of description
+As the viewer's vehicle progresses, the large stone retaining wall on the right expands significantly, eventually obscuring the building, flag, and sign that were to its right in the first frame. Simultaneously, the white building on the left approaches, revealing a "WÄLCHHOF" sign, while the cellular tower behind it moves further left and out of view. The black parked car on the left disappears as a dark, new underpass structure becomes visible further down the road, behind the white building on the left. The white van ahead remains in view, moving further away from the first-frame viewpoint.
+frame_0000000768-frame_0000000896:
+The viewer is driving on a two-lane road towards a snow-capped mountain under a clear blue sky. Ahead, a dark car approaches in the opposite lane, with a white vehicle and trailer further in the distance. To the left are buildings with garage doors, green hills, and a power line tower, while a tall stone wall lines the right side of the road.
+end of description
+The dark car passes the viewer on the left, receding behind them. A green trash bin appears on the left roadside, and on the right, wooden logs and a white car become visible beyond the stone wall as the viewer moves forward, with the distant vehicle continuing ahead.

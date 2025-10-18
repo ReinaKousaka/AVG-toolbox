@@ -1,0 +1,5 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a view from a yellow tandem bicycle, looking forward at the back of an adult in a grey jacket and a child in a basket seat. A paved path with a yellow stripe stretches ahead, flanked by grassy areas with trees on the left and bushes with more trees, some blooming, on the right. Several distant people are visible along the path in the midground.
+
+end of description
+As the bicycle progresses through the following frames, the scenery dynamically changes as objects ahead, such as other park-goers and distant foliage, draw nearer and then recede to the sides relative to the initial viewpoint. The adult and child remain consistently in front of the viewer, indicating continuous forward motion through the park.

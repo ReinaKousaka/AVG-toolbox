@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a sunlit forest path. Immediately to the viewer's left, a large moss-covered tree trunk dominates the foreground. A narrow dirt path winds forward from the viewer's position, flanked by dense green undergrowth and numerous tall evergreen trees extending into the distance and upwards towards patches of blue sky.
+end of description
+As the frames progress, the viewpoint moves forward along the dirt path. The large tree trunk on the viewer's immediate left in the first frame gradually recedes towards the left edge. Previously distant sections of the path, including fallen logs and mossy roots, now appear closer to the viewer's position. A wooden fence structure becomes visible further along the path on the left side, and a small brown sign emerges on the left mid-ground as the camera advances deeper into the forest.
+frame_0000000128-frame_0000000256:
+The first frame presents a dense forest with numerous tall trees extending upwards, framing a dirt path that leads directly ahead from the viewer. Prominent moss-covered tree roots and green undergrowth flank the path in the foreground, with dappled sunlight illuminating patches of the forest floor and a wooden fence visible to the left in the mid-ground.
+end of description
+As the camera moves forward, new sections of the path and forest floor emerge directly ahead of the initial viewpoint. The foreground trees and roots from the first frame recede, moving to positions behind the advancing camera relative to its starting point.

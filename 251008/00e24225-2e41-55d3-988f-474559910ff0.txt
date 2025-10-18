@@ -1,0 +1,31 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a park scene with a gravel path to the left of a large green lawn, and a paved path on the right, separated by a row of trees with reddish-brown leaves. A low stone planter with sparse greenery occupies the foreground, while distant mountains and buildings line the background. In the mid-ground, two men stand near a black bin on the gravel path, and a girl on a scooter moves away on the paved path, followed by other pedestrians.
+end of description
+Throughout the frames, the two men on the gravel path, the girl on the scooter, and other pedestrians on the paved path continuously move forward, receding further away from the viewer. A red and white object subsequently appears on the gravel path near the trash bin, slightly to its left, as the men pass.
+frame_0000000128-frame_0000000256:
+In the first frame, a park scene unfolds with a grassy field extending from the mid-left foreground into the background, flanked by a gravel path and a black cylindrical trash can positioned in the mid-left. To the right, a row of trees separates the gravel path from a paved walkway, where a girl on a blue kick scooter moves away from the viewer in the mid-right, and a man in a red shirt walks left of the trash can in the mid-left, with distant mountains and buildings in the background.
+
+end of description
+
+Subsequently, the girl on the scooter continues moving further away from the viewer on the paved path, eventually exiting the frame to the right, revealing more of the path and additional distant pedestrians. Concurrently, the man in the red shirt and a person behind him proceed further away and to the left on the gravel path, gradually moving out of view, while the trash can remains largely in the mid-left as the viewpoint subtly advances forward. More people become visible walking further down the paved path and seated under the trees in the extended mid-right and background relative to the initial viewpoint.
+frame_0000000256-frame_0000000384:
+The first frame features a paved pathway on the right, flanked by a gravel area and a line of large trees with autumnal foliage on the left, leading to a vast green field. In the immediate foreground-left, a black trash can is visible. Several people are seated on benches beneath the trees in the midground-left, while numerous pedestrians walk away from the viewer along the paved path in the midground-right, towards distant buildings and mountains in the background.
+
+end of description
+In subsequent frames, the people on the paved pathway in the mid-right consistently move further away from the first-frame viewpoint. The individual in the blue jacket and light hat, initially in the mid-right, progresses steadily deeper into the scene along the pathway. Other pedestrians, both further along the path and in the background, also continue moving away from the viewer's original position.
+frame_0000000384-frame_0000000512:
+The first frame captures a park pathway under an overcast sky, with a grassy area and trees on the left where people are seated on benches. On the right, a paved walkway extends towards the background, featuring a woman in a white hat, blue jacket, and jeans walking towards the viewer while holding a phone. In the distance, a busy street with more pedestrians and a tall building rises on the right side.
+end of description
+Throughout the following frames, the woman on the paved walkway steadily walks closer to the viewer, eventually dominating the right foreground. Simultaneously, a man previously behind her also approaches, while other distant pedestrians on the street continue their movements, subtly shifting positions further into the background.
+frame_0000000512-frame_0000000640:
+A paved walkway extends from the viewer towards the background, bordered on the left by a gravel area with benches and a row of trees displaying autumn foliage, and on the right by a grassy strip adjacent to a street. In the foreground, a person in a light vest walks away to the right, while further back, other pedestrians populate the central walkway, a distant green park on the left, and a bustling street lined with tall buildings on the right, all beneath an overcast sky.
+end of description
+As the viewer moves forward along the paved path, the foreground pedestrian gradually exits the frame to the bottom right, and the two individuals on the central walkway recede further into the distance. Simultaneously, other pedestrians and a white car on the right-side street move along, illustrating continuous forward motion through this urban park environment.
+frame_0000000640-frame_0000000768:
+The first frame displays a paved path extending away from the viewer, bordered on the left by a grassy park area featuring several trees (some with reddish leaves), a green trash can, and people sitting on a bench. To the right, a parallel street contains a white car and various pedestrians, behind which stand several buildings, notably a tall hotel and a glass-fronted shop in the mid-distance.
+end of description
+As the frames progress, the couple walking on the paved path moves further away from the viewer into the distance. Concurrently, pedestrians on the street and in the background continue to move, animating the scene without revealing any new objects or altering the existing spatial layout.
+frame_0000000768-frame_0000000896:
+The first frame captures an urban park and street scene under an overcast sky, with a gray paved path dominating the foreground and a strip of green grass to its right. To the left, a park with various trees and distant people on benches and walking extends into the mid-ground, while to the right, a busy street is lined with shops, including "BUCHERER," and tall buildings, with a modern high-rise in the background and numerous pedestrians and a white parked car in the mid-ground.
+end of description
+Subsequently, the two individuals walking on the paved path move further away from the viewer into the mid-ground. Simultaneously, on the far sidewalk, a person in a pink top walks right and then pauses, while another in a striped shirt continues walking further right, almost exiting the frame. The overall crowd on the street also subtly shifts positions and moves within the scene.

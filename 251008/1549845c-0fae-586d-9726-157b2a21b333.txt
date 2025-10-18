@@ -1,0 +1,29 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a snowy winter landscape featuring a wet, winding road in the foreground curving to the right. Deep snow banks border the road on both sides, with a dense forest of snow-covered bare trees rising behind them, extending into the distance under an overcast sky.
+end of description
+As the scene progresses, the viewer moves forward along the road, continuously revealing new sections of the same snowy forest road ahead. The trees and snow banks initially positioned closer to the viewer dynamically shift towards the left and right, eventually receding from the view behind. The road continues to curve gently right, maintaining the overall winter forest setting.
+frame_0000000128-frame_0000000256:
+The first frame shows a snow-covered winter road scene. In the foreground, a dark grey road, partially wet, curves gently to the right, extending towards the mid-ground. Deep snowbanks line both sides of the road; a particularly high, steep snow-covered slope with bare, snow-laden trees rises on the left, while a substantial snowbank and denser forest are visible to the right. The background features a thick forest of mostly deciduous trees, devoid of leaves and covered in snow, beneath an overcast, grey sky.
+end of description
+As the frames progress, the viewpoint moves forward along the road, revealing more of the curving path ahead. The deep snowbanks and snow-covered, bare trees on the left slope recede, revealing new sections of the hillside further ahead, still positioned to the left of the road. Simultaneously, the dense, snow-laden forest on the right passes by, exposing more of the road and the continuous forest along its right side. The overall scene consistently depicts a snowy, forested road continuing its gentle curve to the right, with no new distinct objects emerging beyond the continuous winter landscape.
+frame_0000000256-frame_0000000384:
+The first frame captures a wet, dark asphalt road gently curving to the right in the foreground, bordered by substantial snow banks and snow-laden trees under an overcast sky. To the left, a steep, snow-covered slope rises, densely populated with both bare deciduous and coniferous trees, while more trees recede into the distance on both sides.
+end of description
+As the frames progress, the viewer's perspective moves forward along the road, causing the snowy banks and trees lining the path to recede into the background. This dynamic change continuously reveals new sections of the winding, snow-bordered road ahead, maintaining the consistent winter forest scene without introducing any new objects.
+frame_0000000384-frame_0000000512:
+The first frame displays a winter scene from a vehicle's perspective, showing a dark, wet road curving gently ahead and slightly to the right. Steep snow banks flank both sides of the road, with snow-dusted deciduous trees and evergreen trees visible behind the left bank, while a denser forest appears on the right beyond its snow wall, all under a bright, overcast sky.
+end of description
+As the frames progress, the viewer's perspective moves forward along the winding road. The snow banks and trees on either side appear to recede backward, revealing more of the road ahead and the snow-covered forest previously further in front.
+frame_0000000512-frame_0000000640:
+The first frame presents a winter road scene from a forward-moving perspective, with a wet, dark road curving gently to the right, framed by deep snow banks on both sides. On the left, a steep bank is covered in snow and lined with snow-laden bare trees and evergreens, while the right side also features snow banks and bare trees receding into the distance under an overcast sky.
+end of description
+As the viewpoint advances along the curving road, the snowy banks and surrounding trees continuously recede towards the back. A slender black pole on the left snow bank moves from the mid-left to the left background, becoming fully visible before passing the viewer. Subsequently, a round sign briefly appears among the trees further along the left side, partially obscured by branches. The dynamic progression reveals more of the winding, snow-covered road and the forested winter landscape ahead.
+frame_0000000640-frame_0000000768:
+A wet, snow-covered road stretches forward between high snow banks, flanked by a dense, snow-laden forest on the left slope and bare-branched trees lining the right, all under an overcast sky. A small dark pole is visible on the far left, embedded in the snow bank.
+end of description
+As the viewpoint moves steadily forward, the road and surrounding snowy forest landscape recede, continuously revealing more of the identical scene ahead. The dark pole on the left gradually moves out of view as new sections of the snow banks and trees are revealed to the left and right of the advancing viewpoint.
+frame_0000000768-frame_0000000896:
+The first frame displays a wet, snow-covered road extending directly forward from the viewer, flanked by high snowbanks. To the immediate left, a steep snowbank rises, topped by dense evergreen and bare deciduous trees laden with snow. To the right, a shallower snowbank borders the road, leading to a thick forest of snow-covered bare deciduous and evergreen trees, with an overcast sky visible above the distant tree line.
+
+end of description
+The following frames depict the viewpoint moving forward along the snow-covered road. Consequently, objects initially appearing further ahead in the first frame, such as the distant road and trees, progressively move closer and enlarge in the visual field. Simultaneously, the immediate snowbanks and foreground trees visible in the first frame gradually recede to the sides as the viewer passes them, revealing new sections of the snowy path and forest previously unseen directly ahead along the original trajectory.

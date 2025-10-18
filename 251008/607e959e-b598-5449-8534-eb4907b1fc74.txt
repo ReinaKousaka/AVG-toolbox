@@ -1,0 +1,28 @@
+frame_0000000000-frame_0000000128:
+The first frame shows an uphill paved road ascending towards the left, bordered by a white guardrail on its left and a multi-tiered rock retaining wall on its right. A modern house with a gray roof and white facade sits above the retaining wall to the right, partially obscuring a blue trash bin at the bottom right, while another house and autumnal trees are further up the hill to the left, all under a clear blue sky.
+end of description
+As the sequence progresses, the viewpoint moves forward and uphill along the road relative to the initial position. The modern house and the blue trash bin on the right recede and move out of frame to the right, as does the retaining wall. More of the uphill road and the guardrail on the left are revealed, with the background house and trees becoming increasingly visible further ahead on the left.
+frame_0000000128-frame_0000000256:
+In the first frame, a paved road ascends gently forward and curves to the left. A white guardrail lines the road's left edge, while a steep rock face, partially built with concrete blocks, rises on the right. Above this wall and to the right, a multi-story house with a balcony is visible amidst lush green and autumn-colored foliage. Further along the road on the left, several streetlights ascend towards distant hills under a clear blue sky.
+end of description
+The viewpoint moves steadily forward along the road; the guardrail on the left and the rock wall on the right appear to move closer and shift towards the bottom and sides of the frame. The houses and foliage above the wall on the right also recede to the right, revealing more of the steep terrain ahead.
+frame_0000000256-frame_0000000384:
+The first frame displays an asphalt road curving left and uphill from the foreground. On the left, a metal guardrail runs alongside a grassy slope with trees and distant mountains; on the right, a rocky embankment with foliage and stone steps ascends, featuring two lampposts and a light-colored building higher up.
+end of description
+As the viewpoint moves forward, objects initially in the mid-ground, such as the lampposts and parts of the embankment, advance closer to the first-frame's foreground. Concurrently, new segments of the road and landscape ahead become continuously revealed, extending beyond the initial visible area relative to the first-frame viewpoint.
+frame_0000000384-frame_0000000512:
+The first frame shows a paved road curving gently uphill, with a metal guardrail and grassy slope on the left, and a steep, rocky, vegetated embankment supporting a multi-story building and a streetlamp on the right. Distant mountains are visible ahead under a clear blue sky.
+end of description
+The viewpoint continuously moves forward along the road, causing the guardrail, road, and the right embankment with its vegetation to recede backward relative to the initial position. The prominent streetlamp on the right advances from the mid-ground towards the foreground and eventually passes out of view to the right. Simultaneously, the building on the elevated embankment moves backward, revealing more of its facade before its bottom-right portion starts disappearing from the frame.
+frame_0000000512-frame_0000000640:
+The first frame displays an asphalt road curving uphill towards the right, flanked on the left by a metal guardrail, a grassy slope, and several trees, with distant mountains under a clear blue sky in the background. To the right, a steep rocky bank supports a stone retaining wall and an arched opening, with a building visible further up the slope.
+end of description
+As the frames progress, the viewpoint steadily moves forward along the road, causing the guardrail on the left and the rocky bank with its arched opening and building on the right to progressively move from the midground towards and then past the viewer.
+frame_0000000640-frame_0000000768:
+The first frame shows an asphalt road curving slightly to the right, leading into the distance. To the viewer's immediate left, a metal guardrail runs parallel to the road, with a grassy slope and several green coniferous trees beyond it. On the right, a rocky embankment covered in dense reddish and green vegetation rises, topped by a beige building with visible windows. In the far background, distant mountains are visible under a clear blue sky.
+end of description
+As the frames progress, the viewpoint moves forward along the road. The guardrail on the left recedes and appears to move further left, while the grassy terrain and trees on the left side continuously slide out of view to the viewer's left. Simultaneously, the rocky embankment and the building on the right also recede and move out of frame to the viewer's right, revealing more of the winding road ahead. This movement makes the distant mountains appear slightly larger and closer.
+frame_0000000768-frame_0000000896:
+The first frame depicts a paved road curving gently uphill to the right, bordered on the left by a metal guardrail alongside grassy terrain and evergreen trees. To the right, a steep rocky bank covered in vibrant autumnal foliage ascends, with a distant light pole and part of a white-railed structure visible higher up. Far-off mountains dominate the background under a clear blue sky, with shadows stretching across the road.
+end of description
+As the sequence progresses, the viewpoint moves forward along the road. The metal guardrail and the evergreen trees on the left gradually move past the viewer, revealing more of the rooftops and structures behind them. Simultaneously, the rocky bank and autumn foliage on the right also recede, bringing the white railing and light pole closer into view as the camera advances along the curving path.

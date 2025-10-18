@@ -1,0 +1,16 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a view into a sunlit, dense conifer forest in the background, while the midground reveals a clearing with brown earth, green undergrowth, and several thin, dark, curved branches arching upwards from the lower right and center. A dark stream flows in the lower-left foreground, alongside mossy green ground, and dense, dark foliage occupies the far right.
+end of description
+The camera moves steadily forward, causing the foreground branches and stream to progressively pass out of view. This motion reveals more of the forest floor's undergrowth and debris directly ahead as the dense background conifer trees grow closer and expand across the frame.
+frame_0000000128-frame_0000000256:
+The first frame presents a forest floor with vibrant green vegetation and scattered fallen branches dominating the immediate foreground, with a small stream visible towards the bottom right. Behind this, a sloping midground area of mossy earth and logs ascends towards a dense background composed of tall evergreen trees, lit by sunlight filtering in from the upper right.
+end of description
+As the viewpoint progresses, it moves forward and slightly to the right relative to the initial position. The foreground stream becomes more clearly defined, appearing to flow towards the left. Concurrently, a new pile of cut logs is revealed in the midground, situated slightly right of the first frame's center, becoming increasingly prominent as the camera advances through the mossy terrain.
+frame_0000000256-frame_0000000384:
+The first frame displays a dense forest scene, with a foreground of green and yellow-brown grassy terrain mixed with moss and scattered fallen branches. Tall coniferous trees dominate the midground and background, extending across the entire frame. Slightly to the left of the center in the midground, a dark, partially obscured structure houses a prominent stack of orange-brown firewood. Sunlight filters from the upper left, illuminating the tree canopy and parts of the forest floor.
+end of description
+The viewpoint slowly and smoothly advances forward into the forest. The foreground grass and branches shift, moving from right to left across the frame as the perspective deepens. The stack of firewood, initially to the mid-left, gradually becomes more centrally located and appears larger as the viewer approaches it. The surrounding trees on both sides of the path slightly recede, maintaining their positions relative to the deepening view.
+frame_0000000384-frame_0000000512:
+The first frame displays a forest scene featuring a foreground of golden and green grass. Beyond this, a dense line of evergreen trees stretches across the midground and background, with sunlight filtering through the canopy. Centered slightly to the left, a stack of firewood covered by a dark tarp is visible amidst fallen branches and debris within the forest.
+end of description
+The subsequent frames show only extremely subtle, almost imperceptible shifts in camera perspective; no dynamic changes, newly revealed objects, or scenes emerge relative to the initial viewpoint, with the forest and firewood stack remaining static.

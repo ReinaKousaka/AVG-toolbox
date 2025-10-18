@@ -1,0 +1,10 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a road extending from the bottom center, curving slightly right, flanked by a brown grassy hillside on the left and a snow-covered bank with a concrete wall and utility poles on the right. A white car is visible in the left lane, positioned in the mid-ground and moving towards the viewer. In the mid-ground and background, houses are nestled on the slopes of hills covered in a mix of bare trees and evergreen forests, all beneath a bright blue sky with scattered clouds. A streetlight pole stands in the mid-ground, slightly left of the road.
+end of description
+As the scene progresses, the white car approaches the viewer from the mid-ground and then passes to the viewer's left, exiting the frame. The entire landscape, including the road, hills, and houses, appears to recede relative to the advancing viewpoint. A streetlight pole, initially in the mid-ground, moves forward alongside the viewer, eventually passing to the left. New sections of the road and the forested hillside to the right are continuously revealed ahead of the initial viewpoint.
+frame_0000000128-frame_0000000256:
+From the viewer's perspective on a paved road curving slightly right ahead, a two-story house with green trim appears on the left, backed by a snow-dusted hillside with trees and distant buildings under a partly cloudy sky. To the right, a snow-covered bank borders the road, featuring railway overhead lines. A black car is seen on the road ahead, following the curve.
+
+end of description
+
+As the viewpoint progresses, the house on the left grows larger, and the black car on the road ahead approaches, then turns left onto a side road, revealing a newly visible yellow-striped pedestrian crosswalk directly in front of the viewer. The snow-covered embankment and railway details to the right also become more prominent as the scene unfolds.

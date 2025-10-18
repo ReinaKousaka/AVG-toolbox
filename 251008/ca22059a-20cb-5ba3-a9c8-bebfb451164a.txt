@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The initial frame presents a city street viewed from a sidewalk, with two pedestrians walking away on the right and a light green car moving forward on the multi-lane road to the left, approaching a zebra crossing. Numerous diverse multi-story buildings line both sides of the street extending into the distance, under streetlights and red traffic signals against a clear blue sky.
+end of description
+In subsequent frames, the light green car proceeds continuously forward, crossing the zebra stripes and receding further down the street relative to the viewer's initial position. Simultaneously, the two pedestrians on the right sidewalk also advance steadily away, with no new elements entering the scene; only existing objects change their relative distance.
+frame_0000000128-frame_0000000256:
+The first frame displays a sunny city street extending into the distance, lined with multi-story buildings on both sides beneath a clear blue sky. In the foreground, a paved sidewalk is on the right, a central street lamp pole holds a red traffic light and a pink banner, and a white-striped crosswalk spans the asphalt road to the left, where a dark car is positioned. Several pedestrians are visible walking away from the viewer on the right sidewalk.
+end of description
+The dark car initially near the crosswalk drives forward along the road, passing the central street lamp from the viewer's perspective. The pedestrians on the right sidewalk continue to walk further away from the viewer. A new pedestrian emerges, crossing the street from the left side towards the right sidewalk, appearing in the mid-ground relative to the first-frame viewpoint.

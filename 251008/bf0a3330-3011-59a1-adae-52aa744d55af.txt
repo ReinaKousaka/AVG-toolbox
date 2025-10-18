@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a gravel path receding into a lush green forest. Several tall tree trunks stand prominently in the midground; one is on the far left, another slightly right of center, and a third further to the right. Rocks are visible alongside the path, particularly on the left, while dense foliage covers the hillsides in the background, with a bright sky peering through the canopy above.
+end of description
+As the viewpoint progresses forward along the path, the trees appear to move past the viewer, and the pathway ahead becomes more defined. A person or a small group of people gradually becomes visible in the distance, further down the path from the initial viewpoint. They slowly grow larger as the viewpoint continues to advance along the forest trail.
+frame_0000000128-frame_0000000256:
+A gravel path winds into a dense forest, flanked by a large tree and rocks on the left foreground, and a mossy bank on the right. Two figures walk away from the viewer in the midground, surrounded by numerous green-leaved trees under a bright sky.
+end of description
+As the camera moves forward along the path, the initial two figures recede further into the distance, and additional people emerge behind them, continuing to walk deeper into the forest relative to the first-frame viewpoint, with the surrounding foliage subtly shifting.

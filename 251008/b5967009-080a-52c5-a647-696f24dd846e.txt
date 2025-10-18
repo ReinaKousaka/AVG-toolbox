@@ -1,0 +1,10 @@
+frame_0000000000-frame_0000000128:
+A wet urban street scene is visible, with a red real estate sign on the left foreground sidewalk. A two-lane asphalt road, marked with a yellow line and an orange-striped speed bump, extends into the distance, bordered by orange traffic poles and a landscaped embankment on the right.
+end of description
+A small, dark object appears on the wet road slightly past the speed bump, then moves progressively across the road from left to right and further into the distance, eventually disappearing from view.
+frame_0000000128-frame_0000000256:
+The first frame depicts a wet street with a yellow and white crosswalk and orange bollards, leading towards the background where a white car and a small vehicle are visible; a sidewalk with Korean signs runs along the left, while trees and apartment buildings line the right and distant left.
+end of description
+In the subsequent frames, a red sliding gate appears from the far left edge of the initial viewpoint and progressively moves horizontally to the right. This motion gradually reveals more of the storefront previously obscured behind the gate on the left side of the scene.
+frame_0000000256-frame_0000000384:
+The first frame presents a wet urban street with a prominent yellow and white striped crosswalk in the foreground. To the left, a sidewalk features a tall blue real estate sign and building facades, while to the right, a landscaped area with bushes and trees parallels the road, delineated by orange traffic poles. end of description. Progressing through the frames, a strong stream of water emerges from a drain located on the sidewalk's edge to the left of the road, flowing dynamically across the wet asphalt road surface. This gushing water intensifies and visibly spreads further to the right across the road.

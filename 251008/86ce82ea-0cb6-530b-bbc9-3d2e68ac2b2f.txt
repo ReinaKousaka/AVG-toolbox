@@ -1,0 +1,6 @@
+frame_0000000000-frame_0000000128:
+The first frame captures a street scene bordered by two multi-story buildings: a white one with green shutters and a turreted roof on the left, partially obscured by a red and white striped barrier in the foreground, and a bright yellow "RESTAURANT Steinbock" building displaying a Swiss flag on the right. A street extends into the background, revealing more distant colorful buildings, a green mountain, and a billboard, with a person walking away from the viewer.
+
+end of description
+
+As frames progress, the red and white barrier on the far left gradually shifts out of view. The person walking down the street continues to move further away from the viewer, receding into the background, while the Swiss flag on the yellow building flutters slightly.

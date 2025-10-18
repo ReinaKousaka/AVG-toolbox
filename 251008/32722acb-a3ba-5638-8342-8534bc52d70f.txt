@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a narrow, light-colored dirt path extending from the viewer directly forward into the distance, flanked by vibrant green grass. To the left, a row of trees with dense foliage recedes alongside the path, while to the right, an open field of green leads to a distant field of yellow flowers and a tree line against a clear blue sky with sun glare on the upper right.
+end of description
+The viewpoint steadily moves forward along the path, causing the foreground grass and path edges to recede past the viewer. As the viewer progresses, the trees lining the path on both sides appear to move closer and then past, while the distant landscape, including the yellow flower field and horizon trees, remains ahead, slowly becoming slightly more prominent.
+frame_0000000128-frame_0000000256:
+The first frame displays a dirt path extending from directly in front of the viewer into the distance, flanked on the left by a dense line of trees and bushes, and on the right by a wide green field with patches of yellow flowers. In the distant background, a distinct cluster of trees stands against the horizon under a bright sky.
+end of description
+As the frames progress, the viewer moves forward along the path; the immediate path and surrounding greenery continuously recede behind the viewer's initial position. Consequently, the distant horizon and the cluster of trees appear to draw progressively closer as the viewpoint advances.
+frame_0000000256-frame_0000000384:
+A dirt path stretches towards the background, flanked on the left by a line of trees and bushes, including a large tree in the near foreground, and on the right by a vast green field with distant yellow highlights from a low sun. The horizon features a cluster of trees centrally, under a clear blue sky.
+end of description
+Subsequent frames show the viewpoint steadily advancing along the path, causing the large tree on the left to gradually recede and exit the frame as the perspective moves closer to the path's slight rightward curve into the distance, with no new objects or scenes revealed.

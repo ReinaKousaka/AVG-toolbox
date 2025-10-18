@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+In the foreground, a paved road curves gently to the left, featuring two manhole covers near the bottom center, flanked by dry grasses. To the left, a red circular speed limit sign (30) with a white rectangular sign below it stands next to green bushes. A utility pole with wires runs along the right side of the road, behind which a small brown wooden building is visible further down the curving path. Distant, hazy mountains rise in the background, with forested hills on the right and a bright, misty sky overhead.
+end of description
+Over the subsequent frames, the scene progressively brightens, and the mist obscuring the distant mountains dissipates, revealing more distinct details in the background. Simultaneously, objects like the roadside signs on the left and the utility pole on the right appear to shift closer and slightly larger relative to the initial viewpoint, suggesting a subtle forward movement along the road.
+frame_0000000128-frame_0000000256:
+A paved road recedes from the viewer towards distant hazy mountains under a bright sky, flanked by grassy embankments. To the left, a utility pole displays a 30 km/h speed limit sign and a rectangular sign with Japanese text, with a dilapidated structure further beyond. To the right, a small wooden building stands amongst dry grass, while utility poles and wires stretch overhead.
+end of description
+As the frames progress, the viewpoint moves forward along the road, causing all roadside objects like the utility poles, signs, and the wooden building to approach the viewer and grow larger in perspective. The immediate foreground continuously recedes, indicating an uninterrupted forward motion through the existing scene.
+frame_0000000256-frame_0000000384:
+The first frame shows a paved road extending into the distance from the viewer, bordered by a grassy bank topped with a concrete structure on the left, and dense, tall dry grass on the right. In the midground, a utility pole stands near a dark-roofed building, while distant hills rise under a hazy sky.
+end of description
+The following frames are nearly identical, exhibiting no significant dynamic changes or newly revealed objects or scenes from the first-frame viewpoint.

@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a paved area in the foreground, leading to a low green hedge. Beyond the hedge, traditional wooden chalets and a village are nestled at the base of a vast, forested mountain with a snow-capped peak in the background under a partly cloudy sky.
+end of description
+The scene slowly pans to the right, gradually revealing more of the village, the right side of the distant mountain range, and a winding path. Towards the far right, a wooden fence, a grassy slope, and a striking red-leafed tree progressively emerge into view, expanding the panoramic vista.
+frame_0000000128-frame_0000000256:
+A paved road curves in the foreground, flanked by green bushes, with a wooden fence section on the far right. In the midground, a cluster of chalet-style buildings and a larger structure nestle against a backdrop of majestic green mountains, some snow-capped on the left, under a blue sky with scattered clouds.
+end of description
+The subsequent frames depict a continuous camera pan to the right relative to the first-frame viewpoint. This causes the entire scene to shift leftward; the snow-capped mountain on the far left gradually recedes from view, and more of the red-leafed tree and grassy hillside to the right of the wooden fence become visible, expanding the scene further to the right.
+frame_0000000256-frame_0000000384:
+The first frame presents a picturesque mountain village scene. A paved road descends towards the viewer in the lower center, flanked by green grass and shrubs. To the left of the road, several traditional wooden houses with brown roofs are nestled amongst evergreen trees, with a larger, modern building visible further back. On the right, a grassy incline features a wooden fence and a prominent tree with reddish foliage. Towering green mountains, some with visible snow, dominate the background under a blue sky dotted with clouds.
+end of description
+There are no discernible dynamic changes or newly revealed objects across the subsequent frames; all frames in the sequence remain identical to the first.

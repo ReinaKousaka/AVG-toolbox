@@ -1,0 +1,6 @@
+frame_0000000000-frame_0000000128:
+A large dark buffalo with horns grazes in the foreground, slightly left of center, with another buffalo partially visible to its far left. In the midground to the right, a third dark buffalo walks away, while a body of water and distant hills with sparse vegetation form the background.
+end of description
+The buffalo on the right continues walking further right and exits the frame. The central buffalo consistently grazes, moving its head slightly. A new buffalo is then revealed in the mid-background, much further away and to the right of the initial viewpoint, which subsequently lies down in the grass.
+frame_0000000128-frame_0000000256:
+The first frame features a large, dark grey buffalo prominently in the foreground, grazing on green and yellow grass towards the left. A smaller, darker buffalo lies further back and to the right, partially obscured, with a strip of green trees and a hazy brown landscape in the distant background. end of description. The foreground buffalo slowly lowers its head further to continue grazing, increasingly obscuring its muzzle in the grass. By frame 6, a small white bird is newly revealed near the buffalo's left front leg, having been previously hidden by the buffalo itself. The bird then shifts slightly to the left and forward relative to the buffalo's position.

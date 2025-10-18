@@ -1,0 +1,10 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a dirt path curving from the bottom-left foreground, bordered on the right by a steep, sunlit grassy hillside dominating the midground, and on the far left, distant snow-capped mountains under a clear sky.
+
+end of description
+
+As the viewer moves forward along the path, more of the curving path ahead is revealed, with the distant snow-capped mountains on the far left gradually expanding into view, appearing larger relative to the first-frame viewpoint. Additionally, small figures of hikers become visible on the path ahead, moving closer to the viewer's original position from the mid-distance.
+frame_0000000128-frame_0000000256:
+The first frame displays a narrow dirt path receding from the bottom center towards the middle left. To the immediate right, a steep, sunlit grass-covered slope dominates, while a gentler grassy hillside descends to the left of the path, overlooking a valley. In the distant background, majestic snow-capped mountains are visible on the left under a bright blue sky.
+end of description
+As the frames progress, the viewpoint slowly moves forward along the path. A single individual appears as a small figure far ahead on the path and gradually walks further away from the viewer. The moving perspective reveals more of the path ahead and the rocky texture within the immediate grassy slope on the right.

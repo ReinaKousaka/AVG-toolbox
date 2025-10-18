@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a paved road extending from the bottom center and curving slightly left into the mid-distance. To the viewer's left, a dirt path borders the road, beyond which a dense evergreen forest covers a rising hillside; to the right, tall green and yellow grass lines the road, followed by scattered trees and a steep, tree-covered mountain slope. A clear blue sky with a small crescent moon is visible above the distant valley opening.
+end of description
+As the frames progress, the viewer moves forward along the road, causing the paved surface, the bordering grass, and the trees on both sides to rapidly approach and recede, emphasizing dynamic travel through the valley. The landscape continuously shifts to reveal more of the road ahead and the surrounding forested mountains, maintaining a consistent view from the first-frame viewpoint without introducing entirely new objects.
+frame_0000000128-frame_0000000256:
+The first frame depicts a paved road extending into the distance, curving slightly to the left, flanked by green grass. Dense forests cover the rising slopes on both the left and right, with a mountain face visible behind the right slope, all under a clear blue sky.
+end of description
+As the frames progress, the viewpoint moves forward along the road, causing foreground elements to blur with motion. Objects previously further ahead, such as the bend in the road and the surrounding trees, move closer and pass, while a yellow sign on the right and a low stone wall on the left become more distinct as they are approached and passed by the viewer.

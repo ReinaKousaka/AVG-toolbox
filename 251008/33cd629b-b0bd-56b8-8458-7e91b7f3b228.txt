@@ -1,0 +1,28 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a paved mountain road stretching forward from the viewer's position, bordered on the left by a silver guardrail and a steep drop-off to distant green mountains, and on the right by a heavily vegetated, rocky slope. The scene is set under a clear blue sky with sparse white clouds.
+end of description
+As the camera moves forward, the road, guardrail, and the adjacent rocky, vegetated slope on the right continuously pass by the viewer's sides, revealing new segments of the winding path ahead. The distant mountains to the left, beyond the guardrail, progressively become clearer as the viewpoint advances along the road.
+frame_0000000128-frame_0000000256:
+The first frame depicts a winding asphalt mountain road receding into the distance, with a silver guardrail running along its left edge above a deep valley displaying distant hazy green mountains. To the immediate right of the road, a steep, tree-covered cliff face rises, all under a clear blue sky with sparse clouds.
+end of description
+As the camera moves forward along the road, new segments of the cliff face and roadside vegetation continually pass by on the right, while the distant valley scenery to the left shifts. Concurrently, a small, dark signpost becomes progressively clearer on the left side of the road, further ahead of the first-frame viewpoint.
+frame_0000000256-frame_0000000384:
+The first frame depicts a narrow paved mountain road winding uphill and curving left, with a clear blue sky and scattered white clouds overhead. A silver guardrail runs along the road's left edge, beyond which a steep, grassy slope descends into a vast valley with distant blue-green mountains. To the road's right, a rocky mountain face covered in lush green trees and foliage rises steeply. Ahead on the left, a red and black sign on a pole is partially visible.
+end of description
+As the viewpoint moves forward along the road, the immediate surroundings progress past the viewer. The silver guardrail and grassy slope on the left, and the rocky, tree-covered mountain wall on the right, gradually move closer and then disappear behind the viewer. Simultaneously, the red and black sign on the left side of the road becomes more prominent and clearer, revealing Chinese characters on its red surface as it approaches the viewer's position.
+frame_0000000384-frame_0000000512:
+The first frame presents a narrow paved road curving upwards and to the right in the foreground, bordered by a silver guardrail on its left and a rocky mountain wall on its right. To the left of the road, above the guardrail, a red "No Smoking/No Fire" sign is prominently visible, set against distant hazy green mountains, while lush green trees line the mountain slope on the right under a blue sky with scattered clouds.
+end of description
+As the viewer progresses forward along the road, the red sign gradually moves out of the frame to the left relative to its initial position. The winding path ahead and the expansive mountain scenery to the left become more prominent as the rocky wall and its overhead vegetation on the right continue to accompany the forward movement.
+frame_0000000512-frame_0000000640:
+The first frame displays a narrow, paved road ascending and curving to the right, with a metal guardrail lining its left edge. To the right of the road, a steep, rocky, and heavily vegetated hillside rises sharply, while to the left, distant green mountains are visible under a bright blue sky with scattered clouds.
+end of description
+As the camera moves forward, the guardrail on the left and the vegetated hillside on the right continuously approach the viewer, pass by, and recede behind them. Road surface cracks also appear closer and then vanish beneath the viewpoint, indicating steady progression. The distant mountains and sky remain largely stable in the background.
+frame_0000000640-frame_0000000768:
+The first frame depicts a narrow, cracked, light-colored paved road ascending and curving slightly left towards the top-middle of the view. A silver guardrail runs along the road's left edge, while a densely vegetated, rocky hillside rises sharply to the right. To the far left, beyond the guardrail, a deep valley with distant green mountains is visible under a blue sky with scattered white clouds. A small tree stands near the guardrail further up the road.
+end of description
+As the viewer moves forward along the path, the road and guardrail extend into the foreground, with new sections continually revealed ahead of the initial first-frame viewpoint. The vegetated hillside on the right moves past the viewer, revealing more of its rocky, tree-covered ascent further along the road. The distant mountains and valley on the left remain visible as the scene progresses. Eventually, a yellow triangular warning sign becomes visible on the right hillside, positioned further ahead from the first frame's perspective.
+frame_0000000768-frame_0000000896:
+A winding paved road stretches forward, curving slightly right into the distance. To the left, a metal guardrail borders a steep drop-off revealing distant green mountains under a bright blue sky dotted with scattered clouds. To the right, a rocky cliff face, heavily covered in green foliage, rises sharply.
+end of description
+As the scene progresses, the viewpoint moves forward along the road, causing the guardrail on the left and the cliff face on the right to shift past the viewer. A yellow triangular road sign, initially partially obscured by foliage on the right cliff, gradually becomes more visible and appears to approach the viewer, clearly showing a winding road symbol. The distant mountains to the left remain in view as the landscape gently slides by.

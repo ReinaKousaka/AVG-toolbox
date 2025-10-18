@@ -1,0 +1,10 @@
+frame_0000000000-frame_0000000128:
+The first frame displays an aerial view of a vibrant cityscape bordering a large body of dark blue water to the right. To the left, a wide street with moving vehicles and pedestrians runs parallel to the water, flanked by multi-story buildings and trees with autumn foliage. In the mid-ground, a promenade or dock area extends into the water, featuring a circular building with an outdoor dining area and several prominent red-and-white boats moored along its edge. Distant city buildings with varying architectures fill the background and top of the frame.
+
+end of description
+As the frames progress, the viewpoint subtly pulls back and shifts slightly left, gradually revealing more of the sprawling city architecture to the left and a larger expanse of the dark water to the right relative to the initial view. Vehicles, including cars and a white bus, are observed moving along the street in the bottom-left area of the first frame. A light blue boat, initially docked near the circular building, drifts slightly further into the water, away from its original mooring.
+frame_0000000128-frame_0000000256:
+The first frame presents an aerial view of a city waterfront, with a dark body of water occupying the right half and a bustling street with buildings on the left. A wide promenade, featuring multiple docked red and white boats, a circular restaurant, and rows of small trees, separates the water from the street, leading towards distant city buildings in the background.
+
+end of description
+Throughout the subsequent frames, the camera subtly zooms out or moves slightly upward, causing the entire scene to appear a fraction smaller within the frame, expanding the overall visible area of the city to the viewer's left and the water to the viewer's right. Concurrently, vehicles like cars and buses are observed moving along the street to the left of the viewer, while the boats docked along the promenade remain stationary.

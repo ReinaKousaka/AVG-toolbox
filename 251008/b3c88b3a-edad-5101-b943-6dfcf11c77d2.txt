@@ -1,0 +1,18 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a pedestrian area flanked by buildings. To the viewer's immediate left, a restaurant storefront with large windows displays numerous fairy lights and blue neon, with an orange circular sign above its entrance. In the foreground left, a yellow and brown banner advertises "GRAB N' GO" services, situated in front of outdoor seating with black tables and chairs. A tall, light-colored column stands centrally in the midground, to its right is another building facade with large glass windows revealing interior lighting and plants, and an A-frame sign on the sidewalk. The background right opens into a walkway, bordered by another modern building featuring a green-tinted glass ceiling or facade.
+
+end of description
+
+Rain becomes visible falling across the scene, particularly noticeable from the second frame onward. From the far right background, a person in a dark jacket and pants enters the frame in frame 4, walking leftward across the scene. Subsequently, a second person wearing a dark jacket and red pants appears from the same far right background in frame 6, following behind the first person as they both continue to move leftward into the mid-left background relative to the initial viewpoint.
+frame_0000000128-frame_0000000256:
+The first frame depicts a modern outdoor urban plaza flanked by dark-façaded buildings on the left and right, with a large glass and steel structure overhead. In the foreground left, a concrete pillar stands beside a building featuring an orange circular 'P' sign and reflective windows, with a black A-frame sign below. Centered in the midground, a light-colored, curved bench sits on wet pavement, near a tree wrapped in white lights to the right, where two people walk towards the viewer.
+end of description
+Throughout the following frames, the two individuals steadily advance from the midground right towards the foreground right, coming closer to the viewer.
+frame_0000000256-frame_0000000384:
+In the first frame, an urban passage features a modern glass and green-roofed building in the background. A pillar and "LA PALMERA NOW OPEN" sign are to the left, while a curved bench sits centrally and trees with string lights line the right. Several people are visible in the mid-ground, with one man near the bench and others further right, walking towards the left.
+end of description
+As the frames progress, all visible individuals walk from the right mid-ground towards the left, eventually exiting the frame, maintaining the same overall setting.
+frame_0000000384-frame_0000000512:
+The first frame captures a modern plaza with a wet paved path receding towards the background, flanked by a glass-fronted building on the left and a building with illuminated, bare trees on the right, under a connecting overhead glass and steel structure, with multiple pedestrians moving away from the viewer.
+end of description
+In subsequent frames, the individual on the far left moves further away, eventually exiting the frame left, while the person in red pants on the right continues down the steps and along the path, also exiting right. Concurrently, two other pedestrians on the central path steadily walk further into the background. All movement consists of existing figures moving away from the viewer, with no new objects or scenes revealed.

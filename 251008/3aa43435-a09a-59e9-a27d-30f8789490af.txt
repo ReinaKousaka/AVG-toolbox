@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+First frame shows a sun-dappled, upward-sloping rocky dirt path leading into a dense forest, with a large grey concrete structure partially visible to the upper left and lush green foliage on the right.
+end of description
+As the camera slowly moves forward and slightly upward along the path, the concrete structure on the left gradually recedes, revealing more of the darker space beneath it, while the foliage on the right passes by, and the dappled shadows shift dynamically across the ground.
+frame_0000000128-frame_0000000256:
+The first frame presents a dirt path ascending from the lower center towards the upper center-right, flanked by a large dark rock formation and a concrete structure with pillars and debris underneath on the left. To the right, multiple tree trunks with dense green foliage occupy the foreground and mid-ground, while distant trees and bright sky are visible in the background.
+end of description
+There are no dynamic changes, newly revealed objects, or scene alterations in the subsequent frames; all images are identical to the first.

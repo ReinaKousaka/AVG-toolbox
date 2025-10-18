@@ -1,0 +1,30 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a bright blue sky with a sunburst in the upper-left, overlooking a distant hazy valley containing a town and a white car parked below a prominent brick wall that stretches into the foreground, running parallel to a cobblestone road on the right, which recedes into the distance, bordered by large green trees and buildings. end of description. The viewpoint then moves steadily forward along the cobblestone road. As this occurs, the brick wall in the foreground and the road beneath the viewer appear to shift from right to left relative to the original frame edges, revealing more of the street ahead. The parked white car on the lower-left recedes and ultimately disappears out of view to the left.
+frame_0000000128-frame_0000000256:
+The first frame displays a paved road or path, with a yellow line, receding into the distance under a bright blue sky with a sun glare in the upper left. A low stone wall runs parallel to the path on the viewer's left, overlooking a distant, hazy landscape with bare trees. On the right, large green trees line the path, behind which a building is partially visible in the mid-distance; a small white car is barely discernible far ahead on the road.
+
+end of description
+
+As the frames progress, the viewpoint subtly moves forward relative to the initial position, causing the stone wall on the left, the paved path ahead, and the trees on the right to appear closer. Concurrently, more of the distant landscape to the left becomes visible, and the shadow on the path lengthens and sharpens.
+frame_0000000256-frame_0000000384:
+The first frame shows a sunny street scene with a low stone wall extending from the left foreground towards the midground. To its right, a paved sidewalk leads to a cobbled road with a yellow line, flanked by rows of green trees on both sides and a yellow building on the right. In the distance, hills and more trees are visible under a clear blue sky.
+
+end of description
+
+The subsequent frames reveal no dynamic changes or newly revealed objects; the scene remains static. There is only an imperceptible shift in perspective, suggesting minimal camera movement or stabilization.
+frame_0000000384-frame_0000000512:
+A paved road with a faint yellow centerline extends from the foreground towards the far distance, flanked on the left by a low brick wall overlooking distant bare trees, and on the right by large green trees and a yellow building with a fence.
+end of description
+The viewpoint advances along the road, causing the brick wall on the left to recede and reveal more of the sidewalk and paved road ahead, while the trees and yellow building on the right draw closer, and the distant white car remains visible further down the path.
+frame_0000000512-frame_0000000640:
+The first frame displays a brick-paved road with a yellow dividing line leading into the distance under a bright blue sky. To the left, a low stone wall lines the road, beyond which an expanse of bare trees is visible against the horizon; to the right, a sidewalk runs parallel to a row of large green trees, fronting a prominent yellow building with green shutters. A white car is parked further down the road, directly ahead.
+end of description
+As the frames progress, the viewpoint moves forward along the road. The white car ahead appears to draw closer and larger, while the trees and yellow building on the right become more defined, indicating the viewer's continuous forward motion through the scene.
+frame_0000000640-frame_0000000768:
+The first frame presents a paved road with a yellow dashed line extending forward, flanked by a low stone wall on the left and a yellow multi-story building on the right, partially obscured by large trees. Bright sunlight emanates from the upper left, casting shadows across the road, while a white car is parked in the distance along the left side.
+end of description
+No dynamic changes or newly revealed objects occur in the subsequent frames; the scene remains static with no discernible movement.
+frame_0000000768-frame_0000000896:
+In the first frame, a paved road with a yellow central line stretches into the distance, flanked by a brick-paved sidewalk on the left, which borders a low stone wall. Beyond the wall to the far left, a distant landscape with bare trees is visible, under a bright sun causing a strong flare in the upper left. A line of large, dense green trees runs along both sides of the road, obscuring much of the left side's background, while a multi-story yellow building with green shutters is visible on the right behind the trees. A white car is parked on the left side of the road further in the midground.
+end of description
+No significant dynamic changes or newly revealed objects occur in the subsequent frames. The scene remains largely static, with the parked white car, trees, buildings, and general street layout maintaining their positions relative to the first-frame viewpoint. Only very subtle shifts in the sun flare's exact position and intensity are perceptible.

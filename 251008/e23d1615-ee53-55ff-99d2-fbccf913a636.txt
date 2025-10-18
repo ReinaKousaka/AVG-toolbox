@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a train track stretching forward, gently curving right into a forested landscape, with patches of snow along its sides. Dark evergreen trees dominate the left and right, interspersed with lighter deciduous trees, all under a blue sky with scattered white-grey clouds. A utility pole with overhead lines extends towards the background, slightly right of the track's center, while an asphalt road runs parallel to the tracks on the right.
+end of description.
+As the frames progress, the viewpoint moves forward along the tracks; the utility pole and power lines approach the viewer, passing overhead and then to the left. The surrounding trees and snow-dusted ground continually flow from the distant background towards and past the viewer, revealing more of the track's rightward curve as the journey continues.
+frame_0000000128-frame_0000000256:
+The viewer observes a train track stretching into the distance and curving slightly right, flanked by dark forests on both sides, with some patches of white visible on the ground to the right. Overhead wires run above the track, accompanied by a utility pole visible in the mid-distance to the left, all under a bright blue sky with prominent clouds.
+end of description
+As the scene progresses, the viewer moves forward along the tracks, causing the previously distant forests, the utility pole, and the patches of white ground to steadily approach the first-frame viewpoint. These elements then appear closer to the viewer before receding behind the original position. The overhead wires continuously extend above the moving viewpoint towards the horizon.

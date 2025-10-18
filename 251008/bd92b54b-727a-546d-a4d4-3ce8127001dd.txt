@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a high-angle view of a sprawling metropolis from what appears to be a tall building, framed by dark window borders on the left and right. A vast urban landscape of countless buildings, predominantly grey and beige, fills the mid-ground and extends into the hazy distance, with green-roofed structures visible towards the lower left. A multi-lane road runs diagonally from the lower right to the mid-upper center, and a river meanders through the city in the upper-mid section, flowing from left to right. The background features a distant city skyline against a clear blue sky with sparse white clouds.
+end of description
+There are no dynamic changes, newly revealed objects, or scene alterations across the subsequent frames; the video remains static, depicting the same high-angle cityscape throughout.

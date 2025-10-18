@@ -1,0 +1,20 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a paved path extending forward and slightly curving left into a densely forested area, with vibrant green trees and foliage flanking both sides. Dappled sunlight illuminates the path and surrounding greenery, revealing a light-colored bench in the distant center-left.
+end of description
+The subsequent frames reveal no dynamic changes or newly revealed objects from this initial viewpoint.
+frame_0000000128-frame_0000000256:
+A paved path extends from the viewer into a verdant forest, flanked by dense green trees and foliage, with dappled sunlight on the ground and a white bench visible in the distant center-left.
+end of description
+No discernible dynamic changes or newly revealed objects occur across the subsequent frames, as the scene remains largely static with only minor, imperceptible variations.
+frame_0000000256-frame_0000000384:
+The first frame displays a paved path extending into the distance, bordered by green grass and dense trees on both sides, with dappled sunlight illuminating the scene and a white bench visible far down the path in the background.
+end of description
+As the frames progress, the viewpoint moves forward along the path. The white bench appears closer and larger ahead, remaining in the background relative to the initial frame. Simultaneously, a person walking ahead on the path becomes increasingly visible, emerging from the deep background towards the middle ground relative to the initial perspective.
+frame_0000000384-frame_0000000512:
+The first frame depicts a paved path extending directly away from the viewer, lined by green grass and dense trees on both sides under dappled sunlight. A light-colored park bench is positioned to the right of the path in the middle ground, with a lone person faintly visible much further down the path.
+end of description
+As the frames progress, the camera moves forward along the path; foreground trees and grass recede from the initial viewpoint. Concurrently, the park bench and the distant person steadily approach the first-frame viewpoint, appearing larger with each passing frame.
+frame_0000000512-frame_0000000640:
+A paved path extends forward through a lush green forest, dappled with sunlight and shadows. On the right, a wooden park bench sits on the grass, backed by dense bushes. Tall trees with vibrant green leaves fill the rest of the scene, and a large tree trunk occupies the far right foreground. In the far distance along the path, a faint human figure is visible.
+end of description
+The initial faint human figure in the distance gradually resolves into a person riding a bicycle directly towards the viewer along the path. This individual, wearing dark clothing, continuously approaches, remaining on the left side of the path relative to the viewer's current position as they draw nearer.

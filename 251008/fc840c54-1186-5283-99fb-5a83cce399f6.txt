@@ -1,0 +1,14 @@
+frame_0000000000-frame_0000000128:
+In the first frame, a person walks a dog away from the viewer on a reddish sidewalk to the right, adjacent to a street lined with parked cars and a distant building with a red roof and white spires on the far left.
+end of description
+In subsequent frames, the person and dog continue walking forward along the sidewalk, moving further away from the first-frame viewpoint. As they progress, more of the building's facade to the right is revealed, showing additional outdoor dining tables, decorative elements, and artwork. The viewpoint subtly advances, exposing more of the street and parked vehicles ahead.
+frame_0000000128-frame_0000000256:
+In the first frame, a street scene extends into the distance under a light sky. To the viewer's immediate right, a blue metal railing runs along a red-brown sidewalk, featuring a long wooden planter box. Beyond the railing, red chairs and wooden tables suggest an outdoor patio area, fronting a building with a decorated facade and a covered walkway supported by pillars, adorned with lanterns and festive elements. To the viewer's left, a dark grey street has a line of parked cars, with a dark SUV closest to the viewer. Further down the street on the left, adobe-style buildings, one with arches and another with a yellow-leafed tree and street light, recede into the background.
+end of description
+As the camera moves forward, the blue railing, planter box, patio furniture, and the initial section of the building facade on the right progressively move from the right foreground to behind the first-frame viewpoint. Simultaneously, the parked cars on the left side of the street also recede behind the first-frame viewpoint. New segments of the continuous building, sidewalk, and street, previously further ahead of the initial viewpoint, are revealed into the foreground and midground.
+frame_0000000256-frame_0000000384:
+A street scene is viewed from a sidewalk, with a black SUV parked on the left street side followed by a line of other cars receding into the distance, while a restaurant with an outdoor patio featuring red chairs behind a blue railing is on the right. In the immediate foreground to the right, a wooden planter box is partially visible, and a large building with arches stands in the far left background.
+
+end of description
+
+As the sequence progresses, the camera moves forward along the sidewalk. The black SUV on the left recedes and moves out of the frame to the left, revealing more of the street and subsequent parked cars beyond its initial position. Concurrently, the blue railing and the restaurant facade on the right steadily move closer to the viewer's path, revealing more of their length and detail from the initial viewpoint. The wooden planter box eventually exits the frame to the right as the viewer passes it.

@@ -1,0 +1,11 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a narrow, dark asphalt road extending upwards and forwards into the distance, flanked by steep, green, vegetation-covered hills and scattered rocks. A bright sun is positioned in the upper-left of a clear blue sky, with white clouds scattered across the upper-left and middle.
+end of description
+As the viewpoint moves forward along the road, new stretches of the road are continuously revealed ahead. Rocks and dense green foliage previously further along the path appear closer to the viewer on both the left and right sides before receding behind the viewer. A small waterfall or stream flowing down the hillside on the right side becomes visible as the view progresses, moving past the viewer.
+frame_0000000128-frame_0000000256:
+A narrow, dark gray road extends directly forward and uphill, flanked by steep, lush green hills covered in vegetation and scattered rocks. The bright blue sky, with scattered white clouds and a prominent sun in the upper left, fills the upper portion of the frame.
+end of description
+The subsequent frames show the viewpoint steadily moving forward along the road, causing the immediate road surface and surrounding hillside vegetation and rocks to progressively pass beneath and to the sides of the viewer. The distant hills and sky remain largely consistent in their relative positions as the journey continues.
+frame_0000000256-frame_0000000384:
+The first frame captures a dark asphalt road stretching directly ahead, curving slightly left as it ascends between green hillsides covered in ferns and grass rising steeply on both sides. Above, a bright blue sky with scattered white clouds is visible, with the sun glaring from the upper-left. end of description.
+As the frames progress, the viewpoint moves forward along the winding road, causing the immediate green hillsides to shift past to the left and right, revealing new sections of the ascending path ahead.

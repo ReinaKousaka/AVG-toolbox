@@ -1,0 +1,6 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a rainy street intersection from a sidewalk, with a decorative pole on the foreground right and a yellow delivery scooter with a rider crossing a striped crosswalk on the mid-right; a black SUV and another dark car are visible on the wet road to the left under green traffic lights.
+
+end of description
+
+The yellow scooter rapidly moves off-frame to the left. Next, the black SUV from the mid-left proceeds to turn right through the intersection. The second dark car, previously further back on the left, follows the SUV, also turning right through the intersection and eventually exiting the frame.

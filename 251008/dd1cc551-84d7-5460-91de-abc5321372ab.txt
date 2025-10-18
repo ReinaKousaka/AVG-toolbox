@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a dirt path extending forward, with two people and three dogs on a grassy verge to the viewer's left, alongside distant houses and hills. Ahead on the path, two people are jogging away, while a wooden bench sits to the viewer's right.
+end of description
+As frames progress, the viewpoint moves forward along the path, causing the group with dogs to the left and the bench to the right to be passed and move out of frame. The jogging individuals ahead remain visible, slowly drawing closer relative to the original first-frame viewpoint.
+frame_0000000128-frame_0000000256:
+The first frame shows a dirt path leading away from the viewer, bordered by a dry, leaf-covered embankment with bare trees to the right, and a green grassy field with houses, two tall evergreen trees, and a white flag to the left. A runner in a blue jacket is ahead on the path, followed by a small group of people further in the distance on the right side of the path, with a digital overlay at the bottom and right.
+end of description.
+As the viewer progresses along the path, the runner and the distant group move further away from the first-frame viewpoint. The houses, evergreen trees, and the white flag, initially in the midground to the left, are gradually passed by the viewer, shifting further left and eventually out of the frame relative to the original viewpoint as the dry embankment on the right also moves past the viewer's advancing position.

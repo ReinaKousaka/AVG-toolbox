@@ -1,0 +1,28 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a wet urban street scene on an overcast day. On the right, a man wearing a dark jacket and mask walks towards the viewer on the sidewalk, positioned near a black trash can and a lamppost with a traffic light. Adjacent to the sidewalk, a building features vibrant graffiti on its blue and brick walls, while a wet asphalt road occupies the left side. On the road, two cars drive away into the background, past colorful storefronts lining the left side of the street.
+end of description
+In the subsequent frames, the man on the sidewalk continues walking directly towards the viewer, progressively growing larger and closer within the frame. He moves past the lamppost and trash can, remaining on the right side of the street relative to the first-frame viewpoint, steadily approaching the foreground.
+frame_0000000128-frame_0000000256:
+In the first frame, a man wearing a mask and green hoodie walks on a wet sidewalk towards the viewer from the lower-left. To the viewer's right is a brick building with graffiti and a large mural of blue and green abstract faces, while on the left, a street with parked cars and a street light pole with a 'W 12th St' sign extends into the distance.
+end of description
+The man continues walking past the viewer's left. As he moves, a black trash can and a red fire hydrant, previously partially obscured, become fully visible next to the street light pole. Following this, a green SUV appears from the left and slowly drives away from the viewer along the street.
+frame_0000000256-frame_0000000384:
+The first frame displays a wet city street and sidewalk on an overcast day, with a black trash can in the bottom left and a street sign pole behind it, while a brick building with blue and green graffiti murals occupies the right foreground. A red fire hydrant is on the midground sidewalk, and a dark SUV drives away on the left street, past parked red and grey cars, with stores and trees lining the street into the distance.
+end of description
+The dark SUV initially present on the left side of the street drives further away from the viewer, revealing a white sedan parked behind it. Subsequently, a second dark SUV enters the frame from the far left and moves across the street, traveling away from the viewer past the street pole and trash can. This vehicle continues its movement, disappearing from the frame on the left.
+frame_0000000384-frame_0000000512:
+The first frame shows a wet street scene with a red fire hydrant in the foreground left and several cars driving away to the left. A sidewalk with bare trees and storefronts extends from the mid-ground towards the background right, where a large blue mural on a metal gate is visible on the immediate foreground.
+end of description
+Subsequently, the viewpoint subtly advances forward. The blue mural on the foreground right gradually slides to the right, progressively revealing more of the brick wall and a store window located directly behind it. Concurrently, the cars on the street continue to move further away from the viewer.
+frame_0000000512-frame_0000000640:
+The initial frame shows a wet city sidewalk on the right, bordered by a brick building featuring a graffiti-covered window. To the left, a street with a parked gray car and a street sign leads past bare trees with red banners, extending towards distant storefronts and people under an overcast sky.
+end of description
+As the camera moves forward relative to the initial viewpoint, the street sign on the left exits the frame, and the graffiti-covered window on the right moves out of view, revealing more storefronts to the right. The parked gray car is passed on the left, and a pedestrian previously in the mid-distance on the sidewalk appears closer.
+frame_0000000640-frame_0000000768:
+The first frame depicts a wet urban sidewalk receding into the distance, flanked by a street with parked vehicles to the left, including a grey sedan closest to the viewer. A large tree trunk is in the immediate left foreground, while a brick building with a poster-covered storefront window stands to the immediate right. Further down, more buildings, trees adorned with red banners, and pedestrians are visible under an overcast sky.
+end of description
+As the scene progresses, the viewer slowly advances forward, revealing more of the 'Toner Refill' sign on the storefront to the right. Concurrently, a red car, initially parked behind the grey sedan on the left, begins to move forward and recedes down the street relative to the first-frame viewpoint.
+frame_0000000768-frame_0000000896:
+In the first frame, the viewer stands on a wet sidewalk looking down a street. To the immediate right, a building with large reflective windows and an overhanging awning displays a "Panasonic" sign and other text; a dark gray car is parked to the immediate left. Further down the wet sidewalk in the midground, a person in dark clothing carries a blue bag, walking away from the viewer, while trees with red banners line the left side of the sidewalk and a street with moving cars extends into the distance.
+end of description
+The person on the sidewalk continues to walk further away from the viewer. On the street to the left, a dark minivan-like vehicle moves from the midground towards the background, passing other parked and slowly moving cars, all receding further from the initial viewpoint.

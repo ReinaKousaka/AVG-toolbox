@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a nighttime city street scene under heavy rain. In the background, numerous illuminated high-rise buildings form a dense skyline. The mid-ground features a wide, wet road reflecting the vibrant lights, flanked by sidewalks with pedestrians, some holding umbrellas, and moving vehicles including a bus on the far left. Green traffic lights are visible ahead, and a very bright streetlight on the mid-right dominates that side of the frame.
+end of description
+In subsequent frames, the rain streaks become more pronounced across the entire scene. A bus on the road's far left steadily moves forward. Pedestrians on both sidewalks continue their movement, and a pair of people with an umbrella in the middle distance of the road gradually progresses towards the viewer's right.
+frame_0000000128-frame_0000000256:
+The first frame depicts a wide, wet city street at night, reflecting a vibrant array of artificial lights from tall buildings and billboards on the left and stretching into the distant background. A glaring streetlamp dominates the right foreground, while several faint figures with umbrellas are visible in the mid-ground, navigating the left side of the road, all under a visible overlay of falling rain.
+end of description
+Throughout the following frames, the urban landscape remains largely static, but the central traffic light in the mid-ground dynamically changes color from green to an amber/purple hue, distinctly altering its reflection on the flooded street. Beyond this, the continuous fall of rain and the general luminosity of the city persist without significant variation.
+frame_0000000256-frame_0000000384:
+The first frame depicts a rainy city night scene looking along a wide, wet street reflecting vibrant city lights. To the left, numerous illuminated skyscrapers stand alongside a road where distant cars move and people with umbrellas walk, under green traffic signals. A powerful streetlight dominates the upper right, casting a brilliant glow and reflection on the right side of the street and a vegetated median.
+end of description
+Subsequent frames show continuous heavy rain dynamically splashing across the wet ground. Cars on the far left road slowly advance forward, while a person with a dark umbrella in the mid-left walks steadily from right to left, relative to the initial viewpoint.

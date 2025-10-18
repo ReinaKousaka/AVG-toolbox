@@ -1,0 +1,16 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a snowy forest path extending forward from the viewer, bordered by a large snow-covered rock on the immediate right and a steep, tree-lined embankment on the left. A partially frozen stream runs parallel to the path in the mid-ground, leading into a dense snowy forest under a bright sky with dappled sunlight.
+end of description
+The camera steadily moves forward along the snowy path, revealing more of the winding track ahead as the large rock initially to the viewer's right recedes and moves out of frame. As the viewpoint advances, the trees lining both sides of the path, including the evergreen canopy to the left and taller deciduous trees to the right, continuously reveal new sections of the stream and forest previously ahead of the viewer's initial position.
+frame_0000000128-frame_0000000256:
+The first frame depicts a snow-covered winter forest, with a stream or creek running across the lower mid-ground, partially frozen and covered in snow. A large, dark tree trunk is prominent on the far left, while dense evergreen trees, many laden with snow, fill the mid-ground and background on both sides of the stream. Sunlight streams through the trees, casting bright patches and shadows on the snow.
+end of description
+The viewpoint slowly moves forward and slightly to the right. The large tree on the far left progressively recedes out of the immediate foreground, revealing more of the snow-covered ground and small trees behind it. The stream bed and rocks in the mid-ground become more visible as the camera advances, exposing greater detail of the ice and snow accumulation. Shadows and sunlit areas on the snow shift dynamically, enhancing the sense of movement through the winter landscape.
+frame_0000000256-frame_0000000384:
+The first frame shows a snow-covered forest path leading into the distance, bordered by snow-dusted rocks and tall evergreen trees. A large fallen tree trunk, also snow-dusted, lies diagonally across the midground on the right side of the path.
+end of description
+As the viewpoint progresses, the camera moves forward along this path, revealing more of the snowy terrain previously ahead and slightly to the right of the initial view. The snow-covered rocks and bank on the left foreground of the first frame gradually recede and shift further left as the perspective advances.
+frame_0000000384-frame_0000000512:
+The first frame shows a snow-covered forest scene. To the left, a steep, rocky, snow-covered incline rises upwards. In the foreground, snow covers the ground, with tree trunks sparsely scattered across the center and midground. A prominent snow-covered tree trunk leans into the frame from the right, extending diagonally upwards. In the background, numerous tall, slender trees with some green foliage line a path or frozen creek bed that recedes into the distance on the right.
+end of description
+The viewpoint slowly progresses forward and slightly to the right, causing the foreground snow and rocks on the left to recede slightly and revealing more of the path/frozen creek on the right. The large snow-covered tree trunk on the right becomes more central, and its base becomes more visible. The background trees and a large boulder on the right become slightly more prominent, while the overall illumination on the snow brightens subtly.

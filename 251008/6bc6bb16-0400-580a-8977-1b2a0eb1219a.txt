@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a bustling night market aisle with the backs of two individuals in the immediate foreground. On both sides, clothing racks filled with garments extend into the mid-ground, flanked by stalls displaying items like colorful plush toys on the far left and mannequins wearing coats, with numerous people walking further down the narrow aisle in the background.
+end of description
+As the frames progress, the viewpoint slowly moves forward through the market. The two foreground individuals recede from the viewer, while previously mid-ground clothing racks and market stalls, along with more shoppers, become progressively closer and more detailed to the viewer's left and right, revealing new garments and price signs. The distant background buildings remain visible but appear slightly closer relative to the first-frame viewpoint.
+frame_0000000128-frame_0000000256:
+The first frame shows a bustling night market street from an over-the-shoulder perspective, with the back of a person's head visible to the viewer's right and clothing racks on the left. Numerous people walk down the illuminated street in the midground, flanked by market stalls displaying garments on mannequins and racks, under signs with Chinese characters, all against a dark background of buildings.
+end of description
+As the frames progress, the viewpoint subtly moves forward and slightly to the left, causing the clothing racks on the left to slide partially out of view. The person in the right foreground shifts forward, progressively revealing a brightly lit shoe display on shelves directly to the right of the main street. More market activity and people continue to be visible as the scene slowly advances through the narrow pathway.

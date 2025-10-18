@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+First, a wet city street under an overcast sky is depicted, with a traditional building featuring a dark tiled roof on the far left and a sidewalk on the right containing an orange '유료 주차' sign. A silver sedan with illuminated headlights occupies the mid-ground, moving rightward on the street marked with yellow lines, while a modern building stands behind it on the left and a wooden barrier on the right further down the road; a white car is visible in the distant background.
+end of description
+Subsequently, the silver sedan continues its movement to the right, eventually exiting the frame from the original right-hand side. Concurrently, a person holding a red umbrella emerges from the far left sidewalk, walking towards the right, and the white car from the distant background gradually moves closer to the viewer. Another silver car then appears behind the approaching white car in the far background.
+frame_0000000128-frame_0000000256:
+The first frame presents a wet city street seen from a slightly elevated viewpoint, with a white car positioned centrally in the midground, its headlights on. A person with a red umbrella walks on the left sidewalk beside a traditional building and modern structures, while an orange cone stands on the right sidewalk, and the road ascends into the background.
+end of description
+The white car proceeds past the viewer, moving towards the left foreground and creating splashes on the wet road. Concurrently, the person with the red umbrella continues walking further into the background on the left, as the wet conditions persist throughout the sequence.
+frame_0000000256-frame_0000000384:
+The first frame captures a wet city street leading towards a crosswalk and buildings in the distance. To the immediate right, an orange parking sign with Korean text and a right arrow stands on a patterned sidewalk, bordered by trees and a traditional stone wall that recedes into the background. On the left, a person holding a red umbrella walks away from the viewer past a brick wall, with a blue van and a modern building visible behind them, and a wooden construction barrier covering a storefront further down the street.
+end of description
+A light green SUV emerges from the lower left in the third frame, driving away from the viewer on the wet road. It continues down the street towards the background, its brake lights illuminating as it recedes. Shortly after, a blue car rapidly passes across the lower left of the frame, also moving away from the viewer on the left side of the road.

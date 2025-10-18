@@ -1,0 +1,10 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a muddy dirt path stretching into the distance, bordered by dense green foliage and trees that form a natural canopy overhead. A prominent tree trunk stands vertically in the immediate left foreground, while a grassy, upward-sloping bank is visible on the right. end of description. The scene remains static across the initial frames, until a blue and white umbrella dynamically appears from directly above the first-frame viewpoint, entering the top of the frame. It gradually opens and expands to partially obscure the overhead canopy, before slightly receding upwards while still visible along the top edge of the scene in the final frames.
+frame_0000000128-frame_0000000256:
+The first frame displays a dirt path stretching from the viewer's position into the distance, flanked by dense green forest on both sides. Trees form a natural canopy overhead, creating a tunnel-like effect, with an overcast sky visible through gaps at the top. The ground immediately adjacent to the path on the left and right consists of sparse green foliage and brown fallen leaves.
+end of description
+Beginning in the fourth frame, a blue and white umbrella progressively descends into the scene from the top right, moving downwards and centrally. By the final frames, the open umbrella has fully entered the frame, positioned directly above the viewer and obscuring the sky, while the forest path remains unchanged below it.
+frame_0000000256-frame_0000000384:
+The initial frame depicts a wet dirt path winding into a tunnel formed by dense green trees, under an overcast sky, with the top of the view partially obscured by a blue and white umbrella displaying "GEICO" on its white panel.
+end of description.
+Throughout the subsequent frames, the background landscape of the path and trees remains entirely static relative to the first-frame viewpoint. The only discernible change is that the branding on the blue section of the umbrella, located in the immediate foreground, becomes progressively clearer, eventually revealing a detailed white gecko logo and "GEICO" text by the final frames.

@@ -1,0 +1,22 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a sunny city street looking forward, with a light-colored building on the immediate left featuring hanging baskets. To the viewer's right, a row of ornate multi-story buildings, some reddish-brown and others lighter, feature outdoor seating areas populated by several people. A street extends into the distance, where a blue double-decker bus is visible in the middle ground, and pedestrians walk on the left pavement. A street pole stands centrally in the foreground under a clear blue sky.
+end of description
+From the initial viewpoint, the camera subtly pans to the right across the scene, causing the building on the left to gradually move out of frame and revealing more of the right-hand side buildings. Concurrently, the blue double-decker bus, initially in the middle distance, moves further away down the street. Subtle shifts in the pavement shadows are also observable.
+frame_0000000128-frame_0000000256:
+The first frame depicts a wide street lined with multi-story buildings under a clear blue sky. On the right, ornate brown and cream buildings feature outdoor cafe seating filled with people, while a dark lamppost stands in the mid-foreground slightly right of center. To the left, a sidewalk with pedestrians and a blue double-decker bus moving away from the viewer extends into the distance, with a building facade bearing a 'Cafe Andalusia' sign visible closest to the viewer on this side.
+end of description
+As the frames progress, the viewpoint steadily moves forward along the street. The lamppost, initially to the right of center, shifts further right and eventually exits the frame. The blue double-decker bus continues moving further away down the street, while the buildings and people at the outdoor cafes on both sides appear to pass by, revealing more of the street ahead.
+frame_0000000256-frame_0000000384:
+The first frame captures a sunlit city street extending into the distance, flanked by ornate buildings. Prominent reddish-brown structures on the right have outdoor seating occupied by people, while lighter buildings stand to their left across the street. A sidewalk on the far left shows pedestrians, and a blue double-decker bus is in the distant center-left.
+end of description
+As frames progress, the distant blue double-decker bus slowly recedes further down the street, moving away from the viewer's initial position. Minor movements are also visible among pedestrians on the left sidewalk and people seated at the right-side outdoor dining areas.
+frame_0000000384-frame_0000000512:
+The first frame displays a vibrant city street under a clear blue sky. On the right, a prominent reddish-brown building with "The Citizen" sign features an outdoor cafe area filled with patrons, adjacent to a large, ornate cream-colored building further down the block. To the left, a sidewalk with trees is populated by pedestrians, extending into the distance, with a blue double-decker bus visible on the street in the mid-ground, moving away from the viewer.
+end of description
+The blue double-decker bus on the left side of the street gradually moves further away from the viewer. People seated at the outdoor cafes on the right exhibit minor movements. Finally, a dark car emerges from the lower right foreground, entering the frame.
+frame_0000000512-frame_0000000640:
+The first frame displays a vibrant city street under a clear blue sky, with a grand, ornate light-colored building and an adjacent reddish-brown building (housing "The Citizen") dominating the right side, both featuring outdoor seating filled with patrons. A street extends into the background, with a black car partially visible in the bottom right foreground and a blue double-decker bus further down the road on the left, where pedestrians walk on the sidewalk that borders more buildings.
+
+end of description
+
+The black car, initially partially visible in the bottom right, begins to move forward and slightly to the left, away from the viewer's initial position. As it progresses down the street, passing the outdoor seating area on the right, more of the ground-level building facades and patrons are revealed from behind the departing vehicle. The car continues to recede into the distance, further down the street from the first-frame viewpoint.

@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame features a winding, dark grey path leading into the distance, bordered by snow-covered ground and dense evergreen trees on both sides. An orange-topped post is to the left of the path in the mid-foreground, with a treed mountain slope visible in the upper left under a clear blue sky.
+end of description
+As the viewpoint moves forward, the orange-topped post on the left recedes and eventually moves out of frame to the viewer's left. The snow-covered path edges and fallen tree branches on the right become more detailed and approach the viewer, while new sections of the forest and distant mountain scenery are continuously revealed ahead and to the sides, relative to the initial viewpoint.
+frame_0000000128-frame_0000000256:
+A dark grey, snow-dusted paved path recedes into the distance, curving gently to the left, flanked by banks of white snow. Dense evergreen trees line both sides beyond the snow, with a snow-capped mountain slope visible in the far left background. A vertical orange and dark marker post stands on the right side of the path, and a clear blue sky with a faint contrail appears above the trees.
+end of description
+The viewer moves forward along the path, causing the snowy banks and surrounding evergreen trees to shift past on both sides. The orange and dark marker post on the right approaches the viewer, moving from the mid-right to the bottom right of the frame before exiting. Patches of snow and ice on the path's surface become more distinct as they pass directly beneath the viewpoint.

@@ -1,0 +1,28 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a narrow Japanese shopping street extending away from the viewer, lined with buildings featuring storefronts, awnings, and hanging banners on both sides, with two bicycles parked on the sidewalk to the viewer's right and an ornate archway spanning the street in the midground.
+end of description
+Throughout the subsequent frames, the scene remains static, with the only dynamic change being the subtle fluttering of the red banner hanging from a storefront on the left side of the street.
+frame_0000000128-frame_0000000256:
+The first frame displays a narrow Japanese street scene, with diverse shops and buildings lining both sides under a bright sky. In the foreground, two bicycles are parked on the right, while a shop with a brown awning and a prominent red banner stands on the left. An archway sign and a pedestrian crossing mark the mid-ground, beyond which the street recedes into the distance with more buildings and utility poles overhead.
+end of description
+Subsequent frames show subtle shifts: the shop and red banner on the left side of the initial view gradually move slightly rightward within the frame, appearing more centered relative to the first-frame viewpoint. Concurrently, the parked bicycles on the far right shift marginally leftward relative to their original position in the first frame. No new objects or scenes are revealed beyond these minor positional adjustments.
+frame_0000000256-frame_0000000384:
+In the first frame, the viewer faces down a narrow urban street lined with multi-story buildings, featuring shopfronts with awnings on both sides. A tall red banner hangs vertically on the left, near potted pink flowers on the sidewalk, while a pole with a red lantern and a blue banner stands on the right, also accompanied by potted plants. In the mid-distance, an ornate archway with Japanese writing spans the street, beyond which the road continues towards taller modern buildings under an overcast sky.
+end of description
+The camera slowly tracks forward down the street. The red banner on the left and the pole with the red lantern on the right gradually move closer and expand, eventually exiting the frame as the viewpoint advances past them. A person in dark clothing enters from the right mid-ground and walks away from the viewer, proceeding past the approaching archway. The archway itself becomes larger and passes overhead, revealing more of the street beyond. Details of shopfronts on both sides and a bicycle leaning on the right become clearer as the perspective shifts forward.
+frame_0000000384-frame_0000000512:
+The first frame depicts a narrow urban street bordered by multi-story buildings under an overcast sky. In the foreground left are potted plants with pink flowers. On the left, a building has a yellow awning and balcony, while on the right, a building with a blue awning has a bicycle parked below it. A decorative archway sign spans the street above a pedestrian crossing in the midground. A person in dark attire walks right-to-left across this crossing, moving away from the viewer down the street lined with more buildings and overhead wires.
+end of description
+The camera remains static throughout the sequence. The person, initially on the pedestrian crossing in the midground, continues walking from right to left across the street. They then proceed further down the street, moving away from the viewer and gradually becoming smaller, receding into the distance between the buildings.
+frame_0000000512-frame_0000000640:
+The first frame displays a narrow urban street in Japan, flanked by multi-story buildings. In the foreground, potted plants and a building with a yellow awning are to the left, while a blue-awninged shop and a parked bicycle are to the right. A pedestrian walks leftward across a crosswalk in the mid-ground, positioned beneath an ornate archway with Japanese text that spans the street.
+end of description
+The pedestrian continues walking across the crosswalk from the mid-ground towards the left foreground. Subsequently, a bicycle appears in the distant street, moving away from the viewer beyond the archway.
+frame_0000000640-frame_0000000768:
+The first frame depicts a narrow Japanese street, with a masked woman walking rightward past a yellow storefront on the left, and a blue-awninged shop displaying bicycles on the right. In the midground, a prominent wooden gate sign, reading "おかず横丁", spans the street where a person on a bicycle crosses, leading into a distant urban corridor.
+end of description
+The masked woman in the left foreground walks continuously towards the right, slowly exiting the frame. Concurrently, the person riding a bicycle, initially on the left side of the midground crosswalk, traverses it from left to right, eventually disappearing from view beyond the viewer's right.
+frame_0000000768-frame_0000000896:
+The first frame displays a street view in Japan, with a yellow building facade and a utility pole featuring multiple signs on the left, and a blue shop sign, a green awning, and stacked crates with a bicycle on the right. A large wooden archway with Japanese text spans a street with a zebra crossing in the midground, beyond which a person on a bicycle is visible in the distance.
+end of description
+The cyclist initially seen in the midground proceeds to cross the street from right to left over the pedestrian crossing, eventually exiting the frame to the left. Subsequently, another cyclist appears further in the background to the right, riding towards the pedestrian crossing and also continuing leftward.

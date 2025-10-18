@@ -1,0 +1,14 @@
+frame_0000000000-frame_0000000128:
+The first frame displays a wet, paved street extending into the distance, lined with multi-story buildings featuring numerous shops on both sides under an overcast sky. In the midground, a large decorative archway composed of three house-shaped frames (blue, black, yellow) spans the street, with several metal bollards visible in the immediate foreground.
+end of description
+The camera slowly pans right, causing the entire archway structure to progressively shift left relative to the frame, ultimately moving its left side further out of view. This pan reveals more of the street, storefronts, and landscaping along the right side of the scene, previously unseen beyond the initial frame's right edge.
+frame_0000000128-frame_0000000256:
+The first frame shows a wet, paved city street extending into the distance, flanked by multi-story buildings displaying numerous Korean signs and storefronts under an overcast sky. In the foreground, a yellow arch-like structure is positioned slightly to the left of center, while a blue pole with text and a dark vertical pole stand on the far right. A red bicycle is parked on the left midground next to a planter of green bushes, with similar planters lining both sides of the street further down, and a tall, white skeletal tower visible in the far distance.
+end of description
+The camera slowly pans to the right, causing the blue pole on the right to gradually move out of frame. Concurrently, the yellow arch structure shifts rightward, with its left side eventually disappearing off-frame and its right pillar moving closer to the immediate right foreground. This reveals more of the buildings and the streetscape on the right side of the original viewpoint. The distant tower and street recede slightly to the left within the expanding horizontal view.
+frame_0000000256-frame_0000000384:
+The first frame presents a wet, paved city street or pedestrian walkway extending into the distance under a cloudy sky. Green bushes in planters line both sides of the path in the foreground, with a red bicycle parked next to the left-side planters and a bright yellow pole partially visible on the far right. Tall buildings, covered in numerous illuminated Korean signs and advertisements, flank both sides of the street, with a small tree positioned centrally further down the path. In the distant background, a prominent white, tower-like structure rises against the sky.
+
+end of description
+
+Over the subsequent frames, the illumination of storefront signs on the buildings lining both sides of the street gradually intensifies, most notably on the left. This increased brightness of the signs enhances the reflections on the wet pavement. Meanwhile, the overall ambient light subtly dims, suggesting a progression towards evening.

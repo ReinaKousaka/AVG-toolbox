@@ -1,0 +1,31 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a multi-lane highway curving slightly to the left, leading into a rocky canyon. To the viewer's immediate left, a tall, curved brown retaining wall runs alongside the road, transitioning into a steep, rocky mountain face further ahead. To the right, a concrete barrier topped with a brown metal railing separates the highway from a rocky slope abundant with green trees and bushes. Beyond these foreground elements, towering, rugged mountains rise on both sides of the road under a clear blue sky.
+
+end of description
+The scene progresses as if the viewer is moving forward along the highway. The white road markings steadily advance from the distance and pass beneath the viewer. Simultaneously, the retaining wall on the left and the barrier on the right appear closer and shift towards the sides of the frame, indicating the viewer's continuous journey deeper into the mountain canyon.
+frame_0000000128-frame_0000000256:
+The first frame displays a multi-lane highway curving gently to the left, receding into a mountainous canyon under a clear blue sky. To the viewer's immediate left is a tall, beige retaining wall with vertical paneling, while to the right, a guardrail separates the road from a rocky slope covered with green foliage. Towering, rugged mountains with visible rock strata rise steeply on both sides of the highway, extending into the background.
+
+end of description
+As the frames progress, the viewpoint moves forward along the highway. The retaining wall to the left and the guardrail and rocky slope to the right recede behind the viewer, revealing more of the road and the canyon further ahead. Consequently, previously distant sections of the winding highway and the towering mountains gradually draw closer to the viewer.
+frame_0000000256-frame_0000000384:
+The first frame displays a highway winding through a rugged canyon, with a clear blue sky above and towering rocky cliffs filling the background. The multi-lane road, marked with white lines, extends from the foreground, curving slightly right, bordered by a tan concrete overpass structure on the left and a guardrail with green vegetation on the right.
+end of description
+As the viewpoint advances, the concrete overpass and right-side guardrail move closer, revealing more of the brownish river flowing in the mid-ground to the right of the road. A distant vehicle appears under a bridge in the far mid-ground, which steadily approaches as the road continues further into the canyon.
+frame_0000000384-frame_0000000512:
+The first frame captures a highway leading forward into a canyon, flanked on the left by a tall retaining wall backed by a rocky, vegetated mountainside, and on the right by a river and guardrail bordered by a steep mountain. Ahead in the distance, a yellow curved arrow sign and an elevated highway section are visible within the towering canyon walls, beneath a clear blue sky.
+
+end of description
+As the viewpoint moves forward along the highway, the distant yellow curved arrow sign and the elevated highway section, initially ahead and further down the road, grow larger as they approach. Simultaneously, the towering canyon walls that were originally to the left and right appear to draw nearer, revealing more intricate rock details and verdant patches. The initial foreground elements continually recede, disclosing new segments of the road and canyon ahead.
+frame_0000000512-frame_0000000640:
+The first frame shows a multi-lane highway extending forward, curving slightly left. A tall brown concrete barrier runs along the left side, while a river flows beyond a shorter concrete barrier and railing on the right. Towering, rocky mountains, partially covered in green vegetation, frame the scene on both sides, with a bright blue sky above; a yellow diamond-shaped right-turn sign stands prominently on the right shoulder.
+end of description
+As the frames progress, the viewpoint moves forward along the highway, causing the yellow right-turn sign to approach and then recede behind the original viewpoint to the rear-right. The road markings, barriers, river, and mountains all shift closer and then pass the viewer's initial position, indicating continuous forward motion through the canyon. No entirely new objects or scenes are introduced; rather, the existing landscape scrolls past.
+frame_0000000640-frame_0000000768:
+A highway extends forward, framed by a curving light brown retaining wall on the left with green foliage at its base, and a dark brown railing along a rocky river on the right. Steep, rugged mountains covered in some greenery rise dramatically in the background under a clear blue sky, with an indistinct white road sign visible on the left wall ahead of the viewer.
+end of description
+The viewpoint advances steadily along the highway into the scene. The retaining wall on the left and the river and railing on the right progressively move closer to the viewer, passing by and receding as new sections of the canyon road ahead are revealed. The road sign on the left wall clarifies to show "SPEED LIMIT 65" and then "50," before moving past the viewer's current position.
+frame_0000000768-frame_0000000896:
+The first frame depicts a multi-lane highway curving to the right, with a large, rugged mountain range rising steeply on the right and an artificial beige retaining wall, partially covered in green vegetation, on the left. A 'SPEED LIMIT 60' sign is prominently displayed on the wall to the viewer's immediate left. To the far right, a brown river flows beside the road, separated by a metal guardrail, while a clear blue sky is visible above the distant mountains.
+end of description
+As the viewpoint progresses forward along the highway, the speed limit sign on the left recedes out of frame. Further ahead along the road, which continues to curve to the right from the initial perspective, several red-and-white road barriers or cones appear, followed by a white truck visible in the distance. Simultaneously, new circular red signs become visible on the left side of the road.

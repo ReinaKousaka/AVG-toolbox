@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The initial frame displays a bright harbor scene with a cobblestone path in the foreground, featuring a lamppost and glass barrier on the far left. A white SUV is parked centrally, behind which numerous boats are docked on the water extending towards a distant, treed shoreline with buildings on the right under a cloudy blue sky. Two people are visible walking from the mid-right towards the center, passing a dark metal gate structure.
+end of description
+Following this, the two individuals continue moving leftward across the first-frame's path, eventually exiting the frame to the left. Concurrently, the view slightly pans left, revealing more of the area to the original left of the lamppost and diminishing the scene on the original right.
+frame_0000000128-frame_0000000256:
+The first frame shows a sunny marina with a grey pole centrally located. To its left, a cobblestone path borders a glass-paneled building with potted plants and a person seated on a bench, while to its right, a white SUV is parked near a concrete walkway leading to several white boats docked in the water, and another person stands slightly right of the pole, wearing a pink top, all under a blue, cloudy sky.
+end of description
+The white SUV on the right subsequently drives away from the viewpoint, disappearing from the frame. Concurrently, the person initially standing slightly right of the central pole begins walking towards the viewer and to the left of the pole's first-frame position. This reveals a clearer view of her wearing a light blue top and pink scarf, as she continues to approach and then passes the initial pole's left side.
+frame_0000000256-frame_0000000384:
+The first frame depicts a sunny harbor with a blue sky and scattered white clouds. To the viewer's right, a body of water hosts several large white yachts docked at a cobblestone quay, while a wide paved walkway extends centrally into the distance. On the viewer's left, an outdoor restaurant area with glass partitions and greenery borders the path, where an older man in yellow shorts is seated on a bench, and a person's face is partially visible at the far right edge.
+end of description
+As the camera moves forward along the walkway, the partially visible person on the immediate right disappears, and a woman joins the man on the closest bench to his left. Subsequently, both these individuals move out of view to the left, revealing more of the path and bringing the two people seated further ahead under a red umbrella into clearer focus.

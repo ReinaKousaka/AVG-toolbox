@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a city street with a white van, a yellow Mini Cooper, a dark car, and a yellow DHL truck moving away from the viewer on the left, alongside tall buildings. To the viewer's immediate right are parked bicycles, a scooter, and red-and-white barriers, with buildings featuring red awnings further down the street.
+end of description
+As the viewer progresses forward, the foreground objects on the right recede and exit the frame, revealing more of the sidewalk and storefronts. Simultaneously, a black Mercedes SUV emerges from behind the yellow Mini and the dark car on the left, proceeding past the Mini, while a pedestrian becomes visible walking further along the left sidewalk.
+frame_0000000128-frame_0000000256:
+In the first frame, the viewer is positioned on a city street, looking ahead. Directly in front is a yellow DHL delivery truck, seen from behind, with a black Mercedes SUV to its immediate left, both appearing to move forward. Tall buildings line both sides of the street, with a light-colored, multi-story structure on the left and a darker, modern building on the right, all under a blue sky with scattered white clouds.
+end of description
+The black Mercedes SUV on the left moves forward and gradually exits the frame to the left. Concurrently, the yellow DHL truck proceeds straight ahead, moving away from the viewer and diminishing in size. This reveals more of the street and background, including additional construction barriers and parked scooters on the right sidewalk, which were previously obscured.

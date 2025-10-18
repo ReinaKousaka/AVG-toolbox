@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame captures a bustling pedestrian street with numerous people walking. Tall, multi-story buildings housing shops, including a 'VanDorp' store on the viewer's right and others like 'DM' on the left, line the paved street which recedes into the distance. In the background, at the end of the street, a dark-roofed building with a distinct spire is visible against a cloudy sky.
+end of description
+As the frames progress, the viewpoint slowly moves forward and slightly pans left, gradually revealing more of a timber-framed building and a black awning further to the far left of the initial scene. Pedestrians continuously move throughout the scene, entering and exiting from various points relative to the first-frame viewpoint. The distant spire, however, remains spatially positioned at the street's end.

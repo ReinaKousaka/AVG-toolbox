@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame depicts a bustling city street with a prominent glass pedestrian bridge spanning horizontally across the mid-upper view, linking a modern glass building on the left (featuring storefronts and an entrance) to an older brick building with 'Saks Fifth Avenue' on the right. A street below contains streetcar tracks, a parked orange and black car, a white truck further ahead, and a yellow fire hydrant in the right foreground, with pedestrians occupying both sidewalks.
+end of description
+As the viewpoint subtly moves forward, a silver SUV enters from the right midground and drives further right, while the white truck advances, and the left traffic light shifts from yellow to green.
+frame_0000000128-frame_0000000256:
+The first frame captures a city street scene beneath a glass and metal pedestrian bridge spanning overhead from left to right. Below the bridge, on the street, a black and orange car is parked in the lower right, while a large silver semi-truck is visible further down the road, facing the viewer. Pedestrians populate the left sidewalk under the bridge, with storefronts lining both sides of the street, and a green traffic light hangs in the middle-right distance.
+end of description
+Subsequently, the black and orange car in the lower right slowly drives forward and to the right, moving away from the viewer. A red truck then emerges from the right side of the road, behind where the black and orange car was, and proceeds to drive forward, eventually passing the stationary silver semi-truck in the middle. Concurrently, a dark grey SUV appears behind the red truck and also drives away, while people on the overhead bridge continue walking from left to right.

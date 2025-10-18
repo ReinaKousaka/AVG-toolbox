@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a lush forest path, bordered by dense green ferns and undergrowth in the foreground and along the curving path towards the middle right. Tall, moss-draped trees populate the midground, with a prominent trunk centered slightly left, while a brighter clearing on the far left reveals a distant tree-covered mountain and a road under a light blue sky.
+end of description
+As the frames progress, the viewpoint subtly shifts forward along the path into the forest. Sunlight and lens flare dynamically move and intensify across the scene, revealing slightly more of the path directly ahead and deeper into the dense foliage to the right, while the distant mountain remains visible on the far left.
+frame_0000000128-frame_0000000256:
+The first frame depicts a sun-dappled forest path that curves gently from the bottom center towards the middle-right. Lush green ferns and undergrowth densely line both sides of the path, closest to the viewer. To the immediate left, a large, moss-covered tree trunk stands prominently, its roots visible near the path, while to the right, more thick foliage creates a green wall. Tall, moss-draped trees form a dense canopy overhead, with patches of bright blue sky visible towards the top-left and through the distant trees.
+end of description
+The viewpoint slowly advances along the path, revealing more of the forest ahead. The prominent tree trunk on the left of the first frame moves further left as the viewer approaches. Distant background elements like the sky and subtle hints of mountains become slightly more defined, still appearing forward and slightly left of the path. New sections of ferns and undergrowth emerge along the path's edge, continuing to flank it on both sides.

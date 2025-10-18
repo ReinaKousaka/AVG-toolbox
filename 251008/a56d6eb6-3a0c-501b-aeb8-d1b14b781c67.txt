@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+An aerial view presents a broad, murky brown river in the foreground, flowing from the left towards the right. Along its near bank, a paved walkway and a strip of green grass are visible, bordering a group of large, white classical buildings and dense green trees in the midground to the right. Further into the midground, a busy bridge crosses the river, and beyond it, a sprawling city with numerous buildings of various heights stretches towards the distant, dark green mountains under a cloudy sky.
+end of description
+The viewpoint slowly shifts leftward and slightly forward, revealing more of the river and the paved walkway on the left side, previously unseen. Simultaneously, the cluster of white buildings on the right moves partially out of frame to the right, while the bridge and the city beyond it become more centered. Throughout the sequence, vehicles can be observed moving across the bridge and on the city roads, indicating ongoing traffic.
+frame_0000000128-frame_0000000256:
+An aerial view reveals a city beneath a cloudy sky and distant mountains. A brown river flows centrally, crossed by a bridge with cars in the mid-left. Green riverbanks flank the water, with classical-style buildings among trees on the right and a road with vehicles on the left.
+end of description
+The camera slowly pans left, gradually revealing a large white building with a dark dome emerging on the far left of the first-frame viewpoint, while the classical-style buildings previously on the far right recede from view.

@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a paved road curving gently to the right, with the viewer seemingly positioned at its center. To the immediate left, a dirt shoulder holds a dark SUV in the foreground and a white minivan further back, alongside a small sign post; behind them, a steep, rocky embankment is covered in evergreen trees. To the right, a gravel shoulder borders a rocky, forested slope ascending towards the background, where majestic snow-capped mountains rise under a clear blue sky.
+end of description
+As the frames progress, the viewpoint moves forward along the road. The dark SUV and the sign post, initially on the front-left, progressively move out of frame to the left, followed by the white minivan. This continuous forward motion reveals more of the winding road ahead and the rocky, tree-lined slopes on both sides, which were further along the path in the initial view.
+frame_0000000128-frame_0000000256:
+A two-lane paved road extends directly away from the viewer, curving right into a valley, flanked on the left by a rocky cliff with evergreen trees. To the right, a gravel shoulder leads to a treed slope, with distant snow-capped mountains visible under a clear blue sky in the background.
+end of description
+As the scene advances, the viewpoint moves forward along the road. Consequently, elements initially ahead of the first-frame viewpoint, such as the road curve, a yellow road sign on the right, and a black pole further right, progressively approach and then recede beyond the first-frame's spatial position.
+frame_0000000256-frame_0000000384:
+A two-lane mountain road, marked with double yellow lines on the left and a white line on the right, curves gently into the distance under a clear blue sky. Steep, rocky mountainsides covered with evergreens flank both sides of the road, leading to distant snow-capped peaks in the background.
+end of description
+As the viewpoint moves forward along the road, the rocky mountainside on the left and the forested slope on the right progressively pass to the viewer's sides. The distant snow-capped mountains remain ahead, while a yellow road sign initially to the right of the road's center becomes closer and more distinct.

@@ -1,0 +1,28 @@
+frame_0000000000-frame_0000000128:
+A train's-eye view shows a set of tracks extending from the foreground and curving slightly to the left into the distance. To the immediate left is a steep rocky embankment with sparse vegetation, while beyond the tracks to the right, a dark body of water reflects the overcast sky. In the mid-ground, hills covered in autumnal trees frame the scene, with a few houses visible on the far right hillside.
+end of description
+As the viewpoint moves forward along the tracks, the rocky embankment on the left approaches and reveals a green mesh fence along its top. Simultaneously, a tall grey metallic pole, supporting overhead lines and bearing a yellow triangular sign with the number '6', appears from the distant right and advances towards and past the viewer alongside the water.
+frame_0000000128-frame_0000000256:
+The viewer looks forward along parallel train tracks laid on gravel, receding into the distance towards a valley framed by mountains under an overcast sky. To the immediate left, a dark, rocky cliff face rises steeply, partially covered by sparse autumn vegetation. To the right, a calm body of water reflects the sky, bordered by a gentler, tree-covered hillside. An overhead wire extends above the tracks into the distance.
+end of description
+The viewpoint steadily moves forward along the train tracks, causing the rocky cliff face on the left and the body of water and hillside on the right to progressively shift from the distant background towards and past the viewer. The overhead electrical lines above the tracks also continuously extend and change perspective as the journey progresses deeper into the scene.
+frame_0000000256-frame_0000000384:
+The viewer is positioned on a railway track extending into the distance, flanked by a dark rocky cliff on the immediate left and a calm body of water on the right, beyond which lies a mountainous landscape under an overcast sky. Overhead lines stretch above the tracks.
+end of description
+As the viewpoint moves forward, the rocky cliff and a prominent overhead line pole to the left recede, revealing more of the brown, autumn-colored hillside with scattered trees and a small vertical marker pole. The calm water to the right and the distant mountains remain visible as the scene progresses, indicating continuous forward motion.
+frame_0000000384-frame_0000000512:
+The viewer is centered on a train track stretching into the distance, flanked by a steep, vegetated hillside with sparse trees to the left and a wide body of water reflecting an overcast sky to the right, with distant hills and buildings beyond.
+end of description
+The viewpoint moves forward along the tracks, causing the immediate terrain on both sides to recede. A tall, dark utility pole structure with overhead wires, initially a distant element on the right, steadily approaches and then passes by the viewer's right, while the distant landscape remains ahead.
+frame_0000000512-frame_0000000640:
+The first frame displays a view looking down train tracks that recede into the distance, curving slightly to the left. To the viewer's immediate left, a steep, rocky hillside rises, partially covered with sparse vegetation, fallen logs, and dense evergreen trees further up. To the right, a wide body of water, reflecting the overcast sky, runs parallel to the tracks, with a rocky bank and a small, bare tree in the mid-ground. Distant mountains flank the valley on both sides, and a thin wire stretches overhead from the top center towards the horizon.
+end of description
+As the scene progresses forward, the detailed rocky terrain and fallen timber on the left hillside continuously move past the viewer. On the right, a slender dark pole emerges from the middle distance along the riverbank, passing the viewer before exiting to the right. Following this, a taller, multi-wired utility pole appears on the left side of the tracks, advancing from the mid-ground towards the viewer and then passing by.
+frame_0000000640-frame_0000000768:
+Railroad tracks extend centrally into the distance, flanked on the left by a steep, rocky hillside covered in sparse vegetation and distant green pines, and on the right by a body of water with distant mountains and a few small houses across it. An overhead power line pole stands on the left beside the tracks.
+end of description
+The viewpoint advances along the tracks, causing the rocky hillside and its bare trees to move past on the left, revealing more of the steep terrain and additional power line structures closer to the viewer. The body of water and distant shore gradually pass on the right, bringing a small building by the water into view before it recedes, as the tracks continue their gentle curve ahead.
+frame_0000000768-frame_0000000896:
+Railway tracks extend directly in front of the viewer, flanked on the left by a steep, rocky cliff partially covered with trees showing autumnal colors, and on the right by a reflective body of water with distant hills and scattered buildings on its far bank. The tracks curve gently to the right in the distance under an overcast sky, with an overhead wire visible centrally above.
+end of description
+The viewpoint moves forward along the tracks, causing the rocky cliff on the left to pass by and a catenary mast with overhead lines to emerge from the mid-ground on the right, progressively nearing and then moving past the viewer's right side as the distant landscape gradually approaches.

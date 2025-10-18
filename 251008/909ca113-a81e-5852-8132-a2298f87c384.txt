@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a rainy scene with a bus stop shelter featuring a blue roof and glass panels prominently on the left, adjacent to a wet road with a guardrail; on the right, a waterlogged sidewalk extends into the distance, bordered by trees and bushes, where a faint figure holding an umbrella is visible.
+end of description
+As the frames progress, the view subtly widens, slightly panning left to reveal more of the wet road and a bench inside the bus stop. Heavy rain continues to fall throughout, intensifying the streaks and reflections on all surfaces. Simultaneously, the person holding an umbrella, initially further down the walkway on the right, slowly walks away from the viewer.
+frame_0000000128-frame_0000000256:
+The first frame depicts a rainy street scene from inside a bus stop shelter, with its green-tinted panel and metal frame visible on the left. A wet tiled sidewalk stretches ahead, bordered by a hedgerow to the right and a rainy road to the left, both lined with trees. In the mid-ground, a person holding an umbrella walks away from the viewer, accompanied by a small stool, under a heavily falling rain.
+end of description
+As the frames progress, the camera slightly zooms out, revealing a '98' sign on the bus stop shelter's frame, which is still to the left of the viewer. The person with the umbrella and the accompanying stool continue to move further away from the first-frame viewpoint, down the sidewalk. The heavy rain persists throughout, maintaining the wet, reflective appearance of the entire scene in front of the viewer.
+frame_0000000256-frame_0000000384:
+The first frame displays a rainy street scene with a wet sidewalk and road on the left, bordered by numerous trees. A person holding an open black umbrella walks away from the viewer on a green path in the midground, positioned between the trees and a dense line of green bushes on the right.
+end of description
+In the subsequent frames, the rain visibly intensifies, and the person on the green path gradually turns to face the viewer. They then walk steadily closer, moving from the midground towards the foreground, consistently using the umbrella for shelter against the increasing downpour.

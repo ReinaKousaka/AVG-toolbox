@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The initial frame presents a gravel path leading away from the viewer, bordered by dense green and yellowish-green bushy vegetation. A steep, scrub-covered hill with scattered trees rises on the left, while thick foliage forms a wall on the right, all under an overcast sky. Distant wooden steps are visible further up the path.
+end of description
+The subsequent frames depict a forward progression along the path, causing the gravel to extend further into the foreground and the flanking bushes to recede relative to the starting viewpoint. Consequently, the distant wooden steps grow larger and closer, progressively revealing more of the path ahead.
+frame_0000000128-frame_0000000256:
+The first frame presents a gravel path with wooden steps leading uphill and away from the viewer, flanked by dense green and yellowish-green scrub. Taller trees are interspersed within the vegetation on both sides and further back, beneath a light, overcast sky that fills the upper half of the frame.
+end of description
+As the viewer moves forward, the gravel path and steps appear to advance closer then recede underneath the first-frame viewpoint. The dense vegetation on the left and right simultaneously expands into the foreground and passes by the initial side positions, progressively revealing more of the uphill path and the landscape further ahead.

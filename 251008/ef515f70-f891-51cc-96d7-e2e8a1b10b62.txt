@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+The first frame presents a rainy urban street intersection with a wet asphalt road, featuring a white crosswalk to the right and a red bicycle lane in the center foreground. A multi-lane street extends left to right into the distance, flanked by trees and tall buildings adorned with diverse Korean signage. A green bus is visible on the far left of the street, while multiple cars are stopped or parked on the right side under an overcast sky.
+end of description
+Subsequently, the green bus on the far left of the street begins to move forward, progressively exiting the frame to the left. As the bus departs, a person holding an umbrella becomes visible on the far left sidewalk, emerging from where the bus was, walking further away from the viewer along the street.

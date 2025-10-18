@@ -1,0 +1,12 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a paved road curving gently to the right, extending from the viewer into a mountain valley under a clear blue sky. To the viewer's immediate left, a tall, rugged rock face runs alongside the road. On the right, a concrete barrier separates the road from a steep, vegetated slope, behind which dark, forested mountains rise. Further ahead, lighter-colored mountains define the valley's end.
+end of description
+As the frames progress, the viewpoint steadily advances forward along the road, causing the immediate rock face on the left and the concrete barrier and trees on the right to continuously move towards and past the viewer. The distant mountains remain ahead, gradually shifting in perspective as more of the curving road ahead is revealed within the mountain pass.
+frame_0000000128-frame_0000000256:
+The first frame presents a paved road curving left into the distance, with a towering rocky cliff immediately to the viewer's left and a low concrete barrier running along the right edge. Beyond the barrier, a deep, tree-filled valley extends, flanked by dark, forested mountains on the far right and green mountains further left, all under a clear blue sky.
+end of description
+As the viewer progresses, the road, left cliff, and right barrier pass by, revealing the path ahead. A small green and white sign, previously partially hidden, becomes visible on the right side of the road around frame 4, positioned beyond the concrete barrier. It approaches and then begins to recede to the right of the first-frame viewpoint as the journey continues, while the distant mountains remain in view.
+frame_0000000256-frame_0000000384:
+First, a paved road extends into the distance, bordered by a rocky mountainside on the left and a concrete barrier and forested slope on the right, leading towards distant mountains under a clear blue sky with faint power lines overhead.
+end of description
+As the frames advance, the viewpoint moves along the road, and from the seventh frame onward, a large log or tree trunk progressively appears and becomes clearer, fallen directly across the road ahead of the viewer.

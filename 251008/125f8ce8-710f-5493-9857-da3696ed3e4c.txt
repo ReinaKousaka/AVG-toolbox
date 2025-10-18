@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame captures a night city street adorned with overhead blue and purple Christmas lights, featuring a bus stop shelter on the mid-ground sidewalk to the viewer's right and buildings lining both sides, including a large "Raphaelismo" billboard on the far right. In the foreground left, a person on a bicycle is partially visible behind a railing, while another person in a black coat walks leftward on the sidewalk, with a few vehicles present on the multi-lane road ahead.
+end of description
+In subsequent frames, the person on the left sidewalk gradually moves further left and out of view. A dark sedan, first appearing in the mid-ground right lane of the road, then moves steadily forward, away from the viewer, passing the bus stop shelter. Finally, a white taxi emerges behind the sedan's initial position and proceeds down the road, also moving away from the viewer.
+frame_0000000128-frame_0000000256:
+The first frame depicts a night city street illuminated by purple string lights, featuring a bus stop shelter with ads in the foreground left and a black car on the far right of the road. In the midground, a white car and a dark car are moving away from the viewer, while distant buildings and a large 'Raphaelismo' billboard dominate the background.
+end of description
+Subsequently, all initial vehicles move further away from the viewer, with the black car eventually exiting the frame to the right. A blue bus appears from behind the left bus stop, and a new white taxi emerges from behind the midground white car, subsequently passing it as it continues forward.

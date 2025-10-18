@@ -1,0 +1,8 @@
+frame_0000000000-frame_0000000128:
+The first frame shows a narrow dirt path winding forward and slightly right through a dense, lush green forest. Tall, moss-covered evergreen trees dominate the background and mid-ground, while abundant ferns and other undergrowth line both sides of the path, with a fallen log partially visible to the immediate right and a bright, overcast sky seen overhead through the canopy.
+end of description
+As the frames progress, the viewpoint moves steadily forward along the path, revealing new sections of the trail and deeper forest ahead of the initial first-frame position. The fallen log and immediate undergrowth on both sides recede backwards and eventually out of frame to the rear-left and rear-right, while the trees and foliage previously in the mid-ground become more central and prominent.
+frame_0000000128-frame_0000000256:
+The first frame depicts a narrow dirt path curving gently to the right, cutting through a dense, lush forest of ferns and various green plants that fill the foreground and midground. Above, tall, moss-covered evergreen trees rise prominently, forming a thick canopy under an overcast sky that is partially visible through the branches.
+end of description
+As the viewpoint smoothly progresses forward along the trail, previously unseen sections of the forest floor, further dense undergrowth, and more of the path's winding course emerge into view, all located progressively deeper and ahead of the initial frame's perspective.

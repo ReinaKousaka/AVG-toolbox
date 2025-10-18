@@ -1,0 +1,31 @@
+frame_0000000000-frame_0000000128:
+The first frame shows the viewer on a road in a mountainous valley, looking forward. To the left, a large, dark brown wooden building with an attached smaller structure is in the midground, backed by distant mountains. To the right, a sidewalk, green metal railing, and a tall lamppost are visible, with a sunlit, forested mountain face towering in the background and a white sign towards the mid-right. A clear blue sky spans above the scene.
+end of description
+As the viewpoint moves forward along the road, the large brown wooden building on the left grows larger and more of its facade is revealed, while the lamppost and initial sign on the right advance and eventually move out of frame. Subsequently, a yellow diamond-shaped sign and more of the village houses to the right become progressively clearer and closer. The overall perspective of the valley and mountains subtly shifts with the continuous forward motion.
+frame_0000000128-frame_0000000256:
+The viewer is on a paved road with white dashed lines, extending forward into a valley. To the immediate left is a large, dark brown wooden building with a concrete base, while on the right, a pavement borders a grassy verge with a yellow diamond sign and a steep green hillside, where some houses are nestled, leading to distant mountains under a clear blue sky. Smaller buildings, streetlights, and more distant mountains are visible along the road ahead.
+
+end of description
+
+As the viewpoint moves forward, the dark wooden building on the left gradually recedes, revealing its open window shutters and a stack of white hay bales appearing behind it. Simultaneously, the yellow diamond sign on the right recedes, and a blue rectangular road sign along with a round blue arrow sign become clearer and closer on the right side. The road ahead reveals more detailed markings for an intersection, and more distinct snow-capped mountains further left in the background become visible as the left building moves out of frame.
+frame_0000000256-frame_0000000384:
+The first frame shows an asphalt road with white dashed lines defining lanes and a central turning area, viewed from a car's perspective. To the left, several houses and white hay bales are situated against a mountainous backdrop, while to the right, more houses with green hedges and trees line the road. Street light poles are visible on both sides, and a yellow-black striped pole with a blue circular sign stands to the right of the road center. Distant snow-capped mountains frame the valley under a clear blue sky.
+end of description
+As the frames progress, the viewer moves forward along the road. The yellow-black striped pole with its blue circular sign rapidly recedes to the right of the viewpoint, eventually moving out of frame. The blue rectangular pedestrian crossing sign, initially in the mid-background, moves closer and larger, becoming prominent in the mid-foreground. New yellow pedestrian crossing stripes appear on the road surface directly in front and then beneath the viewer.
+frame_0000000384-frame_0000000512:
+The first frame presents a road extending into the distance, with yellow crosswalk markings, a black and yellow striped bollard, a blue pedestrian crossing sign, and a lamppost visible on the left. On the left, several traditional wooden houses appear, while a house with a green hedge runs along the right side, all framed by distant snow-capped mountains under a clear blue sky.
+end of description
+As the frames advance, the viewpoint moves forward along the road. The lamppost, blue sign, and bollard recede and move out of view to the left relative to the initial position. Buildings and trees on either side become closer and shift towards the edges of the frame, as the distant snow-capped mountains remain in the background.
+frame_0000000512-frame_0000000640:
+The first frame displays a paved road stretching into the distance and curving left, flanked by green, forested mountains. To the viewer's right, a large green tree partially obstructs a guardrail and buildings, while on the left, a wooden fence, grassy terrain, and a traditional barn with a silver car parked near it are visible. Majestic snow-capped mountains dominate the center background under a clear blue sky.
+
+end of description
+As the viewer progresses, the large tree on the right moves out of view, revealing a house and a "no overtaking" sign that becomes prominent on the right side of the road, and a street light pole that moves closer and then past. Concurrently, the barn and parked car on the left recede further into the distance as the scene unfolds.
+frame_0000000640-frame_0000000768:
+The first frame displays a two-lane road extending forward, bordered by grassy slopes leading to mountains, with snow-capped peaks visible in the distance. To the left stands a dark-roofed building on a hillside, while a metal guardrail, a lamppost with a circular road sign, and a sunlit, forested mountain occupy the right side of the frame. A small white car is distantly visible on the curving road ahead.
+end of description
+The viewer moves forward along the road. The small white car in the distance, revealed to be a blue minivan, approaches the viewer in the oncoming lane, passing the disappearing lamppost and road sign that were initially to the right. A yellow and black striped barrier then emerges in the middle of the road ahead, as the blue minivan passes the viewpoint and exits the frame to the left.
+frame_0000000768-frame_0000000896:
+The first frame depicts a mountain road stretching forward towards distant snow-capped peaks under a clear blue sky. To the left, a dark-roofed wooden building is visible on a green slope, while to the right, a lighter-colored multi-story building sits among trees, with a metal guardrail lining the roadside. A yellow and black striped post with a blue 'turn right' sign is positioned in the middle of the road ahead.
+end of description
+As the frames progress, the camera moves forward along the road; the yellow and black striped post with its blue sign, initially ahead, passes to the viewer's right. The buildings on both sides, the green slopes, and the distant mountains recede relative to the first-frame viewpoint, while a small orange cone-like marker appears further down the road where the signpost was.

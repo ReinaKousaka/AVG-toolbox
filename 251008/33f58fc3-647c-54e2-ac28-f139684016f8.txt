@@ -1,0 +1,30 @@
+frame_0000000000-frame_0000000128:
+A gray asphalt road curves gently to the right from the bottom center, extending into the midground. To the left of the road, a steep, rocky slope covered with green grass rises, leading up to towering, jagged gray mountains that dominate the left background. On the right side of the road, a smaller embankment of loose earth and rocks is visible, topped by sparse green bushes and a small tree in the middle right. Above the mountains and road, the sky features a mix of white and gray clouds against patches of blue.
+
+end of description
+
+The viewpoint steadily moves forward along the road. As the camera advances, the immediate road surface recedes beneath the viewer, while the rocky mountain face on the left and the bushy embankment on the right progressively shift further into the distance and slightly out of the original frame, revealing more of the winding path ahead. Subtle movements are also observed in the cloud formations in the sky.
+frame_0000000128-frame_0000000256:
+A paved road curves slightly right in the foreground, flanked by a steep, rocky, vegetated embankment to the left and a concrete curb with dry brush and a large green bush to the right. Majestic, rugged grey mountains with green slopes rise in the background beneath a partly cloudy, blue sky.
+end of description
+The viewpoint moves forward along the road. The rocky embankment on the left approaches, revealing more of its base, while the green bush on the right gradually recedes, uncovering a small white marker further down the road and more distant terrain. New sections of the mountains in the background become visible as the journey continues.
+frame_0000000256-frame_0000000384:
+The first frame presents a gray paved road stretching directly forward, subtly curving towards the left in the distance. To the left of the road, a towering, rugged mountain face rises steeply, covered in patches of green vegetation and exposed rock. To the right, a concrete curb borders the road, followed by a green, bushy slope. In the background, distant mountains are visible under a partly cloudy sky with patches of blue.
+end of description
+As the viewer moves forward along the road, the immediate surroundings recede, with the steep mountain on the left and the bushy slope on the right shifting further away from the first-frame viewpoint. The road surface continually emerges from the foreground, revealing more of the path ahead that was previously obscured. The distant mountainous landscape, initially in the far background, gradually appears closer and becomes more defined.
+frame_0000000384-frame_0000000512:
+The first frame displays a paved road ascending from the bottom center, flanked on the left by a steep, grass-covered mountain with rocky outcrops, and on the right by a green hillside. Distant mountains are visible in the background under a sky with both blue patches and large white clouds. end of description. There are no dynamic changes or newly revealed objects in the subsequent frames; the scene remains static with all elements in their initial positions relative to the viewer.
+frame_0000000512-frame_0000000640:
+A grey asphalt road stretches directly ahead from the viewer, gently curving uphill. To the immediate left, a massive, rugged mountain face rises sharply, its lower slopes covered in vibrant green grass and scattered rocks. On the right side of the road, a narrow concrete curb borders a grassy embankment, where a small white sign is visible further along the path. In the background, rolling green mountains fade into the distance under a sky that transitions from heavy clouds on the left to clearer blue on the right.
+end of description
+As the viewpoint progresses forward along the road, the massive rocky mountain and its green slopes on the left appear to slowly recede and shift slightly to the viewer's left. The road ahead reveals more of its winding path, gently curving to the right. Concurrently, the small white sign on the right embankment comes marginally closer. The distant mountains and sky maintain their general appearance as the scene steadily advances.
+frame_0000000640-frame_0000000768:
+The first frame shows a paved road extending from the bottom center towards the distant middle, flanked by a steep, rocky, and grassy mountain slope immediately to the viewer's left. To the viewer's right, a grassy shoulder features a white rectangular sign on a post, beyond which a gentler green hillside recedes into the background. In the far distance, additional mountain ranges are visible beneath a partly cloudy sky with patches of blue.
+
+end of description
+
+As the sequence progresses, the viewpoint moves forward along the road. The immediate road surface and the white sign on the right recede and move out of frame to the right, while new sections of the grassy hillside and distant mountains are continuously revealed further ahead and to the right of the first-frame viewpoint.
+frame_0000000768-frame_0000000896:
+A gray road extends forward into a mountainous landscape under a partly cloudy sky with patches of blue. To the viewer's left, a steep mountain slope covered in green grass and some exposed rock rises sharply, flanked by a dirt shoulder along the road. To the right, sparse green bushes and rocky ground line the road, with more distant mountains visible in the background.
+end of description
+As the frames progress, the viewpoint steadily moves forward along the road. The immediate road surface, the dirt embankment on the left, and the bushy terrain on the right are continuously revealed as they pass by the viewer, indicating a forward journey through the mountainous scenery.

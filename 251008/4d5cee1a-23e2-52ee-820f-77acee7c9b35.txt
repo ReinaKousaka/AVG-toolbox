@@ -1,0 +1,4 @@
+frame_0000000000-frame_0000000128:
+An aerial view captures a dark river flowing through dense green jungle, with numerous palm-like trees densely covering the left bank and various broadleaf trees on the right bank. A small, light blue boat is centrally located in the river, slightly to the right, creating a distinct bright white wake as it travels from the top-right towards the bottom-left.
+end of description
+In subsequent frames, the boat dynamically progresses further towards the bottom-left of the first-frame viewpoint, moving past its initial position. The boat's long, sparkling wake continuously extends behind it as it navigates the river.
