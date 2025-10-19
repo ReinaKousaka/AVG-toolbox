@@ -2906,6 +2906,8 @@ def batch_process_overlap_multiprocessing(
         return
     if assign_name is not None:
         # npz_paths = [assign_name]
+        if "." in assign_name:
+            assign_name = assign_name.split(".")[0]
         npz_paths = [assign_name]
     # single-process for simplicity (multiprocessing omitted for brevity)
     for name in tqdm(npz_paths, desc="single-process"):
@@ -2999,11 +3001,16 @@ if __name__ == "__main__":
 
     parser = ArgumentParser()
     parser.add_argument("--assign_name", type=str, default=None)
+    parser.add_argument("--cam_dir", type=str, default="vipe_results")
+    parser.add_argument("--depth_dir", type=str, default="vipe_results/depth")
+    parser.add_argument("--out_dir", type=str, default="vipe_results/out")
+    parser.add_argument("--video_dir", type=str, default="vipe_results/rgb")
+    parser.add_argument("--verbose_prob", type=float, default=0.1)
     args = parser.parse_args()
-    cam_dir = "vipe_results"
-    depth_dir = "vipe_results/depth"
-    out_dir = "vipe_results/out"
-    video_dir = "vipe_results/rgb"
+    cam_dir = args.cam_dir
+    depth_dir = args.depth_dir
+    out_dir = args.out_dir
+    video_dir = args.video_dir
     if os.path.exists(cam_dir) and os.path.exists(depth_dir):
         batch_process_overlap_multiprocessing(
             video_path=video_dir,
@@ -3022,16 +3029,16 @@ if __name__ == "__main__":
             depth_scale=1,
             flip_up_sign=False,
             img_size=None,
-            video_range=(0, 10000),
+            video_range=(0, 100000),
             point_stride=6,
             overwrite=True,
             write_related=False,
             verbose=True,
-            verbose_prob=1,
+            verbose_prob=args.verbose_prob,
             overlay_text=True,
             cell_px=3,
             video_fps=24,
-            clip_length=10000,
+            clip_length=100000,
             occ_block_range=[0.6, 1.4],
             min_support_per_cell=1,
             occlusion_margin=0.01,
