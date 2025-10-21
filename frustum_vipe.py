@@ -2705,7 +2705,7 @@ if __name__ == "__main__":
             cell_px=3,
             video_fps=24,
             clip_length=args.clip_num,
-            occ_block_range=[0.6, 1.4],
+            occ_block_range=[0.8, 1.2],
             min_support_per_cell=1,
             occlusion_margin=0.01,
             depth_inf_thresh=100,

@@ -1,4 +1,4 @@
-buffer: 1800
+buffer: 1024
 # weight for translation / rotation components of flow
 beta: 0.3
 # how much motion before considering new keyframe

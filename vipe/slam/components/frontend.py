@@ -72,8 +72,11 @@ class SLAMFrontend:
         p1 = SE3(self.video.poses[self.t1 - 2])
         p2 = SE3(self.video.poses[self.t1 - 1])
         w = (p2 * p1.inv()).log() * 0.5
-        self.video.poses[self.t1] = (SE3.exp(w) * p2).data
-        # self.video.poses[self.t1] = self.video.poses[self.t1 - 1].clone()
+        try:
+            self.video.poses[self.t1] = (SE3.exp(w) * p2).data
+        except Exception as e:
+            print(f"错误tryexcept，使用前一帧位姿作为初始值: {str(e)}")
+            self.video.poses[self.t1] = self.video.poses[self.t1 - 1].clone()
 
     def __update(self):
         """add edges, perform update"""

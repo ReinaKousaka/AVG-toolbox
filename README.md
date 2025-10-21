@@ -73,8 +73,10 @@ vipe的话如果我们不改vipe的代码它的输出路径一般都是在当前
 所以我们可以直接起一个batch化的frustum计算把frustum计算任务分配到每个gpu里面：
 ```bash
 # 用法:
-#   bash batch_frustum.sh <input_dir> <N> <python_script> [--gpu-list 0,1,2,3] [--extra "more args"]
-#
+python batch_frustum.py /path/to/inputs 8 frustum_vipe.py \
+--timeout-secs 7200 \
+--gpu-list 0,2,4,7 \
+--extra "--flag_x=1 --mode=train"
 # 说明:
 #   - <input_dir>:   含有若干 .mp4 的输入文件夹
 #   - <N>:           使用的 GPU 个数(整数)
@@ -82,7 +84,7 @@ vipe的话如果我们不改vipe的代码它的输出路径一般都是在当前
 #   - --gpu-list:     (可选) 指定要使用的 GPU ID，逗号分隔。默认使用 0..N-1
 #   - --extra:        (可选) 额外透传给 python 的参数字符串（整体用引号包起来）
 # 对应八卡情况:
-bash batch_frustum.sh vipe_results/rgb 8 frustum_vipe.py --gpu-list 0,1,2,3,4,5,6,7
+python batch_frustum.py vipe_results/rgb 8 frustum_vipe.py --gpu-list 0,1,2,3,4,5,6,7
 # 默认的可视化概率是10%，如果希望查看的话可以把可视化概率改成100%来看frustum是否正常工作
-bash batch_frustum.sh vipe_results/rgb 8 frustum_vipe.py --gpu-list 0,1,2,3,4,5,6,7 --extra "--verbose_prob 1"
+python batch_frustum.py vipe_results/rgb 8 frustum_vipe.py --gpu-list 0,1,2,3,4,5,6,7 --extra "--verbose_prob 1"
  ```
