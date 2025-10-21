@@ -247,7 +247,7 @@ def process_image_folder(folder_path, output_file):
 
 if __name__ == "__main__":
     if not os.path.exists(OUTPUT_DIR):
-        os.mkdir(OUTPUT_DIR)
+        os.makedirs(OUTPUT_DIR, exist_ok=True)
     logger.info(
         f"Program starts, with snippet length = {SNIPPET_LENGTH}, frame gap = {FRMAE_GAP}"
     )

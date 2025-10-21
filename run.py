@@ -15,13 +15,18 @@ def run(args: DictConfig) -> None:
     # Process each video stream
     logger = configure_logging()
     for stream_idx in range(len(stream_list)):
-        video_stream = stream_list[stream_idx]
-        logger.info(
-            f"Processing {video_stream.name()} ({stream_idx + 1} / {len(stream_list)})"
-        )
-        pipeline = make_pipeline(args.pipeline)
-        pipeline.run(video_stream)
-        logger.info(f"Finished processing {video_stream.name()}")
+        try:
+            video_stream = stream_list[stream_idx]
+            logger.info(
+                f"Processing {video_stream.name()} ({stream_idx + 1} / {len(stream_list)})"
+            )
+            pipeline = make_pipeline(args.pipeline)
+            pipeline.run(video_stream)
+            logger.info(f"Finished processing {video_stream.name()}")
+        except Exception as e:
+            logger.error(
+                f"出现错误: {video_stream.name()}: {str(e)}", exc_info=True
+            )
 
 
 if __name__ == "__main__":
