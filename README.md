@@ -19,6 +19,13 @@ pip install --no-build-isolation -e .
 ```bash
 dbxcli-linux-amd64 get 1018_video_data.zip
 ```
+如果文件名有问题，一些改名的小命令：（记得先sudo apt install rename
+# 先试运行看看会改哪些（不真正改名）
+rename -n 's/_mp4$/.mp4/' -- *_mp4
+
+# 确认无误后执行并显示改名详情
+rename -v 's/_mp4$/.mp4/' -- *_mp4
+
 ### a. 准备给vipe的视频 ###
 先把视频切片成8000帧一段，640*360，一般情况下我们录屏的视频都是60fps的，抽帧到30
 ```bash

@@ -182,9 +182,11 @@ def slice_by_frames(
     temp_path: Path, out_dir: Path, interval_frames: int, crf: int, preset: str
 ):
     total = ffprobe_read_frames(temp_path)
-    full_segments = total // interval_frames  # 尾段不足直接丢弃
+    full_segments = total // interval_frames  # 完整段数
+    remaining_frames = total % interval_frames  # 剩余帧数
 
     made = 0
+    # 处理所有完整段
     for idx in range(full_segments):
         start = idx * interval_frames
         end = (
@@ -194,6 +196,42 @@ def slice_by_frames(
         vf = f"trim=start_frame={start}:end_frame={end},setpts=PTS-STARTPTS"
 
         out_name = temp_path.stem + f"_part_{idx:03d}.mp4"
+        out_path = out_dir / out_name
+
+        cmd = [
+            FFMPEG,
+            "-y",
+            "-i",
+            str(temp_path),
+            "-vf",
+            vf,
+            "-r",
+            "30",
+            "-an",
+            "-c:v",
+            "libx264",
+            "-pix_fmt",
+            "yuv420p",
+            "-profile:v",
+            "high",
+            "-movflags",
+            "+faststart",
+            "-preset",
+            preset,
+            "-crf",
+            str(crf),
+            str(out_path),
+        ]
+        run_cmd(cmd)
+        made += 1
+
+    # 处理最后一段：如果剩余帧数大于 interval_frames 的一半，从最后一帧向前切 interval_frames 帧
+    if remaining_frames > interval_frames // 2:
+        start = total - interval_frames
+        end = total
+        vf = f"trim=start_frame={start}:end_frame={end},setpts=PTS-STARTPTS"
+
+        out_name = temp_path.stem + f"_part_{full_segments:03d}.mp4"
         out_path = out_dir / out_name
 
         cmd = [
