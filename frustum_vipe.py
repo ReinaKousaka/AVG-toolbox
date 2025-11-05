@@ -570,21 +570,6 @@ def _winners_window_gpu_fastpath(
     base = base.scatter_reduce(0, code_base.long(), dir_base, reduce="mean")
     norm = torch.linalg.vector_norm(base, dim=1, keepdim=True)
     out = base / norm.clamp_min(1e-12)
-    # fig = plt.figure()
-    # ax = fig.add_subplot(111, projection="3d")
-    # for d in out:
-    #     u, v, w = d.cpu().data.numpy()
-    #     ax.plot([0, u], [0, v], [0, w], color="r")
-    #     ax.set_xlim([0, 2])
-    #     ax.set_ylim([0, 2])
-    #     ax.set_zlim([0, 4])
-
-    #     # 设置标签
-    #     ax.set_xlabel("X")
-    #     ax.set_ylabel("Y")
-    #     ax.set_zlabel("Z")
-
-    # plt.show()
     device = device or Pw.device
     ones = torch.ones((Pw.shape[0], 1), dtype=Pw.dtype, device=device)
     cam = (w2c_t @ torch.cat([Pw, ones], dim=1).T).T[:, :3]
@@ -1740,35 +1725,35 @@ def _write_diff_video(
                     out_path.replace(".mp4", f"_frame{t:03d}_{k}.png"),
                     saving[:, :, ::-1],
                 )
-        if overlay_text:
-            for hh in range(Hc):
-                y = int((hh + 0.5) * cell_px)
-                for ww in range(Wc):
-                    if invalid_mask[hh, ww]:
-                        continue
-                    x = int((ww + 0.5) * cell_px)
-                    val = int(norm[t, hh, ww])
-                    txt = str(val)
-                    cv2.putText(
-                        frame,
-                        txt,
-                        (x - 8, y + 5),
-                        cv2.FONT_HERSHEY_SIMPLEX,
-                        0.35,
-                        (0, 0, 0),
-                        2,
-                        cv2.LINE_AA,
-                    )
-                    cv2.putText(
-                        frame,
-                        txt,
-                        (x - 8, y + 5),
-                        cv2.FONT_HERSHEY_SIMPLEX,
-                        0.35,
-                        (255, 255, 255),
-                        1,
-                        cv2.LINE_AA,
-                    )
+        # if overlay_text:
+        #     for hh in range(Hc):
+        #         y = int((hh + 0.5) * cell_px)
+        #         for ww in range(Wc):
+        #             if invalid_mask[hh, ww]:
+        #                 continue
+        #             x = int((ww + 0.5) * cell_px)
+        #             val = int(norm[t, hh, ww])
+        #             txt = str(val)
+        #             cv2.putText(
+        #                 frame,
+        #                 txt,
+        #                 (x - 8, y + 5),
+        #                 cv2.FONT_HERSHEY_SIMPLEX,
+        #                 0.35,
+        #                 (0, 0, 0),
+        #                 2,
+        #                 cv2.LINE_AA,
+        #             )
+        #             cv2.putText(
+        #                 frame,
+        #                 txt,
+        #                 (x - 8, y + 5),
+        #                 cv2.FONT_HERSHEY_SIMPLEX,
+        #                 0.35,
+        #                 (255, 255, 255),
+        #                 1,
+        #                 cv2.LINE_AA,
+        #             )
 
         frame = frame[:, :, ::-1]  # BGR->RGB
         raw_frame = cv2.resize(raw_video[t % len(raw_video)], (W, H))
@@ -2068,35 +2053,35 @@ def _write_grouped_diff_video(
                         ww * cell_px : (ww + 1) * cell_px,
                     ]
 
-            if overlay_text:
-                for hh in range(Hc):
-                    y = int((hh + 0.5) * cell_px)
-                    for ww in range(Wc):
-                        if invalid_mask[hh, ww]:
-                            continue
-                        x = int((ww + 0.5) * cell_px)
-                        val = int(norm[t, hh, ww])
-                        txt = str(val)
-                        cv2.putText(
-                            frame,
-                            txt,
-                            (x - 8, y + 5),
-                            cv2.FONT_HERSHEY_SIMPLEX,
-                            0.35,
-                            (0, 0, 0),
-                            2,
-                            cv2.LINE_AA,
-                        )
-                        cv2.putText(
-                            frame,
-                            txt,
-                            (x - 8, y + 5),
-                            cv2.FONT_HERSHEY_SIMPLEX,
-                            0.35,
-                            (255, 255, 255),
-                            1,
-                            cv2.LINE_AA,
-                        )
+            # if overlay_text:
+            #     for hh in range(Hc):
+            #         y = int((hh + 0.5) * cell_px)
+            #         for ww in range(Wc):
+            #             if invalid_mask[hh, ww]:
+            #                 continue
+            #             x = int((ww + 0.5) * cell_px)
+            #             val = int(norm[t, hh, ww])
+            #             txt = str(val)
+            #             cv2.putText(
+            #                 frame,
+            #                 txt,
+            #                 (x - 8, y + 5),
+            #                 cv2.FONT_HERSHEY_SIMPLEX,
+            #                 0.35,
+            #                 (0, 0, 0),
+            #                 2,
+            #                 cv2.LINE_AA,
+            #             )
+            #             cv2.putText(
+            #                 frame,
+            #                 txt,
+            #                 (x - 8, y + 5),
+            #                 cv2.FONT_HERSHEY_SIMPLEX,
+            #                 0.35,
+            #                 (255, 255, 255),
+            #                 1,
+            #                 cv2.LINE_AA,
+            #             )
 
             frame_rgb = frame[:, :, ::-1]
             raw_frame = cv2.resize(raw_video[t % len(raw_video)], (W, H))
@@ -2332,17 +2317,19 @@ def process_single_video(
         depths = (data["depths"] * float(depth_scale)).astype(np.float32)
 
     if os.path.exists(out_npz) and not overwrite:
-        data = np.load(out_npz, allow_pickle=True)
-        assign_n = data["assign_n"]
-        assign_hs = data["assign_hs"]
-        assign_ws = data["assign_ws"]
-        assign_angles = data["assign_angles"] if "assign_angles" in data else None
-        meta = {
-            k: v
-            for k, v in data.items()
-            if k not in ["assign_n", "assign_hs", "assign_ws", "assign_angles"]
-        }
-        grouped_info_dict = _meta_value(meta.get("grouped_info_dict"), None)
+        # data = np.load(out_npz, allow_pickle=True)
+        # assign_n = data["assign_n"]
+        # assign_hs = data["assign_hs"]
+        # assign_ws = data["assign_ws"]
+        # assign_angles = data["assign_angles"] if "assign_angles" in data else None
+        # meta = {
+        #     k: v
+        #     for k, v in data.items()
+        #     if k not in ["assign_n", "assign_hs", "assign_ws", "assign_angles"]
+        # }
+        # grouped_info_dict = _meta_value(meta.get("grouped_info_dict"), None)
+        print(f"⚠️  存在 {name}, output exists at {out_npz}")
+        exit()
     else:
         (
             assign_n,
@@ -2697,7 +2684,7 @@ if __name__ == "__main__":
             img_size=None,
             video_range=(0, args.clip_num),
             point_stride=6,
-            overwrite=True,
+            overwrite=False,
             write_related=False,
             verbose=True,
             verbose_prob=args.verbose_prob,
@@ -2705,7 +2692,7 @@ if __name__ == "__main__":
             cell_px=3,
             video_fps=24,
             clip_length=args.clip_num,
-            occ_block_range=[0.8, 1.2],
+            occ_block_range=[0.5, 1.5],
             min_support_per_cell=1,
             occlusion_margin=0.01,
             depth_inf_thresh=100,

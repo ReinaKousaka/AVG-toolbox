@@ -95,3 +95,11 @@ python batch_frustum.py vipe_results/rgb 8 frustum_vipe.py --gpu-list 0,1,2,3,4,
 # 默认的可视化概率是10%，如果希望查看的话可以把可视化概率改成100%来看frustum是否正常工作
 python batch_frustum.py vipe_results/rgb 8 frustum_vipe.py --gpu-list 0,1,2,3,4,5,6,7 --extra "--verbose_prob 1"
  ```
+
+ ### d.prompt ###
+
+ ```
+ export GEMINI_API_KEY=xxxxxxxxxxx
+
+ time python run_gemini_api_for_caption.py --snippet_length 80 --frame_gap 16 --video_dir rgb_prompt/part_ --output_dir gemini_prompt
+ ```

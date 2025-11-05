@@ -85,7 +85,7 @@ def send_gemini_request(images):
         [first]: describe the first frame with all visible objects and their spatial positions relative to the viewer.
         [remaining]: describe dynamic changes and newly revealed objects or scenes in the following frames, always specifying their spatial positions relative to the first-frame viewpoint (e.g., behind the viewer, to the left, inside a container).
         Ensure descriptions are chronologically ordered, accurate, information-rich, and less than 6 sentences.
-        Return the descriptions in the format below: {"first": "...", "remaining": "..." }. Respond **only** with a valid JSON object that can be parsed by Python's `json.loads`. Do not format into Markdown code blocks. Your response must start with `{` and end with `}`.
+        Return the descriptions in the format below: {"first": "...", "remaining": "..." }. Respond **only** with a valid JSON object that can be parsed by Python's `json.loads`. Do not format into Markdown code blocks. Your response must start with `{` and end with `}`. Do not include any NSFW content or swear words in your descriptions. do not include any backslash symbol in your response.
         """
     ]
     for image in images:
