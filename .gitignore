@@ -164,11 +164,12 @@ cython_debug/
 playground.py
 TODO.md
 vipe_results/
+vipe_results.bak/
 /try_*.py
 /external/
 JIAHUI.md
 csrc/include/
 *.mp4
-*.zip
+*.zip*
 *.txt
 *.json

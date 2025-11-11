@@ -1510,7 +1510,7 @@ def save_video(filename: str, video, fps: int = 30) -> None:
         "-pix_fmt",
         "rgb24",
         "-r",
-        str(int(fps)),
+        "60",
         "-i",
         "-",
         "-vcodec",
