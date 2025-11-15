@@ -671,8 +671,8 @@ def _winners_window_gpu_fastpath(
     code_s_keep = code_s_ord[keep_mask]
     angle_keep = angle_ord[keep_mask]
     angle_keep_deg = torch.clamp(
-        torch.round(torch.rad2deg(angle_keep)), -32768, 32767
-    ).to(torch.int16)
+        torch.round(torch.rad2deg(angle_keep)), -128, 127
+    ).to(torch.int8)
     
     # Use torch.unique on GPU
     unique_keys, inverse_indices, unique_counts = torch.unique(
@@ -687,11 +687,10 @@ def _winners_window_gpu_fastpath(
     maximum = unique_counts.max().item()
     
     # Create output tensors on GPU first
-    assign_n = torch.full((Hc, Wc, maximum), -1, dtype=torch.int32, device=device)
-    assign_hs = torch.full((Hc, Wc, maximum), -1, dtype=torch.int16, device=device)
-    assign_ws = torch.full((Hc, Wc, maximum), -1, dtype=torch.int16, device=device)
-    assign_degree = torch.full((Hc, Wc, maximum), 0, dtype=torch.int16, device=device)
-    t1 = time.time()
+    assign_n = torch.full((Hc, Wc, maximum), -1, dtype=torch.int16, device=device)
+    assign_hs = torch.full((Hc, Wc, maximum), -1, dtype=torch.int8, device=device)
+    assign_ws = torch.full((Hc, Wc, maximum), -1, dtype=torch.int8, device=device)
+    assign_degree = torch.full((Hc, Wc, maximum), 0, dtype=torch.int8, device=device)
     for n in range(maximum):
         mask = unique_counts > n
         if not mask.any():
@@ -702,21 +701,19 @@ def _winners_window_gpu_fastpath(
         h_indices = keys_n // Wc
         w_indices = keys_n % Wc
         
-        assign_n[h_indices, w_indices, n] = sid_keep[idx_start_n].to(torch.int32)
-        assign_hs[h_indices, w_indices, n] = (code_s_keep[idx_start_n] // Wc).to(torch.int16)
-        assign_ws[h_indices, w_indices, n] = (code_s_keep[idx_start_n] % Wc).to(torch.int16)
+        assign_n[h_indices, w_indices, n] = sid_keep[idx_start_n].to(torch.int16)
+        assign_hs[h_indices, w_indices, n] = (code_s_keep[idx_start_n] // Wc).to(torch.int8)
+        assign_ws[h_indices, w_indices, n] = (code_s_keep[idx_start_n] % Wc).to(torch.int8)
         assign_degree[h_indices, w_indices, n] = angle_keep_deg[idx_start_n]
     
     # Convert to numpy only at the end for compatibility with downstream code
     group = {
-        "n": assign_n.cpu().numpy(),
-        "hs": assign_hs.cpu().numpy(),
-        "ws": assign_ws.cpu().numpy(),
-        "angle": assign_degree.cpu().numpy()
+        "n": assign_n.cpu().numpy().astype(np.int16),
+        "hs": assign_hs.cpu().numpy().astype(np.int8),
+        "ws": assign_ws.cpu().numpy().astype(np.int8),
+        "angle": assign_degree.cpu().numpy().astype(np.int8)
     }
-    t2 = time.time()
-    t3 = time.time()
-    return group, t2 - t1, t3 - t2
+    return group
 
 
 def _winners_window_gpu_inf(
@@ -803,9 +800,7 @@ def _winners_window_gpu_inf(
     group = {"n": assign_n, "hs": assign_hs, "ws": assign_ws, "angle": assign_degree}
     return group
 
-
 # ========================= Main sequence (CPU+GPU hybrid) ========================= #
-
 
 def check_depth_overlap_sequence(
     depths,
@@ -1191,7 +1186,7 @@ def check_depth_overlap_sequence(
                 # hs_current = torch.from_numpy(hs_current).to(device=device)
                 # ws_current = torch.from_numpy(ws_current).to(device=device)
                 # chunking to limit memory if needed
-                grouped_info, t2t1, t3t2 = (
+                grouped_info = (
                     _winners_window_gpu_fastpath(
                         Pw_cat,
                         hs_cat,
@@ -1216,8 +1211,8 @@ def check_depth_overlap_sequence(
                         device=device,
                     )
                 )
-                if t2t1 is not None and t3t2 is not None:
-                    pbar.set_postfix({"t2": f"{t2t1:.3f}s", "t3": f"{t3t2:.3f}s"})
+                # if t2t1 is not None and t3t2 is not None:
+                #     pbar.set_postfix({"t2": f"{t2t1:.3f}s", "t3": f"{t3t2:.3f}s"})
                     # else:
                     #     hh, ww, hs_best, ws_best, sid_best = _winners_window_gpu_general(
                     #         Pw_cat,
@@ -1306,9 +1301,9 @@ def check_depth_overlap_sequence(
                         sid_inf = gather_l_with_invalid(group_inf["n"], indice)
                         hs_inf = gather_l_with_invalid(group_inf["hs"], indice)
                         ws_inf = gather_l_with_invalid(group_inf["ws"], indice)
-                        grouped_info["n"][final_inf_fill] = sid_inf[final_inf_fill]
-                        grouped_info["hs"][final_inf_fill] = hs_inf[final_inf_fill]
-                        grouped_info["ws"][final_inf_fill] = ws_inf[final_inf_fill]
+                        grouped_info["n"][final_inf_fill] = sid_inf[final_inf_fill].astype(np.int16)
+                        grouped_info["hs"][final_inf_fill] = hs_inf[final_inf_fill].astype(np.int8)
+                        grouped_info["ws"][final_inf_fill] = ws_inf[final_inf_fill].astype(np.int8)
                         grouped_info["angle"][final_inf_fill] = -2
                     # inf_valid = indice >= 0
                     # print(indice)
@@ -2411,7 +2406,7 @@ def process_single_video(
             # assign_hs=assign_hs,
             # assign_ws=assign_ws,
             # assign_angles=assign_angles,
-            CAM_result=CAM_result,
+            # CAM_result=CAM_result,
             # **meta,
             **grouped_info_dict,
         )
