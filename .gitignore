@@ -173,3 +173,5 @@ csrc/include/
 *.zip*
 *.txt
 *.json
+*.npz
+*.npy

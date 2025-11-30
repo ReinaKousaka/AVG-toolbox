@@ -30,13 +30,13 @@ rename -v 's/_mp4$/.mp4/' -- *_mp4
 先把视频切片成8000帧一段，640*360，一般情况下我们录屏的视频都是60fps的，抽帧到30
 ```bash
 python split_videos.py \
---input_dir 1018_video_data   \
---output_dir raw_video_vipe_1018   \
+--input_dir 2077-11-25_30fps   \
+--output_dir raw_2077-11-25_576p   \
 --drop_seconds 5    \
---resize 800x450   \
+--resize 1280x720   \
 --sample_ratio 2    \
---crop 640x360 \
---interval_frames 8000  \
+--crop 1024x576 \
+--interval_frames 7661  \
 --crf 18    \
 --preset slow   \
 --keep_temp false

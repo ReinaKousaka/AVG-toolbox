@@ -2290,26 +2290,24 @@ def process_single_video(
         return val
 
     if megasam_path is None:
-        intrinsic_path = os.path.join(cam_dir, "intrinsics", name + ".npz")
-        extrinsic_path = os.path.join(cam_dir, "pose", name + ".npz")
-        dep_path = os.path.join(depths_path, name + ".zip")
+        intrinsic_path = cam_dir + "_intrinsics_da3nested.npy"
+        extrinsic_path = cam_dir + "_extrinsics_da3nested.npy"
+        # dep_path = os.path.join(depths_path, name + ".zip")
         viz_png = os.path.join(
             saving_base_path, f"{name}_sparse3d_{pathify_size[0]}x{pathify_size[1]}.png"
         )
-        fxfycxcy = np.load(intrinsic_path)["data"][0]
-        intrinsic = np.array(
-            [
-                [fxfycxcy[0], 0, fxfycxcy[2]],
-                [0, fxfycxcy[1], fxfycxcy[3]],
-                [0, 0, 1],
-            ],
-            dtype=np.float32,
-        )
-        extrinsic = np.load(extrinsic_path)["data"]
+        intrinsic = np.load(intrinsic_path)[0]
+        # intrinsic = np.array(
+        #     [
+        #         [fxfycxcy[0], 0, fxfycxcy[2]],
+        #         [0, fxfycxcy[1], fxfycxcy[3]],
+        #         [0, 0, 1],
+        #     ],
+        #     dtype=np.float32,
+        # )
+        extrinsic = np.load(extrinsic_path)
         # depths = _load_depth_npz_auto(dep_path).astype(np.float32) * float(depth_scale)
-        depths = load_depth_zip_to_array(dep_path).astype(np.float32) * float(
-            depth_scale
-        )
+        depths = np.load(depths_path).astype(np.float32) * float(depth_scale)
     else:
         data = np.load(megasam_path)
         intrinsic = data["intrinsic"]
@@ -2470,7 +2468,7 @@ def batch_process_overlap_multiprocessing(
     pathify_size=(12, 16),
     exclude_window=(20, 50),
     topk_per_query=1,
-    is_c2w=True,
+    is_c2w=False,
     axis_order="xyz",
     trans_scale=1.0,
     flip_up_sign=False,
@@ -2538,24 +2536,24 @@ def batch_process_overlap_multiprocessing(
     group_store_topk=None,
 ):
     os.makedirs(saving_path, exist_ok=True)
-    cam_names = {
-        os.path.splitext(f)[0]
-        for f in os.listdir(os.path.join(cam_dir, "pose"))
-        if f.endswith(".npz")
-    }
-    dep_names = {
-        os.path.splitext(f)[0] for f in os.listdir(depths_path) if f.endswith(".zip")
-    }
-    npz_paths = sorted(cam_names & dep_names)
-    if megasam_path is not None:
-        import glob
+    # cam_names = {
+    #     os.path.splitext(f)[0] for f in os.listdir(os.path.join(cam_dir, "pose")) if f.endswith(".npz")
+    # }
+    # dep_names = {
+    #     os.path.splitext(f)[0]
+    #     for f in os.listdir(depths_path)
+    #     if f.endswith(".zip")
+    # }
+    # npz_paths = sorted(cam_names & dep_names)
+    # if megasam_path is not None:
+    #     import glob
 
-        npz_paths = [
-            os.path.splitext(os.path.basename(glob.glob(f"{video_path}/*.mp4")[0]))[0]
-        ]
-    elif len(npz_paths) == 0 and megasam_path is None and assign_name is None:
-        print("No common base filenames between", cam_dir, "and", depths_path)
-        return
+    #     npz_paths = [
+    #         os.path.splitext(os.path.basename(glob.glob(f"{video_path}/*.mp4")[0]))[0]
+    #     ]
+    # elif len(npz_paths) == 0 and megasam_path is None and assign_name is None:
+    #     print("No common base filenames between", cam_dir, "and", depths_path)
+    #     return
     if assign_name is not None:
         # npz_paths = [assign_name]
         if "." in assign_name:
@@ -2652,14 +2650,10 @@ if __name__ == "__main__":
     from argparse import ArgumentParser
 
     parser = ArgumentParser()
-    parser.add_argument(
-        "--assign_name",
-        type=str,
-        default="Cyberpunk207720251117-05250004_proc_temp_part_000",
-    )
+    parser.add_argument("--assign_name", type=str, default=None)
     parser.add_argument("--cam_dir", type=str, default="vipe_results")
     parser.add_argument("--depth_dir", type=str, default="vipe_results/depth")
-    parser.add_argument("--out_dir", type=str, default="vipe_results/out")
+    parser.add_argument("--out_dir", type=str, default="out")
     parser.add_argument("--video_dir", type=str, default="vipe_results/rgb")
     parser.add_argument("--clip_num", type=int, default=2000)
     parser.add_argument("--verbose_prob", type=float, default=1)
@@ -2673,17 +2667,17 @@ if __name__ == "__main__":
     video_dir = args.video_dir
     if os.path.exists(cam_dir) and os.path.exists(depth_dir):
         batch_process_overlap_multiprocessing(
-            video_path=video_dir,
+            video_path="/workspace/AVG-toolbox/raw_2077-11-25/part_1/",
             saving_path=out_dir,
-            cam_dir=cam_dir,
-            depths_path=depth_dir,
-            assign_name=args.assign_name,
+            cam_dir="out_test_da3/Cyberpunk207720251117-05250004_proc_temp_part_000",
+            depths_path="out_test_da3/Cyberpunk207720251117-05250004_proc_temp_part_000_depth_da3nested.npy",
+            assign_name="Cyberpunk207720251117-05250004_proc_temp_part_000",
             megasam_path=None,
             num_processes=1,
             pathify_size=(36, 64),
             exclude_window=(1, 1800),
             topk_per_query=1,
-            is_c2w=True,
+            is_c2w=False,
             axis_order="xyz",
             trans_scale=1,
             depth_scale=1,
