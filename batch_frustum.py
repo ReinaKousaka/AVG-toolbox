@@ -244,7 +244,7 @@ def main():
     parser.add_argument("input_dir", type=Path, help="含若干 .mp4 的输入目录")
     parser.add_argument("N", type=int, help="使用的 GPU 个数")
     parser.add_argument("python_script", type=Path, help="要执行的 Python 脚本路径（将以 --assign_name 调用）")
-    parser.add_argument("--timeout-secs", type=int, default=3600, help="单条任务超时秒数，默认 3600")
+    parser.add_argument("-ts", "--timeout-secs", type=int, default=3600, help="单条任务超时秒数，默认 3600")
     parser.add_argument("--gpu-list", type=str, default="", help="使用的 GPU ID 列表，逗号分隔；默认 0..N-1")
     parser.add_argument("--extra", type=str, default="", help='额外透传给子脚本的参数字符串，如："--flag_x=1 --mode=train"')
     parser.add_argument("--temp-root", type=Path, default=Path.cwd(), help="临时目录创建位置，默认当前工作目录")
