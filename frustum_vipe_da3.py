@@ -700,8 +700,8 @@ def _winners_window_gpu_fastpath(
 
     # Create output tensors on GPU first
     assign_n = torch.full((Hc, Wc, maximum), -1, dtype=torch.int16, device=device)
-    assign_hs = torch.full((Hc, Wc, maximum), -1, dtype=torch.int16, device=device)
-    assign_ws = torch.full((Hc, Wc, maximum), -1, dtype=torch.int16, device=device)
+    assign_hs = torch.full((Hc, Wc, maximum), -1, dtype=torch.int8, device=device)
+    assign_ws = torch.full((Hc, Wc, maximum), -1, dtype=torch.int8, device=device)
     assign_degree = torch.full((Hc, Wc, maximum), 0, dtype=torch.int8, device=device)
     for n in range(maximum):
         mask = unique_counts > n
@@ -715,18 +715,18 @@ def _winners_window_gpu_fastpath(
 
         assign_n[h_indices, w_indices, n] = sid_keep[idx_start_n].to(torch.int16)
         assign_hs[h_indices, w_indices, n] = (code_s_keep[idx_start_n] // Wc).to(
-            torch.int16
+            torch.int8
         )
         assign_ws[h_indices, w_indices, n] = (code_s_keep[idx_start_n] % Wc).to(
-            torch.int16
+            torch.int8
         )
         assign_degree[h_indices, w_indices, n] = angle_keep_deg[idx_start_n]
 
     # Convert to numpy only at the end for compatibility with downstream code
     group = {
         "n": assign_n.cpu().numpy().astype(np.int16),
-        "hs": assign_hs.cpu().numpy().astype(np.int16),
-        "ws": assign_ws.cpu().numpy().astype(np.int16),
+        "hs": assign_hs.cpu().numpy().astype(np.int8),
+        "ws": assign_ws.cpu().numpy().astype(np.int8),
         "angle": assign_degree.cpu().numpy().astype(np.int8),
     }
     return group
@@ -2133,6 +2133,34 @@ from pathlib import Path
 import zipfile, tempfile
 
 
+def _sharpen_depths_with_guided_filter(
+    depths: np.ndarray,
+    radius: int = 8,
+    eps: float = 1e-3,
+    amount: float = 0.6,
+) -> np.ndarray:
+    """Edge-sharpen depth maps via guided filtering (unsharp mask style)."""
+    ximgproc = getattr(cv2, "ximgproc", None)
+    guided = getattr(ximgproc, "guidedFilter", None) if ximgproc is not None else None
+    if guided is None or depths.ndim < 2:
+        return depths
+
+    is_single_map = depths.ndim == 2
+    depth_batch = depths[None, ...] if is_single_map else depths
+    for idx in tqdm(range(depth_batch.shape[0]), desc="sharpen-depths"):
+        depth_map = depth_batch[idx]
+        if depth_map.size == 0:
+            continue
+        guide = depth_map.astype(np.float32, copy=False)
+        if not np.isfinite(guide).any():
+            continue
+        smoothed = guided(guide, guide, radius, eps)
+        sharpened = guide + amount * (guide - smoothed)
+        depth_batch[idx] = np.maximum(sharpened, 0.0)
+
+    return depth_batch[0] if is_single_map else depth_batch
+
+
 # ========================= Batch processing (uses GPU-capable check_) ========================= #
 def load_depth_zip_to_array(zip_path: str | Path) -> np.ndarray:
     """
@@ -2290,8 +2318,8 @@ def process_single_video(
         return val
 
     if megasam_path is None:
-        intrinsic_path = cam_dir + "_intrinsics_da3nested.npy"
-        extrinsic_path = cam_dir + "_extrinsics_da3nested.npy"
+        intrinsic_path = os.path.join(cam_dir, name + "_intrinsics.npy")
+        extrinsic_path = os.path.join(cam_dir, name + "_extrinsics.npy")
         # dep_path = os.path.join(depths_path, name + ".zip")
         viz_png = os.path.join(
             saving_base_path, f"{name}_sparse3d_{pathify_size[0]}x{pathify_size[1]}.png"
@@ -2307,13 +2335,26 @@ def process_single_video(
         # )
         extrinsic = np.load(extrinsic_path)
         # depths = _load_depth_npz_auto(dep_path).astype(np.float32) * float(depth_scale)
-        depths = np.load(depths_path).astype(np.float32) * float(depth_scale)
+        raw_depths = np.load(os.path.join(depths_path, name + "_depth.npy")).astype(
+            np.float32
+        ) * float(depth_scale)
+        depths = _sharpen_depths_with_guided_filter(raw_depths)
+        # depths = raw_depths
+
     else:
         data = np.load(megasam_path)
         intrinsic = data["intrinsic"]
         extrinsic = data["cam_c2w"]
         depths = (data["depths"] * float(depth_scale)).astype(np.float32)
-
+        depths = _sharpen_depths_with_guided_filter(depths)
+    # save_video(
+    #     os.path.join(saving_base_path, f"{name}_origin_depth.mp4"),
+    #     np.clip((raw_depths * 3), 0, 255).astype(np.uint8)[..., None].repeat(3, -1),
+    # )
+    # save_video(
+    #     os.path.join(saving_base_path, f"{name}_sharpened_depth.mp4"),
+    #     np.clip((depths * 3), 0, 255).astype(np.uint8)[..., None].repeat(3, -1),
+    # )
     if os.path.exists(out_npz) and not overwrite:
         # data = np.load(out_npz, allow_pickle=True)
         # assign_n = data["assign_n"]
@@ -2536,24 +2577,6 @@ def batch_process_overlap_multiprocessing(
     group_store_topk=None,
 ):
     os.makedirs(saving_path, exist_ok=True)
-    # cam_names = {
-    #     os.path.splitext(f)[0] for f in os.listdir(os.path.join(cam_dir, "pose")) if f.endswith(".npz")
-    # }
-    # dep_names = {
-    #     os.path.splitext(f)[0]
-    #     for f in os.listdir(depths_path)
-    #     if f.endswith(".zip")
-    # }
-    # npz_paths = sorted(cam_names & dep_names)
-    # if megasam_path is not None:
-    #     import glob
-
-    #     npz_paths = [
-    #         os.path.splitext(os.path.basename(glob.glob(f"{video_path}/*.mp4")[0]))[0]
-    #     ]
-    # elif len(npz_paths) == 0 and megasam_path is None and assign_name is None:
-    #     print("No common base filenames between", cam_dir, "and", depths_path)
-    #     return
     if assign_name is not None:
         # npz_paths = [assign_name]
         if "." in assign_name:
@@ -2651,11 +2674,11 @@ if __name__ == "__main__":
 
     parser = ArgumentParser()
     parser.add_argument("--assign_name", type=str, default=None)
-    parser.add_argument("--cam_dir", type=str, default="vipe_results")
-    parser.add_argument("--depth_dir", type=str, default="vipe_results/depth")
-    parser.add_argument("--out_dir", type=str, default="out")
-    parser.add_argument("--video_dir", type=str, default="vipe_results/rgb")
-    parser.add_argument("--clip_num", type=int, default=2000)
+    parser.add_argument("--cam_dir", type=str, default="2077-11-29_da3")
+    parser.add_argument("--depth_dir", type=str, default="2077-11-29_da3")
+    parser.add_argument("--out_dir", type=str, default="2077-11-29_da3_frustum")
+    parser.add_argument("--video_dir", type=str, default="raw_2077-11-29_576p")
+    parser.add_argument("--clip_num", type=int, default=20000)
     parser.add_argument("--verbose_prob", type=float, default=1)
     parser.add_argument(
         "--overwrite", action="store_true", help="是否覆盖已存在的输出文件"
@@ -2667,11 +2690,11 @@ if __name__ == "__main__":
     video_dir = args.video_dir
     if os.path.exists(cam_dir) and os.path.exists(depth_dir):
         batch_process_overlap_multiprocessing(
-            video_path="/workspace/AVG-toolbox/raw_2077-11-25/part_1/",
+            video_path=video_dir,
             saving_path=out_dir,
-            cam_dir="out_test_da3/Cyberpunk207720251117-05250004_proc_temp_part_000",
-            depths_path="out_test_da3/Cyberpunk207720251117-05250004_proc_temp_part_000_depth_da3nested.npy",
-            assign_name="Cyberpunk207720251117-05250004_proc_temp_part_000",
+            cam_dir=depth_dir,
+            depths_path=depth_dir,
+            assign_name=args.assign_name,
             megasam_path=None,
             num_processes=1,
             pathify_size=(36, 64),

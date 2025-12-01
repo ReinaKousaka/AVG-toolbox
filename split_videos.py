@@ -8,7 +8,7 @@
 2) 抽帧：每 sample_ratio 取 1 帧
 3) 中心裁剪到 --crop W x H
 4) 按抽帧后的帧序列，每 interval_frames 帧切片（尾段不足丢弃）
-输出：H.264 (libx264) + yuv420p + faststart，固定 30 fps，默认无音频（-an）
+输出：H.264 (libx264) + yuv420p + faststart，固定 60 fps，默认无音频（-an）
 """
 
 import json
@@ -68,7 +68,7 @@ def ffprobe_duration_seconds(video_path: Path) -> float:
 
 
 def ffprobe_read_frames(video_path: Path) -> int:
-    # 读取精确帧数（对我们输出的 CFR 30fps 文件通常可靠）
+    # 读取精确帧数（对我们输出的 CFR 60fps 文件通常可靠）
     cmd = [
         FFPROBE,
         "-v",
@@ -86,9 +86,9 @@ def ffprobe_read_frames(video_path: Path) -> int:
     data = json.loads(out)
     nb = data["streams"][0].get("nb_read_frames")
     if nb is None or nb == "N/A":
-        # 回退：以时长*30 估算（仅在极端情况下）
+        # 回退：以时长*60 估算（仅在极端情况下）
         dur = ffprobe_duration_seconds(video_path)
-        return int(math.floor(dur * 30.0 + 1e-6))
+        return int(math.floor(dur * 60.0 + 1e-6))
     return int(nb)
 
 
@@ -143,7 +143,7 @@ def build_filter_chain(settings: Settings) -> str:
 def make_temp_processed(
     input_path: Path, temp_path: Path, settings: Settings, effective_duration: float
 ):
-    # 先做 0/1/2/3 步并固化为中间文件（30fps + H.264）
+    # 先做 0/1/2/3 步并固化为中间文件（60fps + H.264）
     # -ss 放前面，再 -t 指定有效时长，确保先丢掉前后 x 秒（后 x 秒通过 t=dur-2x 实现）
     vf = build_filter_chain(settings)
 
@@ -159,7 +159,7 @@ def make_temp_processed(
         "-vf",
         vf,
         "-r",
-        "30",  # 固定输出 30 fps
+        "60",  # 固定输出 60 fps
         "-an",  # 丢弃音频，避免切片时音视频对齐问题
         "-c:v",
         "libx264",
@@ -206,7 +206,7 @@ def slice_by_frames(
             "-vf",
             vf,
             "-r",
-            "30",
+            "60",
             "-an",
             "-c:v",
             "libx264",
@@ -242,7 +242,7 @@ def slice_by_frames(
             "-vf",
             vf,
             "-r",
-            "30",
+            "60",
             "-an",
             "-c:v",
             "libx264",

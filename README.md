@@ -1,6 +1,7 @@
 # 我们为了处理数据特殊调整过的vipe： #
 ## 1. 首先按照vipe自己说的环境配置安装vipe，这个几乎就是全自动的 ## 
 ### 注意！ cuda12.6+，最好是cuda12.8，使用 ```nvcc -V``` 确认 ###
+重命名：rename 's/_da3nested//' *_da3nested*
 ```bash
 # Create a new conda environment and install 3rd-party dependencies
 conda env create -f envs/base.yml

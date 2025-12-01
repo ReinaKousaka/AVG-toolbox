@@ -7,7 +7,7 @@ from decord import VideoReader, cpu
 from PIL import Image
 from skvideo.io import vwrite
 
-VIDEO_PATH = "/workspace/AVG-toolbox/raw_2077-11-25/part_1/Cyberpunk207720251117-05250004_proc_temp_part_000.mp4"
+VIDEO_PATH = "raw_2077-11-29_576p/Cyberpunk207720251126-18303125_proc_temp_part_000.mp4"
 VIDEO_WIDTH = 504
 CLIP_FRAMES = 1000
 
