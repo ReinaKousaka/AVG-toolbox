@@ -17,7 +17,9 @@ def worker_process(device: str, video_list, args):
         return
 
     print(f"[{device}] Will process {len(video_list)} video(s).")
-    worker = DA3NestedVideoWorker(device=device, model_name=args.model_name)
+    worker = DA3NestedVideoWorker(
+        device=device, model_name=args.model_name, intr_path=args.intr_path
+    )
 
     for idx, video_path in enumerate(video_list):
         print(f"\n[{device}] Processing {idx + 1}/{len(video_list)}: {video_path}")
@@ -70,7 +72,11 @@ def main():
         default="depth-anything/DA3NESTED-GIANT-LARGE",
         help="DA3 模型名称，默认 DA3NESTED-GIANT-LARGE",
     )
-
+    parser.add_argument(
+        "--intr_path",
+        type=str,
+        default="",
+    )
     args = parser.parse_args()
 
     os.makedirs(args.output_dir, exist_ok=True)

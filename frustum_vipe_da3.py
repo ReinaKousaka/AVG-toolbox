@@ -615,7 +615,7 @@ def _winners_window_gpu_fastpath(
         dot = (dir_current * dtc).sum(dim=1)
         angles_rad = torch.atan2(cross_norm, dot)  # (N,)
         angles_deg = torch.rad2deg(angles_rad)
-        keep = ~((far_mask | near_mask) & (angles_deg.abs() < 10.0))
+        keep = ~((far_mask | near_mask) & (angles_deg.abs() > 5.0))
         if not torch.any(keep):
             return None, None, None
         code_q = code_q[keep]
@@ -2300,6 +2300,7 @@ def process_single_video(
     use_gpu=True,
 ):
     video_path = os.path.join(video_base_path, name + ".mp4")
+    assert os.path.exists(video_path), f"视频文件不存在: {video_path}"
     out_npz = os.path.join(
         saving_base_path,
         f"{name}_frustum.npz",
@@ -2338,8 +2339,8 @@ def process_single_video(
         raw_depths = np.load(os.path.join(depths_path, name + "_depth.npy")).astype(
             np.float32
         ) * float(depth_scale)
-        depths = _sharpen_depths_with_guided_filter(raw_depths)
-        # depths = raw_depths
+        # depths = _sharpen_depths_with_guided_filter(raw_depths)
+        depths = raw_depths
 
     else:
         data = np.load(megasam_path)
@@ -2469,7 +2470,7 @@ def process_single_video(
 
     if verbose and random.uniform(0, 1) <= verbose_prob:
         _write_grouped_diff_video(
-            video_path if os.path.exists(video_path) else None,
+            video_path,
             diff_mp4,
             assign_n,
             assign_hs,
@@ -2671,14 +2672,19 @@ def batch_process_overlap_multiprocessing(
 if __name__ == "__main__":
     # Example: adjust paths as needed
     from argparse import ArgumentParser
+    import time
 
+    t = time.asctime()
+    safe_string_t = t.replace(" ", "_").replace(":", "-")
     parser = ArgumentParser()
     parser.add_argument("--assign_name", type=str, default=None)
-    parser.add_argument("--cam_dir", type=str, default="2077-11-29_da3")
-    parser.add_argument("--depth_dir", type=str, default="2077-11-29_da3")
-    parser.add_argument("--out_dir", type=str, default="2077-11-29_da3_frustum")
-    parser.add_argument("--video_dir", type=str, default="raw_2077-11-29_576p")
-    parser.add_argument("--clip_num", type=int, default=20000)
+    parser.add_argument("--cam_dir", type=str, default="out_test_da3")
+    parser.add_argument("--depth_dir", type=str, default="out_test_da3")
+    parser.add_argument(
+        "--out_dir", type=str, default=f"2077-11-25_da3_frustum_{safe_string_t}"
+    )
+    parser.add_argument("--video_dir", type=str, default="raw_2077-11-25_576p")
+    parser.add_argument("--clip_num", type=int, default=1000)
     parser.add_argument("--verbose_prob", type=float, default=1)
     parser.add_argument(
         "--overwrite", action="store_true", help="是否覆盖已存在的输出文件"
@@ -2697,8 +2703,8 @@ if __name__ == "__main__":
             assign_name=args.assign_name,
             megasam_path=None,
             num_processes=1,
-            pathify_size=(36, 64),
-            exclude_window=(1, 1800),
+            pathify_size=(27, 50),
+            exclude_window=(1, 1200),
             topk_per_query=1,
             is_c2w=False,
             axis_order="xyz",
@@ -2716,7 +2722,7 @@ if __name__ == "__main__":
             cell_px=3,
             video_fps=24,
             clip_length=args.clip_num,
-            occ_block_range=[0.7, 1.3],
+            occ_block_range=[0.9, 1.1],
             min_support_per_cell=1,
             occlusion_margin=0.01,
             depth_inf_thresh=1e9,

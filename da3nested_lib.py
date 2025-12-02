@@ -71,6 +71,21 @@ def find_videos(
 # ===========================
 # Worker：单卡模型 + 单视频处理
 # ===========================
+def compute_focal_from_intrinsics(intrinsics_path: str, process_res) -> float:
+    """
+    从 intrinsics.npy 里计算平均焦距（像素单位）。
+    兼容:
+    - (N, 3, 3)
+    - (3, 3)
+    """
+    intr = np.load(intrinsics_path)
+    intr = intr["data"]
+    fx, fy, cx, cy = intr[0]
+    scaling = process_res / (cx * 2)
+    fx *= scaling
+    fy *= scaling
+    focal = (fx + fy) * 0.5
+    return float(focal)
 
 
 class DA3NestedVideoWorker:
@@ -78,12 +93,15 @@ class DA3NestedVideoWorker:
         self,
         device: str,
         model_name: str = "depth-anything/DA3NESTED-GIANT-LARGE",
+        intr_path: str = None,
     ):
         """
         device: "cuda:0" / "cuda:1" / "cpu" ...
         """
         self.device = torch.device(device)
         print(f"[Init] Loading model on device: {self.device}")
+        self.model_name = model_name
+        self.intr_path = intr_path
         self.model = DepthAnything3.from_pretrained(model_name)
         self.model = self.model.to(device=self.device)
         self.model.eval()
@@ -94,6 +112,7 @@ class DA3NestedVideoWorker:
         pil_images: List[Image.Image],
         process_res: int | None = None,
         use_ray_pose: bool = True,
+        is_nested: bool = True,
     ):
         """
         对一个 chunk 的图像做一次完整推理:
@@ -105,13 +124,18 @@ class DA3NestedVideoWorker:
         kwargs = {}
         if process_res is not None:
             kwargs["process_res"] = process_res
-        kwargs["use_ray_pose"] = use_ray_pose
+        if is_nested:
+            kwargs["use_ray_pose"] = use_ray_pose
 
         prediction = self.model.inference(pil_images, **kwargs)
 
         depth = prediction.depth  # [N, H, W], float32, 已经是米制
-        intrinsics = prediction.intrinsics  # [N, 3, 3]
-        extrinsics = prediction.extrinsics  # [N, 3, 4], w2c
+        if is_nested:
+            intrinsics = prediction.intrinsics  # [N, 3, 3]
+            extrinsics = prediction.extrinsics  # [N, 3, 4], w2c
+        else:
+            intrinsics = None  # [N, 3, 3]
+            extrinsics = None  # [N, 3, 4], w2c
 
         return depth, intrinsics, extrinsics
 
@@ -141,7 +165,7 @@ class DA3NestedVideoWorker:
 
         base_name = os.path.basename(video_path)
         stem, _ = os.path.splitext(base_name)
-
+        intrinsic_path = os.path.join(self.intr_path, f"{stem}.npz")
         depth_npy_path = os.path.join(output_dir, f"{stem}_depth_da3nested.npy")
         intr_npy_path = os.path.join(output_dir, f"{stem}_intrinsics_da3nested.npy")
         extr_npy_path = os.path.join(output_dir, f"{stem}_extrinsics_da3nested.npy")
@@ -185,7 +209,10 @@ class DA3NestedVideoWorker:
         seg_idx = 0
         start = 0
         prev_end = 0
-
+        if self.model_name == "depth-anything/DA3METRIC-LARGE":
+            is_nested = False
+        else:
+            is_nested = True
         while start < num_frames:
             end = min(start + chunk_size, num_frames)
             idxs = list(range(start, end))
@@ -198,20 +225,23 @@ class DA3NestedVideoWorker:
                 pil_images,
                 process_res=process_res,
                 use_ray_pose=use_ray_pose,
+                is_nested=is_nested,
             )
             S = depth_chunk.shape[0]
             assert S == len(idxs), "模型返回帧数和输入不一致？"
 
             # extrinsics: [S, 3, 4] -> [S, 4, 4]
-            extr4 = np.zeros((S, 4, 4), dtype=np.float32)
-            extr4[:, 3, 3] = 1.0
-            extr4[:, :3, :4] = extr_chunk
+            if is_nested:
+                extr4 = np.zeros((S, 4, 4), dtype=np.float32)
+                extr4[:, 3, 3] = 1.0
+                extr4[:, :3, :4] = extr_chunk
 
             if seg_idx == 0 or pose_overlap <= 0:
                 # 第一段或者不做 pose 对齐：直接用
                 depth_to_use = depth_chunk
-                intr_to_use = intr_chunk
-                extr_to_use = extr4
+                if is_nested:
+                    intr_to_use = intr_chunk
+                    extr_to_use = extr4
             else:
                 # 有 overlap：用 overlap 的第一帧把当前 chunk 的世界系
                 # 对齐到“全局”世界系上
@@ -247,13 +277,19 @@ class DA3NestedVideoWorker:
                     extr_to_use = extr4_aligned[num_overlap:]
 
             # 累积
+            if not is_nested:
+                focal = compute_focal_from_intrinsics(
+                    intrinsic_path, depth_to_use.shape[-1]
+                )
+                depth_to_use = focal * depth_to_use / 300.0
             all_depth_chunks.append(depth_to_use)
-            all_intr_chunks.append(intr_to_use)
-            all_extr_chunks.append(extr_to_use)
+            if is_nested:
+                all_intr_chunks.append(intr_to_use)
+                all_extr_chunks.append(extr_to_use)
 
-            # 更新全局外参列表（按“全局帧 index”的顺序）
-            for ex in extr_to_use:
-                global_extrinsics_4x4.append(ex)
+                # 更新全局外参列表（按“全局帧 index”的顺序）
+                for ex in extr_to_use:
+                    global_extrinsics_4x4.append(ex)
 
             # 打包 depth -> BGR 用于写视频（只对“新帧”做）
             for d in depth_to_use:
@@ -263,7 +299,9 @@ class DA3NestedVideoWorker:
             seg_idx += 1
 
             # 清理中间变量，方便显存 / 内存回收
-            del frames_np, pil_images, depth_chunk, intr_chunk, extr_chunk, extr4
+            del frames_np, pil_images, depth_chunk, intr_chunk, extr_chunk
+            if is_nested:
+                del extr4
 
             # 下一段起点
             if pose_overlap <= 0:
@@ -273,26 +311,29 @@ class DA3NestedVideoWorker:
 
         # 合并
         depth_full = np.concatenate(all_depth_chunks, axis=0)
-        intr_full = np.concatenate(all_intr_chunks, axis=0)
-        extr_full = np.concatenate(all_extr_chunks, axis=0)  # [N, 4, 4]
-
         assert (
             depth_full.shape[0] == num_frames
         ), f"Depth 帧数不等于视频帧数: {depth_full.shape[0]} vs {num_frames}"
-        assert (
-            intr_full.shape[0] == num_frames
-        ), f"Intrinsics 帧数不等于视频帧数: {intr_full.shape[0]} vs {num_frames}"
-        assert (
-            extr_full.shape[0] == num_frames
-        ), f"Extrinsics 帧数不等于视频帧数: {extr_full.shape[0]} vs {num_frames}"
-
-        # 保存 npy
         np.save(depth_npy_path, depth_full.astype(np.float32))
-        np.save(intr_npy_path, intr_full.astype(np.float32))
-        np.save(extr_npy_path, extr_full.astype(np.float32))
         print(f"  Saved depth npy      : {depth_npy_path}, shape={depth_full.shape}")
-        print(f"  Saved intrinsics npy : {intr_npy_path}, shape={intr_full.shape}")
-        print(f"  Saved extrinsics npy : {extr_npy_path}, shape={extr_full.shape}")
+        if is_nested:
+            intr_full = np.concatenate(all_intr_chunks, axis=0)
+            extr_full = np.concatenate(all_extr_chunks, axis=0)  # [N, 4, 4]
+
+            assert (
+                intr_full.shape[0] == num_frames
+            ), f"Intrinsics 帧数不等于视频帧数: {intr_full.shape[0]} vs {num_frames}"
+            assert (
+                extr_full.shape[0] == num_frames
+            ), f"Extrinsics 帧数不等于视频帧数: {extr_full.shape[0]} vs {num_frames}"
+
+            # 保存 npy
+
+            np.save(intr_npy_path, intr_full.astype(np.float32))
+            np.save(extr_npy_path, extr_full.astype(np.float32))
+
+            print(f"  Saved intrinsics npy : {intr_npy_path}, shape={intr_full.shape}")
+            print(f"  Saved extrinsics npy : {extr_npy_path}, shape={extr_full.shape}")
 
         # 保存深度视频
         depth_frames_array = np.asarray(all_bitpacked_frames, dtype=np.uint8)

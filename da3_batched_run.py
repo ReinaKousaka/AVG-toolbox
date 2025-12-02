@@ -50,7 +50,7 @@ def decode_rgb_to_depth_bitpack(img_bgr: np.ndarray) -> np.ndarray:
 # ===========================
 # 工具函数：读内参 -> focal
 # ===========================
-def compute_focal_from_intrinsics(intrinsics_path: str) -> float:
+def compute_focal_from_intrinsics(intrinsics_path: str, process_res) -> float:
     """
     从 intrinsics.npy 里计算平均焦距（像素单位）。
     兼容:
@@ -58,19 +58,20 @@ def compute_focal_from_intrinsics(intrinsics_path: str) -> float:
     - (3, 3)
     """
     intr = np.load(intrinsics_path)
-
-    if intr.ndim == 3:  # (N, 3, 3)
-        fx = intr[:, 0, 0]
-        fy = intr[:, 1, 1]
-        focal = ((fx + fy) * 0.5).mean()
-    elif intr.ndim == 2:  # (3, 3)
-        fx = intr[0, 0]
-        fy = intr[1, 1]
-        focal = (fx + fy) * 0.5
-    else:
-        raise ValueError(
-            f"Unexpected intrinsics shape: {intr.shape}, " "expect (3,3) or (N,3,3)"
-        )
+    intr = intr["data"]
+    fx, fy, cx, cy = intr[0]
+    # if intr.ndim == 3:  # (N, 3, 3)
+    #     fx = intr[:, 0, 0]
+    #     fy = intr[:, 1, 1]
+    #     focal = ((fx + fy) * 0.5).mean()
+    # elif intr.ndim == 2:  # (3, 3)
+    #     fx = intr[0, 0]
+    #     fy = intr[1, 1]
+    focal = (fx + fy) * 0.5
+    # else:
+    #     raise ValueError(
+    #         f"Unexpected intrinsics shape: {intr.shape}, " "expect (3,3) or (N,3,3)"
+    #     )
 
     return float(focal)
 
@@ -111,7 +112,7 @@ class DepthAnythingVideoWorker:
         self,
         video_path: str,
         output_dir: str,
-        focal: float,
+        intrinsics_path: float,
         chunk_size: int = 1000,
         process_res: int | None = None,
         metric_scale: float = 300.0,
@@ -131,6 +132,7 @@ class DepthAnythingVideoWorker:
         # 取文件名
         base_name = os.path.basename(video_path)
         stem, _ = os.path.splitext(base_name)
+        intrinsic_path = os.path.join(intrinsics_path, f"{stem}.npz")
 
         depth_npy_path = os.path.join(output_dir, f"{stem}_metric_depth.npy")
         depth_video_path = os.path.join(output_dir, f"{stem}_metric_depth.mp4")
@@ -164,6 +166,7 @@ class DepthAnythingVideoWorker:
             )  # [chunk, H, W]
 
             # metric 深度
+            focal = compute_focal_from_intrinsics(intrinsic_path)
             metric_depth_chunk = focal * depth_chunk / float(metric_scale)
             metric_depth_chunk = metric_depth_chunk.astype(np.float32)
 
@@ -282,8 +285,8 @@ def main():
     os.makedirs(args.output_dir, exist_ok=True)
 
     # 读取内参，计算 focal
-    focal = compute_focal_from_intrinsics(args.intrinsics)
-    print(f"[Info] Focal (pixels): {focal}")
+
+    # print(f"[Info] Focal (pixels): {focal}")
 
     # 查找所有要处理的视频
     videos = find_videos(args.input_dirs)
@@ -319,7 +322,7 @@ def main():
         worker.process_video(
             video_path=video_path,
             output_dir=args.output_dir,
-            focal=focal,
+            intrinsics_path=args.intrinsics,
             chunk_size=args.chunk_size,
             process_res=args.process_res,
             metric_scale=args.metric_scale,

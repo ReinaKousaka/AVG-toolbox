@@ -8,7 +8,7 @@
 2) 抽帧：每 sample_ratio 取 1 帧
 3) 中心裁剪到 --crop W x H
 4) 按抽帧后的帧序列，每 interval_frames 帧切片（尾段不足丢弃）
-输出：H.264 (libx264) + yuv420p + faststart，固定 60 fps，默认无音频（-an）
+输出：H.264 (libx264) + yuv420p + faststart，固定 30 fps，默认无音频（-an）
 """
 
 import json
@@ -17,6 +17,7 @@ import os
 import shutil
 import subprocess
 import sys
+import multiprocessing as mp
 from dataclasses import dataclass
 from pathlib import Path
 import argparse
@@ -68,7 +69,7 @@ def ffprobe_duration_seconds(video_path: Path) -> float:
 
 
 def ffprobe_read_frames(video_path: Path) -> int:
-    # 读取精确帧数（对我们输出的 CFR 60fps 文件通常可靠）
+    # 读取精确帧数（对我们输出的 CFR 30fps 文件通常可靠）
     cmd = [
         FFPROBE,
         "-v",
@@ -85,10 +86,10 @@ def ffprobe_read_frames(video_path: Path) -> int:
     out = run_cmd(cmd)
     data = json.loads(out)
     nb = data["streams"][0].get("nb_read_frames")
-    if nb is None or nb == "N/A":
-        # 回退：以时长*60 估算（仅在极端情况下）
-        dur = ffprobe_duration_seconds(video_path)
-        return int(math.floor(dur * 60.0 + 1e-6))
+    # if nb is None or nb == "N/A":
+    #     # 回退：以时长*30 估算（仅在极端情况下）
+    #     dur = ffprobe_duration_seconds(video_path)
+    #     return int(math.floor(dur * 30.0 + 1e-6))
     return int(nb)
 
 
@@ -143,7 +144,7 @@ def build_filter_chain(settings: Settings) -> str:
 def make_temp_processed(
     input_path: Path, temp_path: Path, settings: Settings, effective_duration: float
 ):
-    # 先做 0/1/2/3 步并固化为中间文件（60fps + H.264）
+    # 先做 0/1/2/3 步并固化为中间文件（30fps + H.264）
     # -ss 放前面，再 -t 指定有效时长，确保先丢掉前后 x 秒（后 x 秒通过 t=dur-2x 实现）
     vf = build_filter_chain(settings)
 
@@ -159,7 +160,7 @@ def make_temp_processed(
         "-vf",
         vf,
         "-r",
-        "60",  # 固定输出 60 fps
+        "30",  # 固定输出 30 fps
         "-an",  # 丢弃音频，避免切片时音视频对齐问题
         "-c:v",
         "libx264",
@@ -206,7 +207,7 @@ def slice_by_frames(
             "-vf",
             vf,
             "-r",
-            "60",
+            "30",
             "-an",
             "-c:v",
             "libx264",
@@ -242,7 +243,7 @@ def slice_by_frames(
             "-vf",
             vf,
             "-r",
-            "60",
+            "30",
             "-an",
             "-c:v",
             "libx264",
@@ -262,6 +263,11 @@ def slice_by_frames(
         made += 1
 
     return made, total, full_segments
+
+
+def _process_one_video_star(args):
+    path, settings = args
+    return process_one_video(path, settings)
 
 
 def process_one_video(path: Path, settings: Settings):
@@ -368,6 +374,13 @@ def main():
     parser.add_argument(
         "--keep_temp", type=str, default="false", help="是否保留临时文件（true/false）"
     )
+    parser.add_argument(
+        "-j",
+        "--workers",
+        type=int,
+        default=1,
+        help="并行进程数，<=0 时自动使用 CPU 核心数，仅影响 process_one_video 并发调度",
+    )
     args = parser.parse_args()
 
     keep_temp = str(args.keep_temp).lower() in ("1", "true", "yes", "y")
@@ -393,9 +406,17 @@ def main():
         print("未在输入目录下发现 mp4 文件。")
         return
 
-    print(f"共发现 {len(videos)} 个 mp4，开始处理……")
-    for v in videos:
-        process_one_video(v, settings)
+    worker_count = min(args.workers, len(videos))
+    if worker_count is None or worker_count <= 0:
+        worker_count = os.cpu_count() or 1
+
+    print(f"共发现 {len(videos)} 个 mp4，开始处理……（并发进程：{worker_count}）")
+    if worker_count == 1:
+        for v in videos:
+            process_one_video(v, settings)
+    else:
+        with mp.get_context("spawn").Pool(worker_count) as pool:
+            pool.map(_process_one_video_star, [(v, settings) for v in videos])
 
     # 清理空的 _temp
     temp_dir = settings.output_dir / "_temp"

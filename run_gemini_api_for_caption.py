@@ -78,8 +78,9 @@ def backoff_logger(details):
     interval=60 * 20,  # retry every 20mins
     on_backoff=backoff_logger,
 )
-def send_gemini_request(images):
-    contents = [
+def send_gemini_request(
+    images,
+    contents=[
         """
         You are a precise and concise first-person video scene narrator.
         [first]: describe the first frame with all visible objects and their spatial positions relative to the viewer.
@@ -87,7 +88,9 @@ def send_gemini_request(images):
         Ensure descriptions are chronologically ordered, accurate, information-rich, and less than 6 sentences.
         Return the descriptions in the format below: {"first": "...", "remaining": "..." }. Respond **only** with a valid JSON object that can be parsed by Python's `json.loads`. Do not format into Markdown code blocks. Your response must start with `{` and end with `}`. Do not include any NSFW content or swear words in your descriptions. do not include any backslash symbol in your response.
         """
-    ]
+    ],
+):
+
     for image in images:
         contents.append(types.Part.from_bytes(data=image, mime_type="image/jpeg"))  # type: ignore
     try:
@@ -98,7 +101,14 @@ def send_gemini_request(images):
     except Exception as ex:
         logger.error(f"catch exception: {ex}")
         raise ex
-    return response.text
+    text = response.text
+    caption_simple = client.models.generate_content(  # type: ignore
+        model="gemini-2.5-flash",
+        contents=[
+            f"Summarize the description of frames into a concise caption of no more than 20 words, without any format. the description is: [descriptions start] {text} [descriptions end], ignoring the format such as first or remaining and json structure in the description",
+        ],
+    ).text
+    return response.text, caption_simple
 
 
 def compress_frame(img, target_width=None, target_height=None, jpeg_quality=80):
@@ -164,7 +174,7 @@ def process_video_pyav(input_dir, filename, output_file):
             logger.info(
                 f"start generating captions for {filename}, frame: {start_frame_idx} ~ {end_frame_idx}"
             )
-            caption = send_gemini_request(base64_frames)
+            caption, caption_simple = send_gemini_request(base64_frames)
             logger.info(
                 f"finished generating captions for {filename}, frame: {start_frame_idx} ~ {end_frame_idx}"
             )
@@ -187,7 +197,17 @@ def process_video_pyav(input_dir, filename, output_file):
                         f"Failed to parse JSON after fixes for frames {start_frame_idx}-{end_frame_idx} in {filename}. Raw response: {caption}"
                     )
                     caption = caption
-
+            if not isinstance(caption, dict) and isinstance(caption, str):
+                caption = caption.split("remaining")
+                caption = {
+                    "first": caption[0][10:].replace('"', "").replace(":", ""),
+                    "remaining": caption[1][1:]
+                    .replace('"', "")
+                    .replace(":", "")
+                    .replace("}", ""),
+                }
+            assert isinstance(caption, dict)
+            caption["short_caption"] = caption_simple
             jsons[f"{_format(start_frame_idx)}-{_format(end_frame_idx)}"] = caption
             # move pointers
             start_frame_idx = end_frame_idx
@@ -264,7 +284,7 @@ if __name__ == "__main__":
             # only accept dirs with image files inside
             if any(q.suffix.lower() in image_exts for q in p.iterdir()):
                 filepaths.append(p)
-
+    filepaths = sorted(filepaths)
     print(f"len(filepaths) = {len(filepaths)}")
     for filepath in tqdm(filepaths):
         relative_path = filepath.relative_to(input_path)
@@ -282,5 +302,3 @@ if __name__ == "__main__":
                     filename=filepath.name,
                     output_file=output_file,
                 )
-            else:  # folder of frames
-                process_image_folder(str(filepath), output_file)

@@ -2146,7 +2146,7 @@ def load_depth_zip_to_array(zip_path: str | Path) -> np.ndarray:
         names = sorted([n for n in z.namelist() if n.lower().endswith(".exr")])
 
         H = W = None
-        for name in names:
+        for name in tqdm(names):
             # 只接受纯数字文件名（去掉扩展名）
             stem = Path(name).stem
             try:
@@ -2183,7 +2183,8 @@ def load_depth_zip_to_array(zip_path: str | Path) -> np.ndarray:
                     .reshape(H, W)
                 )
                 frames.append(depth)
-    return np.stack(frames, axis=0)
+                break
+    return frames
 
 
 def process_single_video(
@@ -2292,7 +2293,7 @@ def process_single_video(
     if megasam_path is None:
         intrinsic_path = os.path.join(cam_dir, "intrinsics", name + ".npz")
         extrinsic_path = os.path.join(cam_dir, "pose", name + ".npz")
-        dep_path = os.path.join(depths_path, name + ".zip")
+        dep_path = os.path.join("vipe_results/depth", name + ".zip")
         viz_png = os.path.join(
             saving_base_path, f"{name}_sparse3d_{pathify_size[0]}x{pathify_size[1]}.png"
         )
@@ -2306,10 +2307,21 @@ def process_single_video(
             dtype=np.float32,
         )
         extrinsic = np.load(extrinsic_path)["data"]
-        # depths = _load_depth_npz_auto(dep_path).astype(np.float32) * float(depth_scale)
-        depths = load_depth_zip_to_array(dep_path).astype(np.float32) * float(
-            depth_scale
-        )
+        depthsold = load_depth_zip_to_array(dep_path)
+        depths = np.load(
+            os.path.join(depths_path, name + "_depth_da3nested.npy")
+        ).astype(np.float32) * float(depth_scale)
+        resized_depth = []
+        for t in range(depths.shape[0]):
+            depth_t = depths[t]
+            depth_t = cv2.resize(
+                depth_t,
+                (depthsold[0].shape[1], depthsold[0].shape[0]),
+                interpolation=cv2.INTER_NEAREST,
+            )
+            resized_depth.append(depth_t)
+        depths = np.stack(resized_depth, axis=0)
+
     else:
         data = np.load(megasam_path)
         intrinsic = data["intrinsic"]
@@ -2658,10 +2670,10 @@ if __name__ == "__main__":
         default="Cyberpunk207720251117-05250004_proc_temp_part_000",
     )
     parser.add_argument("--cam_dir", type=str, default="vipe_results")
-    parser.add_argument("--depth_dir", type=str, default="vipe_results/depth")
+    parser.add_argument("--depth_dir", type=str, default="vipe_results/rgb_depth_da3")
     parser.add_argument("--out_dir", type=str, default="vipe_results/out")
     parser.add_argument("--video_dir", type=str, default="vipe_results/rgb")
-    parser.add_argument("--clip_num", type=int, default=2000)
+    parser.add_argument("--clip_num", type=int, default=200000)
     parser.add_argument("--verbose_prob", type=float, default=1)
     parser.add_argument(
         "--overwrite", action="store_true", help="是否覆盖已存在的输出文件"
@@ -2690,7 +2702,7 @@ if __name__ == "__main__":
             flip_up_sign=False,
             img_size=None,
             video_range=(0, args.clip_num),
-            point_stride=3,
+            point_stride=5,
             overwrite=args.overwrite,
             write_related=False,
             verbose=True,
