@@ -82,11 +82,21 @@ def main():
     os.makedirs(args.output_dir, exist_ok=True)
 
     # 找到所有要处理的视频
-    videos = find_videos(args.input_dirs)
-    if not videos:
+    rawvideos = find_videos(args.input_dirs)
+    videos = []
+    if not rawvideos:
         print("[Warn] 没找到 mp4 视频，请检查 input_dirs。")
         return
-
+    for v in rawvideos:
+        if os.path.exists(
+            os.path.join(
+                args.output_dir,
+                os.path.basename(v).replace(".mp4", "_depth_da3nested.npy"),
+            )
+        ):
+            print(f"[Info] 视频 {v} 已处理，跳过。")
+        else:
+            videos.append(v)
     print(f"[Info] Found {len(videos)} video(s).")
 
     # 检测可用设备

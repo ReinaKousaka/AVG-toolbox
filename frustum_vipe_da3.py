@@ -2319,8 +2319,8 @@ def process_single_video(
         return val
 
     if megasam_path is None:
-        intrinsic_path = os.path.join(cam_dir, name + "_intrinsics.npy")
-        extrinsic_path = os.path.join(cam_dir, name + "_extrinsics.npy")
+        intrinsic_path = os.path.join(cam_dir, name + "_intrinsics_da3nested.npy")
+        extrinsic_path = os.path.join(cam_dir, name + "_extrinsics_da3nested.npy")
         # dep_path = os.path.join(depths_path, name + ".zip")
         viz_png = os.path.join(
             saving_base_path, f"{name}_sparse3d_{pathify_size[0]}x{pathify_size[1]}.png"
@@ -2336,9 +2336,9 @@ def process_single_video(
         # )
         extrinsic = np.load(extrinsic_path)
         # depths = _load_depth_npz_auto(dep_path).astype(np.float32) * float(depth_scale)
-        raw_depths = np.load(os.path.join(depths_path, name + "_depth.npy")).astype(
-            np.float32
-        ) * float(depth_scale)
+        raw_depths = np.load(
+            os.path.join(depths_path, name + "_depth_da3nested.npy")
+        ).astype(np.float32) * float(depth_scale)
         # depths = _sharpen_depths_with_guided_filter(raw_depths)
         depths = raw_depths
 
@@ -2674,20 +2674,23 @@ if __name__ == "__main__":
     from argparse import ArgumentParser
     import time
 
-    t = time.asctime()
+    t = time.strftime("%Y-%m-%d-%H:%M", time.localtime())
     safe_string_t = t.replace(" ", "_").replace(":", "-")
     parser = ArgumentParser()
     parser.add_argument("--assign_name", type=str, default=None)
     parser.add_argument("--cam_dir", type=str, default="out_test_da3")
     parser.add_argument("--depth_dir", type=str, default="out_test_da3")
     parser.add_argument(
-        "--out_dir", type=str, default=f"2077-11-25_da3_frustum_{safe_string_t}"
+        "-o", "--out_dir", type=str, default=f"2077-11-25_da3_frustum_{safe_string_t}"
     )
     parser.add_argument("--video_dir", type=str, default="raw_2077-11-25_576p")
-    parser.add_argument("--clip_num", type=int, default=1000)
+    parser.add_argument("-c", "--clip_num", type=int, default=1000000)
     parser.add_argument("--verbose_prob", type=float, default=1)
     parser.add_argument(
-        "--overwrite", action="store_true", help="是否覆盖已存在的输出文件"
+        "-or", "--overwrite", action="store_true", help="是否覆盖已存在的输出文件"
+    )
+    parser.add_argument(
+        "-ps", "--point_stride", type=int, default=8, help="是否覆盖已存在的输出文件"
     )
     args = parser.parse_args()
     cam_dir = args.cam_dir
