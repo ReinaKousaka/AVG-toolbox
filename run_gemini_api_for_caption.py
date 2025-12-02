@@ -15,6 +15,7 @@ time python run_gemini_api_for_caption --snippet_length 128 --frame_gap 16 --vid
 import argparse
 import base64
 import os
+from multiprocessing import Process
 from pathlib import Path
 from tqdm import tqdm
 import logging
@@ -28,6 +29,11 @@ from google.genai import types
 
 # FILL THIS CONFIDENTIAL KEY! Better to use env variable by:
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
+VIDEO_EXTS = {".mp4", ".hevc"}
+IMAGE_EXTS = {".png", ".jpg", ".jpeg"}
+LOG_DIR = Path("gemini_log")
+LOG_FORMAT = "[%(asctime)s] - %(levelname)s: %(message)s"
+LOG_DATEFMT = "%H:%M:%S"
 
 parser = argparse.ArgumentParser()
 parser.add_argument(
@@ -41,21 +47,55 @@ parser.add_argument("--video_dir", type=str, default="vids", help="input path of
 parser.add_argument(
     "--output_dir", type=str, default="caption-gemini-out", help="output path"
 )
+parser.add_argument(
+    "--gemini_api_keys",
+    nargs="+",
+    default=None,
+    help="one or more Gemini API keys to parallelize requests",
+)
 
 args = parser.parse_args()
 SNIPPET_LENGTH = args.snippet_length
 FRMAE_GAP = args.frame_gap
 INPUT_DIR = args.video_dir
 OUTPUT_DIR = args.output_dir
+GEMINI_API_KEYS = args.gemini_api_keys or ([GEMINI_API_KEY] if GEMINI_API_KEY else None)
+if not GEMINI_API_KEYS:
+    raise ValueError(
+        "Gemini API key not provided. Set GEMINI_API_KEY env variable or pass --gemini_api_keys."
+    )
 assert SNIPPET_LENGTH % FRMAE_GAP == 0
 
 
 logging.basicConfig(
     level=logging.INFO,  # mute Google's DEBUG level messages
-    format="[%(asctime)s] - %(levelname)s: %(message)s",
-    datefmt="%H:%M:%S",
+    format=LOG_FORMAT,
+    datefmt=LOG_DATEFMT,
 )
 logger = logging.getLogger(__name__)
+
+
+def _log_filename_prefix(api_key: str) -> str:
+    prefix = api_key[-5:] if api_key else "empty"
+    return re.sub(r"[^A-Za-z0-9_-]", "_", prefix)
+
+
+def get_log_file_for_key(api_key: str) -> Path:
+    LOG_DIR.mkdir(parents=True, exist_ok=True)
+    return LOG_DIR / f"{_log_filename_prefix(api_key)}.log"
+
+
+def configure_logger_for_api_key(api_key: str):
+    log_file = get_log_file_for_key(api_key)
+    for handler in logger.handlers:
+        if isinstance(handler, logging.FileHandler) and getattr(
+            handler, "baseFilename", ""
+        ) == str(log_file):
+            return log_file
+    file_handler = logging.FileHandler(log_file)
+    file_handler.setFormatter(logging.Formatter(LOG_FORMAT, LOG_DATEFMT))
+    logger.addHandler(file_handler)
+    return log_file
 
 
 def _format(number: int) -> str:
@@ -153,6 +193,11 @@ def process_video_pyav(input_dir, filename, output_file):
     local_frame_idx = 0
     frame_cnter = 0
     jsons = {}
+    if os.path.exists(os.path.join(OUTPUT_DIR, f"{filename.split('.')[0]}.json")):
+        logger.warning(
+            f"{filename.split('.')[0]}.json exists, skip processing {filename}"
+        )
+        return
     for frame_idx, frame in enumerate(container.decode(stream)):
         frame_cnter += 1
         # read one frame each time
@@ -162,7 +207,7 @@ def process_video_pyav(input_dir, filename, output_file):
             _, buffer = cv2.imencode(".jpg", img)
             # base64_frames.append(base64.b64encode(buffer).decode("utf-8"))
             base64_frames.append(
-                compress_frame(img, target_width=512, target_height=288)
+                compress_frame(img, target_width=400, target_height=216)
             )
         local_frame_idx += 1
 
@@ -224,7 +269,7 @@ def process_video_pyav(input_dir, filename, output_file):
 
 def process_image_folder(folder_path, output_file):
     frames = sorted(
-        [p for p in Path(folder_path).glob("*") if p.suffix.lower() in image_exts]
+        [p for p in Path(folder_path).glob("*") if p.suffix.lower() in IMAGE_EXTS]
     )
     start_frame_idx = 0
     end_frame_idx = SNIPPET_LENGTH
@@ -265,35 +310,32 @@ def process_image_folder(folder_path, output_file):
     )
 
 
-if __name__ == "__main__":
-    if not os.path.exists(OUTPUT_DIR):
-        os.makedirs(OUTPUT_DIR, exist_ok=True)
-    logger.info(
-        f"Program starts, with snippet length = {SNIPPET_LENGTH}, frame gap = {FRMAE_GAP}"
-    )
+def chunk_filepaths(filepaths, num_chunks):
+    if num_chunks <= 0:
+        raise ValueError("num_chunks must be positive")
+    if not filepaths:
+        return [[] for _ in range(num_chunks)]
+    base, remainder = divmod(len(filepaths), num_chunks)
+    chunks = []
+    start = 0
+    for idx in range(num_chunks):
+        extra = 1 if idx < remainder else 0
+        end = start + base + extra
+        chunks.append(filepaths[start:end])
+        start = end
+    return chunks
 
-    input_path = Path(INPUT_DIR)
-    video_exts = {".mp4", ".hevc"}
-    image_exts = {".png", ".jpg", ".jpeg"}
-    # find all video/image files recursively
-    filepaths = []
-    for p in input_path.rglob("*"):
-        if p.is_file() and p.suffix.lower() in video_exts:
-            filepaths.append(p)
-        elif p.is_dir():
-            # only accept dirs with image files inside
-            if any(q.suffix.lower() in image_exts for q in p.iterdir()):
-                filepaths.append(p)
-    filepaths = sorted(filepaths)
-    print(f"len(filepaths) = {len(filepaths)}")
-    for filepath in tqdm(filepaths):
+
+def process_path_batch(filepaths, input_path, show_progress=False):
+    iterator = tqdm(filepaths) if show_progress else filepaths
+    for filepath in iterator:
         relative_path = filepath.relative_to(input_path)
         output_filename = f"{filepath.stem}.txt"
         output_path = Path(OUTPUT_DIR) / relative_path.parent / output_filename
         output_path.parent.mkdir(parents=True, exist_ok=True)
-        if output_path.exists():
-            logger.warning(f"{output_path.name} exists, skip")
-            continue
+        # if output_path.exists():
+        #     logger.warning(f"{output_path.name} exists, skip")
+        #     continue
 
         with open(output_path, "a+") as output_file:
             if filepath.is_file():  # video
@@ -302,3 +344,67 @@ if __name__ == "__main__":
                     filename=filepath.name,
                     output_file=output_file,
                 )
+            else:
+                process_image_folder(folder_path=str(filepath), output_file=output_file)
+
+
+def worker_process(filepaths, api_key, input_path):
+    global GEMINI_API_KEY
+    GEMINI_API_KEY = api_key
+    configure_logger_for_api_key(api_key)
+    logger.info(
+        f"Worker handling {len(filepaths)} paths with key ending {api_key[-4:]}"
+    )
+    process_path_batch(filepaths, input_path, show_progress=False)
+
+
+if __name__ == "__main__":
+    if not os.path.exists(OUTPUT_DIR):
+        os.makedirs(OUTPUT_DIR, exist_ok=True)
+    LOG_DIR.mkdir(parents=True, exist_ok=True)
+    logger.info(
+        f"Program starts, with snippet length = {SNIPPET_LENGTH}, frame gap = {FRMAE_GAP}"
+    )
+
+    input_path = Path(INPUT_DIR)
+    # find all video/image files recursively
+    filepaths = []
+    for p in input_path.rglob("*"):
+        if p.is_file() and p.suffix.lower() in VIDEO_EXTS:
+            filepaths.append(p)
+        elif p.is_dir():
+            # only accept dirs with image files inside
+            if any(q.suffix.lower() in IMAGE_EXTS for q in p.iterdir()):
+                filepaths.append(p)
+    filepaths = sorted(filepaths)
+    print(f"len(filepaths) = {len(filepaths)}")
+    for api_key in GEMINI_API_KEYS:
+        log_file = get_log_file_for_key(api_key)
+        log_file.touch(exist_ok=True)
+    if not filepaths:
+        logger.warning("No supported video or image folders found to process.")
+    else:
+        if len(GEMINI_API_KEYS) == 1:
+            GEMINI_API_KEY = GEMINI_API_KEYS[0]
+            configure_logger_for_api_key(GEMINI_API_KEY)
+            process_path_batch(filepaths, input_path, show_progress=True)
+        else:
+            chunks = chunk_filepaths(filepaths, len(GEMINI_API_KEYS))
+            processes = []
+            for api_key, chunk in zip(GEMINI_API_KEYS, chunks):
+                if not chunk:
+                    log_file = get_log_file_for_key(api_key)
+                    with open(log_file, "a") as lf:
+                        lf.write("No filepaths assigned to this API key.\n")
+                    logger.info(
+                        f"No filepaths assigned to API key ending {api_key[-4:]}"
+                    )
+                    continue
+                proc = Process(
+                    target=worker_process,
+                    args=(chunk, api_key, input_path),
+                )
+                proc.start()
+                processes.append(proc)
+            for proc in processes:
+                proc.join()
