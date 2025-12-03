@@ -1,9 +1,10 @@
 import argparse
 import json
 import tempfile
+from contextlib import redirect_stdout, redirect_stderr
 from pathlib import Path
 from typing import Dict, List
-
+from tqdm import tqdm
 import cv2, time
 import numpy as np
 import torch
@@ -18,7 +19,7 @@ import os
 import multiprocessing as mp
 
 
-def  load_qwen3_vl(
+def load_qwen3_vl(
     model_id: str = "Qwen/Qwen3-VL-30B-Instruct",
     device: str | None = None,
 ):
@@ -58,7 +59,13 @@ def summarize_segment_with_qwen3_vl(
     model: Qwen3VLForConditionalGeneration,
     processor: AutoProcessor,
     max_images: int = 8,
-    prompt: str = "summarize the video content in English, not exceeding 2 sentences.",
+    prompt: str = """
+        You are a precise and concise first-person video scene narrator.
+        [first]: describe the first frame with all visible objects and their spatial positions relative to the viewer.
+        [remaining]: describe dynamic changes and newly revealed objects or scenes in the following frames, always specifying their spatial positions relative to the first-frame viewpoint (e.g., behind the viewer, to the left, inside a container).
+        Ensure descriptions are chronologically ordered, accurate, information-rich, and less than 6 sentences.
+        Return the descriptions in the format below: {"first": "...", "remaining": "..." }. Respond **only** with a valid JSON object that can be parsed by Python's `json.loads`. Do not format into Markdown code blocks. Your response must start with `{` and end with `}`. do not include any backslash symbol in your response.
+        """,
 ) -> str:
     """
     对一段视频帧（已下采样）调用 Qwen3-VL 做总结。
@@ -179,12 +186,34 @@ def summarize_video_by_frames(
         if len(current_segment_frames) == segment_size:
             segment_end_frame_idx = frame_idx
             start = time.time()
-            desc = summarize_segment_with_qwen3_vl(
+            caption = summarize_segment_with_qwen3_vl(
                 current_segment_frames, model, processor
             )
+            caption_simple = summarize_segment_with_qwen3_vl(
+                current_segment_frames,
+                model,
+                processor,
+                prompt="summarize the content in the images within 2 sentences.",
+            )
+            try:
+                caption = json.loads(caption)
+            except json.JSONDecodeError:
+                pass
+            if not isinstance(caption, dict) and isinstance(caption, str):
+                caption = caption.split("remaining")
+                caption = {
+                    "first": caption[0][10:].replace('"', "").replace(":", ""),
+                    "remaining": caption[1][1:]
+                    .replace('"', "")
+                    .replace(":", "")
+                    .replace("}", ""),
+                }
+            assert isinstance(caption, dict)
             key = f"{segment_start_frame_idx}-{segment_end_frame_idx}"
-            print(f"Segment {key} summary: {desc}")
-            summaries[key] = desc
+            print(f"Segment {key} summary: {caption_simple} \n Full: {caption}")
+            summaries[key] = {"prompt": caption, "prompt_simple": caption_simple}
+            end = time.time()
+            print(f"Qwen3-VL took {end - start:.2f} seconds for segment {key}.")
 
             # 开启下一段
             current_segment_frames = []
@@ -211,39 +240,47 @@ def worker_process(
     segment_size: int,
     downscale_ratio: float,
     out_dir: str,
+    log_file_path: str,
 ):
     """
     每个进程绑定到一个物理 GPU，加载一次模型，然后依次处理分配到的视频。
     """
-    # 显式指定当前进程的默认 GPU（用于一些内部调用）
-    torch.cuda.set_device(gpu_index)
-    device = f"cuda:{gpu_index}"
-    print(f"[Worker GPU {gpu_index}] using device: {device}")
-    print(f"[Worker GPU {gpu_index}] processing {len(video_paths)} videos.")
+    log_path = Path(log_file_path)
+    log_path.parent.mkdir(parents=True, exist_ok=True)
 
-    # 在当前进程 / 当前 GPU 上加载模型：显式 device_map
-    model, processor = load_qwen3_vl(model_id, device=device)
-
-    out_dir_path = Path(out_dir)
-    out_dir_path.mkdir(parents=True, exist_ok=True)
-
-    for v in video_paths:
-        v_path = Path(v)
-        print(f"[Worker GPU {gpu_index}] Start video: {v_path}")
-        try:
-            summaries = summarize_video_by_frames(
-                video_path=str(v_path),
-                model=model,
-                processor=processor,
-                segment_size=segment_size,
-                downscale_ratio=downscale_ratio,
-            )
-            out_json = out_dir_path / f"{v_path.stem}.json"
-            with out_json.open("w", encoding="utf-8") as f:
-                json.dump(summaries, f, ensure_ascii=False, indent=2)
-            print(f"[Worker GPU {gpu_index}] Finished {v_path}, saved to {out_json}")
-        except Exception as e:
-            print(f"[Worker GPU {gpu_index}] Error processing {v_path}: {e}")
+    with (
+        log_path.open("w", encoding="utf-8", buffering=1) as log_file,
+        redirect_stdout(log_file),
+        redirect_stderr(log_file),
+    ):
+        # 显式指定当前进程的默认 GPU（用于一些内部调用）
+        torch.cuda.set_device(gpu_index)
+        device = f"cuda:{gpu_index}"
+        print(f"[Worker GPU {gpu_index}] using device: {device}")
+        print(f"[Worker GPU {gpu_index}] processing {len(video_paths)} videos.")
+        # 在当前进程 / 当前 GPU 上加载模型：显式 device_map
+        model, processor = load_qwen3_vl(model_id, device=device)
+        out_dir_path = Path(out_dir)
+        out_dir_path.mkdir(parents=True, exist_ok=True)
+        for v in tqdm(video_paths):
+            v_path = Path(v)
+            print(f"[Worker GPU {gpu_index}] Start video: {v_path}")
+            try:
+                summaries = summarize_video_by_frames(
+                    video_path=str(v_path),
+                    model=model,
+                    processor=processor,
+                    segment_size=segment_size,
+                    downscale_ratio=downscale_ratio,
+                )
+                out_json = out_dir_path / f"{v_path.stem}.json"
+                with out_json.open("w", encoding="utf-8") as f:
+                    json.dump(summaries, f, ensure_ascii=False, indent=2)
+                print(
+                    f"[Worker GPU {gpu_index}] Finished {v_path}, saved to {out_json}"
+                )
+            except Exception as e:
+                print(f"[Worker GPU {gpu_index}] Error processing {v_path}: {e}")
 
 
 # === 新增：多 GPU / 多进程调度逻辑 ===
@@ -290,12 +327,16 @@ def run_multi_gpu(
     for idx, v in enumerate(video_paths):
         chunks[idx % num_gpus].append(v)
 
+    log_dir = Path("qwen_log")
+    log_dir.mkdir(parents=True, exist_ok=True)
+
     processes: List[mp.Process] = []
 
     for gpu_idx in range(num_gpus):
         vids = chunks[gpu_idx]
         if not vids:
             continue
+        log_file = log_dir / f"gpu_{gpu_idx}.log"
         p = mp.Process(
             target=worker_process,
             args=(
@@ -305,8 +346,10 @@ def run_multi_gpu(
                 segment_size,
                 downscale_ratio,
                 out_dir,
+                str(log_file),
             ),
         )
+
         p.start()
         processes.append(p)
         print(f"Spawned worker for GPU {gpu_idx} with {len(vids)} videos.")
