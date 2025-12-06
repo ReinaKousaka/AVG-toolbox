@@ -310,12 +310,12 @@ class DA3NestedVideoWorker:
                 start += step
 
         # 合并
-        depth_full = np.concatenate(all_depth_chunks, axis=0)
-        assert (
-            depth_full.shape[0] == num_frames
-        ), f"Depth 帧数不等于视频帧数: {depth_full.shape[0]} vs {num_frames}"
-        np.save(depth_npy_path, depth_full.astype(np.float32))
-        print(f"  Saved depth npy      : {depth_npy_path}, shape={depth_full.shape}")
+        # depth_full = np.concatenate(all_depth_chunks, axis=0)
+        # assert (
+        #     depth_full.shape[0] == num_frames
+        # ), f"Depth 帧数不等于视频帧数: {depth_full.shape[0]} vs {num_frames}"
+        # np.save(depth_npy_path, depth_full.astype(np.float16))
+        # print(f"  Saved depth npy      : {depth_npy_path}, shape={depth_full.shape}")
         if is_nested:
             intr_full = np.concatenate(all_intr_chunks, axis=0)
             extr_full = np.concatenate(all_extr_chunks, axis=0)  # [N, 4, 4]
@@ -337,6 +337,7 @@ class DA3NestedVideoWorker:
 
         # 保存深度视频
         depth_frames_array = np.asarray(all_bitpacked_frames, dtype=np.uint8)
+        np.save(depth_npy_path, depth_frames_array)
         assert depth_frames_array.shape[0] == num_frames
         vwrite(
             depth_video_path,

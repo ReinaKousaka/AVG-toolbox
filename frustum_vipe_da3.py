@@ -25,10 +25,14 @@ from typing import List, Tuple, Optional
 from tqdm import tqdm
 
 # --- plotting & utils (unchanged from original where possible)
+import matplotlib
+
+matplotlib.use("Agg")  # no display
 import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D  # noqa: F401 - needed for 3D projection
 from mpl_toolkits.mplot3d.art3d import Line3DCollection
-import matplotlib.patches as patches
+
+# import matplotlib.patches as patches
 import matplotlib.colors as mcolors
 import imageio
 from PIL import Image
@@ -372,9 +376,12 @@ def _compute_pw_sparse_for_all(
     # 新增：与 Pw_list 对齐的“指向相机中心”的向量与单位方向
     vec_to_cam_list = [None] * T
     dir_to_cam_list = [None] * T
+    dir_cam_center_list = [None] * T
+    cam_centers = [None] * T
 
     for n in tqdm(range(T), desc="pre-sparse"):
         z_full = depths[n, rs[:, None], cs[None, :]].astype(float).ravel()
+        z_full = np.clip(z_full, a_min=1e-6, a_max=1e6)
         valid_any = np.isfinite(z_full) & (z_full > 0)
 
         if not np.any(valid_any):
@@ -409,13 +416,21 @@ def _compute_pw_sparse_for_all(
             # ---- 新增：点到相机中心的向量 ----
             Cn = c2w[n][:3, 3]  # 相机中心(世界坐标)
             vec = (Pw - Cn[None, :]).astype(np.float32)  # 从点指向相机中心
+            single_vec = (
+                Pw[len(Pw) // 2][None, :].repeat(vec.shape[0], axis=0) - Cn[None, :]
+            ).astype(np.float32)
             # 单位方向（避免除零）
             norm = np.linalg.norm(vec, axis=1, keepdims=True)
             norm = np.maximum(norm, 1e-9)
             dir_vec = (vec / norm).astype(np.float32)
+            norm_single = np.linalg.norm(single_vec, axis=1, keepdims=True)
+            norm_single = np.maximum(norm_single, 1e-9)
+            dir_single_vec = (single_vec / norm_single).astype(np.float32)
 
             vec_to_cam_list[n] = vec
             dir_to_cam_list[n] = torch.from_numpy(dir_vec).to("cuda")
+            dir_cam_center_list[n] = torch.from_numpy(dir_single_vec).to("cuda")
+            cam_centers[n] = torch.from_numpy(Cn.astype(np.float32)).to("cuda")
         else:
             Pw = np.zeros((0, 3))
             hs = np.zeros((0,), int)
@@ -461,6 +476,8 @@ def _compute_pw_sparse_for_all(
         timestep_inf_list,
         vec_to_cam_list,  # 新增
         dir_to_cam_list,  # 新增
+        dir_cam_center_list,
+        cam_centers,
     )
 
 
@@ -557,13 +574,19 @@ def _winners_window_gpu_fastpath(
     group_topk: Optional[int] = None,
     group_score_mode: str = "angle_diff",
     device=None,
+    dir_to_cam_center_list=None,
+    cam_center_list=None,
 ):
     """
     Finite-depth fast-path: for each query cell q, choose the smallest source-cell s.
     Returns (hh, ww, hs_best, ws_best, sid_best) tensors.
     """
-
-    (current_dir, hs_current, ws_current) = current_dir_to_cam
+    (current_dir, hs_current, ws_current, cam_center) = current_dir_to_cam
+    current_dir_single = current_dir[
+        len(current_dir) // 2 : len(current_dir) // 2 + 1
+    ].repeat(current_dir.shape[0], 1)
+    norm_single = torch.linalg.vector_norm(current_dir_single, dim=1, keepdim=True)
+    current_dir_single = current_dir_single / norm_single.clamp_min(1e-12)
     current_code = hs_current * Wc + ws_current
     current_code = current_code.unsqueeze(-1).repeat(1, 3)
     max_code = max(current_code.max().item() + 1, current_code.shape[0])
@@ -596,10 +619,14 @@ def _winners_window_gpu_fastpath(
     ws = ws_src[valid][inside]
     sid = src_id_fin[valid][inside]
     dtc = dir_to_cam[valid][inside]
-
+    sdtc = dir_to_cam_center_list[valid][inside]
+    cct = cam_center_list[valid][inside]
     hq = torch.clamp((v / cell_h).long(), 0, Hc - 1)
     wq = torch.clamp((u / cell_w).long(), 0, Wc - 1)
-    HWc = Hc * Wc
+    hqf = torch.clamp((v / cell_h), 0.0, float(Hc) - 1)
+    wqf = torch.clamp((u / cell_w), 0.0, float(Wc) - 1)
+    # HWc = Hc * Wc
+    # code_qf = hqf * Wc + wqf
     code_q = hq * Wc + wq
     code_s = hs * Wc + ws
 
@@ -619,10 +646,14 @@ def _winners_window_gpu_fastpath(
         if not torch.any(keep):
             return None, None, None
         code_q = code_q[keep]
+        hqf = hqf[keep]
+        wqf = wqf[keep]
         code_s = code_s[keep]
         z = z[keep]
         sid = sid[keep]
         dtc = dtc[keep]
+        sdtc = sdtc[keep]
+        cct = cct[keep]
 
     # min s per q
     # min_s = torch.full((HWc,), fill_value=HWc + 1, device=device, dtype=torch.int64)
@@ -632,27 +663,50 @@ def _winners_window_gpu_fastpath(
     # q当前s过去
     sid_sorted = sid[idx_s]
     code_q_sorted = code_q[idx_s]
+    hqf = hqf[idx_s]
+    wqf = wqf[idx_s]
     code_s_sorted = code_s[idx_s]
     dtc_sorted = dtc[idx_s]
-    dir_current_sorted = out[code_q_sorted]
+    sdtc_sorted = sdtc[idx_s]
+    cct_sorted = cct[idx_s]
+    current_dir_single = current_dir_single[code_q_sorted]
     cross_norm_sorted = torch.linalg.vector_norm(
-        torch.cross(dir_current_sorted, dtc_sorted, dim=1), dim=1
+        torch.cross(current_dir_single, sdtc_sorted, dim=1), dim=1
     )  # ||a×b||
-    dot_sorted = (dir_current_sorted * dtc_sorted).sum(dim=1)
+    dot_sorted = (current_dir_single * sdtc_sorted).sum(dim=1)
     angles_rad_sorted = torch.atan2(cross_norm_sorted, dot_sorted)  # (N,)
-
+    # maxangle = angles_rad_sorted.abs().max().item()
     # Keep everything on GPU
     if group_topk is not None and group_topk <= 0:
         group_topk = None
 
     # Sort by (code_q, sid, abs_angles) using torch operations
-    abs_angles = torch.abs(angles_rad_sorted)
-    order = lexsort(torch.stack([abs_angles, sid_sorted, code_q_sorted]), dim=0)
+    angles_rad_sorted = torch.abs(angles_rad_sorted)
+    camera_center_distance = torch.linalg.norm((cam_center - cct_sorted), axis=1)
+    bias_h = hqf - (hqf.long())
+    bias_w = wqf - (wqf.long())
+    bias = bias_h**2 + bias_w**2
+    # bias_coord = torch.abs(torch.abs(sid_sorted % Wc) - torch.abs(code_q_sorted % Wc))
+    order = lexsort(
+        torch.stack(
+            [
+                -camera_center_distance,
+                -angles_rad_sorted,
+                sid_sorted,
+                code_q_sorted,
+            ]
+        ),
+        dim=0,
+    )
     code_q_ord = code_q_sorted[order]
+    hqf = hqf[order]
+    wqf = wqf[order]
     sid_ord = sid_sorted[order]
     code_s_ord = code_s_sorted[order]
     angle_ord = angles_rad_sorted[order]
-
+    camera_center_distance_ord = camera_center_distance[order]
+    # bias_w = bias_w[order]
+    # bias_coord = bias_coord[order]
     if group_topk is not None:
         # Create pair encoding on GPU
         pair = (code_q_ord.long() << 32) | (sid_ord.long() & 0xFFFFFFFF)
@@ -679,12 +733,14 @@ def _winners_window_gpu_fastpath(
         keep_mask = torch.ones_like(code_q_ord, dtype=torch.bool)
 
     code_q_keep = code_q_ord[keep_mask]
+    # code_qf_ord = code_qf_ord[keep_mask]
     sid_keep = sid_ord[keep_mask]
     code_s_keep = code_s_ord[keep_mask]
-    angle_keep = angle_ord[keep_mask]
-    angle_keep_deg = torch.clamp(torch.round(torch.rad2deg(angle_keep)), -128, 127).to(
-        torch.int8
+    camera_center_distance_keep = camera_center_distance_ord[keep_mask].to(
+        torch.float16
     )
+    # bias_coord_keep = bias_coord[keep_mask]
+    angle_keep_deg = angle_ord[keep_mask].to(torch.float16)
 
     # Use torch.unique on GPU
     unique_keys, inverse_indices, unique_counts = torch.unique(
@@ -702,9 +758,18 @@ def _winners_window_gpu_fastpath(
     assign_n = torch.full((Hc, Wc, maximum), -1, dtype=torch.int16, device=device)
     assign_hs = torch.full((Hc, Wc, maximum), -1, dtype=torch.int8, device=device)
     assign_ws = torch.full((Hc, Wc, maximum), -1, dtype=torch.int8, device=device)
-    assign_degree = torch.full((Hc, Wc, maximum), 0, dtype=torch.int8, device=device)
+    assign_degree = torch.full((Hc, Wc, maximum), 0, dtype=torch.float16, device=device)
+    assign_camera_distance = torch.full(
+        (Hc, Wc, maximum), 0.0, dtype=torch.float16, device=device
+    )
+    # assign_bias_w = torch.full((Hc, Wc, maximum), 0.0, dtype=torch.int8, device=device)
+    # assign_bias_coord = torch.full(
+    #     (Hc, Wc, maximum), 0, dtype=torch.int16, device=device
+    # )
+    # sum_maximum_valid = {}
     for n in range(maximum):
         mask = unique_counts > n
+        # sum_maximum_valid[n] = int(mask.sum().item())
         if not mask.any():
             break
         keys_n = unique_keys[mask]
@@ -721,14 +786,33 @@ def _winners_window_gpu_fastpath(
             torch.int8
         )
         assign_degree[h_indices, w_indices, n] = angle_keep_deg[idx_start_n]
-
+        assign_camera_distance[h_indices, w_indices, n] = camera_center_distance_keep[
+            idx_start_n
+        ]
+        # assign_bias_coord[h_indices, w_indices, n] = bias_coord_keep[
+        #     torch.clip(idx_start_n, -32768, 32767)
+        # ].to(torch.int16)
+        # if n > 20:
+        #     print(f"maximum: {maximum}, n: {n}")
+        #     break
     # Convert to numpy only at the end for compatibility with downstream code
     group = {
         "n": assign_n.cpu().numpy().astype(np.int16),
         "hs": assign_hs.cpu().numpy().astype(np.int8),
         "ws": assign_ws.cpu().numpy().astype(np.int8),
-        "angle": assign_degree.cpu().numpy().astype(np.int8),
+        "angle": assign_degree.cpu().numpy(),
+        "camdis": assign_camera_distance.cpu().numpy(),
+        # "bias_coord": assign_bias_coord.cpu().numpy().astype(np.int16),
     }
+    # os.makedirs("debug_logs", exist_ok=True)
+    # plt.figure(figsize=(8, 4))
+    # plt.bar(list(sum_maximum_valid.keys()), (sum_maximum_valid.values()))
+    # plt.grid()
+    # idd = int(assign_n.cpu().numpy().astype(np.int16).max() + 1)
+    # plt.savefig(f"debug_logs/winner_distribution_{idd}.png")
+    # plt.close()
+    # plt.clf()
+    # plt.cla()
     return group
 
 
@@ -1050,6 +1134,8 @@ def check_depth_overlap_sequence(
         timestep_inf_list,
         vec_to_cam_list,  # 新增
         dir_to_cam_list,  # 新增
+        dir_cam_center_list,
+        cam_centers,
     ) = _compute_pw_sparse_for_all(
         depths,
         Kpix,
@@ -1061,7 +1147,7 @@ def check_depth_overlap_sequence(
         Wc,
         depth_inf_thresh=depth_inf_thresh,
     )
-    (Pw_Dense, _, _, _, _, _, _, _, _, _, _) = _compute_pw_sparse_for_all(
+    (Pw_Dense, _, _, _, _, _, _, _, _, _, _, _, _) = _compute_pw_sparse_for_all(
         depths,
         Kpix,
         max(1, point_stride // 2),
@@ -1102,6 +1188,8 @@ def check_depth_overlap_sequence(
             ws_fin_list = []
             sid_fin_list = []
             dir_to_cam_fin_list = []
+            dir_to_cam_center_list = []
+            cam_center_list = []
             rays_inf_cat = []
             hs_inf_cat = []
             ws_inf_cat = []
@@ -1114,6 +1202,10 @@ def check_depth_overlap_sequence(
                     ws_fin_list.append(ws_list[n])
                     dir_to_cam_fin_list.append(dir_to_cam_list[n])  # 新增
                     sid_fin_list.append(np.full((Pw_n.shape[0],), n, dtype=np.int32))
+                    dir_to_cam_center_list.append(dir_cam_center_list[n])
+                    cam_center_list.append(
+                        cam_centers[n][None, :].repeat(Pw_n.shape[0], 1)
+                    )
                 Ri = rays_inf_list[n]
                 if Ri is not None and len(Ri) > 0:
                     rays_inf_cat.append(Ri)
@@ -1169,6 +1261,8 @@ def check_depth_overlap_sequence(
                 ws_cat = torch.cat(ws_fin_list, 0)
                 sid_cat = torch.from_numpy(np.concatenate(sid_fin_list, 0)).to(device)
                 dir_to_cam_cat = torch.cat(dir_to_cam_fin_list, 0)
+                dir_to_cam_center_list = torch.cat(dir_to_cam_center_list, 0)
+                cam_center_list = torch.cat(cam_center_list, 0)
                 # (
                 #     torch.from_numpy(np.concatenate(dir_to_cam_fin_list, 0))
                 #     .to(device)
@@ -1186,7 +1280,7 @@ def check_depth_overlap_sequence(
                     ws_cat,
                     sid_cat,
                     dir_to_cam_cat,  # 新增
-                    (current_dir, hs_current, ws_current),
+                    (current_dir, hs_current, ws_current, cam_centers[t]),
                     t,
                     w2c_t,
                     Kpix_t,
@@ -1202,6 +1296,8 @@ def check_depth_overlap_sequence(
                     group_topk=group_store_topk,
                     group_score_mode=group_store_score_mode,
                     device=device,
+                    dir_to_cam_center_list=dir_to_cam_center_list,
+                    cam_center_list=cam_center_list,
                 )
                 # if t2t1 is not None and t3t2 is not None:
                 #     pbar.set_postfix({"t2": f"{t2t1:.3f}s", "t3": f"{t3t2:.3f}s"})
@@ -1850,7 +1946,7 @@ def _write_grouped_diff_video(
             ext = ".mp4"
         return f"{base}_nminus{offset}{ext}"
 
-    def last_valid_pos(a: np.ndarray, limit: float) -> np.ndarray:
+    def last_valid_pos(a: np.ndarray, limit: float, b=None) -> np.ndarray:
         """
         a: shape = (H, W, N)，每条序列先严格递增，随后为 -1 填充
         limit: 上限
@@ -1860,6 +1956,9 @@ def _write_grouped_diff_video(
         """
         # 合法且不超过上限
         mask = (a >= 0) & (a <= limit)  # (H, W, N)
+        if not isinstance(b, type(None)):
+            masked_vals = np.where(mask, b, np.inf)
+            return np.argmin(masked_vals, axis=-1)
         counts = mask.sum(axis=2)  # (H, W), 计数即“最后一个位置 + 1”
         idx = counts - 1  # (H, W), 如果 counts==0 则为 -1
         return idx.astype(np.int64)
@@ -1905,9 +2004,10 @@ def _write_grouped_diff_video(
         assign_h_sel = np.full((T, Hc, Wc, 1), -1, dtype=np.int16)
         assign_w_sel = np.full((T, Hc, Wc, 1), -1, dtype=np.int16)
         assign_a_sel = np.full((T, Hc, Wc, 1), np.nan, dtype=np.float32)
+        assign_b_sel = np.full((T, Hc, Wc, 2), 30000, dtype=np.int16)
         for t_key, patches in grouped_info_dict.items():
             t_idx = _safe_int(t_key)
-            valid = last_valid_pos(patches["n"], t_idx - offset)
+            valid = last_valid_pos(patches["n"], t_idx - offset, b=patches["angle"])
             # gather_with_invalid(patches["n"], valid)
             assign_n_sel[t_idx] = gather_with_invalid(patches["n"], valid)[..., None]
             assign_h_sel[t_idx] = gather_with_invalid(patches["hs"], valid)[..., None]
@@ -1915,53 +2015,11 @@ def _write_grouped_diff_video(
             assign_a_sel[t_idx] = gather_with_invalid(patches["angle"], valid)[
                 ..., None
             ]
-            # if t_idx is None or t_idx < 0 or t_idx >= T:
-            #     continue
-            # target_n = t_idx - offset
-            # if target_n < 0:
-            #     continue
-            # if not isinstance(patches, dict):
-            #     continue
-            # for patch_key, info in patches.items():
-            #     h_idx, w_idx = _parse_patch_key(patch_key)
-            #     if (
-            #         h_idx is None
-            #         or w_idx is None
-            #         or h_idx < 0
-            #         or h_idx >= Hc
-            #         or w_idx < 0
-            #         or w_idx >= Wc
-            #     ):
-            #         continue
-            #     if not isinstance(info, dict):
-            #         continue
-            #     ns = np.asarray(info.get("assign_n", []), dtype=np.int32)
-            #     if ns.size == 0:
-            #         continue
-            #     matches = np.where(ns <= target_n)[0]
-            #     if matches.size == 0:
-            #         continue
-            #     hs_vals = np.asarray(info.get("assign_hs", []), dtype=np.int32)
-            #     ws_vals = np.asarray(info.get("assign_ws", []), dtype=np.int32)
-            #     angle_deg = np.asarray(info.get("assign_angles", []), dtype=np.float32)
-            #     ang_vals = np.deg2rad(angle_deg)
-            #     if (
-            #         hs_vals.size < ns.size
-            #         or ws_vals.size < ns.size
-            #         or ang_vals.size < ns.size
-            #     ):
-            #         continue
-            #     match_angles = ang_vals[matches]
-            #     if match_angles.size == 0:
-            #         continue
-            #     time_diff = np.maximum(t_idx - ns[matches], 0)
-            #     scores = _compute_scores(match_angles, time_diff, mode)
-            #     best_local_idx = matches[np.argmin(scores)]
-            # assign_n_sel[t_idx, h_idx, w_idx, 0] = int(ns[best_local_idx])
-            # assign_h_sel[t_idx, h_idx, w_idx, 0] = int(hs_vals[best_local_idx])
-            # assign_w_sel[t_idx, h_idx, w_idx, 0] = int(ws_vals[best_local_idx])
-            # assign_a_sel[t_idx, h_idx, w_idx, 0] = float(ang_vals[best_local_idx])
-        return assign_n_sel, assign_h_sel, assign_w_sel, assign_a_sel
+            assign_b_sel[t_idx] = gather_with_invalid(patches["camdis"], valid)[
+                ..., None
+            ]
+
+        return assign_n_sel, assign_h_sel, assign_w_sel, assign_a_sel, assign_b_sel
 
     frames_full = None
     if video_path is not None and os.path.exists(video_path):
@@ -1994,7 +2052,13 @@ def _write_grouped_diff_video(
         raw_video = [np.zeros((H, W, 3), dtype=np.uint8) for _ in range(max(T, 1))]
 
     def _render_single(
-        assign_n_src, assign_h_src, assign_w_src, assign_angles_src, path, desc
+        assign_n_src,
+        assign_h_src,
+        assign_w_src,
+        assign_angles_src,
+        assign_bias,
+        path,
+        desc,
     ):
         if assign_n_src is None:
             return
@@ -2014,7 +2078,7 @@ def _write_grouped_diff_video(
         for t in tqdm(range(T), total=T, desc=desc):
             img_small = norm[t]
             color = cv2.applyColorMap(img_small, cv2.COLORMAP_JET)
-
+            assign_bias_t = assign_bias[t, :, :, :]
             n0_t = assign_n_src[t, :, :, 0]
             ah = assign_h_src[t, :, :, 0]
             aw = assign_w_src[t, :, :, 0]
@@ -2033,8 +2097,47 @@ def _write_grouped_diff_video(
 
             si_start_coord = {}
             si_color = {}
-            background_alpha = np.zeros((H, W, 3), dtype=np.uint8)
+            # background_alpha = np.zeros((H, W, 3), dtype=np.uint8)
 
+            # for h_ in range(n0_t.shape[0]):
+            #     for w_ in range(n0_t.shape[1]):
+            #         if invalid_mask[h_, w_]:
+            #             continue
+            #         n0i = int(n0_t[h_, w_])
+            #         if n0i < 0 or n0i >= len(raw_video):
+            #             continue
+            #         hh = int(ah[h_, w_])
+            #         ww = int(aw[h_, w_])
+            #         hb = assign_bias_t[h_, w_, 0] / 200.0
+            #         wb = assign_bias_t[h_, w_, 1] / 200.0
+            #         ovrh_ = hb + h_ + 0.5
+            #         ovrw_ = wb + w_ + 0.5
+            #         background_alpha[
+            #             np.clip(
+            #                 round(ovrh_ * cell_px),
+            #                 0,
+            #                 background_alpha.shape[0] - cell_px - 1,
+            #             ) : np.clip(
+            #                 round(ovrh_ * cell_px),
+            #                 0,
+            #                 background_alpha.shape[0] - cell_px - 1,
+            #             )
+            #             + cell_px,
+            #             np.clip(
+            #                 round(ovrw_ * cell_px),
+            #                 0,
+            #                 background_alpha.shape[1] - cell_px - 1,
+            #             ) : np.clip(
+            #                 round(ovrw_ * cell_px),
+            #                 0,
+            #                 background_alpha.shape[1] - cell_px - 1,
+            #             )
+            #             + cell_px,
+            #         ] = raw_video[n0i][
+            #             hh * cell_px : (hh + 1) * cell_px,
+            #             ww * cell_px : (ww + 1) * cell_px,
+            #         ]
+            background_alpha_1 = np.zeros((H, W, 3), dtype=np.uint8)
             for h_ in range(n0_t.shape[0]):
                 for w_ in range(n0_t.shape[1]):
                     if invalid_mask[h_, w_]:
@@ -2044,14 +2147,35 @@ def _write_grouped_diff_video(
                         continue
                     hh = int(ah[h_, w_])
                     ww = int(aw[h_, w_])
-                    background_alpha[
-                        h_ * cell_px : (h_ + 1) * cell_px,
-                        w_ * cell_px : (w_ + 1) * cell_px,
+                    hb = assign_bias_t[h_, w_, 0] / 200.0
+                    wb = assign_bias_t[h_, w_, 1] / 200.0
+                    ovrh_ = h_
+                    ovrw_ = w_
+                    background_alpha_1[
+                        np.clip(
+                            round(ovrh_ * cell_px),
+                            0,
+                            background_alpha_1.shape[0] - cell_px - 1,
+                        ) : np.clip(
+                            round(ovrh_ * cell_px),
+                            0,
+                            background_alpha_1.shape[0] - cell_px - 1,
+                        )
+                        + cell_px,
+                        np.clip(
+                            round(ovrw_ * cell_px),
+                            0,
+                            background_alpha_1.shape[1] - cell_px - 1,
+                        ) : np.clip(
+                            round(ovrw_ * cell_px),
+                            0,
+                            background_alpha_1.shape[1] - cell_px - 1,
+                        )
+                        + cell_px,
                     ] = raw_video[n0i][
                         hh * cell_px : (hh + 1) * cell_px,
                         ww * cell_px : (ww + 1) * cell_px,
                     ]
-
             # if overlay_text:
             #     for hh in range(Hc):
             #         y = int((hh + 0.5) * cell_px)
@@ -2083,13 +2207,18 @@ def _write_grouped_diff_video(
             #             )
 
             frame_rgb = frame[:, :, ::-1]
+
             raw_frame = cv2.resize(raw_video[t % len(raw_video)], (W, H))
             frame_rgb = cv2.addWeighted(frame_rgb, 0.7, raw_frame, 0.3, 0)
-            frame_rgb = np.concatenate([raw_frame, frame_rgb, background_alpha], axis=0)
+            frame_rgb = np.concatenate(
+                [raw_frame, frame_rgb, background_alpha_1], axis=0
+            )
+
+            # frame_rgb = draw_grid(frame_rgb, cell_px * 4)
             frame_rgb = cv2.putText(
                 frame_rgb,
                 f"frame {t}",
-                (10, 30),
+                (10, frame_rgb.shape[0] // 3),
                 cv2.FONT_HERSHEY_SIMPLEX,
                 1,
                 (0, 255, 0),
@@ -2109,7 +2238,7 @@ def _write_grouped_diff_video(
 
     if grouped_info_dict:
         for offset in [40]:
-            assign_n_sel, assign_h_sel, assign_w_sel, assign_a_sel = (
+            assign_n_sel, assign_h_sel, assign_w_sel, assign_a_sel, assign_bias = (
                 _prepare_assignments_from_group(offset, group_selection_mode)
             )
             out_path_sel = _build_out_path(out_path, offset)
@@ -2119,6 +2248,7 @@ def _write_grouped_diff_video(
                 assign_h_sel,
                 assign_w_sel,
                 assign_a_sel,
+                assign_bias,
                 out_path_sel,
                 desc,
             )
@@ -2669,6 +2799,61 @@ def batch_process_overlap_multiprocessing(
         )
 
 
+def draw_grid(
+    image: np.ndarray,
+    grid_interval: int,
+    line_width: int = 1,
+    color=(0, 255, 0),
+    copy: bool = True,
+) -> np.ndarray:
+    """
+    在RGB图像上画规则网格线（等间距）。
+
+    参数：
+        image: H x W x 3 的 uint8 图像（RGB）
+        grid_interval: 网格间隔（像素），即多少像素画一条线
+        line_width: 线宽（像素）
+        color: 线的颜色，RGB 元组，如 (0,255,0)
+        copy: True 时在拷贝上画，不改原图；False 时原地修改
+
+    返回：
+        画好网格线的图像（np.ndarray）
+    """
+    if image.ndim != 3 or image.shape[2] != 3:
+        raise ValueError("image 必须是 H x W x 3 的 RGB 图像")
+    if image.dtype != np.uint8:
+        raise ValueError("image 的 dtype 必须是 uint8")
+    if grid_interval <= 0:
+        raise ValueError("grid_interval 必须为正整数")
+    if line_width <= 0:
+        raise ValueError("line_width 必须为正整数")
+
+    img = image.copy() if copy else image
+    H, W, _ = img.shape
+
+    # 垂直线：每隔 grid_interval 像素画一条
+    for ix, x in enumerate(range(0, W, grid_interval)):
+        x_start = x
+        x_end = min(x + line_width, W)  # 防止越界
+        img[:, x_start:x_end, :] = [
+            round((ix / W) * 255),
+            0,
+            255 - round((ix / W) * 255),
+        ]
+
+    # 水平线：每隔 grid_interval 像素画一条
+    for iy, y in enumerate(range(0, H, grid_interval)):
+        y_start = y
+        y_end = min(y + line_width, H)
+        img[y_start:y_end, :, :] = [
+            255 - round((iy / H) * 255),
+            0,
+            round((iy / H) * 255),
+        ]
+
+    return img
+
+
 if __name__ == "__main__":
     # Example: adjust paths as needed
     from argparse import ArgumentParser
@@ -2707,7 +2892,7 @@ if __name__ == "__main__":
             megasam_path=None,
             num_processes=1,
             pathify_size=(27, 50),
-            exclude_window=(1, 1200),
+            exclude_window=(1, 600),
             topk_per_query=1,
             is_c2w=False,
             axis_order="xyz",

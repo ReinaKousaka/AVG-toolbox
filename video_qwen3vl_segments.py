@@ -60,12 +60,9 @@ def summarize_segment_with_qwen3_vl(
     processor: AutoProcessor,
     max_images: int = 8,
     prompt: str = """
-        You are a precise and concise first-person video scene narrator.
-        [first]: describe the first frame with all visible objects and their spatial positions relative to the viewer.
-        [remaining]: describe dynamic changes and newly revealed objects or scenes in the following frames, always specifying their spatial positions relative to the first-frame viewpoint (e.g., behind the viewer, to the left, inside a container).
-        Ensure descriptions are chronologically ordered, accurate, information-rich, and less than 6 sentences.
-        Return the descriptions in the format below: {"first": "...", "remaining": "..." }. Respond **only** with a valid JSON object that can be parsed by Python's `json.loads`. Do not format into Markdown code blocks. Your response must start with `{` and end with `}`. do not include any backslash symbol in your response.
+        test
         """,
+    num_tokens=128,
 ) -> str:
     """
     对一段视频帧（已下采样）调用 Qwen3-VL 做总结。
@@ -128,7 +125,7 @@ def summarize_segment_with_qwen3_vl(
         inputs = inputs.to(model.device)
 
         with torch.no_grad():
-            generated_ids = model.generate(**inputs, max_new_tokens=128)
+            generated_ids = model.generate(**inputs, max_new_tokens=num_tokens)
 
         input_ids = inputs["input_ids"]
         # 去掉 prompt 部分，只保留新生成的 token
@@ -142,7 +139,7 @@ def summarize_segment_with_qwen3_vl(
             clean_up_tokenization_spaces=False,
         )
 
-        return output_texts[0].strip() if output_texts else ""
+        return str(output_texts[0])
 
 
 def summarize_video_by_frames(
@@ -165,6 +162,7 @@ def summarize_video_by_frames(
     summaries: Dict[str, str] = {}
 
     current_segment_frames: List[np.ndarray] = []
+    current_segment_simple_frames = []
     segment_start_frame_idx = 0
     frame_idx = 0
 
@@ -179,44 +177,51 @@ def summarize_video_by_frames(
             new_w = max(1, int(w * downscale_ratio))
             new_h = max(1, int(h * downscale_ratio))
             frame = cv2.resize(frame, (new_w, new_h), interpolation=cv2.INTER_AREA)
-
+            simple_frame = cv2.resize(
+                frame, (new_w // 2, new_h // 2), interpolation=cv2.INTER_AREA
+            )
         current_segment_frames.append(frame)
-
+        current_segment_simple_frames.append(simple_frame)
         # 凑够一段，就让 Qwen3-VL 总结这一段
         if len(current_segment_frames) == segment_size:
             segment_end_frame_idx = frame_idx
             start = time.time()
-            caption = summarize_segment_with_qwen3_vl(
-                current_segment_frames, model, processor
-            )
-            caption_simple = summarize_segment_with_qwen3_vl(
-                current_segment_frames,
+            first = summarize_segment_with_qwen3_vl(
+                [current_segment_frames[0]],
                 model,
                 processor,
-                prompt="summarize the content in the images within 2 sentences.",
+                prompt="In English, describe the frame with all visible objects in detail and their spatial positions relative to the viewer. Do not include escape characters in the response. the description should be around 64 words.",
+                num_tokens=128,
             )
-            try:
-                caption = json.loads(caption)
-            except json.JSONDecodeError:
-                pass
-            if not isinstance(caption, dict) and isinstance(caption, str):
-                caption = caption.split("remaining")
-                caption = {
-                    "first": caption[0][10:].replace('"', "").replace(":", ""),
-                    "remaining": caption[1][1:]
-                    .replace('"', "")
-                    .replace(":", "")
-                    .replace("}", ""),
-                }
+            remaining = summarize_segment_with_qwen3_vl(
+                current_segment_frames[1:],
+                model,
+                processor,
+                prompt="In English, describe frames detailly, do not describe the first frame, focusing on objects and camera movements, especially dynamic object, describe how they move. Ensure descriptions are chronologically ordered, accurate, information-rich. Do not include escape characters in the response. the description should be around 128 words.",
+                num_tokens=256,
+                max_images=12,
+            )
+            caption_simple = summarize_segment_with_qwen3_vl(
+                current_segment_simple_frames,
+                model,
+                processor,
+                prompt=f"Summarize the content {first}, {remaining} to around 50 English words. Do not include escape characters in the response.",
+                num_tokens=128,
+                max_images=6,
+            )
+            caption = {"first": first, "remaining": remaining, "simple": caption_simple}
             assert isinstance(caption, dict)
-            key = f"{segment_start_frame_idx}-{segment_end_frame_idx}"
-            print(f"Segment {key} summary: {caption_simple} \n Full: {caption}")
-            summaries[key] = {"prompt": caption, "prompt_simple": caption_simple}
+            key = f"{str(segment_start_frame_idx).zfill(6)}-{str(segment_end_frame_idx).zfill(6)}"
+            # print(f"Segment {key} summary: {caption_simple} \n Full: {caption}")
+            summaries[key] = caption
             end = time.time()
-            print(f"Qwen3-VL took {end - start:.2f} seconds for segment {key}.")
+            print(
+                f"Qwen3-VL took {end - start:.2f} seconds for segment {key}. caption: {caption}"
+            )
 
             # 开启下一段
             current_segment_frames = []
+            current_segment_simple_frames = []
             segment_start_frame_idx = frame_idx + 1
 
         frame_idx += 1
@@ -224,9 +229,27 @@ def summarize_video_by_frames(
     # 处理视频尾巴那一段（不足 segment_size 帧）
     if current_segment_frames:
         segment_end_frame_idx = frame_idx - 1
-        desc = summarize_segment_with_qwen3_vl(current_segment_frames, model, processor)
-        key = f"{segment_start_frame_idx}-{segment_end_frame_idx}"
-        summaries[key] = desc
+        first = summarize_segment_with_qwen3_vl(
+            [current_segment_frames[0]],
+            model,
+            processor,
+            prompt="In English, describe the frame with all visible objects in detail and their spatial positions relative to the viewer",
+        )
+        remaining = summarize_segment_with_qwen3_vl(
+            current_segment_frames[1:],
+            model,
+            processor,
+            prompt="In English, describe dynamic changes and newly revealed objects or scenes related to the first frame of the video, focusing on describing the objects in the frames and describe how they move when object is a dynamic one. Ensure descriptions are chronologically ordered, accurate, information-rich.",
+        )
+        caption_simple = summarize_segment_with_qwen3_vl(
+            current_segment_simple_frames,
+            model,
+            processor,
+            prompt="summarize the content in the images around 50 English words.",
+        )
+        caption = {"first": first, "remaining": remaining, "simple": caption_simple}
+        key = f"{str(segment_start_frame_idx).zfill(6)}-{str(segment_end_frame_idx).zfill(6)}"
+        summaries[key] = caption
 
     cap.release()
     return summaries
@@ -327,7 +350,7 @@ def run_multi_gpu(
     for idx, v in enumerate(video_paths):
         chunks[idx % num_gpus].append(v)
 
-    log_dir = Path("qwen_log")
+    log_dir = Path(f"qwen_log_{str(input_path).split('/')[-1]}")
     log_dir.mkdir(parents=True, exist_ok=True)
 
     processes: List[mp.Process] = []
@@ -379,7 +402,7 @@ def main():
     parser.add_argument(
         "--model_id",
         type=str,
-        default="Qwen/Qwen3-VL-8B-Instruct",
+        default="Qwen/Qwen3-VL-30B-A3B-Instruct",
         help="Qwen3-VL 模型 ID，默认 Qwen/Qwen3-VL-8B-Instruct",
     )
     parser.add_argument(

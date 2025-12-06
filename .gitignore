@@ -175,3 +175,6 @@ csrc/include/
 *.json
 *.npz
 *.npy
+*.MP4
+temp*
+*.png
