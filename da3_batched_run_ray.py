@@ -2,7 +2,7 @@
 import os
 import argparse
 import multiprocessing as mp
-
+import numpy as np
 import torch
 
 from da3nested_lib import DA3NestedVideoWorker, find_videos
@@ -94,7 +94,18 @@ def main():
                 os.path.basename(v).replace(".mp4", "_depth_da3nested.npy"),
             )
         ):
-            print(f"[Info] 视频 {v} 已处理，跳过。")
+            try:
+                d = np.load(
+                    os.path.join(
+                        args.output_dir,
+                        os.path.basename(v).replace(".mp4", "_depth_da3nested.npy"),
+                    )
+                )
+                print(f"[Info] 视频 {v} 已处理，跳过。")
+                del d
+            except:
+                videos.append(v)
+
         else:
             videos.append(v)
     print(f"[Info] Found {len(videos)} video(s).")

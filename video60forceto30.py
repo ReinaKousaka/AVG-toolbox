@@ -10,7 +10,21 @@ import subprocess
 from pathlib import Path
 
 # 可识别的视频扩展名
-VIDEO_EXTS = {".mp4", ".mov", ".mkv", ".avi", ".wmv", ".m4v", ".webm", ".flv", ".mts", ".m2ts", ".3gp"}
+VIDEO_EXTS = {
+    ".mp4",
+    ".mov",
+    ".mkv",
+    ".avi",
+    ".wmv",
+    ".m4v",
+    ".webm",
+    ".flv",
+    ".mts",
+    ".m2ts",
+    ".3gp",
+    ".MOV",
+}
+
 
 def sanitize_name(name: str) -> str:
     """
@@ -24,6 +38,7 @@ def sanitize_name(name: str) -> str:
     # 防止空名
     return name or "video"
 
+
 def safe_output_path(out_dir: Path, stem: str, ext: str = ".mp4") -> Path:
     """
     避免重名：已存在则在末尾加 _1, _2, ...
@@ -35,12 +50,16 @@ def safe_output_path(out_dir: Path, stem: str, ext: str = ".mp4") -> Path:
         i += 1
     return candidate
 
+
 def run(cmd):
     """运行子进程并在失败时抛异常。"""
-    proc = subprocess.run(cmd, stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True)
+    proc = subprocess.run(
+        cmd, stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True
+    )
     if proc.returncode != 0:
         raise RuntimeError(f"Command failed: {' '.join(cmd)}\nSTDERR:\n{proc.stderr}")
     return proc.stdout
+
 
 def get_avg_fps(path: Path) -> float | None:
     """
@@ -48,13 +67,20 @@ def get_avg_fps(path: Path) -> float | None:
     返回 float，失败时返回 None。
     """
     try:
-        out = run([
-            "ffprobe", "-v", "error",
-            "-select_streams", "v:0",
-            "-show_entries", "stream=avg_frame_rate",
-            "-of", "json",
-            str(path)
-        ])
+        out = run(
+            [
+                "ffprobe",
+                "-v",
+                "error",
+                "-select_streams",
+                "v:0",
+                "-show_entries",
+                "stream=avg_frame_rate",
+                "-of",
+                "json",
+                str(path),
+            ]
+        )
         data = json.loads(out)
         r = data["streams"][0].get("avg_frame_rate", "0/0")
         num, den = r.split("/")
@@ -65,6 +91,7 @@ def get_avg_fps(path: Path) -> float | None:
     except Exception:
         return None
 
+
 def needs_reencode_to_30fps(fps: float | None) -> bool:
     """
     判断是否需要转为 30fps。
@@ -74,6 +101,7 @@ def needs_reencode_to_30fps(fps: float | None) -> bool:
         return True
     return not (29.9 <= fps <= 30.1)
 
+
 def transcode_to_30fps(src: Path, dst: Path, crf: int = 20, preset: str = "medium"):
     """
     使用 fps 滤镜把视频统一到 30fps；视频用 libx264 重编码，音频拷贝。
@@ -81,19 +109,29 @@ def transcode_to_30fps(src: Path, dst: Path, crf: int = 20, preset: str = "mediu
     """
     # -y 覆盖输出（但我们上一步已经避免重名了）
     cmd = [
-        "ffmpeg", "-y",
-        "-i", str(src),
-        "-vf", "fps=30",             # 统一帧率，保持时长
-        "-c:v", "libx264",
-        "-pix_fmt", "yuv420p",
-        "-preset", preset,
-        "-crf", str(crf),
-        "-c:a", "copy",              # 音频直接拷贝（避免质量损失与转码时间）
-        "-movflags", "+faststart",
-        str(dst)
+        "ffmpeg",
+        "-y",
+        "-i",
+        str(src),
+        "-vf",
+        "fps=30",  # 统一帧率，保持时长
+        "-c:v",
+        "libx264",
+        "-pix_fmt",
+        "yuv420p",
+        "-preset",
+        preset,
+        "-crf",
+        str(crf),
+        "-c:a",
+        "copy",  # 音频直接拷贝（避免质量损失与转码时间）
+        "-movflags",
+        "+faststart",
+        str(dst),
     ]
     print(f"[FFmpeg] {src.name}  ->  {dst.name}")
     subprocess.check_call(cmd)
+
 
 def maybe_copy(src: Path, dst: Path):
     """
@@ -102,24 +140,45 @@ def maybe_copy(src: Path, dst: Path):
       -c:v copy -c:a copy
     """
     cmd = [
-        "ffmpeg", "-y",
-        "-i", str(src),
-        "-c:v", "copy",
-        "-c:a", "copy",
-        "-movflags", "+faststart",
-        str(dst)
+        "ffmpeg",
+        "-y",
+        "-i",
+        str(src),
+        "-c:v",
+        "copy",
+        "-c:a",
+        "copy",
+        "-movflags",
+        "+faststart",
+        str(dst),
     ]
     print(f"[Remux ] {src.name}  ->  {dst.name}")
     subprocess.check_call(cmd)
 
+
 def main():
-    parser = argparse.ArgumentParser(description="把文件夹下视频统一为 30fps（时长不变），保存到新文件夹并清理文件名。")
+    parser = argparse.ArgumentParser(
+        description="把文件夹下视频统一为 30fps（时长不变），保存到新文件夹并清理文件名。"
+    )
     parser.add_argument("input_dir", type=str, help="输入视频所在文件夹")
     parser.add_argument("output_dir", type=str, help="输出文件夹（将创建）")
-    parser.add_argument("--crf", type=int, default=20, help="x264 CRF（质量参数，数值越大压缩越狠，默认20）")
-    parser.add_argument("--preset", type=str, default="medium", help="x264 preset（编码速度/压缩比平衡，默认medium）")
-    parser.add_argument("--force-reencode", action="store_true",
-                        help="即使已是30fps也强制转码（默认遇到30fps仅重封装拷贝）")
+    parser.add_argument(
+        "--crf",
+        type=int,
+        default=20,
+        help="x264 CRF（质量参数，数值越大压缩越狠，默认20）",
+    )
+    parser.add_argument(
+        "--preset",
+        type=str,
+        default="medium",
+        help="x264 preset（编码速度/压缩比平衡，默认medium）",
+    )
+    parser.add_argument(
+        "--force-reencode",
+        action="store_true",
+        help="即使已是30fps也强制转码（默认遇到30fps仅重封装拷贝）",
+    )
     args = parser.parse_args()
 
     in_dir = Path(args.input_dir).expanduser().resolve()
@@ -130,7 +189,9 @@ def main():
 
     out_dir.mkdir(parents=True, exist_ok=True)
 
-    videos = [p for p in in_dir.iterdir() if p.is_file() and p.suffix.lower() in VIDEO_EXTS]
+    videos = [
+        p for p in in_dir.iterdir() if p.is_file() and p.suffix.lower() in VIDEO_EXTS
+    ]
     if not videos:
         print("未发现可处理的视频文件。")
         return
@@ -154,6 +215,7 @@ def main():
             print(f"处理异常：{src.name}\n{e}")
 
     print("全部处理完成。输出目录：", out_dir)
+
 
 if __name__ == "__main__":
     main()

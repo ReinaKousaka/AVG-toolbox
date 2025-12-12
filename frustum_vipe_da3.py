@@ -1633,246 +1633,6 @@ def save_video(filename: str, video, fps: int = 30) -> None:
     process.wait()
 
 
-def _write_diff_video(
-    video_path,
-    out_path,
-    assign_n,
-    assign_hs,
-    assign_ws,
-    assign_angles,
-    near_back,
-    far_back,
-    video_range=None,
-    cell_px=18,
-    fps=24,
-    overlay_text=True,
-    clip_video=None,
-    img_size=None,
-    is_megasam=False,
-    write_related=False,
-):
-    pic_dir = os.path.join(os.path.dirname(out_path), "frames")
-    if not os.path.exists(pic_dir):
-        os.makedirs(pic_dir, exist_ok=True)
-    T, Hc, Wc, K = assign_n.shape
-    n0 = assign_n[..., 0]  # (T,Hc,Wc)
-    n0_safe = np.where(n0 >= 0, n0, (np.arange(T)[:, None, None] - near_back))
-    t_grid = np.arange(T)[:, None, None]
-    delta = t_grid - n0_safe
-    delta = np.clip(delta, near_back, far_back)
-    denom = max(1, (far_back - near_back))
-    norm = ((delta - near_back) / denom * 255.0).astype(np.uint8)
-    assign_angles_base = np.zeros_like(assign_angles)
-    assign_angles_valid = ~np.isnan(assign_angles)
-    assign_angles_base[assign_angles_valid] = np.rad2deg(
-        assign_angles[assign_angles_valid]
-    )
-    norm = assign_angles_base.astype(np.uint8)
-    if img_size is None:
-        frames = load_video(video_path)
-        H, W = frames[0].shape[:2]
-        print(f"Auto-detected video size: {W}x{H}")
-        cell_px = min(H // Hc, W // Wc)
-    else:
-        H, W = img_size
-        cell_px = min(H // Hc, W // Wc)
-    raw_video = None
-    if video_path is not None and os.path.exists(video_path):
-        try:
-            frames = load_video(video_path)  # RGB
-            if video_range is not None:
-                start, end = video_range
-                frames = frames[start:end]
-            raw_video = frames if (clip_video is None) else frames[:clip_video]
-        except Exception:
-            raw_video = None
-    if raw_video is None or len(raw_video) == 0:
-        raw_video = [np.zeros((H, W, 3), dtype=np.uint8) for _ in range(T)]
-
-    video = []
-    for t in tqdm(range(T), total=T, desc="write-diff-video"):
-
-        img_small = norm[t]  # (Hc,Wc), uint8
-        color = cv2.applyColorMap(img_small, cv2.COLORMAP_JET)  # (Hc,Wc,3) BGR
-
-        n0_t = assign_n[t, :, :, 0]  # (Hc, Wc)
-        ah, aw = assign_hs[t, :, :, 0], assign_ws[t, :, :, 0]
-        invalid_mask = n0_t < 0
-        unique_values, counts = np.unique(n0_t[~invalid_mask], return_counts=True)
-        idx = np.argsort(counts)
-        # 按照 b 的顺序重排 a
-        selected_indice = unique_values[idx[::-1]][:9]
-        if invalid_mask.any():
-            color[invalid_mask] = 0  # 未查找到对应的格子置黑
-        background = np.zeros((H * 3, W * 6, 3), dtype=np.uint8)
-        frame = cv2.resize(color, (W, H), interpolation=cv2.INTER_NEAREST)
-
-        si_start_coord = {}
-        si_color = {}
-        si_frame = {}
-        background_alpha = np.zeros((H, W, 3), dtype=np.uint8)
-        if write_related:
-            colors = [
-                (255, 0, 0),  # 蓝
-                (0, 255, 0),  # 绿
-                (0, 0, 255),  # 红
-                (0, 255, 255),  # 黄 (青+红)
-                (255, 0, 255),  # 品红
-                (255, 255, 0),  # 青
-                (128, 0, 255),  # 紫
-                (0, 128, 255),  # 橙
-                (128, 255, 0),  # 黄绿
-                (255, 128, 0),  # 深橙
-            ]
-            for si, cod, c in zip(
-                selected_indice.tolist() + [t],
-                [
-                    [0, 0],
-                    [0, 1],
-                    [0, 2],
-                    [1, 0],
-                    [1, 1],
-                    [1, 2],
-                    [2, 0],
-                    [2, 1],
-                    [2, 2],
-                    [0, 3],
-                ],
-                colors + [(255, 255, 255)],
-            ):
-                ref_frame = cv2.resize(raw_video[si], (W, H))
-                si_start_coord[si] = (cod[0] * H, cod[1] * W)
-                si_frame[si] = ref_frame
-                if cod != [0, 3]:
-                    background[
-                        cod[0] * H : (cod[0] + 1) * H, cod[1] * W : (cod[1] + 1) * W
-                    ] = ref_frame
-                else:
-                    ref_frame = cv2.resize(raw_video[si], (W * 3, H * 3))
-                    background[
-                        cod[0] * H : (cod[0] + 3) * H, cod[1] * W : (cod[1] + 3) * W
-                    ] = ref_frame
-                label = f"t={si}" if si != t else f"t={si} (current)"
-                si_color[si] = c
-                cv2.putText(
-                    background,
-                    label,
-                    (cod[1] * W + 10, cod[0] * H + 30),
-                    cv2.FONT_HERSHEY_SIMPLEX,
-                    1,
-                    c,
-                    2,
-                    cv2.LINE_AA,
-                )
-
-            saving_pics = {
-                k: np.zeros_like(background, dtype=np.uint8)
-                for k in selected_indice.tolist()
-            }
-        for h_ in range(n0_t.shape[0]):
-            for w_ in range(n0_t.shape[1]):
-                if invalid_mask[h_, w_]:
-                    continue
-                n0i = n0_t[h_, w_]
-                hh = ah[h_, w_]
-                ww = aw[h_, w_]
-                background_alpha[
-                    h_ * cell_px : (h_ + 1) * cell_px, w_ * cell_px : (w_ + 1) * cell_px
-                ] = raw_video[n0i][
-                    hh * cell_px : (hh + 1) * cell_px, ww * cell_px : (ww + 1) * cell_px
-                ]
-        if write_related:
-            for h_ in range(n0_t.shape[0]):
-                for w_ in range(n0_t.shape[1]):
-                    if invalid_mask[h_, w_]:
-                        continue
-                    n0i = n0_t[h_, w_]
-                    if n0i not in selected_indice:
-                        continue
-                    hh = ah[h_, w_]
-                    ww = aw[h_, w_]
-
-                    fromwhere_start = si_start_coord[t]
-                    towhere_start = si_start_coord[n0i]
-
-                    fromwhere = [
-                        fromwhere_start[1] + round((w_ + 0.5) * cell_px * 3),
-                        fromwhere_start[0] + round((h_ + 0.5) * cell_px * 3),
-                    ]
-                    towhere = [
-                        towhere_start[1] + round((ww + 0.5) * cell_px),
-                        towhere_start[0] + round((hh + 0.5) * cell_px),
-                    ]
-
-                    cv2.line(
-                        saving_pics[n0i],
-                        fromwhere,
-                        towhere,
-                        np.random.randint(100, 255, size=(3,)).tolist(),
-                        2,
-                        cv2.LINE_AA,
-                    )
-        if write_related:
-            for k, v in saving_pics.items():
-
-                saving = cv2.addWeighted(background, 0.5, v, 0.5, 0)
-                cv2.imwrite(
-                    out_path.replace(".mp4", f"_frame{t:03d}_{k}.png"),
-                    saving[:, :, ::-1],
-                )
-        # if overlay_text:
-        #     for hh in range(Hc):
-        #         y = int((hh + 0.5) * cell_px)
-        #         for ww in range(Wc):
-        #             if invalid_mask[hh, ww]:
-        #                 continue
-        #             x = int((ww + 0.5) * cell_px)
-        #             val = int(norm[t, hh, ww])
-        #             txt = str(val)
-        #             cv2.putText(
-        #                 frame,
-        #                 txt,
-        #                 (x - 8, y + 5),
-        #                 cv2.FONT_HERSHEY_SIMPLEX,
-        #                 0.35,
-        #                 (0, 0, 0),
-        #                 2,
-        #                 cv2.LINE_AA,
-        #             )
-        #             cv2.putText(
-        #                 frame,
-        #                 txt,
-        #                 (x - 8, y + 5),
-        #                 cv2.FONT_HERSHEY_SIMPLEX,
-        #                 0.35,
-        #                 (255, 255, 255),
-        #                 1,
-        #                 cv2.LINE_AA,
-        #             )
-
-        frame = frame[:, :, ::-1]  # BGR->RGB
-        raw_frame = cv2.resize(raw_video[t % len(raw_video)], (W, H))
-        frame = cv2.addWeighted(frame, 0.7, raw_frame, 0.3, 0)
-        frame = np.concatenate([raw_frame, frame, background_alpha], axis=0)
-        frame = cv2.putText(
-            frame,
-            f"frame {t}",
-            (10, 30),
-            cv2.FONT_HERSHEY_SIMPLEX,
-            1,
-            (0, 255, 0),
-            2,
-            cv2.LINE_AA,
-        )
-        h, w = frame.shape[:2]
-        # cv2.imwrite(os.path.join(pic_dir, f"frame{t:03d}.png"), frame[:, :, ::-1])
-        video.append(
-            cv2.resize(frame, (w // 2, h // 2), interpolation=cv2.INTER_NEAREST)
-        )
-        # cv2.imwrite(out_path.replace(".mp4", f"_frame{t:03d}.png"), frame[:, :, ::-1])
-    save_video(out_path, video, fps=fps)
-
-
 def gather_l_with_invalid(a: np.ndarray, idx: np.ndarray, fill_value=-1):
     """
     a   : shape = (H, W, N)
@@ -1922,7 +1682,11 @@ def _write_grouped_diff_video(
     grouped_info_dict=None,
     group_selection_mode="angle_diff",
 ):
-    T, Hc, Wc, K = assign_n.shape
+    if type(assign_n) != type(None):
+        T, Hc, Wc, K = assign_n.shape
+    else:
+        T = len(grouped_info_dict.keys()) + 1
+        Hc, Wc, K = grouped_info_dict["frame_1"].item()["n"].shape
     grouped_info_dict = grouped_info_dict or {}
 
     def _safe_int(key):
@@ -1958,7 +1722,13 @@ def _write_grouped_diff_video(
         mask = (a >= 0) & (a <= limit)  # (H, W, N)
         if not isinstance(b, type(None)):
             masked_vals = np.where(mask, b, np.inf)
-            return np.argmin(masked_vals, axis=-1)
+            new_mask = mask.any(axis=-1)  # (H, W), logical OR over time axis
+            # 为了在相同最小值时选择“最后一个”位置，使用反转索引再折返
+            rev_idx = (
+                masked_vals.shape[-1] - 1 - np.argmin(masked_vals[..., ::-1], axis=-1)
+            )
+            out = rev_idx
+            return np.where(new_mask, out, -1)
         counts = mask.sum(axis=2)  # (H, W), 计数即“最后一个位置 + 1”
         idx = counts - 1  # (H, W), 如果 counts==0 则为 -1
         return idx.astype(np.int64)
@@ -2006,8 +1776,11 @@ def _write_grouped_diff_video(
         assign_a_sel = np.full((T, Hc, Wc, 1), np.nan, dtype=np.float32)
         assign_b_sel = np.full((T, Hc, Wc, 2), 30000, dtype=np.int16)
         for t_key, patches in grouped_info_dict.items():
+            print(t_key)
+            if isinstance(patches, np.ndarray):
+                patches = patches.item()
             t_idx = _safe_int(t_key)
-            valid = last_valid_pos(patches["n"], t_idx - offset, b=patches["angle"])
+            valid = last_valid_pos(patches["n"], t_idx - offset, 1 / patches["n"])
             # gather_with_invalid(patches["n"], valid)
             assign_n_sel[t_idx] = gather_with_invalid(patches["n"], valid)[..., None]
             assign_h_sel[t_idx] = gather_with_invalid(patches["hs"], valid)[..., None]
@@ -2252,10 +2025,10 @@ def _write_grouped_diff_video(
                 out_path_sel,
                 desc,
             )
-    else:
-        _render_single(
-            assign_n, assign_hs, assign_ws, assign_angles, out_path, "write-diff-video"
-        )
+    # else:
+    #     _render_single(
+    #         assign_n, assign_hs, assign_ws, assign_angles, out_path, "write-diff-video"
+    #     )
 
 
 import OpenEXR, Imath
@@ -2342,6 +2115,17 @@ def load_depth_zip_to_array(zip_path: str | Path) -> np.ndarray:
                 )
                 frames.append(depth)
     return np.stack(frames, axis=0)
+
+
+def decode_rgb_to_depth_bitpack(img_bgr):
+    """解码"""
+    img_val = img_bgr.astype(np.uint32)
+    b, g, r = img_val[..., 0], img_val[..., 1], img_val[..., 2]
+    # 组合回整数
+    depth_mm = (r << 16) | (g << 8) | b
+    # 转回米
+    depth_m = depth_mm.astype(np.float32) / 1000.0
+    return depth_m
 
 
 def process_single_video(
@@ -2466,9 +2250,12 @@ def process_single_video(
         # )
         extrinsic = np.load(extrinsic_path)
         # depths = _load_depth_npz_auto(dep_path).astype(np.float32) * float(depth_scale)
-        raw_depths = np.load(
-            os.path.join(depths_path, name + "_depth_da3nested.npy")
-        ).astype(np.float32) * float(depth_scale)
+        raw_depths = np.load(os.path.join(depths_path, name + "_depth_da3nested.npy"))
+        # 根据存储格式选择是否解码
+        if raw_depths.dtype == np.uint8:
+            raw_depths = decode_rgb_to_depth_bitpack(raw_depths).astype(np.float32)
+        elif raw_depths.dtype != np.float32:
+            raw_depths = raw_depths.astype(np.float32)
         # depths = _sharpen_depths_with_guided_filter(raw_depths)
         depths = raw_depths
 
@@ -2487,19 +2274,33 @@ def process_single_video(
     #     np.clip((depths * 3), 0, 255).astype(np.uint8)[..., None].repeat(3, -1),
     # )
     if os.path.exists(out_npz) and not overwrite:
-        # data = np.load(out_npz, allow_pickle=True)
-        # assign_n = data["assign_n"]
-        # assign_hs = data["assign_hs"]
-        # assign_ws = data["assign_ws"]
-        # assign_angles = data["assign_angles"] if "assign_angles" in data else None
-        # meta = {
-        #     k: v
-        #     for k, v in data.items()
-        #     if k not in ["assign_n", "assign_hs", "assign_ws", "assign_angles"]
-        # }
-        # grouped_info_dict = _meta_value(meta.get("grouped_info_dict"), None)
+        meta = {
+            "Hc": pathify_size[0],
+            "Wc": pathify_size[1],
+            "topk": 1,
+            "near_back": 1,
+            "far_back": 600,
+            "H_img": 448,
+            "W_img": 832,
+            "point_stride": int(point_stride),
+            # "trans_axis_order": str(trans_axis_order),
+            "trans_scale": float(trans_scale),
+            # "flip_up_sign": bool(flip_up_sign),
+            "is_c2w": bool(is_c2w),
+            # "min_support_per_cell": int(min_support_per_cell),
+            "depth_inf_thresh": (
+                None if depth_inf_thresh is None else float(depth_inf_thresh)
+            ),
+            # "grouped_info_dict": ,
+            "group_selection_mode": str(group_store_score_mode),
+            "group_store_topk": (
+                None if group_store_topk is None else int(group_store_topk)
+            ),
+            # "CAM_result": CAM_result,
+        }
+        grouped_info_dict = np.load(out_npz, allow_pickle=True)
+        assign_n = None
         print(f"⚠️  存在 {name}, output exists at {out_npz}")
-        exit()
     else:
         (
             assign_n,
@@ -2603,8 +2404,8 @@ def process_single_video(
             video_path,
             diff_mp4,
             assign_n,
-            assign_hs,
-            assign_ws,
+            None,
+            None,
             None,
             near_back=meta["near_back"],
             far_back=meta["far_back"],
@@ -2891,7 +2692,7 @@ if __name__ == "__main__":
             assign_name=args.assign_name,
             megasam_path=None,
             num_processes=1,
-            pathify_size=(27, 50),
+            pathify_size=(28, 52),
             exclude_window=(1, 600),
             topk_per_query=1,
             is_c2w=False,
