@@ -89,10 +89,11 @@ def compute_focal_from_intrinsics(intrinsics_path: str, process_res) -> float:
 
 
 class DA3NestedVideoWorker:
+
     def __init__(
         self,
         device: str,
-        model_name: str = "depth-anything/DA3NESTED-GIANT-LARGE",
+        model_name: str = "depth-anything/DA3NESTED-GIANT-LARGE-1.1",
         intr_path: str = None,
     ):
         """

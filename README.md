@@ -14,6 +14,12 @@ pip install -r envs/requirements.txt --extra-index-url https://download.pytorch.
 pip install --no-build-isolation -e .
 ```
 
+
+wget https://github.com/dropbox/dbxcli/releases/download/v3.0.0/dbxcli-linux-amd64
+chmod +x dbxcli-linux-amd64
+mv dbxcli-linux-amd64 /bin/
+# ONLY FOR THE FIRST TIME, authenticate
+dbxcli-linux-amd64 account
 ## 2. 【仅记录，不用操作】configs/streams/raw_mp4_stream.yaml 这个里面的frame_end 我们从1000修改到了8000，default.yaml里面save_artifacts改成了true，而save_viz改成了false ##
 ## 3. 数据处理流程 ##
 在一切之前，从dropbox下载视频并且解压，例如
