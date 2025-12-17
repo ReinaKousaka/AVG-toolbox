@@ -1809,13 +1809,13 @@ def _write_grouped_diff_video(
     if frames_full:
         H_from_video, W_from_video = frames_full[0].shape[:2]
 
-    if img_size is not None:
-        H, W = img_size
-    elif H_from_video is not None and W_from_video is not None:
-        H, W = H_from_video, W_from_video
-    else:
-        H = max(cell_px * Hc, 1)
-        W = max(cell_px * Wc, 1)
+    # if img_size is not None:
+    #     H, W = img_size
+    # elif H_from_video is not None and W_from_video is not None:
+    #     H, W = H_from_video, W_from_video
+    # else:
+    H = max(cell_px * Hc, 1)
+    W = max(cell_px * Wc, 1)
     cell_px = max(1, min(H // max(Hc, 1), W // max(Wc, 1)))
 
     raw_video = frames_full[:] if frames_full else None
@@ -1823,6 +1823,8 @@ def _write_grouped_diff_video(
         raw_video = raw_video[:clip_video]
     if raw_video is None or len(raw_video) == 0:
         raw_video = [np.zeros((H, W, 3), dtype=np.uint8) for _ in range(max(T, 1))]
+    raw_video = [cv2.resize(raw_video[t % len(raw_video)], (W, H)) for t in range(T)]
+    raw_video = np.array(raw_video, dtype=np.uint8)
 
     def _render_single(
         assign_n_src,
@@ -2233,13 +2235,13 @@ def process_single_video(
         return val
 
     if megasam_path is None:
-        intrinsic_path = os.path.join(cam_dir, name + "_intrinsics_da3nested.npy")
-        extrinsic_path = os.path.join(cam_dir, name + "_extrinsics_da3nested.npy")
+        # intrinsic_path = os.path.join(video_dir, name + ".npz")
+        cam_param_path = os.path.join(video_dir, name + ".npz")
         # dep_path = os.path.join(depths_path, name + ".zip")
-        viz_png = os.path.join(
-            saving_base_path, f"{name}_sparse3d_{pathify_size[0]}x{pathify_size[1]}.png"
-        )
-        intrinsic = np.load(intrinsic_path)[0]
+        # viz_png = os.path.join(
+        #     saving_base_path, f"{name}_sparse3d_{pathify_size[0]}x{pathify_size[1]}.png"
+        # )
+        # intrinsic = np.load(intrinsic_path)[0]
         # intrinsic = np.array(
         #     [
         #         [fxfycxcy[0], 0, fxfycxcy[2]],
@@ -2248,7 +2250,9 @@ def process_single_video(
         #     ],
         #     dtype=np.float32,
         # )
-        extrinsic = np.load(extrinsic_path)
+        cam_param = np.load(cam_param_path)
+        intrinsic = cam_param["intrinsic"]
+        extrinsic = cam_param["extrinsic"]
         # depths = _load_depth_npz_auto(dep_path).astype(np.float32) * float(depth_scale)
         raw_depths = np.load(os.path.join(depths_path, name + "_depth_da3nested.npy"))
         # 根据存储格式选择是否解码
@@ -2341,7 +2345,7 @@ def process_single_video(
             viz_elev=viz_elev,
             viz_azim=viz_azim,
             viz_figsize=viz_figsize,
-            viz_save_path=viz_png if viz_sparse else None,
+            viz_save_path=None,
             viz_show_cameras=viz_show_cameras,
             viz_camera_stride=viz_camera_stride,
             viz_camera_size=viz_camera_size,
@@ -2712,9 +2716,9 @@ if __name__ == "__main__":
             pathify_size=(args.patchify_height, args.patchify_weight),
             exclude_window=(1, args.horizon),
             topk_per_query=1,
-            is_c2w=False,
+            is_c2w=True,
             axis_order="xyz",
-            trans_scale=1,
+            trans_scale=100,
             depth_scale=1,
             flip_up_sign=False,
             img_size=None,
@@ -2725,7 +2729,7 @@ if __name__ == "__main__":
             verbose=True,
             verbose_prob=args.verbose_prob,
             overlay_text=True,
-            cell_px=3,
+            cell_px=16,
             video_fps=24,
             clip_length=args.clip_num,
             occ_block_range=[0.9, 1.1],

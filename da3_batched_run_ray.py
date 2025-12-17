@@ -69,7 +69,7 @@ def main():
     parser.add_argument(
         "--model_name",
         type=str,
-        default="depth-anything/DA3NESTED-GIANT-LARGE",
+        default="depth-anything/DA3NESTED-GIANT-LARGE-1.1",
         help="DA3 模型名称，默认 DA3NESTED-GIANT-LARGE",
     )
     parser.add_argument(
