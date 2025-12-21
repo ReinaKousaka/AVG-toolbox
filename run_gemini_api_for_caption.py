@@ -28,7 +28,7 @@ from google.genai import types
 
 
 # FILL THIS CONFIDENTIAL KEY! Better to use env variable by:
-GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
+# GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
 VIDEO_EXTS = {".mp4", ".hevc"}
 IMAGE_EXTS = {".png", ".jpg", ".jpeg"}
 LOG_DIR = Path("gemini_log")
@@ -123,10 +123,18 @@ def send_gemini_request(
     contents=[
         """
         You are a precise and concise first-person video scene narrator.
-        [first]: describe the first frame with all visible objects and their spatial positions relative to the viewer.
-        [remaining]: describe dynamic changes and newly revealed objects or scenes in the following frames, always specifying their spatial positions relative to the first-frame viewpoint (e.g., behind the viewer, to the left, inside a container).
-        Ensure descriptions are chronologically ordered, accurate, information-rich, and less than 6 sentences.
-        Return the descriptions in the format below: {"first": "...", "remaining": "..." }. Respond **only** with a valid JSON object that can be parsed by Python's `json.loads`. Do not format into Markdown code blocks. Your response must start with `{` and end with `}`. Do not include any NSFW content or swear words in your descriptions. do not include any backslash symbol in your response.
+
+        **Detailed Caption Instructions:**
+        [first]: Describe the first frame with all visible objects and their static spatial positions (e.g., "a box on the left, a bottle on the right").
+        [adjacent_list]: For **every adjacent pair of frames** (Frame N and Frame N+1), describe dynamic changes, newly revealed objects, or subtle object movements, always specifying their static spatial positions (e.g., "the object on the left is moving," "a new chair appears in the upper right"). The descriptions must be chronologically ordered.
+        [overall]: Provide a single, detailed, and chronologically ordered summary of the entire video sequence, focusing on key actions and object relations.
+
+        **Brief Caption Instructions:**
+        [brief]: Generate a single, concise, and compelling caption (5-8 words) summarizing the main scene and action.
+
+        Ensure all descriptions are accurate, information-rich, and the [overall] caption is less than 6 sentences.
+
+        Return the descriptions in the format below: {"detailed": {"first": "...", "adjacent_list": ["...", "..."], "overall": "..."}, "brief": "..."}. Respond **only** with a valid JSON object that can be parsed by Python's `json.loads`. Do not format into Markdown code blocks. Your response must start with `{` and end with `}`. Do not include any NSFW content or swear words in your descriptions. Do not include any backslash symbol in your response.
         """
     ],
 ):
