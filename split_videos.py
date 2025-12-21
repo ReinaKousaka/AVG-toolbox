@@ -227,7 +227,7 @@ def slice_by_frames(
         made += 1
 
     # 处理最后一段：如果剩余帧数大于 interval_frames 的一半，从最后一帧向前切 interval_frames 帧
-    if remaining_frames > interval_frames // 2:
+    if False:
         start = total - interval_frames
         end = total
         vf = f"trim=start_frame={start}:end_frame={end},setpts=PTS-STARTPTS"

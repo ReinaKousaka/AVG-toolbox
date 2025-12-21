@@ -146,113 +146,248 @@ def summarize_video_by_frames(
     video_path: str,
     model: Qwen3VLForConditionalGeneration,
     processor: AutoProcessor,
-    segment_size: int = 32,
+    frame_interval: int = 10,
+    simple_block_size: int = 4,
     downscale_ratio: float = 0.5,
-) -> Dict[str, str]:
+) -> Dict[str, Dict[str, str]]:
     """
-    对视频按连续 segment_size 帧切段：
-    - 每帧按 downscale_ratio 做分辨率缩小
-    - 对每一段调用 Qwen3-VL 总结
-    - 返回 {"startFrame-endFrame": "描述"}
+    对视频按帧间隔抽帧并标注：
+    - frame_interval: 抽帧间隔，例如 10 表示每隔 10 帧抽一帧（0, 10, 20, 30...）
+    - simple_block_size: 简单标注的分组大小，例如 4 表示每 4 帧共享一个简单标注
+    - downscale_ratio: 分辨率缩小比例
+    - 返回 {frameIdx: {"detailed": "...", "simple": "..."}}
     """
     cap = cv2.VideoCapture(video_path)
     if not cap.isOpened():
         raise RuntimeError(f"无法打开视频文件: {video_path}")
 
-    summaries: Dict[str, str] = {}
+    total_frames = int(cap.get(cv2.CAP_PROP_FRAME_COUNT))
 
-    current_segment_frames: List[np.ndarray] = []
-    current_segment_simple_frames = []
-    segment_start_frame_idx = 0
-    frame_idx = 0
+    # 收集需要抽取的帧
+    frame_indices = list(range(0, total_frames, frame_interval))
+    extracted_frames: Dict[int, np.ndarray] = {}
 
-    while True:
+    print(f"Total frames: {total_frames}, extracting {len(frame_indices)} frames")
+
+    # 抽取所有需要的帧
+    for target_idx in frame_indices:
+        cap.set(cv2.CAP_PROP_POS_FRAMES, target_idx)
         ok, frame = cap.read()
         if not ok:
             break
 
-        # 按比例下采样当前帧
+        # 按比例下采样
         if downscale_ratio != 1.0:
             h, w = frame.shape[:2]
             new_w = max(1, int(w * downscale_ratio))
             new_h = max(1, int(h * downscale_ratio))
             frame = cv2.resize(frame, (new_w, new_h), interpolation=cv2.INTER_AREA)
-            simple_frame = cv2.resize(
-                frame, (new_w // 2, new_h // 2), interpolation=cv2.INTER_AREA
-            )
-        current_segment_frames.append(frame)
-        current_segment_simple_frames.append(simple_frame)
-        # 凑够一段，就让 Qwen3-VL 总结这一段
-        if len(current_segment_frames) == segment_size:
-            segment_end_frame_idx = frame_idx
-            start = time.time()
-            first = summarize_segment_with_qwen3_vl(
-                [current_segment_frames[0]],
-                model,
-                processor,
-                prompt="In English, describe the frame with all visible objects in detail and their spatial positions relative to the viewer. Do not include escape characters in the response. the description should be around 64 words.",
-                num_tokens=128,
-            )
-            remaining = summarize_segment_with_qwen3_vl(
-                current_segment_frames[1:],
-                model,
-                processor,
-                prompt="In English, describe frames detailly, do not describe the first frame, focusing on objects, especially dynamic object, do not describe camera movements, do not include any descriptions on camera movement in your response, describe how they move. Ensure descriptions are chronologically ordered, accurate, information-rich. Do not include escape characters in the response. the description should be around 128 words.",
-                num_tokens=256,
-                max_images=12,
-            )
-            caption_simple = summarize_segment_with_qwen3_vl(
-                current_segment_simple_frames,
-                model,
-                processor,
-                prompt=f"Summarize the content {first}, {remaining} to around 50 English words. Do not include escape characters in the response. do not describe camera movements, do not include any descriptions on camera movement in your response",
-                num_tokens=128,
-                max_images=6,
-            )
-            caption = {"first": first, "remaining": remaining, "simple": caption_simple}
-            assert isinstance(caption, dict)
-            key = f"{str(segment_start_frame_idx).zfill(6)}-{str(segment_end_frame_idx).zfill(6)}"
-            # print(f"Segment {key} summary: {caption_simple} \n Full: {caption}")
-            summaries[key] = caption
-            end = time.time()
-            print(
-                f"Qwen3-VL took {end - start:.2f} seconds for segment {key}. caption: {caption}"
-            )
 
-            # 开启下一段
-            current_segment_frames = []
-            current_segment_simple_frames = []
-            segment_start_frame_idx = frame_idx + 1
-
-        frame_idx += 1
-
-    # 处理视频尾巴那一段（不足 segment_size 帧）
-    if current_segment_frames:
-        segment_end_frame_idx = frame_idx - 1
-        first = summarize_segment_with_qwen3_vl(
-            [current_segment_frames[0]],
-            model,
-            processor,
-            prompt="In English, describe the frame with all visible objects in detail and their spatial positions relative to the viewer",
-        )
-        remaining = summarize_segment_with_qwen3_vl(
-            current_segment_frames[1:],
-            model,
-            processor,
-            prompt="In English, describe dynamic changes and newly revealed objects or scenes related to the first frame of the video, focusing on describing the objects in the frames and describe how they move when object is a dynamic one. Ensure descriptions are chronologically ordered, accurate, information-rich.",
-        )
-        caption_simple = summarize_segment_with_qwen3_vl(
-            current_segment_simple_frames,
-            model,
-            processor,
-            prompt="summarize the content in the images around 50 English words.",
-        )
-        caption = {"first": first, "remaining": remaining, "simple": caption_simple}
-        key = f"{str(segment_start_frame_idx).zfill(6)}-{str(segment_end_frame_idx).zfill(6)}"
-        summaries[key] = caption
+        extracted_frames[target_idx] = frame
 
     cap.release()
-    return summaries
+
+    # 对每一帧进行详细标注
+    annotations: Dict[str, Dict[str, str]] = {}
+    frame_list = sorted(extracted_frames.keys())
+
+    for idx in frame_list:
+        frame = extracted_frames[idx]
+        start = time.time()
+
+        detailed = summarize_segment_with_qwen3_vl(
+            [frame],
+            model,
+            processor,
+            prompt="In English, describe the frame with all visible objects in detail and their spatial positions relative to the viewer. Do not include escape characters in the response. The description should be around 64 words.",
+            num_tokens=128,
+            max_images=1,
+        )
+
+        end = time.time()
+        print(f"Frame {idx} detailed annotation took {end - start:.2f}s")
+
+        annotations[str(idx)] = {"detailed": detailed, "simple": ""}
+
+    # 对每个 block 生成简单标注
+    for block_start_idx in range(0, len(frame_list), simple_block_size):
+        block_end_idx = min(block_start_idx + simple_block_size, len(frame_list))
+        block_frames_indices = frame_list[block_start_idx:block_end_idx]
+        block_frames = [extracted_frames[idx] for idx in block_frames_indices]
+
+        start = time.time()
+
+        # 收集这个 block 里所有帧的 detailed 标注
+        detailed_descriptions = [
+            annotations[str(idx)]["detailed"] for idx in block_frames_indices
+        ]
+        combined_detailed = " ".join(detailed_descriptions)
+
+        simple = summarize_segment_with_qwen3_vl(
+            block_frames,
+            model,
+            processor,
+            prompt=f"Summarize the content from these frames: {combined_detailed}. Provide a concise summary in around 50 English words. Do not include escape characters in the response. Do not describe camera movements.",
+            num_tokens=128,
+            max_images=len(block_frames),
+        )
+
+        end = time.time()
+        print(
+            f"Block {block_frames_indices} simple annotation took {end - start:.2f}s: {simple}"
+        )
+
+        # 将简单标注赋给这个 block 的所有帧
+        for idx in block_frames_indices:
+            annotations[str(idx)]["simple"] = simple
+
+    return annotations
+
+
+def create_annotated_video(
+    video_path: str,
+    annotations: Dict[str, Dict[str, str]],
+    output_path: str,
+    frame_interval: int = 10,
+    downscale_ratio: float = 0.5,
+    fps: float = 30.0,
+    font_scale: float = 0.4,
+    font_thickness: int = 1,
+):
+    """
+    创建带标注的视频：
+    - 上半部分显示下采样后的视频帧
+    - 下半部分显示黑色背景上的标注文字
+    - 每个标注对应一定的帧范围，例如 0 帧标注对应 0-9 帧，10 帧标注对应 10-19 帧
+
+    参数:
+        video_path: 输入视频路径
+        annotations: 标注字典，格式为 {frameIdx: {"detailed": "...", "simple": "..."}}
+        output_path: 输出视频路径
+        frame_interval: 抽帧间隔（用于确定每个标注对应的帧范围）
+        downscale_ratio: 下采样比例
+        fps: 输出视频帧率
+        font_scale: 字体大小
+        font_thickness: 字体粗细
+    """
+    cap = cv2.VideoCapture(video_path)
+    if not cap.isOpened():
+        raise RuntimeError(f"无法打开视频文件: {video_path}")
+
+    total_frames = int(cap.get(cv2.CAP_PROP_FRAME_COUNT))
+    original_fps = cap.get(cv2.CAP_PROP_FPS)
+
+    # 获取第一帧来确定尺寸
+    ret, first_frame = cap.read()
+    if not ret:
+        raise RuntimeError("无法读取视频帧")
+
+    # 计算下采样后的尺寸
+    h, w = first_frame.shape[:2]
+    new_w = max(1, int(w * downscale_ratio))
+    new_h = max(1, int(h * downscale_ratio))
+
+    # 输出视频尺寸：上半部分是帧，下半部分是文字区域（相同高度）
+    output_w = new_w
+    output_h = new_h * 2  # 双倍高度
+
+    # 创建视频写入器
+    fourcc = cv2.VideoWriter_fourcc(*"mp4v")
+    out = cv2.VideoWriter(output_path, fourcc, fps, (output_w, output_h))
+
+    # 将标注按帧索引排序
+    annotation_frames = sorted([int(k) for k in annotations.keys()])
+
+    print(f"Creating annotated video: {output_path}")
+    print(f"Output size: {output_w}x{output_h}, FPS: {fps}")
+
+    # 创建帧索引到标注的映射
+    # 每个标注对应 frame_interval 帧
+    frame_to_annotation = {}
+    for i, anno_frame in enumerate(annotation_frames):
+        start_frame = anno_frame
+        # 结束帧是下一个标注帧的前一帧，或者是视频末尾
+        if i + 1 < len(annotation_frames):
+            end_frame = annotation_frames[i + 1] - 1
+        else:
+            end_frame = total_frames - 1
+
+        for frame_idx in range(start_frame, min(end_frame + 1, total_frames)):
+            frame_to_annotation[frame_idx] = str(anno_frame)
+
+    cap.set(cv2.CAP_PROP_POS_FRAMES, 0)
+
+    for frame_idx in tqdm(range(total_frames), desc="Generating video"):
+        ret, frame = cap.read()
+        if not ret:
+            break
+
+        # 下采样帧
+        frame_resized = cv2.resize(frame, (new_w, new_h), interpolation=cv2.INTER_AREA)
+
+        # 创建黑色文字区域
+        text_area = np.zeros((new_h, new_w, 3), dtype=np.uint8)
+
+        # 获取当前帧对应的标注
+        if frame_idx in frame_to_annotation:
+            anno_key = frame_to_annotation[frame_idx]
+            annotation = annotations[anno_key]
+
+            # 使用 detailed 标注作为显示文本
+            text = annotation.get("detailed", "")
+
+            # 将文本分行显示
+            max_width = new_w - 20  # 留出边距
+            words = text.split()
+            lines = []
+            current_line = ""
+
+            for word in words:
+                test_line = current_line + " " + word if current_line else word
+                (text_width, text_height), _ = cv2.getTextSize(
+                    test_line, cv2.FONT_HERSHEY_SIMPLEX, font_scale, font_thickness
+                )
+
+                if text_width <= max_width:
+                    current_line = test_line
+                else:
+                    if current_line:
+                        lines.append(current_line)
+                    current_line = word
+
+            if current_line:
+                lines.append(current_line)
+
+            # 在文字区域绘制文本
+            y_offset = 20
+            line_height = int(25 * font_scale / 0.4)  # 根据字体缩放调整行高
+
+            for line in lines:
+                if y_offset + line_height > new_h:
+                    break  # 超出文字区域
+
+                cv2.putText(
+                    text_area,
+                    line,
+                    (10, y_offset),
+                    cv2.FONT_HERSHEY_SIMPLEX,
+                    font_scale,
+                    (255, 255, 255),
+                    font_thickness,
+                    cv2.LINE_AA,
+                )
+                y_offset += line_height
+
+        # 将帧和文字区域垂直拼接
+        combined_frame = np.vstack([frame_resized, text_area])
+
+        # 写入输出视频
+        out.write(combined_frame)
+
+    cap.release()
+    out.release()
+
+    print(f"Annotated video saved to: {output_path}")
 
 
 # === 新增：在一个进程里，用某一块 GPU 处理若干个视频 ===
@@ -260,10 +395,12 @@ def worker_process(
     gpu_index: int,
     video_paths: List[str],
     model_id: str,
-    segment_size: int,
+    frame_interval: int,
+    simple_block_size: int,
     downscale_ratio: float,
     out_dir: str,
     log_file_path: str,
+    create_video: bool = False,
 ):
     """
     每个进程绑定到一个物理 GPU，加载一次模型，然后依次处理分配到的视频。
@@ -293,7 +430,8 @@ def worker_process(
                     video_path=str(v_path),
                     model=model,
                     processor=processor,
-                    segment_size=segment_size,
+                    frame_interval=frame_interval,
+                    simple_block_size=simple_block_size,
                     downscale_ratio=downscale_ratio,
                 )
                 out_json = out_dir_path / f"{v_path.stem}.json"
@@ -302,6 +440,23 @@ def worker_process(
                 print(
                     f"[Worker GPU {gpu_index}] Finished {v_path}, saved to {out_json}"
                 )
+
+                # 如果需要创建标注视频
+                if create_video:
+                    out_video = out_dir_path / f"{v_path.stem}_annotated.mp4"
+                    print(
+                        f"[Worker GPU {gpu_index}] Creating annotated video: {out_video}"
+                    )
+                    create_annotated_video(
+                        video_path=str(v_path),
+                        annotations=summaries,
+                        output_path=str(out_video),
+                        frame_interval=frame_interval,
+                        downscale_ratio=downscale_ratio,
+                    )
+                    print(
+                        f"[Worker GPU {gpu_index}] Annotated video saved to {out_video}"
+                    )
             except Exception as e:
                 print(f"[Worker GPU {gpu_index}] Error processing {v_path}: {e}")
 
@@ -311,9 +466,11 @@ def run_multi_gpu(
     input_dir: str,
     out_dir: str,
     model_id: str,
-    segment_size: int,
+    frame_interval: int,
+    simple_block_size: int,
     downscale_ratio: float,
     num_gpus: int | None = None,
+    create_video: bool = False,
 ):
     input_path = Path(input_dir)
     if not input_path.is_dir():
@@ -366,10 +523,12 @@ def run_multi_gpu(
                 gpu_idx,
                 vids,
                 model_id,
-                segment_size,
+                frame_interval,
+                simple_block_size,
                 downscale_ratio,
                 out_dir,
                 str(log_file),
+                create_video,
             ),
         )
 
@@ -386,7 +545,7 @@ def run_multi_gpu(
 def main():
     parser = argparse.ArgumentParser(
         description=(
-            "本地 Qwen3-VL 对视频每 N 帧一段做概括：\n"
+            "本地 Qwen3-VL 对视频按帧间隔抽帧并标注：\n"
             "- 单视频模式：输入 video_path，输出一个 JSON\n"
             "- 多 GPU 模式：输入 input_dir 和 out_dir，目录下每个 mp4 输出一个 JSON"
         )
@@ -406,10 +565,16 @@ def main():
         help="Qwen3-VL 模型 ID，默认 Qwen/Qwen3-VL-8B-Instruct",
     )
     parser.add_argument(
-        "--segment_size",
+        "--frame_interval",
         type=int,
-        default=32,
-        help="每个片段的帧数 N（默认 32）",
+        default=10,
+        help="抽帧间隔，例如 10 表示每隔 10 帧抽一帧（默认 10）",
+    )
+    parser.add_argument(
+        "--simple_block_size",
+        type=int,
+        default=8,
+        help="简单标注的分组大小，例如 4 表示每 4 帧共享一个简单标注（默认 4）",
     )
     parser.add_argument(
         "--downscale_ratio",
@@ -443,6 +608,11 @@ def main():
         default=None,
         help="多 GPU 模式：使用的 GPU 数量（默认使用所有可见 GPU）",
     )
+    parser.add_argument(
+        "--create_video",
+        action="store_true",
+        help="是否创建带标注的可视化视频（默认不创建）",
+    )
 
     args = parser.parse_args()
 
@@ -454,9 +624,11 @@ def main():
             input_dir=args.input_dir,
             out_dir=args.out_dir,
             model_id=args.model_id,
-            segment_size=args.segment_size,
+            frame_interval=args.frame_interval,
+            simple_block_size=args.simple_block_size,
             downscale_ratio=args.downscale_ratio,
             num_gpus=args.num_gpus,
+            create_video=args.create_video,
         )
         return
 
@@ -474,7 +646,8 @@ def main():
         video_path=args.video_path,
         model=model,
         processor=processor,
-        segment_size=args.segment_size,
+        frame_interval=args.frame_interval,
+        simple_block_size=args.simple_block_size,
         downscale_ratio=args.downscale_ratio,
     )
 
@@ -482,6 +655,19 @@ def main():
         json.dump(summaries, f, ensure_ascii=False, indent=2)
 
     print(f"已保存结果到 {args.output_json}")
+
+    # 如果需要创建标注视频
+    if args.create_video:
+        video_output_path = args.output_json.replace(".json", "_annotated.mp4")
+        print(f"创建带标注的视频: {video_output_path}")
+        create_annotated_video(
+            video_path=args.video_path,
+            annotations=summaries,
+            output_path=video_output_path,
+            frame_interval=args.frame_interval,
+            downscale_ratio=args.downscale_ratio,
+        )
+        print(f"标注视频已保存到 {video_output_path}")
 
 
 if __name__ == "__main__":
