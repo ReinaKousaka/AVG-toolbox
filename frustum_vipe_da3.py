@@ -2250,7 +2250,9 @@ def process_single_video(
         # )
         extrinsic = np.load(extrinsic_path)
         # depths = _load_depth_npz_auto(dep_path).astype(np.float32) * float(depth_scale)
-        raw_depths = np.load(os.path.join(depths_path, name + "_depth_da3nested.npy"))
+        raw_depths = np.load(os.path.join(depths_path, name + "_depth_da3nested.npz"))[
+            "arr_0"
+        ]
         # 根据存储格式选择是否解码
         if raw_depths.dtype == np.uint8:
             raw_depths = decode_rgb_to_depth_bitpack(raw_depths).astype(np.float32)
@@ -2378,12 +2380,6 @@ def process_single_video(
         os.makedirs(saving_base_path, exist_ok=True)
         np.savez_compressed(
             out_npz,
-            # assign_n=assign_n,
-            # assign_hs=assign_hs,
-            # assign_ws=assign_ws,
-            # assign_angles=assign_angles,
-            # CAM_result=CAM_result,
-            # **meta,
             **grouped_info_dict,
         )
         # with open(out_npz.replace(".npz", ".json"), "w") as jf:

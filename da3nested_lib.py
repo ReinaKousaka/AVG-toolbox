@@ -167,7 +167,7 @@ class DA3NestedVideoWorker:
         base_name = os.path.basename(video_path)
         stem, _ = os.path.splitext(base_name)
         intrinsic_path = os.path.join(self.intr_path, f"{stem}.npz")
-        depth_npy_path = os.path.join(output_dir, f"{stem}_depth_da3nested.npy")
+        depth_npy_path = os.path.join(output_dir, f"{stem}_depth_da3nested.npz")
         intr_npy_path = os.path.join(output_dir, f"{stem}_intrinsics_da3nested.npy")
         extr_npy_path = os.path.join(output_dir, f"{stem}_extrinsics_da3nested.npy")
         depth_video_path = os.path.join(output_dir, f"{stem}_depth_da3nested.mp4")
@@ -293,8 +293,8 @@ class DA3NestedVideoWorker:
                     global_extrinsics_4x4.append(ex)
 
             # 打包 depth -> BGR 用于写视频（只对“新帧”做）
-            for d in depth_to_use:
-                all_bitpacked_frames.append(encode_depth_to_rgb_bitpack(d))
+            # for d in depth_to_use:
+            #     all_bitpacked_frames.append(encode_depth_to_rgb_bitpack(d))
 
             prev_end = end
             seg_idx += 1
@@ -314,7 +314,7 @@ class DA3NestedVideoWorker:
         assert (
             depth_full.shape[0] == num_frames
         ), f"Depth 帧数不等于视频帧数: {depth_full.shape[0]} vs {num_frames}"
-        np.save(depth_npy_path, depth_full.astype(np.float16))
+        np.savez_compressed(depth_npy_path, depth_full.astype(np.float16))
         print(f"  Saved depth npy      : {depth_npy_path}, shape={depth_full.shape}")
         if is_nested:
             intr_full = np.concatenate(all_intr_chunks, axis=0)
@@ -334,21 +334,25 @@ class DA3NestedVideoWorker:
 
             print(f"  Saved intrinsics npy : {intr_npy_path}, shape={intr_full.shape}")
             print(f"  Saved extrinsics npy : {extr_npy_path}, shape={extr_full.shape}")
-
+        depth_verbose = (
+            (255 - np.clip(depth_full.copy() * 3, 0, 255))
+            .astype(np.uint8)[..., None]
+            .repeat(3, axis=-1)
+        )
         # 保存深度视频
-        depth_frames_array = np.asarray(all_bitpacked_frames, dtype=np.uint8)
-        # np.save(depth_npy_path, depth_frames_array)
-        assert depth_frames_array.shape[0] == num_frames
+        # depth_frames_array = np.asarray(all_bitpacked_frames, dtype=np.uint8)
+        # # np.save(depth_npy_path, depth_frames_array)
+        # assert depth_frames_array.shape[0] == num_frames
         vwrite(
             depth_video_path,
-            depth_frames_array,
+            depth_verbose,
             outputdict={
                 "-vcodec": "libx264",
                 "-pix_fmt": "yuv420p",
-                "-crf": "17",
-                "-preset": "veryslow",
+                "-crf": "22",
+                "-preset": "fast",
             },
         )
-        print(
-            f"  Saved depth video    : {depth_video_path}, shape={depth_frames_array.shape}"
-        )
+        # print(
+        #     f"  Saved depth video    : {depth_video_path}, shape={depth_frames_array.shape}"
+        # )

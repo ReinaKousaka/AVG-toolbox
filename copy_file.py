@@ -37,7 +37,16 @@ def copy_nested_files(da3_dirs):
 
 # 示例使用
 if __name__ == "__main__":
-    da3_folders = [
-        "raw_jersey_448p_da3",
-    ]  # 在此填入你的_da3文件夹列表
+    import argparse
+
+    parser = argparse.ArgumentParser(
+        description="Copy specific nested files from _da3 to _frustum directories."
+    )
+    parser.add_argument(
+        "input_dirs",
+        type=str,
+        help="seperate by commas",
+    )
+    args = parser.parse_args()
+    da3_folders = args.input_dirs.split(",")
     copy_nested_files(da3_folders)
