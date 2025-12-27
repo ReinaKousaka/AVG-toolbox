@@ -23,6 +23,7 @@ import subprocess
 import numpy as np
 from typing import List, Tuple, Optional
 from tqdm import tqdm
+from skvideo.io import vwrite
 
 # --- plotting & utils (unchanged from original where possible)
 import matplotlib
@@ -1776,7 +1777,7 @@ def _write_grouped_diff_video(
         assign_a_sel = np.full((T, Hc, Wc, 1), np.nan, dtype=np.float32)
         assign_b_sel = np.full((T, Hc, Wc, 2), 30000, dtype=np.int16)
         for t_key, patches in grouped_info_dict.items():
-            print(t_key)
+            # print(t_key)
             if isinstance(patches, np.ndarray):
                 patches = patches.item()
             t_idx = _safe_int(t_key)
@@ -2128,6 +2129,19 @@ def decode_rgb_to_depth_bitpack(img_bgr):
     return depth_m
 
 
+def crop_resize_depth_if_required(depth, pathify_size):
+    height, width = depth.shape[1], depth.shape[2]
+    new_height = width / pathify_size[1] * pathify_size[0]
+    new_height = int((new_height // 2) * 2)
+    if abs(new_height - height) < 4:
+        return depth
+    else:
+        top = int((height - new_height) / 2)
+        bottom = int(top + new_height)
+        depth = depth[:, top:bottom, :]
+    return depth
+
+
 def process_single_video(
     name,
     video_base_path,
@@ -2250,15 +2264,21 @@ def process_single_video(
         # )
         extrinsic = np.load(extrinsic_path)
         # depths = _load_depth_npz_auto(dep_path).astype(np.float32) * float(depth_scale)
-        raw_depths = np.load(os.path.join(depths_path, name + "_depth_da3nested.npz"))[
-            "arr_0"
-        ]
+        if os.path.exists(os.path.join(depths_path, name + "_depth_da3nested.npz")):
+            raw_depths = np.load(
+                os.path.join(depths_path, name + "_depth_da3nested.npz")
+            )["arr_0"]
+        elif os.path.exists(os.path.join(depths_path, name + "_depth_da3nested.npy")):
+            raw_depths = np.load(
+                os.path.join(depths_path, name + "_depth_da3nested.npy")
+            )
         # 根据存储格式选择是否解码
         if raw_depths.dtype == np.uint8:
             raw_depths = decode_rgb_to_depth_bitpack(raw_depths).astype(np.float32)
         elif raw_depths.dtype != np.float32:
             raw_depths = raw_depths.astype(np.float32)
         # depths = _sharpen_depths_with_guided_filter(raw_depths)
+        raw_depths = crop_resize_depth_if_required(raw_depths, pathify_size)
         depths = raw_depths
 
     else:
@@ -2267,14 +2287,6 @@ def process_single_video(
         extrinsic = data["cam_c2w"]
         depths = (data["depths"] * float(depth_scale)).astype(np.float32)
         depths = _sharpen_depths_with_guided_filter(depths)
-    # save_video(
-    #     os.path.join(saving_base_path, f"{name}_origin_depth.mp4"),
-    #     np.clip((raw_depths * 3), 0, 255).astype(np.uint8)[..., None].repeat(3, -1),
-    # )
-    # save_video(
-    #     os.path.join(saving_base_path, f"{name}_sharpened_depth.mp4"),
-    #     np.clip((depths * 3), 0, 255).astype(np.uint8)[..., None].repeat(3, -1),
-    # )
     if os.path.exists(out_npz) and not overwrite:
         meta = {
             "Hc": pathify_size[0],
@@ -2394,7 +2406,16 @@ def process_single_video(
     else:
         group_selection_mode_meta = str(group_selection_mode_meta)
     grouped_info_dict = grouped_info_dict or {}
-
+    save_depths = depths.copy()[:, ::point_stride, ::point_stride]
+    save_depths_dict = {}
+    for ide, dep in enumerate(save_depths):
+        save_depths_dict[f"depth_{ide:05d}"] = dep.astype(np.float16)
+    np.savez_compressed(
+        out_npz.replace("frustum.npz", "depth.npz"),
+        **save_depths_dict,
+    )
+    save_depths_verbose = np.clip(save_depths, 0, 255).astype(np.uint8)
+    vwrite(out_npz.replace("frustum.npz", "depth.mp4"), save_depths_verbose)
     if verbose and random.uniform(0, 1) <= verbose_prob:
         _write_grouped_diff_video(
             video_path,
@@ -2672,6 +2693,9 @@ if __name__ == "__main__":
         "-or", "--overwrite", action="store_true", help="是否覆盖已存在的输出文件"
     )
     parser.add_argument(
+        "-v", "--verbose", action="store_true", help="是否覆盖已存在的输出文件"
+    )
+    parser.add_argument(
         "-ps", "--point_stride", type=int, default=8, help="是否覆盖已存在的输出文件"
     )
     parser.add_argument(
@@ -2718,7 +2742,7 @@ if __name__ == "__main__":
             point_stride=3,
             overwrite=args.overwrite,
             write_related=False,
-            verbose=True,
+            verbose=args.verbose,
             verbose_prob=args.verbose_prob,
             overlay_text=True,
             cell_px=3,
