@@ -165,7 +165,7 @@ def main():
     parser.add_argument(
         "--crf",
         type=int,
-        default=20,
+        default=18,
         help="x264 CRF（质量参数，数值越大压缩越狠，默认20）",
     )
     parser.add_argument(

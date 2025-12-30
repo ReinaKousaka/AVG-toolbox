@@ -17,6 +17,7 @@ from transformers import (
 # === 新增：多进程 & 多 GPU 相关 ===
 import os
 import multiprocessing as mp
+from skvideo.io import vwrite
 
 
 def load_qwen3_vl(
@@ -142,6 +143,12 @@ def summarize_segment_with_qwen3_vl(
         return str(output_texts[0])
 
 
+def chunk_with_stride(seq, chunk_size=3, stride=2):
+    return [
+        seq[i : i + chunk_size] for i in range(0, len(seq) - chunk_size + 1, stride)
+    ]
+
+
 def summarize_video_by_frames(
     video_path: str,
     model: Qwen3VLForConditionalGeneration,
@@ -149,6 +156,7 @@ def summarize_video_by_frames(
     frame_interval: int = 10,
     simple_block_size: int = 4,
     downscale_ratio: float = 0.5,
+    detail_chunk: int = 3,
 ) -> Dict[str, Dict[str, str]]:
     """
     对视频按帧间隔抽帧并标注：
@@ -184,7 +192,9 @@ def summarize_video_by_frames(
             frame = cv2.resize(frame, (new_w, new_h), interpolation=cv2.INTER_AREA)
 
         extracted_frames[target_idx] = frame
-
+    chunks = chunk_with_stride(
+        chunk_size=detail_chunk, seq=frame_indices, stride=detail_chunk - 1
+    )
     for target_idx in tqdm(frame_indices):
         cap.set(cv2.CAP_PROP_POS_FRAMES, target_idx)
         ok, frame = cap.read()
@@ -205,42 +215,34 @@ def summarize_video_by_frames(
     annotations: Dict[str, Dict[str, str]] = {}
     annotations["detailed"] = {}
     frame_list = sorted(extracted_frames.keys())
-    chunk = []
-    start_idx = 0
-    for idx in tqdm(frame_list):
-        frame = extracted_frames[idx]
-        chunk.append(frame)
-        if len(chunk) > 2:
-            start = time.time()
-
-            detailed_first = summarize_segment_with_qwen3_vl(
-                [chunk[0]],
-                model,
-                processor,
-                prompt=f"Please summarize the content of the image. Provide a concise summary of approximately 100 English words. Most words should describe the objects in the video in detail, including their appearance, color, texture, and material, as well as their approximate location in the frame. Use shorter words to briefly describe the atmosphere, lighting, and other overall information of the image. Avoid starting with lengthy phrases such as [in the picture] or [this is a picture] Get straight to describing the objects.",
-                num_tokens=128,
-                max_images=1,
-            )
-            detailed_first = detailed_first.replace("\n", " ").replace("\r", " ")
-            detailed_dynamic = summarize_segment_with_qwen3_vl(
-                chunk,
-                model,
-                processor,
-                prompt=f"Referring to the description of the first frame I provided : [start first frame description]{detailed_first}[end first frame description], describe the appearance and movement of objects in the video in around 100 English words, paying particular attention to moving objects. When describing objects, do not describe those already present in the first frame; describe all objects that did not appear in the first frame but appear in subsequent frames. Describe the motion of all moving objects in the video, especially those appearing in the first frame and their subsequent motion. Do not include any camera-related content or descriptions of camera movement in your reply. Also, do not include descriptions of the overall video information.",
-                num_tokens=128,
-                max_images=100,
-            )
-            detailed_dynamic = detailed_dynamic.replace("\n", " ").replace("\r", " ")
-            end = time.time()
-            print(
-                f"Frame {idx} detailed annotation took {end - start:.2f}s : [start] {detailed_first} [dynamic] {detailed_dynamic}"
-            )
-            annotations["detailed"][f"{start_idx}"] = {
+    is_debug = False
+    for chunk in tqdm(chunks):
+        frames = [extracted_frames[idx] for idx in chunk]
+        detailed_first = summarize_segment_with_qwen3_vl(
+            [frames[0]],
+            model,
+            processor,
+            prompt=f"Please summarize the content of the image. Provide a concise summary of approximately 100 English words. Most words should describe the objects in the video in detail, including their shape, color, texture & material and words if visible, as well as their approximate location in the frame. Then use only very few words to briefly describe the atmosphere, lighting, and other overall information of the image. Avoid starting with lengthy phrases such as [in the picture] or [this is a picture] Get straight to describing the objects.",
+            num_tokens=128,
+            max_images=1,
+        )
+        detailed_first = detailed_first.replace("\n", " ").replace("\r", " ")
+        detailed_dynamic = summarize_segment_with_qwen3_vl(
+            frames,
+            model,
+            processor,
+            prompt=f"Referring to the description of the first frame description I provided : [start first frame description]{detailed_first}[end first frame description], describe the appearance and movement of objects in the video in around 80 English words, paying particular attention to moving objects. Describe the motion of all moving objects in the video, especially those appearing in the first frame and their subsequent motion. Also, paying attention to describe objects that newly appears in the subsequent frames on their appearence and dynamic. Do not include any camera-related content or descriptions of camera or photographer movement in your reply. Also, do not include descriptions of the overall video information. Avoid starting with lengthy phrases such as [in the subsequent frame] or [in the video] Get straight to describing the objects and movements in your response. Also, when no moving object is observed in the scene, DO NOT write [no movement is observed] or similar sentences, instead, describe the static objects in more detail.",
+            num_tokens=128,
+            max_images=100,
+        )
+        detailed_dynamic = detailed_dynamic.replace("\n", " ").replace("\r", " ")
+        for anno_idx in list(range(chunk[0], chunk[-1])):
+            annotations["detailed"][f"{anno_idx}"] = {
                 "start": detailed_first,
                 "dynamic": detailed_dynamic,
             }
-            start_idx = idx
-            chunk = []
+        if is_debug:
+            break
     annotations["simple"] = {}
     # 对每个 block 生成简单标注
     for block_start_idx in range(0, len(frame_list), simple_block_size):
@@ -248,49 +250,34 @@ def summarize_video_by_frames(
         block_frames_indices = frame_list[block_start_idx:block_end_idx]
         block_frames = [simple_frames[idx] for idx in block_frames_indices]
         start = time.time()
-        simple_start = summarize_segment_with_qwen3_vl(
-            [block_frames[0]],
-            model,
-            processor,
-            prompt=f"Please summarize the content of the image. Provide a concise summary of approximately 80 English words. Most words should describe the objects in the video in detail, including their appearance, color, texture, and material, as well as their approximate location in the frame. Use shorter words to briefly describe the atmosphere, lighting, and other overall information of the image. Avoid starting with lengthy phrases such as [in the picture] or [this is a picture] Get straight to describing the objects.",
-            num_tokens=128,
-            max_images=1,
-        )
-        simple_start = simple_start.replace("\n", " ").replace("\r", " ")
-
         simple_dynamic = summarize_segment_with_qwen3_vl(
             block_frames,
             model,
             processor,
-            prompt=f"Referring to the description of the first frame I provided : [start first frame description]{simple_start}[end first frame description], describe the appearance and movement of objects in the video in around 80 English words, paying particular attention to moving objects. When describing objects, do not describe those already present in the first frame; describe all objects that did not appear in the first frame but appear in subsequent frames. Describe the motion of all moving objects in the video, especially those appearing in the first frame and their subsequent motion. Do not include any camera-related content or descriptions of camera movement in your reply. Also, do not include descriptions of the overall video information.",
+            prompt=f"describe the appearance and movement of objects in the video in around 200 English words, paying particular attention to moving objects. Describe the objects and their movements in the video briefly. Do not include any camera-related content or descriptions of camera movement in your reply. Avoid describe the overall mood and atmosphere of the video. Avoid starting with lengthy phrases such as [in the frames] or [in the video] Get straight to describing the objects and movements in your response. Also, when no moving object is observed in the scene, DO NOT write [no movement is observed] or similar sentences, instead, describe the static objects in more detail.",
             num_tokens=256,
-            max_images=8,
+            max_images=12,
         )
-        simple_dynamic = simple_dynamic.replace("\n", " ").replace("\r", " ")
+        simple = simple_dynamic.replace("\n", " ").replace("\r", " ")
         end = time.time()
         print(
             f"Block {block_frames_indices} simple annotation took {end - start:.2f}s: [start] {simple_dynamic}, [dynamic] {simple_dynamic}"
         )
 
         # 将简单标注赋给这个 block 的所有帧
-        for idx in block_frames_indices:
-            annotations["simple"][str(idx)] = {
-                "start": simple_start,
-                "dynamic": simple_dynamic,
+        for anno_idx in list(range(block_frames_indices[0], block_frames_indices[-1])):
+            annotations["simple"][str(anno_idx)] = {
+                "simple": simple,
             }
-
-    return annotations
+        if is_debug:
+            break
+    return annotations, extracted_frames
 
 
 def create_annotated_video(
-    video_path: str,
+    extracted_frames,
     annotations: Dict[str, Dict[str, str]],
     output_path: str,
-    frame_interval: int = 10,
-    downscale_ratio: float = 0.5,
-    fps: float = 30.0,
-    font_scale: float = 0.4,
-    font_thickness: int = 1,
 ):
     """
     创建带标注的视频：
@@ -308,124 +295,77 @@ def create_annotated_video(
         font_scale: 字体大小
         font_thickness: 字体粗细
     """
-    cap = cv2.VideoCapture(video_path)
-    if not cap.isOpened():
-        raise RuntimeError(f"无法打开视频文件: {video_path}")
-
-    total_frames = int(cap.get(cv2.CAP_PROP_FRAME_COUNT))
-    original_fps = cap.get(cv2.CAP_PROP_FPS)
-
-    # 获取第一帧来确定尺寸
-    ret, first_frame = cap.read()
-    if not ret:
-        raise RuntimeError("无法读取视频帧")
-
-    # 计算下采样后的尺寸
-    h, w = first_frame.shape[:2]
-    new_w = max(1, int(w * downscale_ratio))
-    new_h = max(1, int(h * downscale_ratio))
-
-    # 输出视频尺寸：上半部分是帧，下半部分是文字区域（相同高度）
-    output_w = new_w
-    output_h = new_h * 2  # 双倍高度
-
-    # 创建视频写入器
-    fourcc = cv2.VideoWriter_fourcc(*"mp4v")
-    out = cv2.VideoWriter(output_path, fourcc, fps, (output_w, output_h))
-
-    # 将标注按帧索引排序
-    annotation_frames = sorted([int(k) for k in annotations.keys()])
-
-    print(f"Creating annotated video: {output_path}")
-    print(f"Output size: {output_w}x{output_h}, FPS: {fps}")
-
-    # 创建帧索引到标注的映射
-    # 每个标注对应 frame_interval 帧
-    frame_to_annotation = {}
-    for i, anno_frame in enumerate(annotation_frames):
-        start_frame = anno_frame
-        # 结束帧是下一个标注帧的前一帧，或者是视频末尾
-        if i + 1 < len(annotation_frames):
-            end_frame = annotation_frames[i + 1] - 1
-        else:
-            end_frame = total_frames - 1
-
-        for frame_idx in range(start_frame, min(end_frame + 1, total_frames)):
-            frame_to_annotation[frame_idx] = str(anno_frame)
-
-    cap.set(cv2.CAP_PROP_POS_FRAMES, 0)
-
-    for frame_idx in tqdm(range(total_frames), desc="Generating video"):
-        ret, frame = cap.read()
-        if not ret:
-            break
-
-        # 下采样帧
-        frame_resized = cv2.resize(frame, (new_w, new_h), interpolation=cv2.INTER_AREA)
+    font_scale = 0.4
+    font_thickness = 1
+    out = []
+    for frame_key, frame_resized in extracted_frames.items():
 
         # 创建黑色文字区域
-        text_area = np.zeros((new_h, new_w, 3), dtype=np.uint8)
+        text_area = np.zeros_like(frame_resized)
+        text_area = text_area.repeat(2, axis=1)
+        if (
+            f"{frame_key}" not in annotations["detailed"]
+            or f"{frame_key}" not in annotations["simple"]
+        ):
+            continue
+        detailed_annotation = list(annotations["detailed"].get(f"{frame_key}").values())
+        detailed_annotation = " [detailed sep] ".join(detailed_annotation)
+        simple_annotation = annotations["simple"][f"{frame_key}"]["simple"]
+        annotation = detailed_annotation + " [simple sep] " + simple_annotation
 
-        # 获取当前帧对应的标注
-        if frame_idx in frame_to_annotation:
-            anno_key = frame_to_annotation[frame_idx]
-            annotation = annotations[anno_key]
+        # 使用 detailed 标注作为显示文本
+        text = annotation
+        new_w = text_area.shape[1]
+        new_h = text_area.shape[0]
+        # 将文本分行显示
+        max_width = new_w - 10  # 留出边距
+        words = text.split()
+        words = [f"{frame_key}: "] + words  # 在开头加上帧索引
+        lines = []
+        current_line = ""
 
-            # 使用 detailed 标注作为显示文本
-            text = annotation.get("detailed", "")
+        for word in words:
+            test_line = current_line + " " + word if current_line else word
+            (text_width, text_height), _ = cv2.getTextSize(
+                test_line, cv2.FONT_HERSHEY_SIMPLEX, font_scale, font_thickness
+            )
 
-            # 将文本分行显示
-            max_width = new_w - 20  # 留出边距
-            words = text.split()
-            words = [f"{frame_idx}: "] + words  # 在开头加上帧索引
-            lines = []
-            current_line = ""
+            if text_width <= max_width:
+                current_line = test_line
+            else:
+                if current_line:
+                    lines.append(current_line)
+                current_line = word
 
-            for word in words:
-                test_line = current_line + " " + word if current_line else word
-                (text_width, text_height), _ = cv2.getTextSize(
-                    test_line, cv2.FONT_HERSHEY_SIMPLEX, font_scale, font_thickness
-                )
+        if current_line:
+            lines.append(current_line)
 
-                if text_width <= max_width:
-                    current_line = test_line
-                else:
-                    if current_line:
-                        lines.append(current_line)
-                    current_line = word
+        # 在文字区域绘制文本
+        y_offset = 10
+        line_height = int(15 * font_scale / 0.4)  # 根据字体缩放调整行高
 
-            if current_line:
-                lines.append(current_line)
+        for line in lines:
+            if y_offset + line_height > new_h:
+                break  # 超出文字区域
 
-            # 在文字区域绘制文本
-            y_offset = 20
-            line_height = int(25 * font_scale / 0.4)  # 根据字体缩放调整行高
-
-            for line in lines:
-                if y_offset + line_height > new_h:
-                    break  # 超出文字区域
-
-                cv2.putText(
-                    text_area,
-                    line,
-                    (10, y_offset),
-                    cv2.FONT_HERSHEY_SIMPLEX,
-                    font_scale,
-                    (255, 255, 255),
-                    font_thickness,
-                    cv2.LINE_AA,
-                )
-                y_offset += line_height
+            cv2.putText(
+                text_area,
+                line,
+                (10, y_offset),
+                cv2.FONT_HERSHEY_SIMPLEX,
+                font_scale,
+                (255, 255, 255),
+                font_thickness,
+                cv2.LINE_AA,
+            )
+            y_offset += line_height
 
         # 将帧和文字区域垂直拼接
-        combined_frame = np.vstack([frame_resized, text_area])
+        combined_frame = np.concatenate([frame_resized[..., ::-1], text_area], 1)
 
         # 写入输出视频
-        out.write(combined_frame)
-
-    cap.release()
-    out.release()
-
+        out.append(combined_frame)
+    vwrite(output_path, np.array(out))
     print(f"Annotated video saved to: {output_path}")
 
 
@@ -440,6 +380,7 @@ def worker_process(
     out_dir: str,
     log_file_path: str,
     create_video: bool = False,
+    detail_chunk: int = 3,
 ):
     """
     每个进程绑定到一个物理 GPU，加载一次模型，然后依次处理分配到的视频。
@@ -469,13 +410,14 @@ def worker_process(
                 if os.path.exists(out_json):
                     print(f"exist {out_json}, skipping")
                     continue
-                summaries = summarize_video_by_frames(
+                summaries, extracted_frames = summarize_video_by_frames(
                     video_path=str(v_path),
                     model=model,
                     processor=processor,
                     frame_interval=frame_interval,
                     simple_block_size=simple_block_size,
                     downscale_ratio=downscale_ratio,
+                    detail_chunk=detail_chunk,
                 )
 
                 with out_json.open("w", encoding="utf-8") as f:
@@ -485,17 +427,15 @@ def worker_process(
                 )
 
                 # 如果需要创建标注视频
-                if create_video:
+                if True:
                     out_video = out_dir_path / f"{v_path.stem}_annotated.mp4"
                     print(
                         f"[Worker GPU {gpu_index}] Creating annotated video: {out_video}"
                     )
                     create_annotated_video(
-                        video_path=str(v_path),
+                        extracted_frames=extracted_frames,
                         annotations=summaries,
-                        output_path=str(out_video),
-                        frame_interval=frame_interval,
-                        downscale_ratio=downscale_ratio,
+                        output_path=out_video,
                     )
                     print(
                         f"[Worker GPU {gpu_index}] Annotated video saved to {out_video}"
@@ -514,6 +454,7 @@ def run_multi_gpu(
     downscale_ratio: float,
     num_gpus: int | None = None,
     create_video: bool = False,
+    detail_chunk: int = 3,
 ):
     input_path = Path(input_dir)
     if not input_path.is_dir():
@@ -572,6 +513,7 @@ def run_multi_gpu(
                 out_dir,
                 str(log_file),
                 create_video,
+                detail_chunk,
             ),
         )
 
@@ -610,7 +552,13 @@ def main():
     parser.add_argument(
         "--frame_interval",
         type=int,
-        default=10,
+        default=8,
+        help="抽帧间隔，例如 10 表示每隔 10 帧抽一帧（默认 10）",
+    )
+    parser.add_argument(
+        "--detail_chunk",
+        type=int,
+        default=3,
         help="抽帧间隔，例如 10 表示每隔 10 帧抽一帧（默认 10）",
     )
     parser.add_argument(
@@ -672,6 +620,7 @@ def main():
             downscale_ratio=args.downscale_ratio,
             num_gpus=args.num_gpus,
             create_video=args.create_video,
+            detail_chunk=args.detail_chunk,
         )
         return
 
@@ -685,13 +634,14 @@ def main():
     model, processor = load_qwen3_vl(args.model_id)
 
     print("开始处理视频并调用 Qwen3-VL ...")
-    summaries = summarize_video_by_frames(
+    summaries, extracted_frames = summarize_video_by_frames(
         video_path=args.video_path,
         model=model,
         processor=processor,
         frame_interval=args.frame_interval,
         simple_block_size=args.simple_block_size,
         downscale_ratio=args.downscale_ratio,
+        detail_chunk=args.detail_chunk,
     )
 
     with open(args.output_json, "w", encoding="utf-8") as f:
@@ -700,15 +650,13 @@ def main():
     print(f"已保存结果到 {args.output_json}")
 
     # 如果需要创建标注视频
-    if args.create_video:
+    if True:
         video_output_path = args.output_json.replace(".json", "_annotated.mp4")
         print(f"创建带标注的视频: {video_output_path}")
         create_annotated_video(
-            video_path=args.video_path,
+            extracted_frames=extracted_frames,
             annotations=summaries,
             output_path=video_output_path,
-            frame_interval=args.frame_interval,
-            downscale_ratio=args.downscale_ratio,
         )
         print(f"标注视频已保存到 {video_output_path}")
 

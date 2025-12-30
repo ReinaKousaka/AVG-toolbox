@@ -26,36 +26,21 @@
 # mv "Cyberpunk 2077 2025.12.23 - 16.03.27.64.mp4" 2077-12-23/
 
 # cd 2077-12-23 && rename 's/[^a-zA-Z0-9._-]//g' * && cd ..
-mkdir cityview_2
-cd cityview_2
+mkdir 2077-12-28
+cd 2077-12-28
 
-
-dbxcli-linux-amd64 get "cityview_data_2/1.MOV" &
-dbxcli-linux-amd64 get "cityview_data_2/10.MOV" &
-dbxcli-linux-amd64 get "cityview_data_2/11.MOV" &
-dbxcli-linux-amd64 get "cityview_data_2/12.MOV" &
-dbxcli-linux-amd64 get "cityview_data_2/13.MOV" &
-dbxcli-linux-amd64 get "cityview_data_2/14.MOV" &
-dbxcli-linux-amd64 get "cityview_data_2/15.MOV" &
-dbxcli-linux-amd64 get "cityview_data_2/16.MOV" &
-dbxcli-linux-amd64 get "cityview_data_2/2.MOV" &
-dbxcli-linux-amd64 get "cityview_data_2/3.MOV" &
-dbxcli-linux-amd64 get "cityview_data_2/4.MOV" &
-dbxcli-linux-amd64 get "cityview_data_2/5.MOV" &
-dbxcli-linux-amd64 get "cityview_data_2/6.MOV" &
-dbxcli-linux-amd64 get "cityview_data_2/7.MOV" &
-dbxcli-linux-amd64 get "cityview_data_2/8.MOV" &
-dbxcli-linux-amd64 get "cityview_data_2/9.MOV" &
-dbxcli-linux-amd64 get "cityview_data_2/long_1.MOV" &
-dbxcli-linux-amd64 get "cityview_data_2/long_11.MOV" &
-dbxcli-linux-amd64 get "cityview_data_2/long_12.MOV" &
-dbxcli-linux-amd64 get "cityview_data_2/long_13.MOV" &
-dbxcli-linux-amd64 get "cityview_data_2/long_2.MOV" &
-dbxcli-linux-amd64 get "cityview_data_2/long_3.MOV" &
-dbxcli-linux-amd64 get "cityview_data_2/long_4.MOV" &
-dbxcli-linux-amd64 get "cityview_data_2/long_5.MOV" &
-dbxcli-linux-amd64 get "cityview_data_2/long_7.MOV" &
-dbxcli-linux-amd64 get "cityview_data_2/long_8.MOV" &
-dbxcli-linux-amd64 get "cityview_data_2/long_9.MOV" &
+dbxcli-linux-amd64 get "2077/12-28/Cyberpunk 2077 2025.12.28 - 17.40.24.07.mp4" &
+dbxcli-linux-amd64 get "2077/12-28/Cyberpunk 2077 2025.12.28 - 17.46.56.08.mp4" &
+dbxcli-linux-amd64 get "2077/12-28/Cyberpunk 2077 2025.12.28 - 17.51.56.09.mp4" &
+dbxcli-linux-amd64 get "2077/12-28/Cyberpunk 2077 2025.12.28 - 17.53.55.10.mp4" &
+dbxcli-linux-amd64 get "2077/12-28/Cyberpunk 2077 2025.12.28 - 17.58.58.11.mp4" &
+dbxcli-linux-amd64 get "2077/12-28/Cyberpunk 2077 2025.12.28 - 18.02.55.12.mp4" &
+dbxcli-linux-amd64 get "2077/12-28/Cyberpunk 2077 2025.12.28 - 20.58.53.13.mp4" &
+dbxcli-linux-amd64 get "2077/12-28/Cyberpunk 2077 2025.12.28 - 21.04.12.14.mp4" &
+dbxcli-linux-amd64 get "2077/12-28/Cyberpunk 2077 2025.12.28 - 21.12.48.15.mp4" &
+dbxcli-linux-amd64 get "2077/12-28/Cyberpunk 2077 2025.12.28 - 22.06.27.26.mp4" &
+dbxcli-linux-amd64 get "2077/12-28/Cyberpunk 2077 2025.12.28 - 22.12.06.27.mp4" &
+dbxcli-linux-amd64 get "2077/12-28/Cyberpunk 2077 2025.12.28 - 22.17.15.28.mp4" &
 
 wait
+rename 's/[^a-zA-Z0-9._-]//g' *
