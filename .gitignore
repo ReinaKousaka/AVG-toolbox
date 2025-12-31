@@ -179,3 +179,5 @@ csrc/include/
 temp*
 *.png
 *.MOV
+*.pth
+*.csv

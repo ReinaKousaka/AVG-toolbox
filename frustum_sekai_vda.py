@@ -23,6 +23,7 @@ import subprocess
 import numpy as np
 from typing import List, Tuple, Optional
 from tqdm import tqdm
+from skvideo.io import vwrite
 
 # --- plotting & utils (unchanged from original where possible)
 import matplotlib
@@ -76,8 +77,16 @@ def fill_inf_with_neighbor_mean(a: np.ndarray, max_iters: int = 10):
 
 def ensure_pixel_intrinsics(K: np.ndarray, W: int, H: int) -> np.ndarray:
     K = K.copy().astype(float)
-    if len(K.shape) > 2:
+    if len(K.shape) > 2 or K.shape != (3, 3):
         K = K[0]
+    if K.shape != (3, 3):
+        K_base = np.eye(3, dtype=float)
+        K_base[0, 0] = K[0]
+        K_base[1, 1] = K[1]
+        K_base[0, 2] = K[2]
+        K_base[1, 2] = K[3]
+        K = K_base
+
     if K[0, 2] <= 2 and K[1, 2] <= 2 and K[0, 0] <= 2 and K[1, 1] <= 2:
         K[0, 0] *= W
         K[1, 1] *= H
@@ -1776,7 +1785,7 @@ def _write_grouped_diff_video(
         assign_a_sel = np.full((T, Hc, Wc, 1), np.nan, dtype=np.float32)
         assign_b_sel = np.full((T, Hc, Wc, 2), 30000, dtype=np.int16)
         for t_key, patches in grouped_info_dict.items():
-            print(t_key)
+            # print(t_key)
             if isinstance(patches, np.ndarray):
                 patches = patches.item()
             t_idx = _safe_int(t_key)
@@ -1809,13 +1818,13 @@ def _write_grouped_diff_video(
     if frames_full:
         H_from_video, W_from_video = frames_full[0].shape[:2]
 
-    # if img_size is not None:
-    #     H, W = img_size
-    # elif H_from_video is not None and W_from_video is not None:
-    #     H, W = H_from_video, W_from_video
-    # else:
-    H = max(cell_px * Hc, 1)
-    W = max(cell_px * Wc, 1)
+    if img_size is not None:
+        H, W = img_size
+    elif H_from_video is not None and W_from_video is not None:
+        H, W = H_from_video, W_from_video
+    else:
+        H = max(cell_px * Hc, 1)
+        W = max(cell_px * Wc, 1)
     cell_px = max(1, min(H // max(Hc, 1), W // max(Wc, 1)))
 
     raw_video = frames_full[:] if frames_full else None
@@ -1823,8 +1832,6 @@ def _write_grouped_diff_video(
         raw_video = raw_video[:clip_video]
     if raw_video is None or len(raw_video) == 0:
         raw_video = [np.zeros((H, W, 3), dtype=np.uint8) for _ in range(max(T, 1))]
-    raw_video = [cv2.resize(raw_video[t % len(raw_video)], (W, H)) for t in range(T)]
-    raw_video = np.array(raw_video, dtype=np.uint8)
 
     def _render_single(
         assign_n_src,
@@ -2033,7 +2040,7 @@ def _write_grouped_diff_video(
     #     )
 
 
-import OpenEXR, Imath
+# import OpenEXR, Imath
 from pathlib import Path
 import zipfile, tempfile
 
@@ -2128,6 +2135,19 @@ def decode_rgb_to_depth_bitpack(img_bgr):
     # 转回米
     depth_m = depth_mm.astype(np.float32) / 1000.0
     return depth_m
+
+
+def crop_resize_depth_if_required(depth, pathify_size):
+    height, width = depth.shape[1], depth.shape[2]
+    new_height = width / pathify_size[1] * pathify_size[0]
+    new_height = int((new_height // 2) * 2)
+    if abs(new_height - height) < 4:
+        return depth
+    else:
+        top = int((height - new_height) / 2)
+        bottom = int(top + new_height)
+        depth = depth[:, top:bottom, :]
+    return depth
 
 
 def process_single_video(
@@ -2234,14 +2254,10 @@ def process_single_video(
             return val
         return val
 
-    if megasam_path is None:
-        # intrinsic_path = os.path.join(video_dir, name + ".npz")
-        cam_param_path = os.path.join(video_dir, name + ".npz")
-        # dep_path = os.path.join(depths_path, name + ".zip")
-        # viz_png = os.path.join(
-        #     saving_base_path, f"{name}_sparse3d_{pathify_size[0]}x{pathify_size[1]}.png"
-        # )
-        # intrinsic = np.load(intrinsic_path)[0]
+    if True:
+        # cam_data_path = os.path.join(cam_dir, name + ".npz")
+        # cam_data = np.load(cam_data_path)
+        intrinsic = np.load(os.path.join(cam_dir, "intrinsics", name + ".npz"))["data"]
         # intrinsic = np.array(
         #     [
         #         [fxfycxcy[0], 0, fxfycxcy[2]],
@@ -2250,17 +2266,19 @@ def process_single_video(
         #     ],
         #     dtype=np.float32,
         # )
-        cam_param = np.load(cam_param_path)
-        intrinsic = cam_param["intrinsic"]
-        extrinsic = cam_param["extrinsic"]
+        extrinsic = np.load(os.path.join(cam_dir, "pose", name + ".npz"))["data"]
         # depths = _load_depth_npz_auto(dep_path).astype(np.float32) * float(depth_scale)
-        raw_depths = np.load(os.path.join(depths_path, name + "_depth_da3nested.npy"))
+        if os.path.exists(os.path.join(depths_path, name + "_depths.npz")):
+            raw_depths = np.load(os.path.join(depths_path, name + "_depths.npz"))[
+                "depths"
+            ]
         # 根据存储格式选择是否解码
         if raw_depths.dtype == np.uint8:
             raw_depths = decode_rgb_to_depth_bitpack(raw_depths).astype(np.float32)
         elif raw_depths.dtype != np.float32:
             raw_depths = raw_depths.astype(np.float32)
         # depths = _sharpen_depths_with_guided_filter(raw_depths)
+        raw_depths = crop_resize_depth_if_required(raw_depths, pathify_size)
         depths = raw_depths
 
     else:
@@ -2269,14 +2287,6 @@ def process_single_video(
         extrinsic = data["cam_c2w"]
         depths = (data["depths"] * float(depth_scale)).astype(np.float32)
         depths = _sharpen_depths_with_guided_filter(depths)
-    # save_video(
-    #     os.path.join(saving_base_path, f"{name}_origin_depth.mp4"),
-    #     np.clip((raw_depths * 3), 0, 255).astype(np.uint8)[..., None].repeat(3, -1),
-    # )
-    # save_video(
-    #     os.path.join(saving_base_path, f"{name}_sharpened_depth.mp4"),
-    #     np.clip((depths * 3), 0, 255).astype(np.uint8)[..., None].repeat(3, -1),
-    # )
     if os.path.exists(out_npz) and not overwrite:
         meta = {
             "Hc": pathify_size[0],
@@ -2382,12 +2392,6 @@ def process_single_video(
         os.makedirs(saving_base_path, exist_ok=True)
         np.savez_compressed(
             out_npz,
-            # assign_n=assign_n,
-            # assign_hs=assign_hs,
-            # assign_ws=assign_ws,
-            # assign_angles=assign_angles,
-            # CAM_result=CAM_result,
-            # **meta,
             **grouped_info_dict,
         )
         # with open(out_npz.replace(".npz", ".json"), "w") as jf:
@@ -2402,7 +2406,16 @@ def process_single_video(
     else:
         group_selection_mode_meta = str(group_selection_mode_meta)
     grouped_info_dict = grouped_info_dict or {}
-
+    save_depths = depths.copy()[:, ::point_stride, ::point_stride]
+    save_depths_dict = {}
+    for ide, dep in enumerate(save_depths):
+        save_depths_dict[f"depth_{ide:05d}"] = dep.astype(np.float16)
+    np.savez_compressed(
+        out_npz.replace("frustum.npz", "depth.npz"),
+        **save_depths_dict,
+    )
+    save_depths_verbose = np.clip(save_depths, 0, 255).astype(np.uint8)
+    vwrite(out_npz.replace("frustum.npz", "depth.mp4"), save_depths_verbose)
     if verbose and random.uniform(0, 1) <= verbose_prob:
         _write_grouped_diff_video(
             video_path,
@@ -2680,6 +2693,9 @@ if __name__ == "__main__":
         "-or", "--overwrite", action="store_true", help="是否覆盖已存在的输出文件"
     )
     parser.add_argument(
+        "-v", "--verbose", action="store_true", help="是否覆盖已存在的输出文件"
+    )
+    parser.add_argument(
         "-ps", "--point_stride", type=int, default=8, help="是否覆盖已存在的输出文件"
     )
     parser.add_argument(
@@ -2708,7 +2724,7 @@ if __name__ == "__main__":
         batch_process_overlap_multiprocessing(
             video_path=video_dir,
             saving_path=out_dir,
-            cam_dir=depth_dir,
+            cam_dir=cam_dir,
             depths_path=depth_dir,
             assign_name=args.assign_name,
             megasam_path=None,
@@ -2718,7 +2734,7 @@ if __name__ == "__main__":
             topk_per_query=1,
             is_c2w=True,
             axis_order="xyz",
-            trans_scale=100,
+            trans_scale=1,
             depth_scale=1,
             flip_up_sign=False,
             img_size=None,
@@ -2726,10 +2742,10 @@ if __name__ == "__main__":
             point_stride=3,
             overwrite=args.overwrite,
             write_related=False,
-            verbose=True,
+            verbose=args.verbose,
             verbose_prob=args.verbose_prob,
             overlay_text=True,
-            cell_px=16,
+            cell_px=3,
             video_fps=24,
             clip_length=args.clip_num,
             occ_block_range=[0.9, 1.1],
