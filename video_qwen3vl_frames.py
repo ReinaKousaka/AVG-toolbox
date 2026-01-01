@@ -231,9 +231,9 @@ def summarize_video_by_frames(
             frames,
             model,
             processor,
-            prompt=f"Referring to the description of the first frame description I provided : [start first frame description]{detailed_first}[end first frame description], describe the appearance and movement of objects in the video in around 80 English words, paying particular attention to moving objects. Describe the motion of all moving objects in the video, especially those appearing in the first frame and their subsequent motion. Also, paying attention to describe objects that newly appears in the subsequent frames on their appearence and dynamic. Do not include any camera-related content or descriptions of camera or photographer movement in your reply. Also, do not include descriptions of the overall video information. Avoid starting with lengthy phrases such as [in the subsequent frame] or [in the video] Get straight to describing the objects and movements in your response. Also, when no moving object is observed in the scene, DO NOT write [no movement is observed] or similar sentences, instead, describe the static objects in more detail.",
+            prompt=f"Referring to the description of the first frame description: [start first frame description]{detailed_first}[end first frame description], describe the appearance and movement of objects in the video in around 80 English words, paying particular attention to moving objects in the video. Use the approximate position of moving objects relative to the photographer to describe their movement within the frame. Note that some objects may not move in world coordinates, but due to camera movement, they appear to move in frame coordinates. Do not describe the frame coordinate movement of these objects. Always only describe objects that move in world coordinates. Also, paying attention to describe objects that newly appears in the subsequent frames on their appearence and movement. Do not include any detailed camera or photographer movement, for example, you can say [camera pans] or [camera move], but don't specify direction and rotation such as [camera pans left] or [camera moves forward]. Also, do not include descriptions of the overall video information such as moods, lights and atmosphere. Avoid starting with lengthy phrases such as [in the subsequent frame] or [in the video] Get straight to describing the objects and movements in your response. Also, when no moving object is observed in the scene, DO NOT write [no movement is observed] or [the scene is static] or similar sentences, instead, describe the static objects in more detail.",
             num_tokens=128,
-            max_images=100,
+            max_images=len(frames),
         )
         detailed_dynamic = detailed_dynamic.replace("\n", " ").replace("\r", " ")
         for anno_idx in list(range(chunk[0], chunk[-1])):
@@ -254,9 +254,9 @@ def summarize_video_by_frames(
             block_frames,
             model,
             processor,
-            prompt=f"describe the appearance and movement of objects in the video in around 200 English words, paying particular attention to moving objects. Describe the objects and their movements in the video briefly. Do not include any camera-related content or descriptions of camera movement in your reply. Avoid describe the overall mood and atmosphere of the video. Avoid starting with lengthy phrases such as [in the frames] or [in the video] Get straight to describing the objects and movements in your response. Also, when no moving object is observed in the scene, DO NOT write [no movement is observed] or similar sentences, instead, describe the static objects in more detail.",
-            num_tokens=256,
-            max_images=12,
+            prompt=f"describe the appearance and movement of objects in the video in around 100 English words, paying particular attention to moving objects. Describe the objects and their movements in the video briefly. Do not include any camera-related content or descriptions of camera movement in your reply. Avoid describe the overall mood and atmosphere of the video. Avoid starting with lengthy phrases such as [in the frames] or [in the video] Get straight to describing the objects and movements in your response. Also, when no moving object is observed in the scene, DO NOT write [no movement is observed] or similar sentences, instead, describe the static objects in more detail.",
+            num_tokens=128,
+            max_images=8,
         )
         simple = simple_dynamic.replace("\n", " ").replace("\r", " ")
         end = time.time()

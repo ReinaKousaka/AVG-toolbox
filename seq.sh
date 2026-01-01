@@ -26,22 +26,18 @@
 #         "$output_file"
 # done
 
-# python video60forceto30.py 2077-12-28 raw_2077-12-28_30fps
+python video60forceto30.py cityview_1 raw_cityview-1_30fps
 
-# python split_videos.py --input_dir raw_2077-12-28_30fps   --output_dir raw_2077-12-28_576p   --drop_seconds 5    --resize 1120x630   --sample_ratio 1    --crop 1024x576 --interval_frames 2000  --crf 18    --preset slow --keep_temp false -j 20
+python split_videos.py --input_dir raw_cityview-1_30fps   --output_dir raw_cityview-1_576p   --drop_seconds 5    --resize 1120x630   --sample_ratio 1    --crop 1024x576 --interval_frames 2000  --crf 18    --preset slow --keep_temp false -j 20 && python 576pto448p.py --folders raw_cityview-1_576p --workers 32 --overwrite
 
 
 
-# python 576pto448p.py --folders raw_2077-12-28_576p --workers 32 --overwrite
+export CUDA_VISIBLE_DEVICES="0,1,2,3" && python da3_batched_run_ray.py --input_dirs raw_cityview-1_576p --output_dir raw_cityview-1_576p_da3 --process_res 700 --pose_overlap 1 --chunk_size 501
 
-# export CUDA_VISIBLE_DEVICES="0,1,2,3" && python da3_batched_run_ray.py --input_dirs raw_2077-12-28_576p --output_dir raw_2077-12-28_576p_da3 --process_res 700 --pose_overlap 1 --chunk_size 501
+python copy_file.py
 
-# python copy_file.py
+# export CUDA_VISIBLE_DEVICES="0,1,2,3" &&  python batch_frustum.py raw_cityview-1_576p 4 frustum_vipe_da3.py --gpu-list 0,1,2,3 --extra "--cam_dir raw_cityview-1_576p_da3 --depth_dir raw_cityview-1_576p_da3 --video_dir raw_cityview-1_576p -o raw_cityview-1_576p_frustum -ps 5 -pw 64 -ph 36 -hrz 1000"
 
-# export CUDA_VISIBLE_DEVICES="0,1,2,3" &&  python batch_frustum.py raw_2077-12-28_576p 4 frustum_vipe_da3.py --gpu-list 0,1,2,3 --extra "--cam_dir raw_2077-12-28_576p_da3 --depth_dir raw_2077-12-28_576p_da3 --video_dir raw_2077-12-28_576p -o raw_2077-12-28_576p_frustum -ps 5 -pw 64 -ph 36 -hrz 1000"
+export CUDA_VISIBLE_DEVICES="0,1,2,3" &&  python batch_frustum.py raw_cityview-1_448p 4 frustum_vipe_da3.py --gpu-list 0,1,2,3 --extra "--cam_dir raw_cityview-1_576p_da3 --depth_dir raw_cityview-1_576p_da3 --video_dir raw_cityview-1_448p -o raw_cityview-1_448p_frustum -ps 5 -pw 52 -ph 28 -hrz 1800"
 
-# export CUDA_VISIBLE_DEVICES="0,1,2,3" &&  python batch_frustum.py raw_2077-12-28_448p 4 frustum_vipe_da3.py --gpu-list 0,1,2,3 --extra "--cam_dir raw_2077-12-28_576p_da3 --depth_dir raw_2077-12-28_576p_da3 --video_dir raw_2077-12-28_448p -o raw_2077-12-28_448p_frustum -ps 5 -pw 52 -ph 28 -hrz 1800"
-
-# export CUDA_VISIBLE_DEVICES="4,5,6,7" &&  python video_qwen3vl_frames.py    --input_dir raw_2077-12-2_576p   --out_dir  raw_2077-12-2_576p_prompt_2   --model_id Qwen/Qwen3-VL-30B-A3B-Instruct --downscale_ratio 0.5   --num_gpus 4
-
-export CUDA_VISIBLE_DEVICES="0,1,2,3,4,5,6,7" &&  python video_qwen3vl_frames.py    --input_dir raw_2077-12-2_576p   --out_dir  raw_2077-12-2_576p_prompt_2   --model_id Qwen/Qwen3-VL-30B-A3B-Instruct --downscale_ratio 0.4   --num_gpus 8
+# export CUDA_VISIBLE_DEVICES="0,1,2,3,4,5,6,7" &&  python video_qwen3vl_frames.py    --input_dir raw_cityview-1_576p   --out_dir  raw_cityview-1_prompt   --model_id Qwen/Qwen3-VL-30B-A3B-Instruct --downscale_ratio 0.4   --num_gpus 8 --detail_chunk 8 --frame_interval 12
