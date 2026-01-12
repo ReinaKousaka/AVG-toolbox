@@ -144,9 +144,11 @@ def summarize_segment_with_qwen3_vl(
 
 
 def chunk_with_stride(seq, chunk_size=3, stride=2):
-    return [
+    chunk = [
         seq[i : i + chunk_size] for i in range(0, len(seq) - chunk_size + 1, stride)
     ]
+    chunk.append([chunk[-1][-1], seq[-1]])
+    return chunk
 
 
 def summarize_video_by_frames(
@@ -185,30 +187,28 @@ def summarize_video_by_frames(
             break
 
         # 按比例下采样
-        if downscale_ratio != 1.0:
+        if True:
             h, w = frame.shape[:2]
-            new_w = max(1, int(w * downscale_ratio))
-            new_h = max(1, int(h * downscale_ratio))
-            frame = cv2.resize(frame, (new_w, new_h), interpolation=cv2.INTER_AREA)
+            new_w = max(1, int(w * downscale_ratio) // 2 * 2)
+            new_h = max(1, int(h * downscale_ratio) // 2 * 2)
+            frame = cv2.resize(
+                frame,
+                (new_w, new_h),
+                interpolation=cv2.INTER_AREA,
+            )
 
+            simple_frame = cv2.resize(
+                frame,
+                (int(w * 0.5) // 2 * 2, int(h * 0.5) // 2 * 2),
+                interpolation=cv2.INTER_AREA,
+            )
         extracted_frames[target_idx] = frame
+        simple_frames[target_idx] = simple_frame
+
     chunks = chunk_with_stride(
         chunk_size=detail_chunk, seq=frame_indices, stride=detail_chunk - 1
     )
-    for target_idx in tqdm(frame_indices):
-        cap.set(cv2.CAP_PROP_POS_FRAMES, target_idx)
-        ok, frame = cap.read()
-        if not ok:
-            break
-
-        # 按比例下采样
-        if downscale_ratio != 1.0:
-            h, w = frame.shape[:2]
-            new_w = max(1, int(w * 0.25))
-            new_h = max(1, int(h * 0.25))
-            frame = cv2.resize(frame, (new_w, new_h), interpolation=cv2.INTER_AREA)
-
-        simple_frames[target_idx] = frame
+    print(f"chunks: {chunks}")
     cap.release()
 
     # 对每一帧进行详细标注
@@ -216,26 +216,31 @@ def summarize_video_by_frames(
     annotations["detailed"] = {}
     frame_list = sorted(extracted_frames.keys())
     is_debug = False
+    print(f"Total detail chunks: {len(chunks)}")
+    # chunks = chunks[:5]
     for chunk in tqdm(chunks):
         frames = [extracted_frames[idx] for idx in chunk]
+        simple_temp_frames = [simple_frames[idx] for idx in chunk]
         detailed_first = summarize_segment_with_qwen3_vl(
             [frames[0]],
             model,
             processor,
-            prompt=f"Please summarize the content of the image. Provide a concise summary of approximately 100 English words. Most words should describe the objects in the video in detail, including their shape, color, texture & material and words if visible, as well as their approximate location in the frame. Then use only very few words to briefly describe the atmosphere, lighting, and other overall information of the image. Avoid starting with lengthy phrases such as [in the picture] or [this is a picture] Get straight to describing the objects.",
-            num_tokens=128,
+            prompt=f"Please summarize the content of the image. Provide a concise within 130 English words. Most words should describe the objects in the video in detail, including their shape, color, texture & material and words if visible, as well as their approximate location in the frame. Then use only very few words to briefly describe the atmosphere, lighting, and other overall information of the image. Avoid starting with lengthy phrases such as [in the picture] or [this is a picture] Get straight to describing the objects.",
+            num_tokens=200,
             max_images=1,
         )
         detailed_first = detailed_first.replace("\n", " ").replace("\r", " ")
         detailed_dynamic = summarize_segment_with_qwen3_vl(
-            frames,
+            simple_temp_frames,
             model,
             processor,
-            prompt=f"Referring to the description of the first frame description: [start first frame description]{detailed_first}[end first frame description], describe the appearance and movement of objects in the video in around 80 English words, paying particular attention to moving objects in the video. Use the approximate position of moving objects relative to the photographer to describe their movement within the frame. Note that some objects may not move in world coordinates, but due to camera movement, they appear to move in frame coordinates. Do not describe the frame coordinate movement of these objects. Always only describe objects that move in world coordinates. Also, paying attention to describe objects that newly appears in the subsequent frames on their appearence and movement. Do not include any detailed camera or photographer movement, for example, you can say [camera pans] or [camera move], but don't specify direction and rotation such as [camera pans left] or [camera moves forward]. Also, do not include descriptions of the overall video information such as moods, lights and atmosphere. Avoid starting with lengthy phrases such as [in the subsequent frame] or [in the video] Get straight to describing the objects and movements in your response. Also, when no moving object is observed in the scene, DO NOT write [no movement is observed] or [the scene is static] or similar sentences, instead, describe the static objects in more detail.",
-            num_tokens=128,
-            max_images=len(frames),
+            prompt=f"Referring to the description of the first frame description: [start first frame description]{detailed_first}[end first frame description], describe the appearance and movement of objects in the video within 130 English words. DO NOT include descriptions of the overall video information such as moods, lights and atmosphere. DO NOT start with lengthy phrases such as [in the subsequent frame] or [in the video], get straight to describing the objects and movements. Also, when no moving object is observed in the scene, DO NOT write [no movement is observed] or [the scene is static] or [xxx remain static / still] or any similar sentences, instead, describe the scene in more detailed appearances. Assume common world knowledge: Buildings, roads, and large structures of the scene are static by default. Do not explicitly state their lack of motion, describe MORE about their appearances. DO NOT include any words related to camera.",
+            num_tokens=200,
+            max_images=4,
         )
         detailed_dynamic = detailed_dynamic.replace("\n", " ").replace("\r", " ")
+        print(f"detailed_first: {detailed_first}")
+        print(f"detailed_dynamic: {detailed_dynamic}")
         for anno_idx in list(range(chunk[0], chunk[-1])):
             annotations["detailed"][f"{anno_idx}"] = {
                 "start": detailed_first,
@@ -245,32 +250,32 @@ def summarize_video_by_frames(
             break
     annotations["simple"] = {}
     # 对每个 block 生成简单标注
-    for block_start_idx in range(0, len(frame_list), simple_block_size):
-        block_end_idx = min(block_start_idx + simple_block_size, len(frame_list))
-        block_frames_indices = frame_list[block_start_idx:block_end_idx]
-        block_frames = [simple_frames[idx] for idx in block_frames_indices]
-        start = time.time()
-        simple_dynamic = summarize_segment_with_qwen3_vl(
-            block_frames,
-            model,
-            processor,
-            prompt=f"describe the appearance and movement of objects in the video in around 100 English words, paying particular attention to moving objects. Describe the objects and their movements in the video briefly. Do not include any camera-related content or descriptions of camera movement in your reply. Avoid describe the overall mood and atmosphere of the video. Avoid starting with lengthy phrases such as [in the frames] or [in the video] Get straight to describing the objects and movements in your response. Also, when no moving object is observed in the scene, DO NOT write [no movement is observed] or similar sentences, instead, describe the static objects in more detail.",
-            num_tokens=128,
-            max_images=8,
-        )
-        simple = simple_dynamic.replace("\n", " ").replace("\r", " ")
-        end = time.time()
-        print(
-            f"Block {block_frames_indices} simple annotation took {end - start:.2f}s: [start] {simple_dynamic}, [dynamic] {simple_dynamic}"
-        )
+    # for block_start_idx in range(0, len(frame_list), simple_block_size):
+    #     block_end_idx = min(block_start_idx + simple_block_size, len(frame_list))
+    #     block_frames_indices = frame_list[block_start_idx:block_end_idx]
+    #     block_frames = [simple_frames[idx] for idx in block_frames_indices]
+    #     start = time.time()
+    #     simple_dynamic = summarize_segment_with_qwen3_vl(
+    #         block_frames,
+    #         model,
+    #         processor,
+    #         prompt=f"describe the appearance and movement of objects in the video in around 100 English words, paying particular attention to moving objects. Describe the objects and their movements in the video briefly. Do not include any camera-related content or descriptions of camera movement in your reply. Avoid describe the overall mood and atmosphere of the video. Avoid starting with lengthy phrases such as [in the frames] or [in the video] Get straight to describing the objects and movements in your response. Also, when no moving object is observed in the scene, DO NOT write [no movement is observed] or similar sentences, instead, describe the static objects in more detail.",
+    #         num_tokens=128,
+    #         max_images=8,
+    #     )
+    #     simple = simple_dynamic.replace("\n", " ").replace("\r", " ")
+    #     end = time.time()
+    #     print(
+    #         f"Block {block_frames_indices} simple annotation took {end - start:.2f}s: [start] {simple_dynamic}, [dynamic] {simple_dynamic}"
+    #     )
 
-        # 将简单标注赋给这个 block 的所有帧
-        for anno_idx in list(range(block_frames_indices[0], block_frames_indices[-1])):
-            annotations["simple"][str(anno_idx)] = {
-                "simple": simple,
-            }
-        if is_debug:
-            break
+    #     # 将简单标注赋给这个 block 的所有帧
+    #     for anno_idx in list(range(block_frames_indices[0], block_frames_indices[-1])):
+    #         annotations["simple"][str(anno_idx)] = {
+    #             "simple": simple,
+    #         }
+    #     if is_debug:
+    #         break
     return annotations, extracted_frames
 
 
@@ -304,14 +309,15 @@ def create_annotated_video(
         text_area = np.zeros_like(frame_resized)
         text_area = text_area.repeat(2, axis=1)
         if (
-            f"{frame_key}" not in annotations["detailed"]
-            or f"{frame_key}" not in annotations["simple"]
+            f"{frame_key}"
+            not in annotations["detailed"]
+            # or f"{frame_key}" not in annotations["simple"]
         ):
             continue
         detailed_annotation = list(annotations["detailed"].get(f"{frame_key}").values())
-        detailed_annotation = " [detailed sep] ".join(detailed_annotation)
-        simple_annotation = annotations["simple"][f"{frame_key}"]["simple"]
-        annotation = detailed_annotation + " [simple sep] " + simple_annotation
+        detailed_annotation = " [***** DYNAMIC ******] ".join(detailed_annotation)
+        simple_annotation = ""  # annotations["simple"][f"{frame_key}"]["simple"]
+        annotation = detailed_annotation  # + " [simple sep] " + simple_annotation
 
         # 使用 detailed 标注作为显示文本
         text = annotation
