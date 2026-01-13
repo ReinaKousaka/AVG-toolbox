@@ -1,43 +1,46 @@
-# mkdir kcd
-# mv KingdomCome* kcd/
+# export CUDA_VISIBLE_DEVICES=0,1,2,3,4,5,6,7 && python da3_batched_run_ray.py --input_dirs V_real_344p --output_dir V_real_344p_da3 --process_res 504 --pose_overlap 1 --chunk_size 501
 
-#!/usr/bin/env bash
+# export CUDA_VISIBLE_DEVICES=0,1,2,3,4,5,6,7 && python da3_batched_run_ray.py --input_dirs sekai-real-walking_448p --output_dir sekai-real-walking_448p_da3 --process_res 504 --pose_overlap 1 --chunk_size 501
 
-# 输入和输出文件夹
-# INPUT_DIR="kcd2"
-# OUTPUT_DIR="raw_jersey_301fps"
+# export CUDA_VISIBLE_DEVICES="0,1,2,3,4,5,6,7" &&  python batch_frustum.py V_sim_448p 8 frustum_vipe_da3.py --gpu-list 0,1,2,3,4,5,6,7 --extra "--cam_dir V_sim_344p_da3 --depth_dir V_sim_344p_da3 --video_dir V_sim_448p -o V_sim_448p_frustum -or -ps 5 -pw 52 -ph 28 -hrz 1000 -v"
 
-# # 创建输出文件夹（如果不存在）
-# mkdir -p "$OUTPUT_DIR"
+# export CUDA_VISIBLE_DEVICES="0,1,2,3,4,5,6,7" &&  python video_qwen3vl_frames.py    --input_dir V_real_344p   --out_dir V_real_344p_prompt   --model_id Qwen/Qwen3-VL-30B-A3B-Instruct --downscale_ratio 1   --num_gpus 8 --detail_chunk 11 --frame_interval 8
 
-# # 遍历所有 mp4 文件
-# for input_file in "$INPUT_DIR"/*.mp4; do
-#     # 取得文件名
-#     filename=$(basename "$input_file")
+# zip -r V_real_344p_da3.zip V_real_344p_da3 &
+# zip -r V_sim_344p_da3.zip V_sim_344p_da3 &
+# zip -r sekai-real-walking_448p_da3.zip sekai-real-walking_448p_da3 &
 
-#     # 输出路径
-#     output_file="$OUTPUT_DIR/$filename"
+# wait
 
-#     echo "Processing: $input_file -> $output_file"
+# split -b 20G V_real_344p_da3.zip V_real_344p_da3.zip.part_ &
+# split -b 20G V_sim_344p_da3.zip V_sim_344p_da3.zip.part_ &
+# split -b 20G sekai-real-walking_448p_da3.zip sekai-real-walking_448p_da3.zip.part_ &
 
-#     ffmpeg -y -i "$input_file" \
-#         -vf "setpts=2*PTS,fps=30" \
-#         -an \
-#         "$output_file"
-# done
+# wait
 
-python video60forceto30.py cityview_1 raw_cityview-1_30fps
+dbxcli-linux-amd64 put "sekai-real-walking_448p_da3.zip.part_aa" &
+dbxcli-linux-amd64 put "sekai-real-walking_448p_da3.zip.part_ab" &
+dbxcli-linux-amd64 put "sekai-real-walking_448p_da3.zip.part_ac" &
+dbxcli-linux-amd64 put "sekai-real-walking_448p_da3.zip.part_ad" &
+dbxcli-linux-amd64 put "sekai-real-walking_448p_da3.zip.part_ae" &
+dbxcli-linux-amd64 put "sekai-real-walking_448p_da3.zip.part_af" &
+wait
 
-python split_videos.py --input_dir raw_cityview-1_30fps   --output_dir raw_cityview-1_576p   --drop_seconds 5    --resize 1120x630   --sample_ratio 1    --crop 1024x576 --interval_frames 2000  --crf 18    --preset slow --keep_temp false -j 20 && python 576pto448p.py --folders raw_cityview-1_576p --workers 32 --overwrite
+dbxcli-linux-amd64 put "V_real_344p_da3.zip.part_aa" &
+dbxcli-linux-amd64 put "V_real_344p_da3.zip.part_ab" &
+dbxcli-linux-amd64 put "V_real_344p_da3.zip.part_ac" &
+dbxcli-linux-amd64 put "V_real_344p_da3.zip.part_ad" &
+dbxcli-linux-amd64 put "V_real_344p_da3.zip.part_ae" &
+dbxcli-linux-amd64 put "V_real_344p_da3.zip.part_af" &
+dbxcli-linux-amd64 put "V_real_344p_da3.zip.part_ag" &
+dbxcli-linux-amd64 put "V_real_344p_da3.zip.part_ah" &
+wait
 
-
-
-export CUDA_VISIBLE_DEVICES="0,1,2,3" && python da3_batched_run_ray.py --input_dirs raw_cityview-1_576p --output_dir raw_cityview-1_576p_da3 --process_res 700 --pose_overlap 1 --chunk_size 501
-
-python copy_file.py
-
-# export CUDA_VISIBLE_DEVICES="0,1,2,3" &&  python batch_frustum.py raw_cityview-1_576p 4 frustum_vipe_da3.py --gpu-list 0,1,2,3 --extra "--cam_dir raw_cityview-1_576p_da3 --depth_dir raw_cityview-1_576p_da3 --video_dir raw_cityview-1_576p -o raw_cityview-1_576p_frustum -ps 5 -pw 64 -ph 36 -hrz 1000"
-
-export CUDA_VISIBLE_DEVICES="0,1,2,3" &&  python batch_frustum.py raw_cityview-1_448p 4 frustum_vipe_da3.py --gpu-list 0,1,2,3 --extra "--cam_dir raw_cityview-1_576p_da3 --depth_dir raw_cityview-1_576p_da3 --video_dir raw_cityview-1_448p -o raw_cityview-1_448p_frustum -ps 5 -pw 52 -ph 28 -hrz 1800"
-
-# export CUDA_VISIBLE_DEVICES="0,1,2,3,4,5,6,7" &&  python video_qwen3vl_frames.py    --input_dir raw_cityview-1_576p   --out_dir  raw_cityview-1_prompt   --model_id Qwen/Qwen3-VL-30B-A3B-Instruct --downscale_ratio 0.4   --num_gpus 8 --detail_chunk 8 --frame_interval 12
+dbxcli-linux-amd64 put "V_sim_344p_da3.zip.part_aa" &
+dbxcli-linux-amd64 put "V_sim_344p_da3.zip.part_ab" &
+dbxcli-linux-amd64 put "V_sim_344p_da3.zip.part_ac" &
+dbxcli-linux-amd64 put "V_sim_344p_da3.zip.part_ad" &
+dbxcli-linux-amd64 put "V_sim_344p_da3.zip.part_ae" &
+dbxcli-linux-amd64 put "V_sim_344p_da3.zip.part_af" &
+dbxcli-linux-amd64 put "V_sim_344p_da3.zip.part_ag" &
+wait

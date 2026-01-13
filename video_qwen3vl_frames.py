@@ -470,7 +470,18 @@ def run_multi_gpu(
     video_paths = sorted(str(p) for p in input_path.glob("*.mp4"))
     if not video_paths:
         raise ValueError(f"在目录 {input_dir} 下没有找到任何 .mp4 文件")
-
+    filtered_video_paths = []
+    print(video_paths)
+    for v in video_paths:
+        if os.path.exists(
+            os.path.join(out_dir, f"{v.split('/')[-1].split('.')[0]}.json")
+        ):
+            print(f"exist {v}, skipping")
+            continue
+        else:
+            filtered_video_paths.append(v)
+    video_paths = filtered_video_paths
+    print(video_paths)
     total_videos = len(video_paths)
 
     # 自动检测 GPU 数量

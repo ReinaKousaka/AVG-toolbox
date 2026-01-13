@@ -3,7 +3,5 @@ pip uninstall -y flash-attn
 
 git clone --recursive https://github.com/Dao-AILab/flash-attention.git
 cd flash-attention
-
-export MAX_JOBS=64
-export OMP_NUM_THREADS=1
-pip install . --no-build-isolation --no-cache-dir -v
+export TORCH_CUDA_ARCH_LIST="9.0"
+export MAX_JOBS=64 && pip install flash-attn==2.7.4.post1 --no-build-isolation

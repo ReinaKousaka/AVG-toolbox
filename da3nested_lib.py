@@ -178,8 +178,11 @@ class DA3NestedVideoWorker:
         print(f"  -> extrinsics npy : {extr_npy_path}")
         print(f"  -> depth video    : {depth_video_path}")
         print(f"  -> device         : {self.device}")
-
-        vr = VideoReader(video_path, ctx=cpu(0))
+        try:
+            vr = VideoReader(video_path, ctx=cpu(0))
+        except Exception as e:
+            print(f"  [Error] Failed to open video: {e}")
+            return
         num_frames = len(vr)
         print(f"  Total frames: {num_frames}")
 
@@ -334,30 +337,30 @@ class DA3NestedVideoWorker:
 
             print(f"  Saved intrinsics npy : {intr_npy_path}, shape={intr_full.shape}")
             print(f"  Saved extrinsics npy : {extr_npy_path}, shape={extr_full.shape}")
-        # depth_verbose = np.concatenate(
-        #     (
-        #         (255 - np.clip(depth_full.copy() * 3, 0, 255)).astype(np.uint8)[
-        #             ..., None
-        #         ],
-        #         (np.clip(depth_full.copy() * 3, 0, 1)).astype(np.uint8)[..., None],
-        #         (np.clip(depth_full.copy() * 3, 0, 255)).astype(np.uint8)[..., None],
-        #     ),
-        #     axis=-1,
-        # )
+        depth_verbose = np.concatenate(
+            (
+                (255 - np.clip(depth_full.copy() * 3, 0, 255)).astype(np.uint8)[
+                    ..., None
+                ],
+                (np.zeros_like(depth_full.copy())).astype(np.uint8)[..., None],
+                (np.clip(depth_full.copy() * 3, 0, 255)).astype(np.uint8)[..., None],
+            ),
+            axis=-1,
+        )
         # 保存深度视频
         # depth_frames_array = np.asarray(all_bitpacked_frames, dtype=np.uint8)
         # # np.save(depth_npy_path, depth_frames_array)
         # assert depth_frames_array.shape[0] == num_frames
-        # vwrite(
-        #     depth_video_path,
-        #     depth_verbose,
-        #     outputdict={
-        #         "-vcodec": "libx264",
-        #         "-pix_fmt": "yuv420p",
-        #         "-crf": "22",
-        #         "-preset": "fast",
-        #     },
-        # )
+        vwrite(
+            depth_video_path,
+            depth_verbose,
+            outputdict={
+                "-vcodec": "libx264",
+                "-pix_fmt": "yuv420p",
+                "-crf": "22",
+                "-preset": "fast",
+            },
+        )
         # print(
         #     f"  Saved depth video    : {depth_video_path}, shape={depth_frames_array.shape}"
         # )

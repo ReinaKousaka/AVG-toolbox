@@ -2032,7 +2032,7 @@ def _write_grouped_diff_video(
     #     )
 
 
-import OpenEXR, Imath
+# import OpenEXR, Imath
 from pathlib import Path
 import zipfile, tempfile
 
@@ -2249,6 +2249,8 @@ def process_single_video(
     if megasam_path is None:
         intrinsic_path = os.path.join(cam_dir, name + "_intrinsics_da3nested.npy")
         extrinsic_path = os.path.join(cam_dir, name + "_extrinsics_da3nested.npy")
+        if not os.path.exists(intrinsic_path):
+            exit()
         # dep_path = os.path.join(depths_path, name + ".zip")
         viz_png = os.path.join(
             saving_base_path, f"{name}_sparse3d_{pathify_size[0]}x{pathify_size[1]}.png"
@@ -2278,7 +2280,7 @@ def process_single_video(
         elif raw_depths.dtype != np.float32:
             raw_depths = raw_depths.astype(np.float32)
         # depths = _sharpen_depths_with_guided_filter(raw_depths)
-        raw_depths = crop_resize_depth_if_required(raw_depths, pathify_size)
+        # raw_depths = crop_resize_depth_if_required(raw_depths, pathify_size)
         depths = raw_depths
 
     else:
