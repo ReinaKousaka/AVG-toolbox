@@ -3,7 +3,7 @@ import shutil
 from pathlib import Path
 
 
-def copy_nested_files(da3_dirs):
+def copy_nested_files(da3_dirs, hz):
     """
     da3_dirs: list[str]  # 例如 ["abc_da3", "def_da3"]
     """
@@ -18,7 +18,7 @@ def copy_nested_files(da3_dirs):
             continue
 
         # 构造对应的 frustum 目录
-        frustum_dir = Path(str(da3_path).replace("576p_da3", "_camparams"))
+        frustum_dir = Path(str(da3_path).replace(f"_{hz}", "_camparams"))
 
         if not frustum_dir.exists():
             os.makedirs(frustum_dir, exist_ok=True)
@@ -36,13 +36,24 @@ def copy_nested_files(da3_dirs):
 
 # 示例使用
 if __name__ == "__main__":
+    import argparse
+
+    parser = argparse.ArgumentParser(
+        description="Copy nested DA3 files to corresponding frustum directories."
+    )
+    parser.add_argument(
+        "hz",
+        type=str,
+        help="List of DA3 directories to process.",
+    )
+    args = parser.parse_args()
     import glob
 
-    da3_folders = glob.glob("*576p_da3")
+    da3_folders = glob.glob(f"*{args.hz}")
     da3_folders_filtered = []
     for da3_folder in da3_folders:
         if not os.path.isdir(da3_folder):
             print(f"Directory does not exist: {da3_folder}")
         else:
             da3_folders_filtered.append(da3_folder)
-    copy_nested_files(da3_folders_filtered)
+    copy_nested_files(da3_folders_filtered, args.hz)
