@@ -6,6 +6,7 @@ import glob
 import json
 import time
 from datetime import datetime
+import numpy as np
 
 da3_output_volume = modal.Volume.from_name("da3-output", create_if_missing=True)
 
@@ -73,19 +74,9 @@ def list_all_videos():
 def check_output_exists(video_path, output_dir):
     basename = os.path.basename(video_path)
     expected_output = os.path.join(
-        output_dir, basename.replace(".mp4", "_depth_da3nested.npy")
+        output_dir, basename.replace(".mp4", "_depth_da3nested.npz")
     )
-
-    if os.path.exists(expected_output):
-        try:
-            import numpy as np
-
-            data = np.load(expected_output)
-            if data.size > 0:
-                return True, data.shape
-        except:
-            pass
-    return False, None
+    return os.path.exists(expected_output)
 
 
 @app.function(
@@ -99,9 +90,8 @@ def filter_pending_videos(video_list):
     pending = []
     completed = []
     for v in video_list:
-        exists, shape = check_output_exists(v, "/output")
-        if exists:
-            completed.append((os.path.basename(v), shape))
+        if check_output_exists(v, "/output"):
+            completed.append(os.path.basename(v))
         else:
             pending.append(v)
     return pending, completed
@@ -132,10 +122,9 @@ def process_single_video(video_path: str):
     print(f"[START] {basename}")
     print(f"{'='*60}")
 
-    exists, shape = check_output_exists(video_path, "/output")
-    if exists:
-        print(f"[SKIP] Already done: {shape}")
-        return {"status": "skipped", "video": basename, "shape": shape}
+    if check_output_exists(video_path, "/output"):
+        print(f"[SKIP] Already done: {video_path}")
+        return {"status": "skipped", "video": basename}
 
     cmd = [
         "python",
@@ -145,7 +134,7 @@ def process_single_video(video_path: str):
         "--output_dir",
         "/output",
         "--chunk_size",
-        "1000",
+        "500",
         "--pose_overlap",
         "1",
         "--process_res",
@@ -183,7 +172,7 @@ def process_single_video(video_path: str):
     # commit changes to the volume
     da3_output_volume.commit()
 
-    exists, shape = check_output_exists(video_path, "/output")
+    exists = check_output_exists(video_path, "/output")
     status = "success" if (returncode == 0 and exists) else "failed"
 
     print(f"[{status.upper()}] {basename} in {elapsed:.1f}s")
@@ -193,7 +182,6 @@ def process_single_video(video_path: str):
         "video": basename,
         "time": elapsed,
         "returncode": returncode,
-        "shape": shape,
     }
 
 
@@ -215,8 +203,8 @@ def main():
     pending_videos, completed = filter_pending_videos.remote(all_videos)
 
     print(f"Completed: {len(completed)}")
-    for name, shape in completed[:5]:
-        print(f"  ✓ {name} {shape}")
+    for name in completed[:5]:
+        print(f"  ✓ {name}")
     if len(completed) > 5:
         print(f"  ... and {len(completed)-5} more")
 
@@ -232,7 +220,7 @@ def main():
 
     print(f"\n[3/4] Processing {len(pending_videos)} videos...")
 
-    batch_size = 5
+    batch_size = 10
     total = len(pending_videos)
     all_results = []
 
